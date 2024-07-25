@@ -9,6 +9,9 @@
   let composerData = {};
   let worldEvents = {};
 
+  const baseFolder =
+    process.env.NODE_ENV === "development" ? "" : "/composer-timelines";
+
   let dataByYearToDisplay = [];
 
   $: {
@@ -49,15 +52,13 @@
   }
 
   onMount(async () => {
-    const baseFolder =
-      process.env.NODE_ENV === "development" ? "" : "/composer-timelines";
     const composerListResponse = await fetch(
-      basefolder + "/data/composer_list_with_metadata.json"
+      baseFolder + "/data/composer_list_with_metadata.json"
     );
     composerListWithMetadata = await composerListResponse.json();
 
     const worldEventsResponse = await fetch(
-      basefolder + "/data/year_world_events.json"
+      baseFolder + "/data/year_world_events.json"
     );
     worldEvents = await worldEventsResponse.json();
   });
@@ -66,7 +67,9 @@
     selectedComposers = event.detail;
     for (const composer of selectedComposers) {
       if (!composerData[composer]) {
-        const response = await fetch(`/data/composer_data/${composer}.json`);
+        const response = await fetch(
+          `${baseFolder}/data/composer_data/${composer}.json`
+        );
         const data = await response.json();
         composerData = { ...composerData, [composer]: data };
       }
