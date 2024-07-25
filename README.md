@@ -1,8 +1,8 @@
 # Composer timelines
 
-This web app (live [here on Github pages]()) displays timelines of events and works for selected composers. Ever wondered what Haydn was about when Mozart composed his first symphony, what Wagner was brewing when Bizet released Carmen, or what was happening in the world the year Chopin released his Etudes? This app is for you!
+This web app (live [here on Github pages](https://zulko.github.io/composer-timelines/)) displays timelines of events and works for selected composers. Ever wondered what Haydn was about when Mozart composed his first symphony, what Wagner was brewing when Bizet released Carmen, or what was happening in the world the year Chopin released his Etudes? This app is for you!
 
-The project relies extensively on ChatGPT/GPT4 for data collection - see [this blog post]() for details.
+The project relies extensively on ChatGPT/GPT4 for data collection - see [this write-up](https://github.com/Zulko/composer-timelines/blob/main/docs/write-up.md) for details.
 
 ## Adding/requesting more composers
 

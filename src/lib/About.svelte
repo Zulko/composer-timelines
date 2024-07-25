@@ -6,14 +6,17 @@
     the world the year Chopin released his Etudes? This app is for you!
   </p>
   <p>
-    The events were collected and summarized by ChatGPT (read more <a>here</a>!)
-    and yes, they can be janky at times, but overall I found them pretty useful.
-    The compositions (and links to PDFs) are scraped from IMSLP, so only works
-    in the public domain are referenced. >.
+    The events were collected and summarized by ChatGPT (read more <a
+      href="https://github.com/Zulko/composer-timelines/blob/main/docs/write-up.md"
+      target="_blank">here</a
+    > !) and yes, they can be janky at times, but overall I found them pretty useful.
+    The compositions (and links to PDFs) are scraped from IMSLP, so only works in
+    the public domain are referenced. >.
   </p>
   <p>
-    Go to <a>the project's Github page</a> to learn more about the project and how
-    to add/request other composers.
+    Go to <a href="https://github.com/Zulko/composer-timelines" target="_blank"
+      >the project's Github page</a
+    > to learn more about the project and how to add/request other composers.
   </p>
 </div>
 

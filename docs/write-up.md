@@ -1,12 +1,12 @@
 # Building a database of classical composer's life events with ChatGPT and GPT4
 
-These are notes on the development of [this website], where users can compare the year-by-year timelines of classical composers (ever wondered what Mozart was up to when Beethoven composed his first Sonata?). I have built many such apps and I probably can do better in a couple hours than a beginner could do in a week. But now so can ChatGPT, and under a minute!
+These are notes on the development of [this website](https://zulko.github.io/composer-timelines/), where users can compare the year-by-year timelines of classical composers (ever wondered what Mozart was up to when Beethoven composed his first Sonata?). I have built many such apps and I probably can do better in a couple hours than a beginner could do in a week. But now so can ChatGPT, and under a minute!
 
 To test how close the new GPT wonderbots are from stealing all of our jobs, I tried building the project using ChatGPT/GPT4/copilot every chance I got.
 
 Synopsis:
 
-- In a jupyter notebook, using Python:
+- In a [jupyter notebook](https://github.com/Zulko/composer-timelines/blob/main/data_collection/download_data.ipynb), using Python:
   - I generate a list of composers of interests
   - I ask ChatGPT to generate a database of events (from its "memory") for these composers. But I'm too afraid to trust the results.
   - I scrape the composer wikipedia pages with GPT4 to generate a database of their life events.
