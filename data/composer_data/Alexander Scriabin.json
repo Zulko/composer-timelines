@@ -1,0 +1,642 @@
+{
+  "full_name": "Alexander Scriabin",
+  "first_names": "Alexander",
+  "last_name": "Scriabin",
+  "birth_year": 1872,
+  "death_year": 1915,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_Scriabin",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Alexander Scriabin makes his grand entrance into the world on Christmas Day, just a touch late for the holiday festivities, in Moscow. Little did his family know that he would later compose music that would leave people both awed and puzzled.",
+      "year": 1872,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Death of Mother",
+      "summary": "Sadly, when Scriabin was just one year old, his mother, a concert pianist, succumbed to tuberculosis. It was a major plot twist in his life story, as he would grow up with the piano as his main family member.",
+      "year": 1873,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Graduation from Conservatory",
+      "summary": "Graduating with the Little Gold Medal in piano performance, Scriabin decided that following all the rules of composition was boring and opted out of completing his degree in composition, which must have made his teachers shake their heads in disbelief.",
+      "year": 1892,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Debut Concert",
+      "summary": "Scriabin waltzes onto the stage in St. Petersburg, debuting as a pianist and instantly turning heads with his own compositions. The critics were charmed, proving that sometimes it pays to take center stage.",
+      "year": 1894,
+      "city": "St. Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "Marriage",
+      "summary": "In a charming union, Scriabin marries fellow pianist Vera Ivanovna Isakovich, ensuring that their family gatherings would be filled with music and perhaps a bit of dueling pianos!",
+      "year": 1897,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Relocation to Geneva",
+      "summary": "Packing his bags and leaving Russia behind, Scriabin settles into the picturesque city of Geneva. This move set the stage for some legal drama as he separates from his wife, realizing that life is too short for bad harmonies.",
+      "year": 1904,
+      "city": "Geneva",
+      "country": "Switzerland"
+    },
+    {
+      "event": "Symphony No. 3 Premiere",
+      "summary": "In a grand display of symphonic prowess, Scriabin's Symphony No. 3 receives its premiere in Paris. The locals might still be buzzing about this stunning event and Scriabin's fashionable flair!",
+      "year": 1905,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Return to Russia",
+      "summary": "After a worldly tour, Scriabin returns to Russia, ready to unleash even more ambitious works on the unsuspecting public. Rumors of his 'Mysterium' start floating about, promising something sufficiently mind-boggling.",
+      "year": 1909,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Last Concert",
+      "summary": "Scriabin delivers a performance that critics describe as 'most inspiring and affecting.' He was so immersed in his music that it felt less like a concert and more like a private cosmic experience for him.",
+      "year": 1915,
+      "city": "St. Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "Death",
+      "summary": "In a bewildering twist of fate, Scriabin succumbs to a seemingly trivial pimple gone rogue. His untimely departure leaves the music world pondering what could have been had he survived to complete his grand vision.",
+      "year": 1915,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "First Period of Composition",
+      "summary": "Scriabin decides to compose music like he's shopping for groceries, choosing only the freshest dominant chords and harmonic language from the romantic tradition, while sneakily adding his unique flavor in the form of added tone chords. Who knew chords could be a culinary experience?",
+      "year": 1903,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Second Period of Composition",
+      "summary": "During this phase, Scriabin starts mixing things up, throwing in chromatic dissonance like confetti at a party. He wants his music to shine brighter than his personality, adding more chord tones as if competing in a chord-raising contest!",
+      "year": 1907,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Third Period of Composition",
+      "summary": "Here, things get interesting. Scriabin juggles higher and higher tones in his compositions, hoping they'll shine like a new penny. It's like he's trying to win a game of musical limbo, all while the dominant chords are partying in the background.",
+      "year": 1915,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Philosophical Influences",
+      "summary": "Scriabin dives into philosophy like a kid in a candy store, allured by German thinkers and theosophy. He attempts to turn his musical ideas into a full buffet of spiritual and philosophical enlightenment\u2014who knew music could double as a life's instruction manual?",
+      "year": 1915,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Mysticism and Mysterium",
+      "summary": "In a twist that you might find in a soap opera, Scriabin decides he's got a divine mission to regenerate mankind using art. His grand plan, 'Mysterium', is like an extravagant seven-day music festival designed to transform the world. Move over Coachella!",
+      "year": 1915,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Influence of Colour",
+      "summary": "Scriabin concocts a color system for music that sounds like he's mixing paint, not notes. He believes music and colors go together like peanut butter and jelly, leading to thoughts of a weeklong performance filled with sensory overload\u2014because who wouldn't want to enjoy scents and sights with their symphonies?",
+      "year": 1915,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "First Piano Lessons",
+      "summary": "Scriabin's musical journey began when he started taking piano lessons. It was as if the piano was saying, 'Finally, someone who can tickle my ivories properly!'",
+      "year": 1879,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Composition of Early Works",
+      "summary": "He started composing music at a tender age. Imagine scribbling notes like a child draws crayon masterpieces\u2014except his were destined for concert halls!",
+      "year": 1885,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Study at the Moscow Conservatory",
+      "summary": "Scriabin attended the Moscow Conservatory where he likely argued with his instructors on the best key to play in\u2014spoiler alert: there\u2019s never just one!",
+      "year": 1890,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "First Piano Recital",
+      "summary": "He gave his first public performance, which probably left the audience wondering if they were witnessing a musical prodigy or a magician casting spells with his hands!",
+      "year": 1896,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Marriage to Tatiana",
+      "summary": "Scriabin married Tatiana, and one can only guess they had visions of romantic sonatas dancing in their heads while plotting two-person concerts around the house!",
+      "year": 1903,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Composition of R\u00e9v\u00e9lation",
+      "summary": "He composed R\u00e9v\u00e9lation, which might have left listeners feeling enlightened\u2014or at least slightly dazed, as if they accidentally wandered into a dream sequence!",
+      "year": 1905,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "First Piano Lesson",
+      "summary": "He began his piano lessons. Little did his teacher know they were not just training a pianist, but a future maestro who would confuse as many as he would impress!",
+      "year": 1882,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "First Symphony",
+      "summary": "Scriabin composed his first symphony. It was an exciting debut, showcasing that he wasn't just playing with keys but also with grand ideas and a flair for the dramatic!",
+      "year": 1898,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Mysterium Composition Start",
+      "summary": "He started working on 'Mysterium', aiming to fuse music and spirituality into a transcendental experience. It was his way of saying, 'let's make music that's not just heard but felt!' Sort of a musical therapy session gone cosmic!",
+      "year": 1910,
+      "city": "Moscow",
+      "country": "Russia"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro_appassionato,_Op.4_(Scriabin,_Aleksandr)",
+      "year": 1894,
+      "title": "Allegro appassionato, Op.4"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro_de_concert,_Op.18_(Scriabin,_Aleksandr)",
+      "year": 1896,
+      "title": "Allegro de concert, Op.18"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Andante_for_String_Orchestra_(Scriabin,_Aleksandr)",
+      "year": 1899,
+      "title": "Andante for String Orchestra"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_in_D_minor_(Scriabin,_Aleksandr)",
+      "year": 1883,
+      "title": "Canon in D minor"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Danses,_Op.73_(Scriabin,_Aleksandr)",
+      "year": 1914,
+      "title": "2 Danses, Op.73"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Egoroff_Variations_(Scriabin,_Aleksandr)",
+      "year": 1887,
+      "title": "Egoroff Variations"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/12_Etudes,_Op.8_(Scriabin,_Aleksandr)",
+      "year": 1894,
+      "title": "12 Etudes, Op.8"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/8_Etudes,_Op.42_(Scriabin,_Aleksandr)",
+      "year": 1903,
+      "title": "8 Etudes, Op.42"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantasie,_Op.28_(Scriabin,_Aleksandr)",
+      "year": 1901,
+      "title": "Fantasie, Op.28"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantasy_for_2_Pianos_(Scriabin,_Aleksandr)",
+      "year": 1889,
+      "title": "Fantasy for 2 Pianos"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Feuillet_d%27album,_Op.58_(Scriabin,_Aleksandr)",
+      "year": 1910,
+      "title": "Feuillet d'album, Op.58"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Feuillet_d%27album_(Scriabin,_Aleksandr)",
+      "year": 1905,
+      "title": "Feuillet d'album"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fugue_(Scriabin,_Aleksandr)",
+      "year": 1892,
+      "title": "Fugue"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Impromptus_%C3%A0_la_Mazur,_Op.7_(Scriabin,_Aleksandr)",
+      "year": 1892,
+      "title": "2 Impromptus \u00e0 la Mazur, Op.7"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Impromptus,_Op.10_(Scriabin,_Aleksandr)",
+      "year": 1894,
+      "title": "2 Impromptus, Op.10"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Impromptus,_Op.12_(Scriabin,_Aleksandr)",
+      "year": 1895,
+      "title": "2 Impromptus, Op.12"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Impromptus,_Op.14_(Scriabin,_Aleksandr)",
+      "year": 1895,
+      "title": "2 Impromptus, Op.14"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazurka_in_B_minor_(Scriabin,_Aleksandr)",
+      "year": 1889,
+      "title": "Mazurka in B minor"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazurka_in_F_major_(Scriabin,_Aleksandr)",
+      "year": 1889,
+      "title": "Mazurka in F major"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/10_Mazurkas,_Op.3_(Scriabin,_Aleksandr)",
+      "year": 1888,
+      "title": "10 Mazurkas, Op.3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/9_Mazurkas,_Op.25_(Scriabin,_Aleksandr)",
+      "year": 1898,
+      "title": "9 Mazurkas, Op.25"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Mazurkas,_Op.40_(Scriabin,_Aleksandr)",
+      "year": 1903,
+      "title": "2 Mazurkas, Op.40"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Monighetti%27s_Album_Leaf_(Scriabin,_Aleksandr)",
+      "year": 1889,
+      "title": "Monighetti's Album Leaf"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mysterium_(Scriabin,_Aleksandr)",
+      "year": 1903,
+      "title": "Mysterium"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Nocturnes,_Op.5_(Scriabin,_Aleksandr)",
+      "year": 1890,
+      "title": "2 Nocturnes, Op.5"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturne_(Scriabin,_Aleksandr)",
+      "year": 1886,
+      "title": "Nocturne"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto,_Op.20_(Scriabin,_Aleksandr)",
+      "year": 1896,
+      "title": "Piano Concerto, Op.20"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_in_E-flat_minor_(Scriabin,_Aleksandr)",
+      "year": 1889,
+      "title": "Piano Sonata in E-flat minor"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.1,_Op.6_(Scriabin,_Aleksandr)",
+      "year": 1893,
+      "title": "Piano Sonata No.1, Op.6"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.2,_Op.19_(Scriabin,_Aleksandr)",
+      "year": 1898,
+      "title": "Piano Sonata No.2, Op.19"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.3,_Op.23_(Scriabin,_Aleksandr)",
+      "year": 1897,
+      "title": "Piano Sonata No.3, Op.23"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.4,_Op.30_(Scriabin,_Aleksandr)",
+      "year": 1903,
+      "title": "Piano Sonata No.4, Op.30"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.5,_Op.53_(Scriabin,_Aleksandr)",
+      "year": 1907,
+      "title": "Piano Sonata No.5, Op.53"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.6,_Op.62_(Scriabin,_Aleksandr)",
+      "year": 1911,
+      "title": "Piano Sonata No.6, Op.62"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.7,_Op.64_(Scriabin,_Aleksandr)",
+      "year": 1911,
+      "title": "Piano Sonata No.7, Op.64"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.8,_Op.66_(Scriabin,_Aleksandr)",
+      "year": 1913,
+      "title": "Piano Sonata No.8, Op.66"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.9,_Op.68_(Scriabin,_Aleksandr)",
+      "year": 1913,
+      "title": "Piano Sonata No.9, Op.68"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.10,_Op.70_(Scriabin,_Aleksandr)",
+      "year": 1913,
+      "title": "Piano Sonata No.10, Op.70"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Pieces,_Op.2_(Scriabin,_Aleksandr)",
+      "year": 1889,
+      "title": "3 Pieces, Op.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Pieces,_Op.45_(Scriabin,_Aleksandr)",
+      "year": 1905,
+      "title": "3 Pieces, Op.45"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Pieces,_Op.49_(Scriabin,_Aleksandr)",
+      "year": 1905,
+      "title": "3 Pieces, Op.49"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Pieces,_Op.51_(Scriabin,_Aleksandr)",
+      "year": 1906,
+      "title": "4 Pieces, Op.51"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Pieces,_Op.52_(Scriabin,_Aleksandr)",
+      "year": 1907,
+      "title": "3 Pieces, Op.52"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Pieces,_Op.56_(Scriabin,_Aleksandr)",
+      "year": 1908,
+      "title": "4 Pieces, Op.56"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Pieces,_Op.57_(Scriabin,_Aleksandr)",
+      "year": 1908,
+      "title": "2 Pieces, Op.57"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Pieces,_Op.59_(Scriabin,_Aleksandr)",
+      "year": 1911,
+      "title": "2 Pieces, Op.59"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Po%C3%A8me_de_l%27Extase,_Op.54_(Scriabin,_Aleksandr)",
+      "year": 1905,
+      "title": "Po\u00e8me de l'Extase, Op.54"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Po%C3%A8me_Satanique,_Op.36_(Scriabin,_Aleksandr)",
+      "year": 1903,
+      "title": "Po\u00e8me Satanique, Op.36"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Po%C3%A8me_tragique,_Op.34_(Scriabin,_Aleksandr)",
+      "year": 1903,
+      "title": "Po\u00e8me tragique, Op.34"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Po%C3%A8me-Nocturne,_Op.61_(Scriabin,_Aleksandr)",
+      "year": 1911,
+      "title": "Po\u00e8me-Nocturne, Op.61"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Po%C3%A8mes,_Op.32_(Scriabin,_Aleksandr)",
+      "year": 1903,
+      "title": "2 Po\u00e8mes, Op.32"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Po%C3%A8mes,_Op.44_(Scriabin,_Aleksandr)",
+      "year": 1905,
+      "title": "2 Po\u00e8mes, Op.44"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Po%C3%A8mes,_Op.63_(Scriabin,_Aleksandr)",
+      "year": 1912,
+      "title": "2 Po\u00e8mes, Op.63"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Po%C3%A8mes,_Op.69_(Scriabin,_Aleksandr)",
+      "year": 1913,
+      "title": "2 Po\u00e8mes, Op.69"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Po%C3%A8mes,_Op.71_(Scriabin,_Aleksandr)",
+      "year": 1914,
+      "title": "2 Po\u00e8mes, Op.71"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Polonaise,_Op.21_(Scriabin,_Aleksandr)",
+      "year": 1897,
+      "title": "Polonaise, Op.21"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Prelude_and_Nocturne_for_the_Left_Hand,_Op.9_(Scriabin,_Aleksandr)",
+      "year": 1894,
+      "title": "Prelude and Nocturne for the Left Hand, Op.9"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/24_Preludes,_Op.11_(Scriabin,_Aleksandr)",
+      "year": 1888,
+      "title": "24 Preludes, Op.11"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Preludes,_Op.13_(Scriabin,_Aleksandr)",
+      "year": 1895,
+      "title": "6 Preludes, Op.13"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_Preludes,_Op.15_(Scriabin,_Aleksandr)",
+      "year": 1896,
+      "title": "5 Preludes, Op.15"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_Preludes,_Op.16_(Scriabin,_Aleksandr)",
+      "year": 1895,
+      "title": "5 Preludes, Op.16"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/7_Preludes,_Op.17_(Scriabin,_Aleksandr)",
+      "year": 1896,
+      "title": "7 Preludes, Op.17"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Preludes,_Op.22_(Scriabin,_Aleksandr)",
+      "year": 1897,
+      "title": "4 Preludes, Op.22"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Preludes,_Op.27_(Scriabin,_Aleksandr)",
+      "year": 1901,
+      "title": "2 Preludes, Op.27"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Preludes,_Op.31_(Scriabin,_Aleksandr)",
+      "year": 1903,
+      "title": "4 Preludes, Op.31"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Preludes,_Op.33_(Scriabin,_Aleksandr)",
+      "year": 1903,
+      "title": "4 Preludes, Op.33"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Preludes,_Op.35_(Scriabin,_Aleksandr)",
+      "year": 1903,
+      "title": "3 Preludes, Op.35"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Preludes,_Op.37_(Scriabin,_Aleksandr)",
+      "year": 1903,
+      "title": "4 Preludes, Op.37"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Preludes,_Op.39_(Scriabin,_Aleksandr)",
+      "year": 1903,
+      "title": "4 Preludes, Op.39"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Preludes,_Op.48_(Scriabin,_Aleksandr)",
+      "year": 1905,
+      "title": "4 Preludes, Op.48"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Preludes,_Op.67_(Scriabin,_Aleksandr)",
+      "year": 1913,
+      "title": "2 Preludes, Op.67"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_Preludes,_Op.74_(Scriabin,_Aleksandr)",
+      "year": 1914,
+      "title": "5 Preludes, Op.74"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Prometheus,_Le_Po%C3%A8me_du_Feu,_Op.60_(Scriabin,_Aleksandr)",
+      "year": 1910,
+      "title": "Prometheus, Le Po\u00e8me du Feu, Op.60"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Quasi_valse,_Op.47_(Scriabin,_Aleksandr)",
+      "year": 1905,
+      "title": "Quasi valse, Op.47"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/R%C3%AAverie,_Op.24_(Scriabin,_Aleksandr)",
+      "year": 1898,
+      "title": "R\u00eaverie, Op.24"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Romance_for_Horn_and_Piano_(Scriabin,_Aleksandr)",
+      "year": 1890,
+      "title": "Romance for Horn and Piano"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Romance_for_Voice_and_Piano_(Scriabin,_Aleksandr)",
+      "year": 1893,
+      "title": "Romance for Voice and Piano"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Scherzo_for_String_Orchestra_(Scriabin,_Aleksandr)",
+      "year": 1888,
+      "title": "Scherzo for String Orchestra"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Scherzo,_Op.46_(Scriabin,_Aleksandr)",
+      "year": 1905,
+      "title": "Scherzo, Op.46"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sonata-Fantasie_(Scriabin,_Aleksandr)",
+      "year": 1886,
+      "title": "Sonata-Fantasie"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphonic_Poem_in_D_minor,_WoO_24_(Scriabin,_Aleksandr)",
+      "year": 1896,
+      "title": "Symphonic Poem in D minor, WoO 24"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.1,_Op.26_(Scriabin,_Aleksandr)",
+      "year": 1899,
+      "title": "Symphony No.1, Op.26"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.2,_Op.29_(Scriabin,_Aleksandr)",
+      "year": 1901,
+      "title": "Symphony No.2, Op.29"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.3,_Op.43_(Scriabin,_Aleksandr)",
+      "year": 1902,
+      "title": "Symphony No.3, Op.43"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Valse,_Op.1_(Scriabin,_Aleksandr)",
+      "year": 1886,
+      "title": "Valse, Op.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Valse,_Op.38_(Scriabin,_Aleksandr)",
+      "year": 1903,
+      "title": "Valse, Op.38"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Vers_la_Flamme,_Op.72_(Scriabin,_Aleksandr)",
+      "year": 1914,
+      "title": "Vers la Flamme, Op.72"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Waltz_in_D-flat_major_(Scriabin,_Aleksandr)",
+      "year": 1886,
+      "title": "Waltz in D-flat major"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Waltz_in_G-sharp_minor_(Scriabin,_Aleksandr)",
+      "year": 1886,
+      "title": "Waltz in G-sharp minor"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Mazurkas,_Op.40_(Scriabin,_Aleksandr)",
+      "year": 1903,
+      "title": "2 Mazurkas, Op.40"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/24_Preludes,_Op.11_(Scriabin,_Aleksandr)",
+      "year": 1888,
+      "title": "24 Preludes, Op.11"
+    }
+  ]
+}

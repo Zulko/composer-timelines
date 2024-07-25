@@ -1,0 +1,496 @@
+{
+  "full_name": "Georges Bizet",
+  "first_names": "Georges",
+  "last_name": "Bizet",
+  "birth_year": 1838,
+  "death_year": 1875,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Georges_Bizet",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Georges Bizet was born as Alexandre C\u00e9sar L\u00e9opold in Paris, likely causing a whirlwind of confusion at family gatherings. He was baptized as 'Georges' two years later, ensuring that for the rest of his life, people could at least agree on a name.",
+      "year": 1838,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Admission to Conservatoire",
+      "summary": "Bizet didn't just knock on the door of the Conservatoire de Paris; he practically kicked it down at age nine. His musical talent was so stunning that the committee waived the age rule and let him in, proving that sometimes, being precocious pays off.",
+      "year": 1848,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Winning the Prix de Rome",
+      "summary": "In a monumental moment of validation, Bizet won the prestigious Prix de Rome at the ripe age of 18. Despite only attending parties and soaking up pasta aromas for a few years, it meant a five-year grant for him to further explore his genius - and probably a lot of Italian cuisine.",
+      "year": 1857,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Arrival at Villa Medici",
+      "summary": "Bizet arrived at the Villa Medici in Rome, where he described his new abode as 'paradise,' likely leaving many wondering if he was big on the scenic views or just the gelato.",
+      "year": 1858,
+      "city": "Rome",
+      "country": "Italy"
+    },
+    {
+      "event": "First opera, Don Procopio",
+      "summary": "Bizet attempted his first opera, 'Don Procopio,' while in Rome, breaking the traditional mold by crafting an opera buffa. While he wasn't sure how they felt about that, the Acad\u00e9mie didn\u2019t send him packing. Progress, right?",
+      "year": 1859,
+      "city": "Rome",
+      "country": "Italy"
+    },
+    {
+      "event": "Return to Paris",
+      "summary": "Bizet returned to Paris from his extended Italian getaway, feeling like an explorer returning with tales of culinary conquests and sketches of symphonies as he dove headfirst into an unforgiving opera scene.",
+      "year": 1860,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Carmen Premieres",
+      "summary": "Bizet finally premiered his magnum opus, Carmen, which had faced delays for being too spicy for its time. Little did he know, it would go on to become a legendary favorite. Even the heart attack that followed three months later couldn't dim its shine.",
+      "year": 1875,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Attended Paris premiere of Wagner's Tannh\u00e4user",
+      "summary": "Bizet braved audience riots and managed to change his mind about Wagner's music from eccentric to brilliant, leading to future \u2018Wagnerism\u2019 accusations. Clearly, the riotous atmosphere was instrumental in redefining his taste!",
+      "year": 1861,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Demonstrated virtuoso piano skills",
+      "summary": "At a dinner party with Liszt, Bizet stole the show by flawlessly playing one of Liszt's notoriously difficult pieces. Liszt was so impressed he claimed there were now three great piano players, one being the 'boldest and most brilliant'\u2014a tall order!",
+      "year": 1861,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First performance of Les p\u00eacheurs de perles",
+      "summary": "Bizet's new opera premiered to a lukewarm reception despite Berlioz's praise. It only ran for 18 performances\u2014definitely not the box office hit he hoped for; perhaps audiences were in a seafood mood that evening!",
+      "year": 1863,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Married Genevi\u00e8ve Hal\u00e9vy",
+      "summary": "After overcoming family objections contrasting his 'bohemian' ways with their artistic pedigree, Bizet finally tied the knot. Love triumphs, and they mustered up quite the event, despite some impending mother-in-law drama!",
+      "year": 1869,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Joined the National Guard during Franco-Prussian War",
+      "summary": "Bizet donned a uniform amidst patriotic fervor, feeling like he was in a historical epic\u2014only to discover his old equipment was more of a hazard to himself than to the enemy. Talk about an 'armed' conflict!",
+      "year": 1870,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Birth of son Jacques",
+      "summary": "In the midst of chaos, Genevi\u00e8ve gave birth to their only child. This joyous event brought a sprinkle of happiness into their life that was otherwise filled with cannon fire and political upheaval.",
+      "year": 1871,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Opened Djamileh at the Op\u00e9ra-Comique",
+      "summary": "Bizet's one-act opera had a rough start with a leading singer missing more music than they sang. Unsurprisingly, it only lasted 11 performances, but at least it gave the audience a brief laugh\u2014even if unintentional!",
+      "year": 1872,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Carmen's Composition Begins",
+      "summary": "Bizet was commissioned to compose three acts for the Op\u00e9ra-Comique, a task he joyfully accepted, excited to adapt M\u00e9rim\u00e9e's scandalous 'Carmen'. Little did he know, this risqu\u00e9 narrative would cause such a stir that even the theatre management felt scandalized!",
+      "year": 1872,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Don Rodrigue Presentation",
+      "summary": "After the initial excitement of Carmen, Bizet decided to develop Don Rodrigue based on the El Cid story. He playfully played it for baritone Jean-Baptiste Faure, hoping for a rave approval \u2013 only for the Op\u00e9ra to burn down the next day. Talk about bad timing!",
+      "year": 1874,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Carmen's Premiere",
+      "summary": "Finally, after months of struggles getting Carmen produced, Bizet's opera premiered to a crowd that was half excited and half confused. The performance ran so long that even the night owls were yawning by the final act. Critics were brutal, calling the heroine 'the very incarnation of vice', which probably wasn\u2019t the compliment Bizet dreamed of!",
+      "year": 1875,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Chevalier of the Legion of Honour",
+      "summary": "In a moment of delightful irony just before the premiere, Bizet was appointed as a Chevalier of the Legion of Honour. It\u2019s as if the universe wanted to hand him a shiny medal right before everyone started booing his genius!",
+      "year": 1875,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Illness and Untimely Death",
+      "summary": "After battling with throat issues and a variety of ailments that could rival a soap opera storyline, Bizet decided to take a fateful swim and ultimately didn\u2019t make it back. He passed away just when he was becoming known as a 'true artist', giving the phrase 'timing is everything' a whole new layer of meaning.",
+      "year": 1875,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Funeral Service",
+      "summary": "Bizet's funeral drew an impressive crowd of over 4,000 mourners, which speaks volumes about his popularity posthumously. It was a grand send-off where even Gounod was too emotional to finish his eulogy, proving that the real drama was not just in Bizet's operas but in his life story as well.",
+      "year": 1875,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Opera",
+      "summary": "Bizet's first opera made its appearance like a toddler taking his first steps\u2014nervously and with mixed reviews, but full of promise!",
+      "year": 1857,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Composed Carmen",
+      "summary": "In a burst of creativity, Bizet composed Carmen, a work that would later confuse audiences but ultimately become a beloved staple of opera repertoire\u2014it's like cuisine that seems strange at first but you can\u2019t stop eating!",
+      "year": 1875,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Carmen's Initial Reception",
+      "summary": "Carmen premiered to a lukewarm reception, with audiences scratching their heads in bewilderment, probably thinking, 'Is this opera or a melodrama?' However, history would laugh last as it became a hit.",
+      "year": 1875,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Death",
+      "summary": "Bizet's untimely departure from the world left many wondering what other musical gems he could have created\u2014like a painter whose easel suddenly got up and left.",
+      "year": 1875,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Opera Debut",
+      "summary": "Bizet's first opera 'La maison du docteur' was born, although it was like that creative child who never quite makes it to the school play\u2014unperformed but not forgotten.",
+      "year": 1852,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Successful Opera",
+      "summary": "With 'Le docteur Miracle,' Bizet finally hit the stage with a performance that made the audience realize this was no miracle; he was simply that good!",
+      "year": 1857,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Marriage",
+      "summary": "Bizet tied the knot with Genevi\u00e8ve Hal\u00e9vy, adding a wonderful duet to his life, even if it meant sharing his desserts.",
+      "year": 1869,
+      "city": "Paris",
+      "country": "France"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%80_une_fleur_(Bizet,_Georges)",
+      "year": 1866,
+      "title": "\u00c0 une fleur"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27abandonn%C3%A9e_(Bizet,_Georges)",
+      "year": 1872,
+      "title": "L'abandonn\u00e9e"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Absence_(Bizet,_Georges)",
+      "year": 1871,
+      "title": "Absence"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Adieux_%C3%A0_Suzon_(Bizet,_Georges)",
+      "year": 1866,
+      "title": "Adieux \u00e0 Suzon"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Adieux_de_l%27h%C3%B4tesse_arabe_(Bizet,_Georges)",
+      "year": 1867,
+      "title": "Adieux de l'h\u00f4tesse arabe"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Apr%C3%A8s_l%27hiver_(Bizet,_Georges)",
+      "year": 1867,
+      "title": "Apr\u00e8s l'hiver"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27Arl%C3%A9sienne_Suite_No.1_(Bizet,_Georges)",
+      "year": 1872,
+      "title": "L'Arl\u00e9sienne Suite No.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27Arl%C3%A9sienne_(Bizet,_Georges)",
+      "year": 1872,
+      "title": "L'Arl\u00e9sienne"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Berceuse_(Bizet,_Georges)",
+      "year": 1868,
+      "title": "Berceuse"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Caprice_original_No.2_(Bizet,_Georges)",
+      "year": 1851,
+      "title": "Caprice original No.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Carmen_(Bizet,_Georges)",
+      "year": 1873,
+      "title": "Carmen"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chanson_d%27avril_(Bizet,_Georges)",
+      "year": 1871,
+      "title": "Chanson d'avril"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_chanson_du_fou_(Bizet,_Georges)",
+      "year": 1868,
+      "title": "La chanson du fou"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chant_d%27amour_(Bizet,_Georges)",
+      "year": 1872,
+      "title": "Chant d'amour"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chants_du_Rhin_(Bizet,_Georges)",
+      "year": 1866,
+      "title": "Chants du Rhin"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chasse_fantastique_(Bizet,_Georges)",
+      "year": 1866,
+      "title": "Chasse fantastique"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_coccinelle_(Bizet,_Georges)",
+      "year": 1868,
+      "title": "La coccinelle"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Djamileh_(Bizet,_Georges)",
+      "year": 1871,
+      "title": "Djamileh"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Don_Procopio_(Bizet,_Georges)",
+      "year": 1858,
+      "title": "Don Procopio"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Douce_mer_(Bizet,_Georges)",
+      "year": 1867,
+      "title": "Douce mer"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_doute!_(Bizet,_Georges)",
+      "year": 1868,
+      "title": "Le doute!"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27esprit_saint_(Bizet,_Georges)",
+      "year": 1869,
+      "title": "L'esprit saint"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Esquisses_musicales,_Op.33_(Bizet,_Georges)",
+      "year": 1858,
+      "title": "3 Esquisses musicales, Op.33"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fugue_in_F_minor_(Bizet,_Georges)",
+      "year": 1855,
+      "title": "Fugue in F minor"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_fuite_(Bizet,_Georges)",
+      "year": 1870,
+      "title": "La fuite"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_gascon_(Bizet,_Georges)",
+      "year": 1868,
+      "title": "Le gascon"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Grande_valse_de_concert_(Bizet,_Georges)",
+      "year": 1853,
+      "title": "Grande valse de concert"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_grillon_(Bizet,_Georges)",
+      "year": 1866,
+      "title": "Le grillon"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Guitare_(Bizet,_Georges)",
+      "year": 1866,
+      "title": "Guitare"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jeux_d%27enfants_(Bizet,_Georges)",
+      "year": 1871,
+      "title": "Jeux d'enfants"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_jolie_fille_de_Perth_(Bizet,_Georges)",
+      "year": 1866,
+      "title": "La jolie fille de Perth"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ma_vie_a_son_secret_(Bizet,_Georges)",
+      "year": 1868,
+      "title": "Ma vie a son secret"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Marine_(Bizet,_Georges)",
+      "year": 1868,
+      "title": "Marine"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_matin_(Bizet,_Georges)",
+      "year": 1873,
+      "title": "Le matin"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/N%27oublions_pas!_(Bizet,_Georges)",
+      "year": 1868,
+      "title": "N'oublions pas!"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturne_in_D_major,_WD_55_(Bizet,_Georges)",
+      "year": 1868,
+      "title": "Nocturne in D major, WD 55"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturne_in_F_major,_WD_49_(Bizet,_Georges)",
+      "year": 1854,
+      "title": "Nocturne in F major, WD 49"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_nuit_(Bizet,_Georges)",
+      "year": 1868,
+      "title": "La nuit"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ouvre_ton_c%C5%93ur_(Bizet,_Georges)",
+      "year": 1860,
+      "title": "Ouvre ton c\u0153ur"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pastorale_(Bizet,_Georges)",
+      "year": 1868,
+      "title": "Pastorale"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Patrie,_WD_41_(Bizet,_Georges)",
+      "year": 1873,
+      "title": "Patrie, WD 41"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_p%C3%AAcheurs_de_perles_(Bizet,_Georges)",
+      "year": 1863,
+      "title": "Les p\u00eacheurs de perles"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Petit_duo_(Bizet,_Georges)",
+      "year": 1874,
+      "title": "Petit duo"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Petite_Marguerite_(Bizet,_Georges)",
+      "year": 1854,
+      "title": "Petite Marguerite"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/R%C3%AAve_de_la_bien-aim%C3%A9e_(Bizet,_Georges)",
+      "year": 1868,
+      "title": "R\u00eave de la bien-aim\u00e9e"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Roma_(Bizet,_Georges)",
+      "year": 1859,
+      "title": "Roma"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Rose_d%27amour_(Bizet,_Georges)",
+      "year": 1866,
+      "title": "Rose d'amour"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_rose_et_l%27abeille_(Bizet,_Georges)",
+      "year": 1854,
+      "title": "La rose et l'abeille"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sc%C3%A8nes_boh%C3%A9miennes_(Bizet,_Georges)",
+      "year": 1873,
+      "title": "Sc\u00e8nes boh\u00e9miennes"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_sir%C3%A8ne_(Bizet,_Georges)",
+      "year": 1868,
+      "title": "La sir\u00e8ne"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sonnet_(Bizet,_Georges)",
+      "year": 1866,
+      "title": "Sonnet"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_C_major_(Bizet,_Georges)",
+      "year": 1855,
+      "title": "Symphony in C major"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Tarentelle_(Bizet,_Georges)",
+      "year": 1872,
+      "title": "Tarentelle"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Te_Deum_(Bizet,_Georges)",
+      "year": 1858,
+      "title": "Te Deum"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Variations_chromatiques_de_concert_(Bizet,_Georges)",
+      "year": 1868,
+      "title": "Variations chromatiques de concert"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Vasco_de_Gama_(Bizet,_Georges)",
+      "year": 1859,
+      "title": "Vasco de Gama"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Vieille_chanson_(Bizet,_Georges)",
+      "year": 1865,
+      "title": "Vieille chanson"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Vous_ne_priez_pas_(Bizet,_Georges)",
+      "year": 1873,
+      "title": "Vous ne priez pas"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/20_M%C3%A9lodies,_Op.21_(Bizet,_Georges)",
+      "year": 1873,
+      "title": "20 M\u00e9lodies, Op.21"
+    }
+  ]
+}

@@ -1,0 +1,2251 @@
+{
+  "full_name": "Johann Sebastian Bach",
+  "first_names": "Johann Sebastian",
+  "last_name": "Bach",
+  "birth_year": 1685,
+  "death_year": 1750,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Johann Sebastian Bach burst onto the scene in Eisenach, making it a family affair with eight siblings. His father was the town's music chief, ensuring Bach had an early start on the 'Soundtrack of Life'.",
+      "year": 1685,
+      "city": "Eisenach",
+      "country": "Germany"
+    },
+    {
+      "event": "Orphaned",
+      "summary": "At the tender age of 10, Bach became an orphan, marking the beginning of his epic quest to master music. Living with his elder brother, he learned to sneak in some music lessons on the sly.",
+      "year": 1695,
+      "city": "Ohrdruf",
+      "country": "Germany"
+    },
+    {
+      "event": "Musical Education",
+      "summary": "Bach enrolled in the prestigious St. Michael's School in L\u00fcneburg. Here, he played the organ while trying not to trip over aristocrat\u2019s egos\u2014a true test of character!",
+      "year": 1700,
+      "city": "L\u00fcneburg",
+      "country": "Germany"
+    },
+    {
+      "event": "Court Musician Appointment",
+      "summary": "Bach landed a gig as court musician in Weimar. Despite dubious duties, his stellar keyboard skills made him a local celebrity, turning 'sitting in the back' into a major role.",
+      "year": 1703,
+      "city": "Weimar",
+      "country": "Germany"
+    },
+    {
+      "event": "Organist in Arnstadt",
+      "summary": "Taking a break from the royal antics, Bach became the organist at the New Church in Arnstadt. He was invited to give a swanky inaugural recital that turned into a mini-concert festival!",
+      "year": 1703,
+      "city": "Arnstadt",
+      "country": "Germany"
+    },
+    {
+      "event": "Marriage",
+      "summary": "Bach tied the knot with his second cousin Maria Barbara, turning family reunions into duet practices. Who knew family trees had such harmonious branches?",
+      "year": 1707,
+      "city": "M\u00fchlhausen",
+      "country": "Germany"
+    },
+    {
+      "event": "Return to Weimar",
+      "summary": "After a brief marriage honeymoon, he returned to Weimar as the court's official music director. The only thing more challenging than his compositions was his growing family!",
+      "year": 1708,
+      "city": "Weimar",
+      "country": "Germany"
+    },
+    {
+      "event": "Promoted to Konzertmeister",
+      "summary": "Bach was promoted to Konzertmeister, meaning he had to compose a church cantata every month. Talk about turning the pressure up\u2014I mean, who wouldn\u2019t thrive under a deadline like that?",
+      "year": 1714,
+      "city": "Weimar",
+      "country": "Germany"
+    },
+    {
+      "event": "Imprisonment and Dismissal",
+      "summary": "After a fallout with the authorities, Bach spent almost a month in jail before getting a rather rude dismissal from Weimar. Turns out his stubbornness was an occupational hazard!",
+      "year": 1717,
+      "city": "Weimar",
+      "country": "Germany"
+    },
+    {
+      "event": "Employment in K\u00f6then",
+      "summary": "Bach took the gig as Kapellmeister in K\u00f6then, a place where his style thrived. He finally got to focus on composing without the church's weekly playlists getting in the way!",
+      "year": 1717,
+      "city": "K\u00f6then",
+      "country": "Germany"
+    },
+    {
+      "event": "Position at St. Thomas's Church",
+      "summary": "In Leipzig, Bach took on the role of Thomaskantor. Not only did this give him legitimacy, it also came with the task of composing for the city\u2019s main Lutheran churches\u2014talk about being in demand!",
+      "year": 1723,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Court Composer Title",
+      "summary": "Bach was granted the title of court composer by Augustus III, which probably did wonders for his street cred. It\u2019s as if the universe officially recognized him as 'Bach, the composer of epic proportions.'",
+      "year": 1736,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Death",
+      "summary": "Bach passed away after a botched eye surgery. His final act was possibly composing music for heaven's gate; we can only imagine the celestial concert that followed!",
+      "year": 1750,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Appointment as Kapellmeister",
+      "summary": "Bach earned the title of Kapellmeister, and it turned out to be a sweet gig thanks to Prince Leopold, who thought Bach was as fabulous as a baroque wig. Most of his work during this time was secular since the prince preferred foot-tapping tunes over solemn hymns.",
+      "year": 1717,
+      "city": "K\u00f6then",
+      "country": "Germany"
+    },
+    {
+      "event": "Married Anna Magdalena Wilcke",
+      "summary": "After the unfortunate passing of his first wife, Bach struck gold with Anna Magdalena, a soprano who brightened his life like a new pair of boots! They tied the knot and had a whole troupe of 13 kids, giving the term 'musical family' a whole new meaning.",
+      "year": 1721,
+      "city": "K\u00f6then",
+      "country": "Germany"
+    },
+    {
+      "event": "Became Thomaskantor in Leipzig",
+      "summary": "Bach bagged the prestigious role of Thomaskantor, where he was tasked with directing church music and keeping the St. Thomas School students in line while belting out cantatas. It was like being the head chef at a restaurant where the main course was church music!",
+      "year": 1723,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "First performance of cantata",
+      "summary": "He debuted his first cantata, 'Die Elenden sollen essen,' with all the flair of a director unveiling a blockbuster! Who knew church music could have such a dramatic debut?",
+      "year": 1723,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Took over the Collegium Musicum",
+      "summary": "In a move that was both savvy and musical, Bach snagged the directorship of the Collegium Musicum, bringing his flair for composition to the coffeehouses, effectively making coffee breaks a lot more melodic.",
+      "year": 1729,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Composition of the Mass in B minor",
+      "summary": "Bach undertook the grand task of composing his Mass in B minor\u2014a fine work that combined all the glory of his earlier compositions into a symphonic stew that would have everyone in heaven humming along!",
+      "year": 1749,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Final preparations for The Art of Fugue",
+      "summary": "Bach immersed himself in the creation of 'The Art of Fugue,' a complex web of counterpoint ready to make even the greatest musicians dizzy. It was his grand finale, like the last act of a long-running play!",
+      "year": 1750,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Early Music Studies",
+      "summary": "From a young age, Bach was busy soaking up the musical genius of his Baroque buddies like Vivaldi and Handel. He studied their works like a sponge in a pool of notes, ensuring he wouldn\u2019t just dip his toes in, but dive headfirst into creativity!",
+      "year": 1700,
+      "city": "Eisenach",
+      "country": "Germany"
+    },
+    {
+      "event": "Thomaskantor in Leipzig",
+      "summary": "Bach became a big cheese in the music scene when he took on the role of Thomaskantor, where he not only composed but also taught the church\u2019s small catechism. Talk about multitasking - music and theology all under one roof!",
+      "year": 1723,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Staged Arrangement of Stabat Mater",
+      "summary": "In a true showman fashion, Bach jazzed up Pergolesi's Stabat Mater by rearranging it and adding some pizzazz with the viola. Let\u2019s be honest, who wouldn\u2019t want their music to go from \u2018meh\u2019 to \u2018marvelous\u2019?",
+      "year": 1740,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Capriccio on the Departure of a Beloved Brother",
+      "summary": "Bach penned this affectionate piece, showcasing his flair for modulation like a magician pulls rabbits from hats. He was already pushing tonal boundaries while others were still figuring out how to place their fingers on the keys!",
+      "year": 1700,
+      "city": "Eisenach",
+      "country": "Germany"
+    },
+    {
+      "event": "The Well-Tempered Clavier Publication",
+      "summary": "Bach dropped a musical bombshell with the release of The Well-Tempered Clavier, proving he had the keys to success\u2014literally! With two volumes, he displayed mastery across all keys and gave the music world the gift of 'Hey, I can play in any key!' ",
+      "year": 1722,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Fugue and Counterpoint Mastery",
+      "summary": "Bach took a casual stroll down the path of counterpoint and decided to build a mansion there. His meticulous fugues were the cr\u00e8me de la cr\u00e8me\u2014a musical cat\u2019s cradle of intertwining melodies that left listeners both awe-struck and slightly dizzy.",
+      "year": 1720,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Appointment as Court Musician",
+      "summary": "At a young age, he snagged the gig of court musician in Weimar, proving that small-town musicians can indeed move up the ladder of musical society, even if it involved long hours and occasionally dodging the court jester.",
+      "year": 1708,
+      "city": "Weimar",
+      "country": "Germany"
+    },
+    {
+      "event": "Thomaskantor Position",
+      "summary": "Bach took on the prestigious title of Thomaskantor in Leipzig, marking the beginning of his weekly minor miracle\u2014writing and performing a new cantata every Sunday. It was like composing the weekly newsletter, but way more melodious!",
+      "year": 1723,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Professionally Recognized Composer",
+      "summary": "Although he was revered as an exceptional organist, it was during this period that Bach's genius as a composer began to receive wider recognition. Who would have thought that blending melodies could lead to such acclaim?",
+      "year": 1728,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Mass in B Minor Completion",
+      "summary": "Bach tackled his magnum opus, the Mass in B minor. It was his grand musical farewell, a composition so elaborate and complex it probably had its own fan club. It wasn't performed in full during his lifetime, but it surely was the talk of the town!",
+      "year": 1749,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Bach becomes Court Composer",
+      "summary": "Bach earned the esteemed title of court composer from Augustus III of Poland, making his life sound fancier than it likely was! Who knew composing could lead to snazzy titles and courtly drama?",
+      "year": 1736,
+      "city": "Dresden",
+      "country": "Germany"
+    },
+    {
+      "event": "Creation of The Well-Tempered Clavier",
+      "summary": "Bach penned The Well-Tempered Clavier, a masterpiece to teach the world that you could indeed play in all keys without bursting into flames. He set the stage for keyboardists everywhere to show off their tuning skills!",
+      "year": 1722,
+      "city": "K\u00f6then",
+      "country": "Germany"
+    },
+    {
+      "event": "Completion of Brandenburg Concertos",
+      "summary": "In a bid for employment, Bach composed the Brandenburg Concertos and sent them off to a Margrave, but sadly it was a no-go. At least he got to be a \u2018concerto grosso\u2019 for the ages!",
+      "year": 1721,
+      "city": "K\u00f6then",
+      "country": "Germany"
+    },
+    {
+      "event": "First Job",
+      "summary": "After honing his craft, Bach snagged his first big gig as an organist in Arnstadt. He probably came in with a confidence that suggested he was the Mozart of his time, and while he may not have created any viral hits, he got the local folks tapping their feet.",
+      "year": 1703,
+      "city": "Arnstadt",
+      "country": "Germany"
+    },
+    {
+      "event": "Cantatas Galore",
+      "summary": "Bach unleashed a flurry of cantatas during his time in Leipzig. If Robert Frost had written about musical compositions, he might have said that the road less traveled was paved with Bach\u2019s shoes, and often led to a church or two.",
+      "year": 1723,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "The Art of Fugue",
+      "summary": "How does one wrap up a musical career? With a masterpiece, of course! Bach began working on 'The Art of Fugue', a project so complex that it's as if he was trying to show off to the universe. That'll teach those stars to shine brighter than him!",
+      "year": 1740,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Passing",
+      "summary": "Bach took his final bow in this world, leaving behind an impressive legacy. It\u2019s said he left the stage not with a whimper, but with a symphonic flourish, convincing everyone that he might just be taking a long intermission.",
+      "year": 1750,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "First Wedding",
+      "summary": "Bach tied the knot for the first time, proving that behind every great composer there is often a spouse who graciously tolerates late-night practice sessions and endless conversations about harmonies.",
+      "year": 1707,
+      "city": "M\u00fchlhausen",
+      "country": "Germany"
+    },
+    {
+      "event": "Appointment as Court Composer",
+      "summary": "Bach was appointed court composer, a position that came with the perks of having his own orchestra\u2014although he quickly learned that composing for royalty was like trying to please a cat: no matter what you do, it\u2019s never enough.",
+      "year": 1717,
+      "city": "K\u00f6then",
+      "country": "Germany"
+    },
+    {
+      "event": "Second Wedding",
+      "summary": "After his first wife's untimely departure, Bach found love once more, showing that true devotion can lead to new beginnings and a few more children to add to the family's musical legacy.",
+      "year": 1721,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Publication of The Well-Tempered Clavier",
+      "summary": "Bach released 'The Well-Tempered Clavier', a collection that ensured every pianist would have a reason to practice scales for centuries to come. It was said to be a genius way of turning scales into a fashionable topic at cocktail parties.",
+      "year": 1722,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Completion of the Mass in B Minor",
+      "summary": "After years of composing, Bach finally put the finishing touches on the Mass in B Minor. It was a musical feast that left everyone wondering if he had secretly enlisted a heavenly choir for inspiration.",
+      "year": 1749,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "First Position as Organist",
+      "summary": "In 1703, young Bach took up his first official position as an organist in Arnstadt. It was a gig filled with plenty of keyboard antics\u2014who knew he\u2019d be setting the bar for future organists while having the time of his life in the dusty church?",
+      "year": 1703,
+      "city": "Arnstadt",
+      "country": "Germany"
+    },
+    {
+      "event": "Marriage to Maria Barbara Bach",
+      "summary": "In 1707, Bach tied the knot with his second cousin, Maria Barbara, which was undoubtedly a beautiful union of musical minds and a family tie that would linger like a well-composed cadence. This match brought him joy and inspiration, not to mention a growing brood!",
+      "year": 1707,
+      "city": "Weimar",
+      "country": "Germany"
+    },
+    {
+      "event": "Weimar Court Composer",
+      "summary": "By 1708, Bach was appointed court composer in Weimar. He had the sweet job title, along with the not-so-sweet task of managing the Duke's musical whims. But let's face it, who wouldn\u2019t want to produce music for royalty while they grind out masterpieces?",
+      "year": 1708,
+      "city": "Weimar",
+      "country": "Germany"
+    },
+    {
+      "event": "Cantor at St. Thomas Church",
+      "summary": "In 1723, Bach became the Cantor at St. Thomas Church in Leipzig, which is where he really found his groove. His job was to teach and compose choral music, which meant he was like the ultimate musical coach\u2014whipping up choirs and giving them the tools to sound fabulous!",
+      "year": 1723,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Passion Composition",
+      "summary": "In 1729, Bach completed his masterwork, the St. Matthew Passion, which had such emotional depth that it left listeners torn between bliss and tears. Seriously, it was like a musical rollercoaster that didn\u2019t stop for breath until the very last note!",
+      "year": 1729,
+      "city": "Leipzig",
+      "country": "Germany"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/Ach_bleib_bei_uns,_Herr_Jesu_Christ,_BWV_649_(Bach,_Johann_Sebastian)",
+      "year": 1747,
+      "title": "Ach bleib bei uns, Herr Jesu Christ, BWV 649"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ach_bleib_bei_uns,_Herr_Jesu_Christ,_BWV_253_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Ach bleib bei uns, Herr Jesu Christ, BWV 253"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ach_Gott_und_Herr,_BWV_714_(Bach,_Johann_Sebastian)",
+      "year": 1715,
+      "title": "Ach Gott und Herr, BWV 714"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ach_Gott_und_Herr,_BWV_255_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Ach Gott und Herr, BWV 255"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ach_Gott,_erh%C3%B6r_mein_Seufzen_und_Wehklagen,_BWV_254_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Ach Gott, erh\u00f6r mein Seufzen und Wehklagen, BWV 254"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ach_Gott,_tu_dich_erbarmen,_BWV_1109_(Bach,_Johann_Sebastian)",
+      "year": 1703,
+      "title": "Ach Gott, tu dich erbarmen, BWV 1109"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ach_Gott,_vom_Himmel_sieh_darein,_BWV_2_(Bach,_Johann_Sebastian)",
+      "year": 1724,
+      "title": "Ach Gott, vom Himmel sieh darein, BWV 2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ach_Gott,_wie_manches_Herzeleid,_BWV_3_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Ach Gott, wie manches Herzeleid, BWV 3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ach_Gott,_wie_manches_Herzeleid,_BWV_58_(Bach,_Johann_Sebastian)",
+      "year": 1727,
+      "title": "Ach Gott, wie manches Herzeleid, BWV 58"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ach_Herr,_mich_armen_S%C3%BCnder,_BWV_135_(Bach,_Johann_Sebastian)",
+      "year": 1724,
+      "title": "Ach Herr, mich armen S\u00fcnder, BWV 135"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ach_Herr,_mich_armen_S%C3%BCnder,_BWV_742_(Bach,_Johann_Sebastian)",
+      "year": 1704,
+      "title": "Ach Herr, mich armen S\u00fcnder, BWV 742"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ach_lieben_Christen,_seid_getrost,_BWV_256_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Ach lieben Christen, seid getrost, BWV 256"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ach_wie_fl%C3%BCchtig,_ach_wie_nichtig,_BWV_26_(Bach,_Johann_Sebastian)",
+      "year": 1724,
+      "title": "Ach wie fl\u00fcchtig, ach wie nichtig, BWV 26"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ach_wie_nichtig,_ach_wie_fl%C3%BCchtig,_BWV_644_(Bach,_Johann_Sebastian)",
+      "year": 1714,
+      "title": "Ach wie nichtig, ach wie fl\u00fcchtig, BWV 644"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ach!_ich_sehe,_itzt,_da_ich_zur_Hochzeit_gehe,_BWV_162_(Bach,_Johann_Sebastian)",
+      "year": 1715,
+      "title": "Ach! ich sehe, itzt, da ich zur Hochzeit gehe, BWV 162"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ach,_da%C3%9F_nicht_die_letzte_Stunde,_BWV_439_(Bach,_Johann_Sebastian)",
+      "year": 1735,
+      "title": "Ach, da\u00df nicht die letzte Stunde, BWV 439"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ach,_lieben_Christen,_seid_getrost,_BWV_114_(Bach,_Johann_Sebastian)",
+      "year": 1724,
+      "title": "Ach, lieben Christen, seid getrost, BWV 114"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ach,_was_ist_doch_unser_Leben,_BWV_743_(Bach,_Johann_Sebastian)",
+      "year": 1740,
+      "title": "Ach, was ist doch unser Leben, BWV 743"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ach,_was_soll_ich_S%C3%BCnder_machen,_BWV_770_(Bach,_Johann_Sebastian)",
+      "year": 1710,
+      "title": "Ach, was soll ich S\u00fcnder machen, BWV 770"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ach,_was_soll_ich_S%C3%BCnder_machen,_BWV_259_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Ach, was soll ich S\u00fcnder machen, BWV 259"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Adagio_in_G_major,_BWV_968_(Bach,_Johann_Sebastian)",
+      "year": 1720,
+      "title": "Adagio in G major, BWV 968"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Air_with_Variations_in_C_minor,_BWV_991_(Bach,_Johann_Sebastian)",
+      "year": 1722,
+      "title": "Air with Variations in C minor, BWV 991"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Alla_breve_in_D_major,_BWV_589_(Bach,_Johann_Sebastian)",
+      "year": 1709,
+      "title": "Alla breve in D major, BWV 589"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Alle_Menschen_m%C3%BCssen_sterben,_BWV_643_(Bach,_Johann_Sebastian)",
+      "year": 1714,
+      "title": "Alle Menschen m\u00fcssen sterben, BWV 643"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Alle_Menschen_m%C3%BCssen_sterben,_BWV_1117_(Bach,_Johann_Sebastian)",
+      "year": 1703,
+      "title": "Alle Menschen m\u00fcssen sterben, BWV 1117"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Alle_Menschen_m%C3%BCssen_sterben,_BWV_262_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Alle Menschen m\u00fcssen sterben, BWV 262"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allein_Gott_in_der_H%C3%B6h_sei_Ehr,_BWV_662_(Bach,_Johann_Sebastian)",
+      "year": 1747,
+      "title": "Allein Gott in der H\u00f6h sei Ehr, BWV 662"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allein_Gott_in_der_H%C3%B6h_sei_Ehr,_BWV_663_(Bach,_Johann_Sebastian)",
+      "year": 1747,
+      "title": "Allein Gott in der H\u00f6h sei Ehr, BWV 663"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allein_Gott_in_der_H%C3%B6h_sei_Ehr,_BWV_675_(Bach,_Johann_Sebastian)",
+      "year": 1739,
+      "title": "Allein Gott in der H\u00f6h sei Ehr, BWV 675"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allein_Gott_in_der_H%C3%B6h_sei_Ehr,_BWV_676_(Bach,_Johann_Sebastian)",
+      "year": 1739,
+      "title": "Allein Gott in der H\u00f6h sei Ehr, BWV 676"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allein_Gott_in_der_H%C3%B6h_sei_Ehr,_BWV_715_(Bach,_Johann_Sebastian)",
+      "year": 1727,
+      "title": "Allein Gott in der H\u00f6h sei Ehr, BWV 715"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allein_Gott_in_der_H%C3%B6h%27_sei_Ehr%27,_BWV_711_(Bach,_Johann_Sebastian)",
+      "year": 1708,
+      "title": "Allein Gott in der H\u00f6h' sei Ehr', BWV 711"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allein_Gott_in_der_H%C3%B6h_sei_Ehr%27,_BWV_771_(Bach,_Johann_Sebastian)",
+      "year": 1735,
+      "title": "Allein Gott in der H\u00f6h sei Ehr', BWV 771"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allein_Gott_in_der_H%C3%B6h_sei_Ehr,_BWV_260_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Allein Gott in der H\u00f6h sei Ehr, BWV 260"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allein_Gott_in_der_H%C3%B6h_sei_Ehr,_BWV_662a_(Bach,_Johann_Sebastian)",
+      "year": 1747,
+      "title": "Allein Gott in der H\u00f6h sei Ehr, BWV 662a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allein_Gott_in_der_H%C3%B6h_sei_Ehr,_BWV_663a_(Bach,_Johann_Sebastian)",
+      "year": 1747,
+      "title": "Allein Gott in der H\u00f6h sei Ehr, BWV 663a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allein_zu_dir,_Herr_Jesu_Christ,_BWV_33_(Bach,_Johann_Sebastian)",
+      "year": 1724,
+      "title": "Allein zu dir, Herr Jesu Christ, BWV 33"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allein_zu_dir,_Herr_Jesu_Christ,_BWV_1100_(Bach,_Johann_Sebastian)",
+      "year": 1703,
+      "title": "Allein zu dir, Herr Jesu Christ, BWV 1100"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allein_zu_dir,_Herr_Jesu_Christ,_BWV_261_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Allein zu dir, Herr Jesu Christ, BWV 261"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allemande_in_G_minor,_BWV_836_(Bach,_Johann_Sebastian)",
+      "year": 1720,
+      "title": "Allemande in G minor, BWV 836"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allemande_in_G_minor,_BWV_837_(Bach,_Johann_Sebastian)",
+      "year": 1720,
+      "title": "Allemande in G minor, BWV 837"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Alles_ist_an_Gottes_Segen,_BWV_263_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Alles ist an Gottes Segen, BWV 263"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Alles_mit_Gott_und_nichts_ohn%27_ihn,_BWV_1127_(Bach,_Johann_Sebastian)",
+      "year": 1713,
+      "title": "Alles mit Gott und nichts ohn' ihn, BWV 1127"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Alles_nur_nach_Gottes_Willen,_BWV_72_(Bach,_Johann_Sebastian)",
+      "year": 1726,
+      "title": "Alles nur nach Gottes Willen, BWV 72"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Alles,_was_von_Gott_geboren,_BWV_80a_(Bach,_Johann_Sebastian)",
+      "year": 1727,
+      "title": "Alles, was von Gott geboren, BWV 80a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Als_der_g%C3%BCtige_Gott,_BWV_264_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Als der g\u00fctige Gott, BWV 264"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Als_Jesus_Christus_in_der_Nacht,_BWV_1108_(Bach,_Johann_Sebastian)",
+      "year": 1703,
+      "title": "Als Jesus Christus in der Nacht, BWV 1108"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Als_Jesus_Christus_in_der_Nacht,_BWV_265_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Als Jesus Christus in der Nacht, BWV 265"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Als_vierzig_Tag_nach_Ostern_war,_BWV_266_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Als vierzig Tag nach Ostern war, BWV 266"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Also_hat_Gott_die_Welt_geliebt,_BWV_68_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Also hat Gott die Welt geliebt, BWV 68"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Das_alte_Jahr_vergangen_ist,_BWV_614_(Bach,_Johann_Sebastian)",
+      "year": 1713,
+      "title": "Das alte Jahr vergangen ist, BWV 614"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Das_alte_Jahr_vergangen_ist,_BWV_1091_(Bach,_Johann_Sebastian)",
+      "year": 1703,
+      "title": "Das alte Jahr vergangen ist, BWV 1091"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Am_Abend_aber_desselbigen_Sabbats,_BWV_42_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Am Abend aber desselbigen Sabbats, BWV 42"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Amore_traditore,_BWV_203_(Bach,_Johann_Sebastian)",
+      "year": 1718,
+      "title": "Amore traditore, BWV 203"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/An_Wasserfl%C3%BCssen_Babylon,_BWV_653_(Bach,_Johann_Sebastian)",
+      "year": 1747,
+      "title": "An Wasserfl\u00fcssen Babylon, BWV 653"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/An_Wasserfl%C3%BCssen_Babylon,_BWV_267_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "An Wasserfl\u00fcssen Babylon, BWV 267"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/An_Wasserfl%C3%BCssen_Babylon,_BWV_653a_(Bach,_Johann_Sebastian)",
+      "year": 1747,
+      "title": "An Wasserfl\u00fcssen Babylon, BWV 653a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/An_Wasserfl%C3%BCssen_Babylon,_BWV_653b_(Bach,_Johann_Sebastian)",
+      "year": 1747,
+      "title": "An Wasserfl\u00fcssen Babylon, BWV 653b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Angenehmes_Wiederau,_BWV_30a_(Bach,_Johann_Sebastian)",
+      "year": 1737,
+      "title": "Angenehmes Wiederau, BWV 30a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Applicatio_in_C_major,_BWV_994_(Bach,_Johann_Sebastian)",
+      "year": 1720,
+      "title": "Applicatio in C major, BWV 994"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%84rgre_dich,_o_Seele,_nicht,_BWV_186a_(Bach,_Johann_Sebastian)",
+      "year": 1716,
+      "title": "\u00c4rgre dich, o Seele, nicht, BWV 186a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%84rgre_dich,_o_Seele,_nicht,_BWV_186_(Bach,_Johann_Sebastian)",
+      "year": 1723,
+      "title": "\u00c4rgre dich, o Seele, nicht, BWV 186"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Aria_in_F_major,_BWV_587_(Bach,_Johann_Sebastian)",
+      "year": 1726,
+      "title": "Aria in F major, BWV 587"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Aria_variata_in_A_minor,_BWV_989_(Bach,_Johann_Sebastian)",
+      "year": 1714,
+      "title": "Aria variata in A minor, BWV 989"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Auf_Christi_Himmelfahrt_allein,_BWV_128_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Auf Christi Himmelfahrt allein, BWV 128"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Auf,_auf!_die_rechte_Zeit_ist_hier,_BWV_440_(Bach,_Johann_Sebastian)",
+      "year": 1735,
+      "title": "Auf, auf! die rechte Zeit ist hier, BWV 440"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Auf,_auf!_mein_Herz,_mit_Freuden,_BWV_441_(Bach,_Johann_Sebastian)",
+      "year": 1735,
+      "title": "Auf, auf! mein Herz, mit Freuden, BWV 441"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Auf,_auf,_mein_Herz,_und_du,_mein_ganzer_Sinn,_BWV_268_(Bach,_Johann_Sebastian)",
+      "year": 1731,
+      "title": "Auf, auf, mein Herz, und du, mein ganzer Sinn, BWV 268"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Auf,_schmetternde_T%C3%B6ne_der_muntern_Trompeten,_BWV_207a_(Bach,_Johann_Sebastian)",
+      "year": 1735,
+      "title": "Auf, schmetternde T\u00f6ne der muntern Trompeten, BWV 207a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Aus_der_Tiefe_rufe_ich,_Herr,_zu_dir,_BWV_131_(Bach,_Johann_Sebastian)",
+      "year": 1707,
+      "title": "Aus der Tiefe rufe ich, Herr, zu dir, BWV 131"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Aus_meines_Herzens_Grunde,_BWV_269_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Aus meines Herzens Grunde, BWV 269"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Aus_tiefer_Not_schrei_ich_zu_dir,_BWV_38_(Bach,_Johann_Sebastian)",
+      "year": 1724,
+      "title": "Aus tiefer Not schrei ich zu dir, BWV 38"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Aus_tiefer_Not_schrei_ich_zu_dir,_BWV_686_(Bach,_Johann_Sebastian)",
+      "year": 1739,
+      "title": "Aus tiefer Not schrei ich zu dir, BWV 686"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Aus_tiefer_Not_schrei_ich_zu_dir,_BWV_687_(Bach,_Johann_Sebastian)",
+      "year": 1739,
+      "title": "Aus tiefer Not schrei ich zu dir, BWV 687"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Aus_tiefer_Not_schrei_ich_zu_dir,_BWV_1099_(Bach,_Johann_Sebastian)",
+      "year": 1703,
+      "title": "Aus tiefer Not schrei ich zu dir, BWV 1099"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Barmherziges_Herze_der_ewigen_Liebe,_BWV_185_(Bach,_Johann_Sebastian)",
+      "year": 1715,
+      "title": "Barmherziges Herze der ewigen Liebe, BWV 185"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Befiehl_du_deine_Wege,_BWV_270_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Befiehl du deine Wege, BWV 270"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Befiehl_du_deine_Wege,_BWV_271_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Befiehl du deine Wege, BWV 271"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Befiehl_du_deine_Wege,_BWV_272_(Bach,_Johann_Sebastian)",
+      "year": 1730,
+      "title": "Befiehl du deine Wege, BWV 272"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Begl%C3%BCckter_Stand_getreuer_Seelen,_BWV_442_(Bach,_Johann_Sebastian)",
+      "year": 1735,
+      "title": "Begl\u00fcckter Stand getreuer Seelen, BWV 442"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bekennen_will_ich_seinen_Namen,_BWV_200_(Bach,_Johann_Sebastian)",
+      "year": 1742,
+      "title": "Bekennen will ich seinen Namen, BWV 200"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bereitet_die_Wege,_bereitet_die_Bahn,_BWV_132_(Bach,_Johann_Sebastian)",
+      "year": 1715,
+      "title": "Bereitet die Wege, bereitet die Bahn, BWV 132"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Beschr%C3%A4nkt,_ihr_Weisen_dieser_Welt,_BWV_443_(Bach,_Johann_Sebastian)",
+      "year": 1735,
+      "title": "Beschr\u00e4nkt, ihr Weisen dieser Welt, BWV 443"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bisher_habt_ihr_nichts_gebeten_in_meinem_Namen,_BWV_87_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Bisher habt ihr nichts gebeten in meinem Namen, BWV 87"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Die_bittre_Leidenszeit_beginnet_abermal,_BWV_450_(Bach,_Johann_Sebastian)",
+      "year": 1735,
+      "title": "Die bittre Leidenszeit beginnet abermal, BWV 450"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bleib_bei_uns,_denn_es_will_Abend_werden,_BWV_6_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Bleib bei uns, denn es will Abend werden, BWV 6"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Brandenburg_Concerto_No.1_in_F_major,_BWV_1046_(Bach,_Johann_Sebastian)",
+      "year": 1721,
+      "title": "Brandenburg Concerto No.1 in F major, BWV 1046"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Brandenburg_Concerto_No.2_in_F_major,_BWV_1047_(Bach,_Johann_Sebastian)",
+      "year": 1721,
+      "title": "Brandenburg Concerto No.2 in F major, BWV 1047"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Brandenburg_Concerto_No.3_in_G_major,_BWV_1048_(Bach,_Johann_Sebastian)",
+      "year": 1718,
+      "title": "Brandenburg Concerto No.3 in G major, BWV 1048"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Brandenburg_Concerto_No.4_in_G_major,_BWV_1049_(Bach,_Johann_Sebastian)",
+      "year": 1719,
+      "title": "Brandenburg Concerto No.4 in G major, BWV 1049"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Brandenburg_Concerto_No.5_in_D_major,_BWV_1050_(Bach,_Johann_Sebastian)",
+      "year": 1720,
+      "title": "Brandenburg Concerto No.5 in D major, BWV 1050"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Brandenburg_Concerto_No.6_in_B-flat_major,_BWV_1051_(Bach,_Johann_Sebastian)",
+      "year": 1718,
+      "title": "Brandenburg Concerto No.6 in B-flat major, BWV 1051"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Brandenburg_Concerto_No.5_in_D_major,_BWV_1050a_(Bach,_Johann_Sebastian)",
+      "year": 1720,
+      "title": "Brandenburg Concerto No.5 in D major, BWV 1050a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Brich_dem_Hungrigen_dein_Brot,_BWV_39_(Bach,_Johann_Sebastian)",
+      "year": 1726,
+      "title": "Brich dem Hungrigen dein Brot, BWV 39"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Brich_entzwei,_mein_armes_Herze,_BWV_444_(Bach,_Johann_Sebastian)",
+      "year": 1736,
+      "title": "Brich entzwei, mein armes Herze, BWV 444"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bringet_dem_Herrn_Ehre_seines_Namens,_BWV_148_(Bach,_Johann_Sebastian)",
+      "year": 1723,
+      "title": "Bringet dem Herrn Ehre seines Namens, BWV 148"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Brunnquell_aller_G%C3%BCter,_BWV_445_(Bach,_Johann_Sebastian)",
+      "year": 1735,
+      "title": "Brunnquell aller G\u00fcter, BWV 445"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_in_A_minor,_BWV_1073_(Bach,_Johann_Sebastian)",
+      "year": 1713,
+      "title": "Canon in A minor, BWV 1073"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_in_A_minor,_BWV_1074_(Bach,_Johann_Sebastian)",
+      "year": 1727,
+      "title": "Canon in A minor, BWV 1074"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_in_D_major,_BWV_1075_(Bach,_Johann_Sebastian)",
+      "year": 1734,
+      "title": "Canon in D major, BWV 1075"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_in_D_major,_BWV_1086_(Bach,_Johann_Sebastian)",
+      "year": 1750,
+      "title": "Canon in D major, BWV 1086"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_in_F_major,_BWV_1078_(Bach,_Johann_Sebastian)",
+      "year": 1749,
+      "title": "Canon in F major, BWV 1078"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_in_G_major,_BWV_1076_(Bach,_Johann_Sebastian)",
+      "year": 1746,
+      "title": "Canon in G major, BWV 1076"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_in_G_major,_BWV_1077_(Bach,_Johann_Sebastian)",
+      "year": 1747,
+      "title": "Canon in G major, BWV 1077"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/14_Canons,_BWV_1087_(Bach,_Johann_Sebastian)",
+      "year": 1747,
+      "title": "14 Canons, BWV 1087"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cantata,_BWV_Anh.2_(Bach,_Johann_Sebastian)",
+      "year": 1729,
+      "title": "Cantata, BWV Anh.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canzona_in_D_minor,_BWV_588_(Bach,_Johann_Sebastian)",
+      "year": 1705,
+      "title": "Canzona in D minor, BWV 588"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Capriccio_in_B-flat_major,_BWV_992_(Bach,_Johann_Sebastian)",
+      "year": 1704,
+      "title": "Capriccio in B-flat major, BWV 992"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Capriccio_in_E_major,_BWV_993_(Bach,_Johann_Sebastian)",
+      "year": 1707,
+      "title": "Capriccio in E major, BWV 993"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cello_Suite_No.1_in_G_major,_BWV_1007_(Bach,_Johann_Sebastian)",
+      "year": 1717,
+      "title": "Cello Suite No.1 in G major, BWV 1007"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cello_Suite_No.2_in_D_minor,_BWV_1008_(Bach,_Johann_Sebastian)",
+      "year": 1717,
+      "title": "Cello Suite No.2 in D minor, BWV 1008"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cello_Suite_No.3_in_C_major,_BWV_1009_(Bach,_Johann_Sebastian)",
+      "year": 1717,
+      "title": "Cello Suite No.3 in C major, BWV 1009"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cello_Suite_No.4_in_E-flat_major,_BWV_1010_(Bach,_Johann_Sebastian)",
+      "year": 1717,
+      "title": "Cello Suite No.4 in E-flat major, BWV 1010"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cello_Suite_No.5_in_C_minor,_BWV_1011_(Bach,_Johann_Sebastian)",
+      "year": 1717,
+      "title": "Cello Suite No.5 in C minor, BWV 1011"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cello_Suite_No.6_in_D_major,_BWV_1012_(Bach,_Johann_Sebastian)",
+      "year": 1717,
+      "title": "Cello Suite No.6 in D major, BWV 1012"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Cello_Suites,_BWV_1007-1012_(Bach,_Johann_Sebastian)",
+      "year": 1717,
+      "title": "6 Cello Suites, BWV 1007-1012"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christ_ist_erstanden,_BWV_627_(Bach,_Johann_Sebastian)",
+      "year": 1716,
+      "title": "Christ ist erstanden, BWV 627"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christ_ist_erstanden,_BWV_276_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Christ ist erstanden, BWV 276"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christ_ist_erstanden,_BWV_746_(Bach,_Johann_Sebastian)",
+      "year": 1702,
+      "title": "Christ ist erstanden, BWV 746"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christ_lag_in_Todes_Banden,_BWV_4_(Bach,_Johann_Sebastian)",
+      "year": 1707,
+      "title": "Christ lag in Todes Banden, BWV 4"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christ_lag_in_Todes_Banden,_BWV_625_(Bach,_Johann_Sebastian)",
+      "year": 1716,
+      "title": "Christ lag in Todes Banden, BWV 625"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christ_lag_in_Todes_Banden,_BWV_277_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Christ lag in Todes Banden, BWV 277"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christ_lag_in_Todes_Banden,_BWV_278_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Christ lag in Todes Banden, BWV 278"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christ_lag_in_Todes_Banden,_BWV_279_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Christ lag in Todes Banden, BWV 279"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christ_unser_Herr_zum_Jordan_kam,_BWV_7_(Bach,_Johann_Sebastian)",
+      "year": 1724,
+      "title": "Christ unser Herr zum Jordan kam, BWV 7"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christ_unser_Herr_zum_Jordan_kam,_BWV_280_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Christ unser Herr zum Jordan kam, BWV 280"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christ,_der_du_bist_der_helle_Tag,_BWV_766_(Bach,_Johann_Sebastian)",
+      "year": 1750,
+      "title": "Christ, der du bist der helle Tag, BWV 766"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christ,_der_du_bist_der_helle_Tag,_BWV_1120_(Bach,_Johann_Sebastian)",
+      "year": 1703,
+      "title": "Christ, der du bist der helle Tag, BWV 1120"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christ,_der_du_bist_der_helle_Tag,_BWV_273_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Christ, der du bist der helle Tag, BWV 273"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christ,_du_Beistand_deiner_Kreuzgemeine,_BWV_275_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Christ, du Beistand deiner Kreuzgemeine, BWV 275"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christ,_unser_Herr,_zum_Jordan_kam,_BWV_684_(Bach,_Johann_Sebastian)",
+      "year": 1739,
+      "title": "Christ, unser Herr, zum Jordan kam, BWV 684"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christ,_unser_Herr,_zum_Jordan_kam,_BWV_685_(Bach,_Johann_Sebastian)",
+      "year": 1739,
+      "title": "Christ, unser Herr, zum Jordan kam, BWV 685"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christe_eleison_in_G_minor,_BWV_242_(Bach,_Johann_Sebastian)",
+      "year": 1727,
+      "title": "Christe eleison in G minor, BWV 242"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christe,_aller_Welt_Trost,_BWV_670_(Bach,_Johann_Sebastian)",
+      "year": 1739,
+      "title": "Christe, aller Welt Trost, BWV 670"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christe,_aller_Welt_Trost,_BWV_673_(Bach,_Johann_Sebastian)",
+      "year": 1739,
+      "title": "Christe, aller Welt Trost, BWV 673"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christe,_der_du_bist_Tag_und_Licht,_BWV_1096_(Bach,_Johann_Sebastian)",
+      "year": 1703,
+      "title": "Christe, der du bist Tag und Licht, BWV 1096"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christe,_der_du_bist_Tag_und_Licht,_BWV_274_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Christe, der du bist Tag und Licht, BWV 274"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christe,_du_Lamm_Gottes,_BWV_619_(Bach,_Johann_Sebastian)",
+      "year": 1716,
+      "title": "Christe, du Lamm Gottes, BWV 619"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christen,_%C3%A4tzet_diesen_Tag,_BWV_63_(Bach,_Johann_Sebastian)",
+      "year": 1714,
+      "title": "Christen, \u00e4tzet diesen Tag, BWV 63"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christum_wir_sollen_loben_schon,_BWV_121_(Bach,_Johann_Sebastian)",
+      "year": 1724,
+      "title": "Christum wir sollen loben schon, BWV 121"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christum_wir_sollen_loben_schon,_BWV_611_(Bach,_Johann_Sebastian)",
+      "year": 1714,
+      "title": "Christum wir sollen loben schon, BWV 611"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christum_wir_sollen_loben_schon,_BWV_696_(Bach,_Johann_Sebastian)",
+      "year": 1739,
+      "title": "Christum wir sollen loben schon, BWV 696"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christus_ist_erstanden,_BWV_284_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Christus ist erstanden, BWV 284"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christus,_der_ist_mein_Leben,_BWV_95_(Bach,_Johann_Sebastian)",
+      "year": 1723,
+      "title": "Christus, der ist mein Leben, BWV 95"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christus,_der_ist_mein_Leben,_BWV_1112_(Bach,_Johann_Sebastian)",
+      "year": 1703,
+      "title": "Christus, der ist mein Leben, BWV 1112"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christus,_der_ist_mein_Leben,_BWV_281_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Christus, der ist mein Leben, BWV 281"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christus,_der_ist_mein_Leben,_BWV_282_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Christus, der ist mein Leben, BWV 282"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christus,_der_uns_selig_macht,_BWV_620a_(Bach,_Johann_Sebastian)",
+      "year": 1714,
+      "title": "Christus, der uns selig macht, BWV 620a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christus,_der_uns_selig_macht,_BWV_620_(Bach,_Johann_Sebastian)",
+      "year": 1726,
+      "title": "Christus, der uns selig macht, BWV 620"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christus,_der_uns_selig_macht,_BWV_747_(Bach,_Johann_Sebastian)",
+      "year": 1731,
+      "title": "Christus, der uns selig macht, BWV 747"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christus,_der_uns_selig_macht,_BWV_283_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Christus, der uns selig macht, BWV 283"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_in_D_major,_BWV_972_(Bach,_Johann_Sebastian)",
+      "year": 1711,
+      "title": "Concerto in D major, BWV 972"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_in_D_major,_BWV_972a_(Bach,_Johann_Sebastian)",
+      "year": 1711,
+      "title": "Concerto in D major, BWV 972a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_in_G_major,_BWV_973_(Bach,_Johann_Sebastian)",
+      "year": 1720,
+      "title": "Concerto in G major, BWV 973"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_in_D_minor,_BWV_974_(Bach,_Johann_Sebastian)",
+      "year": 1715,
+      "title": "Concerto in D minor, BWV 974"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_in_G_minor,_BWV_975_(Bach,_Johann_Sebastian)",
+      "year": 1713,
+      "title": "Concerto in G minor, BWV 975"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_in_C_major,_BWV_976_(Bach,_Johann_Sebastian)",
+      "year": 1711,
+      "title": "Concerto in C major, BWV 976"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_in_C_major,_BWV_977_(Bach,_Johann_Sebastian)",
+      "year": 1713,
+      "title": "Concerto in C major, BWV 977"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_in_F_major,_BWV_978_(Bach,_Johann_Sebastian)",
+      "year": 1711,
+      "title": "Concerto in F major, BWV 978"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_in_B_minor,_BWV_979_(Bach,_Johann_Sebastian)",
+      "year": 1713,
+      "title": "Concerto in B minor, BWV 979"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_in_C_minor,_BWV_981_(Bach,_Johann_Sebastian)",
+      "year": 1708,
+      "title": "Concerto in C minor, BWV 981"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_in_B-flat_major,_BWV_982_(Bach,_Johann_Sebastian)",
+      "year": 1718,
+      "title": "Concerto in B-flat major, BWV 982"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_in_G_minor,_BWV_983_(Bach,_Johann_Sebastian)",
+      "year": 1713,
+      "title": "Concerto in G minor, BWV 983"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_in_G_major,_BWV_986_(Bach,_Johann_Sebastian)",
+      "year": 1713,
+      "title": "Concerto in G major, BWV 986"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_in_D_minor,_BWV_987_(Bach,_Johann_Sebastian)",
+      "year": 1718,
+      "title": "Concerto in D minor, BWV 987"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_and_Fugue_in_C_minor,_BWV_909_(Bach,_Johann_Sebastian)",
+      "year": 1703,
+      "title": "Concerto and Fugue in C minor, BWV 909"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_2_Harpsichords_in_C_major,_BWV_1061_(Bach,_Johann_Sebastian)",
+      "year": 1733,
+      "title": "Concerto for 2 Harpsichords in C major, BWV 1061"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_2_Harpsichords_in_C_minor,_BWV_1060_(Bach,_Johann_Sebastian)",
+      "year": 1730,
+      "title": "Concerto for 2 Harpsichords in C minor, BWV 1060"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_2_Harpsichords_in_C_minor,_BWV_1062_(Bach,_Johann_Sebastian)",
+      "year": 1736,
+      "title": "Concerto for 2 Harpsichords in C minor, BWV 1062"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_2_Violins_in_D_minor,_BWV_1043_(Bach,_Johann_Sebastian)",
+      "year": 1718,
+      "title": "Concerto for 2 Violins in D minor, BWV 1043"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_3_Harpsichords_in_C_major,_BWV_1064_(Bach,_Johann_Sebastian)",
+      "year": 1735,
+      "title": "Concerto for 3 Harpsichords in C major, BWV 1064"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_3_Harpsichords_in_D_minor,_BWV_1063_(Bach,_Johann_Sebastian)",
+      "year": 1735,
+      "title": "Concerto for 3 Harpsichords in D minor, BWV 1063"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_4_Harpsichords_in_A_minor,_BWV_1065_(Bach,_Johann_Sebastian)",
+      "year": 1730,
+      "title": "Concerto for 4 Harpsichords in A minor, BWV 1065"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_Flute,_Violin_and_Harpsichord_in_A_minor,_BWV_1044_(Bach,_Johann_Sebastian)",
+      "year": 1738,
+      "title": "Concerto for Flute, Violin and Harpsichord in A minor, BWV 1044"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_Violin_and_Oboe_in_C_minor,_BWV_1060R_(Bach,_Johann_Sebastian)",
+      "year": 1736,
+      "title": "Concerto for Violin and Oboe in C minor, BWV 1060R"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_in_G_minor,_BWV_1056R_(Bach,_Johann_Sebastian)",
+      "year": 1730,
+      "title": "Concerto in G minor, BWV 1056R"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Da_der_Herr_Christ_zu_Tische_sa%C3%9F,_BWV_285_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Da der Herr Christ zu Tische sa\u00df, BWV 285"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Markus-Passion_Pasticcio,_BC_D_5b_(Bach,_Johann_Sebastian)",
+      "year": 1726,
+      "title": "Markus-Passion Pasticcio, BC D 5b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Markus-Passion_Pasticcio,_BC_D_5_(Bach,_Johann_Sebastian)",
+      "year": 1743,
+      "title": "Markus-Passion Pasticcio, BC D 5"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Brandenburg_Concertos_(Bach,_Johann_Sebastian)",
+      "year": 1721,
+      "title": "6 Brandenburg Concertos"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Cantatas_(Bach,_Johann_Sebastian)",
+      "year": 1727,
+      "title": "2 Cantatas"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Cello_Suites,_BWV_1007-1012_(Bach,_Johann_Sebastian)",
+      "year": 1717,
+      "title": "6 Cello Suites, BWV 1007-1012"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/18_Chorale_Preludes,_BWV_651-668_(Bach,_Johann_Sebastian)",
+      "year": 1740,
+      "title": "18 Chorale Preludes, BWV 651-668"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chorale_Preludes,_BWV_669-689_(Bach,_Johann_Sebastian)",
+      "year": 1739,
+      "title": "Chorale Preludes, BWV 669-689"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chorale_Preludes,_BWV_690-713_(Bach,_Johann_Sebastian)",
+      "year": 1705,
+      "title": "Chorale Preludes, BWV 690-713"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Chor%C3%A4le_von_verschiedener_Art,_BWV_645-650_(Bach,_Johann_Sebastian)",
+      "year": 1747,
+      "title": "6 Chor\u00e4le von verschiedener Art, BWV 645-650"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Chor%C3%A4le_zu_Trauungen,_BWV_250-252_(Bach,_Johann_Sebastian)",
+      "year": 1734,
+      "title": "3 Chor\u00e4le zu Trauungen, BWV 250-252"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/149_Chorales,_D-LEb_Peters_Ms._R_18_(Bach,_Johann_Sebastian)",
+      "year": 1734,
+      "title": "149 Chorales, D-LEb Peters Ms. R 18"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Choralpartiten,_BWV_766-68,_770_(Bach,_Johann_Sebastian)",
+      "year": 1700,
+      "title": "Choralpartiten, BWV 766-68, 770"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Clavier-%C3%9Cbung_I_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Clavier-\u00dcbung I"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Clavier-%C3%9Cbung_II_(Bach,_Johann_Sebastian)",
+      "year": 1735,
+      "title": "Clavier-\u00dcbung II"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Clavier-%C3%9Cbung_III_(Bach,_Johann_Sebastian)",
+      "year": 1739,
+      "title": "Clavier-\u00dcbung III"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Clavier-%C3%9Cbung_IV_(Bach,_Johann_Sebastian)",
+      "year": 1741,
+      "title": "Clavier-\u00dcbung IV"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Duettos,_BWV_802-805_(Bach,_Johann_Sebastian)",
+      "year": 1739,
+      "title": "4 Duettos, BWV 802-805"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_English_Suites,_BWV_806-811_(Bach,_Johann_Sebastian)",
+      "year": 1715,
+      "title": "6 English Suites, BWV 806-811"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_French_Suites,_BWV_812-817_(Bach,_Johann_Sebastian)",
+      "year": 1722,
+      "title": "6 French Suites, BWV 812-817"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Inventions_and_Sinfonias,_BWV_772-801_(Bach,_Johann_Sebastian)",
+      "year": 1720,
+      "title": "Inventions and Sinfonias, BWV 772-801"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Klavierb%C3%BCchlein_f%C3%BCr_Wilhelm_Friedemann_Bach_(Bach,_Johann_Sebastian)",
+      "year": 1720,
+      "title": "Klavierb\u00fcchlein f\u00fcr Wilhelm Friedemann Bach"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Konzertbearbeitungen,_BWV_592-596_(Bach,_Johann_Sebastian)",
+      "year": 1713,
+      "title": "Konzertbearbeitungen, BWV 592-596"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/16_Konzerte_nach_verschiedenen_Meistern,_BWV_972%E2%80%93987_(Bach,_Johann_Sebastian)",
+      "year": 1713,
+      "title": "16 Konzerte nach verschiedenen Meistern, BWV 972\u2013987"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Masses,_BWV_233,_235-236_(Bach,_Johann_Sebastian)",
+      "year": 1738,
+      "title": "3 Masses, BWV 233, 235-236"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Minuets,_BWV_841-843_(Bach,_Johann_Sebastian)",
+      "year": 1720,
+      "title": "3 Minuets, BWV 841-843"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Notebooks_for_Anna_Magdalena_Bach_(Bach,_Johann_Sebastian)",
+      "year": 1722,
+      "title": "Notebooks for Anna Magdalena Bach"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/26_Organ_Pieces_(Bach,_Johann_Sebastian)",
+      "year": 1730,
+      "title": "26 Organ Pieces"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Das_Orgel-B%C3%BCchlein,_BWV_599-644_(Bach,_Johann_Sebastian)",
+      "year": 1708,
+      "title": "Das Orgel-B\u00fcchlein, BWV 599-644"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Partitas,_BWV_825-830_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "6 Partitas, BWV 825-830"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ach_bleib_bei_uns,_Herr_Jesu_Christ,_BWV_253_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Ach bleib bei uns, Herr Jesu Christ, BWV 253"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ach_Gott_und_Herr,_BWV_255_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Ach Gott und Herr, BWV 255"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ach_Gott,_erh%C3%B6r_mein_Seufzen_und_Wehklagen,_BWV_254_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Ach Gott, erh\u00f6r mein Seufzen und Wehklagen, BWV 254"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ach_lieben_Christen,_seid_getrost,_BWV_256_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Ach lieben Christen, seid getrost, BWV 256"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ach,_was_soll_ich_S%C3%BCnder_machen,_BWV_259_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Ach, was soll ich S\u00fcnder machen, BWV 259"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Alle_Menschen_m%C3%BCssen_sterben,_BWV_262_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Alle Menschen m\u00fcssen sterben, BWV 262"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allein_Gott_in_der_H%C3%B6h_sei_Ehr,_BWV_260_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Allein Gott in der H\u00f6h sei Ehr, BWV 260"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allein_zu_dir,_Herr_Jesu_Christ,_BWV_261_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Allein zu dir, Herr Jesu Christ, BWV 261"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Alles_ist_an_Gottes_Segen,_BWV_263_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Alles ist an Gottes Segen, BWV 263"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Als_der_g%C3%BCtige_Gott,_BWV_264_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Als der g\u00fctige Gott, BWV 264"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Als_Jesus_Christus_in_der_Nacht,_BWV_265_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Als Jesus Christus in der Nacht, BWV 265"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Als_vierzig_Tag_nach_Ostern_war,_BWV_266_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Als vierzig Tag nach Ostern war, BWV 266"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Das_alte_Jahr_vergangen_ist,_BWV_288_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Das alte Jahr vergangen ist, BWV 288"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Das_alte_Jahr_vergangen_ist,_BWV_289_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Das alte Jahr vergangen ist, BWV 289"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/An_Wasserfl%C3%BCssen_Babylon,_BWV_267_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "An Wasserfl\u00fcssen Babylon, BWV 267"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Auf,_auf,_mein_Herz,_und_du,_mein_ganzer_Sinn,_BWV_268_(Bach,_Johann_Sebastian)",
+      "year": 1731,
+      "title": "Auf, auf, mein Herz, und du, mein ganzer Sinn, BWV 268"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Aus_meines_Herzens_Grunde,_BWV_269_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Aus meines Herzens Grunde, BWV 269"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Befiehl_du_deine_Wege,_BWV_270_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Befiehl du deine Wege, BWV 270"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Befiehl_du_deine_Wege,_BWV_271_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Befiehl du deine Wege, BWV 271"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Befiehl_du_deine_Wege,_BWV_272_(Bach,_Johann_Sebastian)",
+      "year": 1730,
+      "title": "Befiehl du deine Wege, BWV 272"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bekennen_will_ich_seinen_Namen,_BWV_200_(Bach,_Johann_Sebastian)",
+      "year": 1742,
+      "title": "Bekennen will ich seinen Namen, BWV 200"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christ_ist_erstanden,_BWV_276_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Christ ist erstanden, BWV 276"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christ_lag_in_Todes_Banden,_BWV_277_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Christ lag in Todes Banden, BWV 277"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christ_lag_in_Todes_Banden,_BWV_278_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Christ lag in Todes Banden, BWV 278"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christ_lag_in_Todes_Banden,_BWV_279_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Christ lag in Todes Banden, BWV 279"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christ_unser_Herr_zum_Jordan_kam,_BWV_280_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Christ unser Herr zum Jordan kam, BWV 280"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christ,_der_du_bist_der_helle_Tag,_BWV_273_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Christ, der du bist der helle Tag, BWV 273"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christ,_du_Beistand_deiner_Kreuzgemeine,_BWV_275_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Christ, du Beistand deiner Kreuzgemeine, BWV 275"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christe,_der_du_bist_Tag_und_Licht,_BWV_274_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Christe, der du bist Tag und Licht, BWV 274"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christus_ist_erstanden,_BWV_284_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Christus ist erstanden, BWV 284"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christus,_der_ist_mein_Leben,_BWV_281_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Christus, der ist mein Leben, BWV 281"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christus,_der_ist_mein_Leben,_BWV_282_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Christus, der ist mein Leben, BWV 282"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christus,_der_uns_selig_macht,_BWV_283_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Christus, der uns selig macht, BWV 283"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Da_der_Herr_Christ_zu_Tische_sa%C3%9F,_BWV_285_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Da der Herr Christ zu Tische sa\u00df, BWV 285"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dank_sei_Gott_in_der_H%C3%B6he,_BWV_287_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Dank sei Gott in der H\u00f6he, BWV 287"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Danket_dem_Herren,_denn_er_ist_sehr_freundlich,_BWV_286_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Danket dem Herren, denn er ist sehr freundlich, BWV 286"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Den_Vater_dort_oben,_BWV_292_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Den Vater dort oben, BWV 292"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dies_sind_die_heilgen_zehn_Gebot,_BWV_298_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Dies sind die heilgen zehn Gebot, BWV 298"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dir,_dir,_Jehova,_will_ich_singen,_BWV_299_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Dir, dir, Jehova, will ich singen, BWV 299"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Der_du_bist_drei_in_Einigkeit,_BWV_293_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Der du bist drei in Einigkeit, BWV 293"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Du_gro%C3%9Fer_Schmerzensmann,_BWV_300_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Du gro\u00dfer Schmerzensmann, BWV 300"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Du,_o_sch%C3%B6nes_Weltgeb%C3%A4ude,_BWV_301_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Du, o sch\u00f6nes Weltgeb\u00e4ude, BWV 301"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ein_feste_Burg_ist_unser_Gott,_BWV_302_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Ein feste Burg ist unser Gott, BWV 302"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ein_feste_Burg_ist_unser_Gott,_BWV_303_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Ein feste Burg ist unser Gott, BWV 303"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Eins_ist_not,_ach_Herr,_dies_eine,_BWV_304_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Eins ist not, ach Herr, dies eine, BWV 304"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Erbarm_dich_mein,_o_Herre_Gott,_BWV_305_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Erbarm dich mein, o Herre Gott, BWV 305"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Erstanden_ist_der_heilge_Christ,_BWV_306_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Erstanden ist der heilge Christ, BWV 306"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Es_ist_gewi%C3%9Flich_an_der_Zeit,_BWV_307_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Es ist gewi\u00dflich an der Zeit, BWV 307"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Es_spricht_der_Unweisen_Mund_wohl,_BWV_308_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Es spricht der Unweisen Mund wohl, BWV 308"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Es_stehn_vor_Gottes_Throne,_BWV_309_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Es stehn vor Gottes Throne, BWV 309"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Es_wird_schier_der_letzte_Tag_herkommen,_BWV_310_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Es wird schier der letzte Tag herkommen, BWV 310"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Es_woll_uns_Gott_gen%C3%A4dig_sein,_BWV_311_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Es woll uns Gott gen\u00e4dig sein, BWV 311"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Es_woll_uns_Gott_gen%C3%A4dig_sein,_BWV_312_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Es woll uns Gott gen\u00e4dig sein, BWV 312"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fugue_in_G_minor,_BWV_131a_(Bach,_Johann_Sebastian)",
+      "year": 1731,
+      "title": "Fugue in G minor, BWV 131a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/F%C3%BCr_deinen_Thron_tret_ich_hiermit,_BWV_327_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "F\u00fcr deinen Thron tret ich hiermit, BWV 327"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/F%C3%BCr_Freuden_la%C3%9Ft_uns_springen,_BWV_313_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "F\u00fcr Freuden la\u00dft uns springen, BWV 313"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Gelobet_seist_du,_Jesu_Christ,_BWV_314_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Gelobet seist du, Jesu Christ, BWV 314"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Gib_dich_zufrieden_und_sei_stille,_BWV_315_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Gib dich zufrieden und sei stille, BWV 315"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Gott_der_Vater_wohn_uns_bei,_BWV_317_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Gott der Vater wohn uns bei, BWV 317"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Gott_hat_das_Evangelium,_BWV_319_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Gott hat das Evangelium, BWV 319"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Gott_lebet_noch,_BWV_320_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Gott lebet noch, BWV 320"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Gott_sei_gelobet_und_gebenedeiet,_BWV_322_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Gott sei gelobet und gebenedeiet, BWV 322"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Gott_sei_uns_gn%C3%A4dig_und_barmherzig,_BWV_323_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Gott sei uns gn\u00e4dig und barmherzig, BWV 323"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Gott,_der_du_selber_bist_das_Licht,_BWV_316_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Gott, der du selber bist das Licht, BWV 316"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Gottes_Sohn_ist_kommen,_BWV_318_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Gottes Sohn ist kommen, BWV 318"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Gottlob,_es_geht_nunmehr_zum_Ende,_BWV_321_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Gottlob, es geht nunmehr zum Ende, BWV 321"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Des_Heilgen_Geistes_reiche_Gnad,_BWV_295_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Des Heilgen Geistes reiche Gnad, BWV 295"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Heilig,_heilig,_heilig,_BWV_325_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Heilig, heilig, heilig, BWV 325"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Herr_Gott,_dich_loben_alle_wir,_BWV_326_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Herr Gott, dich loben alle wir, BWV 326"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Herr_Gott,_dich_loben_wir,_BWV_328_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Herr Gott, dich loben wir, BWV 328"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Herr_Jesu_Christ,_dich_zu_uns_wend,_BWV_332_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Herr Jesu Christ, dich zu uns wend, BWV 332"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Herr_Jesu_Christ,_du_hast_bereit%27,_BWV_333_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Herr Jesu Christ, du hast bereit', BWV 333"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Herr_Jesu_Christ,_du_h%C3%B6chstes_Gut,_BWV_334_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Herr Jesu Christ, du h\u00f6chstes Gut, BWV 334"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Herr_Jesu_Christ,_meins_Lebens_Licht,_BWV_335_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Herr Jesu Christ, meins Lebens Licht, BWV 335"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Herr_Jesu_Christ,_wahr%27_Mensch_und_Gott,_BWV_336_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Herr Jesu Christ, wahr' Mensch und Gott, BWV 336"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Herr,_ich_denk_an_jene_Zeit,_BWV_329_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Herr, ich denk an jene Zeit, BWV 329"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Herr,_ich_habe_mi%C3%9Fgehandelt,_BWV_330_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Herr, ich habe mi\u00dfgehandelt, BWV 330"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Herr,_ich_habe_mi%C3%9Fgehandelt,_BWV_331_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Herr, ich habe mi\u00dfgehandelt, BWV 331"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Herr,_nun_la%C3%9F_in_Friede,_BWV_337_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Herr, nun la\u00df in Friede, BWV 337"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Herr,_straf_mich_nicht_in_deinem_Zorn,_BWV_338_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Herr, straf mich nicht in deinem Zorn, BWV 338"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Herr,_wie_du_willt,_so_schick%27s_mit_mir,_BWV_339_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Herr, wie du willt, so schick's mit mir, BWV 339"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Herzlich_lieb_hab_ich_dich,_o_Herr,_BWV_340_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Herzlich lieb hab ich dich, o Herr, BWV 340"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Heut_ist,_o_Mensch,_ein_gro%C3%9Fer_Trauertag,_BWV_341_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Heut ist, o Mensch, ein gro\u00dfer Trauertag, BWV 341"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Heut_triumphieret_Gottes_Sohn,_BWV_342_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Heut triumphieret Gottes Sohn, BWV 342"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hilf,_Gott,_da%C3%9F_mirs_gelinge,_BWV_343_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Hilf, Gott, da\u00df mirs gelinge, BWV 343"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hilf,_Herr_Jesu,_la%C3%9F_gelingen,_BWV_344_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Hilf, Herr Jesu, la\u00df gelingen, BWV 344"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ich_bin_ja,_Herr,_in_deiner_Macht,_BWV_345_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Ich bin ja, Herr, in deiner Macht, BWV 345"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ich_dank_dir_schon_durch_deinen_Sohn,_BWV_349_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Ich dank dir schon durch deinen Sohn, BWV 349"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ich_dank_dir,_Gott,_f%C3%BCr_deine_Wohltat,_BWV_346_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Ich dank dir, Gott, f\u00fcr deine Wohltat, BWV 346"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ich_dank_dir,_lieber_Herre,_BWV_347_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Ich dank dir, lieber Herre, BWV 347"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ich_dank_dir,_lieber_Herre,_BWV_348_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Ich dank dir, lieber Herre, BWV 348"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ich_danke_dir,_o_Gott,_in_deinem_Throne,_BWV_350_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Ich danke dir, o Gott, in deinem Throne, BWV 350"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ich_hab_mein_Sach_Gott_heimgestellt,_BWV_351_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Ich hab mein Sach Gott heimgestellt, BWV 351"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ihr_Gestirn,_ihr_hohlen_L%C3%BCfte,_BWV_366_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Ihr Gestirn, ihr hohlen L\u00fcfte, BWV 366"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/In_allen_meinen_Taten,_BWV_367_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "In allen meinen Taten, BWV 367"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/In_dulci_jubilo,_BWV_368_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "In dulci jubilo, BWV 368"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jesu,_der_du_meine_Seele,_BWV_352_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Jesu, der du meine Seele, BWV 352"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jesu,_der_du_meine_Seele,_BWV_353_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Jesu, der du meine Seele, BWV 353"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jesu,_der_du_meine_Seele,_BWV_354_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Jesu, der du meine Seele, BWV 354"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jesu,_der_du_selbsten_wohl,_BWV_355_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Jesu, der du selbsten wohl, BWV 355"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jesu,_du_mein_liebstes_Leben,_BWV_356_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Jesu, du mein liebstes Leben, BWV 356"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jesu,_Jesu,_du_bist_mein,_BWV_357_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Jesu, Jesu, du bist mein, BWV 357"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jesu,_meine_Freude,_BWV_358_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Jesu, meine Freude, BWV 358"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jesu,_meiner_Seelen_Wonne,_BWV_359_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Jesu, meiner Seelen Wonne, BWV 359"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jesu,_meiner_Seelen_Wonne,_BWV_360_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Jesu, meiner Seelen Wonne, BWV 360"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jesu,_meines_Herzens_Freud,_BWV_361_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Jesu, meines Herzens Freud, BWV 361"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jesu,_nun_sei_gepreiset,_BWV_362_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Jesu, nun sei gepreiset, BWV 362"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jesus_Christus,_unser_Heiland,_BWV_363_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Jesus Christus, unser Heiland, BWV 363"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jesus_Christus,_unser_Heiland,_BWV_364_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Jesus Christus, unser Heiland, BWV 364"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jesus,_meine_Zuversicht,_BWV_365_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Jesus, meine Zuversicht, BWV 365"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Keinen_hat_Gott_verlassen,_BWV_369_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Keinen hat Gott verlassen, BWV 369"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Komm,_Gott_Sch%C3%B6pfer,_heiliger_Geist,_BWV_370_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Komm, Gott Sch\u00f6pfer, heiliger Geist, BWV 370"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Kyrie,_Gott_Vater_in_Ewigkeit,_BWV_371_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Kyrie, Gott Vater in Ewigkeit, BWV 371"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La%C3%9F,_o_Herr,_dein_Ohr_sich_neigen,_BWV_372_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "La\u00df, o Herr, dein Ohr sich neigen, BWV 372"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Liebster_Jesu,_wir_sind_hier,_BWV_373_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Liebster Jesu, wir sind hier, BWV 373"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lobet_den_Herren,_denn_er_ist_sehr_freundlich,_BWV_374_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Lobet den Herren, denn er ist sehr freundlich, BWV 374"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lobt_Gott,_ihr_Christen,_allzugleich,_BWV_375_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Lobt Gott, ihr Christen, allzugleich, BWV 375"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lobt_Gott,_ihr_Christen,_allzugleich,_BWV_376_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Lobt Gott, ihr Christen, allzugleich, BWV 376"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Machs_mit_mir,_Gott,_nach_deiner_G%C3%BCt,_BWV_377_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Machs mit mir, Gott, nach deiner G\u00fct, BWV 377"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Markus-Passion_Pasticcio,_BWV_1166_(Bach,_Johann_Sebastian)",
+      "year": 1713,
+      "title": "Markus-Passion Pasticcio, BWV 1166"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mein_Augen_schlie%C3%9F_ich_jetzt,_BWV_378_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Mein Augen schlie\u00df ich jetzt, BWV 378"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Meine_Seele_erhebt_den_Herren,_BWV_324_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Meine Seele erhebt den Herren, BWV 324"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Meinen_Jesum_la%C3%9F_ich_nicht,_BWV_379_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Meinen Jesum la\u00df ich nicht, BWV 379"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Meinen_Jesum_la%C3%9F_ich_nicht,_BWV_380_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Meinen Jesum la\u00df ich nicht, BWV 380"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Meines_Lebens_letzte_Zeit,_BWV_381_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Meines Lebens letzte Zeit, BWV 381"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mit_Fried_und_Freud_ich_fahr_dahin,_BWV_382_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Mit Fried und Freud ich fahr dahin, BWV 382"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mitten_wir_im_Leben_sind,_BWV_383_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Mitten wir im Leben sind, BWV 383"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Die_Nacht_ist_kommen,_BWV_296_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Die Nacht ist kommen, BWV 296"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nicht_so_traurig,_nicht_so_sehr,_BWV_384_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Nicht so traurig, nicht so sehr, BWV 384"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nun_bitten_wir_den_Heiligen_Geist,_BWV_385_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Nun bitten wir den Heiligen Geist, BWV 385"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nun_danket_alle_Gott,_BWV_386_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Nun danket alle Gott, BWV 386"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nun_freut_euch,_Gottes_Kinder_all,_BWV_387_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Nun freut euch, Gottes Kinder all, BWV 387"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nun_freut_euch,_lieben_Christen_gmein,_BWV_388_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Nun freut euch, lieben Christen gmein, BWV 388"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nun_lob,_mein_Seel,_den_Herren,_BWV_389_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Nun lob, mein Seel, den Herren, BWV 389"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nun_lob,_mein_Seel,_den_Herren,_BWV_390_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Nun lob, mein Seel, den Herren, BWV 390"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nun_preiset_alle_Gottes_Barmherzigkeit,_BWV_391_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Nun preiset alle Gottes Barmherzigkeit, BWV 391"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nun_ruhen_alle_W%C3%A4lder,_BWV_392_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Nun ruhen alle W\u00e4lder, BWV 392"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nun_sich_der_Tag_geendet_hat,_BWV_396_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Nun sich der Tag geendet hat, BWV 396"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/O_Ewigkeit,_du_Donnerwort,_BWV_397_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "O Ewigkeit, du Donnerwort, BWV 397"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/O_Ewigkeit,_du_Donnerwort,_BWV_513_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "O Ewigkeit, du Donnerwort, BWV 513"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/O_Gott,_du_frommer_Gott,_BWV_398_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "O Gott, du frommer Gott, BWV 398"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/O_Gott,_du_frommer_Gott,_BWV_399_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "O Gott, du frommer Gott, BWV 399"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/O_Herzensangst,_o_Bangigkeit_und_Zagen,_BWV_400_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "O Herzensangst, o Bangigkeit und Zagen, BWV 400"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/O_Lamm_Gottes,_unschuldig,_BWV_401_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "O Lamm Gottes, unschuldig, BWV 401"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/O_Mensch,_bewein_dein_S%C3%BCnde_gro%C3%9F,_BWV_402_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "O Mensch, bewein dein S\u00fcnde gro\u00df, BWV 402"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/O_Mensch,_schau_Jesum_Christum_an,_BWV_403_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "O Mensch, schau Jesum Christum an, BWV 403"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/O_Traurigkeit,_o_Herzeleid,_BWV_404_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "O Traurigkeit, o Herzeleid, BWV 404"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/O_Welt,_sieh_hier_dein_Leben,_BWV_393_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "O Welt, sieh hier dein Leben, BWV 393"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/O_Welt,_sieh_hier_dein_Leben,_BWV_394_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "O Welt, sieh hier dein Leben, BWV 394"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/O_Welt,_sieh_hier_dein_Leben,_BWV_395_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "O Welt, sieh hier dein Leben, BWV 395"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/O_wie_selig_seid_ihr_doch,_ihr_Frommen,_BWV_405_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "O wie selig seid ihr doch, ihr Frommen, BWV 405"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/O_wie_selig_seid_ihr_doch,_ihr_Frommen,_BWV_406_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "O wie selig seid ihr doch, ihr Frommen, BWV 406"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/O_wir_armen_S%C3%BCnder,_BWV_407_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "O wir armen S\u00fcnder, BWV 407"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Organ_Concerto_in_A_minor,_BWV_593_(Bach,_Johann_Sebastian)",
+      "year": 1713,
+      "title": "Organ Concerto in A minor, BWV 593"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Organ_Concerto_in_C_major,_BWV_594_(Bach,_Johann_Sebastian)",
+      "year": 1713,
+      "title": "Organ Concerto in C major, BWV 594"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Organ_Concerto_in_C_major,_BWV_595_(Bach,_Johann_Sebastian)",
+      "year": 1713,
+      "title": "Organ Concerto in C major, BWV 595"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Organ_Concerto_in_D_minor,_BWV_596_(Bach,_Johann_Sebastian)",
+      "year": 1713,
+      "title": "Organ Concerto in D minor, BWV 596"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Schaut,_ihr_S%C3%BCnder,_BWV_408_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Schaut, ihr S\u00fcnder, BWV 408"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Seelenbr%C3%A4utigam,_BWV_409_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Seelenbr\u00e4utigam, BWV 409"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sei_gegr%C3%BC%C3%9Fet,_Jesu_g%C3%BCtig,_BWV_410_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Sei gegr\u00fc\u00dfet, Jesu g\u00fctig, BWV 410"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Singt_dem_Herrn_ein_neues_Lied,_BWV_411_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Singt dem Herrn ein neues Lied, BWV 411"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/So_gibst_du_nun,_mein_Jesu,_gute_Nacht,_BWV_412_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "So gibst du nun, mein Jesu, gute Nacht, BWV 412"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sollt_ich_meinem_Gott_nicht_singen,_BWV_413_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Sollt ich meinem Gott nicht singen, BWV 413"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Die_Sonn_hat_sich_mit_ihrem_Glanz_gewendet,_BWV_297_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Die Sonn hat sich mit ihrem Glanz gewendet, BWV 297"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Der_Tag,_der_ist_so_freudenreich,_BWV_294_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Der Tag, der ist so freudenreich, BWV 294"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Tilge,_H%C3%B6chster,_meine_S%C3%BCnden,_BWV_1083_(Bach,_Johann_Sebastian)",
+      "year": 1745,
+      "title": "Tilge, H\u00f6chster, meine S\u00fcnden, BWV 1083"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Uns_ist_ein_Kindlein_heut_geborn,_BWV_414_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Uns ist ein Kindlein heut geborn, BWV 414"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Valet_will_ich_dir_geben,_BWV_415_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Valet will ich dir geben, BWV 415"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Vater_unser_im_Himmelreich,_BWV_416_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Vater unser im Himmelreich, BWV 416"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Von_Gott_will_ich_nicht_lassen,_BWV_417_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Von Gott will ich nicht lassen, BWV 417"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Von_Gott_will_ich_nicht_lassen,_BWV_418_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Von Gott will ich nicht lassen, BWV 418"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Von_Gott_will_ich_nicht_lassen,_BWV_419_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Von Gott will ich nicht lassen, BWV 419"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Das_walt_Gott_Vater_und_Gott_Sohn,_BWV_290_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Das walt Gott Vater und Gott Sohn, BWV 290"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Das_walt_mein_Gott,_BWV_291_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "Das walt mein Gott, BWV 291"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/W%C3%A4r_Gott_nicht_mit_uns_diese_Zeit,_BWV_257_(Bach,_Johann_Sebastian)",
+      "year": 1725,
+      "title": "W\u00e4r Gott nicht mit uns diese Zeit, BWV 257"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jauchzet_Gott_in_allen_Landen,_BWV_51_(Bach,_Johann_Sebastian)",
+      "year": 1727,
+      "title": "Jauchzet Gott in allen Landen, BWV 51"
+    }
+  ]
+}

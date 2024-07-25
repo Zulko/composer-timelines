@@ -1,0 +1,256 @@
+{
+  "full_name": "Nadia Boulanger",
+  "first_names": "Nadia",
+  "last_name": "Boulanger",
+  "birth_year": 1887,
+  "death_year": 1979,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nadia_Boulanger",
+  "events": [
+    {
+      "event": "Return to France",
+      "summary": "Boulanger made a grand return to France, presumably ready to conquer the music world, on an unassuming day in February. One could imagine her strutting off the train with a suitcase full of compositions and a flair for drama.",
+      "year": 1925,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Lessons with Gershwin",
+      "summary": "In a humorous twist, when Gershwin, the famed composer, asked Boulanger for lessons, he got a witty response instead. After a brief chat, she declared she could teach him nothing, and he humorously took it as the highest form of compliment.",
+      "year": 1927,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Paris debut as conductor",
+      "summary": "Amidst the chaos of riots, Boulanger rose like a phoenix (or maybe just a determined conductor) and made her Paris debut. She bravely tackled Mozart, Bach, and Fran\u00e7aix, proving that music could unite even during turmoil.",
+      "year": 1934,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First woman to conduct London Philharmonic Orchestra",
+      "summary": "Boulanger broke barriers by substituting for a famous pianist and commanding the London Philharmonic Orchestra, all while ensuring her dynamic levels didn't scare off any faint-hearted musicians.",
+      "year": 1936,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Recording Monteverdi madrigals",
+      "summary": "With her passion for Monteverdi, Boulanger decided to record some madrigals, delighting many but raising eyebrows among purists who weren't quite ready for modern instruments playing old tunes.",
+      "year": 1937,
+      "city": "Unknown",
+      "country": "Unknown"
+    },
+    {
+      "event": "Conducted complete concert of Royal Philharmonic Society",
+      "summary": "Boulanger became the first woman to conduct a full concert of the Royal Philharmonic Society, showcasing her penchant for delicate dynamics and powerful expressions without ever cranking it up to eleven.",
+      "year": 1937,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Tour of America",
+      "summary": "Boulanger began a whirlwind tour of America where she conducted several major orchestras and delivered over a hundred lectures, proving that she was not just a maestro but also a master of multitasking.",
+      "year": 1938,
+      "city": "Various",
+      "country": "United States"
+    },
+    {
+      "event": "Moved to New York before WWII",
+      "summary": "Just before chaos ensued, Boulanger made a tactical move across the ocean to New York, bringing her unique blend of charm and musical genius to the bustling American scene, escaping the storm brewing in Europe.",
+      "year": 1940,
+      "city": "New York",
+      "country": "United States"
+    },
+    {
+      "event": "Position at Paris Conservatoire",
+      "summary": "Taking her talents to the prestigious Paris Conservatoire, she began shaping the minds of the next generation of musicians while probably insisting on complete attention at all times\u2014no pressure, right?",
+      "year": 1946,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Organizing music for Grace Kelly's wedding",
+      "summary": "Boulanger had the honor of organizing the music for Prince Rainier of Monaco's wedding to Grace Kelly, a task she probably approached with more flair than many wedding planners would dare to!",
+      "year": 1956,
+      "city": "Monaco",
+      "country": "Monaco"
+    },
+    {
+      "event": "Induction into Sigma Alpha Iota",
+      "summary": "Boulanger became an honorary member of the international women's music fraternity, perhaps thinking, 'Finally, a sisterhood that knows the importance of good music and good company!'",
+      "year": 1958,
+      "city": "Potsdam",
+      "country": "United States"
+    },
+    {
+      "event": "Invited to the White House",
+      "summary": "Boulanger received the ultimate invite\u2014to the White House by JFK! One can only imagine the music-filled conversations that stirred up between the First Couple and the legendary composer.",
+      "year": 1962,
+      "city": "Washington D.C.",
+      "country": "United States"
+    },
+    {
+      "event": "Surprise birthday celebration",
+      "summary": "Just shy of her 90th birthday, Boulanger was surprised with a birthday bash that had all the pomp of a royal celebration, complete with floating candles, proving one is never too old for a little fanfare.",
+      "year": 1977,
+      "city": "Fontainebleau",
+      "country": "France"
+    },
+    {
+      "event": "Chevalier to the L\u00e9gion d'honneur",
+      "summary": "In a dazzling ceremony, she received the Chevalier to the L\u00e9gion d'honneur, marking her as a French musical treasure and making the local gossip mill spin about who wore the best beret.",
+      "year": 1932,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Order of Polonia Restituta",
+      "summary": "Being recognized with the Order of Polonia Restituta felt like being handed the ultimate backstage pass to Poland's cultural revival\u2014it's safe to say she was the star of the show.",
+      "year": 1934,
+      "city": "Warsaw",
+      "country": "Poland"
+    },
+    {
+      "event": "Foreign Honorary Member of the American Academy of Arts and Sciences",
+      "summary": "Nadia became a Foreign Honorary Member, showing that even across the ocean she was like a secret agent of musical magic, known for her charm and uncanny ability to make notes dance.",
+      "year": 1962,
+      "city": "Cambridge",
+      "country": "USA"
+    },
+    {
+      "event": "Howland Memorial Prize",
+      "summary": "Winning the Howland Memorial Prize was the cherry on top of her already sweet musical career, because who doesn't love a good trophy to put next to their piano?",
+      "year": 1962,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "M\u00e9daille d'Or of the Acad\u00e9mie des Beaux-Arts",
+      "summary": "Receiving the M\u00e9daille d'Or was like being crowned queen of the arts\u2014no tiara required, just a whole lot of talent and a flair for the dramatic.",
+      "year": 1975,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Grand officier to the L\u00e9gion d'honneur",
+      "summary": "Achieving the title of Grand officier to the L\u00e9gion d'honneur was her way of saying, 'I\u2019d like to thank my piano for the support, and my audience for their applause.'",
+      "year": 1977,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Order of the British Empire",
+      "summary": "Being honored with the Order of the British Empire made her the talk of the tea party, proving that music really is the universal language\u2014especially when tea is involved.",
+      "year": 1977,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Order of St. Charles of Monaco",
+      "summary": "Nadia was bestowed the Order of St. Charles, making her not just a composer but also a royal favorite\u2014after all, every royal needs someone who can compose a fit-for-a-prince anthem.",
+      "year": 1977,
+      "city": "Monaco",
+      "country": "Monaco"
+    },
+    {
+      "event": "Order of the Crown of Belgium",
+      "summary": "Scooping up the Order of the Crown was like getting a royal thumbs-up from Belgium itself; cheese sales probably went up after that!",
+      "year": 1977,
+      "city": "Brussels",
+      "country": "Belgium"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/Au_bord_de_la_route_(Boulanger,_Nadia)",
+      "year": 1922,
+      "title": "Au bord de la route"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cantique_(Boulanger,_Nadia)",
+      "year": 1909,
+      "title": "Cantique"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chanson_(Boulanger,_Nadia)",
+      "year": 1909,
+      "title": "Chanson"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_couteau_(Boulanger,_Nadia)",
+      "year": 1922,
+      "title": "Le couteau"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Doute_(Boulanger,_Nadia)",
+      "year": 1922,
+      "title": "Doute"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27%C3%A9change_(Boulanger,_Nadia)",
+      "year": 1922,
+      "title": "L'\u00e9change"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%89l%C3%A9gie_(Boulanger,_Nadia)",
+      "year": 1906,
+      "title": "\u00c9l\u00e9gie"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Elle_a_vendu_mon_c%C5%93ur_(Boulanger,_Nadia)",
+      "year": 1922,
+      "title": "Elle a vendu mon c\u0153ur"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Improvisations_(Boulanger,_Nadia)",
+      "year": 1911,
+      "title": "3 Improvisations"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/J%27ai_frapp%C3%A9_(Boulanger,_Nadia)",
+      "year": 1922,
+      "title": "J'ai frapp\u00e9"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Pieces_for_Cello_and_Piano_(Boulanger,_Nadia)",
+      "year": 1914,
+      "title": "3 Pieces for Cello and Piano"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pri%C3%A8re_(Boulanger,_Nadia)",
+      "year": 1909,
+      "title": "Pri\u00e8re"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Soir_d%27hiver_(Boulanger,_Nadia)",
+      "year": 1914,
+      "title": "Soir d'hiver"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Soleils_couchants_(Boulanger,_Nadia)",
+      "year": 1907,
+      "title": "Soleils couchants"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Vers_la_vie_nouvelle_(Boulanger,_Nadia)",
+      "year": 1916,
+      "title": "Vers la vie nouvelle"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Versailles_(Boulanger,_Nadia)",
+      "year": 1906,
+      "title": "Versailles"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Was_will_die_eins%C3%A4me_Thr%C3%A4ne_(Boulanger,_Nadia)",
+      "year": 1908,
+      "title": "Was will die eins\u00e4me Thr\u00e4ne"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_heures_claires_(Boulanger,_Nadia)",
+      "year": 1909,
+      "title": "Les heures claires"
+    }
+  ]
+}

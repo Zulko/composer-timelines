@@ -1,0 +1,1215 @@
+{
+  "full_name": "Wolfgang Amadeus Mozart",
+  "first_names": "Wolfgang Amadeus",
+  "last_name": "Mozart",
+  "birth_year": 1756,
+  "death_year": 1791,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Wolfgang Amadeus Mozart was born on January 27, 1756, in Salzburg, Austria. He arrived in the world ready to compose, much to the bemusement of his father, who was still trying to figure out how to keep the violin in tune.",
+      "year": 1756,
+      "city": "Salzburg",
+      "country": "Austria"
+    },
+    {
+      "event": "First Composition",
+      "summary": "At the tender age of five, Mozart started composing and even strummed out some melodies that left his father scratching his head. One can only imagine Leopold thinking, 'Wait, I just taught him to play, and now he's writing his own tunes?'",
+      "year": 1761,
+      "city": "Salzburg",
+      "country": "Austria"
+    },
+    {
+      "event": "European Tour",
+      "summary": "Between 1762 and 1765, Mozart went on a grand tour of Europe with his family, performing as a child prodigy. This was much like today's talent shows, except the judges were kings and the prize was more royal court appearances!",
+      "year": 1762,
+      "city": "Multiple",
+      "country": "Europe"
+    },
+    {
+      "event": "First Symphony",
+      "summary": "Mozart composed his first symphony at the age of eight.  This piece was mostly dictated to his father, which probably resembled a father-son 'who's the boss' battle with a bit of music notation thrown in.",
+      "year": 1764,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Success in Italy",
+      "summary": "In 1770, Mozart's opera 'Mitridate, re di Ponto' premiered in Milan, paving the way for his illustrious career in opera. Thank goodness he didn't go with the original title, 'The King Who Can't Decide What to Wear,' which just doesn\u2019t sing!",
+      "year": 1770,
+      "city": "Milan",
+      "country": "Italy"
+    },
+    {
+      "event": "Employment in Salzburg",
+      "summary": "After returning from Italy in 1773, Mozart was employed as a court musician in Salzburg, but wasn\u2019t quite feeling the love. His annual royalties were more 'pocket change' than 'pocket symphonies,' causing him to rethink his life choices.",
+      "year": 1773,
+      "city": "Salzburg",
+      "country": "Austria"
+    },
+    {
+      "event": "Journey to Paris",
+      "summary": "In 1777, Mozart packed his bags and headed to Paris, eager for new opportunities but faced a slew of rejections, financial woe, and even drama from his mother\u2019s illness. Paris might be known for love, but it didn\u2019t quite return the feelings this time!",
+      "year": 1777,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Return to Salzburg",
+      "summary": "After much turmoil, Mozart returned to Salzburg in 1779. It's like trying to escape a small town only to realize you left your favorite socks behind.  Alas, his love-hate relationship with Salzburg wasn't over yet.",
+      "year": 1779,
+      "city": "Salzburg",
+      "country": "Austria"
+    },
+    {
+      "event": "Success in Vienna",
+      "summary": "In 1781, Mozart enjoyed considerable success with the premiere of his opera 'Idomeneo.'  The folks in Vienna took notice, and he started to feel like the star in a musical where everyone finally remembered his name!",
+      "year": 1781,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Last Masterpieces",
+      "summary": "In his final years, Mozart crafted some of his most famous works. With operas like 'The Magic Flute,' it was as if he was on a creative caffeine high\u2014spinning tunes left and right as if it was the last round of a musical trivia game!",
+      "year": 1791,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Meeting the Emperor",
+      "summary": "Mozart's first encounter with Emperor Joseph II was like a blind date, but instead of awkward small talk, he dazzled the emperor with his musical talents, which eventually led to a supportive relationship. Who knew impressing royalty could be that melodious?",
+      "year": 1781,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Dismissal from Archbishop Colloredo",
+      "summary": "After a series of disputes, Mozart received an unforgettable exit from his archbishop, who literally gave him a kick in the backside. This graceful dismissal marked the beginning of Mozart's journey into freelancing, and let's be honest, it was a punchline in his career story.",
+      "year": 1781,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Completion of 'Die Entf\u00fchrung aus dem Serail'",
+      "summary": "Mozart completed his opera 'Die Entf\u00fchrung aus dem Serail', which became a hit faster than a rabbit in a magic hat. The opera spread like wildfire through Europe, cementing his status as a top-tier composer.",
+      "year": 1782,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Marriage to Constanze Weber",
+      "summary": "Mozart\u2019s marriage to Constanze Weber was like a heated plot twist: first, there was jealousy over calf-measuring games and family drama, but in a shocking turn of events, they tied the knot in St. Stephen's Cathedral, proving that love conquers all (even maternal threats!).",
+      "year": 1782,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Begin association with Haydn",
+      "summary": "Mozart met fellow composer Joseph Haydn, and together they created a buddy comedy duo of classical music. Haydn raved about Mozart, calling him the greatest composer known to him, likely leaving Mozart grinning from ear to ear.",
+      "year": 1784,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Becoming a Freemason",
+      "summary": "Mozart became a Freemason, joining a secret society that valued friendship, morality, and the occasional catchy tune. His Masonic membership added a new layer of intrigue to his life, and his compositions even gained an esoteric flair.",
+      "year": 1784,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Premiere of 'Le nozze di Figaro'",
+      "summary": "The premiere of 'Le nozze di Figaro' was a grand success, except for a few audience members probably scratching their heads at the musical complexity. The opera became a sensational hit in Prague, making Mozart the toast of the town, one aria at a time.",
+      "year": 1786,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Appointment as Imperial Chamber Composer",
+      "summary": "Mozart's new part-time gig as the Imperial Chamber Composer came with some perks\u2014though, sadly, the pay was akin to pocket change for his extraordinary talents. It kept a roof over his head during tough times, and composing dance music looked good on a resume.",
+      "year": 1787,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Composing 'The Magic Flute'",
+      "summary": "In a year buzzing with creativity, Mozart completed 'The Magic Flute', a work filled with whimsy and adventure, almost as if he channeled the spirit of a playful child. It became one of his most beloved operas\u2014surprise, surprise!",
+      "year": 1791,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Last compositions",
+      "summary": "Mozart's final creative surge was like fitting all his best moves into the last dance of a party. He composed iconic pieces including 'Ave verum corpus' and the unfinished 'Requiem', leaving behind a legacy that remains unforgettable. What a glorious exit!",
+      "year": 1791,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Public Success of The Magic Flute",
+      "summary": "Mozart had a blast watching audiences enjoy his opera, The Magic Flute. It was like throwing a grand party where everyone brought their best dance moves, and he couldn't be more thrilled to see the applause pouring in, proving he could pull off a hit between writing checks to pay off his debts.",
+      "year": 1791,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Premiere of La clemenza di Tito",
+      "summary": "Traveling to Prague, Mozart conducted the premiere of La clemenza di Tito, written for a royal hoedown. Performing while feeling under the weather, he surely hoped no one would notice his sneezes between musical notes.",
+      "year": 1791,
+      "city": "Prague",
+      "country": "Czech Republic"
+    },
+    {
+      "event": "Premiere of the Little Masonic Cantata",
+      "summary": "On November 17, Mozart threw another musical soir\u00e9e with the premiere of the Little Masonic Cantata K. 623. It was a delightful gathering where everyone left humming tunes, and possibly scratching their heads about Masonic secret handshakes during intermission.",
+      "year": 1791,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Final Illness",
+      "summary": "Mozart\u2019s final days involved more than just completing his Requiem; it was a real-life drama filled with tender moments and a few too many \u2018what's for dinner\u2019 arguments with his wife. As he focused on music while reminding himself that maybe eating too many pastries wasn\u2019t the best choice, the world held its breath.",
+      "year": 1791,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Death",
+      "summary": "On a seemingly calm evening, Mozart passed away, leaving behind a legacy that could fill concert halls for centuries. His exit was less of a dramatic curtain fall and more of an unscheduled intermission, as many pondered how a man so vibrant could leave the stage so suddenly.",
+      "year": 1791,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Burial in St. Marx Cemetery",
+      "summary": "Mozart was interred in a common grave, which sounds less like a place of rest and more like a location for a legendary jam session gone too soon. Though the attendance was a bit low for the funeral, it was all in line with the 'no frills' style of Viennese burials, where every musician's final gig was a quiet one.",
+      "year": 1791,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Travel to Vienna to study with Mozart",
+      "summary": "Young Beethoven traveled to Vienna with the hopes of learning from the legendary Mozart. Unfortunately, Mozart was probably too busy composing to take on students, but Beethoven likely made a lasting impression anyway, probably turning his head with those intense piano solos.",
+      "year": 1787,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Influence of Mozart's works",
+      "summary": "Beethoven was deeply influenced by Mozart's compositions while growing up. He even performed some of Mozart's operas in Bonn, likely multiple times, leading to a lifelong admiration that would inspire many of Beethoven's own works, which is kind of like shadowing a rock star without ever getting a backstage pass.",
+      "year": 1781,
+      "city": "Bonn",
+      "country": "Germany"
+    },
+    {
+      "event": "Writing cadenzas to Mozart's works",
+      "summary": "Beethoven took to composing cadenzas for Mozart's D minor piano concerto, showcasing his respect and admiration. It\u2019s like bringing a fancy decoration to a party that wasn\u2019t yours in the first place, but still trying to make it your own.",
+      "year": 1790,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "First Public Performance",
+      "summary": "At the tender age of five, Mozart decided to wow the world with his musical talent, playing the clavier in public, probably leaving the audience wondering if he was a child prodigy or just very short for his age.",
+      "year": 1761,
+      "city": "Munich",
+      "country": "Germany"
+    },
+    {
+      "event": "Italian Tour",
+      "summary": "Mozart and his family embarked on a whirlwind tour through Italy, charming nobility with his compositions. It's rumored that he even picked up a few culinary tips along the way \u2013 pasta al dente was a highlight!",
+      "year": 1770,
+      "city": "Rome",
+      "country": "Italy"
+    },
+    {
+      "event": "Award of the Papal Equestrian Order",
+      "summary": "The Pope decided to honor Mozart with a shiny award, making him feel quite important, as if he needed another reason to compose glorious music.",
+      "year": 1770,
+      "city": "Vatican City",
+      "country": "Italy"
+    },
+    {
+      "event": "Premier of The Marriage of Figaro",
+      "summary": "Mozart's hilarious opera, filled with twists and turns, finally graced the stage, proving that love and mischief make for the best entertainment \u2013 even if some audience members might have been more confused than amused.",
+      "year": 1786,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Completion of The Magic Flute",
+      "summary": "Mozart unveiled his whimsical masterpiece, The Magic Flute, leaving audiences enchanted. One can only assume it involved lots of flute jokes, which he would have found too punny to resist!",
+      "year": 1791,
+      "city": "Vienna",
+      "country": "Austria"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/Abendempfindung,_K.523_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1787,
+      "title": "Abendempfindung, K.523"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Adagio_and_Allegro_in_F_minor,_K.594_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1790,
+      "title": "Adagio and Allegro in F minor, K.594"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Adagio_and_Fugue_in_C_minor,_K.546_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1788,
+      "title": "Adagio and Fugue in C minor, K.546"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Adagio_and_Rondo_in_C_minor,_K.617_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1791,
+      "title": "Adagio and Rondo in C minor, K.617"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Adagio_in_B_minor,_K.540_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1788,
+      "title": "Adagio in B minor, K.540"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Adagio_in_B_minor,_K.deest_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1788,
+      "title": "Adagio in B minor, K.deest"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Adagio_in_B-flat_major,_K.411/484a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1783,
+      "title": "Adagio in B-flat major, K.411/484a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Adagio_in_C_major,_K.356/617a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1791,
+      "title": "Adagio in C major, K.356/617a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Adagio_in_D_minor,_K.Anh.35/593a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1790,
+      "title": "Adagio in D minor, K.Anh.35/593a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Adagio_in_E_major,_K.261_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1776,
+      "title": "Adagio in E major, K.261"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Adagio_in_F_major,_K.410/484d_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1782,
+      "title": "Adagio in F major, K.410/484d"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Adagio_in_F_major,_K.Anh.93/484c_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1785,
+      "title": "Adagio in F major, K.Anh.93/484c"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Adagio_in_F_major,_K.Anh.94/580a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1789,
+      "title": "Adagio in F major, K.Anh.94/580a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ah_se_in_ciel,_K.538_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1788,
+      "title": "Ah se in ciel, K.538"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ah,_lo_previdi,_K.272_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1777,
+      "title": "Ah, lo previdi, K.272"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ah,_pi%C3%B9_tremar_non_voglio,_K.71_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1769,
+      "title": "Ah, pi\u00f9 tremar non voglio, K.71"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ah,_spiegarti,_o_Dio,_K.178/417e_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1772,
+      "title": "Ah, spiegarti, o Dio, K.178/417e"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Al_desio,_di_chi_t%27adora,_K.577_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1789,
+      "title": "Al desio, di chi t'adora, K.577"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Alcandro,_lo_confesso,_K.294_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1778,
+      "title": "Alcandro, lo confesso, K.294"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Alcandro,_lo_confesso,_K.512_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1787,
+      "title": "Alcandro, lo confesso, K.512"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro_assai_in_B-flat_major,_K.Anh.95/484b_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1785,
+      "title": "Allegro assai in B-flat major, K.Anh.95/484b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro_in_B-flat_major,_K.3_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1762,
+      "title": "Allegro in B-flat major, K.3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro_in_B-flat_major,_K.372_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1781,
+      "title": "Allegro in B-flat major, K.372"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro_in_B-flat_major,_K.400/372a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1781,
+      "title": "Allegro in B-flat major, K.400/372a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro_in_B-flat_major,_K.Anh.96/384c_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1782,
+      "title": "Allegro in B-flat major, K.Anh.96/384c"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro_in_C_major,_K.1b_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1761,
+      "title": "Allegro in C major, K.1b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro_in_C_major,_K.9a/5a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1763,
+      "title": "Allegro in C major, K.9a/5a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro_in_C_minor,_K.Anh.44/426a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1783,
+      "title": "Allegro in C minor, K.Anh.44/426a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro_in_D_major,_K.626b/16_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1766,
+      "title": "Allegro in D major, K.626b/16"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro_in_F_major,_K.1c_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1761,
+      "title": "Allegro in F major, K.1c"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro_in_G_major,_K.357/497a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1786,
+      "title": "Allegro in G major, K.357/497a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro_in_G_minor,_K.312/590d_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1790,
+      "title": "Allegro in G minor, K.312/590d"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Alma_Dei_creatoris,_K.277/272a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1777,
+      "title": "Alma Dei creatoris, K.277/272a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Alma_grande_e_nobil_core,_K.578_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1789,
+      "title": "Alma grande e nobil core, K.578"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Als_Luise_die_Briefe,_K.520_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1787,
+      "title": "Als Luise die Briefe, K.520"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Die_Alte,_K.517_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1787,
+      "title": "Die Alte, K.517"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/An_Chloe,_K.524_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1787,
+      "title": "An Chloe, K.524"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/An_die_Einsamkeit,_K.391/340b_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1780,
+      "title": "An die Einsamkeit, K.391/340b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/An_die_Freude,_K.53/47e_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1768,
+      "title": "An die Freude, K.53/47e"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/An_die_Hoffnung,_K.390/340c_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1780,
+      "title": "An die Hoffnung, K.390/340c"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Andante_in_B-flat_major,_K.9b/5b_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1763,
+      "title": "Andante in B-flat major, K.9b/5b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Andante_in_C_major,_K.1a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1761,
+      "title": "Andante in C major, K.1a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Andante_in_C_major,_K.315/285e_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1778,
+      "title": "Andante in C major, K.315/285e"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Andante_in_E-flat_major,_K.384B_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1782,
+      "title": "Andante in E-flat major, K.384B"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Andante_in_F_major,_K.616_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1791,
+      "title": "Andante in F major, K.616"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Andantino_in_E-flat_major,_K.236/588b_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1783,
+      "title": "Andantino in E-flat major, K.236/588b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Apollo_et_Hyacinthus,_K.38_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1767,
+      "title": "Apollo et Hyacinthus, K.38"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ascanio_in_Alba,_K.111_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1771,
+      "title": "Ascanio in Alba, K.111"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ave_verum_corpus,_K.618_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1791,
+      "title": "Ave verum corpus, K.618"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Un_bacio_di_mano,_K.541_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1788,
+      "title": "Un bacio di mano, K.541"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Das_Bandel,_K.441_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1783,
+      "title": "Das Bandel, K.441"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Basset_Horn_Concerto,_K.584b/621b_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1791,
+      "title": "Basset Horn Concerto, K.584b/621b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bassoon_Concerto_in_B-flat_major,_K.191/186e_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1774,
+      "title": "Bassoon Concerto in B-flat major, K.191/186e"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Basta,_vincesti,_K.486a/295a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1778,
+      "title": "Basta, vincesti, K.486a/295a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bastien_und_Bastienne,_K.50/46b_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1768,
+      "title": "Bastien und Bastienne, K.50/46b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bella_mia_fiamma,_K.528_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1787,
+      "title": "Bella mia fiamma, K.528"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Benedictus_sit_Deus,_K.117/66a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1769,
+      "title": "Benedictus sit Deus, K.117/66a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/A_Berenice,_K.70/61c_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1767,
+      "title": "A Berenice, K.70/61c"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Die_betrogene_Welt,_K.474_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1785,
+      "title": "Die betrogene Welt, K.474"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_Betulia_liberata,_K.118/74c_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1771,
+      "title": "La Betulia liberata, K.118/74c"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bundeslied,_K.623a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1791,
+      "title": "Bundeslied, K.623a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/36_Cadenzas,_K.624/626a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1768,
+      "title": "36 Cadenzas, K.624/626a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_for_2_Voices_in_C_minor,_K.230/382b_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1782,
+      "title": "Canon for 2 Voices in C minor, K.230/382b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_for_3_Voices_in_A_major,_K.562_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1788,
+      "title": "Canon for 3 Voices in A major, K.562"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_for_3_Voices_in_B-flat_major,_K.233/382d_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1782,
+      "title": "Canon for 3 Voices in B-flat major, K.233/382d"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_for_3_Voices_in_C_minor,_K.229/382a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1782,
+      "title": "Canon for 3 Voices in C minor, K.229/382a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_for_3_Voices_in_F_major,_K.507_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1786,
+      "title": "Canon for 3 Voices in F major, K.507"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_for_3_Voices_in_F_major,_K.508_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1786,
+      "title": "Canon for 3 Voices in F major, K.508"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_for_3_Voices_in_F_major,_K.559_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1788,
+      "title": "Canon for 3 Voices in F major, K.559"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_for_3_Voices_in_G_major,_K.234/382e_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1782,
+      "title": "Canon for 3 Voices in G major, K.234/382e"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_for_4_Voices_in_A_major,_K.561_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1788,
+      "title": "Canon for 4 Voices in A major, K.561"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_for_4_Voices_in_A_minor,_K.555_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1788,
+      "title": "Canon for 4 Voices in A minor, K.555"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_for_4_Voices_in_B-flat_major,_K.558_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1788,
+      "title": "Canon for 4 Voices in B-flat major, K.558"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_for_4_Voices_in_C_major,_K.553_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1788,
+      "title": "Canon for 4 Voices in C major, K.553"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_for_4_Voices_in_C_major,_K.Anh.191/562c_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1782,
+      "title": "Canon for 4 Voices in C major, K.Anh.191/562c"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_for_4_Voices_in_F_major,_K.554_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1788,
+      "title": "Canon for 4 Voices in F major, K.554"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_for_4_Voices_in_F_major,_K.560_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1783,
+      "title": "Canon for 4 Voices in F major, K.560"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_for_4_Voices_in_F_minor,_K.557_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1788,
+      "title": "Canon for 4 Voices in F minor, K.557"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_for_4_Voices_in_G_major,_K.232/509a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1787,
+      "title": "Canon for 4 Voices in G major, K.232/509a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_for_4_Voices_in_G_major,_K.556_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1788,
+      "title": "Canon for 4 Voices in G major, K.556"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_for_5_Voices_in_A_major,_K.73i_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1772,
+      "title": "Canon for 5 Voices in A major, K.73i"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_for_6_Voices_in_B-flat_major,_K.231/382c_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1782,
+      "title": "Canon for 6 Voices in B-flat major, K.231/382c"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_for_6_Voices_in_D_major,_K.347/382f_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1784,
+      "title": "Canon for 6 Voices in D major, K.347/382f"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_for_12_Voices_in_G_major,_K.348/382g_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1782,
+      "title": "Canon for 12 Voices in G major, K.348/382g"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canons_for_2_or_3_Voices,_K.508a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1786,
+      "title": "Canons for 2 or 3 Voices, K.508a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Caro_mio_Druck_und_Schluck,_K.Anh.5/571a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1789,
+      "title": "Caro mio Druck und Schluck, K.Anh.5/571a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cassation_in_B-flat_major,_K.99/63a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1769,
+      "title": "Cassation in B-flat major, K.99/63a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cassation_in_D_major,_K.100/62a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1769,
+      "title": "Cassation in D major, K.100/62a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cassation_in_G_major,_K.63_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1769,
+      "title": "Cassation in G major, K.63"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ch%27io_mi_scordi_di_te%3F,_K.505_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1786,
+      "title": "Ch'io mi scordi di te?, K.505"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_chasse,_K.Anh.103/299d_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1778,
+      "title": "La chasse, K.Anh.103/299d"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chi_s%C3%A0,_chi_s%C3%A0,_qual_sia,_K.582_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1789,
+      "title": "Chi s\u00e0, chi s\u00e0, qual sia, K.582"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Church_Sonata_in_A_major,_K.225/241b_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1775,
+      "title": "Church Sonata in A major, K.225/241b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Church_Sonata_in_B-flat_major,_K.68/41i_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1772,
+      "title": "Church Sonata in B-flat major, K.68/41i"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Church_Sonata_in_B-flat_major,_K.212_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1775,
+      "title": "Church Sonata in B-flat major, K.212"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Church_Sonata_in_C_major,_K.263_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1776,
+      "title": "Church Sonata in C major, K.263"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Church_Sonata_in_C_major,_K.278/271e_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1777,
+      "title": "Church Sonata in C major, K.278/271e"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Church_Sonata_in_C_major,_K.328/317c_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1779,
+      "title": "Church Sonata in C major, K.328/317c"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Church_Sonata_in_C_major,_K.329/317a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1779,
+      "title": "Church Sonata in C major, K.329/317a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Church_Sonata_in_C_major,_K.336/336d_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1780,
+      "title": "Church Sonata in C major, K.336/336d"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Church_Sonata_in_D_major,_K.69/41k_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1767,
+      "title": "Church Sonata in D major, K.69/41k"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Church_Sonata_in_D_major,_K.144/124a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1772,
+      "title": "Church Sonata in D major, K.144/124a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Church_Sonata_in_D_major,_K.245_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1776,
+      "title": "Church Sonata in D major, K.245"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Church_Sonata_in_D_major,_K.Anh.65a/124A_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1772,
+      "title": "Church Sonata in D major, K.Anh.65a/124A"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Church_Sonata_in_E-flat_major,_K.67/41h_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1766,
+      "title": "Church Sonata in E-flat major, K.67/41h"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Church_Sonata_in_F_major,_K.145/124b_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1772,
+      "title": "Church Sonata in F major, K.145/124b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Church_Sonata_in_F_major,_K.224/241a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1776,
+      "title": "Church Sonata in F major, K.224/241a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Church_Sonata_in_F_major,_K.244_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1776,
+      "title": "Church Sonata in F major, K.244"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Church_Sonata_in_G_major,_K.241_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1776,
+      "title": "Church Sonata in G major, K.241"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Church_Sonata_in_G_major,_K.274/271d_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1777,
+      "title": "Church Sonata in G major, K.274/271d"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cibavit_eos,_K.44/73u_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1770,
+      "title": "Cibavit eos, K.44/73u"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Clarice_cara_mia_sposa,_K.256_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1776,
+      "title": "Clarice cara mia sposa, K.256"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Clarinet_Concerto_in_A_major,_K.622_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1791,
+      "title": "Clarinet Concerto in A major, K.622"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Clarinet_Quintet_in_A_major,_K.581_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1789,
+      "title": "Clarinet Quintet in A major, K.581"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Clarinet_Quintet_in_A_major,_K.Anh.88/581a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1789,
+      "title": "Clarinet Quintet in A major, K.Anh.88/581a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Clarinet_Quintet_in_B-flat_major,_K.Anh.91/516c_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1787,
+      "title": "Clarinet Quintet in B-flat major, K.Anh.91/516c"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Clarinet_Quintet_in_F_major,_K.Anh.90/580b_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1789,
+      "title": "Clarinet Quintet in F major, K.Anh.90/580b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_clemenza_di_Tito,_K.621_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1791,
+      "title": "La clemenza di Tito, K.621"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Con_ossequio,_con_rispetto,_K.210_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1775,
+      "title": "Con ossequio, con rispetto, K.210"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_Violin_and_Piano_in_D_major,_K.Anh.56/315f_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1778,
+      "title": "Concerto for Violin and Piano in D major, K.Anh.56/315f"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concertone_in_C_major,_K.190/186E_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1774,
+      "title": "Concertone in C major, K.190/186E"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Conservati_fedele,_K.23_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1765,
+      "title": "Conservati fedele, K.23"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cos%C3%AC_dunque_tradisci,_K.432/421a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1783,
+      "title": "Cos\u00ec dunque tradisci, K.432/421a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cos%C3%AC_fan_tutte,_K.588_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1789,
+      "title": "Cos\u00ec fan tutte, K.588"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Country_Dance_in_B-flat_major,_K.123/73g_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1770,
+      "title": "Country Dance in B-flat major, K.123/73g"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Country_Dance_in_C_major,_K.535_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1788,
+      "title": "Country Dance in C major, K.535"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Country_Dance_in_C_major,_K.587_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1789,
+      "title": "Country Dance in C major, K.587"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Country_Dance_in_D_major,_K.534_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1788,
+      "title": "Country Dance in D major, K.534"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Country_Dance_in_E-flat_major,_K.607/605a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1791,
+      "title": "Country Dance in E-flat major, K.607/605a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Country_Dance_in_G_major,_K.610_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1783,
+      "title": "Country Dance in G major, K.610"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Country_Dances_for_Johann_Rudolf_Graf_Czernin,_K.deest_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1777,
+      "title": "Country Dances for Johann Rudolf Graf Czernin, K.deest"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Country_Dances,_K.101/250a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1776,
+      "title": "4 Country Dances, K.101/250a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Country_Dances,_K.267/271c_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1777,
+      "title": "4 Country Dances, K.267/271c"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Country_Dances,_K.269b_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1776,
+      "title": "4 Country Dances, K.269b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Country_Dances,_K.462/448b_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1784,
+      "title": "6 Country Dances, K.462/448b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/9_Country_Dances,_K.510/Anh.C_13.02_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1787,
+      "title": "9 Country Dances, K.510/Anh.C 13.02"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Country_Dances,_K.603_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1791,
+      "title": "2 Country Dances, K.603"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_Country_Dances,_K.609_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1787,
+      "title": "5 Country Dances, K.609"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dans_un_bois_solitaire,_K.308/295b_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1777,
+      "title": "Dans un bois solitaire, K.308/295b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Daphne,_deine_Rosenwangen,_K.52/46c_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1768,
+      "title": "Daphne, deine Rosenwangen, K.52/46c"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Davidde_penitente,_K.469_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1785,
+      "title": "Davidde penitente, K.469"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/De_profundis_clamavi,_K.93/Anh.A_22_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1757,
+      "title": "De profundis clamavi, K.93/Anh.A 22"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Del_gran_regno_delle_amazoni,_K.434/480b_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1785,
+      "title": "Del gran regno delle amazoni, K.434/480b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dir,_Seele_des_Weltalls,_K.429/468a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1791,
+      "title": "Dir, Seele des Weltalls, K.429/468a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dite_almeno,_in_che_mancai,_K.479_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1785,
+      "title": "Dite almeno, in che mancai, K.479"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Divertimento_in_B-flat_major,_K.137/125b_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1772,
+      "title": "Divertimento in B-flat major, K.137/125b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Divertimento_in_B-flat_major,_K.186/159b_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1773,
+      "title": "Divertimento in B-flat major, K.186/159b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Divertimento_in_B-flat_major,_K.240_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1776,
+      "title": "Divertimento in B-flat major, K.240"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Divertimento_in_B-flat_major,_K.254_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1776,
+      "title": "Divertimento in B-flat major, K.254"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Divertimento_in_B-flat_major,_K.270_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1777,
+      "title": "Divertimento in B-flat major, K.270"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Divertimento_in_B-flat_major,_K.287/271H_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1777,
+      "title": "Divertimento in B-flat major, K.287/271H"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Divertimento_in_C_major,_K.187/Anh.C_17.12_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1773,
+      "title": "Divertimento in C major, K.187/Anh.C 17.12"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Divertimento_in_C_major,_K.188/240b_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1773,
+      "title": "Divertimento in C major, K.188/240b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Divertimento_in_D_major,_K.131_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1772,
+      "title": "Divertimento in D major, K.131"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Divertimento_in_D_major,_K.136/125a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1772,
+      "title": "Divertimento in D major, K.136/125a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Divertimento_in_D_major,_K.205/167A_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1773,
+      "title": "Divertimento in D major, K.205/167A"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Divertimento_in_D_major,_K.246b/320B_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1772,
+      "title": "Divertimento in D major, K.246b/320B"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Divertimento_in_D_major,_K.251_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1776,
+      "title": "Divertimento in D major, K.251"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Divertimento_in_D_major,_K.334/320b_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1779,
+      "title": "Divertimento in D major, K.334/320b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Divertimento_in_E-flat_major,_K.113_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1771,
+      "title": "Divertimento in E-flat major, K.113"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Divertimento_in_E-flat_major,_K.166/159d_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1773,
+      "title": "Divertimento in E-flat major, K.166/159d"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Divertimento_in_E-flat_major,_K.252/240a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1776,
+      "title": "Divertimento in E-flat major, K.252/240a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Divertimento_in_E-flat_major,_K.289/271g_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1777,
+      "title": "Divertimento in E-flat major, K.289/271g"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Divertimento_in_E-flat_major,_K.563_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1788,
+      "title": "Divertimento in E-flat major, K.563"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Divertimento_in_F_major,_K.138/125c_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1772,
+      "title": "Divertimento in F major, K.138/125c"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Divertimento_in_F_major,_K.213_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1775,
+      "title": "Divertimento in F major, K.213"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Divertimento_in_F_major,_K.247_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1776,
+      "title": "Divertimento in F major, K.247"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Divertimento_in_F_major,_K.253_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1776,
+      "title": "Divertimento in F major, K.253"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Divertimento_in_F_major,_K.288/246c_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1776,
+      "title": "Divertimento in F major, K.288/246c"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Divertimento_in_F_major,_K.Anh.108/522a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1787,
+      "title": "Divertimento in F major, K.Anh.108/522a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dixit_Dominus_and_Magnificat,_K.193/186g_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1774,
+      "title": "Dixit Dominus and Magnificat, K.193/186g"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Don_Giovanni,_K.527_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1787,
+      "title": "Don Giovanni, K.527"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Double_Canon_for_4_Voices,_K.228/515b_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1787,
+      "title": "Double Canon for 4 Voices, K.228/515b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Due_pupille_amabili,_K.439_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1783,
+      "title": "Due pupille amabili, K.439"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Duo_for_Violin_and_Viola,_K.423_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1783,
+      "title": "Duo for Violin and Viola, K.423"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Duo_for_Violin_and_Viola,_K.424_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1783,
+      "title": "Duo for Violin and Viola, K.424"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ecco_quel_fiero_istante,_K.436_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1783,
+      "title": "Ecco quel fiero istante, K.436"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ein_deutsches_Kriegslied,_K.539_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1788,
+      "title": "Ein deutsches Kriegslied, K.539"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Eine_kleine_Nachtmusik,_K.525_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1787,
+      "title": "Eine kleine Nachtmusik, K.525"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Die_Entf%C3%BChrung_aus_dem_Serail,_K.384_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1781,
+      "title": "Die Entf\u00fchrung aus dem Serail, K.384"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ergo_interest,_K.143/73a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1773,
+      "title": "Ergo interest, K.143/73a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Exsultate,_jubilate,_K.165/158a_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1773,
+      "title": "Exsultate, jubilate, K.165/158a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantasia_in_C_minor,_K.396/385f_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1782,
+      "title": "Fantasia in C minor, K.396/385f"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Duos_for_Violin_and_Viola,_K.423-424_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1783,
+      "title": "2 Duos for Violin and Viola, K.423-424"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Keyboard_Sonatas,_Op.6_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1784,
+      "title": "3 Keyboard Sonatas, Op.6"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_London_Sketchbook,_K.15a-15ss_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1764,
+      "title": "The London Sketchbook, K.15a-15ss"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Die_Mail%C3%A4nder_Quartette_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1772,
+      "title": "Die Mail\u00e4nder Quartette"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/12_Minuets,_K.599,_601,_604_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1791,
+      "title": "12 Minuets, K.599, 601, 604"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Notturni_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1783,
+      "title": "6 Notturni"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Piano_Concertos_after_J.C._Bach,_K.107_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1770,
+      "title": "3 Piano Concertos after J.C. Bach, K.107"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Quartets_for_Flute,_Violin,_Viola_and_Cello_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1777,
+      "title": "3 Quartets for Flute, Violin, Viola and Cello"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Quartetti_capricciosi_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1770,
+      "title": "6 Quartetti capricciosi"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Der_Messias,_K.572_(Mozart,_Wolfgang_Amadeus)",
+      "year": 1789,
+      "title": "Der Messias, K.572"
+    }
+  ]
+}

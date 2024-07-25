@@ -1,0 +1,851 @@
+{
+  "full_name": "Claude Debussy",
+  "first_names": "Claude",
+  "last_name": "Debussy",
+  "birth_year": 1862,
+  "death_year": 1918,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Claude_Debussy",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Claude Debussy was born in a modest family in Saint-Germain-en-Laye. Little did they know they had just given the world a maestro who would redefine music and make conservatory teachers shiver in their boots.",
+      "year": 1862,
+      "city": "Saint-Germain-en-Laye",
+      "country": "France"
+    },
+    {
+      "event": "First Piano Lessons",
+      "summary": "To escape the hustle and bustle of a war-torn Paris, Debussy and his mother took a vacation to Cannes where he received his first piano lessons. The beach was great, but the music lessons would prove to be life-changing!",
+      "year": 1870,
+      "city": "Cannes",
+      "country": "France"
+    },
+    {
+      "event": "Conservatoire de Paris Admission",
+      "summary": "By the age of ten, Debussy's talent could no longer be ignored, and he was admitted to the prestigious Conservatoire de Paris. The institution probably thought they'd found the next Chopin, but instead got a rebellious artist!",
+      "year": 1872,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Award at Conservatoire",
+      "summary": "After several years of somewhat lackadaisical studies, Debussy managed to snag a modest award at the Conservatoire for his performance of Chopin\u2019s Second Piano Concerto. Who knew being 'desperately careless' could pay off?",
+      "year": 1874,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Prix de Rome Win",
+      "summary": "After years of dodging the academic conventions of the music world, Debussy finally won the prestigious Prix de Rome with his cantata. The ticket to Italy offered him a chance to escape, or perhaps just to complain about the food.",
+      "year": 1884,
+      "city": "Rome",
+      "country": "Italy"
+    },
+    {
+      "event": "Encounter with Wagner",
+      "summary": "After returning to Paris, Debussy attended a Wagner opera that he labeled the finest thing he'd ever heard. This encounter inspired both admiration and a realization that he didn't want to clone a sunset, but create his dawn.",
+      "year": 1887,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Influence of Gamelan Music",
+      "summary": "At the Paris Exposition Universelle, Debussy's ears were treated to the enchanting sounds of Javanese gamelan music. He probably thought to himself, \u2018Finally, something fresh and not just all about long romantic melodies!\u2019",
+      "year": 1889,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Creation of Pell\u00e9as et M\u00e9lisande",
+      "summary": "After catching a theatrical performance of Pell\u00e9as et M\u00e9lisande, Debussy was smitten. He decided to weave his musical magic into an opera, diving into a sea of romance and artistic ambition.",
+      "year": 1893,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Premiere of Pr\u00e9lude \u00e0 l'apr\u00e8s-midi d'un faune",
+      "summary": "Debussy's symphonic poem, inspired by Mallarm\u00e9's poetry, premiered to applause at the Soci\u00e9t\u00e9 Nationale. It was like throwing a music party where he boldly served appetizers that no one had tasted before!",
+      "year": 1894,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "International Fame with Pell\u00e9as et M\u00e9lisande",
+      "summary": "After years of hard work, Debussy's only completed opera, Pell\u00e9as et M\u00e9lisande, hit the stage to cheers and accolades. Suddenly, he was no longer just the oddball composing in the shadows but a recognized master of his craft!",
+      "year": 1902,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First contacts for Pell\u00e9as et M\u00e9lisande",
+      "summary": "In May 1898, Debussy made his first contacts with Andr\u00e9 Messager and Albert Carr\u00e9, trying to get his opera, Pell\u00e9as et M\u00e9lisande, staged. It was like a musical Tinder date, but instead of swiping right, he had to charm them with his notes!",
+      "year": 1898,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Marriage to Marie-Rosalie Texier",
+      "summary": "Debussy married Marie-Rosalie Texier, known as 'Lilly', in October 1899 after some dramatic persuading. Their love was passionate at first, until Debussy decided that intellectual conversations were not her strong suit, leading to a marriage that only lasted about five years. Love can be a tricky concerto!",
+      "year": 1899,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Formation of Les Apaches",
+      "summary": "Around 1900, Debussy became part of an innovative group of artists, poets, and musicians called Les Apaches, which roughly translates to 'The Hooligans'. They were the cool kids of the art scene, rebelling against tradition while drinking absinthe and debating art!",
+      "year": 1900,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First performance of orchestral Nocturnes",
+      "summary": "Debussy's first two orchestral Nocturnes were performed for the first time. While they didn\u2019t exactly set the world on fire, musicians were impressed, proving that sometimes great things take a while to be recognized\u2014much like Debussy\u2019s own hairdo!",
+      "year": 1900,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Rehearsals for Pell\u00e9as et M\u00e9lisande",
+      "summary": "In January 1902, rehearsals for Pell\u00e9as et M\u00e9lisande kicked off at the Op\u00e9ra-Comique. For three months, Debussy was practically a resident, living in the opera house like a very dedicated cat who simply wouldn\u2019t leave the studio!",
+      "year": 1902,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Premiere of Pell\u00e9as et M\u00e9lisande",
+      "summary": "On April 30, 1902, Pell\u00e9as et M\u00e9lisande premiered to a mixed audience; some loved it, others were puzzled. It quickly became a sensation, making Debussy a household name and creating more buzz than a bee in a flower shop!",
+      "year": 1902,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Birth of Claude-Emma Debussy",
+      "summary": "In October 1905, Debussy welcomed his only child, Claude-Emma, affectionately known as 'Chouchou'. Despite the chaos around him, she became his heart\u2019s inspiration and possibly his greatest audience\u2014talk about a captive listener!",
+      "year": 1905,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Marriage to Emma Bardac",
+      "summary": "Debussy finally married Emma Bardac in 1908, turning a romantic scandal into a legitimate partnership. They had their ups and downs, reminiscent of a turbulent symphony, yet their love conquered the discord, lasting until the end!",
+      "year": 1908,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Conducted in London",
+      "summary": "In April 1909, Debussy conducted his works at the Queen\u2019s Hall in London, marking his triumph abroad. It was like going to a fancy dinner and being the star, ensuring his seat at the table of musical greats!",
+      "year": 1909,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Diagnosed with colorectal cancer",
+      "summary": "In 1909, Debussy received the devastating news of his cancer diagnosis. Despite the gloom, he continued to create music that resonated profoundly, proving that even a composed genius can have some chaotic moments.",
+      "year": 1909,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Final concert",
+      "summary": "Debussy gave his final concert on September 14, 1917, before being bedridden in early 1918. It was his last hurrah, as if he were a magician bowing to an audience that didn\u2019t want the show to end.",
+      "year": 1917,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Death",
+      "summary": "Debussy passed away on March 25, 1918, during World War I, his funeral marked by the quiet chaos of a city under siege. It was a bittersweet symphony, as he journeyed into the great unknown while Paris was still filled with the sounds of war.",
+      "year": 1918,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Development of Personal Style",
+      "summary": "Debussy embarked on a journey to create a distinctive musical identity, pulling away from conventional French traditions like a magician revealing a secret trick. His early works, including the Two Arabesques, laid the foundation for what we would eventually know as his unique sound\u2014an enchanting mix of whimsy and profound emotion.",
+      "year": 1891,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Completion of Pell\u00e9as et M\u00e9lisande",
+      "summary": "Debussy's opera made its grand entrance into the world like a dramatic soap opera, capturing the audience's heart and leaving them guessing. It became a defining moment in 20th-century music, charming everyone from Stravinsky to Puccini with its intimate style and harmonic pizzazz.",
+      "year": 1902,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Composition of La mer",
+      "summary": "During this intense creative period, Debussy tackled the sea like a child splashing in the waves. Composed with the spirit of adventure, La mer was praised for its orchestral colors, but also drew mixed reviews, proving that even genius can spark debate among critics.",
+      "year": 1905,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Launch of Images",
+      "summary": "With Images, Debussy took a stroll through different musical landscapes like a painter with a brush. This work was a celebration of sound passages inspired by vivid folk tunes, cementing Debussy's reputation as a composer unafraid to blend tradition with personal expression.",
+      "year": 1912,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Completion of Late Piano Works",
+      "summary": "Debussy's late piano pieces were like stories from a wise old friend, reflecting on life's simple joys and deeper sorrows. These works tackled themes from playful minstrels to the somber realities of war, showcasing a musical depth that resonated well beyond the concert hall.",
+      "year": 1915,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Composition of Final Sonata for Violin and Piano",
+      "summary": "Despite battling illness, Debussy managed to finish his last masterpiece, a touching farewell to the world that embraced his genius. This concise, three-movement work reminds us that even as the curtain falls, beauty and creativity can still resonate in the air.",
+      "year": 1917,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Exploration of harmonic possibilities",
+      "summary": "Debussy engaged in a lively discussion with Guiraud about the wonders of harmony while performing some dazzling chordal improvisations. It was like a musical jam session where rather than just studying theory, he promoted the idea that music should simply be a delightful experience!",
+      "year": 1893,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Influence of Chopin",
+      "summary": "While he constantly admired Chopin, Debussy found himself in a bit of a pickle trying to decide whom to dedicate his \u00c9tudes to\u2014Chopin, the wizard of the piano, or Fran\u00e7ois Couperin, the elegant master. In a true artist's dilemma, he seemed to favor both yet went to bed without a clear answer!",
+      "year": 1890,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Musical patriotism during WWI",
+      "summary": "As the war unfolded, Debussy transformed into an ardent defender of French music, bemoaning the absence of a 'purely French tradition' since Rameau. He wrote to Stravinsky with a passionate flair, citing the dangers posed to both art and country, as if the notes themselves were marching off to battle!",
+      "year": 1914,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Pell\u00e9as et M\u00e9lisande",
+      "summary": "In composing Pell\u00e9as et M\u00e9lisande, Debussy dived into the world of Symbolist poetry. Like a musical magician, he conceived a hauntingly beautiful opera that was more than just a spectacle of sound; it was a poetic immersion that hinted at entangled emotions and mysterious connections, resembling a never-ending puzzle!",
+      "year": 1893,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Recordings from 1904",
+      "summary": "In 1904, Debussy played the piano for Mary Garden while recording some of his memorable melodies. It was a time travel moment as he breathed life into his compositions, making sure to capture the essence of his creativity in those early gramophone records, almost like setting musical footprints in time!",
+      "year": 1904,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Winning the Prix de Rome",
+      "summary": "After a valiant struggle through the conservatoire, Debussy snagged the fourth prize at the Prix de Rome, which sounds impressive until you realize that's just a fancy way of saying he was the best of the worst! But hey, it got him a free trip to Italy, so who\u2019s complaining?",
+      "year": 1884,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First major performance of Pell\u00e9as et M\u00e9lisande",
+      "summary": "Debussy's opera Pell\u00e9as et M\u00e9lisande debuted to a round of applause and some raised eyebrows. It was a hit! Not everyone got it, but at least those who didn't didn\u2019t throw tomatoes or call for his head. They just looked confused and whispered to each other.",
+      "year": 1902,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Public Recognition",
+      "summary": "Caught in the whirlwind of artistic admiration and controversy, Debussy sat back and reveled in the fact that people were finally paying attention to his music. No longer just that quirky kid from the conservatoire, he had now become the king of musical innovation! Long live the king!",
+      "year": 1905,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Composition",
+      "summary": "At a young age, Debussy decided it was time to express himself musically by composing his first piece, proving that even toddlers can have career aspirations. It was like Mozart had a mini-me preparing for a musical takeover!",
+      "year": 1870,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Study at the Paris Conservatoire",
+      "summary": "Debussy\u2019s time at the conservatoire was like being in a highly competitive culinary school \u2013 everyone was cooking up their masterpieces, and Debussy was determined to whip up something unique that no one could replicate, especially not the instructors.",
+      "year": 1872,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Public Performance",
+      "summary": "Debussy took to the stage, and just like a magician revealing his greatest trick, he left the audience in awe. The public performance was a big leap into the deep end of the musical pool where he made quite a splash!",
+      "year": 1880,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Successful Works Release",
+      "summary": "Debussy\u2019s compositions started gaining popularity, and he became the talk of the town quicker than a viral cat video. His innovative sound attracted attention like bees to honey, or should we say, like musicians to a new kind of tonality!",
+      "year": 1894,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Premier of Pell\u00e9as et M\u00e9lisande",
+      "summary": "The debut of his opera, Pell\u00e9as et M\u00e9lisande, was an event that made audiences rethink what they expected from operas. Debussy turned the opera house into a playground of sounds, where even the melodies seemed to be whispering secrets.",
+      "year": 1902,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Recognition as Leader of Impressionism",
+      "summary": "Debussy's unique style earned him the title of the 'father of Impressionism' in music, a title more prestigious than being voted most likely to succeed in school. His compositions painted vivid pictures, leaving many wondering if they had stepped into an art gallery instead of a concert hall.",
+      "year": 1905,
+      "city": "Paris",
+      "country": "France"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/Aimons-nous_et_dormons_(Debussy,_Claude)",
+      "year": 1880,
+      "title": "Aimons-nous et dormons"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Andante_and_Tempo_di_Marcia_Funebra_(Debussy,_Claude)",
+      "year": 1881,
+      "title": "Andante and Tempo di Marcia Funebra"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_ang%C3%A9lus_(Debussy,_Claude)",
+      "year": 1892,
+      "title": "Les ang\u00e9lus"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Apparition_(Debussy,_Claude)",
+      "year": 1884,
+      "title": "Apparition"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Arabesques_(Debussy,_Claude)",
+      "year": 1890,
+      "title": "2 Arabesques"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ariettes_oubli%C3%A9es_(Debussy,_Claude)",
+      "year": 1885,
+      "title": "Ariettes oubli\u00e9es"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Ballades_de_Fran%C3%A7ois_Villon_(Debussy,_Claude)",
+      "year": 1910,
+      "title": "3 Ballades de Fran\u00e7ois Villon"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ballade_(Debussy,_Claude)",
+      "year": 1890,
+      "title": "Ballade"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Beau_soir_(Debussy,_Claude)",
+      "year": 1880,
+      "title": "Beau soir"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_belle_au_bois_dormant_(Debussy,_Claude)",
+      "year": 1890,
+      "title": "La belle au bois dormant"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Berceuse_h%C3%A9ro%C3%AFque_(Debussy,_Claude)",
+      "year": 1914,
+      "title": "Berceuse h\u00e9ro\u00efque"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Berceuse_pour_%27La_trag%C3%A9die_de_la_mort%27_(Debussy,_Claude)",
+      "year": 1899,
+      "title": "Berceuse pour 'La trag\u00e9die de la mort'"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_bo%C3%AEte_%C3%A0_joujoux_(Debussy,_Claude)",
+      "year": 1913,
+      "title": "La bo\u00eete \u00e0 joujoux"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/D%27un_cahier_d%27esquisses_(Debussy,_Claude)",
+      "year": 1903,
+      "title": "D'un cahier d'esquisses"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata_(Debussy,_Claude)",
+      "year": 1915,
+      "title": "Cello Sonata"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chanson_espagnole_(Debussy,_Claude)",
+      "year": 1883,
+      "title": "Chanson espagnole"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Chansons_de_Bilitis_(Debussy,_Claude)",
+      "year": 1897,
+      "title": "3 Chansons de Bilitis"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Chansons_de_Charles_d%27Orl%C3%A9ans_(Debussy,_Claude)",
+      "year": 1898,
+      "title": "3 Chansons de Charles d'Orl\u00e9ans"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Chansons_de_France_(Debussy,_Claude)",
+      "year": 1904,
+      "title": "3 Chansons de France"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Children%27s_Corner_(Debussy,_Claude)",
+      "year": 1906,
+      "title": "Children's Corner"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_damoiselle_%C3%A9lue_(Debussy,_Claude)",
+      "year": 1887,
+      "title": "La damoiselle \u00e9lue"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dans_le_jardin_(Debussy,_Claude)",
+      "year": 1903,
+      "title": "Dans le jardin"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Danse_boh%C3%A9mienne_(Debussy,_Claude)",
+      "year": 1880,
+      "title": "Danse boh\u00e9mienne"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Danse_sacr%C3%A9e_et_danse_profane_(Debussy,_Claude)",
+      "year": 1904,
+      "title": "Danse sacr\u00e9e et danse profane"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Danse_(Debussy,_Claude)",
+      "year": 1890,
+      "title": "Danse"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Diane_au_bois_(Debussy,_Claude)",
+      "year": 1883,
+      "title": "Diane au bois"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Diane_Ouverture_(Debussy,_Claude)",
+      "year": 1881,
+      "title": "Diane Ouverture"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Divertissement_(Debussy,_Claude)",
+      "year": 1882,
+      "title": "Divertissement"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%89glogue_(Debussy,_Claude)",
+      "year": 1882,
+      "title": "\u00c9glogue"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%89l%C3%A9gie_(Debussy,_Claude)",
+      "year": 1915,
+      "title": "\u00c9l\u00e9gie"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/En_blanc_et_noir_(Debussy,_Claude)",
+      "year": 1915,
+      "title": "En blanc et noir"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/En_sourdine_(Debussy,_Claude)",
+      "year": 1882,
+      "title": "En sourdine"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27enfant_prodigue_(Debussy,_Claude)",
+      "year": 1884,
+      "title": "L'enfant prodigue"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_%C3%89pigraphes_antiques_(Debussy,_Claude)",
+      "year": 1914,
+      "title": "6 \u00c9pigraphes antiques"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Estampes_(Debussy,_Claude)",
+      "year": 1903,
+      "title": "Estampes"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Etudes_(Debussy,_Claude)",
+      "year": 1915,
+      "title": "Etudes"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantaisie_for_Piano_and_Orchestra_(Debussy,_Claude)",
+      "year": 1889,
+      "title": "Fantaisie for Piano and Orchestra"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/F%C3%AAtes_galantes,_1er_recueil_(Debussy,_Claude)",
+      "year": 1882,
+      "title": "F\u00eates galantes, 1er recueil"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/F%C3%AAtes_galantes,_2%C3%A8me_recueil_(Debussy,_Claude)",
+      "year": 1904,
+      "title": "F\u00eates galantes, 2\u00e8me recueil"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fleur_des_bl%C3%A9s_(Debussy,_Claude)",
+      "year": 1881,
+      "title": "Fleur des bl\u00e9s"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fragment_for_Piano_(Debussy,_Claude)",
+      "year": 1905,
+      "title": "Fragment for Piano"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fugue_%C3%A0_4_voix_(Debussy,_Claude)",
+      "year": 1884,
+      "title": "Fugue \u00e0 4 voix"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hommage_%C3%A0_Haydn_(Debussy,_Claude)",
+      "year": 1909,
+      "title": "Hommage \u00e0 Haydn"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Images_oubli%C3%A9es_(Debussy,_Claude)",
+      "year": 1894,
+      "title": "Images oubli\u00e9es"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Images_pour_orchestre_(Debussy,_Claude)",
+      "year": 1905,
+      "title": "Images pour orchestre"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Images,_1ere_s%C3%A9rie_(Debussy,_Claude)",
+      "year": 1901,
+      "title": "Images, 1ere s\u00e9rie"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Images,_2%C3%A8me_s%C3%A9rie_(Debussy,_Claude)",
+      "year": 1907,
+      "title": "Images, 2\u00e8me s\u00e9rie"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Invocation_(Debussy,_Claude)",
+      "year": 1883,
+      "title": "Invocation"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27isle_joyeuse_(Debussy,_Claude)",
+      "year": 1904,
+      "title": "L'isle joyeuse"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jeux_(Debussy,_Claude)",
+      "year": 1912,
+      "title": "Jeux"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Khamma_(Debussy,_Claude)",
+      "year": 1910,
+      "title": "Khamma"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lindaraja_(Debussy,_Claude)",
+      "year": 1901,
+      "title": "Lindaraja"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Little_Nigar_(Debussy,_Claude)",
+      "year": 1909,
+      "title": "The Little Nigar"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mandoline_(Debussy,_Claude)",
+      "year": 1882,
+      "title": "Mandoline"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Marche_%C3%A9cossaise_sur_un_th%C3%A8me_populaire_(Debussy,_Claude)",
+      "year": 1893,
+      "title": "Marche \u00e9cossaise sur un th\u00e8me populaire"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_martyre_de_saint_S%C3%A9bastien_(Debussy,_Claude)",
+      "year": 1910,
+      "title": "Le martyre de saint S\u00e9bastien"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Masques_(Debussy,_Claude)",
+      "year": 1903,
+      "title": "Masques"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazurka_(Debussy,_Claude)",
+      "year": 1890,
+      "title": "Mazurka"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_M%C3%A9lodies_de_Verlaine_(Debussy,_Claude)",
+      "year": 1891,
+      "title": "3 M\u00e9lodies de Verlaine"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_mer_(Debussy,_Claude)",
+      "year": 1903,
+      "title": "La mer"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Morceau_de_concours_(Debussy,_Claude)",
+      "year": 1904,
+      "title": "Morceau de concours"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturne_et_Scherzo_(Debussy,_Claude)",
+      "year": 1882,
+      "title": "Nocturne et Scherzo"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturnes_(Debussy,_Claude)",
+      "year": 1897,
+      "title": "Nocturnes"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturne_(Debussy,_Claude)",
+      "year": 1892,
+      "title": "Nocturne"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/No%C3%ABl_des_enfants_qui_n%27ont_plus_de_maisons_(Debussy,_Claude)",
+      "year": 1915,
+      "title": "No\u00ebl des enfants qui n'ont plus de maisons"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nuit_d%E2%80%99%C3%A9toiles_(Debussy,_Claude)",
+      "year": 1880,
+      "title": "Nuit d\u2019\u00e9toiles"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nuits_blanches_(Debussy,_Claude)",
+      "year": 1898,
+      "title": "Nuits blanches"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pantomime_(Debussy,_Claude)",
+      "year": 1883,
+      "title": "Pantomime"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Paysage_sentimental_(Debussy,_Claude)",
+      "year": 1883,
+      "title": "Paysage sentimental"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pell%C3%A9as_et_M%C3%A9lisande_(Debussy,_Claude)",
+      "year": 1893,
+      "title": "Pell\u00e9as et M\u00e9lisande"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Petite_pi%C3%A8ce_(Debussy,_Claude)",
+      "year": 1910,
+      "title": "Petite pi\u00e8ce"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Petite_suite_(Debussy,_Claude)",
+      "year": 1886,
+      "title": "Petite suite"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio_in_G_major_(Debussy,_Claude)",
+      "year": 1880,
+      "title": "Piano Trio in G major"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pi%C3%A8ce_pour_le_V%C3%AAtement_du_bless%C3%A9_(Debussy,_Claude)",
+      "year": 1915,
+      "title": "Pi\u00e8ce pour le V\u00eatement du bless\u00e9"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pierrot_(Debussy,_Claude)",
+      "year": 1882,
+      "title": "Pierrot"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_plus_que_lente_(Debussy,_Claude)",
+      "year": 1910,
+      "title": "La plus que lente"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_Po%C3%A8mes_de_Baudelaire_(Debussy,_Claude)",
+      "year": 1887,
+      "title": "5 Po\u00e8mes de Baudelaire"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Po%C3%A8mes_de_St%C3%A9phane_Mallarm%C3%A9_(Debussy,_Claude)",
+      "year": 1913,
+      "title": "3 Po\u00e8mes de St\u00e9phane Mallarm\u00e9"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pour_le_piano_(Debussy,_Claude)",
+      "year": 1894,
+      "title": "Pour le piano"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pr%C3%A9lude_%C3%A0_l%27apr%C3%A8s-midi_d%27un_faune_(Debussy,_Claude)",
+      "year": 1891,
+      "title": "Pr\u00e9lude \u00e0 l'apr\u00e8s-midi d'un faune"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pr%C3%A9ludes,_Livre_1_(Debussy,_Claude)",
+      "year": 1909,
+      "title": "Pr\u00e9ludes, Livre 1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pr%C3%A9ludes,_Livre_2_(Debussy,_Claude)",
+      "year": 1912,
+      "title": "Pr\u00e9ludes, Livre 2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Premi%C3%A8re_rhapsodie_(Debussy,_Claude)",
+      "year": 1909,
+      "title": "Premi\u00e8re rhapsodie"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_printemps_(Debussy,_Claude)",
+      "year": 1882,
+      "title": "Le printemps"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Printemps_(Debussy,_Claude)",
+      "year": 1887,
+      "title": "Printemps"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_promenoir_des_deux_amants_(Debussy,_Claude)",
+      "year": 1904,
+      "title": "Le promenoir des deux amants"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Proses_lyriques_(Debussy,_Claude)",
+      "year": 1892,
+      "title": "Proses lyriques"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Rapsodie_for_Orchestra_and_Saxophone_(Debussy,_Claude)",
+      "year": 1901,
+      "title": "Rapsodie for Orchestra and Saxophone"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/R%C3%AAverie_(Debussy,_Claude)",
+      "year": 1890,
+      "title": "R\u00eaverie"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Rodrigue_et_Chim%C3%A8ne_(Debussy,_Claude)",
+      "year": 1890,
+      "title": "Rodrigue et Chim\u00e8ne"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_roi_Lear_(Debussy,_Claude)",
+      "year": 1904,
+      "title": "Le roi Lear"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Romances_(Debussy,_Claude)",
+      "year": 1885,
+      "title": "2 Romances"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Rondeau_(Debussy,_Claude)",
+      "year": 1881,
+      "title": "Rondeau"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_soirs_illumin%C3%A9s_par_l%27ardeur_du_charbon_(Debussy,_Claude)",
+      "year": 1917,
+      "title": "Les soirs illumin\u00e9s par l'ardeur du charbon"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sonata_for_Flute,_Viola_and_Harp_(Debussy,_Claude)",
+      "year": 1915,
+      "title": "Sonata for Flute, Viola and Harp"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_G_minor,_Op.10_(Debussy,_Claude)",
+      "year": 1893,
+      "title": "String Quartet in G minor, Op.10"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Suite_bergamasque_(Debussy,_Claude)",
+      "year": 1890,
+      "title": "Suite bergamasque"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_B_minor_(Debussy,_Claude)",
+      "year": 1880,
+      "title": "Symphony in B minor"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Syrinx_(Debussy,_Claude)",
+      "year": 1913,
+      "title": "Syrinx"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_triomphe_de_Bacchus_(Debussy,_Claude)",
+      "year": 1882,
+      "title": "Le triomphe de Bacchus"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Valse_romantique_(Debussy,_Claude)",
+      "year": 1890,
+      "title": "Valse romantique"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_(Debussy,_Claude)",
+      "year": 1917,
+      "title": "Violin Sonata"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Voici_que_le_printemps_(Debussy,_Claude)",
+      "year": 1884,
+      "title": "Voici que le printemps"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Votre_%C3%A2me_est_un_paysage_choisi_(Debussy,_Claude)",
+      "year": 1882,
+      "title": "Votre \u00e2me est un paysage choisi"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Z%C3%A9phyr_(Debussy,_Claude)",
+      "year": 1881,
+      "title": "Z\u00e9phyr"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/F%C3%AAtes_galantes_(Debussy,_Claude)",
+      "year": 1891,
+      "title": "F\u00eates galantes"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/12_Pi%C3%A8ces_pour_grand_orgue_(Debussy,_Claude)",
+      "year": 1911,
+      "title": "12 Pi\u00e8ces pour grand orgue"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/12_Songs_(Debussy,_Claude)",
+      "year": 1913,
+      "title": "12 Songs"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Children%27s_Corner_(Debussy,_Claude)",
+      "year": 1906,
+      "title": "Children's Corner"
+    }
+  ]
+}

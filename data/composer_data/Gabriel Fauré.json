@@ -1,0 +1,908 @@
+{
+  "full_name": "Gabriel Faur\u00e9",
+  "first_names": "Gabriel",
+  "last_name": "Faur\u00e9",
+  "birth_year": 1845,
+  "death_year": 1924,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gabriel_Faur\u00e9",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Gabriel Urbain Faur\u00e9 made his grand entrance into the world in a somewhat cultured and not-so-musical family in Pamiers, Ari\u00e8ge. He quickly established himself as the family's undisputed musical prodigy, demonstrating that playing harmonium rather badly can still lead to a life of music.",
+      "year": 1845,
+      "city": "Pamiers",
+      "country": "France"
+    },
+    {
+      "event": "Entry to Music College",
+      "summary": "At the tender age of nine, Faur\u00e9 was shipped off to the \u00c9cole Niedermeyer music college in Paris, where he learned to become a church organist and choirmaster. Little did they know, he would later emerge as a cat-herding maestro of composition!",
+      "year": 1854,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Graduation",
+      "summary": "In a grand ceremony of musical prowess, Faur\u00e9 graduated from the \u00c9cole Niedermeyer in 1865 with a pocket full of diplomas and a head full of harmony. The teachers were delighted, but no one bothered to ask how he'd actually pay the rent.",
+      "year": 1865,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Organist Position",
+      "summary": "Faur\u00e9 took on the role of organist at the Church of Saint-Sauveur in Rennes. This gig turned out to be more about giving piano lessons than composing, where he was rumored to sneak out for cigarettes during sermons \u2013 a true musical rebel!",
+      "year": 1866,
+      "city": "Rennes",
+      "country": "France"
+    },
+    {
+      "event": "Military Service",
+      "summary": "In 1870, with a mix of bravery and perhaps some boredom, Faur\u00e9 volunteered for military service during the Franco-Prussian War. He traded his piano for a rifle and managed to take part in some of the most intense moments of the conflict!",
+      "year": 1870,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Choirmaster Appointment",
+      "summary": "Post-war and back in the city, Faur\u00e9 was appointed choirmaster at \u00c9glise Saint-Sulpice in Paris. Known for his improvisational prowess, he must have kept things interesting with this musical chess match against Widor at the church's two organs.",
+      "year": 1871,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Founding Member of Soci\u00e9t\u00e9 Nationale de Musique",
+      "summary": "Faur\u00e9 became a founding member of the Soci\u00e9t\u00e9 Nationale de Musique, where he rubbed elbows with musical greats like Bizet and Franck. Think of it as the original music festival, minus the mud and overpriced food stalls!",
+      "year": 1871,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Violin Sonata Success",
+      "summary": "In 1877, Faur\u00e9's first violin sonata was a hit at a Soci\u00e9t\u00e9 Nationale concert. It was like the moment he finally made it to the big leagues, complete with confetti and an emotional piano flourish.",
+      "year": 1877,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Marriage to Marie Fremiet",
+      "summary": "Faur\u00e9 tied the knot with Marie Fremiet, a match that was reputed to lack fireworks but was described as affectionate. In a plot twist worthy of a romance novel, love bloomed in the shadows of a somewhat dull marriage.",
+      "year": 1883,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "National Musical Tribute",
+      "summary": "In a grand finale to his career, Faur\u00e9 was honored with a national musical tribute in Paris, presided over by the president of France. One could only imagine the floral arrangements and musical flattery at such a spectacular event!",
+      "year": 1922,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Marriage to Marie Faur\u00e9",
+      "summary": "Faur\u00e9 married Marie, who was a 'stay-at-home' while he reveled in the Paris nightlife. Their affectionate marriage was probably more of a roommate situation, with her at the hearth and him composing away from home - talk about splitting the household chores!",
+      "year": 1883,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Birth of Emmanuel Faur\u00e9-Fremiet",
+      "summary": "The couple welcomed their first son, Emmanuel, who later became a prominent biologist. Faur\u00e9's talent clearly runs in the family, but it seems like he forgot to pass down his music genes.",
+      "year": 1883,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Birth of Philippe Faur\u00e9",
+      "summary": "Their second son, Philippe, was born, who had the nerve to become a writer! At least one could write the family drama from the sidelines.",
+      "year": 1889,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First performance of Requiem",
+      "summary": "Faur\u00e9's Requiem premiered, but not without some eyebrow-raising comments from priests questioning the need for such 'novelties'. It's like being told your avant-garde art is too avant-garde.",
+      "year": 1888,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Health recovery in Venice",
+      "summary": "After a creative block and a touch of melancholy, Faur\u00e9 found his muse again in Venice thanks to a friend's timely invitation. Nothing says 'get back on your feet' like a palazzo on the Grand Canal!",
+      "year": 1890,
+      "city": "Venice",
+      "country": "Italy"
+    },
+    {
+      "event": "Appointment as inspector of music conservatories",
+      "summary": "Though Faur\u00e9 disliked traveling, he landed a steady gig as an inspector for conservatories. At least he could complain about train delays and still get paid!",
+      "year": 1892,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Becoming chief organist of Madeleine",
+      "summary": "After some fierce competition and higher-ups reshuffling, Faur\u00e9 snagged the position of chief organist at the famous Madeleine church. It's a divine gig, literally!",
+      "year": 1896,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Appointment as head of Paris Conservatoire",
+      "summary": "Faur\u00e9 was appointed head of the Paris Conservatoire, where he tried to modernize the curriculum. Some called him 'Robespierre' for shaking things up! Imagine the old guard's faces when he introduced Wagner.",
+      "year": 1905,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Elected to the Institut de France",
+      "summary": "With some friendly campaigning, Faur\u00e9 squeaked into the prestigious Institut de France. It was a nail-biter of an election, but he emerged victorious! Just think of the dinner parties.",
+      "year": 1909,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Retirement from the Conservatoire",
+      "summary": "Faur\u00e9 officially hung up his teaching hat at the young age of 75 due to his increasing deafness. It was time to retire and let the next generation take on the noise!",
+      "year": 1920,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Retirement from Conservatoire",
+      "summary": "Faur\u00e9 decided to hang up his teaching hat at the Conservatoire, citing his growing deafness and frailty. It was a bittersweet farewell \u2013 imagine telling your students you're retiring because you can't hear their musical disasters anymore!",
+      "year": 1920,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Grand-Croix of the L\u00e9gion d'honneur",
+      "summary": "In a move that surprised many, Faur\u00e9 was awarded the Grand-Croix of the L\u00e9gion d'honneur, a fancy title not commonly handed out to musicians. It was as if the musical gods finally decided to acknowledge that yes, he did deserve a spot on the honor roll!",
+      "year": 1920,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "National hommage at the Sorbonne",
+      "summary": "Faur\u00e9 received a grand national tribute led by President Millerand, which must have felt like attending his own surprise birthday party. The catch? He couldn\u2019t hear a note of the concert dedicated to him \u2013 talk about throwing a party and being stuck outside!",
+      "year": 1922,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Completion of String Quartet",
+      "summary": "After much procrastination and a healthy dose of self-doubt, Faur\u00e9 finally completed his String Quartet, calling it a monumental task that made him feel like Beethoven's understudy. He worked on it right up until the end, proving that even a maestro can struggle with commitment!",
+      "year": 1924,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Death",
+      "summary": "Faur\u00e9 took his final bow in Paris, passing away from pneumonia. Despite the circumstances, his funeral was a grand affair, so one could say he literally made an exit fit for a composer, although he surely would have preferred to compose and conduct from the comfort of his living room",
+      "year": 1924,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Premiere of Masques et bergamasques",
+      "summary": "Faur\u00e9 orchestrated his own best-known work, Masques et bergamasques, proving that when it comes to your creations, sometimes it's best to take the reins yourself \u2013 even if it means putting your foot down about those pesky glockenspiels.",
+      "year": 1919,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Last Composition - String Quartet",
+      "summary": "Faur\u00e9 completed his last work, the String Quartet, showcasing that even in the twilight years of one's life, creativity remains a constant companion. Who knew meditation on last things could sound so blissfully ethereal?",
+      "year": 1924,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Composition",
+      "summary": "At a young age, Faur\u00e9 composed his first piece, which is said to have left his teachers scratching their heads, wondering if they were witnessing genius or a mild case of childhood imagination gone mad.",
+      "year": 1861,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Becoming an Organist",
+      "summary": "Faur\u00e9 took on the role of organist at a church, where his fingers danced over the keys, creating music that made congregants forget about the sermon and start daydreaming.",
+      "year": 1866,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Marriage",
+      "summary": "Faur\u00e9 tied the knot, probably hoping his new wife would appreciate the endless serenades he would gift her \u2013 or at least keep her from running off during his long compositions.",
+      "year": 1883,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Becoming Director of the Conservatoire",
+      "summary": "Faur\u00e9 achieved a significant milestone by becoming the Director of the Paris Conservatoire, where he could officially tell students to 'play it again' and make 'less is more' the new motto.",
+      "year": 1905,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Publication of Requiem",
+      "summary": "The release of Faur\u00e9's Requiem was a glorious moment, as it caused quite the stir, showing that he could make even themes of mortality sound beautiful \u2013 and a bit more bearable.",
+      "year": 1890,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Last Major Public Appearance",
+      "summary": "Faur\u00e9 made what would be his final public appearance, sharing his musical essence with fans who were more than willing to applaud until their hands hurt, forgetting social norms for the love of music.",
+      "year": 1921,
+      "city": "Paris",
+      "country": "France"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro_symphonique,_Op.68_(Faur%C3%A9,_Gabriel)",
+      "year": 1865,
+      "title": "Allegro symphonique, Op.68"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Andante,_Op.75_(Faur%C3%A9,_Gabriel)",
+      "year": 1897,
+      "title": "Andante, Op.75"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27aurore_s%27allume_(Faur%C3%A9,_Gabriel)",
+      "year": 1870,
+      "title": "L'aurore s'allume"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ave_Maria_in_A_major_(Faur%C3%A9,_Gabriel)",
+      "year": 1871,
+      "title": "Ave Maria in A major"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ave_Maria,_Op.93_(Faur%C3%A9,_Gabriel)",
+      "year": 1906,
+      "title": "Ave Maria, Op.93"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ballade,_Op.19_(Faur%C3%A9,_Gabriel)",
+      "year": 1877,
+      "title": "Ballade, Op.19"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Barcarolle_No.1,_Op.26_(Faur%C3%A9,_Gabriel)",
+      "year": 1881,
+      "title": "Barcarolle No.1, Op.26"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Barcarolle_No.2,_Op.41_(Faur%C3%A9,_Gabriel)",
+      "year": 1885,
+      "title": "Barcarolle No.2, Op.41"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Barcarolle_No.3,_Op.42_(Faur%C3%A9,_Gabriel)",
+      "year": 1885,
+      "title": "Barcarolle No.3, Op.42"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Barcarolle_No.4,_Op.44_(Faur%C3%A9,_Gabriel)",
+      "year": 1886,
+      "title": "Barcarolle No.4, Op.44"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Barcarolle_No.5,_Op.66_(Faur%C3%A9,_Gabriel)",
+      "year": 1894,
+      "title": "Barcarolle No.5, Op.66"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Barcarolle_No.6,_Op.70_(Faur%C3%A9,_Gabriel)",
+      "year": 1896,
+      "title": "Barcarolle No.6, Op.70"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Barcarolle_No.7,_Op.90_(Faur%C3%A9,_Gabriel)",
+      "year": 1905,
+      "title": "Barcarolle No.7, Op.90"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Barcarolle_No.8,_Op.96_(Faur%C3%A9,_Gabriel)",
+      "year": 1906,
+      "title": "Barcarolle No.8, Op.96"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Barcarolle_No.9,_Op.101_(Faur%C3%A9,_Gabriel)",
+      "year": 1908,
+      "title": "Barcarolle No.9, Op.101"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Barcarolle_No.11,_Op.105_(Faur%C3%A9,_Gabriel)",
+      "year": 1913,
+      "title": "Barcarolle No.11, Op.105"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Barcarolle_No.12,_Op.106bis_(Faur%C3%A9,_Gabriel)",
+      "year": 1915,
+      "title": "Barcarolle No.12, Op.106bis"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Barcarolle_No.13,_Op.116_(Faur%C3%A9,_Gabriel)",
+      "year": 1921,
+      "title": "Barcarolle No.13, Op.116"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Berceuse,_Op.16_(Faur%C3%A9,_Gabriel)",
+      "year": 1878,
+      "title": "Berceuse, Op.16"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_bonne_chanson,_Op.61_(Faur%C3%A9,_Gabriel)",
+      "year": 1892,
+      "title": "La bonne chanson, Op.61"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/C%27est_la_paix,_Op.114_(Faur%C3%A9,_Gabriel)",
+      "year": 1919,
+      "title": "C'est la paix, Op.114"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Caligula,_Op.52_(Faur%C3%A9,_Gabriel)",
+      "year": 1888,
+      "title": "Caligula, Op.52"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cantique_de_Jean_Racine,_Op.11_(Faur%C3%A9,_Gabriel)",
+      "year": 1865,
+      "title": "Cantique de Jean Racine, Op.11"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata_No.1,_Op.109_(Faur%C3%A9,_Gabriel)",
+      "year": 1917,
+      "title": "Cello Sonata No.1, Op.109"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata_No.2,_Op.117_(Faur%C3%A9,_Gabriel)",
+      "year": 1921,
+      "title": "Cello Sonata No.2, Op.117"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_chanson_d%27%C3%88ve,_Op.95_(Faur%C3%A9,_Gabriel)",
+      "year": 1906,
+      "title": "La chanson d'\u00c8ve, Op.95"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chanson,_Op.94_(Faur%C3%A9,_Gabriel)",
+      "year": 1906,
+      "title": "Chanson, Op.94"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_Djinns,_Op.12_(Faur%C3%A9,_Gabriel)",
+      "year": 1875,
+      "title": "Les Djinns, Op.12"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dolly_Suite,_Op.56_(Faur%C3%A9,_Gabriel)",
+      "year": 1892,
+      "title": "Dolly Suite, Op.56"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_don_silencieux,_Op.92_(Faur%C3%A9,_Gabriel)",
+      "year": 1906,
+      "title": "Le don silencieux, Op.92"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Duets,_Op.10_(Faur%C3%A9,_Gabriel)",
+      "year": 1873,
+      "title": "2 Duets, Op.10"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ecce_fidelis_servus,_Op.54_(Faur%C3%A9,_Gabriel)",
+      "year": 1889,
+      "title": "Ecce fidelis servus, Op.54"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Elegy,_Op.24_(Faur%C3%A9,_Gabriel)",
+      "year": 1883,
+      "title": "Elegy, Op.24"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/En_pri%C3%A8re_(Faur%C3%A9,_Gabriel)",
+      "year": 1890,
+      "title": "En pri\u00e8re"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Esquisse_d%27une_fugue_(Faur%C3%A9,_Gabriel)",
+      "year": 1864,
+      "title": "Esquisse d'une fugue"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantaisie,_Op.79_(Faur%C3%A9,_Gabriel)",
+      "year": 1898,
+      "title": "Fantaisie, Op.79"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantaisie,_Op.111_(Faur%C3%A9,_Gabriel)",
+      "year": 1918,
+      "title": "Fantaisie, Op.111"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27horizon_chim%C3%A9rique,_Op.118_(Faur%C3%A9,_Gabriel)",
+      "year": 1921,
+      "title": "L'horizon chim\u00e9rique, Op.118"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hymne_%C3%A0_Apollon,_Op.63bis_(Faur%C3%A9,_Gabriel)",
+      "year": 1894,
+      "title": "Hymne \u00e0 Apollon, Op.63bis"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Impromptu_No.1,_Op.25_(Faur%C3%A9,_Gabriel)",
+      "year": 1881,
+      "title": "Impromptu No.1, Op.25"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Impromptu_No.2,_Op.31_(Faur%C3%A9,_Gabriel)",
+      "year": 1883,
+      "title": "Impromptu No.2, Op.31"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Impromptu_No.3,_Op.34_(Faur%C3%A9,_Gabriel)",
+      "year": 1883,
+      "title": "Impromptu No.3, Op.34"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Impromptu_No.4,_Op.91_(Faur%C3%A9,_Gabriel)",
+      "year": 1905,
+      "title": "Impromptu No.4, Op.91"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Impromptu_No.5,_Op.102_(Faur%C3%A9,_Gabriel)",
+      "year": 1908,
+      "title": "Impromptu No.5, Op.102"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Impromptu_No.6,_Op.86_(Faur%C3%A9,_Gabriel)",
+      "year": 1904,
+      "title": "Impromptu No.6, Op.86"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_jardin_clos,_Op.106_(Faur%C3%A9,_Gabriel)",
+      "year": 1914,
+      "title": "Le jardin clos, Op.106"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Madrigal,_Op.35_(Faur%C3%A9,_Gabriel)",
+      "year": 1883,
+      "title": "Madrigal, Op.35"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Masques_et_Bergamasques,_suite,_Op.112_(Faur%C3%A9,_Gabriel)",
+      "year": 1919,
+      "title": "Masques et Bergamasques, suite, Op.112"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazurka,_Op.32_(Faur%C3%A9,_Gabriel)",
+      "year": 1875,
+      "title": "Mazurka, Op.32"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_M%C3%A9lodies,_Op.46_(Faur%C3%A9,_Gabriel)",
+      "year": 1887,
+      "title": "2 M\u00e9lodies, Op.46"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_M%C3%A9lodies,_Op.51_(Faur%C3%A9,_Gabriel)",
+      "year": 1888,
+      "title": "4 M\u00e9lodies, Op.51"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_M%C3%A9lodies,_Op.58_(Faur%C3%A9,_Gabriel)",
+      "year": 1891,
+      "title": "5 M\u00e9lodies, Op.58"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Messe_basse_(Faur%C3%A9,_Gabriel)",
+      "year": 1881,
+      "title": "Messe basse"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mirages,_Op.113_(Faur%C3%A9,_Gabriel)",
+      "year": 1919,
+      "title": "Mirages, Op.113"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Morceau_de_Concours_for_2_Cellos_(Faur%C3%A9,_Gabriel)",
+      "year": 1897,
+      "title": "Morceau de Concours for 2 Cellos"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Morceau_de_Concours_for_Flute_and_Piano_(Faur%C3%A9,_Gabriel)",
+      "year": 1898,
+      "title": "Morceau de Concours for Flute and Piano"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Morceau_de_Concours_for_Violin_and_Piano_(Faur%C3%A9,_Gabriel)",
+      "year": 1903,
+      "title": "Morceau de Concours for Violin and Piano"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Motets,_Op.65_(Faur%C3%A9,_Gabriel)",
+      "year": 1894,
+      "title": "2 Motets, Op.65"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_naissance_de_V%C3%A9nus,_Op.29_(Faur%C3%A9,_Gabriel)",
+      "year": 1882,
+      "title": "La naissance de V\u00e9nus, Op.29"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturne_No.4,_Op.36_(Faur%C3%A9,_Gabriel)",
+      "year": 1884,
+      "title": "Nocturne No.4, Op.36"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturne_No.5,_Op.37_(Faur%C3%A9,_Gabriel)",
+      "year": 1884,
+      "title": "Nocturne No.5, Op.37"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturne_No.6,_Op.63_(Faur%C3%A9,_Gabriel)",
+      "year": 1894,
+      "title": "Nocturne No.6, Op.63"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturne_No.7,_Op.74_(Faur%C3%A9,_Gabriel)",
+      "year": 1898,
+      "title": "Nocturne No.7, Op.74"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturne_No.9,_Op.97_(Faur%C3%A9,_Gabriel)",
+      "year": 1908,
+      "title": "Nocturne No.9, Op.97"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturne_No.10,_Op.99_(Faur%C3%A9,_Gabriel)",
+      "year": 1908,
+      "title": "Nocturne No.10, Op.99"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturne_No.12,_Op.107_(Faur%C3%A9,_Gabriel)",
+      "year": 1915,
+      "title": "Nocturne No.12, Op.107"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturne_No.13,_Op.119_(Faur%C3%A9,_Gabriel)",
+      "year": 1921,
+      "title": "Nocturne No.13, Op.119"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Nocturnes,_Op.33_(Faur%C3%A9,_Gabriel)",
+      "year": 1875,
+      "title": "3 Nocturnes, Op.33"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/No%C3%ABl_d%27enfants_(Faur%C3%A9,_Gabriel)",
+      "year": 1890,
+      "title": "No\u00ebl d'enfants"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Papillon,_Op.77_(Faur%C3%A9,_Gabriel)",
+      "year": 1884,
+      "title": "Papillon, Op.77"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pavane,_Op.50_(Faur%C3%A9,_Gabriel)",
+      "year": 1887,
+      "title": "Pavane, Op.50"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pell%C3%A9as_et_M%C3%A9lisande,_Op.80_(Faur%C3%A9,_Gabriel)",
+      "year": 1898,
+      "title": "Pell\u00e9as et M\u00e9lisande, Op.80"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/P%C3%A9n%C3%A9lope_(Faur%C3%A9,_Gabriel)",
+      "year": 1907,
+      "title": "P\u00e9n\u00e9lope"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Petite_Fugue_(Faur%C3%A9,_Gabriel)",
+      "year": 1869,
+      "title": "Petite Fugue"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Quartet_No.1,_Op.15_(Faur%C3%A9,_Gabriel)",
+      "year": 1876,
+      "title": "Piano Quartet No.1, Op.15"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Quartet_No.2,_Op.45_(Faur%C3%A9,_Gabriel)",
+      "year": 1886,
+      "title": "Piano Quartet No.2, Op.45"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Quintet_No.1,_Op.89_(Faur%C3%A9,_Gabriel)",
+      "year": 1890,
+      "title": "Piano Quintet No.1, Op.89"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Quintet_No.2,_Op.115_(Faur%C3%A9,_Gabriel)",
+      "year": 1919,
+      "title": "Piano Quintet No.2, Op.115"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio,_Op.120_(Faur%C3%A9,_Gabriel)",
+      "year": 1922,
+      "title": "Piano Trio, Op.120"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/8_Pi%C3%A8ces_br%C3%A8ves,_Op.84_(Faur%C3%A9,_Gabriel)",
+      "year": 1869,
+      "title": "8 Pi\u00e8ces br\u00e8ves, Op.84"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Pieces,_Op.104_(Faur%C3%A9,_Gabriel)",
+      "year": 1913,
+      "title": "2 Pieces, Op.104"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pleurs_d%27or,_Op.72_(Faur%C3%A9,_Gabriel)",
+      "year": 1896,
+      "title": "Pleurs d'or, Op.72"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Po%C3%A8me_d%27un_jour,_Op.21_(Faur%C3%A9,_Gabriel)",
+      "year": 1878,
+      "title": "Po\u00e8me d'un jour, Op.21"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Prelude_and_Fugue_(Faur%C3%A9,_Gabriel)",
+      "year": 1869,
+      "title": "Prelude and Fugue"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/9_Pr%C3%A9ludes,_Op.103_(Faur%C3%A9,_Gabriel)",
+      "year": 1909,
+      "title": "9 Pr\u00e9ludes, Op.103"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Prom%C3%A9th%C3%A9e,_Op.82_(Faur%C3%A9,_Gabriel)",
+      "year": 1900,
+      "title": "Prom\u00e9th\u00e9e, Op.82"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Requiem,_Op.48_(Faur%C3%A9,_Gabriel)",
+      "year": 1877,
+      "title": "Requiem, Op.48"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Romance,_Op.28_(Faur%C3%A9,_Gabriel)",
+      "year": 1883,
+      "title": "Romance, Op.28"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Romance,_Op.69_(Faur%C3%A9,_Gabriel)",
+      "year": 1894,
+      "title": "Romance, Op.69"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Romances_sans_paroles,_Op.17_(Faur%C3%A9,_Gabriel)",
+      "year": 1863,
+      "title": "3 Romances sans paroles, Op.17"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_ruisseau,_Op.22_(Faur%C3%A9,_Gabriel)",
+      "year": 1881,
+      "title": "Le ruisseau, Op.22"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/S%C3%A9r%C3%A9nade_du_Bourgeois_gentilhomme_(Faur%C3%A9,_Gabriel)",
+      "year": 1893,
+      "title": "S\u00e9r\u00e9nade du Bourgeois gentilhomme"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/S%C3%A9r%C3%A9nade,_Op.98_(Faur%C3%A9,_Gabriel)",
+      "year": 1908,
+      "title": "S\u00e9r\u00e9nade, Op.98"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Shylock,_suite,_Op.57_(Faur%C3%A9,_Gabriel)",
+      "year": 1889,
+      "title": "Shylock, suite, Op.57"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sicilienne,_Op.78_(Faur%C3%A9,_Gabriel)",
+      "year": 1893,
+      "title": "Sicilienne, Op.78"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Songs,_Op.1_(Faur%C3%A9,_Gabriel)",
+      "year": 1861,
+      "title": "2 Songs, Op.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Songs,_Op.2_(Faur%C3%A9,_Gabriel)",
+      "year": 1865,
+      "title": "2 Songs, Op.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Songs,_Op.3_(Faur%C3%A9,_Gabriel)",
+      "year": 1871,
+      "title": "2 Songs, Op.3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Songs,_Op.4_(Faur%C3%A9,_Gabriel)",
+      "year": 1870,
+      "title": "2 Songs, Op.4"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Songs,_Op.5_(Faur%C3%A9,_Gabriel)",
+      "year": 1871,
+      "title": "3 Songs, Op.5"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Songs,_Op.6_(Faur%C3%A9,_Gabriel)",
+      "year": 1873,
+      "title": "3 Songs, Op.6"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Songs,_Op.7_(Faur%C3%A9,_Gabriel)",
+      "year": 1877,
+      "title": "3 Songs, Op.7"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Songs,_Op.8_(Faur%C3%A9,_Gabriel)",
+      "year": 1875,
+      "title": "3 Songs, Op.8"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Songs,_Op.18_(Faur%C3%A9,_Gabriel)",
+      "year": 1878,
+      "title": "3 Songs, Op.18"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Songs,_Op.23_(Faur%C3%A9,_Gabriel)",
+      "year": 1879,
+      "title": "3 Songs, Op.23"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Songs,_Op.27_(Faur%C3%A9,_Gabriel)",
+      "year": 1882,
+      "title": "2 Songs, Op.27"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Songs,_Op.39_(Faur%C3%A9,_Gabriel)",
+      "year": 1884,
+      "title": "4 Songs, Op.39"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Songs,_Op.43_(Faur%C3%A9,_Gabriel)",
+      "year": 1885,
+      "title": "2 Songs, Op.43"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Songs,_Op.47_(Faur%C3%A9,_Gabriel)",
+      "year": 1887,
+      "title": "2 Songs, Op.47"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Songs,_Op.67_(Faur%C3%A9,_Gabriel)",
+      "year": 1894,
+      "title": "2 Songs, Op.67"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Songs,_Op.76_(Faur%C3%A9,_Gabriel)",
+      "year": 1897,
+      "title": "2 Songs, Op.76"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Songs,_Op.83_(Faur%C3%A9,_Gabriel)",
+      "year": 1894,
+      "title": "2 Songs, Op.83"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Songs,_Op.85_(Faur%C3%A9,_Gabriel)",
+      "year": 1902,
+      "title": "3 Songs, Op.85"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Songs,_Op.87_(Faur%C3%A9,_Gabriel)",
+      "year": 1904,
+      "title": "2 Songs, Op.87"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet,_Op.121_(Faur%C3%A9,_Gabriel)",
+      "year": 1923,
+      "title": "String Quartet, Op.121"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Super_flumina_(Faur%C3%A9,_Gabriel)",
+      "year": 1863,
+      "title": "Super flumina"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Tantum_ergo_sacramentum_(Faur%C3%A9,_Gabriel)",
+      "year": 1904,
+      "title": "Tantum ergo sacramentum"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Tantum_ergo,_Op.55_(Faur%C3%A9,_Gabriel)",
+      "year": 1890,
+      "title": "Tantum ergo, Op.55"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Th%C3%A8me_et_variations,_Op.73_(Faur%C3%A9,_Gabriel)",
+      "year": 1895,
+      "title": "Th\u00e8me et variations, Op.73"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Tristesse_d%27Olympio_(Faur%C3%A9,_Gabriel)",
+      "year": 1865,
+      "title": "Tristesse d'Olympio"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Tu_es_Petrus_(Faur%C3%A9,_Gabriel)",
+      "year": 1872,
+      "title": "Tu es Petrus"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Une_ch%C3%A2telaine_en_sa_tour,_Op.110_(Faur%C3%A9,_Gabriel)",
+      "year": 1918,
+      "title": "Une ch\u00e2telaine en sa tour, Op.110"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Valse-Caprice_No.1,_Op.30_(Faur%C3%A9,_Gabriel)",
+      "year": 1882,
+      "title": "Valse-Caprice No.1, Op.30"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Valse-Caprice_No.2,_Op.38_(Faur%C3%A9,_Gabriel)",
+      "year": 1884,
+      "title": "Valse-Caprice No.2, Op.38"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Valse-Caprice_No.3,_Op.59_(Faur%C3%A9,_Gabriel)",
+      "year": 1887,
+      "title": "Valse-Caprice No.3, Op.59"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Valse-Caprice_No.4,_Op.62_(Faur%C3%A9,_Gabriel)",
+      "year": 1893,
+      "title": "Valse-Caprice No.4, Op.62"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto,_Op.14_(Faur%C3%A9,_Gabriel)",
+      "year": 1878,
+      "title": "Violin Concerto, Op.14"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.1,_Op.13_(Faur%C3%A9,_Gabriel)",
+      "year": 1875,
+      "title": "Violin Sonata No.1, Op.13"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.2,_Op.108_(Faur%C3%A9,_Gabriel)",
+      "year": 1916,
+      "title": "Violin Sonata No.2, Op.108"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Vocalise-%C3%A9tude_(Faur%C3%A9,_Gabriel)",
+      "year": 1906,
+      "title": "Vocalise-\u00e9tude"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Messe_des_p%C3%AAcheurs_de_Villerville_(Faur%C3%A9,_Gabriel)",
+      "year": 1881,
+      "title": "Messe des p\u00eacheurs de Villerville"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Souvenirs_de_Bayreuth_(Faur%C3%A9,_Gabriel)",
+      "year": 1888,
+      "title": "Souvenirs de Bayreuth"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Il_est_n%C3%A9_le_divin_enfant_(Faur%C3%A9,_Gabriel)",
+      "year": 1888,
+      "title": "Il est n\u00e9 le divin enfant"
+    }
+  ]
+}

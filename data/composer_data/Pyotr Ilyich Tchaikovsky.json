@@ -1,0 +1,1050 @@
+{
+  "full_name": "Pyotr Ilyich Tchaikovsky",
+  "first_names": "Pyotr Ilyich",
+  "last_name": "Tchaikovsky",
+  "birth_year": 1840,
+  "death_year": 1893,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Tchaikovsky made his grand entrance into the world in a small town called Votkinsk, and with that, the music scene was about to get a new diva. Little did anyone know, he would soon be composing like he was born with a baton in hand.",
+      "year": 1840,
+      "city": "Votkinsk",
+      "country": "Russian Empire"
+    },
+    {
+      "event": "Started Piano Lessons",
+      "summary": "At the tender age of five, Tchaikovsky began piano lessons, shocking everyone around him with his precocious talent. By eight, he was reading sheet music better than most adults, proving that he was destined to be more than just the family prodigy.",
+      "year": 1845,
+      "city": "Votkinsk",
+      "country": "Russian Empire"
+    },
+    {
+      "event": "Education at the Imperial School of Jurisprudence",
+      "summary": "Sent to St. Petersburg for a civil service education, Tchaikovsky was probably the most melodramatic mind among wall-to-wall legal scholars. While he played with harmoniums, his comrades studied laws \u2013 and probably whispered about how they would never compose a symphony.",
+      "year": 1850,
+      "city": "Saint Petersburg",
+      "country": "Russian Empire"
+    },
+    {
+      "event": "Mother's Death and First Composition",
+      "summary": "After losing his mother to cholera, Tchaikovsky went from boy to budding composer faster than you could say 'orchestration'. His first piece was a heartfelt waltz commemorating her memory, proving sometimes the heartaches can lead to the sweetest melodies.",
+      "year": 1854,
+      "city": "Saint Petersburg",
+      "country": "Russian Empire"
+    },
+    {
+      "event": "Graduation from the Conservatory",
+      "summary": "In 1865, Tchaikovsky graduated from the Saint Petersburg Conservatory, likely donning a cap and gown that would make even the most extravagant of concerts blush. He walked away with a silver medal, not for rocket science but for his musical genius!",
+      "year": 1865,
+      "city": "Saint Petersburg",
+      "country": "Russian Empire"
+    },
+    {
+      "event": "First Public Performance",
+      "summary": "Feeling like the rockstar he was destined to be, Tchaikovsky experienced his first public performance with Johann Strauss II conducting his Characteristic Dances. It was a commencement walk in musical stardom.",
+      "year": 1865,
+      "city": "Pavlovsk Park",
+      "country": "Russian Empire"
+    },
+    {
+      "event": "Professor at the Moscow Conservatory",
+      "summary": "After his graduation, Tchaikovsky was offered the position of Professor of Music Theory at the Moscow Conservatory, a significant boost to his ego and career. Teaching others was his way of saying, 'If you can\u2019t handle my genius, you can still learn from it!'",
+      "year": 1866,
+      "city": "Moscow",
+      "country": "Russian Empire"
+    },
+    {
+      "event": "Completion of Swan Lake",
+      "summary": "Tchaikovsky completed his iconic ballet, Swan Lake, likely while sipping tea and dramatically contemplating the plight of his swans, setting the stage for ballet enthusiasts everywhere to twirl in ecstasy.",
+      "year": 1876,
+      "city": "Moscow",
+      "country": "Russian Empire"
+    },
+    {
+      "event": "Final Symphony Premiere",
+      "summary": "Tchaikovsky's Sixth Symphony premiered in 1893, a dramatic yet melodious farewell from one of music\u2019s greats, who was determined to go out with a flair that would echo through the ages. And indeed he did!",
+      "year": 1893,
+      "city": "Saint Petersburg",
+      "country": "Russian Empire"
+    },
+    {
+      "event": "First Recognized Masterpiece",
+      "summary": "In a collaborative effort with Mily Balakirev, Tchaikovsky produced his first major work, Romeo and Juliet, delighting The Five and proving that he could indeed play nice in the sandbox of Russian nationalism while still inventing a few toys of his own.",
+      "year": 1869,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "First Opera Premiere",
+      "summary": "Tchaikovsky's first opera, The Voyevoda, debuted, but he was so dissatisfied he reportedly wished he had just written a strong grocery list instead. Spoiler alert: he later destroyed the manuscript!",
+      "year": 1869,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Composition of The Oprichnik",
+      "summary": "In a thrilling twist of fate, when Tchaikovsky lost the libretto for The Oprichnik, he took matters into his own hands, penning it himself and channeling his inner Eugene Scribe\u2014unsurprisingly, not everyone in his circle was thrilled about it!",
+      "year": 1874,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Premier Of 1812 Overture",
+      "summary": "Tchaikovsky whipped up the 1812 Overture for some serious loudness and cannon fire, which he humbly noted might lack 'artistic merits'. Little did he know, it would go on to be the go-to piece for July 4th festivities!",
+      "year": 1880,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Awarded Nobility",
+      "summary": "As if composing symphonies wasn't enough, Tchaikovsky added 'nobleman' to his resume when Emperor Alexander III bestowed the Order of Saint Vladimir upon him, letting him tip his hat a bit higher in aristocratic circles.",
+      "year": 1884,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "Conducting in America",
+      "summary": "This was the year Tchaikovsky took his talents across the pond, conducting at the opening of Carnegie Hall as the buzz of excitement echoed around him, proving that Russian composers could very much hold their own in the grand concert scene.",
+      "year": 1891,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Honorary Doctorate",
+      "summary": "In a cherry-on-top moment for his career, Tchaikovsky received an honorary Doctor of Music degree from the University of Cambridge, perhaps justifying his use of 'doctor' on dinner invitations thereafter!",
+      "year": 1893,
+      "city": "Cambridge",
+      "country": "UK"
+    },
+    {
+      "event": "Marriage to Antonina Miliukova",
+      "summary": "In a burst of optimism, Tchaikovsky wed his former student Antonina Miliukova, blissfully unaware that this would lead to one of the most spectacularly short-lived marriages in musical history. After just two and a half months together, he fled the scene, battered by emotional chaos and suffering from writer's block. An impressive feat of marital un-finesse!",
+      "year": 1877,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Meeting Nadezhda von Meck",
+      "summary": "Not long after his matrimonial debacle, Tchaikovsky struck up a thousand-letter-long friendship with Nadezhda von Meck, a wealthy widow. While they agreed to never meet in person (because who needs awkward silences in friendships?), she managed to support his compositions, effectively granting him the freedom to compose while avoiding any real-life emotional encounters. Talk about a perfect arrangement!",
+      "year": 1877,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Premiere of Sixth Symphony",
+      "summary": "Tchaikovsky graced the podium for the premiere of his Sixth Symphony, the Path\u00e9tique, a perfect blend of melancholy and brilliance, right before he dramatically exited stage left\u2014from life, that is. The critics were likely up in arms over the symphonic masterpiece, while he\u2019d soon go on to become the talk of the town, posthumously.",
+      "year": 1893,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "Death from cholera",
+      "summary": "A tragic twist of fate saw Tchaikovsky meeting his end due to cholera, supposedly from sipping some unboiled water at a restaurant. One can't help but think he\u2019d have preferred a dramatic opera ending to this rather mundane but unexpected demise. Alas, it seems avoiding the simple pleasures of life wasn't meant to be.",
+      "year": 1893,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "Graduation from Saint Petersburg Conservatory",
+      "summary": "Tchaikovsky graduated from the Saint Petersburg Conservatory, finally trading in his textbooks for a composing desk. He probably thought it was time to start writing some actual music instead of enduring endless lectures about it.",
+      "year": 1865,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "Completion of The Nutcracker",
+      "summary": "He finished his ballet The Nutcracker, marking a pivotal moment in his career where he transformed the traditional ballet music scene into a joyful, sugar-coated spectacle that could easily be mistaken for a candy production line.",
+      "year": 1892,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "First performance of Swan Lake",
+      "summary": "Swan Lake premiered with a glimmer of hope and a sprinkle of drama, featuring ballerinas who probably practiced their swan formations more than their regular dance moves.",
+      "year": 1877,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "Creation of the Romeo and Juliet overture",
+      "summary": "He composed the Romeo and Juliet overture, skillfully combining tragic romance and breathtaking melodies, proving once again that love stories are best told with music rather than tragic monologues.",
+      "year": 1869,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "First public performance of the Violin Concerto",
+      "summary": "After an initial rejection, Tchaikovsky's Violin Concerto finally found its spotlight, leading to public acclaim and proving that sometimes, you really can have your violin and play it too!",
+      "year": 1881,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "Commission for The Sleeping Beauty",
+      "summary": "The ballet The Sleeping Beauty was commissioned, allowing Tchaikovsky to explore a world of fairy tales and elaborate melodies, which surely distracted him from his more mundane life for a while.",
+      "year": 1888,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Completion of the 1812 Overture",
+      "summary": "He completed the 1812 Overture, complete with cannons, bells, and music, turning a historical event into a rousing spectacle that proved to be a blast \u2013 literally!",
+      "year": 1880,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Composition of 'Swan Lake'",
+      "summary": "Tchaikovsky composed 'Swan Lake', a tale of tragic love and beautiful swans. Some say it was to impress a flock of actual swans that he kept on his estate - those birds were notoriously hard to please!",
+      "year": 1875,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "First Performance of 'The Nutcracker'",
+      "summary": "The Nutcracker debuted with a mix of excitement and confusion. Audiences were left wondering if they had wandered into a sweet shop instead of a classical concert \u2013 'Where's the chocolate?!'",
+      "year": 1892,
+      "city": "St. Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "Last Compositions",
+      "summary": "In his final years, Tchaikovsky worked on what would become some of his most famous compositions. It was as if he was trying to squeeze every last note out of life while enjoying a fine bottle of Russian vodka.",
+      "year": 1893,
+      "city": "St. Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "First Music Lessons",
+      "summary": "At the tender age of five, Tchaikovsky took his first music lessons. Who knew that his childhood would be filled with scales instead of hide-and-seek?",
+      "year": 1845,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "Studied at the Saint Petersburg Conservatory",
+      "summary": "Tchaikovsky, realizing music was his jam, decided to enroll in the Saint Petersburg Conservatory. After all, what better place to learn how to mix notes than a music school?",
+      "year": 1856,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "First Major Composition",
+      "summary": "In 1866, Tchaikovsky finally showed the world what he could do with notes in his major composition. It's like he decided to send the critics an early birthday gift!",
+      "year": 1866,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Rise to Fame",
+      "summary": "With the success of 'Romeo and Juliet,' Tchaikovsky became a household name. Let\u2019s just say that love didn\u2019t only exist in his operas; it spread to every music lover around!",
+      "year": 1870,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Ballet Masterpieces",
+      "summary": "In the late 1870s, Tchaikovsky created some of his most famous ballets. He turned dancing into a spectacular show where tutus and music had the spotlight\u2014move over Broadway!",
+      "year": 1876,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Appointment as a Professor",
+      "summary": "The prestigious Moscow Conservatory saw potential in Tchaikovsky and offered him a teaching position. He could now shape the future while ensuring students knew how to strike a dramatic pose.",
+      "year": 1878,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "International Tours",
+      "summary": "As his fame grew, Tchaikovsky embarked on international tours. Talk about a composer who knew how to bring the house down\u2014literally, he did it one country at a time!",
+      "year": 1880,
+      "city": "Various",
+      "country": "Europe"
+    },
+    {
+      "event": "Final Symphony",
+      "summary": "He composed the 'Path\u00e9tique' Symphony, a piece that left audiences wondering if it was a farewell or just another one of Tchaikovsky\u2019s dramatic flair for the theatrical.",
+      "year": 1893,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "Death",
+      "summary": "In a twist of fate, Tchaikovsky passed away just days after the premiere of his final symphony. It's as if he knew the ultimate encore was waiting for him\u2014and he took it!",
+      "year": 1893,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/Adagio_molto,_TH_158_(Tchaikovsky,_Pyotr)",
+      "year": 1863,
+      "title": "Adagio molto, TH 158"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Adagio,_TH_156_(Tchaikovsky,_Pyotr)",
+      "year": 1863,
+      "title": "Adagio, TH 156"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Adagio,_TH_160_(Tchaikovsky,_Pyotr)",
+      "year": 1863,
+      "title": "Adagio, TH 160"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Agitato_and_Allegro,_TH_163_(Tchaikovsky,_Pyotr)",
+      "year": 1863,
+      "title": "Agitato and Allegro, TH 163"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/All-Night_Vigil,_Op.52_(Tchaikovsky,_Pyotr)",
+      "year": 1881,
+      "title": "All-Night Vigil, Op.52"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegretto_moderato,_TH_152_(Tchaikovsky,_Pyotr)",
+      "year": 1863,
+      "title": "Allegretto moderato, TH 152"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegretto,_TH_153_(Tchaikovsky,_Pyotr)",
+      "year": 1863,
+      "title": "Allegretto, TH 153"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro_ma_non_tanto,_TH_161_(Tchaikovsky,_Pyotr)",
+      "year": 1863,
+      "title": "Allegro ma non tanto, TH 161"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro_vivace,_TH_154_(Tchaikovsky,_Pyotr)",
+      "year": 1863,
+      "title": "Allegro vivace, TH 154"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro_vivo,_TH_165_(Tchaikovsky,_Pyotr)",
+      "year": 1863,
+      "title": "Allegro vivo, TH 165"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro,_TH_159_(Tchaikovsky,_Pyotr)",
+      "year": 1863,
+      "title": "Allegro, TH 159"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro,_TH_203_(Tchaikovsky,_Pyotr)",
+      "year": 1863,
+      "title": "Allegro, TH 203"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Andante_and_Finale,_Op.79_(Tchaikovsky,_Pyotr)",
+      "year": 1893,
+      "title": "Andante and Finale, Op.79"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Andante_ma_non_troppo,_TH_157_(Tchaikovsky,_Pyotr)",
+      "year": 1863,
+      "title": "Andante ma non troppo, TH 157"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Andante_ma_non_troppo,_TH_164_(Tchaikovsky,_Pyotr)",
+      "year": 1863,
+      "title": "Andante ma non troppo, TH 164"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Andante_molto,_TH_155_(Tchaikovsky,_Pyotr)",
+      "year": 1863,
+      "title": "Andante molto, TH 155"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Angel_Cried_Out,_TH_81_(Tchaikovsky,_Pyotr)",
+      "year": 1887,
+      "title": "The Angel Cried Out, TH 81"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/At_Bedtime,_TH_70_(Tchaikovsky,_Pyotr)",
+      "year": 1863,
+      "title": "At Bedtime, TH 70"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Aveu_passionn%C3%A9,_TH_148_(Tchaikovsky,_Pyotr)",
+      "year": 1891,
+      "title": "Aveu passionn\u00e9, TH 148"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Barber_of_Seville,_TH_18_(Tchaikovsky,_Pyotr)",
+      "year": 1872,
+      "title": "The Barber of Seville, TH 18"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Blessed_is_He_Who_Smiles,_TH_83_(Tchaikovsky,_Pyotr)",
+      "year": 1887,
+      "title": "Blessed is He Who Smiles, TH 83"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Blue_Eyes_of_Spring,_TH_96/2_(Tchaikovsky,_Pyotr)",
+      "year": 1873,
+      "title": "Blue Eyes of Spring, TH 96/2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cantata_for_the_Opening_of_the_Polytechnic_Exhibition,_TH_67_(Tchaikovsky,_Pyotr)",
+      "year": 1872,
+      "title": "Cantata for the Opening of the Polytechnic Exhibition, TH 67"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Capriccio,_Op.8_(Tchaikovsky,_Pyotr)",
+      "year": 1870,
+      "title": "Capriccio, Op.8"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cherevichki,_TH_8_(Tchaikovsky,_Pyotr)",
+      "year": 1885,
+      "title": "Cherevichki, TH 8"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Children%27s_Album,_Op.39_(Tchaikovsky,_Pyotr)",
+      "year": 1878,
+      "title": "Children's Album, Op.39"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chorus_for_the_Jubilee_of_Osip_Petrov,_TH_68_(Tchaikovsky,_Pyotr)",
+      "year": 1875,
+      "title": "Chorus for the Jubilee of Osip Petrov, TH 68"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chorus_of_Flowers_and_Insects,_TH_71_(Tchaikovsky,_Pyotr)",
+      "year": 1869,
+      "title": "Chorus of Flowers and Insects, TH 71"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Choruses,_TH_87_(Tchaikovsky,_Pyotr)",
+      "year": 1891,
+      "title": "3 Choruses, TH 87"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concert_Fantasia,_Op.56_(Tchaikovsky,_Pyotr)",
+      "year": 1884,
+      "title": "Concert Fantasia, Op.56"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Coronation_March,_TH_50_(Tchaikovsky,_Pyotr)",
+      "year": 1883,
+      "title": "Coronation March, TH 50"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dmitry_the_Pretender_and_Vasily_Shuysky,_TH_16_(Tchaikovsky,_Pyotr)",
+      "year": 1866,
+      "title": "Dmitry the Pretender and Vasily Shuysky, TH 16"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Duets,_Op.46_(Tchaikovsky,_Pyotr)",
+      "year": 1880,
+      "title": "6 Duets, Op.46"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dumka,_Op.59_(Tchaikovsky,_Pyotr)",
+      "year": 1886,
+      "title": "Dumka, Op.59"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Elegy,_TH_51_(Tchaikovsky,_Pyotr)",
+      "year": 1884,
+      "title": "Elegy, TH 51"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Enchantress,_TH_9_(Tchaikovsky,_Pyotr)",
+      "year": 1885,
+      "title": "The Enchantress, TH 9"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Eugene_Onegin,_Op.24_(Tchaikovsky,_Pyotr)",
+      "year": 1877,
+      "title": "Eugene Onegin, Op.24"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Evening,_TH_74_(Tchaikovsky,_Pyotr)",
+      "year": 1876,
+      "title": "Evening, TH 74"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fatum,_Op.77_(Tchaikovsky,_Pyotr)",
+      "year": 1868,
+      "title": "Fatum, Op.77"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Festival_Overture_on_the_Danish_National_Anthem,_Op.15_(Tchaikovsky,_Pyotr)",
+      "year": 1866,
+      "title": "Festival Overture on the Danish National Anthem, Op.15"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Francesca_da_Rimini,_Op.32_(Tchaikovsky,_Pyotr)",
+      "year": 1876,
+      "title": "Francesca da Rimini, Op.32"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_French_Songs,_Op.65_(Tchaikovsky,_Pyotr)",
+      "year": 1888,
+      "title": "6 French Songs, Op.65"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Golden_Cloud_Did_Sleep,_TH_82_(Tchaikovsky,_Pyotr)",
+      "year": 1887,
+      "title": "The Golden Cloud Did Sleep, TH 82"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Gott_erhalte_Franz_den_Kaiser_(Tchaikovsky,_Pyotr)",
+      "year": 1874,
+      "title": "Gott erhalte Franz den Kaiser"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Grand_Sonata,_Op.37_(Tchaikovsky,_Pyotr)",
+      "year": 1878,
+      "title": "Grand Sonata, Op.37"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/A_Greeting_to_Anton_Rubinstein,_TH_86_(Tchaikovsky,_Pyotr)",
+      "year": 1889,
+      "title": "A Greeting to Anton Rubinstein, TH 86"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hamlet_(incidental_music),_Op.67a_(Tchaikovsky,_Pyotr)",
+      "year": 1891,
+      "title": "Hamlet"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hamlet_(overture-fantasia),_Op.67_(Tchaikovsky,_Pyotr)",
+      "year": 1888,
+      "title": "Hamlet"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hymn_in_Honour_of_Saints_Cyril_and_Methodius,_TH_79_(Tchaikovsky,_Pyotr)",
+      "year": 1885,
+      "title": "Hymn in Honour of Saints Cyril and Methodius, TH 79"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/I_Should_Like_in_a_Single_Word,_TH_100/1_(Tchaikovsky,_Pyotr)",
+      "year": 1875,
+      "title": "I Should Like in a Single Word, TH 100/1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Impromptu,_TH_147_(Tchaikovsky,_Pyotr)",
+      "year": 1889,
+      "title": "Impromptu, TH 147"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Impromptu-Caprice,_TH_144_(Tchaikovsky,_Pyotr)",
+      "year": 1884,
+      "title": "Impromptu-Caprice, TH 144"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Iolanta,_Op.69_(Tchaikovsky,_Pyotr)",
+      "year": 1891,
+      "title": "Iolanta, Op.69"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Italian_Capriccio,_Op.45_(Tchaikovsky,_Pyotr)",
+      "year": 1880,
+      "title": "Italian Capriccio, Op.45"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jurisprudence_March,_TH_52_(Tchaikovsky,_Pyotr)",
+      "year": 1885,
+      "title": "Jurisprudence March, TH 52"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Largo_and_Allegro,_TH_162_(Tchaikovsky,_Pyotr)",
+      "year": 1863,
+      "title": "Largo and Allegro, TH 162"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Liturgy_of_St._John_Chrysostom,_Op.41_(Tchaikovsky,_Pyotr)",
+      "year": 1878,
+      "title": "Liturgy of St. John Chrysostom, Op.41"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Maid_of_Orleans,_TH_6_(Tchaikovsky,_Pyotr)",
+      "year": 1878,
+      "title": "The Maid of Orleans, TH 6"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Manfred_Symphony,_Op.58_(Tchaikovsky,_Pyotr)",
+      "year": 1885,
+      "title": "Manfred Symphony, Op.58"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazeppa,_TH_7_(Tchaikovsky,_Pyotr)",
+      "year": 1881,
+      "title": "Mazeppa, TH 7"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mezza_notte,_TH_91_(Tchaikovsky,_Pyotr)",
+      "year": 1860,
+      "title": "Mezza notte, TH 91"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Military_March,_TH_150_(Tchaikovsky,_Pyotr)",
+      "year": 1893,
+      "title": "Military March, TH 150"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Moment_lyrique,_TH_149_(Tchaikovsky,_Pyotr)",
+      "year": 1892,
+      "title": "Moment lyrique, TH 149"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Moscow,_TH_69_(Tchaikovsky,_Pyotr)",
+      "year": 1883,
+      "title": "Moscow, TH 69"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nature_and_Love,_TH_72_(Tchaikovsky,_Pyotr)",
+      "year": 1870,
+      "title": "Nature and Love, TH 72"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Night,_TH_88_(Tchaikovsky,_Pyotr)",
+      "year": 1893,
+      "title": "Night, TH 88"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Nightingale,_TH_84_(Tchaikovsky,_Pyotr)",
+      "year": 1889,
+      "title": "The Nightingale, TH 84"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Nutcracker_(ballet),_Op.71_(Tchaikovsky,_Pyotr)",
+      "year": 1892,
+      "title": "The Nutcracker"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Nutcracker_(suite),_Op.71a_(Tchaikovsky,_Pyotr)",
+      "year": 1892,
+      "title": "The Nutcracker"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ode_to_Joy,_TH_66_(Tchaikovsky,_Pyotr)",
+      "year": 1865,
+      "title": "Ode to Joy, TH 66"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Oprichnik,_TH_3_(Tchaikovsky,_Pyotr)",
+      "year": 1870,
+      "title": "The Oprichnik, TH 3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Overture_in_C_minor,_TH_38_(Tchaikovsky,_Pyotr)",
+      "year": 1865,
+      "title": "Overture in C minor, TH 38"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Overture_in_F_major,_TH_39_(Tchaikovsky,_Pyotr)",
+      "year": 1865,
+      "title": "Overture in F major, TH 39"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/1812_Overture,_Op.49_(Tchaikovsky,_Pyotr)",
+      "year": 1880,
+      "title": "1812 Overture, Op.49"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pezzo_capriccioso,_Op.62_(Tchaikovsky,_Pyotr)",
+      "year": 1887,
+      "title": "Pezzo capriccioso, Op.62"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.1,_Op.23_(Tchaikovsky,_Pyotr)",
+      "year": 1874,
+      "title": "Piano Concerto No.1, Op.23"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.2,_Op.44_(Tchaikovsky,_Pyotr)",
+      "year": 1879,
+      "title": "Piano Concerto No.2, Op.44"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.3,_Op.75_(Tchaikovsky,_Pyotr)",
+      "year": 1893,
+      "title": "Piano Concerto No.3, Op.75"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata,_Op.80_(Tchaikovsky,_Pyotr)",
+      "year": 1865,
+      "title": "Piano Sonata, Op.80"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio,_Op.50_(Tchaikovsky,_Pyotr)",
+      "year": 1881,
+      "title": "Piano Trio, Op.50"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Pieces,_Op.1_(Tchaikovsky,_Pyotr)",
+      "year": 1867,
+      "title": "2 Pieces, Op.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Pieces,_Op.9_(Tchaikovsky,_Pyotr)",
+      "year": 1870,
+      "title": "3 Pieces, Op.9"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Pieces,_Op.10_(Tchaikovsky,_Pyotr)",
+      "year": 1871,
+      "title": "2 Pieces, Op.10"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Pieces,_Op.19_(Tchaikovsky,_Pyotr)",
+      "year": 1873,
+      "title": "6 Pieces, Op.19"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Pieces,_Op.21_(Tchaikovsky,_Pyotr)",
+      "year": 1873,
+      "title": "6 Pieces, Op.21"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/12_Pieces,_Op.40_(Tchaikovsky,_Pyotr)",
+      "year": 1878,
+      "title": "12 Pieces, Op.40"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Pieces,_Op.51_(Tchaikovsky,_Pyotr)",
+      "year": 1882,
+      "title": "6 Pieces, Op.51"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/18_Pieces,_Op.72_(Tchaikovsky,_Pyotr)",
+      "year": 1892,
+      "title": "18 Pieces, Op.72"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Potpourri_on_Themes_from_%27The_Voyevoda%27,_TH_128_(Tchaikovsky,_Pyotr)",
+      "year": 1868,
+      "title": "Potpourri on Themes from 'The Voyevoda', TH 128"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Queen_of_Spades,_Op.68_(Tchaikovsky,_Pyotr)",
+      "year": 1890,
+      "title": "The Queen of Spades, Op.68"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Romance,_Op.5_(Tchaikovsky,_Pyotr)",
+      "year": 1868,
+      "title": "Romance, Op.5"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Romances_and_Songs,_Op.27_(Tchaikovsky,_Pyotr)",
+      "year": 1875,
+      "title": "6 Romances and Songs, Op.27"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Romances,_Op.6_(Tchaikovsky,_Pyotr)",
+      "year": 1869,
+      "title": "6 Romances, Op.6"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Romances,_Op.16_(Tchaikovsky,_Pyotr)",
+      "year": 1872,
+      "title": "6 Romances, Op.16"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Romances,_Op.25_(Tchaikovsky,_Pyotr)",
+      "year": 1875,
+      "title": "6 Romances, Op.25"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Romances,_Op.28_(Tchaikovsky,_Pyotr)",
+      "year": 1875,
+      "title": "6 Romances, Op.28"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Romances,_Op.38_(Tchaikovsky,_Pyotr)",
+      "year": 1878,
+      "title": "6 Romances, Op.38"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/7_Romances,_Op.47_(Tchaikovsky,_Pyotr)",
+      "year": 1880,
+      "title": "7 Romances, Op.47"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Romances,_Op.57_(Tchaikovsky,_Pyotr)",
+      "year": 1884,
+      "title": "6 Romances, Op.57"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/12_Romances,_Op.60_(Tchaikovsky,_Pyotr)",
+      "year": 1886,
+      "title": "12 Romances, Op.60"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Romances,_Op.63_(Tchaikovsky,_Pyotr)",
+      "year": 1886,
+      "title": "6 Romances, Op.63"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Romances,_Op.73_(Tchaikovsky,_Pyotr)",
+      "year": 1893,
+      "title": "6 Romances, Op.73"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Romeo_and_Juliet_(duet),_TH_215_(Tchaikovsky,_Pyotr)",
+      "year": 1878,
+      "title": "Romeo and Juliet"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Romeo_and_Juliet_(overture-fantasia),_TH_42_(Tchaikovsky,_Pyotr)",
+      "year": 1869,
+      "title": "Romeo and Juliet"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/50_Russian_Folk_Songs,_TH_176_(Tchaikovsky,_Pyotr)",
+      "year": 1868,
+      "title": "50 Russian Folk Songs, TH 176"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/9_Sacred_Pieces,_TH_78_(Tchaikovsky,_Pyotr)",
+      "year": 1884,
+      "title": "9 Sacred Pieces, TH 78"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Seasons,_Op.37a_(Tchaikovsky,_Pyotr)",
+      "year": 1876,
+      "title": "The Seasons, Op.37a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Serenade_for_Nikolay_Rubinstein%27s_Name-Day,_TH_43_(Tchaikovsky,_Pyotr)",
+      "year": 1872,
+      "title": "Serenade for Nikolay Rubinstein's Name-Day, TH 43"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Serenade_for_String_Orchestra,_Op.48_(Tchaikovsky,_Pyotr)",
+      "year": 1880,
+      "title": "Serenade for String Orchestra, Op.48"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/S%C3%A9r%C3%A9nade_m%C3%A9lancolique,_Op.26_(Tchaikovsky,_Pyotr)",
+      "year": 1875,
+      "title": "S\u00e9r\u00e9nade m\u00e9lancolique, Op.26"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Slavonic_March,_Op.31_(Tchaikovsky,_Pyotr)",
+      "year": 1876,
+      "title": "Slavonic March, Op.31"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Sleeping_Beauty_(ballet),_Op.66_(Tchaikovsky,_Pyotr)",
+      "year": 1888,
+      "title": "The Sleeping Beauty"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Snow_Maiden,_Op.12_(Tchaikovsky,_Pyotr)",
+      "year": 1873,
+      "title": "The Snow Maiden, Op.12"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/16_Songs_for_Children,_Op.54_(Tchaikovsky,_Pyotr)",
+      "year": 1881,
+      "title": "16 Songs for Children, Op.54"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Souvenir_d%27un_lieu_cher,_Op.42_(Tchaikovsky,_Pyotr)",
+      "year": 1878,
+      "title": "Souvenir d'un lieu cher, Op.42"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Souvenir_de_Florence,_Op.70_(Tchaikovsky,_Pyotr)",
+      "year": 1890,
+      "title": "Souvenir de Florence, Op.70"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Souvenir_de_Hapsal,_Op.2_(Tchaikovsky,_Pyotr)",
+      "year": 1867,
+      "title": "Souvenir de Hapsal, Op.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Storm,_Op.76_(Tchaikovsky,_Pyotr)",
+      "year": 1864,
+      "title": "The Storm, Op.76"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_B-flat_major,_TH_110_(Tchaikovsky,_Pyotr)",
+      "year": 1865,
+      "title": "String Quartet in B-flat major, TH 110"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1,_Op.11_(Tchaikovsky,_Pyotr)",
+      "year": 1871,
+      "title": "String Quartet No.1, Op.11"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2,_Op.22_(Tchaikovsky,_Pyotr)",
+      "year": 1874,
+      "title": "String Quartet No.2, Op.22"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.3,_Op.30_(Tchaikovsky,_Pyotr)",
+      "year": 1876,
+      "title": "String Quartet No.3, Op.30"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Suite_No.1,_Op.43_(Tchaikovsky,_Pyotr)",
+      "year": 1878,
+      "title": "Suite No.1, Op.43"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Suite_No.2,_Op.53_(Tchaikovsky,_Pyotr)",
+      "year": 1883,
+      "title": "Suite No.2, Op.53"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Suite_No.3,_Op.55_(Tchaikovsky,_Pyotr)",
+      "year": 1884,
+      "title": "Suite No.3, Op.55"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Suite_No.4,_Op.61_(Tchaikovsky,_Pyotr)",
+      "year": 1887,
+      "title": "Suite No.4, Op.61"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Swan_Lake_(ballet),_Op.20_(Tchaikovsky,_Pyotr)",
+      "year": 1875,
+      "title": "Swan Lake"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_E-flat_major,_TH_238_(Tchaikovsky,_Pyotr)",
+      "year": 1889,
+      "title": "Symphony in E-flat major, TH 238"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.1,_Op.13_(Tchaikovsky,_Pyotr)",
+      "year": 1866,
+      "title": "Symphony No.1, Op.13"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.2,_Op.17_(Tchaikovsky,_Pyotr)",
+      "year": 1872,
+      "title": "Symphony No.2, Op.17"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.3,_Op.29_(Tchaikovsky,_Pyotr)",
+      "year": 1875,
+      "title": "Symphony No.3, Op.29"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.4,_Op.36_(Tchaikovsky,_Pyotr)",
+      "year": 1877,
+      "title": "Symphony No.4, Op.36"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.5,_Op.64_(Tchaikovsky,_Pyotr)",
+      "year": 1888,
+      "title": "Symphony No.5, Op.64"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.6,_Op.74_(Tchaikovsky,_Pyotr)",
+      "year": 1893,
+      "title": "Symphony No.6, Op.74"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Take_My_Heart_Away,_TH_96/1_(Tchaikovsky,_Pyotr)",
+      "year": 1873,
+      "title": "Take My Heart Away, TH 96/1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Tempest,_Op.18_(Tchaikovsky,_Pyotr)",
+      "year": 1873,
+      "title": "The Tempest, Op.18"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Theme_with_Variations,_TH_121_(Tchaikovsky,_Pyotr)",
+      "year": 1863,
+      "title": "Theme with Variations, TH 121"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/To_Forget_So_Soon,_TH_94_(Tchaikovsky,_Pyotr)",
+      "year": 1870,
+      "title": "To Forget So Soon, TH 94"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Undina,_TH_2_(Tchaikovsky,_Pyotr)",
+      "year": 1869,
+      "title": "Undina, TH 2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Vakula_the_Smith,_Op.14_(Tchaikovsky,_Pyotr)",
+      "year": 1874,
+      "title": "Vakula the Smith, Op.14"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Valse-Caprice,_Op.4_(Tchaikovsky,_Pyotr)",
+      "year": 1868,
+      "title": "Valse-Caprice, Op.4"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Valse-Scherzo,_Op.7_(Tchaikovsky,_Pyotr)",
+      "year": 1870,
+      "title": "Valse-Scherzo, Op.7"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Valse-Scherzo,_Op.34_(Tchaikovsky,_Pyotr)",
+      "year": 1877,
+      "title": "Valse-Scherzo, Op.34"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Valse-Scherzo,_TH_146_(Tchaikovsky,_Pyotr)",
+      "year": 1889,
+      "title": "Valse-Scherzo, TH 146"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Variations_on_a_Rococo_Theme,_Op.33_(Tchaikovsky,_Pyotr)",
+      "year": 1876,
+      "title": "Variations on a Rococo Theme, Op.33"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto,_Op.35_(Tchaikovsky,_Pyotr)",
+      "year": 1878,
+      "title": "Violin Concerto, Op.35"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Volunteer_Fleet_March,_TH_140_(Tchaikovsky,_Pyotr)",
+      "year": 1878,
+      "title": "The Volunteer Fleet March, TH 140"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Voyevoda_(melodrama),_TH_22_(Tchaikovsky,_Pyotr)",
+      "year": 1886,
+      "title": "The Voyevoda"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Voyevoda_(opera),_Op.3_(Tchaikovsky,_Pyotr)",
+      "year": 1867,
+      "title": "The Voyevoda"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Voyevoda_(symphonic_ballad),_Op.78_(Tchaikovsky,_Pyotr)",
+      "year": 1890,
+      "title": "The Voyevoda"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/We_Have_Not_Far_to_Walk,_TH_100/2_(Tchaikovsky,_Pyotr)",
+      "year": 1875,
+      "title": "We Have Not Far to Walk, TH 100/2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Zemfira%27s_Song,_TH_90_(Tchaikovsky,_Pyotr)",
+      "year": 1860,
+      "title": "Zemfira's Song, TH 90"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Guide_to_the_Practical_Study_of_Harmony,_TH_255_(Tchaikovsky,_Pyotr)",
+      "year": 1871,
+      "title": "Guide to the Practical Study of Harmony, TH 255"
+    }
+  ]
+}

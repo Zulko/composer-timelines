@@ -1,0 +1,1229 @@
+{
+  "full_name": "Felix Mendelssohn",
+  "first_names": "Felix",
+  "last_name": "Mendelssohn",
+  "birth_year": 1809,
+  "death_year": 1847,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Felix_Mendelssohn",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Felix Mendelssohn was born on 3 February 1809 in Hamburg. Little did his parents know they had brought home a future musical wizard who would sprinkle musical magic on the world.",
+      "year": 1809,
+      "city": "Hamburg",
+      "country": "Germany"
+    },
+    {
+      "event": "Baptism",
+      "summary": "At the age of seven, Felix underwent his baptism in a private ceremony, marking his entry into the Reformed Christian church and leaving behind his a-religious childhood, perhaps showering him with divine notes.",
+      "year": 1816,
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    {
+      "event": "Family Move to Berlin",
+      "summary": "In 1811, fearing French reprisal, the Mendelssohn family sneaked out of Hamburg and settled in Berlin. It was like a covert mission, but thankfully, without any Monty Python sketches!",
+      "year": 1811,
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    {
+      "event": "First Public Concert Appearance",
+      "summary": "At just nine years old, Felix made his first public debut at a chamber music concert, likely delighting the audience and making them wonder if they just witnessed a musical genius in action.",
+      "year": 1818,
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    {
+      "event": "Conducting Bach's St Matthew Passion",
+      "summary": "In 1829, Mendelssohn conducted a performance of Bach's St Matthew Passion, effectively reviving Bach's music in Germany. Talk about a comeback tour! Who knew classical music had a second act?",
+      "year": 1829,
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    {
+      "event": "First Visit to England",
+      "summary": "Mendelssohn made his first trip to England in 1829, a country that would come to love him as much as their afternoon tea. Many of his major works premiered here, becoming a staple in the British musical diet.",
+      "year": 1829,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Founding the Leipzig Conservatory",
+      "summary": "Mendelssohn founded the Leipzig Conservatory, a place that became known for its commitment to classical traditions and rather conservative musical tastes. Picture a school where wild solos were a thing of the past!",
+      "year": 1843,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Final Years and Legacy",
+      "summary": "Mendelssohn worked tirelessly in his final years, inspiring the next generation until he passed away at the age of 38. Like a culinary chef whipping up a meal, his music created lasting flavors in the hearts of listeners everywhere.",
+      "year": 1847,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Lower Rhenish Music Festival",
+      "summary": "In D\u00fcsseldorf, Mendelssohn kicked off the festival with a performance of Handel's oratorio Israel in Egypt, which he resurrected from the dusty archives in London. This sparked a revival of Handel's music, akin to finding an old family recipe that everyone suddenly wants, leading to a cultural feast!",
+      "year": 1833,
+      "city": "D\u00fcsseldorf",
+      "country": "Germany"
+    },
+    {
+      "event": "First opera conducting",
+      "summary": "Mendelssohn made his opera conducting debut in a production of Mozart's Don Giovanni. Unfortunately, he faced a ticket price uproar, which probably felt more like a comedic farce than an artistic endeavor!",
+      "year": 1833,
+      "city": "D\u00fcsseldorf",
+      "country": "Germany"
+    },
+    {
+      "event": "Premiere of Paulus",
+      "summary": "Mendelssohn's oratorio Paulus premiered at the Lower Rhenish Festival in D\u00fcsseldorf, shortly after the passing of his father. Despite the heavy emotional weight, it marked the moment Mendelssohn became the star of European music, transforming grief into artistic gold!",
+      "year": 1836,
+      "city": "D\u00fcsseldorf",
+      "country": "Germany"
+    },
+    {
+      "event": "Founding Leipzig Conservatory",
+      "summary": "In Leipzig, Mendelssohn established the Leipzig Conservatory, luring top musicians to join him. It was like starting a club where the coolest kids in music were the only members \u2013 a real 'get-in-while-you-can' situation!",
+      "year": 1843,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Premiere of Elijah",
+      "summary": "Commissioned by the Birmingham Festival, Mendelssohn's oratorio Elijah debuted and wowed the crowd. It was a rousing success and is often referred to as his musical mic-drop in Victorian England!",
+      "year": 1846,
+      "city": "Birmingham",
+      "country": "England"
+    },
+    {
+      "event": "Final concert in Britain",
+      "summary": "During his final visit to Britain, Mendelssohn conducted his own Scottish Symphony while playing Beethoven's Piano Concerto No. 4. It was a dazzling display that left the Queen and Prince Albert thinking, 'How does he juggle all this talent without dropping a note?'",
+      "year": 1847,
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "event": "Early Compositions",
+      "summary": "Mendelssohn, at the tender age of 12 to 14, really flexed his composing muscles and created 13 string symphonies for family listening, proving that even kids can be mini-Mozarts without the massive ego. These pieces remained under wraps for quite some time, ensuring his family kept their expectations in check until later performances shocked everyone.",
+      "year": 1821,
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    {
+      "event": "First Published Work",
+      "summary": "Mendelssohn graduated from homegrown talent to published composer, delivering three piano quartets like a kid handing in school projects. This set the stage for what would become a hurricane of creativity, claiming his official stamp on the classical world.",
+      "year": 1822,
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    {
+      "event": "Symphony No. 1 Premiere",
+      "summary": "At the age of 15, Mendelssohn premiered his first symphony in London. Picture a teenage composer, fidgeting nervously while leading the orchestra, proving to everyone that Beethoven\u2019s hair-raising reputation had competition. That symphony laid the groundwork for Mendelssohn\u2019s fame across the pond!",
+      "year": 1829,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "The 'Italian' Symphony",
+      "summary": "Mendelssohn\u2019s travels in Italy sent his imagination soaring, leading to the vibrant Italian Symphony. He conducted its premiere, probably daydreaming about pasta and sunshine while writing an overture that made folks feel like they were basking in the Italian countryside, even if they were in a cold concert hall.",
+      "year": 1833,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Violin Concerto Premiere",
+      "summary": "Mendelssohn\u2019s Violin Concerto in E minor became a major hit in the violin world as it premiered after some intense collaboration with virtuoso Ferdinand David. Talk about a duo! They whipped up a concerto that had critics swooning and Joachims proclaiming it one of the best, right alongside Beethoven's works. Cue the applause!",
+      "year": 1844,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Last Compositional Works",
+      "summary": "In his final years, Mendelssohn was quite the busy bee, wrapping up various pieces while people eagerly awaited each note drop. In a musical race against time, he completed several works that would remind listeners of his genius long after he left the stage, leaving everyone wondering how much more he could have done.",
+      "year": 1847,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "First Symphony",
+      "summary": "At the age of just 16, Mendelssohn wrote his first symphony. It's reported that it was so good, even the piano was jealous of the attention it received!",
+      "year": 1824,
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    {
+      "event": "Revival of Bach's St. Matthew Passion",
+      "summary": "In a landmark moment in music history, Mendelssohn revived Bach's St. Matthew Passion, effectively reminding everyone that great music is like fine wine\u2014it only gets better with age (and a bit of talent)! This event made him something of a musical hero.",
+      "year": 1829,
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    {
+      "event": "Conducting Debut",
+      "summary": "Mendelssohn made his conducting debut in London, where he famously wielded his baton with more flair than most people wield a spatula in the kitchen. This performance helped him secure fans on both sides of the Channel.",
+      "year": 1829,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Completion of Elijah",
+      "summary": "Mendelssohn completed his famous oratorio Elijah, which is said to have caused quite the stir. In fact, one could argue that it was the original 'Elijah, the Musical', although that title was never quite settled!",
+      "year": 1846,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Death",
+      "summary": "Mendelssohn passed away, leaving behind a stash of musical treasures and unfinished operatic dreams. The world collectively sighed, wondering when they'd get another composer who could make the classics seem so fresh and delightful.",
+      "year": 1847,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Admired Mendelssohn",
+      "summary": "Throughout his life, the composer unabashedly applauded Mendelssohn's music while rolling his eyes at other Romantic giants like Schumann and Wagner, whom he deemed 'second-rate'. Ironically, he highlighted Mendelssohn's career as a 'lovely incident' that everyone seemed to forget faster than a bad joke at a party.",
+      "year": 1809,
+      "city": "Hamburg",
+      "country": "Germany"
+    },
+    {
+      "event": "Awarded Pour le M\u00e9rite",
+      "summary": "In a grand ceremony fit for a musical genius, the King awarded the composer the prestigious honor of Pour le M\u00e9rite for Sciences and Arts, and for a moment, the world felt as important as a celebrity gossip column where he was the main topic.",
+      "year": 1842,
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    {
+      "event": "First Composition",
+      "summary": "As a child prodigy, Mendelssohn penned his first piece at the tender age of 11, showing signs of brilliance. Little did anyone know that this would not just be a childhood doodle but the start of a spectacular musical legacy.",
+      "year": 1820,
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    {
+      "event": "Conducting at Gewandhaus",
+      "summary": "Mendelssohn takes the podium as the conductor of the Gewandhaus orchestra, making it clear that leading an orchestra is much like herding cats, but with violins and cellos instead of felines.",
+      "year": 1835,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Scottish Symphony",
+      "summary": "Inspiration strikes Mendelssohn during a trip to Scotland, leading him to compose his famous symphony. The resulting music proves that even a rainy day can lead to a sunny piece in the hands of a great composer!",
+      "year": 1842,
+      "city": "Edinburgh",
+      "country": "Scotland"
+    },
+    {
+      "event": "Creation of 'Elijah'",
+      "summary": "Mendelssohn composes the oratorio 'Elijah', showcasing his flair for drama and divine inspiration. This piece illustrates that sometimes, divine messaging is best delivered with a side of choral harmonies!",
+      "year": 1846,
+      "city": "D\u00fcsseldorf",
+      "country": "Germany"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/Albumblatt,_Op.117_(Mendelssohn,_Felix)",
+      "year": 1837,
+      "title": "Albumblatt, Op.117"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegretto_in_D_minor,_MWV_W_31_(Mendelssohn,_Felix)",
+      "year": 1844,
+      "title": "Allegretto in D minor, MWV W 31"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro_brillant,_Op.92_(Mendelssohn,_Felix)",
+      "year": 1841,
+      "title": "Allegro brillant, Op.92"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro_in_D_minor,_MWV_W_33_(Mendelssohn,_Felix)",
+      "year": 1844,
+      "title": "Allegro in D minor, MWV W 33"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/An_die_K%C3%BCnstler,_Op.68_(Mendelssohn,_Felix)",
+      "year": 1846,
+      "title": "An die K\u00fcnstler, Op.68"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Andante_cantabile_e_Presto_agitato,_WoO_6_(Mendelssohn,_Felix)",
+      "year": 1838,
+      "title": "Andante cantabile e Presto agitato, WoO 6"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Andante_con_moto_in_G_minor,_MWV_W_15_(Mendelssohn,_Felix)",
+      "year": 1833,
+      "title": "Andante con moto in G minor, MWV W 15"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Andante_in_A_major,_MWV_U_76_(Mendelssohn,_Felix)",
+      "year": 1830,
+      "title": "Andante in A major, MWV U 76"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Andante_in_D_major,_MWV_W_6_(Mendelssohn,_Felix)",
+      "year": 1823,
+      "title": "Andante in D major, MWV W 6"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Andante_in_D_major,_MWV_W_32_(Mendelssohn,_Felix)",
+      "year": 1844,
+      "title": "Andante in D major, MWV W 32"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Andante_in_F_major,_MWV_W_46_(Mendelssohn,_Felix)",
+      "year": 1844,
+      "title": "Andante in F major, MWV W 46"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Antigone,_Op.55_(Mendelssohn,_Felix)",
+      "year": 1841,
+      "title": "Antigone, Op.55"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Athalie,_Op.74_(Mendelssohn,_Felix)",
+      "year": 1845,
+      "title": "Athalie, Op.74"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ave_maris_stella_(Mendelssohn,_Felix)",
+      "year": 1828,
+      "title": "Ave maris stella"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Begr%C3%BC%C3%9Fung,_MWV_D_2_(Mendelssohn,_Felix)",
+      "year": 1828,
+      "title": "Begr\u00fc\u00dfung, MWV D 2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Die_beiden_P%C3%A4dagogen,_MWV_L_2_(Mendelssohn,_Felix)",
+      "year": 1821,
+      "title": "Die beiden P\u00e4dagogen, MWV L 2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Capriccio_brillant,_Op.22_(Mendelssohn,_Felix)",
+      "year": 1832,
+      "title": "Capriccio brillant, Op.22"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Capriccio,_Op.5_(Mendelssohn,_Felix)",
+      "year": 1825,
+      "title": "Capriccio, Op.5"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Capriccio,_Op.118_(Mendelssohn,_Felix)",
+      "year": 1837,
+      "title": "Capriccio, Op.118"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Caprices,_Op.33_(Mendelssohn,_Felix)",
+      "year": 1833,
+      "title": "3 Caprices, Op.33"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata_No.1,_Op.45_(Mendelssohn,_Felix)",
+      "year": 1838,
+      "title": "Cello Sonata No.1, Op.45"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata_No.2,_Op.58_(Mendelssohn,_Felix)",
+      "year": 1843,
+      "title": "Cello Sonata No.2, Op.58"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ch%27io_t%27abbandono,_MWV_K_24_(Mendelssohn,_Felix)",
+      "year": 1825,
+      "title": "Ch'io t'abbandono, MWV K 24"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/7_Charakterst%C3%BCcke,_Op.7_(Mendelssohn,_Felix)",
+      "year": 1824,
+      "title": "7 Charakterst\u00fccke, Op.7"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christus,_Op.97_(Mendelssohn,_Felix)",
+      "year": 1847,
+      "title": "Christus, Op.97"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Clarinet_Sonata_in_E-flat_major,_MWV_Q_15_(Mendelssohn,_Felix)",
+      "year": 1824,
+      "title": "Clarinet Sonata in E-flat major, MWV Q 15"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Con_moto,_MWV_U_88_(Mendelssohn,_Felix)",
+      "year": 1831,
+      "title": "Con moto, MWV U 88"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_2_Pianos_in_A-flat_major,_MWV_O_6_(Mendelssohn,_Felix)",
+      "year": 1824,
+      "title": "Concerto for 2 Pianos in A-flat major, MWV O 6"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_2_Pianos_in_E_major,_MWV_O_5_(Mendelssohn,_Felix)",
+      "year": 1823,
+      "title": "Concerto for 2 Pianos in E major, MWV O 5"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_Violin,_Piano_and_Strings_(Mendelssohn,_Felix)",
+      "year": 1823,
+      "title": "Concerto for Violin, Piano and Strings"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Da_Israel_aus_%C3%84gypten_zog,_Op.51_(Mendelssohn,_Felix)",
+      "year": 1839,
+      "title": "Da Israel aus \u00c4gypten zog, Op.51"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Defend_Me,_Lord,_MWV_B_32_(Mendelssohn,_Felix)",
+      "year": 1839,
+      "title": "Defend Me, Lord, MWV B 32"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Denn_er_hat_seinen_Engeln_befohlen,_MWV_B_53_(Mendelssohn,_Felix)",
+      "year": 1844,
+      "title": "Denn er hat seinen Engeln befohlen, MWV B 53"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Die_Deutsche_Liturgie,_MWV_B_57_(Mendelssohn,_Felix)",
+      "year": 1846,
+      "title": "Die Deutsche Liturgie, MWV B 57"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Duets,_Op.63_(Mendelssohn,_Felix)",
+      "year": 1836,
+      "title": "6 Duets, Op.63"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ehre_sei_Gott_in_der_H%C3%B6he,_WoO_26_(Mendelssohn,_Felix)",
+      "year": 1846,
+      "title": "Ehre sei Gott in der H\u00f6he, WoO 26"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Elijah,_Op.70_(Mendelssohn,_Felix)",
+      "year": 1846,
+      "title": "Elijah, Op.70"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ersatz_f%C3%BCr_Unbestand,_WoO_8_(Mendelssohn,_Felix)",
+      "year": 1839,
+      "title": "Ersatz f\u00fcr Unbestand, WoO 8"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Die_erste_Walpurgisnacht,_Op.60_(Mendelssohn,_Felix)",
+      "year": 1830,
+      "title": "Die erste Walpurgisnacht, Op.60"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Etude_in_F_minor,_WoO_1_(Mendelssohn,_Felix)",
+      "year": 1836,
+      "title": "Etude in F minor, WoO 1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Etudes,_Op.104b_(Mendelssohn,_Felix)",
+      "year": 1834,
+      "title": "3 Etudes, Op.104b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Fantaisies,_Op.16_(Mendelssohn,_Felix)",
+      "year": 1829,
+      "title": "3 Fantaisies, Op.16"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantasia_in_D_minor,_MWV_T_1_(Mendelssohn,_Felix)",
+      "year": 1824,
+      "title": "Fantasia in D minor, MWV T 1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantasie,_Op.28_(Mendelssohn,_Felix)",
+      "year": 1833,
+      "title": "Fantasie, Op.28"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Festgesang_zum_Gutenbergfest,_WoO_9_(Mendelssohn,_Felix)",
+      "year": 1840,
+      "title": "Festgesang zum Gutenbergfest, WoO 9"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fr%C3%BChlingslied,_MWV_I_1_(Mendelssohn,_Felix)",
+      "year": 1824,
+      "title": "Fr\u00fchlingslied, MWV I 1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fugue_in_C_minor,_MWV_W_18_(Mendelssohn,_Felix)",
+      "year": 1834,
+      "title": "Fugue in C minor, MWV W 18"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fugue_in_D_minor,_MWV_W_3_(Mendelssohn,_Felix)",
+      "year": 1820,
+      "title": "Fugue in D minor, MWV W 3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fugue_in_D_minor,_MWV_W_5_(Mendelssohn,_Felix)",
+      "year": 1821,
+      "title": "Fugue in D minor, MWV W 5"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fugue_in_D_minor,_MWV_W_13_(Mendelssohn,_Felix)",
+      "year": 1833,
+      "title": "Fugue in D minor, MWV W 13"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fugue_in_G_minor,_MWV_W_4_(Mendelssohn,_Felix)",
+      "year": 1820,
+      "title": "Fugue in G minor, MWV W 4"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fugue,_MWV_U32_(Mendelssohn,_Felix)",
+      "year": 1821,
+      "title": "Fugue, MWV U32"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Garland,_WoO_7_(Mendelssohn,_Felix)",
+      "year": 1829,
+      "title": "The Garland, WoO 7"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Geistliche_Ch%C3%B6re,_Op.115_(Mendelssohn,_Felix)",
+      "year": 1837,
+      "title": "2 Geistliche Ch\u00f6re, Op.115"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Geistliche_Lieder,_Op.112_(Mendelssohn,_Felix)",
+      "year": 1835,
+      "title": "2 Geistliche Lieder, Op.112"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Geistliche_Lieder,_WoO_14_(Mendelssohn,_Felix)",
+      "year": 1840,
+      "title": "3 Geistliche Lieder, WoO 14"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Ges%C3%A4nge,_Op.19a_(Mendelssohn,_Felix)",
+      "year": 1830,
+      "title": "6 Ges\u00e4nge, Op.19a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Ges%C3%A4nge,_Op.34_(Mendelssohn,_Felix)",
+      "year": 1834,
+      "title": "6 Ges\u00e4nge, Op.34"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Ges%C3%A4nge,_Op.47_(Mendelssohn,_Felix)",
+      "year": 1832,
+      "title": "6 Ges\u00e4nge, Op.47"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Ges%C3%A4nge,_Op.86_(Mendelssohn,_Felix)",
+      "year": 1826,
+      "title": "6 Ges\u00e4nge, Op.86"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Ges%C3%A4nge,_Op.99_(Mendelssohn,_Felix)",
+      "year": 1824,
+      "title": "6 Ges\u00e4nge, Op.99"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/12_Ges%C3%A4nge,_Op.8_(Mendelssohn,_Felix)",
+      "year": 1824,
+      "title": "12 Ges\u00e4nge, Op.8"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Gondellied,_WoO_10_(Mendelssohn,_Felix)",
+      "year": 1837,
+      "title": "Gondellied, WoO 10"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hear_My_Prayer,_WoO_15_(Mendelssohn,_Felix)",
+      "year": 1844,
+      "title": "Hear My Prayer, WoO 15"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Die_Hebriden,_Op.26_(Mendelssohn,_Felix)",
+      "year": 1829,
+      "title": "Die Hebriden, Op.26"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Heilig,_WoO_27_(Mendelssohn,_Felix)",
+      "year": 1844,
+      "title": "Heilig, WoO 27"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Die_Heimkehr_aus_der_Fremde,_Op.89_(Mendelssohn,_Felix)",
+      "year": 1829,
+      "title": "Die Heimkehr aus der Fremde, Op.89"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Herr_Gott,_dich_loben_wir,_MWV_A_20_(Mendelssohn,_Felix)",
+      "year": 1843,
+      "title": "Herr Gott, dich loben wir, MWV A 20"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Die_Hochzeit_des_Camacho,_Op.10_(Mendelssohn,_Felix)",
+      "year": 1825,
+      "title": "Die Hochzeit des Camacho, Op.10"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hora_est,_MWV_B_18_(Mendelssohn,_Felix)",
+      "year": 1828,
+      "title": "Hora est, MWV B 18"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Hymns,_Op.96_(Mendelssohn,_Felix)",
+      "year": 1843,
+      "title": "3 Hymns, Op.96"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Infelice,_Op.94_(Mendelssohn,_Felix)",
+      "year": 1843,
+      "title": "Infelice, Op.94"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jauchzet_dem_Herrn,_alle_Welt,_WoO_28_(Mendelssohn,_Felix)",
+      "year": 1843,
+      "title": "Jauchzet dem Herrn, alle Welt, WoO 28"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jesu,_meine_Freude,_MWV_A_6_(Mendelssohn,_Felix)",
+      "year": 1828,
+      "title": "Jesu, meine Freude, MWV A 6"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jube_Domine,_MWV_B_10_(Mendelssohn,_Felix)",
+      "year": 1822,
+      "title": "Jube Domine, MWV B 10"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Kinderst%C3%BCcke,_Op.72_(Mendelssohn,_Felix)",
+      "year": 1842,
+      "title": "6 Kinderst\u00fccke, Op.72"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Kirchenmusik,_Op.23_(Mendelssohn,_Felix)",
+      "year": 1830,
+      "title": "Kirchenmusik, Op.23"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Klavierst%C3%BCcke,_WoO_19_(Mendelssohn,_Felix)",
+      "year": 1833,
+      "title": "2 Klavierst\u00fccke, WoO 19"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Kommt,_la%C3%9Ft_uns_anbeten,_Op.46_(Mendelssohn,_Felix)",
+      "year": 1838,
+      "title": "Kommt, la\u00dft uns anbeten, Op.46"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Konzertst%C3%BCck_No.1,_Op.113_(Mendelssohn,_Felix)",
+      "year": 1832,
+      "title": "Konzertst\u00fcck No.1, Op.113"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Konzertst%C3%BCck_No.2,_Op.114_(Mendelssohn,_Felix)",
+      "year": 1833,
+      "title": "Konzertst\u00fcck No.2, Op.114"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Kyrie_in_C_minor,_MWV_B_12_(Mendelssohn,_Felix)",
+      "year": 1823,
+      "title": "Kyrie in C minor, MWV B 12"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Last_Rose_of_Summer,_Op.15_(Mendelssohn,_Felix)",
+      "year": 1827,
+      "title": "The Last Rose of Summer, Op.15"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lauda_Sion,_Op.73_(Mendelssohn,_Felix)",
+      "year": 1845,
+      "title": "Lauda Sion, Op.73"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lied_ohne_Worte,_Op.109_(Mendelssohn,_Felix)",
+      "year": 1845,
+      "title": "Lied ohne Worte, Op.109"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lieder_ohne_Worte,_Op.19b_(Mendelssohn,_Felix)",
+      "year": 1829,
+      "title": "Lieder ohne Worte, Op.19b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lieder_ohne_Worte,_Op.30_(Mendelssohn,_Felix)",
+      "year": 1833,
+      "title": "Lieder ohne Worte, Op.30"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lieder_ohne_Worte,_Op.38_(Mendelssohn,_Felix)",
+      "year": 1835,
+      "title": "Lieder ohne Worte, Op.38"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lieder_ohne_Worte,_Op.53_(Mendelssohn,_Felix)",
+      "year": 1835,
+      "title": "Lieder ohne Worte, Op.53"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lieder_ohne_Worte,_Op.62_(Mendelssohn,_Felix)",
+      "year": 1841,
+      "title": "Lieder ohne Worte, Op.62"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lieder_ohne_Worte,_Op.67_(Mendelssohn,_Felix)",
+      "year": 1834,
+      "title": "Lieder ohne Worte, Op.67"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lieder_ohne_Worte,_Op.85_(Mendelssohn,_Felix)",
+      "year": 1834,
+      "title": "Lieder ohne Worte, Op.85"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lieder_ohne_Worte,_Op.102_(Mendelssohn,_Felix)",
+      "year": 1841,
+      "title": "Lieder ohne Worte, Op.102"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/12_Lieder,_Op.9_(Mendelssohn,_Felix)",
+      "year": 1827,
+      "title": "12 Lieder, Op.9"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.41_(Mendelssohn,_Felix)",
+      "year": 1834,
+      "title": "6 Lieder, Op.41"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.48_(Mendelssohn,_Felix)",
+      "year": 1839,
+      "title": "6 Lieder, Op.48"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.50_(Mendelssohn,_Felix)",
+      "year": 1837,
+      "title": "6 Lieder, Op.50"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.57_(Mendelssohn,_Felix)",
+      "year": 1837,
+      "title": "6 Lieder, Op.57"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.59_(Mendelssohn,_Felix)",
+      "year": 1837,
+      "title": "6 Lieder, Op.59"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.71_(Mendelssohn,_Felix)",
+      "year": 1842,
+      "title": "6 Lieder, Op.71"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Lieder,_Op.75_(Mendelssohn,_Felix)",
+      "year": 1837,
+      "title": "4 Lieder, Op.75"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Lieder,_Op.76_(Mendelssohn,_Felix)",
+      "year": 1837,
+      "title": "4 Lieder, Op.76"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Lieder,_Op.77_(Mendelssohn,_Felix)",
+      "year": 1836,
+      "title": "3 Lieder, Op.77"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Lieder,_Op.84_(Mendelssohn,_Felix)",
+      "year": 1831,
+      "title": "3 Lieder, Op.84"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.88_(Mendelssohn,_Felix)",
+      "year": 1839,
+      "title": "6 Lieder, Op.88"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Lieder,_Op.100_(Mendelssohn,_Felix)",
+      "year": 1839,
+      "title": "4 Lieder, Op.100"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Lieder,_Op.120_(Mendelssohn,_Felix)",
+      "year": 1820,
+      "title": "4 Lieder, Op.120"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Lieder,_WoO_17_(Mendelssohn,_Felix)",
+      "year": 1832,
+      "title": "2 Lieder, WoO 17"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Lieder,_WoO_18_(Mendelssohn,_Felix)",
+      "year": 1831,
+      "title": "2 Lieder, WoO 18"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lord_Hear_the_Voice_of_My_Complaint,_MWV_B_31_(Mendelssohn,_Felix)",
+      "year": 1839,
+      "title": "Lord Hear the Voice of My Complaint, MWV B 31"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lord,_Have_Mercy_upon_Us,_WoO_12_(Mendelssohn,_Felix)",
+      "year": 1833,
+      "title": "Lord, Have Mercy upon Us, WoO 12"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Loreley,_Op.98_(Mendelssohn,_Felix)",
+      "year": 1847,
+      "title": "Loreley, Op.98"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Des_M%C3%A4dchens_Klage,_WoO_23_(Mendelssohn,_Felix)",
+      "year": 1825,
+      "title": "Des M\u00e4dchens Klage, WoO 23"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/March_in_D_major,_Op.108_(Mendelssohn,_Felix)",
+      "year": 1841,
+      "title": "March in D major, Op.108"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/M%C3%A4rchen_von_der_sch%C3%B6nen_Melusine,_Op.32_(Mendelssohn,_Felix)",
+      "year": 1833,
+      "title": "M\u00e4rchen von der sch\u00f6nen Melusine, Op.32"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Meeresstille_und_gl%C3%BCckliche_Fahrt,_Op.27_(Mendelssohn,_Felix)",
+      "year": 1828,
+      "title": "Meeresstille und gl\u00fcckliche Fahrt, Op.27"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Das_Menschenherz_ist_ein_Schacht,_MWV_K_111_(Mendelssohn,_Felix)",
+      "year": 1842,
+      "title": "Das Menschenherz ist ein Schacht, MWV K 111"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/A_Midsummer_Night%27s_Dream,_incidental_music,_Op.61_(Mendelssohn,_Felix)",
+      "year": 1842,
+      "title": "A Midsummer Night's Dream, incidental music, Op.61"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/A_Midsummer_Night%27s_Dream,_overture,_Op.21_(Mendelssohn,_Felix)",
+      "year": 1826,
+      "title": "A Midsummer Night's Dream, overture, Op.21"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Motets,_Op.39_(Mendelssohn,_Felix)",
+      "year": 1830,
+      "title": "3 Motets, Op.39"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Motets,_Op.69_(Mendelssohn,_Felix)",
+      "year": 1847,
+      "title": "3 Motets, Op.69"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Motets,_Op.79_(Mendelssohn,_Felix)",
+      "year": 1843,
+      "title": "6 Motets, Op.79"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Musikantenpr%C3%BCgelei,_MWV_G_13_(Mendelssohn,_Felix)",
+      "year": 1833,
+      "title": "Musikantenpr\u00fcgelei, MWV G 13"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nachspiel_in_D_major,_MWV_W_12_(Mendelssohn,_Felix)",
+      "year": 1831,
+      "title": "Nachspiel in D major, MWV W 12"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nachtgesang,_WoO_21_(Mendelssohn,_Felix)",
+      "year": 1840,
+      "title": "Nachtgesang, WoO 21"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nicht_unserm_Namen,_Herr,_Op.31_(Mendelssohn,_Felix)",
+      "year": 1830,
+      "title": "Nicht unserm Namen, Herr, Op.31"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/O_beata_et_benedicta,_MWV_B_22_(Mendelssohn,_Felix)",
+      "year": 1830,
+      "title": "O beata et benedicta, MWV B 22"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/O_Haupt_voll_Blut_und_Wunden_(Mendelssohn,_Felix)",
+      "year": 1830,
+      "title": "O Haupt voll Blut und Wunden"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%96dipus_in_Kolonos,_Op.93_(Mendelssohn,_Felix)",
+      "year": 1845,
+      "title": "\u00d6dipus in Kolonos, Op.93"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Organ_Sonata_No.1,_MWV_W_56_(Mendelssohn,_Felix)",
+      "year": 1845,
+      "title": "Organ Sonata No.1, MWV W 56"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Organ_Sonata_No.2,_MWV_W_57_(Mendelssohn,_Felix)",
+      "year": 1845,
+      "title": "Organ Sonata No.2, MWV W 57"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Organ_Sonata_No.3,_MWV_W_58_(Mendelssohn,_Felix)",
+      "year": 1845,
+      "title": "Organ Sonata No.3, MWV W 58"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Organ_Sonata_No.4,_MWV_W_59_(Mendelssohn,_Felix)",
+      "year": 1845,
+      "title": "Organ Sonata No.4, MWV W 59"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Organ_Sonata_No.5,_MWV_W_60_(Mendelssohn,_Felix)",
+      "year": 1845,
+      "title": "Organ Sonata No.5, MWV W 60"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Organ_Sonata_No.6,_MWV_W_61_(Mendelssohn,_Felix)",
+      "year": 1845,
+      "title": "Organ Sonata No.6, MWV W 61"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Organ_Sonatas,_Op.65_(Mendelssohn,_Felix)",
+      "year": 1829,
+      "title": "6 Organ Sonatas, Op.65"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Overture_in_C_major,_Op.24_(Mendelssohn,_Felix)",
+      "year": 1826,
+      "title": "Overture in C major, Op.24"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Paulus,_Op.36_(Mendelssohn,_Felix)",
+      "year": 1836,
+      "title": "Paulus, Op.36"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Perpetuum_mobile,_Op.119_(Mendelssohn,_Felix)",
+      "year": 1826,
+      "title": "Perpetuum mobile, Op.119"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_in_A_minor,_MWV_O_2_(Mendelssohn,_Felix)",
+      "year": 1821,
+      "title": "Piano Concerto in A minor, MWV O 2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_in_E_minor,_MWV_O_13_(Mendelssohn,_Felix)",
+      "year": 1844,
+      "title": "Piano Concerto in E minor, MWV O 13"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.1,_Op.25_(Mendelssohn,_Felix)",
+      "year": 1830,
+      "title": "Piano Concerto No.1, Op.25"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.2,_Op.40_(Mendelssohn,_Felix)",
+      "year": 1837,
+      "title": "Piano Concerto No.2, Op.40"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Quartet_in_D_minor,_MWV_Q_10_(Mendelssohn,_Felix)",
+      "year": 1821,
+      "title": "Piano Quartet in D minor, MWV Q 10"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Quartet_No.1,_Op.1_(Mendelssohn,_Felix)",
+      "year": 1822,
+      "title": "Piano Quartet No.1, Op.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Quartet_No.2,_Op.2_(Mendelssohn,_Felix)",
+      "year": 1823,
+      "title": "Piano Quartet No.2, Op.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Quartet_No.3,_Op.3_(Mendelssohn,_Felix)",
+      "year": 1824,
+      "title": "Piano Quartet No.3, Op.3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sextet,_Op.110_(Mendelssohn,_Felix)",
+      "year": 1824,
+      "title": "Piano Sextet, Op.110"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.1,_Op.6_(Mendelssohn,_Felix)",
+      "year": 1826,
+      "title": "Piano Sonata No.1, Op.6"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.2,_Op.105_(Mendelssohn,_Felix)",
+      "year": 1821,
+      "title": "Piano Sonata No.2, Op.105"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.3,_Op.106_(Mendelssohn,_Felix)",
+      "year": 1827,
+      "title": "Piano Sonata No.3, Op.106"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.1,_Op.49_(Mendelssohn,_Felix)",
+      "year": 1839,
+      "title": "Piano Trio No.1, Op.49"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.2,_Op.66_(Mendelssohn,_Felix)",
+      "year": 1845,
+      "title": "Piano Trio No.2, Op.66"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Pieces_for_String_Quartet,_Op.81_(Mendelssohn,_Felix)",
+      "year": 1827,
+      "title": "4 Pieces for String Quartet, Op.81"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Prelude_and_Fugue,_WoO_13_(Mendelssohn,_Felix)",
+      "year": 1827,
+      "title": "Prelude and Fugue, WoO 13"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Prelude_in_D_minor,_MWV_W_2_(Mendelssohn,_Felix)",
+      "year": 1820,
+      "title": "Prelude in D minor, MWV W 2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Preludes_and_Fugues,_Op.35_(Mendelssohn,_Felix)",
+      "year": 1832,
+      "title": "6 Preludes and Fugues, Op.35"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Preludes_and_Fugues,_Op.37_(Mendelssohn,_Felix)",
+      "year": 1833,
+      "title": "3 Preludes and Fugues, Op.37"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Preludes,_Op.104a_(Mendelssohn,_Felix)",
+      "year": 1836,
+      "title": "3 Preludes, Op.104a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Psalms,_Op.78_(Mendelssohn,_Felix)",
+      "year": 1843,
+      "title": "3 Psalms, Op.78"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Recitativo_in_D_minor_for_Piano_and_Orchestra,_MWV_O_1_(Mendelssohn,_Felix)",
+      "year": 1820,
+      "title": "Recitativo in D minor for Piano and Orchestra, MWV O 1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Reiterlied,_MWV_U_187_(Mendelssohn,_Felix)",
+      "year": 1844,
+      "title": "Reiterlied, MWV U 187"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Responsorium_et_Hymnus,_Op.121_(Mendelssohn,_Felix)",
+      "year": 1833,
+      "title": "Responsorium et Hymnus, Op.121"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Romances,_WoO_4_(Mendelssohn,_Felix)",
+      "year": 1833,
+      "title": "2 Romances, WoO 4"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Rondo_brillant,_Op.29_(Mendelssohn,_Felix)",
+      "year": 1833,
+      "title": "Rondo brillant, Op.29"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Rondo_capriccioso,_Op.14_(Mendelssohn,_Felix)",
+      "year": 1828,
+      "title": "Rondo capriccioso, Op.14"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ruy_Blas,_Op.95_(Mendelssohn,_Felix)",
+      "year": 1839,
+      "title": "Ruy Blas, Op.95"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Salve_Regina,_MWV_C_2_(Mendelssohn,_Felix)",
+      "year": 1824,
+      "title": "Salve Regina, MWV C 2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Scherzo_%C3%A0_capriccio,_WoO_3_(Mendelssohn,_Felix)",
+      "year": 1835,
+      "title": "Scherzo \u00e0 capriccio, WoO 3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Scherzo,_WoO_2_(Mendelssohn,_Felix)",
+      "year": 1829,
+      "title": "Scherzo, WoO 2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Seemans_Scheidelied,_WoO_20_(Mendelssohn,_Felix)",
+      "year": 1829,
+      "title": "Seemans Scheidelied, WoO 20"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Serenade_und_Allegro_giojoso,_Op.43_(Mendelssohn,_Felix)",
+      "year": 1838,
+      "title": "Serenade und Allegro giojoso, Op.43"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Singet_dem_Herrn_ein_neues_Lied,_Op.91_(Mendelssohn,_Felix)",
+      "year": 1843,
+      "title": "Singet dem Herrn ein neues Lied, Op.91"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sonata_for_2_Pianos_in_G_minor,_MWV_S_2_(Mendelssohn,_Felix)",
+      "year": 1820,
+      "title": "Sonata for 2 Pianos in G minor, MWV S 2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Die_Stiftungsfeier,_WoO_22_(Mendelssohn,_Felix)",
+      "year": 1842,
+      "title": "Die Stiftungsfeier, WoO 22"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Octet,_Op.20_(Mendelssohn,_Felix)",
+      "year": 1825,
+      "title": "String Octet, Op.20"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1,_Op.12_(Mendelssohn,_Felix)",
+      "year": 1829,
+      "title": "String Quartet No.1, Op.12"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2,_Op.13_(Mendelssohn,_Felix)",
+      "year": 1827,
+      "title": "String Quartet No.2, Op.13"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.3,_Op.44_No.1_(Mendelssohn,_Felix)",
+      "year": 1838,
+      "title": "String Quartet No.3, Op.44 No.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.4,_Op.44_No.2_(Mendelssohn,_Felix)",
+      "year": 1837,
+      "title": "String Quartet No.4, Op.44 No.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.5,_Op.44_No.3_(Mendelssohn,_Felix)",
+      "year": 1838,
+      "title": "String Quartet No.5, Op.44 No.3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.6,_Op.80_(Mendelssohn,_Felix)",
+      "year": 1847,
+      "title": "String Quartet No.6, Op.80"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet,_MWV_R_27_(Mendelssohn,_Felix)",
+      "year": 1830,
+      "title": "String Quartet, MWV R 27"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quintet_No.1,_Op.18_(Mendelssohn,_Felix)",
+      "year": 1826,
+      "title": "String Quintet No.1, Op.18"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quintet_No.2,_Op.87_(Mendelssohn,_Felix)",
+      "year": 1845,
+      "title": "String Quintet No.2, Op.87"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Symphony_No.1_in_C_major,_MWV_N_1_(Mendelssohn,_Felix)",
+      "year": 1821,
+      "title": "String Symphony No.1 in C major, MWV N 1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Symphony_No.2_in_D_major,_MWV_N_2_(Mendelssohn,_Felix)",
+      "year": 1821,
+      "title": "String Symphony No.2 in D major, MWV N 2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Symphony_No.3_in_E_minor,_MWV_N_3_(Mendelssohn,_Felix)",
+      "year": 1821,
+      "title": "String Symphony No.3 in E minor, MWV N 3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Symphony_No.4_in_C_minor,_MWV_N_4_(Mendelssohn,_Felix)",
+      "year": 1821,
+      "title": "String Symphony No.4 in C minor, MWV N 4"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Symphony_No.5_in_B-flat_major,_MWV_N_5_(Mendelssohn,_Felix)",
+      "year": 1821,
+      "title": "String Symphony No.5 in B-flat major, MWV N 5"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/12_Ges%C3%A4nge,_Op.8_(Mendelssohn,_Felix)",
+      "year": 1824,
+      "title": "12 Ges\u00e4nge, Op.8"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/12_Fugues_for_String_Quartet,_MWV_R_1-17_(Mendelssohn,_Felix)",
+      "year": 1821,
+      "title": "12 Fugues for String Quartet, MWV R 1-17"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Organ_Sonatas,_Op.65_(Mendelssohn,_Felix)",
+      "year": 1829,
+      "title": "6 Organ Sonatas, Op.65"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Pieces_for_String_Quartet,_Op.81_(Mendelssohn,_Felix)",
+      "year": 1827,
+      "title": "4 Pieces for String Quartet, Op.81"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Pieces_(Mendelssohn,_Felix)",
+      "year": 1841,
+      "title": "3 Pieces"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/15_Pieces_(Mendelssohn,_Felix)",
+      "year": 1838,
+      "title": "15 Pieces"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/19_Pieces_(Mendelssohn,_Felix)",
+      "year": 1837,
+      "title": "19 Pieces"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Pieces,_RISM-A2_1001126818_(Mendelssohn,_Felix)",
+      "year": 1825,
+      "title": "6 Pieces, RISM-A2 1001126818"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/34_Pieces,_RISM-A2_464000588_(Mendelssohn,_Felix)",
+      "year": 1839,
+      "title": "34 Pieces, RISM-A2 464000588"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_Pieces,_RISM-A2_464001335_(Mendelssohn,_Felix)",
+      "year": 1822,
+      "title": "5 Pieces, RISM-A2 464001335"
+    }
+  ]
+}

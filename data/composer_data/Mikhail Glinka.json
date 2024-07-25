@@ -1,0 +1,123 @@
+{
+  "full_name": "Mikhail Glinka",
+  "first_names": "Mikhail",
+  "last_name": "Glinka",
+  "birth_year": 1804,
+  "death_year": 1857,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mikhail_Glinka",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Mikhail Glinka was born in a rural village, where he was indulged by his grandmother, leading to an interesting mix of pampering and hypochondria. All this worry made his ears finely attuned to dissonant chords\u2014thank you, village bells.",
+      "year": 1804,
+      "city": "Novospasskoye",
+      "country": "Russia"
+    },
+    {
+      "event": "Move to Uncle's Estate",
+      "summary": "After losing his grandmother, he moved to his uncle's estate where he heard orchestras play the classics. This was a pivotal moment, inspiring him to declare, \"Music is my soul!\" as he contemplated his future as a composer.",
+      "year": 1814,
+      "city": "Unknown",
+      "country": "Russia"
+    },
+    {
+      "event": "School in Saint Petersburg",
+      "summary": "At 13, Glinka left for Saint Petersburg, where he learned everything from Latin to zoology, which is handy in music if you ever need to identify a \u2018musical animal\u2019 or two.",
+      "year": 1817,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "First Job at Foreign Office",
+      "summary": "Glinka found himself appointed to a bureaucratic role as assistant secretary, which he might have taken as a sign the universe wanted him to attend more drawing-room social gatherings.",
+      "year": 1824,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "Travel to Italy",
+      "summary": "Glinka embarked on a grand tour to Italy, where amidst charming landscapes and beautiful sopranos, he struggled with counterpoint and fell for the local culture\u2014cue romance and disillusionment.",
+      "year": 1830,
+      "city": "Milan",
+      "country": "Italy"
+    },
+    {
+      "event": "Return to Russia",
+      "summary": "Disenchanted by his Italian escapades, Glinka decided it was time to bring his newfound ideas back to the Motherland, which is a classic \u2018return to roots\u2019 story\u2014only with more mountains.",
+      "year": 1833,
+      "city": "Unknown",
+      "country": "Russia"
+    },
+    {
+      "event": "Marriage",
+      "summary": "Glinka married Maria Petrovna Ivanova after a brief courtship, but it wasn\u2019t a match made in musical heaven as things turned sour, leaving him more inspired than ever to compose melancholic melodies.",
+      "year": 1835,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "A Life for the Tsar Premiere",
+      "summary": "His first major opera, originally called Ivan Susanin, was a hit with the Tsar himself. Glinka celebrated his success with a nice ring reward, proving that music really does pay off \u2013 at least in jewelry.",
+      "year": 1836,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "Beginning of Ruslan and Lyudmila",
+      "summary": "Glinka started his ambitious second opera after listening to a drunken poet. The mix of high-brow art and low-brow inspiration should typify his creative process\u2014never underestimate a tavern tale.",
+      "year": 1837,
+      "city": "Unknown",
+      "country": "Russia"
+    },
+    {
+      "event": "Ruslan and Lyudmila Premiere",
+      "summary": "Despite a cool initial reception, Glinka's Ruslan eventually found its audience, much like a fine wine that only gets better with age\u2014or perhaps just needs the right listener.",
+      "year": 1842,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "Time in Paris",
+      "summary": "Glinka spent time in Paris where he was praised by Hector Berlioz and developed fantasies pittoresques. One could say he was living the composer\u2019s dream: eating pastries and attending concerts.",
+      "year": 1852,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Death",
+      "summary": "Glinka's life came to an unexpected end due to a cold in Berlin, right after indulging his love for botanical gardens. Perhaps he had just found the perfect flower and was struck by its beauty\u2014forever a romantic.",
+      "year": 1857,
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    {
+      "event": "First Composition",
+      "summary": "Glinka wrote his first composition, thus joining the ranks of fledgling composers everywhere, and proving that even musical prodigies have to start somewhere\u2014like significantly baffling their families with odd noises.",
+      "year": 1817,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "Study in Europe",
+      "summary": "Glinka embarked on a musical journey through Europe, where he absorbed influences that would later make his music a delightful mix of Russian flavor and European finesse. It was like going to a buffet and mixing borscht with spaghetti!",
+      "year": 1822,
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    {
+      "event": "Opera 'A Life for the Tsar'",
+      "summary": "He premiered 'A Life for the Tsar', making a bold statement in the opera world and essentially shouting, \"I can do this and be Russian at the same time!\" It was a major hit\u2014because who doesn\u2019t love a good tsar story?",
+      "year": 1836,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "Completion of 'Ruslan and Lyudmila'",
+      "summary": "After years of toil and musical wizardry, Glinka completed his opera 'Ruslan and Lyudmila', which would go on to confuse some audiences and enchant others with its captivating tales and melodies\u2014because who wouldn't want a little magic in their night out?",
+      "year": 1842,
+      "city": "Moscow",
+      "country": "Russia"
+    }
+  ],
+  "compositions": []
+}

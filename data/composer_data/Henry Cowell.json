@@ -1,0 +1,605 @@
+{
+  "full_name": "Henry Cowell",
+  "first_names": "Henry",
+  "last_name": "Cowell",
+  "birth_year": 1897,
+  "death_year": 1965,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Cowell",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Henry emerged into the world in a quaint cottage like a little musical superhero on March 11, 1897, with the sound of folk songs echoing around him, thanks to his bohemian parents who clearly had their own unique spin on life.",
+      "year": 1897,
+      "city": "Menlo Park",
+      "country": "U.S."
+    },
+    {
+      "event": "Parents' Divorce",
+      "summary": "By the age of 5, Henry's parents decided to amicably break up, marking the start of his adventures in Chinatown with his mother\u2014a delightful duo living the free-spirited life that any child would envy.",
+      "year": 1903,
+      "city": "Chinatown",
+      "country": "U.S."
+    },
+    {
+      "event": "San Francisco Earthquake",
+      "summary": "The 1906 San Francisco Earthquake introduced Henry to the concept of \u2018homeless chic\u2019 as he and his mother became part-time nomads after losing their possessions and fleeing the rubble, finding their way to the American Plains and Midwest.",
+      "year": 1906,
+      "city": "San Francisco",
+      "country": "U.S."
+    },
+    {
+      "event": "First Piano Purchase",
+      "summary": "At the tender age of 15, Cowell bought a used piano, which he likely treated like a long-lost friend, leading him to crank out over 100 compositions\u2014all while still trying to figure out the meaning of life.",
+      "year": 1912,
+      "city": "California",
+      "country": "U.S."
+    },
+    {
+      "event": "Study at UC Berkeley",
+      "summary": "Henry enrolled at UC Berkeley at 17, where he was like a musical sponge soaking up inspiration, studying under Charles Seeger, and writing about his otherworldly tone clusters, which probably sounded like they were from another planet.",
+      "year": 1914,
+      "city": "Berkeley",
+      "country": "U.S."
+    },
+    {
+      "event": "Military Service",
+      "summary": "Enlisting in the army in 1917, Cowell was eager to dodge combat like a game of musical chairs\u2014he ended up directing bands instead while the war raged on, turning out to be a safer bet\u2014and probably a lot more fun.",
+      "year": 1917,
+      "city": "Allentown",
+      "country": "U.S."
+    },
+    {
+      "event": "Join the Halcyon Commune",
+      "summary": "After a delightful stint of army life, Cowell embraced the free-spirited vibe at Halcyon, turning this theosophical commune into a stage for his experimental music, much to the delight\u2014if not, bewilderment\u2014of his fellow residents.",
+      "year": 1919,
+      "city": "Southern California",
+      "country": "U.S."
+    },
+    {
+      "event": "Premiered 'The Tides of Manaunaun'",
+      "summary": "'The Tides of Manaunaun' was cooked up in his Halcyon days and, much like his musical genius itself, became a sensation, making Cowell the musical party guest everyone was talking about.",
+      "year": 1917,
+      "city": "Halcyon",
+      "country": "U.S."
+    },
+    {
+      "event": "Debut at Carnegie Hall",
+      "summary": "In 1924, Cowell walked onto the prestigious Carnegie Hall stage like a matador ready to face a crowd of wild bulls, delivering a performance that set off a musical revolution (and perhaps a few gasps) in the audience.",
+      "year": 1924,
+      "city": "New York",
+      "country": "U.S."
+    },
+    {
+      "event": "Written 'New Musical Resources'",
+      "summary": "After years of tinkering with musical theory, Cowell finally penned 'New Musical Resources' in 1930, gift-wrapping his ideas on rhythmic and harmonic innovations for future composer-gifted minds to unwrap.",
+      "year": 1930,
+      "city": "New York",
+      "country": "U.S."
+    },
+    {
+      "event": "Concert Riot in Leipzig",
+      "summary": "After playing the fourth movement Antinomy, Cowell faced a riotous audience in Leipzig, with people yelling, clapping, and hissing, leading to a police intervention as the audience members were dangerously split between violent disapproval and enthusiastic support. Cowell humorously recalled playing amid the chaos, making it a memorable evening of musical mayhem.",
+      "year": 1930,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Discovery of the Rhythmicon",
+      "summary": "In 1930, Cowell commissioned L\u00e9on Theremin to create the Rhythmicon, the world's first electronic rhythm machine. It was designed to play an array of rhythmic patterns, though it later faded into obscurity until the 1960s\u2014though it could have made a great party trick if anyone had remembered it!",
+      "year": 1930,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Formation of New Music Society",
+      "summary": "In 1925, Cowell gathered avant-garde composers to form the New Music Society, which staged concerts and became a hub for modern music innovation. It became a hot spot for musical experimentations, though they probably didn't do karaoke!",
+      "year": 1925,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Launch of New Music Quarterly",
+      "summary": "Less than two years after founding the New Music Society, Cowell kicked off New Music Quarterly, a publication that showcased groundbreaking new scores. He even managed to get works by his good friend Charles Ives published, proving that good friends can always help you get that side gig in music!",
+      "year": 1927,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Incarceration in San Quentin",
+      "summary": "Cowell was sentenced to San Quentin for a morals charge in 1936, but instead of giving up, he turned the prison into a makeshift music school. He wrote about sixty compositions while juggling prison administration, making him the only guy known for both his music and prison etiquette!",
+      "year": 1936,
+      "city": "San Quentin",
+      "country": "USA"
+    },
+    {
+      "event": "Parole from San Quentin",
+      "summary": "After a long stint at San Quentin, Cowell was finally paroled, proving that even the most avant-garde composers can eventually get out for good behavior. He relocated to Westchester County, where he resided with fellow composer Percy Grainger, likely exchanging musical notes and possibly recipes for eccentric piano techniques.",
+      "year": 1940,
+      "city": "White Plains",
+      "country": "USA"
+    },
+    {
+      "event": "Marriage to Sidney Hawkins Robertson",
+      "summary": "Cowell tied the knot with renowned folk-music scholar Sidney Hawkins Robertson, who played a key role in winning his freedom. It seems even a composer with a wild reputation can become a model husband!",
+      "year": 1941,
+      "city": "USA",
+      "country": "USA"
+    },
+    {
+      "event": "Grant of Pardon",
+      "summary": "Cowell received a pardon from California's governor, which must have felt like a VIP pass to the music scene. He could once again unleash his creative genius without feeling as though he needed to hide from the law.",
+      "year": 1942,
+      "city": "USA",
+      "country": "USA"
+    },
+    {
+      "event": "Progressive Music Career",
+      "summary": "Despite the setbacks from his earlier legal troubles, Cowell continued to be a notable figure in music, incorporating non-Western musical influences into his work, presumably while sipping tea and practicing on a piano strung with rainbows.",
+      "year": 1957,
+      "city": "USA",
+      "country": "USA"
+    },
+    {
+      "event": "Elected to the American Institute of Arts and Letters",
+      "summary": "Cowell's election to this prestigious institution was like receiving a golden ticket for contributions to the arts, even if it meant he had to get dressed for occasional fancy events.",
+      "year": 1951,
+      "city": "USA",
+      "country": "USA"
+    },
+    {
+      "event": "Final Recordings",
+      "summary": "In his later years, Cowell recorded a collection of piano pieces, which allowed him to leave behind a legacy of vibrant performances and strange harmonies, ensuring his music would continue to baffle and delight future generations.",
+      "year": 1963,
+      "city": "USA",
+      "country": "USA"
+    },
+    {
+      "event": "Diagnosis of Cancer",
+      "summary": "In a plot twist that could rival a daytime soap opera, Cowell was diagnosed with colorectal cancer, a revelation that, unlike his music, was neither comical nor joyful, but part of the life he bravely carried on with until the end.",
+      "year": 1964,
+      "city": "Woodstock",
+      "country": "USA"
+    },
+    {
+      "event": "Death",
+      "summary": "Cowell passed away after a valiant battle with cancer, leaving behind a symphony of works that continue to perplex and inspire musicians, making it clear that he'd rather have left the world with plenty of musical notes than goodbyes.",
+      "year": 1965,
+      "city": "Woodstock",
+      "country": "USA"
+    },
+    {
+      "event": "Formation of a New Musical Style",
+      "summary": "Cowell had a lightbulb moment that led him to merge traditional melodies with unconventional sounds, effectively inventing a new genre. It was like he looked at music and said, 'What if there are no rules?' and then decided to write music with a free interpretive spirit, amusingly scandalizing the formalists.",
+      "year": 1920,
+      "city": "San Francisco",
+      "country": "USA"
+    },
+    {
+      "event": "Creation of the Rhythmicon",
+      "summary": "In a whimsical twist of fate, Cowell got his hands on a Rhythmicon, making him one of the few composers able to literally play with rhythm in ways most musicians only dream about. It was an electronic mashup moment before mashups were even a thing!",
+      "year": 1931,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Publication of 'New Musical Resources'",
+      "summary": "After tons of caffeinated brainstorming, Cowell published 'New Musical Resources,' a book so groundbreaking that it made other composers rethink their entire existence. It was like telling a room full of musicians that they had been doing it all wrong, with a comprehensive manual to back it up!",
+      "year": 1930,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Conviction and Imprisonment",
+      "summary": "In a bizarre turn of events worthy of a reality show, Cowell was imprisoned for a period due to his unusual personal choices. However, instead of letting it get him down, he turned his cell into a creative sanctuary, composing while behind bars\u2014talk about making a case for talent!",
+      "year": 1936,
+      "city": "San Quentin",
+      "country": "USA"
+    },
+    {
+      "event": "Pioneering Contributions to American Music",
+      "summary": "Cowell became the trailblazer for American experimental music, attracting a crowd of aspiring musicians desperate to learn from the master. His home turned into a musical hub, where innovation rewrote the rulebook while he multitasked between composing and hosting masterclasses\u2014because why not!",
+      "year": 1940,
+      "city": "San Francisco",
+      "country": "USA"
+    },
+    {
+      "event": "Piano Works Debut",
+      "summary": "Cowell unveiled his first major piano composition, effectively saying, 'Hey everyone, listen to this!', and the music world perked its ears right up.",
+      "year": 1916,
+      "city": "San Francisco",
+      "country": "United States"
+    },
+    {
+      "event": "The Banshee Composition",
+      "summary": "In a musical fit of creativity, Cowell composed 'The Banshee', involving the use of unusual techniques that made pianos shiver and shake, or at least look a bit confused.",
+      "year": 1925,
+      "city": "San Francisco",
+      "country": "United States"
+    },
+    {
+      "event": "Establishment of Rhythmicon",
+      "summary": "Cowell's innovative spirit led him to be involved in the development of the Rhythmicon, trying to prove that rhythm could be fun for machines as well as humans \u2013 and who doesn't want a bouncing machine?",
+      "year": 1930,
+      "city": "New York",
+      "country": "United States"
+    },
+    {
+      "event": "Pupils Teaching",
+      "summary": "Henry Cowell took on the role of a musical mentor, teaching legendary figures like John Cage and George Gershwin, likely hoping they'd one day make him look good in comparison.",
+      "year": 1931,
+      "city": "New York",
+      "country": "United States"
+    },
+    {
+      "event": "Published 'New Musical Resources'",
+      "summary": "Cowell dropped some serious musical knowledge with his book 'New Musical Resources', making sure everyone had a chance to learn the 'Cowell way' or at least argue about it over a cup of tea.",
+      "year": 1930,
+      "city": "New York",
+      "country": "United States"
+    },
+    {
+      "event": "Percussion Concerto Premiere",
+      "summary": "Henry Cowell premiered his 'Percussion Concerto', boldly proclaiming that tapping and banging things could totally be considered high art, and it was \u2013 at least until someone dropped a cymbal.",
+      "year": 1958,
+      "city": "New York",
+      "country": "United States"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/2-Part_Invention_in_3_Parts,_HC_754_(Cowell,_Henry)",
+      "year": 1950,
+      "title": "2-Part Invention in 3 Parts, HC 754"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Aeolian_Harp,_HC_370_(Cowell,_Henry)",
+      "year": 1923,
+      "title": "Aeolian Harp, HC 370"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Air_and_Scherzo,_HC_897_(Cowell,_Henry)",
+      "year": 1961,
+      "title": "Air and Scherzo, HC 897"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Air_for_Violin_and_String_Orchestra,_HC_767/1a_(Cowell,_Henry)",
+      "year": 1952,
+      "title": "Air for Violin and String Orchestra, HC 767/1a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/American_Muse,_HC_641_(Cowell,_Henry)",
+      "year": 1943,
+      "title": "American Muse, HC 641"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Anger_Dance_(Cowell,_Henry)",
+      "year": 1914,
+      "title": "Anger Dance"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Antiphony,_HC_865_(Cowell,_Henry)",
+      "year": 1959,
+      "title": "Antiphony, HC 865"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Banshee,_HC_405_(Cowell,_Henry)",
+      "year": 1925,
+      "title": "The Banshee, HC 405"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_Percussion_and_Orchestra,_HC_861_(Cowell,_Henry)",
+      "year": 1958,
+      "title": "Concerto for Percussion and Orchestra, HC 861"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Daybreak,_HC_694_(Cowell,_Henry)",
+      "year": 1946,
+      "title": "Daybreak, HC 694"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dynamic_Motion_and_Encores,_HC_213_(Cowell,_Henry)",
+      "year": 1916,
+      "title": "Dynamic Motion and Encores, HC 213"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Episode_No.3,_HC_324_(Cowell,_Henry)",
+      "year": 1921,
+      "title": "Episode No.3, HC 324"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Exultation,_HC_328_(Cowell,_Henry)",
+      "year": 1921,
+      "title": "Exultation, HC 328"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fabric,_HC_307_(Cowell,_Henry)",
+      "year": 1920,
+      "title": "Fabric, HC 307"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fiddler%27s_Jig,_HC_771_(Cowell,_Henry)",
+      "year": 1952,
+      "title": "Fiddler's Jig, HC 771"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Harmonica_Concerto,_HC_908_(Cowell,_Henry)",
+      "year": 1962,
+      "title": "Harmonica Concerto, HC 908"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Harp_of_Life,_HC_384_(Cowell,_Henry)",
+      "year": 1924,
+      "title": "The Harp of Life, HC 384"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Homage_to_Iran,_HC_845_(Cowell,_Henry)",
+      "year": 1956,
+      "title": "Homage to Iran, HC 845"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hymn_and_Fuguing_Tune_No.2,_HC_657_(Cowell,_Henry)",
+      "year": 1944,
+      "title": "Hymn and Fuguing Tune No.2, HC 657"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hymn_and_Fuguing_Tune_No.3,_HC_660_(Cowell,_Henry)",
+      "year": 1944,
+      "title": "Hymn and Fuguing Tune No.3, HC 660"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hymn_and_Fuguing_Tune_No.4,_HC_664_(Cowell,_Henry)",
+      "year": 1944,
+      "title": "Hymn and Fuguing Tune No.4, HC 664"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hymn_and_Fuguing_Tune_No.7,_HC_710_(Cowell,_Henry)",
+      "year": 1953,
+      "title": "Hymn and Fuguing Tune No.7, HC 710"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hymn_and_Fuguing_Tune_No.12,_HC_850_(Cowell,_Henry)",
+      "year": 1957,
+      "title": "Hymn and Fuguing Tune No.12, HC 850"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hymn_and_Fuguing_Tune_No.13,_HC_875_(Cowell,_Henry)",
+      "year": 1960,
+      "title": "Hymn and Fuguing Tune No.13, HC 875"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hymn_and_Fuguing_Tune_No.14,_HC_900_(Cowell,_Henry)",
+      "year": 1962,
+      "title": "Hymn and Fuguing Tune No.14, HC 900"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hymn_and_Fuguing_Tune_No.16,_HC_921_(Cowell,_Henry)",
+      "year": 1963,
+      "title": "Hymn and Fuguing Tune No.16, HC 921"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/%E2%80%A6if_he_please,_HC_818_(Cowell,_Henry)",
+      "year": 1955,
+      "title": "\u2026if he please, HC 818"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ings,_HC_353_(Cowell,_Henry)",
+      "year": 1917,
+      "title": "Ings, HC 353"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Iridescent_Rondo,_HC_868_(Cowell,_Henry)",
+      "year": 1959,
+      "title": "Iridescent Rondo, HC 868"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Irish_Legends,_HC_354_(Cowell,_Henry)",
+      "year": 1922,
+      "title": "3 Irish Legends, HC 354"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Koto_Concerto_No.1,_HC_909_(Cowell,_Henry)",
+      "year": 1962,
+      "title": "Koto Concerto No.1, HC 909"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Koto_Concerto_No.2,_HC_940_(Cowell,_Henry)",
+      "year": 1965,
+      "title": "Koto Concerto No.2, HC 940"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Little_Black_Boy,_HC_783_(Cowell,_Henry)",
+      "year": 1952,
+      "title": "The Little Black Boy, HC 783"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Little_Concerto,_HC_620a_(Cowell,_Henry)",
+      "year": 1941,
+      "title": "Little Concerto, HC 620a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_mari%C3%A9s_de_la_tour_Eiffel,_HC_563_(Cowell,_Henry)",
+      "year": 1939,
+      "title": "Les mari\u00e9s de la tour Eiffel, HC 563"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Movement_for_String_Quartet,_HC_450_(Cowell,_Henry)",
+      "year": 1928,
+      "title": "Movement for String Quartet, HC 450"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ostinato_Pianissimo,_HC_505_(Cowell,_Henry)",
+      "year": 1934,
+      "title": "Ostinato Pianissimo, HC 505"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Overture,_HC_744_(Cowell,_Henry)",
+      "year": 1949,
+      "title": "Overture, HC 744"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto,_HC_440_(Cowell,_Henry)",
+      "year": 1931,
+      "title": "Piano Concerto, HC 440"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Pieces,_HC_463_(Cowell,_Henry)",
+      "year": 1925,
+      "title": "2 Pieces, HC 463"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Polyphonica,_HC_458_(Cowell,_Henry)",
+      "year": 1930,
+      "title": "Polyphonica, HC 458"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Prelude,_HC_409_(Cowell,_Henry)",
+      "year": 1925,
+      "title": "Prelude, HC 409"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Rhythmicana,_HC_557_(Cowell,_Henry)",
+      "year": 1938,
+      "title": "Rhythmicana, HC 557"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Set_of_Five,_HC_779_(Cowell,_Henry)",
+      "year": 1952,
+      "title": "Set of Five, HC 779"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Set_of_Four_for_Harpsichord_or_Piano,_HC_886_(Cowell,_Henry)",
+      "year": 1960,
+      "title": "Set of Four for Harpsichord or Piano, HC 886"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Shoonthree,_HC_571_(Cowell,_Henry)",
+      "year": 1939,
+      "title": "Shoonthree, HC 571"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/26_Simultaneous_Mosaics,_HC_923_(Cowell,_Henry)",
+      "year": 1963,
+      "title": "26 Simultaneous Mosaics, HC 923"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sinister_Resonance,_HC_462_(Cowell,_Henry)",
+      "year": 1940,
+      "title": "Sinister Resonance, HC 462"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Snows_of_Fuji-Yama,_HC_395_(Cowell,_Henry)",
+      "year": 1924,
+      "title": "The Snows of Fuji-Yama, HC 395"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/St._Agnes_Morning,_HC_152_(Cowell,_Henry)",
+      "year": 1914,
+      "title": "St. Agnes Morning, HC 152"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1,_HC_197_(Cowell,_Henry)",
+      "year": 1916,
+      "title": "String Quartet No.1, HC 197"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.3,_HC_518_(Cowell,_Henry)",
+      "year": 1935,
+      "title": "String Quartet No.3, HC 518"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.4,_HC_522_(Cowell,_Henry)",
+      "year": 1936,
+      "title": "String Quartet No.4, HC 522"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.5,_HC_832_(Cowell,_Henry)",
+      "year": 1956,
+      "title": "String Quartet No.5, HC 832"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Suite_for_Violin_and_Piano,_HC_397_(Cowell,_Henry)",
+      "year": 1925,
+      "title": "Suite for Violin and Piano, HC 397"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.2,_HC_541_(Cowell,_Henry)",
+      "year": 1938,
+      "title": "Symphony No.2, HC 541"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.4,_HC_697_(Cowell,_Henry)",
+      "year": 1946,
+      "title": "Symphony No.4, HC 697"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.11,_HC_790_(Cowell,_Henry)",
+      "year": 1953,
+      "title": "Symphony No.11, HC 790"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.12,_HC_830_(Cowell,_Henry)",
+      "year": 1955,
+      "title": "Symphony No.12, HC 830"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.13,_HC_848_(Cowell,_Henry)",
+      "year": 1956,
+      "title": "Symphony No.13, HC 848"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.15,_HC_887_(Cowell,_Henry)",
+      "year": 1960,
+      "title": "Symphony No.15, HC 887"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Synchrony,_HC_464_(Cowell,_Henry)",
+      "year": 1930,
+      "title": "Synchrony, HC 464"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Toccanta,_HC_547_(Cowell,_Henry)",
+      "year": 1938,
+      "title": "Toccanta, HC 547"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Tom_Binkley%27s_Tune,_HC_700_(Cowell,_Henry)",
+      "year": 1946,
+      "title": "Tom Binkley's Tune, HC 700"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Trio_for_Flute,_Violin_and_Harp,_HC_903_(Cowell,_Henry)",
+      "year": 1962,
+      "title": "Trio for Flute, Violin and Harp, HC 903"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Trio_in_Nine_Short_Movements,_HC_941_(Cowell,_Henry)",
+      "year": 1965,
+      "title": "Trio in Nine Short Movements, HC 941"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Variation_on_Thirds,_HC_882_(Cowell,_Henry)",
+      "year": 1960,
+      "title": "Variation on Thirds, HC 882"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata,_HC_705_(Cowell,_Henry)",
+      "year": 1945,
+      "title": "Violin Sonata, HC 705"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Vocalise,_HC_524_(Cowell,_Henry)",
+      "year": 1936,
+      "title": "Vocalise, HC 524"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Woofs,_HC_451_(Cowell,_Henry)",
+      "year": 1947,
+      "title": "2 Woofs, HC 451"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/New_Musical_Resources_(Cowell,_Henry)",
+      "year": 1930,
+      "title": "New Musical Resources"
+    }
+  ]
+}

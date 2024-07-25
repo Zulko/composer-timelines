@@ -1,0 +1,227 @@
+{
+  "full_name": "Franz Lehar",
+  "first_names": "Franz",
+  "last_name": "Lehar",
+  "birth_year": 1870,
+  "death_year": 1948,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Franz_Leh\u00e1r",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Franz Leh\u00e1r was born as the eldest son in a family with a catchy last name in a small town that sounds more like a magic spell. His father was an army bandmaster, setting the stage for a life filled with music and a touch of military precision.",
+      "year": 1870,
+      "city": "Kom\u00e1rom",
+      "country": "Hungary"
+    },
+    {
+      "event": "Education",
+      "summary": "At 12, Leh\u00e1r transitioned from Hungarian to the world of classical music, learning the violin. Under the stern eyes of Anton\u00edn Dvo\u0159\u00e1k, he was pushed toward composition like a kid in a candy store, but only allowed to pick one type of candy\u2014no performance and composition together!",
+      "year": 1882,
+      "city": "Prague",
+      "country": "Czech Republic"
+    },
+    {
+      "event": "Military Bandmaster",
+      "summary": "After an intense violin education, Leh\u00e1r strutted into the military scene as the youngest bandmaster, leading a group of soldiers in song. Picture a young guy waving his baton while trying to avoid stepping on the marching boots of grown men!",
+      "year": 1890,
+      "city": "Losonc",
+      "country": "Slovakia"
+    },
+    {
+      "event": "Navy Career",
+      "summary": "He traded the army for the navy, becoming Kapellmeister. Imagine him steering a ship while composing, possibly using waves as his very own metronome or using seagulls to perfect his high notes!",
+      "year": 1894,
+      "city": "Pola",
+      "country": "Croatia"
+    },
+    {
+      "event": "Opera Premiere",
+      "summary": "Leh\u00e1r premiered his first opera 'Kukuschka', which was met with mixed reviews, like the first pancake in a stack\u2014edible but not quite Instagram-worthy!",
+      "year": 1896,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Conductor at Vienna Theater",
+      "summary": "Leh\u00e1r hit the big leagues when he became conductor at the prestigious Vienna Theater. He was ready to dazzle audiences, armed with his baton, charm, and a repertoire that could make even the snobbiest critics tap their toes!",
+      "year": 1902,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "The Merry Widow",
+      "summary": "Franz hit a home run with the operetta 'The Merry Widow', which became so famous that it practically got its own fan club. It was the cherry on top of his musical sundae\u2014everyone was singing 'Vilja' and waltzing both on and offstage!",
+      "year": 1905,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Awards from Hitler",
+      "summary": "In a bizarre twist of fate, Leh\u00e1r received awards from Hitler, like the uninvited guest at a cozy dinner party who somehow ends up getting the best dessert. Politics aside, it added a peculiar chapter to his already colorful biography!",
+      "year": 1939,
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    {
+      "event": "Foundation of Publishing House",
+      "summary": "Leh\u00e1r decided to take matters into his own hands by establishing his own publishing company. It was like he said, 'If the world won't play my music my way, I'll just publish it myself!'\u2014a true entrepreneurial spirit!",
+      "year": 1935,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Death",
+      "summary": "Franz Leh\u00e1r hung up his baton for the last time at the age of 78, leaving behind a legacy that had more highs than a roller coaster and more waltzes than a ballroom dance-off. He was buried in Bad Ischl, where he probably continues to hum his melodies!",
+      "year": 1948,
+      "city": "Bad Ischl",
+      "country": "Austria"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/Die_blaue_Mazur_(Leh%C3%A1r,_Franz)",
+      "year": 1920,
+      "title": "Die blaue Mazur"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Eine_Vision_(Leh%C3%A1r,_Franz)",
+      "year": 1907,
+      "title": "Eine Vision"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Elfentanz_(Leh%C3%A1r,_Franz)",
+      "year": 1892,
+      "title": "Elfentanz"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Endlich_allein_(Leh%C3%A1r,_Franz)",
+      "year": 1913,
+      "title": "Endlich allein"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Eva_(Leh%C3%A1r,_Franz)",
+      "year": 1911,
+      "title": "Eva"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantasie,_Op.7_(Leh%C3%A1r,_Franz)",
+      "year": 1888,
+      "title": "Fantasie, Op.7"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Frasquita_(Leh%C3%A1r,_Franz)",
+      "year": 1922,
+      "title": "Frasquita"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Friederike_(Leh%C3%A1r,_Franz)",
+      "year": 1928,
+      "title": "Friederike"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Das_F%C3%BCrstenkind_(Leh%C3%A1r,_Franz)",
+      "year": 1908,
+      "title": "Das F\u00fcrstenkind"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Giuditta_(Leh%C3%A1r,_Franz)",
+      "year": 1933,
+      "title": "Giuditta"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Gold_und_Silber,_Op.79_(Leh%C3%A1r,_Franz)",
+      "year": 1903,
+      "title": "Gold und Silber, Op.79"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Der_G%C3%B6ttergatte_(Leh%C3%A1r,_Franz)",
+      "year": 1903,
+      "title": "Der G\u00f6ttergatte"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Der_Graf_von_Luxemburg_(Leh%C3%A1r,_Franz)",
+      "year": 1909,
+      "title": "Der Graf von Luxemburg"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Die_ideale_Gattin_(Leh%C3%A1r,_Franz)",
+      "year": 1913,
+      "title": "Die ideale Gattin"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Das_Land_des_L%C3%A4chelns_(Leh%C3%A1r,_Franz)",
+      "year": 1929,
+      "title": "Das Land des L\u00e4chelns"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Die_lustige_Witwe_(Leh%C3%A1r,_Franz)",
+      "year": 1906,
+      "title": "Die lustige Witwe"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Der_Mann_mit_den_drei_Frauen_(Leh%C3%A1r,_Franz)",
+      "year": 1908,
+      "title": "Der Mann mit den drei Frauen"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Paganini_(Leh%C3%A1r,_Franz)",
+      "year": 1925,
+      "title": "Paganini"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Peter_und_Paul_im_Schlaraffenland_(Leh%C3%A1r,_Franz)",
+      "year": 1906,
+      "title": "Peter und Paul im Schlaraffenland"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Der_Rastelbinder_(Leh%C3%A1r,_Franz)",
+      "year": 1902,
+      "title": "Der Rastelbinder"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Rosenstock_und_Edelweiss_(Leh%C3%A1r,_Franz)",
+      "year": 1912,
+      "title": "Rosenstock und Edelweiss"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sch%C3%B6n_ist_die_Welt_(Leh%C3%A1r,_Franz)",
+      "year": 1914,
+      "title": "Sch\u00f6n ist die Welt"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sonata_in_F_major,_NV_224_(Leh%C3%A1r,_Franz)",
+      "year": 1887,
+      "title": "Sonata in F major, NV 224"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sonatine_all%27Antica,_Op.27_(Leh%C3%A1r,_Franz)",
+      "year": 1895,
+      "title": "Sonatine all'Antica, Op.27"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Der_Sterngucker_(Leh%C3%A1r,_Franz)",
+      "year": 1915,
+      "title": "Der Sterngucker"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Die_Tangok%C3%B6nigin_(Leh%C3%A1r,_Franz)",
+      "year": 1921,
+      "title": "Die Tangok\u00f6nigin"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ungarische_Fantasie,_Op.45_(Leh%C3%A1r,_Franz)",
+      "year": 1897,
+      "title": "Ungarische Fantasie, Op.45"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Der_Zarewitsch_(Leh%C3%A1r,_Franz)",
+      "year": 1926,
+      "title": "Der Zarewitsch"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Zigeunerliebe_(Leh%C3%A1r,_Franz)",
+      "year": 1909,
+      "title": "Zigeunerliebe"
+    }
+  ]
+}

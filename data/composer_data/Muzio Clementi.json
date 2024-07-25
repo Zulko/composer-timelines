@@ -1,0 +1,376 @@
+{
+  "full_name": "Muzio Clementi",
+  "first_names": "Muzio",
+  "last_name": "Clementi",
+  "birth_year": 1752,
+  "death_year": 1832,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Muzio_Clementi",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Muzio Clementi burst onto the scene in Rome, becoming the eldest of seven children in a silversmith family. His dad quickly clocked his musical knack and arranged for him to learn from a maestro, setting the stage for a future filled with melodies and mischief.",
+      "year": 1752,
+      "city": "Rome",
+      "country": "Papal States"
+    },
+    {
+      "event": "Start of Music Education",
+      "summary": "At the tender age of seven, Clementi dove into the world of music, studying figured bass with a local organist and later adding voice lessons to his repertoire. By thirteen, he was already composing, proving that he was not just another kid with a pet rock!",
+      "year": 1759,
+      "city": "Rome",
+      "country": "Papal States"
+    },
+    {
+      "event": "Move to England",
+      "summary": "Sir Peter Beckford, impressed by young Clementi\u2019s talent, whisked him away to his estate in England. This would be the start of a 7-year stint that involved a whole lot of practicing and probably a bit of mischief in the English countryside.",
+      "year": 1766,
+      "city": "Blandford Forum",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "First Public Performance",
+      "summary": "Clementi made his public debut as an organist, captivating an audience that would soon see him as one of the most brilliant concert pianists. Who knew all those hours of practicing would lead to such fanfare?",
+      "year": 1770,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "European Tour and Competition with Mozart",
+      "summary": "On a grand European adventure, Clementi found himself in a showdown with none other than Mozart in Vienna. They competed in front of the Holy Roman Emperor, leaving audiences debating who was the real musical genius!",
+      "year": 1781,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Teaching Period",
+      "summary": "Clementi took a break from the limelight to shape the next generation of musicians. For twenty years, he taught many notable students, proving that not only could he perform, but he could also teach others how to strut their musical stuff!",
+      "year": 1783,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Founded the Philharmonic Society",
+      "summary": "Clementi turned his piano focus toward the administrative side, playing a vital role in founding the 'Philharmonic Society of London'. Who knew he was also a piano philanthropist?",
+      "year": 1813,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Final Public Appearance",
+      "summary": "In his last public performance, Clementi wowed audiences at the opening concert of the Philharmonic Society, leaving behind a legacy that was louder than any standing ovation could express.",
+      "year": 1828,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Death",
+      "summary": "After a lifetime of musical achievements, Clementi passed away in Evesham. He left the world not just with notes on a page but with a harmonious legacy that resonates through piano halls even today.",
+      "year": 1832,
+      "city": "Evesham",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Publication of Op. 18 Symphonies",
+      "summary": "Clementi decided that two of his symphonies were ready for the public eye, hitting the shelves like hotcakes and making musicians everywhere wish they could play like him.",
+      "year": 1787,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Performing Symphonies in Europe",
+      "summary": "Clementi took to the stage across Europe, dazzling audiences with his symphonies and creating a fan base that might as well have included the entire continent\u2019s musical elite.",
+      "year": 1813,
+      "city": "Various",
+      "country": "Various"
+    },
+    {
+      "event": "Composed Symphony No. 3",
+      "summary": "In a patriotic flourish, he whipped up Symphony No. 3, incorporating the theme of 'God Save the King' so well that even royalty couldn't resist the beat.",
+      "year": 1813,
+      "city": "London",
+      "country": "United Kingdom"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantasie_avec_variations_sur_l%27air_%27Au_clair_de_la_lune%27,_Op.48_(Clementi,_Muzio)",
+      "year": 1821,
+      "title": "Fantasie avec variations sur l'air 'Au clair de la lune', Op.48"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Gradus_ad_Parnassum,_Op.44_(Clementi,_Muzio)",
+      "year": 1817,
+      "title": "Gradus ad Parnassum, Op.44"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/12_Monferrinas,_Op.49_(Clementi,_Muzio)",
+      "year": 1821,
+      "title": "12 Monferrinas, Op.49"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Musical_Characteristics,_Op.19_(Clementi,_Muzio)",
+      "year": 1787,
+      "title": "Musical Characteristics, Op.19"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Duet,_2_Sonatas_and_3_Fugues,_Op.6_(Clementi,_Muzio)",
+      "year": 1781,
+      "title": "Piano Duet, 2 Sonatas and 3 Fugues, Op.6"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Piano_Duets_and_3_Sonatas,_Op.3_(Clementi,_Muzio)",
+      "year": 1779,
+      "title": "3 Piano Duets and 3 Sonatas, Op.3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Piano_Duets,_Op.14_(Clementi,_Muzio)",
+      "year": 1786,
+      "title": "3 Piano Duets, Op.14"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_and_Toccata,_Op.11_(Clementi,_Muzio)",
+      "year": 1784,
+      "title": "Piano Sonata and Toccata, Op.11"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.1,_Op.2_No.2_(Clementi,_Muzio)",
+      "year": 1779,
+      "title": "Piano Sonata No.1, Op.2 No.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata,_Op.16_(Clementi,_Muzio)",
+      "year": 1786,
+      "title": "Piano Sonata, Op.16"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata,_Op.20_(Clementi,_Muzio)",
+      "year": 1787,
+      "title": "Piano Sonata, Op.20"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata,_Op.26_(Clementi,_Muzio)",
+      "year": 1791,
+      "title": "Piano Sonata, Op.26"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata,_Op.41_(Clementi,_Muzio)",
+      "year": 1804,
+      "title": "Piano Sonata, Op.41"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata,_Op.46_(Clementi,_Muzio)",
+      "year": 1820,
+      "title": "Piano Sonata, Op.46"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata,_WO_3_(Clementi,_Muzio)",
+      "year": 1790,
+      "title": "Piano Sonata, WO 3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata,_WO_13_(Clementi,_Muzio)",
+      "year": 1765,
+      "title": "Piano Sonata, WO 13"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Piano_Sonatas_and_2_Capriccios,_Op.34_(Clementi,_Muzio)",
+      "year": 1795,
+      "title": "2 Piano Sonatas and 2 Capriccios, Op.34"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_Piano_Sonatas_and_a_Duet,_Op.1a_(Clementi,_Muzio)",
+      "year": 1780,
+      "title": "5 Piano Sonatas and a Duet, Op.1a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Piano_Sonatas,_Op.7_(Clementi,_Muzio)",
+      "year": 1782,
+      "title": "3 Piano Sonatas, Op.7"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Piano_Sonatas,_Op.8_(Clementi,_Muzio)",
+      "year": 1782,
+      "title": "3 Piano Sonatas, Op.8"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Piano_Sonatas,_Op.9_(Clementi,_Muzio)",
+      "year": 1783,
+      "title": "3 Piano Sonatas, Op.9"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Piano_Sonatas,_Op.10_(Clementi,_Muzio)",
+      "year": 1783,
+      "title": "3 Piano Sonatas, Op.10"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Piano_Sonatas,_Op.13_(Clementi,_Muzio)",
+      "year": 1785,
+      "title": "6 Piano Sonatas, Op.13"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Piano_Sonatas,_Op.23_(Clementi,_Muzio)",
+      "year": 1790,
+      "title": "3 Piano Sonatas, Op.23"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Piano_Sonatas,_Op.25_(Clementi,_Muzio)",
+      "year": 1790,
+      "title": "6 Piano Sonatas, Op.25"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Piano_Sonatas,_Op.33_(Clementi,_Muzio)",
+      "year": 1794,
+      "title": "3 Piano Sonatas, Op.33"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Piano_Sonatas,_Op.35_(Clementi,_Muzio)",
+      "year": 1796,
+      "title": "3 Piano Sonatas, Op.35"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Piano_Sonatas,_Op.37_(Clementi,_Muzio)",
+      "year": 1798,
+      "title": "3 Piano Sonatas, Op.37"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Piano_Sonatas,_Op.40_(Clementi,_Muzio)",
+      "year": 1802,
+      "title": "3 Piano Sonatas, Op.40"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Piano_Sonatas,_Op.50_(Clementi,_Muzio)",
+      "year": 1821,
+      "title": "3 Piano Sonatas, Op.50"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio,_WO_6_(Clementi,_Muzio)",
+      "year": 1794,
+      "title": "Piano Trio, WO 6"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Piano_Trios,_Op.21_(Clementi,_Muzio)",
+      "year": 1788,
+      "title": "3 Piano Trios, Op.21"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Piano_Trios,_Op.22_(Clementi,_Muzio)",
+      "year": 1788,
+      "title": "3 Piano Trios, Op.22"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Piano_Trios,_Op.27_(Clementi,_Muzio)",
+      "year": 1791,
+      "title": "3 Piano Trios, Op.27"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Piano_Trios,_Op.28_(Clementi,_Muzio)",
+      "year": 1792,
+      "title": "3 Piano Trios, Op.28"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Piano_Trios,_Op.29_(Clementi,_Muzio)",
+      "year": 1793,
+      "title": "3 Piano Trios, Op.29"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Preludes_and_Exercises,_Op.43_(Clementi,_Muzio)",
+      "year": 1811,
+      "title": "Preludes and Exercises, Op.43"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Sonatas_and_3_Fugues,_Op.5_(Clementi,_Muzio)",
+      "year": 1780,
+      "title": "3 Sonatas and 3 Fugues, Op.5"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.2,_WO_33_(Clementi,_Muzio)",
+      "year": 1819,
+      "title": "Symphony No.2, WO 33"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.4,_WO_35_(Clementi,_Muzio)",
+      "year": 1816,
+      "title": "Symphony No.4, WO 35"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/12_Waltzes_for_Piano,_Tambourine_and_Triangle,_Op.38_(Clementi,_Muzio)",
+      "year": 1798,
+      "title": "12 Waltzes for Piano, Tambourine and Triangle, Op.38"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/12_Waltzes_for_Piano,_Tambourine_and_Triangle,_Op.39_(Clementi,_Muzio)",
+      "year": 1800,
+      "title": "12 Waltzes for Piano, Tambourine and Triangle, Op.39"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Piano_Sonatas_and_a_Duet,_Op.12_(Clementi,_Muzio)",
+      "year": 1784,
+      "title": "4 Piano Sonatas and a Duet, Op.12"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Piano_Sonatas,_Op.1_(Clementi,_Muzio)",
+      "year": 1771,
+      "title": "6 Piano Sonatas, Op.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Piano_Sonatinas,_Op.36_(Clementi,_Muzio)",
+      "year": 1797,
+      "title": "6 Piano Sonatinas, Op.36"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Piano_Trios,_Op.28_(Clementi,_Muzio)",
+      "year": 1792,
+      "title": "3 Piano Trios, Op.28"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Piano_Trios,_Op.29_(Clementi,_Muzio)",
+      "year": 1793,
+      "title": "3 Piano Trios, Op.29"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Piano_Trios,_Op.32_(Clementi,_Muzio)",
+      "year": 1793,
+      "title": "3 Piano Trios, Op.32"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Preludes_and_Exercises,_Op.43_(Clementi,_Muzio)",
+      "year": 1811,
+      "title": "Preludes and Exercises, Op.43"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Selection_of_Practical_Harmony,_WO_7_(Clementi,_Muzio)",
+      "year": 1801,
+      "title": "Selection of Practical Harmony, WO 7"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Sonatas,_Op.2_(Clementi,_Muzio)",
+      "year": 1779,
+      "title": "6 Sonatas, Op.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Sonatas,_Op.4_(Clementi,_Muzio)",
+      "year": 1780,
+      "title": "6 Sonatas, Op.4"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Symphonies,_Op.18_(Clementi,_Muzio)",
+      "year": 1784,
+      "title": "2 Symphonies, Op.18"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Violin_Sonatas,_Op.15_(Clementi,_Muzio)",
+      "year": 1786,
+      "title": "3 Violin Sonatas, Op.15"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Selection_of_Practical_Harmony,_WO_7_(Clementi,_Muzio)",
+      "year": 1801,
+      "title": "Selection of Practical Harmony, WO 7"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Introduction_to_the_Art_of_Playing_the_Pianoforte,_Op.42_(Clementi,_Muzio)",
+      "year": 1801,
+      "title": "Introduction to the Art of Playing the Pianoforte, Op.42"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "full_name": "Aram Khachaturian",
+  "first_names": "Aram",
+  "last_name": "Khachaturian",
+  "birth_year": 1903,
+  "death_year": 1978,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Aram_Khachaturian",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Aram Khachaturian made his grand entrance into the world on a sunny day in Kojori or Tiflis, depending on who you ask. Growing up among a cacophony of vibrant cultures, it's no wonder he was destined to become a musical genius!",
+      "year": 1903,
+      "city": "Tiflis",
+      "country": "Georgia"
+    },
+    {
+      "event": "Move to Moscow",
+      "summary": "At the age of 18, Khachaturian packed his bags and moved to Moscow. He must have thought it was time to trade the Tbilisi sunshine for some serious musical education\u2014or maybe just to see if he could survive the winters!",
+      "year": 1921,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Enrollment at Gnessin Musical Institute",
+      "summary": "With ambition fueling his journey, Khachaturian enrolled at the Gnessin Musical Institute. Who knew that a man with no formal training would soon be crafting music that made folks dance all over the world!",
+      "year": 1922,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Graduation and First Major Work",
+      "summary": "In a classic 'rags to symphonies' story, Khachaturian graduated and immediately composed the Piano Concerto, which turned out to be a hit. It was like receiving a golden ticket to the musical elite!",
+      "year": 1936,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "First Ballet - Gayane",
+      "summary": "Khachaturian's first ballet, Gayane, took flight amid the chaos of World War II, proving that nothing stops a true artist\u2014or a catchy tune! The ballet was a smash hit, and its Sabre Dance became an international sensation.",
+      "year": 1942,
+      "city": "Perm",
+      "country": "Russia"
+    },
+    {
+      "event": "Denunciation by the Communist Party",
+      "summary": "In a spectacular twist, Khachaturian found himself on the wrong side of the Soviet music elite when he was denounced as a 'formalist'. It\u2019s hard to take it to heart when you're busy composing melodies that even the Party can't ignore!",
+      "year": 1948,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Becoming a Professor",
+      "summary": "Khachaturian took the plunge into education, teaching at his old stomping grounds. Who better to pass on the torch of Armenian folk music than the man who lit the spark!",
+      "year": 1950,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Completion of Spartacus",
+      "summary": "As his last major work, Spartacus showed Khachaturian still had plenty of fight left. It was a swan song filled with power and emotion, proving that even a seasoned composer could still leave audiences on the edge of their seats!",
+      "year": 1954,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Death",
+      "summary": "Khachaturian left the world on a somber note, but his music remains. It's a bittersweet farewell, knowing that the notes he composed will continue to resonate long after he's gone, leaving a legacy that is hard to top!",
+      "year": 1978,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "People's Artist Award",
+      "summary": "In a moment that surely inspired a few 'thumbs up' around town, Khachaturian was bestowed the title of People's Artist of the Soviet Union, making him the unofficial musical superhero of the people, cape not included.",
+      "year": 1954,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Artistic Turn to Conducting and Teaching",
+      "summary": "Khachaturian decided that composing was so last decade and pivoted towards conducting and teaching, proving that sharing knowledge can be just as rewarding as creating it (with potentially fewer late nights).",
+      "year": 1950,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "U.S. Tour and NSO Performance",
+      "summary": "Khachaturian hitched a ride across the pond for a whirlwind tour of the U.S., where he graced the National Symphony Orchestra with his conducting skills and infused his melodies into seven cities, leaving listeners wondering why they didn't receive a follow-up concert sooner.",
+      "year": 1968,
+      "city": "Washington, D.C.",
+      "country": "USA"
+    },
+    {
+      "event": "Secretary of the Composers Union",
+      "summary": "Taking a break from the spotlight of composing, Khachaturian jumped back into the role of Secretary of the Composers Union, proving that behind every great composer, there\u2019s an even greater bureaucracy to engage with.",
+      "year": 1957,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Film Score Award",
+      "summary": "In a cherry-on-top moment, Khachaturian snagged the Stalin Prize for his epic score of The Battle of Stalingrad, a triumphant notch in his belt reminding everyone that sometimes hard work gets you the gold, or in this case, the Stalin Prize!",
+      "year": 1950,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Influence of Armenian Folk Music",
+      "summary": "Throughout his life, Khachaturian couldn't resist the charms of Armenian folk music, weaving its delightful chaos into his compositions like a chef blending spices\u2014he really knew how to cook up a rhapsodic feast!",
+      "year": 1930,
+      "city": "Unknown",
+      "country": "Armenia"
+    },
+    {
+      "event": "World Renown",
+      "summary": "He skyrocketed to fame as the first Armenian composer to gain worldwide recognition, proving that even in a sea of musical giants, a little Armenian spice could steal the show!",
+      "year": 1940,
+      "city": "Unknown",
+      "country": "Unknown"
+    },
+    {
+      "event": "Contribution to Soviet Arts",
+      "summary": "Khachaturian became a key player in the Soviet arts scene, merging the vibrant folk traditions of Armenia with Russian classical music, like mixing chocolate and peanut butter to create a whole new taste experience\u2014deliciously artistic!",
+      "year": 1950,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Creation of 'Gayane'",
+      "summary": "He brought the world the exuberant ballet 'Gayane', featuring the iconic 'Sabre Dance', which is essentially the musical equivalent of a caffeine-fueled dance-off\u2014ballet's got nothing on that energy!",
+      "year": 1957,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Composing 'Spartacus'",
+      "summary": "In a fit of inspiration, he composed the ballet 'Spartacus', a sweeping tale of love and betrayal that had dancers leaping like they just saw someone with a chocolate cake\u2014it's a real crowd-pleaser!",
+      "year": 1954,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "First Composition",
+      "summary": "In a delightful burst of creativity, young Aram penned his first composition, possibly challenging the laws of music or at least making a few early family members question their own taste. This marked the beginning of a prolific career that would enrapture many.",
+      "year": 1921,
+      "city": "Tbilisi",
+      "country": "Georgia"
+    },
+    {
+      "event": "Graduation from Conservatory",
+      "summary": "After toiling through music theory and long hours of practice (and probably a few late-night snacks), Aram graduated from the Tbilisi State Conservatory. Little did they know, he was ready to shake the music world!",
+      "year": 1929,
+      "city": "Tbilisi",
+      "country": "Georgia"
+    },
+    {
+      "event": "Rise to Fame",
+      "summary": "Following his graduation, Aram began to attract attention with his unique musical style. His works soon made their way into the repertoire of orchestras, much to the delight of audiences who were no longer content with just a piano at parties.",
+      "year": 1930,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "International Recognition",
+      "summary": "Aram\u2019s compositions garnered international acclaim, taking him from local hero to global sensation. He was like the pizza at a party nobody could resist\u2014everyone wanted a slice of his genius.",
+      "year": 1940,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Composition of 'Gayaneh'",
+      "summary": "'Gayaneh' premiered, and with it, the famous Sabre Dance caused more than just a few toes to tap and heads to bob. This ballet score solidified his status, making him a household name and perhaps sparking some very competitive dance-offs.",
+      "year": 1942,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Conductor Debut",
+      "summary": "Aram made his conducting debut, proving that he could not only compose but also lead an orchestra with flair. He probably twirled his baton with the same charm as a chef tossing a pizza dough.",
+      "year": 1968,
+      "city": "Washington D.C.",
+      "country": "USA"
+    },
+    {
+      "event": "International Competitions",
+      "summary": "The establishment of the Aram Khachaturian International Competition went underway, ensuring his legacy would inspire future generations of musicians, who would later undoubtedly thank him for their own competitive stress.",
+      "year": 1970,
+      "city": "Yerevan",
+      "country": "Armenia"
+    },
+    {
+      "event": "Early Musical Education",
+      "summary": "Young Aram dived into the world of music like a kid in a candy store! He studied at the Tiflis Music School and later went on to hone his skills at the Moscow Conservatory, learning from the best while keeping his eye on the prize\u2014musical immortality.",
+      "year": 1921,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "First Major Composition - Piano Concerto",
+      "summary": "He whipped up his Piano Concerto in D-flat major, which was like the musical equivalent of a strong coffee\u2014bold and invigorating! This piece quickly shot him to fame and confirmed that he was not just another aspiring composer.",
+      "year": 1936,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Creation of Sabre Dance",
+      "summary": "Khachaturian conjured up the unforgettable 'Sabre Dance' during the ballet 'Gayane.' This piece became a spontaneous hit, leaving dancers and audiences alike feeling like they were in the midst of an epic sword fight\u2014who knew classical music could get so thrilling?",
+      "year": 1942,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "World Recognition",
+      "summary": "Aram became an international sensation! His compositions were performed around the globe, making people rethink what classical music was all about. Even the stiff-upper-lip critics couldn't help tapping their feet!",
+      "year": 1950,
+      "city": "Various",
+      "country": "Various"
+    },
+    {
+      "event": "Cultural Ambassador",
+      "summary": "He embraced his role as a cultural ambassador for Soviet Armenia! Making music that not only entertained but also uplifted the identity of his homeland. It was like he turned the concert hall into a national pride event, complete with virtual balloons.",
+      "year": 1970,
+      "city": "Yerevan",
+      "country": "Armenia"
+    },
+    {
+      "event": "Passing Away",
+      "summary": "Aram Khachaturian left the building for his final bow, leaving behind a legacy that would inspire countless future composers. They say he took his music with him, but in reality, it\u2019s playing on repeat in every concert hall today.",
+      "year": 1978,
+      "city": "Moscow",
+      "country": "Russia"
+    }
+  ],
+  "compositions": []
+}

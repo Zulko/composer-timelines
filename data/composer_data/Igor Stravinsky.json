@@ -1,0 +1,881 @@
+{
+  "full_name": "Igor Stravinsky",
+  "first_names": "Igor",
+  "last_name": "Stravinsky",
+  "birth_year": 1882,
+  "death_year": 1971,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Igor_Stravinsky",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Igor Stravinsky made his grand entrance into the world in Oranienbaum, turning into a musical genius with a bit of a dramatic flair since day one. His family tree had branches straight from Polish nobility, ensuring he wouldn't just play in the kiddie leagues of music. Instead, he would soon be orchestrating his destiny, quite literally!",
+      "year": 1882,
+      "city": "Oranienbaum",
+      "country": "Russia"
+    },
+    {
+      "event": "Meeting Rimsky-Korsakov",
+      "summary": "Stravinsky's life took a major turn when he crossed paths with the legendary composer Nikolai Rimsky-Korsakov. It was like finding the magical key to a treasure trove of musical secrets, leading him from law books to learning the ropes of legendary composition!",
+      "year": 1902,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "First Public Performance",
+      "summary": "In a triumph befitting a future superstar, Stravinsky had his first major piece, the Piano Sonata in F-sharp minor, performed publicly. It was the musical equivalent of his first selfie \u2013 everyone was witnessing the birth of a talent!",
+      "year": 1905,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "Marriage to Yekaterina Stravinsky",
+      "summary": "Stravinsky tied the knot with his cousin Yekaterina in a low-key ceremony that could only be described as a family affair gone right. They were practically soulmates preparing to create a love story worthy of its own composition!",
+      "year": 1906,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "Death of Rimsky-Korsakov",
+      "summary": "In a twist of fate that felt more like a dramatic opera than real life, Stravinsky faced the sorrow of losing Rimsky-Korsakov, his mentor and guiding star. It pushed him into a creative well, turning his grief into an elegy that was deemed one of his best pieces ever!",
+      "year": 1908,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "The Firebird Premiere",
+      "summary": "This was it\u2014the moment Stravinsky leaped into the limelight with The Firebird. The premiere was so thrilling it could have set a treasure chest on fire with excitement, strutting its way into the hearts of audiences and critics alike!",
+      "year": 1910,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "The Rite of Spring Premiere",
+      "summary": "Fasten your seatbelts! Stravinsky unleashed The Rite of Spring upon the world, which caused quite a ruckus\u2014it took the term 'dance like nobody's watching' to a whole new level. The audience\u2019s reaction could only be described as glorious chaos, a riot of artistic expression!",
+      "year": 1913,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Change to Neoclassical Style",
+      "summary": "Stravinsky underwent a chic makeover, switching from the extravagant lines of Russian folklore to embracing a neoclassical style\u2014a musical version of changing from sweatpants to a suit for a big dinner date. It was all about the classy vibes after all!",
+      "year": 1920,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Naturalization as French Citizen",
+      "summary": "Stravinsky decided it was time to make things official and swapped his Russian citizenship for a French one, after getting a taste of the Parisian lifestyle. Croissants and concertos became his new staple, and art was here to stay!",
+      "year": 1934,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Immigration to the USA",
+      "summary": "The composer took his talents across the pond and set up camp in the United States, proving that not even oceans could stop the rhythms of his genius. He was ready to jazz things up in a new land and make a whole new audience swoon!",
+      "year": 1945,
+      "city": "Los Angeles",
+      "country": "USA"
+    },
+    {
+      "event": "Final Composition",
+      "summary": "Stravinsky wrapped up his musical adventures with the Requiem Canticles, a true chef-d\u2019oeuvre to tuck away before his departure from the symphonic stage. It was like signing off on a perfect encore, leaving fans wanting more!",
+      "year": 1966,
+      "city": "New York City",
+      "country": "USA"
+    },
+    {
+      "event": "Premiere of Petrushka",
+      "summary": "Stravinsky's ballet, originally a concert piece, debuted in Paris and dynamically showcased his ability to fuse melody with innovative orchestration, making audiences feel like they were experiencing the evolution of puppetry right before their eyes.",
+      "year": 1911,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Premiere of The Rite of Spring",
+      "summary": "In a groundbreaking event that sent shockwaves through audiences, Stravinsky's avant-garde ballet showcased pagan rituals and saw a staggering mix of odd rhythms and a radical choreography that led to a near-riot. Who knew a dance about a girl waltzing to her doom could cause such a ruckus?",
+      "year": 1913,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Completion of The Nightingale",
+      "summary": "After battling typhoid fever and family health issues, Stravinsky managed to finish his opera, proving that even while recovering in a hospital, creativity can flow. However, it turned out the opera world was more interested in well-behaved nights than nightingales.",
+      "year": 1914,
+      "city": "Ustilug",
+      "country": "Poland"
+    },
+    {
+      "event": "World War I Outbreak",
+      "summary": "With the onset of war, Stravinsky's family found themselves hiding away in Switzerland, where he turned to folk poetry and libretto preparations, perhaps pondering if chaos could indeed be musically orchestrated.",
+      "year": 1914,
+      "city": "Morges",
+      "country": "Switzerland"
+    },
+    {
+      "event": "Premiere of L'Histoire du soldat",
+      "summary": "Stravinsky's collaborative theatrical work highlighted a small cast and easy travel, although a nasty flu came calling and canceled performances faster than one could say 'music to my ears'!",
+      "year": 1918,
+      "city": "Morges",
+      "country": "Switzerland"
+    },
+    {
+      "event": "Shift to Neoclassicism",
+      "summary": "Following the Great War, Stravinsky redefined his music, creating early neoclassical compositions such as the Symphonies of Wind Instruments, proving his ability to change his tune while still keeping everyone tapping their feet!",
+      "year": 1920,
+      "city": "Carantec",
+      "country": "France"
+    },
+    {
+      "event": "Naturalization as a French Citizen",
+      "summary": "Stravinsky's acceptance into French citizenship came not just with a fancy new passport, but also allowed him to protect his future works and perhaps celebrate with a glass of good French wine!",
+      "year": 1934,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Publication of Autobiography",
+      "summary": "Stravinsky's journey was so riveting that he decided to pen his experiences, resulting in a two-volume work that took readers through his life as if riding a roller coaster of music, love, and the occasional bout with critics.",
+      "year": 1935,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Move to the United States",
+      "summary": "Stravinsky decided to escape the increasing hostility in Europe and opted for a change of scenery in the U.S. This move proved to be both a cultural shock and a whirlwind adventure as he navigated American life, joining the elite club of European artists who finally got to enjoy Hollywood parties.",
+      "year": 1939,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Lecture series at Harvard",
+      "summary": "While he was hoping to deliver some enlightening insights about music, Stravinsky found that his talks, assisted by his friends, turned out to be a delightful mix of high-brow discussions and a dash of cultural confusion, which later transformed into the published work 'Po\u00e9tique musicale'.",
+      "year": 1940,
+      "city": "Cambridge",
+      "country": "USA"
+    },
+    {
+      "event": "Marriage to de Bosset",
+      "summary": "After a whirlwind romance and a shared struggle with English, Stravinsky tied the knot with de Bosset, making them an unbeatable duo of charming accents and cultural exchanges in their new American lives.",
+      "year": 1940,
+      "city": "Bedford",
+      "country": "USA"
+    },
+    {
+      "event": "Becoming an American citizen",
+      "summary": "Finally making it official, Stravinsky traded in his Russian passport for American citizenship, marking a moment where he could officially claim to be a 'citizen of both classical and contemporary music' as he signed a contract with a British publishing house at the same time, because why not?",
+      "year": 1945,
+      "city": "USA",
+      "country": "USA"
+    },
+    {
+      "event": "The creation of 'The Rake's Progress'",
+      "summary": "Stravinsky embarked on a comedic journey of writing an English-language opera based on Hogarth's paintings. He might have thought he was done with drama after creating ballets, but 'The Rake's Progress' turned out to be one wild ride through 18th-century mischief!",
+      "year": 1951,
+      "city": "USA",
+      "country": "USA"
+    },
+    {
+      "event": "Return to Russia",
+      "summary": "In a spectacular twist of fate, Stravinsky journeyed back to his homeland for the first time since the revolution, conducting performances that could not have been more anticipated \u2013 considering they had his music on hold like a forgotten song!",
+      "year": 1962,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Meeting JFK",
+      "summary": "Celebrating his 80th birthday with a bizarre White House dinner hosted by JFK, Stravinsky found himself in the midst of political theatrics that disguised themselves as cultural appreciation. He went home to write elegies instead of just blowing out candles!",
+      "year": 1962,
+      "city": "Washington, D.C.",
+      "country": "USA"
+    },
+    {
+      "event": "Final major composition",
+      "summary": "Stravinsky reached towards the heavens by composing 'Requiem Canticles', his final piece that was not just a farewell to music but a grand orchestral hug to all the tones and rhythms he'd crafted throughout his legendary career.",
+      "year": 1966,
+      "city": "USA",
+      "country": "USA"
+    },
+    {
+      "event": "Death",
+      "summary": "The maestro departed from this world at the age of 88, leaving behind a symphony of memories and a legacy that would continue to orchestrate the hearts of future generation. His last residence was marked by an eclectic mix of poignant musings and opera-filled days!",
+      "year": 1971,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "First International Success",
+      "summary": "Stravinsky made waves in the music world when his ballet 'The Firebird' premiered, leaving audiences in awe and prompting many to ask, 'Who stole the show?'. This marked the beginning of his journey as a significant composer, where he effectively said, 'Hold my score while I revolutionize ballet.'",
+      "year": 1910,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "The Rite of Spring Controversy",
+      "summary": "The premiere of 'The Rite of Spring' caused a riot. Yes, a literal riot! Stravinsky's radical rhythms and dissonance shocked the audience to such an extent that some thought they had accidentally walked into a rock concert. This piece not only redefined music but also taught everyone about the power of a dramatic entrance.",
+      "year": 1913,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "L'Histoire du soldat",
+      "summary": "In collaboration with author Charles F. Ramuz, Stravinsky brought forth 'L'Histoire du soldat', a unique blend of storytelling and performance that made audiences think, 'Wait, were we just sold on a story?' Musically, it was as if Stravinsky said, 'Why not mix a little tango with folktales?' and the result was magical.",
+      "year": 1918,
+      "city": "Lausanne",
+      "country": "Switzerland"
+    },
+    {
+      "event": "Neoclassical Period Starts",
+      "summary": "Stravinsky began his neoclassical period with 'Pulcinella', a ballet that cleverly winked at 18th-century music while tapping its foot to modern rhythms. This transition was like Stravinsky wearing a powdered wig while simultaneously breaking into a jazz step!",
+      "year": 1920,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "The Rake's Progress Premiere",
+      "summary": "With the opera 'The Rake's Progress', Stravinsky showcased his mastery of combining various musical styles, prompting critics to marvel at how he could mix the old and the new as if he was the ultimate DJ at a musical soir\u00e9e. This work cemented his neoclassical legacy and made attendees ponder: 'Is he a composer or a magician?'",
+      "year": 1951,
+      "city": "Venice",
+      "country": "Italy"
+    },
+    {
+      "event": "Adopting Serialism",
+      "summary": "In the 1950s, Stravinsky embraced serial techniques, reinventing his style yet again and leaving some critics to say, 'Is he trying to make music even more mysterious?' His compositions during this period had listeners searching for clues like they were in a musical escape room.",
+      "year": 1954,
+      "city": "Los Angeles",
+      "country": "United States"
+    },
+    {
+      "event": "First Grammy Awards",
+      "summary": "Stravinsky laughed his way to five Grammy Awards, proving that his music was worth more than the price of admission at a circus.",
+      "year": 1960,
+      "city": "Los Angeles",
+      "country": "USA"
+    },
+    {
+      "event": "First Documentary Feature",
+      "summary": "A Conversation with Igor Stravinsky was released, giving the public their first glimpse of the man behind the music, and also a good dose of why he occasionally avoided crowds.",
+      "year": 1957,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "His Last Major Work",
+      "summary": "Stravinsky completed his final major work, crowns him as the king of unfinished symphonies since he left several others dangling like a soap opera cliffhanger.",
+      "year": 1966,
+      "city": "Los Angeles",
+      "country": "USA"
+    },
+    {
+      "event": "Moving to the United States",
+      "summary": "Stravinsky moved to the US, where he found new inspirations and, ironically, the freedom to be as unfashionably fashionable as ever.",
+      "year": 1939,
+      "city": "Los Angeles",
+      "country": "USA"
+    },
+    {
+      "event": "First Composition",
+      "summary": "At a young age, he decided to dabble in composing, probably thinking, 'Hey, this music thing seems fun!' His first composition hinted at his genius and his future ability to make instruments sound like they were having a party.",
+      "year": 1903,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "The Firebird",
+      "summary": "'The Firebird' premiered to astonishment. People didn't know whether to dance or to simply sit in awe\u2014so they did both. Stravinsky stepped onto the stage like a rockstar on their first tour, and the audience raved.",
+      "year": 1910,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Rite of Spring Premiere",
+      "summary": "The premiere of 'The Rite of Spring' was so shocking that it almost caused a riot. Imagine a mosh pit at a symphony, and you\u2019ve got the right idea. Stravinsky had officially shifted the musical landscape and piqued everyone's interest.",
+      "year": 1913,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Exile in Switzerland",
+      "summary": "With a world war brewing, Stravinsky found himself in Switzerland, possibly wondering if he had left his oven on back home. There, he crafted some of his most vivid works, proving you don't need a fancy kitchen to cook up genius.",
+      "year": 1914,
+      "city": "Lausanne",
+      "country": "Switzerland"
+    },
+    {
+      "event": "Neo-Classical Period",
+      "summary": "Stravinsky embraced neo-classicism, where he mixed the old with the new, like making a classic dish but adding chili powder for a kick. His styles evolved, surprising audiences and their ears, Rewind or fast forward, it still sounds good!",
+      "year": 1920,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Move to America",
+      "summary": "Stravinsky moved to America, thinking, 'If I can't escape war, I might as well play my music in style!' He quickly made a splash, proving that the American dream included a symphony\u2014or was it just a little jazz on the side?",
+      "year": 1939,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Final Years",
+      "summary": "In his later years, Stravinsky continued to compose and surprise the world. Like a fine wine, he got better as he aged. His final works left everyone wondering 'What will he think of next?'\u2014This was the ultimate cliffhanger!",
+      "year": 1971,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Neoclassical Period Begins",
+      "summary": "Stravinsky took a deep dive into the world of Neoclassicism, inviting past musical styles for a dance-off. It was like throwing a retro party where Bach and Mozart were the main guests and they all enjoyed a good laugh at the old ways!",
+      "year": 1920,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Composition of Symphony in C",
+      "summary": "Crafting the Symphony in C, Stravinsky played a musical game of hide and seek with harmony, keeping listeners on their toes or maybe their seats, figured out where he hid all those intriguing themes.",
+      "year": 1940,
+      "city": "Los Angeles",
+      "country": "United States"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/Abraham_and_Isaac,_K101_(Stravinsky,_Igor)",
+      "year": 1962,
+      "title": "Abraham and Isaac, K101"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Agon,_K088_(Stravinsky,_Igor)",
+      "year": 1954,
+      "title": "Agon, K088"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Anthem,_K096_(Stravinsky,_Igor)",
+      "year": 1962,
+      "title": "Anthem, K096"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Apollon_musag%C3%A8te,_K048_(Stravinsky,_Igor)",
+      "year": 1927,
+      "title": "Apollon musag\u00e8te, K048"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ave_Maria,_K057_(Stravinsky,_Igor)",
+      "year": 1934,
+      "title": "Ave Maria, K057"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Babel,_K068_(Stravinsky,_Igor)",
+      "year": 1944,
+      "title": "Babel, K068"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_baiser_de_la_f%C3%A9e,_K049_(Stravinsky,_Igor)",
+      "year": 1928,
+      "title": "Le baiser de la f\u00e9e, K049"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Berceuses_du_chat,_K022_(Stravinsky,_Igor)",
+      "year": 1915,
+      "title": "Berceuses du chat, K022"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_on_a_Popular_Russian_Tune,_K105_(Stravinsky,_Igor)",
+      "year": 1965,
+      "title": "Canon on a Popular Russian Tune, K105"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cantata,_K079_(Stravinsky,_Igor)",
+      "year": 1951,
+      "title": "Cantata, K079"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canticum_sacrum,_K086_(Stravinsky,_Igor)",
+      "year": 1955,
+      "title": "Canticum sacrum, K086"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Capriccio,_K050_(Stravinsky,_Igor)",
+      "year": 1928,
+      "title": "Capriccio, K050"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chant_des_bateliers_du_Volga,_KN15_(Stravinsky,_Igor)",
+      "year": 1917,
+      "title": "Chant des bateliers du Volga, KN15"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_chant_du_rossignol,_K026_(Stravinsky,_Igor)",
+      "year": 1917,
+      "title": "Le chant du rossignol, K026"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chant_fun%C3%A8bre,_K008_(Stravinsky,_Igor)",
+      "year": 1908,
+      "title": "Chant fun\u00e8bre, K008"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Choral-Variationen,_K087_(Stravinsky,_Igor)",
+      "year": 1955,
+      "title": "Choral-Variationen, K087"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_cinq_doigts,_K037_(Stravinsky,_Igor)",
+      "year": 1921,
+      "title": "Les cinq doigts, K037"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Circus_Polka,_K064_(Stravinsky,_Igor)",
+      "year": 1942,
+      "title": "Circus Polka, K064"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concertino,_K035_(Stravinsky,_Igor)",
+      "year": 1920,
+      "title": "Concertino, K035"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_2_Pianos,_K058_(Stravinsky,_Igor)",
+      "year": 1932,
+      "title": "Concerto for 2 Pianos, K058"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_Piano_and_Wind_Instruments,_K042_(Stravinsky,_Igor)",
+      "year": 1923,
+      "title": "Concerto for Piano and Wind Instruments, K042"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_in_D_major,_K075_(Stravinsky,_Igor)",
+      "year": 1946,
+      "title": "Concerto in D major, K075"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_in_E-flat_major,_K060_(Stravinsky,_Igor)",
+      "year": 1937,
+      "title": "Concerto in E-flat major, K060"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Credo,_K055_(Stravinsky,_Igor)",
+      "year": 1932,
+      "title": "Credo, K055"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Danses_concertantes,_K063_(Stravinsky,_Igor)",
+      "year": 1940,
+      "title": "Danses concertantes, K063"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Double_Canon,_K092_(Stravinsky,_Igor)",
+      "year": 1959,
+      "title": "Double Canon, K092"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Duo_concertant,_K054_(Stravinsky,_Igor)",
+      "year": 1931,
+      "title": "Duo concertant, K054"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Easy_Pieces,_K021_(Stravinsky,_Igor)",
+      "year": 1915,
+      "title": "3 Easy Pieces, K021"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_Easy_Pieces,_K025_(Stravinsky,_Igor)",
+      "year": 1916,
+      "title": "5 Easy Pieces, K025"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ebony_Concerto,_K074_(Stravinsky,_Igor)",
+      "year": 1945,
+      "title": "Ebony Concerto, K074"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%89legie,_K072_(Stravinsky,_Igor)",
+      "year": 1944,
+      "title": "\u00c9legie, K072"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Epitaphium,_K090_(Stravinsky,_Igor)",
+      "year": 1959,
+      "title": "Epitaphium, K090"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Etudes_for_Orchestra,_K051_(Stravinsky,_Igor)",
+      "year": 1930,
+      "title": "4 Etudes for Orchestra, K051"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Etudes,_K009_(Stravinsky,_Igor)",
+      "year": 1908,
+      "title": "4 Etudes, K009"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fanfare_for_a_New_Theater,_K102_(Stravinsky,_Igor)",
+      "year": 1964,
+      "title": "Fanfare for a New Theater, K102"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Faun_and_the_Shepherdess,_K002_(Stravinsky,_Igor)",
+      "year": 1906,
+      "title": "The Faun and the Shepherdess, K002"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Firebird_(ballet),_K010_(Stravinsky,_Igor)",
+      "year": 1910,
+      "title": "The Firebird"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Firebird_(suite),_K010_(Stravinsky,_Igor)",
+      "year": 1911,
+      "title": "The Firebird"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fireworks,_K007_(Stravinsky,_Igor)",
+      "year": 1908,
+      "title": "Fireworks, K007"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Flood,_K098_(Stravinsky,_Igor)",
+      "year": 1961,
+      "title": "The Flood, K098"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Greeting_Prelude,_K085_(Stravinsky,_Igor)",
+      "year": 1955,
+      "title": "Greeting Prelude, K085"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Histoire_du_soldat,_K029_(Stravinsky,_Igor)",
+      "year": 1918,
+      "title": "Histoire du soldat, K029"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Histoires_pour_enfants,_K024_(Stravinsky,_Igor)",
+      "year": 1915,
+      "title": "3 Histoires pour enfants, K024"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/In_memoriam_Dylan_Thomas,_K084_(Stravinsky,_Igor)",
+      "year": 1954,
+      "title": "In memoriam Dylan Thomas, K084"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/8_Instrumental_Miniatures,_K037_(Stravinsky,_Igor)",
+      "year": 1962,
+      "title": "8 Instrumental Miniatures, K037"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Introitus,_K104_(Stravinsky,_Igor)",
+      "year": 1965,
+      "title": "Introitus, K104"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jeu_de_cartes,_K059_(Stravinsky,_Igor)",
+      "year": 1936,
+      "title": "Jeu de cartes, K059"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Little_Songs,_K017_(Stravinsky,_Igor)",
+      "year": 1913,
+      "title": "3 Little Songs, K017"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mass,_K077_(Stravinsky,_Igor)",
+      "year": 1944,
+      "title": "Mass, K077"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mavra,_K039_(Stravinsky,_Igor)",
+      "year": 1921,
+      "title": "Mavra, K039"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Monumentum_pro_Gesualdo_di_Venosa,_K094_(Stravinsky,_Igor)",
+      "year": 1960,
+      "title": "Monumentum pro Gesualdo di Venosa, K094"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Movements_for_Piano_and_Orchestra,_K091_(Stravinsky,_Igor)",
+      "year": 1958,
+      "title": "Movements for Piano and Orchestra, K091"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_noces,_K040_(Stravinsky,_Igor)",
+      "year": 1914,
+      "title": "Les noces, K040"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Norwegian_Moods,_K065_(Stravinsky,_Igor)",
+      "year": 1942,
+      "title": "4 Norwegian Moods, K065"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Octet,_K041_(Stravinsky,_Igor)",
+      "year": 1922,
+      "title": "Octet, K041"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ode,_K066_(Stravinsky,_Igor)",
+      "year": 1943,
+      "title": "Ode, K066"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Oedipus_Rex,_K047_(Stravinsky,_Igor)",
+      "year": 1926,
+      "title": "Oedipus Rex, K047"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Orpheus,_K076_(Stravinsky,_Igor)",
+      "year": 1946,
+      "title": "Orpheus, K076"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Owl_and_the_Pussy-Cat,_K107_(Stravinsky,_Igor)",
+      "year": 1966,
+      "title": "The Owl and the Pussy-Cat, K107"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pastorale,_K006_(Stravinsky,_Igor)",
+      "year": 1907,
+      "title": "Pastorale, K006"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pater_noster,_K046_(Stravinsky,_Igor)",
+      "year": 1926,
+      "title": "Pater noster, K046"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pers%C3%A9phone,_K056_(Stravinsky,_Igor)",
+      "year": 1933,
+      "title": "Pers\u00e9phone, K056"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Petrushka,_K012_(Stravinsky,_Igor)",
+      "year": 1910,
+      "title": "Petrushka, K012"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata,_K001_(Stravinsky,_Igor)",
+      "year": 1903,
+      "title": "Piano Sonata, K001"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata,_K043_(Stravinsky,_Igor)",
+      "year": 1924,
+      "title": "Piano Sonata, K043"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano-Rag-Music,_K032_(Stravinsky,_Igor)",
+      "year": 1919,
+      "title": "Piano-Rag-Music, K032"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Pieces_for_Clarinet_Solo,_K033_(Stravinsky,_Igor)",
+      "year": 1918,
+      "title": "3 Pieces for Clarinet Solo, K033"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Pieces_for_String_Quartet,_K019_(Stravinsky,_Igor)",
+      "year": 1914,
+      "title": "3 Pieces for String Quartet, K019"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Poems_by_Konstantin_Balmont,_K013_(Stravinsky,_Igor)",
+      "year": 1911,
+      "title": "2 Poems by Konstantin Balmont, K013"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Poems_by_Paul_Verlaine,_K011_(Stravinsky,_Igor)",
+      "year": 1910,
+      "title": "2 Poems by Paul Verlaine, K011"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Poems_to_Japanese_Lyrics,_K016_(Stravinsky,_Igor)",
+      "year": 1913,
+      "title": "3 Poems to Japanese Lyrics, K016"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pour_Pablo_Picasso_(Stravinsky,_Igor)",
+      "year": 1917,
+      "title": "Pour Pablo Picasso"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Praeludium_for_Jazz_Ensemble,_K082_(Stravinsky,_Igor)",
+      "year": 1936,
+      "title": "Praeludium for Jazz Ensemble, K082"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pribaoutki,_K020_(Stravinsky,_Igor)",
+      "year": 1914,
+      "title": "Pribaoutki, K020"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pulcinella_(ballet),_K034_(Stravinsky,_Igor)",
+      "year": 1920,
+      "title": "Pulcinella"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pulcinella_(suite),_K034_(Stravinsky,_Igor)",
+      "year": 1920,
+      "title": "Pulcinella"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ragtime,_K030_(Stravinsky,_Igor)",
+      "year": 1918,
+      "title": "Ragtime, K030"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Rake%27s_Progress,_K078_(Stravinsky,_Igor)",
+      "year": 1947,
+      "title": "The Rake's Progress, K078"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Renard,_K023_(Stravinsky,_Igor)",
+      "year": 1915,
+      "title": "Renard, K023"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Requiem_Canticles,_K106_(Stravinsky,_Igor)",
+      "year": 1965,
+      "title": "Requiem Canticles, K106"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Rite_of_Spring,_K015_(Stravinsky,_Igor)",
+      "year": 1910,
+      "title": "The Rite of Spring, K015"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_roi_des_%C3%A9toiles,_K014_(Stravinsky,_Igor)",
+      "year": 1911,
+      "title": "Le roi des \u00e9toiles, K014"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_rossignol,_K018_(Stravinsky,_Igor)",
+      "year": 1908,
+      "title": "Le rossignol, K018"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Russian_Peasant_Songs,_K028_(Stravinsky,_Igor)",
+      "year": 1914,
+      "title": "4 Russian Peasant Songs, K028"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Russian_Songs,_K031_(Stravinsky,_Igor)",
+      "year": 1919,
+      "title": "4 Russian Songs, K031"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Russian_Songs,_K083_(Stravinsky,_Igor)",
+      "year": 1953,
+      "title": "4 Russian Songs, K083"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sc%C3%A8nes_de_ballet,_K069_(Stravinsky,_Igor)",
+      "year": 1944,
+      "title": "Sc\u00e8nes de ballet, K069"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Scherzo_%C3%A0_la_russe,_K070_(Stravinsky,_Igor)",
+      "year": 1943,
+      "title": "Scherzo \u00e0 la russe, K070"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Scherzo_fantastique,_K005_(Stravinsky,_Igor)",
+      "year": 1907,
+      "title": "Scherzo fantastique, K005"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Septet,_K080_(Stravinsky,_Igor)",
+      "year": 1952,
+      "title": "Septet, K080"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Serenade_in_A,_K044_(Stravinsky,_Igor)",
+      "year": 1925,
+      "title": "Serenade in A, K044"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/A_Sermon,_a_Narrative_and_a_Prayer,_K095_(Stravinsky,_Igor)",
+      "year": 1960,
+      "title": "A Sermon, a Narrative and a Prayer, K095"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sonata_for_2_Pianos,_K067_(Stravinsky,_Igor)",
+      "year": 1943,
+      "title": "Sonata for 2 Pianos, K067"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Songs_from_William_Shakespeare,_K081_(Stravinsky,_Igor)",
+      "year": 1953,
+      "title": "3 Songs from William Shakespeare, K081"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Songs,_K004_(Stravinsky,_Igor)",
+      "year": 1907,
+      "title": "2 Songs, K004"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Souvenir_d%27une_marche_boche,_KN14_(Stravinsky,_Igor)",
+      "year": 1916,
+      "title": "Souvenir d'une marche boche, KN14"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Suite_No.1,_K045_(Stravinsky,_Igor)",
+      "year": 1917,
+      "title": "Suite No.1, K045"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Suite_No.2,_K038_(Stravinsky,_Igor)",
+      "year": 1921,
+      "title": "Suite No.2, K038"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphonies_of_Wind_Instruments,_K036_(Stravinsky,_Igor)",
+      "year": 1920,
+      "title": "Symphonies of Wind Instruments, K036"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_3_Movements,_K073_(Stravinsky,_Igor)",
+      "year": 1942,
+      "title": "Symphony in 3 Movements, K073"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_C_major,_K061_(Stravinsky,_Igor)",
+      "year": 1938,
+      "title": "Symphony in C major, K061"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_E-flat_major,_K003_(Stravinsky,_Igor)",
+      "year": 1905,
+      "title": "Symphony in E-flat major, K003"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_of_Psalms,_K052_(Stravinsky,_Igor)",
+      "year": 1930,
+      "title": "Symphony of Psalms, K052"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Tango,_K062_(Stravinsky,_Igor)",
+      "year": 1940,
+      "title": "Tango, K062"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Threni,_K089_(Stravinsky,_Igor)",
+      "year": 1957,
+      "title": "Threni, K089"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Valse_pour_les_enfants,_KN16_(Stravinsky,_Igor)",
+      "year": 1916,
+      "title": "Valse pour les enfants, KN16"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Variations,_K103_(Stravinsky,_Igor)",
+      "year": 1963,
+      "title": "Variations, K103"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto,_K053_(Stravinsky,_Igor)",
+      "year": 1931,
+      "title": "Violin Concerto, K053"
+    }
+  ]
+}

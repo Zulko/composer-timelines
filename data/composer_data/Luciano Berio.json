@@ -1,0 +1,137 @@
+{
+  "full_name": "Luciano Berio",
+  "first_names": "Luciano",
+  "last_name": "Berio",
+  "birth_year": 1925,
+  "death_year": 2003,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Luciano_Berio",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Luciano Berio popped into the world on October 24, 1925, in Oneglia, Italy. One could say he was destined for music right from the start, being born into a family with organist genes. Talk about hitting the genetic jackpot!",
+      "year": 1925,
+      "city": "Oneglia",
+      "country": "Italy"
+    },
+    {
+      "event": "Military Injury",
+      "summary": "During World War II, Berio had a rather unfortunate introduction to military life. On his very first day, he accidentally injured his hand while figuring out how a gun worked. They say curiosity killed the cat, but in this case, it just temporarily sidelined a future musical genius!",
+      "year": 1943,
+      "city": "Unknown",
+      "country": "Unknown"
+    },
+    {
+      "event": "First Public Performance",
+      "summary": "In 1947, Berio made his debut on the public stage with a piano suite. The world was now officially on notice: a new musical talent had arrived and it was time to take note, even if he wasn't allowed to continue playing the piano anytime soon!",
+      "year": 1947,
+      "city": "Milan",
+      "country": "Italy"
+    },
+    {
+      "event": "Marriage to Cathy Berberian",
+      "summary": "After graduating, Berio married renowned American mezzo-soprano Cathy Berberian. It was a musical match made in heaven\u2014although the composer probably didn\u2019t expect that their partnership would be more performance art than a Hollywood love story!",
+      "year": 1950,
+      "city": "Unknown",
+      "country": "Unknown"
+    },
+    {
+      "event": "Study in the United States",
+      "summary": "In 1952, Berio crossed the Atlantic to study with Luigi Dallapiccola at Tanglewood. His intellectual adventure blossomed, leading to serious fun with serialism, jump-starting his career in the succulent world of avant-garde music.",
+      "year": 1952,
+      "city": "Tanglewood",
+      "country": "United States"
+    },
+    {
+      "event": "Founded Studio di Fonologia",
+      "summary": "In 1955, Berio co-founded an electronic music studio in Milan with Bruno Maderna. They were the trendsetters of the 1950s sound! Who knew that manipulating tape could be so cool\u2014pre-YouTube DIY creators of the avant-garde!",
+      "year": 1955,
+      "city": "Milan",
+      "country": "Italy"
+    },
+    {
+      "event": "Composer in Residence",
+      "summary": "In 1960, Berio returned to Tanglewood, but this time, he was the guest of honor as Composer in Residence. It was his moment to shine\u2014kind of like a musical spotlight that wouldn't let him hide away!",
+      "year": 1960,
+      "city": "Tanglewood",
+      "country": "United States"
+    },
+    {
+      "event": "Teaching at Mills College",
+      "summary": "In 1962, Berio accepted a teaching position at Mills College. It must have been quite the experience having following his lectures: sharp wit and musical genius flowing freely in a creative melting pot!",
+      "year": 1962,
+      "city": "Oakland",
+      "country": "United States"
+    },
+    {
+      "event": "Prix Italia Award",
+      "summary": "In 1966, Berio snagged the prestigious Prix Italia for his work Laborintus II, elevating his street cred in the music world. It's like winning the musical lottery\u2014only this one came with serious artistic respect!",
+      "year": 1966,
+      "city": "Unknown",
+      "country": "Unknown"
+    },
+    {
+      "event": "Premiere of Sinfonia",
+      "summary": "Berio's notable Sinfonia premiered in 1968, mixing orchestra and voices in a collage of literary and musical quotations that had critics scratching their heads while simultaneously applauding. Who knew musical chaos could be so delightful!",
+      "year": 1968,
+      "city": "Unknown",
+      "country": "Unknown"
+    },
+    {
+      "event": "Director of IRCAM",
+      "summary": "From 1974 to 1980, Berio took charge of the electro-acoustic division at IRCAM in Paris. Now that sounds fancy! It was the ultimate playground for sonic experiments where Berio was the ringmaster of musical wizardry!",
+      "year": 1974,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Foundation of Tempo Reale",
+      "summary": "In 1987, Berio established Tempo Reale in Florence, a center for musical research and production. It was as if he decided to set up his own musical laboratory, welcoming all the mad scientists of sound to come play!",
+      "year": 1987,
+      "city": "Florence",
+      "country": "Italy"
+    },
+    {
+      "event": "Honorary Membership of the Royal Academy of Music",
+      "summary": "In 1988, Berio was made an Honorary Member of the Royal Academy of Music in London. A membership no one can refuse; it\u2019s like being given a golden ticket to the elite club of musical geniuses!",
+      "year": 1988,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Distinguished Composer in Residence at Harvard",
+      "summary": "From 1994 to 2000, Berio was a Distinguished Composer in Residence at Harvard University. It must have been quite the scholarly affair, mixing academia with madcap creativity on a historical campus!",
+      "year": 1994,
+      "city": "Cambridge",
+      "country": "United States"
+    },
+    {
+      "event": "First Major Work",
+      "summary": "Berio composed his first significant piece, launching his career and giving rise to a style that would have critics either applauding or asking, 'What was he thinking?'",
+      "year": 1951,
+      "city": "Milan",
+      "country": "Italy"
+    },
+    {
+      "event": "Collaboration with Berberian",
+      "summary": "This partnership blossomed into a series of remarkable pieces where vocal and instrumental experimentation became the talk of the town\u2014usually followed by perplexed shrugs.",
+      "year": 1960,
+      "city": "Milan",
+      "country": "Italy"
+    },
+    {
+      "event": "Creation of 'Sinfonia'",
+      "summary": "'Sinfonia' was composed as the crown jewel of his career, an explosive concoction of sound that had audiences wondering if they'd lost the plot or just found a new one.",
+      "year": 1968,
+      "city": "Milan",
+      "country": "Italy"
+    },
+    {
+      "event": "Knight Grand Cross",
+      "summary": "Berio was honored with the title of Knight Grand Cross of the Order of Merit of the Italian Republic, proving that his music was not only groundbreaking but also knight-ly approved.",
+      "year": 1994,
+      "city": "Rome",
+      "country": "Italy"
+    }
+  ],
+  "compositions": []
+}

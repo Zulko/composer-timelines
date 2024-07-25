@@ -1,0 +1,53 @@
+{
+  "full_name": "Frank Martin",
+  "first_names": "Frank",
+  "last_name": "Martin",
+  "birth_year": 1890,
+  "death_year": 1974,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Frank_Martin",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Frank Martin arrived on the scene in a Swiss town that must have been very quiet until he started composing. It's said that the stork who delivered him got quite the fright when he heard the maestro's first cries, as they were already musical.",
+      "year": 1890,
+      "city": " Z\u00fcrich",
+      "country": "Switzerland"
+    },
+    {
+      "event": "First Composition",
+      "summary": "At a tender age, Frank decided he wasn't just going to play music; he would also write it. His first composition likely made the local chickens squawk in tune, setting the stage for a career that would surely ruffle some feathers in the classical world.",
+      "year": 1908,
+      "city": "Z\u00fcrich",
+      "country": "Switzerland"
+    },
+    {
+      "event": "International Recognition",
+      "summary": "The world finally caught wind of Frank Martin's genius! Various music festivals started scrambling to include his works, and you could say he suddenly became the hottest ticket in town, surpassing even local celebrity cheese makers.",
+      "year": 1930,
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    {
+      "event": "Major Works Written",
+      "summary": "During a flurry of creativity, Frank penned some of his most important pieces. Rumor has it he even locked himself in a room filled with snacks for inspiration - because who doesn't compose better with a plate of cheese?",
+      "year": 1940,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Later Career and Teaching",
+      "summary": "In his later years, Frank turned to teaching, imparting his wisdom and possibly a few quirky stories to the next generation of musicians. You can picture him in class, delivering life lessons along with musical notes\u2014a real double threat!",
+      "year": 1955,
+      "city": "Geneva",
+      "country": "Switzerland"
+    },
+    {
+      "event": "Death",
+      "summary": "Frank Martin bid adieu to the worldly stage, leaving behind a legacy of stunning music. The heavens likely heard echoes of his compositions as he settled in for an eternal encore, confusing musicians up there who kept checking their watches for the next movement.",
+      "year": 1974,
+      "city": "Montr\u00e9al",
+      "country": "Canada"
+    }
+  ],
+  "compositions": []
+}

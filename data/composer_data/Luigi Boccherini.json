@@ -1,0 +1,74 @@
+{
+  "full_name": "Luigi Boccherini",
+  "first_names": "Luigi",
+  "last_name": "Boccherini",
+  "birth_year": 1743,
+  "death_year": 1805,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Luigi_Boccherini",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Luigi Boccherini burst into the world as the third child in a musical family, ensuring that his family's jam sessions had a guaranteed cellist from day one!",
+      "year": 1743,
+      "city": "Lucca",
+      "country": "Italy"
+    },
+    {
+      "event": "First Music Lessons",
+      "summary": "At the tender age of five, Boccherini picked up his first lessons on the cello, likely providing his father with an eager student who asked 'Are we there yet?' for the entirety of the session.",
+      "year": 1748,
+      "city": "Lucca",
+      "country": "Italy"
+    },
+    {
+      "event": "Study in Rome",
+      "summary": "Sending his son off to Rome at thirteen, Boccherini's father surely thought he was off to be the next great musician, while Luigi was probably daydreaming of playing music with the squirrels in the park instead.",
+      "year": 1756,
+      "city": "Rome",
+      "country": "Italy"
+    },
+    {
+      "event": "Vienna Employment",
+      "summary": "Upon moving to Vienna, Boccherini and his father both became court musicians, ensuring they had front row seats to all the aristocratic drama while serenading them with sweet melodies.",
+      "year": 1757,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Move to Madrid",
+      "summary": "Embarking on an adventure to Madrid, Boccherini entered royal employment, ready to sprinkle his musical charm on the Spanish court, despite a king who wasn\u2019t shy about expressing his 'constructive criticism'.",
+      "year": 1768,
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    {
+      "event": "Dismissal from Royal Patronage",
+      "summary": "After an amusing miscommunication involving a trio passage, Boccherini doubled down - and got fired! Who knew royal feedback would lead to such an unexpected career pivot?",
+      "year": 1770,
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    {
+      "event": "Famous Compositions",
+      "summary": "In the picturesque mountains, with an occasional visit from the friendly neighborhood goat, Boccherini penned many of his famed works, creating music that was both splendid and possibly inspired by him yodeling at goats.",
+      "year": 1770,
+      "city": "Arenas de San Pedro",
+      "country": "Spain"
+    },
+    {
+      "event": "Later Patronage",
+      "summary": "While artistically wandering, Boccherini caught the eyes of fancy patrons including royalty and a Bonaparte. I suppose a French ambassador was a bit of a change from the usual Spanish fiesta vibes he was used to.",
+      "year": 1785,
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    {
+      "event": "Death",
+      "summary": "After a life filled with musical triumphs and a few too many dramatic exits from patronage, Boccherini finally took his final bow, leaving behind a legacy that had people humming his tunes long after he left the stage.",
+      "year": 1805,
+      "city": "Madrid",
+      "country": "Spain"
+    }
+  ],
+  "compositions": []
+}

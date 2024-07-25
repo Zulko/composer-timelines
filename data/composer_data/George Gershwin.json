@@ -1,0 +1,320 @@
+{
+  "full_name": "George Gershwin",
+  "first_names": "George",
+  "last_name": "Gershwin",
+  "birth_year": 1898,
+  "death_year": 1937,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/George_Gershwin",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "George Gershwin was born Jacob Gershwine in New York City, a bustling place filled with future musicians, artists, and enough street noise to inspire a symphony. His parents probably never saw it coming, but they ended up with a son who would redefine American music without a middle name, or any idea how to play the piano at the time!",
+      "year": 1898,
+      "city": "New York City",
+      "country": "U.S."
+    },
+    {
+      "event": "First Song Published",
+      "summary": "In 1916, at the tender age of 17, Gershwin's first song was published! Titled, 'When You Want 'Em, You Can't Get 'Em, When You've Got 'Em, You Don't Want 'Em', it earned him a whopping 50 cents. Talk about a mixed message! But hey, it was better than his allowance!",
+      "year": 1916,
+      "city": "New York City",
+      "country": "U.S."
+    },
+    {
+      "event": "Rhapsody in Blue Premiere",
+      "summary": "Gershwin's iconic work, 'Rhapsody in Blue', premiered and revolutionized music by blending jazz and classical like a smoothie of sound. It was the moment Gershwin said, 'Why should we stick to one genre when we can have a musical buffet?' This piece propelled him to fame and made jazz acceptable in concert halls!",
+      "year": 1924,
+      "city": "New York City",
+      "country": "U.S."
+    },
+    {
+      "event": "Porgy and Bess Composition",
+      "summary": "While summering in South Carolina, Gershwin got inspired to write 'Porgy and Bess'. This opera was so groundbreaking that critics had to invent new terms for it\u2014was it opera? Was it a musical? It was like trying to define a cat in a dog show!",
+      "year": 1935,
+      "city": "South Carolina",
+      "country": "U.S."
+    },
+    {
+      "event": "Shall We Dance Score",
+      "summary": "In 1936, Gershwin was busy composing a score for the film 'Shall We Dance', blending ballet and jazz in a way that made Fred Astaire and Ginger Rogers want to jump out of their dance shoes! It was an ambitious project that took months and was the envy of every Hollywood composer.",
+      "year": 1936,
+      "city": "Hollywood",
+      "country": "U.S."
+    },
+    {
+      "event": "Piano Concerto in F Performance",
+      "summary": "Gershwin performed his own 'Piano Concerto in F' with the San Francisco Symphony Orchestra, but not without a twist! Imagine a pianist trying to cook while juggling eggs. Coordination issues led to mishaps, but what an unforgettable performance it was, filled with all the charm of a born entertainer.",
+      "year": 1937,
+      "city": "San Francisco",
+      "country": "U.S."
+    },
+    {
+      "event": "Death",
+      "summary": "In 1937, at just 38, Gershwin's life was cut short, making the world abruptly miss the catchy tunes that would have surely danced their way into history. It was like a sudden closing curtain on a Broadway show everyone loved but none could ever get enough of.",
+      "year": 1937,
+      "city": "Los Angeles",
+      "country": "U.S."
+    },
+    {
+      "event": "Collapsing While Composing",
+      "summary": "On a fateful July night, Gershwin's creative juices got the better of him when he collapsed while working on The Goldwyn Follies. Apparently, even musical geniuses need a break, especially when their brain is plotting a coup with a tumor.",
+      "year": 1937,
+      "city": "Los Angeles",
+      "country": "USA"
+    },
+    {
+      "event": "Brain Surgery Gone Wrong",
+      "summary": "After a dramatic race against time involving a neurosurgeon being fished from a yacht, Gershwin went under the knife for a brain tumor. Spoiler alert: the surgery didn't turn him into a musical zombie, he just didn\u2019t survive!",
+      "year": 1937,
+      "city": "Los Angeles",
+      "country": "USA"
+    },
+    {
+      "event": "Memorial Concert",
+      "summary": "Less than two months after Gershwin's untimely exit, a memorial concert was held at the Hollywood Bowl where his music echoed amid the tears\u2014because who doesn\u2019t want to celebrate their friend with a good old orchestral jam session?",
+      "year": 1937,
+      "city": "Los Angeles",
+      "country": "USA"
+    },
+    {
+      "event": "Birthday Party for Ravel",
+      "summary": "In a star-studded March, Gershwin attended Maurice Ravel's birthday party. Imagine the jazz exchange as he and Ravel shared cake, possibly arguing about whose music was cooler while ignoring the weight of their contributions to the art world.",
+      "year": 1928,
+      "city": "New York City",
+      "country": "USA"
+    },
+    {
+      "event": "Studying Composition",
+      "summary": "Gershwin took his musical endeavors seriously enough to ask the renowned Ravel for lessons. Ravel probably chuckled, realizing it was like asking an eagle to teach a sparrow how to soar, and promptly flipped the situation on Gershwin.",
+      "year": 1928,
+      "city": "New York City",
+      "country": "USA"
+    },
+    {
+      "event": "Influenced by Schillinger",
+      "summary": "Between 1932 and 1936, Gershwin studied under Joseph Schillinger, who taught him some quirky composition methods. It was an interesting relationship, like a musical cat-and-mouse game: Schillinger had his theories, and Gershwin had other plans.",
+      "year": 1932,
+      "city": "New York City",
+      "country": "USA"
+    },
+    {
+      "event": "First Opera",
+      "summary": "In 1922, Gershwin decided to dip his toes into the world of opera with the one-act wonder 'Blue Monday'. Think of it as his early attempt to blend the dramatic flair of opera with the catchy tunes of popular music \u2014 a bold move that probably left some traditionalists scratching their heads.",
+      "year": 1922,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Rhapsody in Blue",
+      "summary": "In 1924, Gershwin composed 'Rhapsody in Blue', which was so groundbreaking that it practically created a new genre. Imagine a jazz band and a symphony orchestra throwing a party together; this piece was the result and it became Gershwin's definitive anthem \u2014 talk about a mixed musical message!",
+      "year": 1924,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Porgy and Bess Premiere",
+      "summary": "In 1935, Gershwin unveiled 'Porgy and Bess' at the Colonial Theatre in Boston. It mixed a little Southern charm with opera, and the audience was left intrigued. Some probably thought the title was a new recipe for Southern cooking!",
+      "year": 1935,
+      "city": "Boston",
+      "country": "USA"
+    },
+    {
+      "event": "Academy Award Nomination",
+      "summary": "Gershwin snagged his only Academy Award nomination in 1937 for 'They Can't Take That Away from Me' from the film 'Shall We Dance'. Unfortunately, he passed away just two months after the film hit the screens \u2014 talk about a dramatic reveal!",
+      "year": 1937,
+      "city": "Los Angeles",
+      "country": "USA"
+    },
+    {
+      "event": "First Published Song",
+      "summary": "At the tender age of 17, Gershwin hit the jackpot with his first published song, proving that teen angst can indeed be good for business.",
+      "year": 1915,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Porgy and Bess Debut",
+      "summary": "'Porgy and Bess' debuted, featuring blues and jazz which had critics scratching their heads, wondering if they had been transported to a Southern barbecue.",
+      "year": 1935,
+      "city": "New York",
+      "country": "USA"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/An_American_in_Paris_(Gershwin,_George)",
+      "year": 1928,
+      "title": "An American in Paris"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cuban_Overture_(Gershwin,_George)",
+      "year": 1932,
+      "title": "Cuban Overture"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Drifting_Along_with_the_Tide_(Gershwin,_George)",
+      "year": 1921,
+      "title": "Drifting Along with the Tide"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Funny_Face_(Gershwin,_George)",
+      "year": 1927,
+      "title": "Funny Face"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/George_White%27s_Scandals_(Gershwin,_George)",
+      "year": 1922,
+      "title": "George White's Scandals"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Girl_Crazy_(Gershwin,_George)",
+      "year": 1928,
+      "title": "Girl Crazy"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/How_Long_Has_This_Been_Going_On%3F_(Gershwin,_George)",
+      "year": 1927,
+      "title": "How Long Has This Been Going On?"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/I_Was_So_Young_(Gershwin,_George)",
+      "year": 1919,
+      "title": "I Was So Young"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Idle_Dreams_(Gershwin,_George)",
+      "year": 1920,
+      "title": "Idle Dreams"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lady,_Be_Good_(Gershwin,_George)",
+      "year": 1924,
+      "title": "Lady, Be Good"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Love_Walked_In_(Gershwin,_George)",
+      "year": 1930,
+      "title": "Love Walked In"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lullaby_(Gershwin,_George)",
+      "year": 1919,
+      "title": "Lullaby"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Of_Thee_I_Sing_(Gershwin,_George)",
+      "year": 1931,
+      "title": "Of Thee I Sing"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Oh,_Kay!_(Gershwin,_George)",
+      "year": 1926,
+      "title": "Oh, Kay!"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_(Gershwin,_George)",
+      "year": 1925,
+      "title": "Piano Concerto"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Porgy_and_Bess_(Gershwin,_George)",
+      "year": 1934,
+      "title": "Porgy and Bess"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Preludes_(Gershwin,_George)",
+      "year": 1926,
+      "title": "3 Preludes"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Promenade_(Gershwin,_George)",
+      "year": 1937,
+      "title": "Promenade"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Rhapsody_in_Blue_(Gershwin,_George)",
+      "year": 1924,
+      "title": "Rhapsody in Blue"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Rialto_Ripples_Rag_(Gershwin,_George)",
+      "year": 1917,
+      "title": "Rialto Ripples Rag"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Scandal_Walk_(Gershwin,_George)",
+      "year": 1920,
+      "title": "Scandal Walk"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Second_Rhapsody_(Gershwin,_George)",
+      "year": 1931,
+      "title": "Second Rhapsody"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Someone_to_Watch_Over_Me_(Gershwin,_George)",
+      "year": 1926,
+      "title": "Someone to Watch Over Me"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Swanee_(Gershwin,_George)",
+      "year": 1919,
+      "title": "Swanee"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Tell_Me_More_(Gershwin,_George)",
+      "year": 1925,
+      "title": "Tell Me More"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Tip_Toes_(Gershwin,_George)",
+      "year": 1925,
+      "title": "Tip Toes"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Variations_on_%27I_Got_Rhythm%27_(Gershwin,_George)",
+      "year": 1933,
+      "title": "Variations on 'I Got Rhythm'"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/George_Gershwin%27s_Songbook_(Gershwin,_George)",
+      "year": 1932,
+      "title": "George Gershwin's Songbook"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Drifting_Along_with_the_Tide_(Gershwin,_George)",
+      "year": 1921,
+      "title": "Drifting Along with the Tide"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/I_Was_So_Young_(Gershwin,_George)",
+      "year": 1919,
+      "title": "I Was So Young"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Oh,_Kay!_(Gershwin,_George)",
+      "year": 1926,
+      "title": "Oh, Kay!"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Preludes_(Gershwin,_George)",
+      "year": 1926,
+      "title": "3 Preludes"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Someone_to_Watch_Over_Me_(Gershwin,_George)",
+      "year": 1926,
+      "title": "Someone to Watch Over Me"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Swanee_(Gershwin,_George)",
+      "year": 1919,
+      "title": "Swanee"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Tip_Toes_(Gershwin,_George)",
+      "year": 1925,
+      "title": "Tip Toes"
+    }
+  ]
+}

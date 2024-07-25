@@ -1,0 +1,167 @@
+{
+  "full_name": "Louise Farrenc",
+  "first_names": "Louise",
+  "last_name": "Farrenc",
+  "birth_year": 1804,
+  "death_year": 1875,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Louise_Farrenc",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Louise, originally Jeanne-Louise Dumont, made her grand entrance into the world in Paris, destined to shake up the male-dominated music scene. As if being born into a family of sculptors wasn't enough, her piano skills would soon be finely chiseled.",
+      "year": 1804,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Marriage",
+      "summary": "Louise tied the knot with Aristide Farrenc, a flute student whose concert enthusiasm peaked shortly after their wedding. Together, they embarked on a musical journey that almost sounded like a duet\u2014until he kicked the music stand and decided to start a publishing house instead.",
+      "year": 1821,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Appointment at Paris Conservatory",
+      "summary": "In a twist of fate that would make any underdog proud, Farrenc became Professor of Piano at the Paris Conservatory. Holding court as the only female professor in a roomful of men, she might have had to remind them that talent does not discriminate by gender.",
+      "year": 1842,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Equal Pay Victory",
+      "summary": "After a particularly stunning premiere of her nonet, where a famous violinist strummed his reputation alongside her music, Farrenc decided it was high time to demand equal pay. And surprise! She actually got it, proving that sometimes it takes a great performance to strike the right chord in the salary department.",
+      "year": 1849,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Awards",
+      "summary": "Farrenc flexed her creative muscles and won the prestigious Prix Chartier not once, but twice! Imagine trying to fit two shiny awards in her piano bag as she juggled teaching, composing, and probably the occasional very exclusive tea party.",
+      "year": 1861,
+      "city": "Paris",
+      "country": "France"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata,_Op.46_(Farrenc,_Louise)",
+      "year": 1858,
+      "title": "Cello Sonata, Op.46"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/20_Etudes_de_moyenne_Difficult%C3%A9_pour_Piano,_Op.42_(Farrenc,_Louise)",
+      "year": 1854,
+      "title": "20 Etudes de moyenne Difficult\u00e9 pour Piano, Op.42"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/25_Etudes_faciles,_Op.50_(Farrenc,_Louise)",
+      "year": 1859,
+      "title": "25 Etudes faciles, Op.50"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/30_Etudes,_Op.26_(Farrenc,_Louise)",
+      "year": 1835,
+      "title": "30 Etudes, Op.26"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Impromptu_pour_Piano_(Farrenc,_Louise)",
+      "year": 1843,
+      "title": "Impromptu pour Piano"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_Italiennes,_Op.14_(Farrenc,_Louise)",
+      "year": 1835,
+      "title": "Les Italiennes, Op.14"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/M%C3%A9lodie_pour_le_pianoforte_(Farrenc,_Louise)",
+      "year": 1846,
+      "title": "M\u00e9lodie pour le pianoforte"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturne,_Op.49_(Farrenc,_Louise)",
+      "year": 1859,
+      "title": "Nocturne, Op.49"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nonet,_Op.38_(Farrenc,_Louise)",
+      "year": 1849,
+      "title": "Nonet, Op.38"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Quintet_No.1,_Op.30_(Farrenc,_Louise)",
+      "year": 1842,
+      "title": "Piano Quintet No.1, Op.30"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Quintet_No.2,_Op.31_(Farrenc,_Louise)",
+      "year": 1842,
+      "title": "Piano Quintet No.2, Op.31"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.1,_Op.33_(Farrenc,_Louise)",
+      "year": 1843,
+      "title": "Piano Trio No.1, Op.33"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Rondo_brillant_sur_un_choeur_du_Pirate,_Op.9_(Farrenc,_Louise)",
+      "year": 1833,
+      "title": "Rondo brillant sur un choeur du Pirate, Op.9"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Scherzo,_Op.47_(Farrenc,_Louise)",
+      "year": 1858,
+      "title": "Scherzo, Op.47"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sextet_in_C_minor,_Op.40_(Farrenc,_Louise)",
+      "year": 1851,
+      "title": "Sextet in C minor, Op.40"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Souvenir_des_Huguenots,_Op.19_(Farrenc,_Louise)",
+      "year": 1837,
+      "title": "Souvenir des Huguenots, Op.19"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_sylphide,_Op.18_(Farrenc,_Louise)",
+      "year": 1835,
+      "title": "La sylphide, Op.18"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.3,_Op.36_(Farrenc,_Louise)",
+      "year": 1847,
+      "title": "Symphony No.3, Op.36"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Trio_for_Clarinet_or_Violin,_Cello_and_Piano,_Op.44_(Farrenc,_Louise)",
+      "year": 1856,
+      "title": "Trio for Clarinet or Violin, Cello and Piano, Op.44"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Trio_for_Flute,_Cello,_and_Piano,_Op.45_(Farrenc,_Louise)",
+      "year": 1857,
+      "title": "Trio for Flute, Cello, and Piano, Op.45"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Valse_brillante_No.2,_Op.51_(Farrenc,_Louise)",
+      "year": 1864,
+      "title": "Valse brillante No.2, Op.51"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Valse_brillante,_Op.48_(Farrenc,_Louise)",
+      "year": 1859,
+      "title": "Valse brillante, Op.48"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.2,_Op.39_(Farrenc,_Louise)",
+      "year": 1850,
+      "title": "Violin Sonata No.2, Op.39"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Variations_on_%27Celui_qui_sut_toucher_mon_coeur%27,_Op.22_(Farrenc,_Louise)",
+      "year": 1831,
+      "title": "Variations on 'Celui qui sut toucher mon coeur', Op.22"
+    }
+  ]
+}

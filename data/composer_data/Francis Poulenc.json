@@ -1,0 +1,1011 @@
+{
+  "full_name": "Francis Poulenc",
+  "first_names": "Francis",
+  "last_name": "Poulenc",
+  "birth_year": 1899,
+  "death_year": 1963,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Francis_Poulenc",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Poulenc was born in a musical household that mixed deep religious faith with artistic aspirations. It was a mix of 'half monk and half naughty boy', ensuring he would keep everyone guessing about which side would emerge at the piano.",
+      "year": 1899,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Early Piano Training",
+      "summary": "Poulenc began piano lessons at the tender age of five, proving that he was destined to charm audiences with his musical antics. Little did he know that he would grow up to both play and compose music that would leave critics scratching their heads in delighted confusion.",
+      "year": 1904,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Meeting Ricardo Vi\u00f1es",
+      "summary": "At the age of 16, Poulenc met his mentor Ricardo Vi\u00f1es, a colorful character wielding button boots and a penchant for teaching through unorthodox methods. Their partnership was more than just music; it was a recipe for creative chaos.",
+      "year": 1915,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Composition Debut",
+      "summary": "Poulenc made his splash in the music scene with Rapsodie n\u00e8gre, where he even took to the stage himself after a baritone flaked out. It's safe to say he was jumping into the deep end of the pool of Parisian avant-garde music\u2014and splashing everyone nearby.",
+      "year": 1917,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Conscription into Army",
+      "summary": "Poulenc spent a few years in military service during World War I, proving that even amidst the chaos of war, he could simultaneously work on his music and dodge bullets. Who knew that military typing could lead to compositions like Trois mouvements perp\u00e9tuels?",
+      "year": 1918,
+      "city": "Saint-Martin-sur-le-Pr\u00e9",
+      "country": "France"
+    },
+    {
+      "event": "Formation of Les Six",
+      "summary": "Along with fellow composers like Auric and Milhaud, Poulenc was dubbed part of Les Six, a group where collaborating meant each composer could showcase their quirks while pretending to work together. It was musical mutual admiration society with a side of irreverence and fun!",
+      "year": 1920,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Success of Les Biches",
+      "summary": "The ballet Les biches premiered in Monte Carlo, and Poulenc became a celebrity overnight! This work combined classical elegance with modern mischievousness, and let's be honest, it was much more enjoyable than sitting through a lecture on classical traditions.",
+      "year": 1924,
+      "city": "Monte Carlo",
+      "country": "Monaco"
+    },
+    {
+      "event": "Friendship with Cocteau",
+      "summary": "Poulenc's relationship with the literary figure Jean Cocteau blossomed, leading to their creative collaborations. Their partnership meant a constant trade of artistic jabs and whimsical creativity that could make even the stuffiest of critics crack a smile.",
+      "year": 1919,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Religious Works Emergence",
+      "summary": "Starting in the late 1930s, Poulenc's religious music emerged, adding a serious layer to his character. This twist in his musical journey\u2014kind of like discovering your goofball friend also has a knack for deep philosophical conversations\u2014nearly left everyone pleasantly shocked.",
+      "year": 1936,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Death",
+      "summary": "Poulenc passed away, leaving behind a legacy that reminded audiences of his humor and depth. While he might have been a lightweight in the opinions of some, his music is like that package of delightful surprises you find in your mailbox\u2014a little mischievous and unmistakably heartfelt.",
+      "year": 1963,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "New Celebrity and Estrangement",
+      "summary": "After the success of his ballet, Poulenc became an unexpected celebrity, leading to a fallout with Satie over new social circles and friends, especially the writer Laloy, whom Satie could not tolerate. It seems fame can be a double-edged sword, especially in the company of grumpy composers!",
+      "year": 1920,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Premier of Concert champ\u00eatre",
+      "summary": "Poulenc\u2019s harpsichord concerto, the Concert champ\u00eatre, was premiered by his friend Wanda Landowska with the Orchestre Symphonique de Paris. This event marked a harmonious union of modern music and Baroque flair, proving that even in the 20th century, old instruments still held their ground in the musical arena.",
+      "year": 1929,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Purchase of Le Grand Coteau",
+      "summary": "With his newfound independence from a substantial inheritance, Poulenc bought a large country house where he could compose in peace. It was here that he likely attempted to convince the local wildlife that his music was good for their ears. Spoiler alert: they disagreed.",
+      "year": 1930,
+      "city": "Noizay",
+      "country": "France"
+    },
+    {
+      "event": "The Death of Raymonde Linossier",
+      "summary": "Devastated by the sudden death of his friend Raymonde Linossier, Poulenc expressed profound sorrow in a heartbreaking letter. Somehow, even amidst the tears, he managed to produce a beautiful song in her memory, proving that art can emerge from the deepest sadness, preferably without soggy paper.",
+      "year": 1930,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Religious Awakening",
+      "summary": "Following the dual shock of a friend's tragic death and a contemplative visit to the sanctuary at Rocamadour, Poulenc experienced a resurgence of faith. Inspired, he immediately began composing a liturgical work, as if divine inspiration had whispered, 'Get to work on those hymns, Poulenc!'",
+      "year": 1936,
+      "city": "Rocamadour",
+      "country": "France"
+    },
+    {
+      "event": "Premiere of Mass in G major",
+      "summary": "Poulenc's Mass in G major was premiered and quickly became a hit among sacred music lovers. Perhaps it\u2019s safe to say that it helped reestablish his reputation as a serious composer. Who knew that church music could move audiences and fill pews, reminiscent of a concert rush?",
+      "year": 1937,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "London Reception and Performance",
+      "summary": "Poulenc flew to London post-war for a series of celebrated performances, where he and Bernac received an overwhelming reception. While Bernac wept in front of adoring fans, Poulenc must have thought, 'I really should have worn my best tuxedo!'",
+      "year": 1945,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Premiere of Les mamelles de Tir\u00e9sias",
+      "summary": "Poulenc's opera Les mamelles de Tir\u00e9sias premiered, showcasing his unique humor and depth in the post-war landscape. While it received critical acclaim, the public's lukewarm response likely had him wondering if they were all tone-deaf or just not ready for a female role reversal dance party!",
+      "year": 1947,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Piano Concerto Premiere",
+      "summary": "The world premiere of Poulenc's Piano Concerto took place, showcasing his brilliance as a composer. The event likely featured a packed house, perhaps reminiscing over how glamorous concertgoers used to get dressed up... or not, as everyone was just relieved to be out of their houses post-war!",
+      "year": 1949,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "World Premiere of Piano Concerto",
+      "summary": "Poulenc had the pleasure of being the soloist in the world premiere of his own Piano Concerto, commissioned by the prestigious Boston Symphony Orchestra. It's like showing off your new shoes at a big party, only these shoes were composed of notes!",
+      "year": 1949,
+      "city": "Boston",
+      "country": "USA"
+    },
+    {
+      "event": "Completion of Stabat Mater",
+      "summary": "The Stabat Mater, a moving piece dedicated to painter Christian B\u00e9rard, was composed in memory of him and premiered a year later. It was Poulenc's heartfelt love letter in musical form, proving that melody can be the best way to remember someone!",
+      "year": 1950,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Begins work on Dialogues des Carm\u00e9lites",
+      "summary": "Poulenc embarked on composing Dialogues des Carm\u00e9lites, inspired by the Martyrs of Compi\u00e8gne. With a moving story line, he found himself entangled in legal woes that would make any drama writer nod in understanding - the joys of artistic collaboration!",
+      "year": 1953,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Nervous Breakdown",
+      "summary": "Faced with personal and professional obstacles, Poulenc hit a rough patch and made a trip to a clinic. It was the composer\u2019s version of a vacation: stress-free, except for the odd sedative or two! Talk about needing a timeout!",
+      "year": 1954,
+      "city": "L'Ha\u00ff-les-Roses",
+      "country": "France"
+    },
+    {
+      "event": "Death of Lucien Roubert",
+      "summary": "As Poulenc finished the last pages of his opera, he faced the heart-wrenching loss of his partner, Lucien Roubert. This moment was bittersweet as he completed the work at the very moment Lucien left this world, reminding us that creativity and heartbreak often go hand in hand.",
+      "year": 1955,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Premiere of Dialogues des Carm\u00e9lites",
+      "summary": "The opera premiered at La Scala, and Poulenc\u2019s heart was probably racing like a kid on sugar. The Italian audience loved it, giving him the much-needed approval that said, 'You did good, Poulenc!'",
+      "year": 1957,
+      "city": "Milan",
+      "country": "Italy"
+    },
+    {
+      "event": "Last Concert with Bernac",
+      "summary": "Poulenc celebrated his 60th birthday in style, performing alongside his dear friend Bernac for the final time. It was like a musical goodbye tour, bringing the curtain down on an era of beautiful collaborations.",
+      "year": 1958,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "American Premiere of La Voix humaine",
+      "summary": "During a journey across the ocean, Poulenc experienced the thrill of La Voix humaine making its American debut. It was like taking his baby to a new country and having it embraced by a whole new family!",
+      "year": 1960,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "World Premiere of Gloria",
+      "summary": "Conducted by Charles Munch in Boston, Gloria was introduced to the world with a bang. Poulenc must have felt like a proud parent watching their child go off to school for the first time, full of hope and excitement.",
+      "year": 1961,
+      "city": "Boston",
+      "country": "USA"
+    },
+    {
+      "event": "Death from Heart Attack",
+      "summary": "Poulenc's life came to an end due to a heart attack at his home, leaving a legacy of music that would continue to resonate. It was a bittersweet finale \u2013 not the kind you'd hope for in a grand opera, but perhaps that's how life works: a surprise curtain call.",
+      "year": 1963,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First piano composition",
+      "summary": "At a young age, Poulenc composed his first piano piece. The piece was presumably on par with a toddler\u2019s finger paints, but at least it was a step into the world of serious music!",
+      "year": 1910,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First public performance",
+      "summary": "His first public performance was much like a debutante ball but for music, featuring bright lights, applause, and a few overly critical cats among the audience. Regardless, he made quite the impression.",
+      "year": 1917,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Rapsodie n\u00e8gre",
+      "summary": "Poulenc completed Rapsodie n\u00e8gre, which combined the delight of jazz influences with classical form, making it like a delightful fruit salad of musical styles. Dig in!",
+      "year": 1917,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Sextet for Piano and Wind",
+      "summary": "He composed the Sextet for Piano and Wind, a piece that embodies his light-hearted demeanor, almost like wearing a top hat while juggling three pianos.",
+      "year": 1932,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Mass in G major",
+      "summary": "Poulenc's Mass in G major was composed in whimsical tones, bringing a bright, vibrant vibe to a quintessentially serious art form, sort of like wearing flip-flops to a formal gala.",
+      "year": 1937,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Figure humaine",
+      "summary": "He created the choral work Figure humaine, which, despite its serious content, never forgot to wear a party hat and a pair of sunglasses through its glorious harmonies and vocal exercises.",
+      "year": 1943,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First opera: Les Mamelles de Tir\u00e9sias",
+      "summary": "His first opera, Les Mamelles de Tir\u00e9sias, was completed\u2014an absurdly entertaining work that was like a picnic spread of bizarre ideas where everyone just ended up having a miraculous good time.",
+      "year": 1947,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Dialogues des Carm\u00e9lites",
+      "summary": "He premiered his opera Dialogues des Carm\u00e9lites, demonstrating a remarkable maturity and depth that was the perfect contrast to his earlier frolicking compositions, essentially the 'grown-up' at a children's party.",
+      "year": 1957,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Forming Les Six",
+      "summary": "Poulenc teamed up with five other composers to form Les Six, producing a musical cocktail so refreshing it made the previous generation look like flat soda. Their mission? To shake up the classical scene and deliver a splash of French flair.",
+      "year": 1920,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First major opera success",
+      "summary": "With the debut of his opera 'Les Mamelles de Tir\u00e9sias', Poulenc unleashed a wave of cheerful absurdity that had audiences chuckling and scratching their heads at the same time\u2014his genius for blending humor with serious themes was on display here.",
+      "year": 1944,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Recognition of Stabat Mater",
+      "summary": "His 'Stabat Mater' gained significant acclaim, which Poulenc humorously mused would be the reason people remember him in fifty years\u2014mixing spiritual depth with a hint of cheeky anticipation that surely painted a smile on his lips.",
+      "year": 1950,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "1958 Mass Recording",
+      "summary": "Thrilled with a new mass recording, Poulenc declared that finally, the world would recognize him as a serious composer\u2014because who needs a serious face when you have heavenly music! His excitement was contagious, and so were his jabs at traditional perceptions.",
+      "year": 1958,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Last Years",
+      "summary": "In his final years, Poulenc reflected on his career with a mix of pride and playful humility, pondering whether it would be his Stabat Mater or his more mischievous pieces that would stand the test of time\u2014an artist's way of ensuring the world remembers both the saintly and saucy sides of him.",
+      "year": 1963,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Composition",
+      "summary": "At the tender age of 18, Poulenc composed his first piece, showcasing a talent for creating melodies that could easily distract you from your daily routines\u2014like, say, walking into a lamppost!",
+      "year": 1917,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Joining Les Six",
+      "summary": "Poulenc joined the artistic group known as Les Six; a gang of six composers not famous for their boxing skills but rather for their lighthearted yet profound approach to music, proving that being a composer could be as spectacular as a circus act.",
+      "year": 1919,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Paris Opera Debut",
+      "summary": "Poulenc made his big debut at the Paris Opera with 'Les mamelles de Tir\u00e9sias', which was described as a comic opera. You could say it was his way of saying, 'Why should serious opera have all the fun?'",
+      "year": 1947,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Major International Recognition",
+      "summary": "His works gained international acclaim, and suddenly everyone wanted to know this witty Frenchman who could compose tunes that felt like a glass of champagne\u2014bubbly and effervescent!",
+      "year": 1950,
+      "city": "Various",
+      "country": "Multiple"
+    },
+    {
+      "event": "Last Major Work",
+      "summary": "Poulenc completed 'Dialogues of the Carmelites', a work that would be his final major opera, and as he created it, one could almost hear him laughing over how he'd managed to make spirituality sound so engaging\u2014and yes, possibly a bit cheeky.",
+      "year": 1957,
+      "city": "Paris",
+      "country": "France"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%80_sa_guitare,_FP_79a_(Poulenc,_Francis)",
+      "year": 1935,
+      "title": "\u00c0 sa guitare, FP 79a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Airs_chant%C3%A9s,_FP_46_(Poulenc,_Francis)",
+      "year": 1927,
+      "title": "Airs chant\u00e9s, FP 46"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_animaux_mod%C3%A8les,_FP_111_(Poulenc,_Francis)",
+      "year": 1940,
+      "title": "Les animaux mod\u00e8les, FP 111"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Aubade,_FP_51_(Poulenc,_Francis)",
+      "year": 1929,
+      "title": "Aubade, FP 51"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ave_verum_corpus,_FP_154_(Poulenc,_Francis)",
+      "year": 1952,
+      "title": "Ave verum corpus, FP 154"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Badinage,_FP_73_(Poulenc,_Francis)",
+      "year": 1934,
+      "title": "Badinage, FP 73"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_bal_masqu%C3%A9,_FP_60_(Poulenc,_Francis)",
+      "year": 1932,
+      "title": "Le bal masqu\u00e9, FP 60"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Banalit%C3%A9s,_FP_107_(Poulenc,_Francis)",
+      "year": 1940,
+      "title": "Banalit\u00e9s, FP 107"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_bestiaire,_FP_15_(Poulenc,_Francis)",
+      "year": 1919,
+      "title": "Le bestiaire, FP 15"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_biches,_FP_36_(Poulenc,_Francis)",
+      "year": 1923,
+      "title": "Les biches, FP 36"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bourr%C3%A9e,_au_Pavillon_d%E2%80%99Auvergne,_FP_87_(Poulenc,_Francis)",
+      "year": 1937,
+      "title": "Bourr\u00e9e, au Pavillon d\u2019Auvergne, FP 87"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Calligrammes,_FP_140_(Poulenc,_Francis)",
+      "year": 1948,
+      "title": "Calligrammes, FP 140"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ce_doux_petit_visage,_FP_99_(Poulenc,_Francis)",
+      "year": 1939,
+      "title": "Ce doux petit visage, FP 99"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata,_FP_143_(Poulenc,_Francis)",
+      "year": 1940,
+      "title": "Cello Sonata, FP 143"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chanson_%C3%A0_boire,_FP_31_(Poulenc,_Francis)",
+      "year": 1922,
+      "title": "Chanson \u00e0 boire, FP 31"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Chansons_de_Federico_Garc%C3%ADa_Lorca,_FP_136_(Poulenc,_Francis)",
+      "year": 1947,
+      "title": "3 Chansons de Federico Garc\u00eda Lorca, FP 136"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/8_Chansons_fran%C3%A7aises,_FP_130_(Poulenc,_Francis)",
+      "year": 1945,
+      "title": "8 Chansons fran\u00e7aises, FP 130"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/8_Chansons_gaillardes,_FP_42_(Poulenc,_Francis)",
+      "year": 1925,
+      "title": "8 Chansons gaillardes, FP 42"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/8_Chansons_polonaises,_FP_69_(Poulenc,_Francis)",
+      "year": 1934,
+      "title": "8 Chansons polonaises, FP 69"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/7_Chansons,_FP_81_(Poulenc,_Francis)",
+      "year": 1936,
+      "title": "7 Chansons, FP 81"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_chemins_de_l%27amour_(Poulenc,_Francis)",
+      "year": 1940,
+      "title": "Les chemins de l'amour"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Clarinet_Sonata,_FP_184_(Poulenc,_Francis)",
+      "year": 1962,
+      "title": "Clarinet Sonata, FP 184"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cocardes,_FP_16_(Poulenc,_Francis)",
+      "year": 1920,
+      "title": "Cocardes, FP 16"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Colloque,_FP_108_(Poulenc,_Francis)",
+      "year": 1940,
+      "title": "Colloque, FP 108"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concert_champ%C3%AAtre,_FP_49_(Poulenc,_Francis)",
+      "year": 1927,
+      "title": "Concert champ\u00eatre, FP 49"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_2_Pianos,_FP_61_(Poulenc,_Francis)",
+      "year": 1932,
+      "title": "Concerto for 2 Pianos, FP 61"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_courte_paille,_FP_178_(Poulenc,_Francis)",
+      "year": 1960,
+      "title": "La courte paille, FP 178"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_Dame_de_Monte-Carlo,_FP_180_(Poulenc,_Francis)",
+      "year": 1961,
+      "title": "La Dame de Monte-Carlo, FP 180"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dernier_po%C3%A8me,_FP_163_(Poulenc,_Francis)",
+      "year": 1956,
+      "title": "Dernier po\u00e8me, FP 163"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dialogues_des_Carm%C3%A9lites,_FP_159_(Poulenc,_Francis)",
+      "year": 1953,
+      "title": "Dialogues des Carm\u00e9lites, FP 159"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_disparu,_FP_134_(Poulenc,_Francis)",
+      "year": 1947,
+      "title": "Le disparu, FP 134"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%89l%C3%A9gie,_FP_168_(Poulenc,_Francis)",
+      "year": 1957,
+      "title": "\u00c9l\u00e9gie, FP 168"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Elegy,_FP_175_(Poulenc,_Francis)",
+      "year": 1959,
+      "title": "Elegy, FP 175"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27embarquement_pour_Cyth%C3%A8re,_FP_150_(Poulenc,_Francis)",
+      "year": 1951,
+      "title": "L'embarquement pour Cyth\u00e8re, FP 150"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Epitaphe,_FP_55_(Poulenc,_Francis)",
+      "year": 1930,
+      "title": "Epitaphe, FP 55"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Esquisse_d%E2%80%99une_fanfare,_FP_25_(Poulenc,_Francis)",
+      "year": 1921,
+      "title": "Esquisse d\u2019une fanfare, FP 25"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Exultate_Deo,_FP_109_(Poulenc,_Francis)",
+      "year": 1941,
+      "title": "Exultate Deo, FP 109"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fancy,_FP_174_(Poulenc,_Francis)",
+      "year": 1959,
+      "title": "Fancy, FP 174"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Feuillets_d%E2%80%99album,_FP_68_(Poulenc,_Francis)",
+      "year": 1933,
+      "title": "Feuillets d\u2019album, FP 68"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fian%C3%A7ailles_pour_rire,_FP_101_(Poulenc,_Francis)",
+      "year": 1939,
+      "title": "Fian\u00e7ailles pour rire, FP 101"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Figure_humaine,_FP_120_(Poulenc,_Francis)",
+      "year": 1943,
+      "title": "Figure humaine, FP 120"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Flute_Sonata,_FP_164_(Poulenc,_Francis)",
+      "year": 1956,
+      "title": "Flute Sonata, FP 164"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_fra%C3%AEcheur_et_le_feu,_FP_147_(Poulenc,_Francis)",
+      "year": 1950,
+      "title": "La fra\u00eecheur et le feu, FP 147"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fran%C3%A7aise_d%E2%80%99apr%C3%A8s_Claude_Gervaise,_FP_103_(Poulenc,_Francis)",
+      "year": 1939,
+      "title": "Fran\u00e7aise d\u2019apr\u00e8s Claude Gervaise, FP 103"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_gendarme_incompris_(suite),_FP_20b_(Poulenc,_Francis)",
+      "year": 1920,
+      "title": "Le gendarme incompris"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Gloria,_FP_177_(Poulenc,_Francis)",
+      "year": 1959,
+      "title": "Gloria, FP 177"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_grenouill%C3%A8re,_FP_96_(Poulenc,_Francis)",
+      "year": 1938,
+      "title": "La grenouill\u00e8re, FP 96"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Histoire_de_Babar_le_petit_%C3%A9l%C3%A9phant,_FP_129_(Poulenc,_Francis)",
+      "year": 1940,
+      "title": "Histoire de Babar le petit \u00e9l\u00e9phant, FP 129"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Humoresque,_FP_72_(Poulenc,_Francis)",
+      "year": 1934,
+      "title": "Humoresque, FP 72"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hymne,_FP_144_(Poulenc,_Francis)",
+      "year": 1949,
+      "title": "Hymne, FP 144"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_Impromptus,_FP_21_(Poulenc,_Francis)",
+      "year": 1920,
+      "title": "5 Impromptus, FP 21"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Improvisation_No.15_in_C_minor,_FP_176_(Poulenc,_Francis)",
+      "year": 1959,
+      "title": "Improvisation No.15 in C minor, FP 176"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/10_Improvisations,_FP_63_(Poulenc,_Francis)",
+      "year": 1932,
+      "title": "10 Improvisations, FP 63"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Improvisations,_FP_113_(Poulenc,_Francis)",
+      "year": 1941,
+      "title": "2 Improvisations, FP 113"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Improvisations,_FP_170_(Poulenc,_Francis)",
+      "year": 1958,
+      "title": "2 Improvisations, FP 170"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Intermezzos,_FP_71/118_(Poulenc,_Francis)",
+      "year": 1934,
+      "title": "3 Intermezzos, FP 71/118"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27invitation_au_ch%C3%A2teau,_FP_138_(Poulenc,_Francis)",
+      "year": 1947,
+      "title": "L'invitation au ch\u00e2teau, FP 138"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Laudes_de_Saint-Antoine_de_Padoue,_FP_172_(Poulenc,_Francis)",
+      "year": 1957,
+      "title": "Laudes de Saint-Antoine de Padoue, FP 172"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%C3%A9ocadia,_FP_106_(Poulenc,_Francis)",
+      "year": 1940,
+      "title": "L\u00e9ocadia, FP 106"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Litanies_%C3%A0_la_Vierge_Noire,_FP_82_(Poulenc,_Francis)",
+      "year": 1936,
+      "title": "Litanies \u00e0 la Vierge Noire, FP 82"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Main_domin%C3%A9e_par_le_c%C5%93ur,_FP_135_(Poulenc,_Francis)",
+      "year": 1947,
+      "title": "Main domin\u00e9e par le c\u0153ur, FP 135"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/%E2%80%A6mais_mourir,_FP_137_(Poulenc,_Francis)",
+      "year": 1947,
+      "title": "\u2026mais mourir, FP 137"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_mamelles_de_Tir%C3%A9sias,_FP_125_(Poulenc,_Francis)",
+      "year": 1944,
+      "title": "Les mamelles de Tir\u00e9sias, FP 125"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Marches_et_un_interm%C3%A8de,_FP_88_(Poulenc,_Francis)",
+      "year": 1937,
+      "title": "2 Marches et un interm\u00e8de, FP 88"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mass_in_G_major,_FP_89_(Poulenc,_Francis)",
+      "year": 1937,
+      "title": "Mass in G major, FP 89"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazurka,_FP_145_(Poulenc,_Francis)",
+      "year": 1949,
+      "title": "Mazurka, FP 145"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/M%C3%A9lancolie,_FP_105_(Poulenc,_Francis)",
+      "year": 1940,
+      "title": "M\u00e9lancolie, FP 105"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_M%C3%A9lodies_de_Guillaume_Apollinaire,_FP_127_(Poulenc,_Francis)",
+      "year": 1941,
+      "title": "2 M\u00e9lodies de Guillaume Apollinaire, FP 127"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_M%C3%A9lodies,_FP_131_(Poulenc,_Francis)",
+      "year": 1946,
+      "title": "2 M\u00e9lodies, FP 131"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_M%C3%A9lodies,_FP_162_(Poulenc,_Francis)",
+      "year": 1956,
+      "title": "2 M\u00e9lodies, FP 162"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/M%C3%A9tamorphoses,_FP_121_(Poulenc,_Francis)",
+      "year": 1943,
+      "title": "M\u00e9tamorphoses, FP 121"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Miroirs_br%C3%BBlants,_FP_98_(Poulenc,_Francis)",
+      "year": 1938,
+      "title": "Miroirs br\u00fblants, FP 98"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Motets_pour_le_temps_de_No%C3%ABl,_FP_152_(Poulenc,_Francis)",
+      "year": 1951,
+      "title": "4 Motets pour le temps de No\u00ebl, FP 152"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Motets_pour_un_temps_de_p%C3%A9nitence,_FP_97_(Poulenc,_Francis)",
+      "year": 1938,
+      "title": "4 Motets pour un temps de p\u00e9nitence, FP 97"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mouvements_perp%C3%A9tuels,_FP_14a_(Poulenc,_Francis)",
+      "year": 1918,
+      "title": "Mouvements perp\u00e9tuels, FP 14a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Napoli,_FP_40_(Poulenc,_Francis)",
+      "year": 1922,
+      "title": "Napoli, FP 40"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/8_Nocturnes,_FP_56_(Poulenc,_Francis)",
+      "year": 1930,
+      "title": "8 Nocturnes, FP 56"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Novelettes,_FP_47/173_(Poulenc,_Francis)",
+      "year": 1927,
+      "title": "3 Novelettes, FP 47/173"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Oboe_Sonata,_FP_185_(Poulenc,_Francis)",
+      "year": 1962,
+      "title": "Oboe Sonata, FP 185"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Organ_Concerto,_FP_93_(Poulenc,_Francis)",
+      "year": 1938,
+      "title": "Organ Concerto, FP 93"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Parisiana,_FP_157_(Poulenc,_Francis)",
+      "year": 1954,
+      "title": "Parisiana, FP 157"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pastourelle,_FP_45_(Poulenc,_Francis)",
+      "year": 1927,
+      "title": "Pastourelle, FP 45"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Paul_et_Virginie,_FP_132_(Poulenc,_Francis)",
+      "year": 1946,
+      "title": "Paul et Virginie, FP 132"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Petites_pri%C3%A8res_de_Saint-Fran%C3%A7ois_d%E2%80%99Assise,_FP_142_(Poulenc,_Francis)",
+      "year": 1948,
+      "title": "4 Petites pri\u00e8res de Saint-Fran\u00e7ois d\u2019Assise, FP 142"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto,_FP_146_(Poulenc,_Francis)",
+      "year": 1949,
+      "title": "Piano Concerto, FP 146"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pi%C3%A8ce_br%C3%A8ve_sur_le_nom_d%E2%80%99Albert_Roussel,_FP_50_(Poulenc,_Francis)",
+      "year": 1929,
+      "title": "Pi\u00e8ce br\u00e8ve sur le nom d\u2019Albert Roussel, FP 50"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Pi%C3%A8ces,_FP_48_(Poulenc,_Francis)",
+      "year": 1917,
+      "title": "3 Pi\u00e8ces, FP 48"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Po%C3%A8mes_de_Guillaume_Apollinaire,_FP_58_(Poulenc,_Francis)",
+      "year": 1931,
+      "title": "4 Po\u00e8mes de Guillaume Apollinaire, FP 58"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Po%C3%A8mes_de_Guillaume_Apollinaire,_FP_94_(Poulenc,_Francis)",
+      "year": 1938,
+      "title": "2 Po\u00e8mes de Guillaume Apollinaire, FP 94"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Po%C3%A8mes_de_Louis_Aragon,_FP_122_(Poulenc,_Francis)",
+      "year": 1943,
+      "title": "2 Po\u00e8mes de Louis Aragon, FP 122"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Po%C3%A8mes_de_Louise_de_Vilmorin,_FP_91_(Poulenc,_Francis)",
+      "year": 1937,
+      "title": "3 Po\u00e8mes de Louise de Vilmorin, FP 91"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Po%C3%A8mes_de_Louise_Lalanne,_FP_57_(Poulenc,_Francis)",
+      "year": 1931,
+      "title": "3 Po\u00e8mes de Louise Lalanne, FP 57"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Po%C3%A8mes_de_Max_Jacob,_FP_22_(Poulenc,_Francis)",
+      "year": 1921,
+      "title": "4 Po\u00e8mes de Max Jacob, FP 22"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_Po%C3%A8mes_de_Max_Jacob,_FP_59_(Poulenc,_Francis)",
+      "year": 1931,
+      "title": "5 Po\u00e8mes de Max Jacob, FP 59"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_Po%C3%A8mes_de_Paul_%C3%89luard,_FP_77_(Poulenc,_Francis)",
+      "year": 1935,
+      "title": "5 Po\u00e8mes de Paul \u00c9luard, FP 77"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_Po%C3%A8mes_de_Pierre_Ronsard,_FP_38a_(Poulenc,_Francis)",
+      "year": 1924,
+      "title": "5 Po\u00e8mes de Pierre Ronsard, FP 38a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_portrait,_FP_92_(Poulenc,_Francis)",
+      "year": 1938,
+      "title": "Le portrait, FP 92"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Presto_in_B-flat_major,_FP_70_(Poulenc,_Francis)",
+      "year": 1934,
+      "title": "Presto in B-flat major, FP 70"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Priez_pour_paix,_FP_95_(Poulenc,_Francis)",
+      "year": 1938,
+      "title": "Priez pour paix, FP 95"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Promenades,_FP_24_(Poulenc,_Francis)",
+      "year": 1921,
+      "title": "Promenades, FP 24"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Rapsodie_n%C3%A8gre,_FP_3_(Poulenc,_Francis)",
+      "year": 1917,
+      "title": "Rapsodie n\u00e8gre, FP 3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/7_R%C3%A9pons_des_t%C3%A9n%C3%A8bres,_FP_181_(Poulenc,_Francis)",
+      "year": 1961,
+      "title": "7 R\u00e9pons des t\u00e9n\u00e8bres, FP 181"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Rosemonde,_FP_158_(Poulenc,_Francis)",
+      "year": 1954,
+      "title": "Rosemonde, FP 158"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Salve_Regina,_FP_110_(Poulenc,_Francis)",
+      "year": 1941,
+      "title": "Salve Regina, FP 110"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sarabande_pour_guitare,_FP_179_(Poulenc,_Francis)",
+      "year": 1960,
+      "title": "Sarabande pour guitare, FP 179"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sextet,_FP_100_(Poulenc,_Francis)",
+      "year": 1932,
+      "title": "Sextet, FP 100"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sinfonietta,_FP_141_(Poulenc,_Francis)",
+      "year": 1947,
+      "title": "Sinfonietta, FP 141"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_soir%C3%A9es_de_Nazelles,_FP_84_(Poulenc,_Francis)",
+      "year": 1930,
+      "title": "Les soir\u00e9es de Nazelles, FP 84"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sonata_for_2_Clarinets,_FP_7_(Poulenc,_Francis)",
+      "year": 1918,
+      "title": "Sonata for 2 Clarinets, FP 7"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sonata_for_2_Pianos,_FP_156_(Poulenc,_Francis)",
+      "year": 1953,
+      "title": "Sonata for 2 Pianos, FP 156"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sonata_for_Clarinet_and_Bassoon,_FP_32a_(Poulenc,_Francis)",
+      "year": 1922,
+      "title": "Sonata for Clarinet and Bassoon, FP 32a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sonata_for_Horn,_Trumpet_and_Trombone,_FP_33a_(Poulenc,_Francis)",
+      "year": 1922,
+      "title": "Sonata for Horn, Trumpet and Trombone, FP 33a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sonata_for_Piano_Four_Hands,_FP_8_(Poulenc,_Francis)",
+      "year": 1918,
+      "title": "Sonata for Piano Four Hands, FP 8"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Stabat_Mater,_FP_148_(Poulenc,_Francis)",
+      "year": 1950,
+      "title": "Stabat Mater, FP 148"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Suite_fran%C3%A7aise_d%E2%80%99apr%C3%A8s_Claude_Gervaise,_FP_80_(Poulenc,_Francis)",
+      "year": 1935,
+      "title": "Suite fran\u00e7aise d\u2019apr\u00e8s Claude Gervaise, FP 80"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Suite_pour_piano,_FP_19_(Poulenc,_Francis)",
+      "year": 1920,
+      "title": "Suite pour piano, FP 19"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Tel_jour,_telle_nuit,_FP_86_(Poulenc,_Francis)",
+      "year": 1936,
+      "title": "Tel jour, telle nuit, FP 86"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Th%C3%A8me_vari%C3%A9,_FP_151_(Poulenc,_Francis)",
+      "year": 1951,
+      "title": "Th\u00e8me vari\u00e9, FP 151"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Tor%C3%A9ador,_FP_11_(Poulenc,_Francis)",
+      "year": 1918,
+      "title": "Tor\u00e9ador, FP 11"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_travail_du_peintre,_FP_161_(Poulenc,_Francis)",
+      "year": 1956,
+      "title": "Le travail du peintre, FP 161"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Trio_for_Oboe,_Bassoon_and_Piano,_FP_43_(Poulenc,_Francis)",
+      "year": 1926,
+      "title": "Trio for Oboe, Bassoon and Piano, FP 43"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Un_soir_de_neige,_FP_126_(Poulenc,_Francis)",
+      "year": 1944,
+      "title": "Un soir de neige, FP 126"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Une_chanson_de_porcelaine,_FP_169_(Poulenc,_Francis)",
+      "year": 1958,
+      "title": "Une chanson de porcelaine, FP 169"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Valse_for_l%E2%80%99Album_des_Six,_FP_17_(Poulenc,_Francis)",
+      "year": 1919,
+      "title": "Valse for l\u2019Album des Six, FP 17"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Valse-improvisation_sur_le_nom_de_BACH,_FP_62_(Poulenc,_Francis)",
+      "year": 1932,
+      "title": "Valse-improvisation sur le nom de BACH, FP 62"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Villageoises,_FP_65_(Poulenc,_Francis)",
+      "year": 1933,
+      "title": "Villageoises, FP 65"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata,_FP_119_(Poulenc,_Francis)",
+      "year": 1942,
+      "title": "Violin Sonata, FP 119"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Vocalise-Etude,_FP_44_(Poulenc,_Francis)",
+      "year": 1929,
+      "title": "Vocalise-Etude, FP 44"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_voix_humaine,_FP_171_(Poulenc,_Francis)",
+      "year": 1958,
+      "title": "La voix humaine, FP 171"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_Voyageur_sans_bagage,_FP_123_(Poulenc,_Francis)",
+      "year": 1944,
+      "title": "Le Voyageur sans bagage, FP 123"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/15_Improvisations,_FP_63,_113,_170,_176_(Poulenc,_Francis)",
+      "year": 1932,
+      "title": "15 Improvisations, FP 63, 113, 170, 176"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Pieces_(Poulenc,_Francis)",
+      "year": 1940,
+      "title": "6 Pieces"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_bestiaire,_FP_15_(Poulenc,_Francis)",
+      "year": 1919,
+      "title": "Le bestiaire, FP 15"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Pr%C3%A9ludes_posthumes_et_une_Gnossienne,_FP_104_(Poulenc,_Francis)",
+      "year": 1939,
+      "title": "2 Pr\u00e9ludes posthumes et une Gnossienne, FP 104"
+    }
+  ]
+}

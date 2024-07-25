@@ -1,0 +1,955 @@
+{
+  "full_name": "Jacques Offenbach",
+  "first_names": "Jacques",
+  "last_name": "Offenbach",
+  "birth_year": 1819,
+  "death_year": 1880,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jacques_Offenbach",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Jacques Offenbach was born to a musically inclined Jewish family in Cologne. Little did his parents know that one day their son would have a lasting impact on the world of operetta and would leave his mark in a big way, despite being the second of ten children.",
+      "year": 1819,
+      "city": "Cologne",
+      "country": "Kingdom of Prussia"
+    },
+    {
+      "event": "Conservatoire Admission",
+      "summary": "At just 14, Offenbach was accepted into the Paris Conservatoire after an audition that nearly didn't happen! The director, Luigi Cherubini, eventually realized he wasn't just a boy with a stick and awarded him admittance, turning 'Jacob' into 'Jacques' and setting off his French journey.",
+      "year": 1833,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Cellist at Op\u00e9ra-Comique",
+      "summary": "In a triumphant return to music, Offenbach snagged a permanent gig as a cellist at the Op\u00e9ra-Comique. His notorious reputation began here as he played pranks that sometimes left the orchestral scores a total mess\u2014but hey, he had a heart full of melodies!",
+      "year": 1835,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Public Concert",
+      "summary": "Together with his brother, Offenbach gave his first public concert. This was the moment he stepped into the spotlight and began charming audiences with his incredible cello skills and a dash of mischief to boot!",
+      "year": 1839,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Tour",
+      "summary": "Offenbach embarked on his first tour through France and Germany, quickly becoming a darling of the salon circuit. Legend has it that his performances made audiences swoon, while his charisma could make even the grumpiest cat crack a smile!",
+      "year": 1844,
+      "city": "England",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Marriage",
+      "summary": "Jacques married the love of his life, H\u00e9rminie d'Alcain, after converting to Roman Catholicism. Their happily-ever-after kicked off right after their wedding bells rung, amid a slight scandal of him being a bit of a romantic free spirit on the side!",
+      "year": 1844,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Shift to Composition",
+      "summary": "Having made his mark as a cellist, Offenbach made the glorious switch from being a cellist who composes to a full-blown composer who just happens to play the cello. Who knew writing whimsical operettas could be so much fun?",
+      "year": 1846,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Operetta",
+      "summary": "He staged his first operetta, L'Alcove, though it was an uphill battle as the Op\u00e9ra-Comique dropped the ball on presenting it. Offenbach took matters into his own hands\u2014because after all, who else could deliver wit and charm quite like him?",
+      "year": 1847,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "National Crisis and Family",
+      "summary": "During the 1848 revolution, Offenbach rushed his family back to Cologne where things were a bit chaotic. Just when you think you\u2019ve seen it all, throw in a revolution to keep life interesting. But home is where the heart is\u2014even if it gets a bit rowdy!",
+      "year": 1848,
+      "city": "Cologne",
+      "country": "Kingdom of Prussia"
+    },
+    {
+      "event": "Musical Director at Com\u00e9die-Fran\u00e7aise",
+      "summary": "In a nod to his undeniable talent, Offenbach was appointed musical director of the Com\u00e9die-Fran\u00e7aise where he began composing songs for plays. It was basically act one of his grand overture into the theatrical world, and he was ready to steal the show!",
+      "year": 1850,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Success with Orph\u00e9e aux enfers",
+      "summary": "Offenbach struck gold with his operetta Orph\u00e9e aux enfers, featuring a can-can that got everyone buzzing. It was a hit and proved that he could throw a party with music that just begged for a good dance!",
+      "year": 1858,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Final Years and The Tales of Hoffmann",
+      "summary": "In his later years, Offenbach focused on completing The Tales of Hoffmann, a beautiful opera that he sadly would not see premiered. But if there's one thing we know, it\u2019s that he left us with works that keep the laughter and music alive long after he took his final bow!",
+      "year": 1880,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Initial Success at Com\u00e9die-Fran\u00e7aise",
+      "summary": "In the early 1850s, Offenbach begins to thrive at the Com\u00e9die-Fran\u00e7aise, composing catchy songs that are a hit! However, the Op\u00e9ra-Comique seems to have misplaced its sense of humor and won't hire him. Talk about not getting the joke!",
+      "year": 1850,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Staging Operettas at Bouffes-Parisiens",
+      "summary": "Between 1853 and 1855, Offenbach writes three one-act operettas, but Op\u00e9ra-Comique remains oblivious to his genius. Thankfully, Herv\u00e9 steps in to support, leading to the creation of delightful nonsense like 'Oyayaye ou La reine des \u00eeles', where a double-bass doubles as a boat, proving music can indeed save you from cannibals!",
+      "year": 1855,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Opening of the Th\u00e9\u00e2tre des Bouffes-Parisiens",
+      "summary": "In June 1855, just before an influx of visitors for the 1855 Great Exhibition, Offenbach leases the Salle Lacaze and opens his own theater, the Bouffes-Parisiens. Talk about a last-minute hustle! He manages to pull off the grand opening barely weeks after getting the keys, showcasing that chaos and creativity can dance together!",
+      "year": 1855,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Success with Les deux aveugles",
+      "summary": "Offenbach's 'Les deux aveugles' debuts during the theater's opening night, featuring two blind beggars who aren't actually blind - a comedic gem! The audience loves it, and it quickly makes the rounds in Vienna and London \u2013 proving laughter can be a universal language.",
+      "year": 1855,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Production of Orph\u00e9e aux enfers",
+      "summary": "In October 1858, Offenbach erupts onto the scene with 'Orph\u00e9e aux enfers', his first full-length operetta. Initially seen as a modest hit, it gains momentum thanks to some delightful outrage from critics, leading to a record-breaking run. Who knew satire could be so profitable?",
+      "year": 1858,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Awarded French Citizenship",
+      "summary": "In early 1860, Offenbach scores a major career milestone when Napoleon III personally grants him French citizenship. It's a moment of triumph \u2013 the composer of light opera finally gets the official nod while others ponder why their seriousness didn't garner the same applause.",
+      "year": 1860,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Creation of Le papillon",
+      "summary": "In 1860, Offenbach\u2019s ballet score 'Le papillon' gets produced at the Op\u00e9ra, marking his attempt to soar into higher art too. Despite it being a success, it doesn't quite earn him a serious seat at the adults\u2019 table. But who needs seriousness when you have a glorious butterfly?",
+      "year": 1860,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Summer Season in Vienna",
+      "summary": "In 1861, Offenbach embarks on a summer escapade in Vienna, charming audiences left and right. The packed houses and enthusiasm remind him that perhaps light comedy is still king. The Viennese throw him roses, and he starts to believe in the magic of a charming smile!",
+      "year": 1861,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Vienna Performance",
+      "summary": "Offenbach waltzed into Vienna, basking in the cheers of packed houses, even dusting off his cello for a royal command performance. Who knew Emperor Franz Joseph was such a fan of string instruments?",
+      "year": 1862,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Birth of Auguste",
+      "summary": "In a moment of parental pride amidst the chaos of theatre life, Offenbach welcomed his only son, Auguste, who would later contribute to the family artistic dynasty, but thankfully skipped the 'panic' genes.",
+      "year": 1862,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Serious Opera Attempt",
+      "summary": "Offenbach attempted to step into the serious opera realm with 'Die Rheinnixen', blending romantic enchantment and myth that even modern audiences can't quite figure out. Performers laughed, critics hummed, and the opera took a 138-year nap before being fully resurrected.",
+      "year": 1864,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Operetta Explosion",
+      "summary": "Between 1864 and 1868, Offenbach unleashed a torrent of operettas that made audiences roar with laughter while swinging their parasols. Titles like 'La belle H\u00e9l\u00e8ne' and 'La Vie parisienne' turned him into the toast of Paris, and probably the world's most celebrated party planner.",
+      "year": 1868,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Franco-Prussian War Start",
+      "summary": "In a race against time, Offenbach hastily scooted back to his family in Spain just before the Franco-Prussian War threw France into a historical kerfuffle. Nothing like a war to turn a music career into an international \u00e9migr\u00e9 saga!",
+      "year": 1870,
+      "city": "\u00c9tretat",
+      "country": "France"
+    },
+    {
+      "event": "Popular in London",
+      "summary": "With France rejecting his vibrant music, Offenbach became the beloved darling of London\u2019s West End, where his works were performed like hotcakes. One might say he turned the British stiff upper lip into a laughter-filled pageant without losing a monocle.",
+      "year": 1871,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "US Tour",
+      "summary": "Offenbach embarked on a triumphant tour of the U.S. during the Centennial Exhibition, giving memorable concerts, cunningly disguising his operetta numbers as solemn liturgical music\u2014a masterclass in charming the authorities!",
+      "year": 1876,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Death",
+      "summary": "Offenbach passed away in Paris, leaving behind a legacy that put the 'fun' in funeral as he got a state send-off that left no doubt he was the king of operetta. The crowds didn't just come to mourn; they came to remember the laughter he brought to life.",
+      "year": 1880,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Full-Scale Op\u00e9ra Bouffon",
+      "summary": "Offenbach finally decided to stop messing around with small acts and kicked off his major career with 'Orph\u00e9e aux enfers', proving that he could put together more than just a prank or two. Who knew that operas could have so much fun?",
+      "year": 1858,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Greatest Success Period",
+      "summary": "During the 1860s, Offenbach became the king of operettas, bringing laughter and joy to Paris, and ensuring that his melodies would be hummed long after he left the stage. He basically threw a musical party that everyone wanted to attend!",
+      "year": 1860,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Final Operetta",
+      "summary": "In his last comedy of musical errors, Offenbach penned 'La fille du tambour-major'. It was a triumphant farewell to the world of humor, leaving audiences wondering if he was playing with their hearts or just their funny bones!",
+      "year": 1879,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Move to Paris",
+      "summary": "Young Offenbach decided to trade the Rhine for the Seine, bringing his musical talents to Paris, where he would soon charm audiences with his whimsical compositions. Who needs a boring old German town when you can have croissants and can-can?",
+      "year": 1833,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Operetta Success",
+      "summary": "With the debut of 'Orph\u00e9e aux enfers', Offenbach exploded onto the operetta scene, paving the way for musical merriment and frisky satire. It was as if he mixed champagne with comedy and served it up hot!",
+      "year": 1858,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "International Fame",
+      "summary": "Offenbach's works began to gain traction out of France, with performances spreading like wildfire across Europe and even to America. He became the belle of the ball in operetta, proving that laughter and catchy tunes are truly universal!",
+      "year": 1860,
+      "city": "",
+      "country": "Various"
+    },
+    {
+      "event": "First opera premiere",
+      "summary": "With his first opera premiere, Offenbach likely said 'Voil\u00e0!' to the world, showcasing that he could turn serious art into a delightful spectacle filled with laughter and melodrama. The critics probably didn't know what hit them!",
+      "year": 1855,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Forming Bouffes-Parisiens",
+      "summary": "Offenbach, in a burst of creativity, founded his own theater company, Bouffes-Parisiens. It was like establishing a theme park for music lovers\u2014where every ticket promised a riot of laughter and tunes by the master himself!",
+      "year": 1855,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "International recognition",
+      "summary": "As his operettas traveled beyond France, Offenbach became a household name, proving that laughter truly is a universal language. One could say his music crossed borders faster than a cancan dancer's leg!",
+      "year": 1860,
+      "city": "Various",
+      "country": "Europe"
+    },
+    {
+      "event": "The Grand Duchesses of Gerolstein premiere",
+      "summary": "When 'La Grande-Duchesse de G\u00e9rolstein' premiered, it sent shockwaves through the opera world, and Offenbach likely reveled in the applause. It was his way of saying, 'I told you I could make you laugh and think at the same time!'",
+      "year": 1867,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Last major work",
+      "summary": "In what would be his last major work, Offenbach probably felt a mix of joy and nostalgia, crafting every note like a last dance at a grand ball, knowing he was leaving a legacy full of laughter and catchy tunes that would outlive him.",
+      "year": 1880,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Composition",
+      "summary": "At a young age, he decided that the best way to express himself would be through music, so he penned his first composition. Parents were amazed, though unsure if this was just childhood doodling or a sign of future greatness.",
+      "year": 1830,
+      "city": "Cologne",
+      "country": "Germany"
+    },
+    {
+      "event": "First Major Success",
+      "summary": "He struck gold with 'Orph\u00e9e aux enfers', which combined music and humor like peanut butter and jelly. Audiences laughed, gasped, and left humming the tunes\u2014much to the chagrin of their unsuspecting friends!",
+      "year": 1858,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Founding The Bouffes-Parisiens",
+      "summary": "In a daring move, he opened his own theater, turning it into a hub of creativity. This was his playground where laughter reigns, and he could unleash his operatic imagination to the highest level of silliness!",
+      "year": 1855,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Memoir Publication",
+      "summary": "Finally, he revealed the behind-the-scenes antics of his life and career in a memoir. It was filled with colorful tales that would make anyone snicker, and much to everyone\u2019s surprise, it wasn\u2019t titled 'Things That Went Wrong!'.",
+      "year": 1879,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Final Performance",
+      "summary": "In a dramatic twist, his last spectacular performance had the audience on the edge of their seats. As they enjoyed the show, little did they know it would be his swan song, a real tearjerker, albeit on a happy note!",
+      "year": 1880,
+      "city": "Paris",
+      "country": "France"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%80_toi_(Offenbach,_Jacques)",
+      "year": 1843,
+      "title": "\u00c0 toi"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Apothicaire_et_perruquier_(Offenbach,_Jacques)",
+      "year": 1862,
+      "title": "Apothicaire et perruquier"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ba-ta-clan_(Offenbach,_Jacques)",
+      "year": 1856,
+      "title": "Ba-ta-clan"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bagatelle_(Offenbach,_Jacques)",
+      "year": 1874,
+      "title": "Bagatelle"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Barbe-bleue_(Offenbach,_Jacques)",
+      "year": 1866,
+      "title": "Barbe-bleue"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Barkouf_(Offenbach,_Jacques)",
+      "year": 1861,
+      "title": "Barkouf"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_bavards_(Offenbach,_Jacques)",
+      "year": 1863,
+      "title": "Les bavards"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_belle_H%C3%A9l%C3%A8ne_(Offenbach,_Jacques)",
+      "year": 1865,
+      "title": "La belle H\u00e9l\u00e8ne"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Belle_Lurette_(Offenbach,_Jacques)",
+      "year": 1880,
+      "title": "Belle Lurette"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_belles_am%C3%A9ricaines_(Offenbach,_Jacques)",
+      "year": 1876,
+      "title": "Les belles am\u00e9ricaines"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_bergers_(Offenbach,_Jacques)",
+      "year": 1866,
+      "title": "Les bergers"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bibi-Bamban_(Offenbach,_Jacques)",
+      "year": 1860,
+      "title": "Bibi-Bamban"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bleib_bei_mir_(Offenbach,_Jacques)",
+      "year": 1858,
+      "title": "Bleib bei mir"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_bo%C3%AEte_au_lait_(Offenbach,_Jacques)",
+      "year": 1876,
+      "title": "La bo\u00eete au lait"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_bonne_d%27enfant_(Offenbach,_Jacques)",
+      "year": 1856,
+      "title": "La bonne d'enfant"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_boulang%C3%A8re_a_des_%C3%A9cus_(Offenbach,_Jacques)",
+      "year": 1875,
+      "title": "La boulang\u00e8re a des \u00e9cus"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Boule_de_neige_(Offenbach,_Jacques)",
+      "year": 1871,
+      "title": "Boule de neige"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_braconniers_(Offenbach,_Jacques)",
+      "year": 1873,
+      "title": "Les braconniers"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_Br%C3%A9silien_(Offenbach,_Jacques)",
+      "year": 1863,
+      "title": "Le Br\u00e9silien"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_brigands_(Offenbach,_Jacques)",
+      "year": 1870,
+      "title": "Les brigands"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_carnaval_des_revues_(Offenbach,_Jacques)",
+      "year": 1860,
+      "title": "Le carnaval des revues"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_chanson_de_Fortunio_(Offenbach,_Jacques)",
+      "year": 1861,
+      "title": "La chanson de Fortunio"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chants_du_cr%C3%A9puscule,_Op.29_(Offenbach,_Jacques)",
+      "year": 1846,
+      "title": "Chants du cr\u00e9puscule, Op.29"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_ch%C3%A2teau_%C3%A0_Toto_(Offenbach,_Jacques)",
+      "year": 1868,
+      "title": "Le ch\u00e2teau \u00e0 Toto"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_chatte_m%C3%A9tamorphos%C3%A9e_en_femme_(Offenbach,_Jacques)",
+      "year": 1858,
+      "title": "La chatte m\u00e9tamorphos\u00e9e en femme"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_cigale_et_la_fourmi_(Offenbach,_Jacques)",
+      "year": 1860,
+      "title": "La cigale et la fourmi"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_militaire_(Offenbach,_Jacques)",
+      "year": 1847,
+      "title": "Concerto militaire"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_contes_d%27Hoffmann_(Offenbach,_Jacques)",
+      "year": 1876,
+      "title": "Les contes d'Hoffmann"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_course_en_tra%C3%AEneaux_(Offenbach,_Jacques)",
+      "year": 1849,
+      "title": "La course en tra\u00eeneaux"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_cr%C3%A9ole_(Offenbach,_Jacques)",
+      "year": 1875,
+      "title": "La cr\u00e9ole"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_croix_de_ma_m%C3%A8re_(Offenbach,_Jacques)",
+      "year": 1843,
+      "title": "La croix de ma m\u00e8re"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Croquefer_(Offenbach,_Jacques)",
+      "year": 1857,
+      "title": "Croquefer"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Daphnis_et_Chlo%C3%A9_(Offenbach,_Jacques)",
+      "year": 1860,
+      "title": "Daphnis et Chlo\u00e9"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/D%C3%A9cam%C3%A9ron_dramatique_(Offenbach,_Jacques)",
+      "year": 1854,
+      "title": "D\u00e9cam\u00e9ron dramatique"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_demoiselle_de_Nanterre_(Offenbach,_Jacques)",
+      "year": 1862,
+      "title": "La demoiselle de Nanterre"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Deux_%C3%A2mes_au_ciel,_Op.25_(Offenbach,_Jacques)",
+      "year": 1842,
+      "title": "Deux \u00e2mes au ciel, Op.25"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_deux_aveugles_(Offenbach,_Jacques)",
+      "year": 1855,
+      "title": "Les deux aveugles"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_deux_p%C3%AAcheurs_(Offenbach,_Jacques)",
+      "year": 1857,
+      "title": "Les deux p\u00eacheurs"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_diva_(Offenbach,_Jacques)",
+      "year": 1869,
+      "title": "La diva"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_docteur_Ox_(Offenbach,_Jacques)",
+      "year": 1877,
+      "title": "Le docteur Ox"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Doux_m%C3%A9nestrel_(Offenbach,_Jacques)",
+      "year": 1843,
+      "title": "Doux m\u00e9nestrel"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dragonette_(Offenbach,_Jacques)",
+      "year": 1857,
+      "title": "Dragonette"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_duchesse_d%27Albe_(Offenbach,_Jacques)",
+      "year": 1847,
+      "title": "La duchesse d'Albe"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%89cole_du_violoncelle,_Opp.19-21,_34_(Offenbach,_Jacques)",
+      "year": 1839,
+      "title": "\u00c9cole du violoncelle, Opp.19-21, 34"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/12_Etudes,_Op.78_(Offenbach,_Jacques)",
+      "year": 1845,
+      "title": "12 Etudes, Op.78"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantaisie_sur_%27Le_barbier_de_S%C3%A9ville%27,_Op.71_(Offenbach,_Jacques)",
+      "year": 1856,
+      "title": "Fantaisie sur 'Le barbier de S\u00e9ville', Op.71"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantaisie_sur_Jean_de_Paris,_Op.70_(Offenbach,_Jacques)",
+      "year": 1853,
+      "title": "Fantaisie sur Jean de Paris, Op.70"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantaisie_sur_Norma,_Op.73_(Offenbach,_Jacques)",
+      "year": 1857,
+      "title": "Fantaisie sur Norma, Op.73"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantasio_(Offenbach,_Jacques)",
+      "year": 1872,
+      "title": "Fantasio"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_fifre_enchant%C3%A9_(Offenbach,_Jacques)",
+      "year": 1868,
+      "title": "Le fifre enchant\u00e9"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_fille_de_l%27air_(Offenbach,_Jacques)",
+      "year": 1865,
+      "title": "La fille de l'air"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_fille_du_tambour-major_(Offenbach,_Jacques)",
+      "year": 1880,
+      "title": "La fille du tambour-major"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_financier_et_le_savetier_(Offenbach,_Jacques)",
+      "year": 1856,
+      "title": "Le financier et le savetier"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_fleur_de_Zirka_(Offenbach,_Jacques)",
+      "year": 1840,
+      "title": "La fleur de Zirka"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_fleuve_d%27or_(Offenbach,_Jacques)",
+      "year": 1876,
+      "title": "Le fleuve d'or"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_foire_Saint-Laurent_(Offenbach,_Jacques)",
+      "year": 1877,
+      "title": "La foire Saint-Laurent"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_gascon_(Offenbach,_Jacques)",
+      "year": 1873,
+      "title": "Le gascon"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Genevi%C3%A8ve_de_Brabant_(Offenbach,_Jacques)",
+      "year": 1859,
+      "title": "Genevi\u00e8ve de Brabant"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_g%C3%A9orgiennes_(Offenbach,_Jacques)",
+      "year": 1864,
+      "title": "Les g\u00e9orgiennes"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_grande-duchesse_de_G%C3%A9rolstein_(Offenbach,_Jacques)",
+      "year": 1867,
+      "title": "La grande-duchesse de G\u00e9rolstein"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Herminien-Walzer_(Offenbach,_Jacques)",
+      "year": 1850,
+      "title": "Herminien-Walzer"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27%C3%AEle_de_Tulipatan_(Offenbach,_Jacques)",
+      "year": 1868,
+      "title": "L'\u00eele de Tulipatan"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/J%27aime_la_r%C3%AAverie_(Offenbach,_Jacques)",
+      "year": 1839,
+      "title": "J'aime la r\u00eaverie"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jalousie!_(Offenbach,_Jacques)",
+      "year": 1839,
+      "title": "Jalousie!"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jeanne_la_rousse_(Offenbach,_Jacques)",
+      "year": 1864,
+      "title": "Jeanne la rousse"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jeanne_qui_pleure_et_Jean_qui_rit_(Offenbach,_Jacques)",
+      "year": 1864,
+      "title": "Jeanne qui pleure et Jean qui rit"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_jolie_parfumeuse_(Offenbach,_Jacques)",
+      "year": 1873,
+      "title": "La jolie parfumeuse"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_larmes_de_Jacqueline,_Op.76_No.2_(Offenbach,_Jacques)",
+      "year": 1853,
+      "title": "Les larmes de Jacqueline, Op.76 No.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_le%C3%A7on_de_chant_%C3%A9lectromagn%C3%A9tique_(Offenbach,_Jacques)",
+      "year": 1862,
+      "title": "La le\u00e7on de chant \u00e9lectromagn\u00e9tique"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lischen_et_Fritzchen_(Offenbach,_Jacques)",
+      "year": 1864,
+      "title": "Lischen et Fritzchen"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Madame_Favart_(Offenbach,_Jacques)",
+      "year": 1878,
+      "title": "Madame Favart"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Madame_l%27archiduc_(Offenbach,_Jacques)",
+      "year": 1874,
+      "title": "Madame l'archiduc"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ma%C3%AEtre_P%C3%A9ronilla_(Offenbach,_Jacques)",
+      "year": 1878,
+      "title": "Ma\u00eetre P\u00e9ronilla"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_mariage_aux_lanternes_(Offenbach,_Jacques)",
+      "year": 1857,
+      "title": "Le mariage aux lanternes"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/M%C3%A9lodies_de_Anna_Bolena_(Offenbach,_Jacques)",
+      "year": 1852,
+      "title": "M\u00e9lodies de Anna Bolena"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/M%C3%A9lodies_de_Beatrice_di_Tenda_(Offenbach,_Jacques)",
+      "year": 1857,
+      "title": "M\u00e9lodies de Beatrice di Tenda"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/M%C3%A9lodies_de_Parisina_(Offenbach,_Jacques)",
+      "year": 1852,
+      "title": "M\u00e9lodies de Parisina"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mesdames_de_la_Halle_(Offenbach,_Jacques)",
+      "year": 1858,
+      "title": "Mesdames de la Halle"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Meuni%C3%A8re_et_fermi%C3%A8re_(Offenbach,_Jacques)",
+      "year": 1846,
+      "title": "Meuni\u00e8re et fermi\u00e8re"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Monsieur_Choufleuri_restera_chez_lui_le_(Offenbach,_Jacques)",
+      "year": 1861,
+      "title": "Monsieur Choufleuri restera chez lui le"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Monsieur_et_Madame_Denis_(Offenbach,_Jacques)",
+      "year": 1862,
+      "title": "Monsieur et Madame Denis"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Moucheron_(Offenbach,_Jacques)",
+      "year": 1870,
+      "title": "Moucheron"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Orph%C3%A9e_aux_enfers_(Offenbach,_Jacques)",
+      "year": 1858,
+      "title": "Orph\u00e9e aux enfers"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/P%C3%A9pito_(Offenbach,_Jacques)",
+      "year": 1853,
+      "title": "P\u00e9pito"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_P%C3%A9richole_(Offenbach,_Jacques)",
+      "year": 1868,
+      "title": "La P\u00e9richole"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_permission_de_dix_heures_(Offenbach,_Jacques)",
+      "year": 1868,
+      "title": "La permission de dix heures"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pierrette_et_Jacquot_(Offenbach,_Jacques)",
+      "year": 1876,
+      "title": "Pierrette et Jacquot"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_plaisirs_du_printemps_(Offenbach,_Jacques)",
+      "year": 1839,
+      "title": "Les plaisirs du printemps"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Polka_du_mendiant_(Offenbach,_Jacques)",
+      "year": 1864,
+      "title": "Polka du mendiant"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pomme_d%27api_(Offenbach,_Jacques)",
+      "year": 1873,
+      "title": "Pomme d'api"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_pont_des_soupirs_(Offenbach,_Jacques)",
+      "year": 1861,
+      "title": "Le pont des soupirs"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_postillon_(Offenbach,_Jacques)",
+      "year": 1852,
+      "title": "Le postillon"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_princesse_de_Tr%C3%A9bizonde_(Offenbach,_Jacques)",
+      "year": 1870,
+      "title": "La princesse de Tr\u00e9bizonde"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Rends-moi_mon_%C3%A2me_(Offenbach,_Jacques)",
+      "year": 1843,
+      "title": "Rends-moi mon \u00e2me"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_r%C3%AAve_d%27une_nuit_d%27%C3%A9t%C3%A9_(Offenbach,_Jacques)",
+      "year": 1855,
+      "title": "Le r\u00eave d'une nuit d'\u00e9t\u00e9"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/R%C3%AAverie_au_bord_de_la_mer_(Offenbach,_Jacques)",
+      "year": 1849,
+      "title": "R\u00eaverie au bord de la mer"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Robinson_Cruso%C3%A9_(Offenbach,_Jacques)",
+      "year": 1867,
+      "title": "Robinson Cruso\u00e9"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_roi_Carotte_(Offenbach,_Jacques)",
+      "year": 1872,
+      "title": "Le roi Carotte"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_roman_comique_(Offenbach,_Jacques)",
+      "year": 1862,
+      "title": "Le roman comique"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_romance_de_la_rose_(Offenbach,_Jacques)",
+      "year": 1870,
+      "title": "La romance de la rose"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_rose_de_Saint-Flour_(Offenbach,_Jacques)",
+      "year": 1856,
+      "title": "La rose de Saint-Flour"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/S%C3%A9r%C3%A9nade_du_tor%C3%A9ro_(Offenbach,_Jacques)",
+      "year": 1850,
+      "title": "S\u00e9r\u00e9nade du tor\u00e9ro"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_sergent_recruteur_(Offenbach,_Jacques)",
+      "year": 1846,
+      "title": "Le sergent recruteur"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Il_signor_Fagotto_(Offenbach,_Jacques)",
+      "year": 1868,
+      "title": "Il signor Fagotto"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_66_(Offenbach,_Jacques)",
+      "year": 1856,
+      "title": "Le 66"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_succession_Bonnet_(Offenbach,_Jacques)",
+      "year": 1864,
+      "title": "La succession Bonnet"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_tambour_de_coll%C3%A8ge_(Offenbach,_Jacques)",
+      "year": 1851,
+      "title": "Le tambour de coll\u00e8ge"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_trois_baisers_du_diable_(Offenbach,_Jacques)",
+      "year": 1857,
+      "title": "Les trois baisers du diable"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Tromb-al-ca-zar_(Offenbach,_Jacques)",
+      "year": 1856,
+      "title": "Tromb-al-ca-zar"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Un_mari_%C3%A0_la_porte_(Offenbach,_Jacques)",
+      "year": 1859,
+      "title": "Un mari \u00e0 la porte"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Une_demoiselle_en_loterie_(Offenbach,_Jacques)",
+      "year": 1857,
+      "title": "Une demoiselle en loterie"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Une_nuit_blanche_(Offenbach,_Jacques)",
+      "year": 1855,
+      "title": "Une nuit blanche"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Val%C3%A9ria_(Offenbach,_Jacques)",
+      "year": 1851,
+      "title": "Val\u00e9ria"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Valse_de_Zimmer_(Offenbach,_Jacques)",
+      "year": 1878,
+      "title": "Valse de Zimmer"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Vent_du_soir_(Offenbach,_Jacques)",
+      "year": 1857,
+      "title": "Vent du soir"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Vert-vert_(Offenbach,_Jacques)",
+      "year": 1869,
+      "title": "Vert-vert"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_vie_parisienne_(Offenbach,_Jacques)",
+      "year": 1866,
+      "title": "La vie parisienne"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_violoneux_(Offenbach,_Jacques)",
+      "year": 1855,
+      "title": "Le violoneux"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_vivandi%C3%A8res_des_Zouaves_(Offenbach,_Jacques)",
+      "year": 1859,
+      "title": "Les vivandi\u00e8res des Zouaves"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Vive_la_Suisse_(Offenbach,_Jacques)",
+      "year": 1873,
+      "title": "Vive la Suisse"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_voix_myst%C3%A9rieuses_(Offenbach,_Jacques)",
+      "year": 1852,
+      "title": "Les voix myst\u00e9rieuses"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_voyage_dans_la_lune_(Offenbach,_Jacques)",
+      "year": 1875,
+      "title": "Le voyage dans la lune"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_voyage_de_MM._Dunanan_p%C3%A8re_et_fils_(Offenbach,_Jacques)",
+      "year": 1862,
+      "title": "Le voyage de MM. Dunanan p\u00e8re et fils"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Whittington_(Offenbach,_Jacques)",
+      "year": 1875,
+      "title": "Whittington"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_gascon_(Offenbach,_Jacques)",
+      "year": 1873,
+      "title": "Le gascon"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Monsieur_Choufleuri_restera_chez_lui_le_(Offenbach,_Jacques)",
+      "year": 1861,
+      "title": "Monsieur Choufleuri restera chez lui le"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/12_Songs_for_the_Drawing-Room_(Offenbach,_Jacques)",
+      "year": 1870,
+      "title": "12 Songs for the Drawing-Room"
+    }
+  ]
+}

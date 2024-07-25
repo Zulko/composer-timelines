@@ -1,0 +1,903 @@
+{
+  "full_name": "Ludwig Spohr",
+  "first_names": "Ludwig",
+  "last_name": "Spohr",
+  "birth_year": 1784,
+  "death_year": 1859,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_Spohr",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Louis Spohr was born in Braunschweig, bringing a new melody into the world and likely causing a few scales to be played in the surrounding area.",
+      "year": 1784,
+      "city": "Braunschweig",
+      "country": "Germany"
+    },
+    {
+      "event": "First concert tour",
+      "summary": "Spohr's first concert tour to Hamburg in 1799 was a disaster\u2014think of it as a musical road trip that ran out of gas three miles in!",
+      "year": 1799,
+      "city": "Hamburg",
+      "country": "Germany"
+    },
+    {
+      "event": "Engagement as a chamber musician",
+      "summary": "After impressing Duke Karl Wilhelm Ferdinand, Spohr was hired as a chamber musician at 15, officially moving from playing in the attic to the big leagues.",
+      "year": 1800,
+      "city": "Brunswick",
+      "country": "Germany"
+    },
+    {
+      "event": "Concert in Leipzig",
+      "summary": "A concert in Leipzig made Spohr an overnight sensation. Friedrich Rochlitz, the critic, was left so amazed that he probably wished he had brought a change of pants!",
+      "year": 1804,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Marriage to Dorette Scheidler",
+      "summary": "Spohr married harpist Dorette Scheidler, creating a duo that turned beautiful sounds into their family business\u2014happy music days ensued until Dorette's departure 28 years later.",
+      "year": 1806,
+      "city": "Gotha",
+      "country": "Germany"
+    },
+    {
+      "event": "Conducting in Erfurt",
+      "summary": "Spohr conducted a concert in Erfurt to celebrate Napoleon's birthday, proving that even amid conflict, music could still attempt to steal the spotlight!",
+      "year": 1812,
+      "city": "Erfurt",
+      "country": "Germany"
+    },
+    {
+      "event": "Appointment in Kassel",
+      "summary": "Spohr became the director of music at the court of William II in Kassel, which was basically his equivalent of winning the musical lottery\u2014congrats, Louis!",
+      "year": 1822,
+      "city": "Kassel",
+      "country": "Germany"
+    },
+    {
+      "event": "Second marriage to Marianne Pfeiffer",
+      "summary": "In a surprising twist, Spohr married his second wife, Marianne, at the age of 51, proving that love knows no age limits\u2026 or maybe just no limits on violin playing!",
+      "year": 1836,
+      "city": "Kassel",
+      "country": "Germany"
+    },
+    {
+      "event": "Retirement",
+      "summary": "Spohr was pensioned off against his will in a classic case of music meets bureaucracy, reminding him that even virtuosos must face retirement paperwork!",
+      "year": 1857,
+      "city": "Kassel",
+      "country": "Germany"
+    },
+    {
+      "event": "Death",
+      "summary": "Spohr passed away in Kassel, leaving behind a legacy of music that would have critics and musicians arguing for years\u2014perhaps he was the final note in a crescendo of genius!",
+      "year": 1859,
+      "city": "Kassel",
+      "country": "Germany"
+    },
+    {
+      "event": "First violin lessons",
+      "summary": "At the tender age of five, Spohr started his formal violin lessons. It's said his teacher often wondered if the kid was born with a bow in his hand!",
+      "year": 1789,
+      "city": "Braunschweig",
+      "country": "Germany"
+    },
+    {
+      "event": "First composition",
+      "summary": "By age 10, Spohr composed his first piece. It was a simple tune, but his parents could finally stop listening to the same 'twinkle' over and over.",
+      "year": 1794,
+      "city": "Braunschweig",
+      "country": "Germany"
+    },
+    {
+      "event": "Studied in Paris",
+      "summary": "Spohr packed his bags and headed to Paris for a dose of musical inspiration. Among coffee, croissants, and the Louvre, he decided he could also compose a thing or two.",
+      "year": 1805,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First opera",
+      "summary": "Spohr unleashed his first opera, marking his official entry into the world of dramatic music. 'Die Pr\u00fcfung' probably had everyone asking if they were ready for the pop quiz!",
+      "year": 1806,
+      "city": "Kassel",
+      "country": "Germany"
+    },
+    {
+      "event": "Marriage",
+      "summary": "Spohr tied the knot with his beloved wife, a match most likely filled with sweet duets and the occasional musical squabble.",
+      "year": 1810,
+      "city": "Kassel",
+      "country": "Germany"
+    },
+    {
+      "event": "Becomes conductor",
+      "summary": "Spohr stepped into the spotlight as a conductor, taking charge of orchestras like a musical traffic cop. His ability to multitask must have made him a pro at conducting and staying out of the way of flying bows!",
+      "year": 1817,
+      "city": "Kassel",
+      "country": "Germany"
+    },
+    {
+      "event": "Published 'Violinschule'",
+      "summary": "He published his famous work 'Violinschule', aimed at educating future generations of violinists. It's rumored that this book contained enough tips to fill a whole 'how-to' blog!",
+      "year": 1832,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Concert tours",
+      "summary": "Spohr embarked on numerous concert tours across Europe, dazzling audiences and keeping his travel agent busy with all the bookings. If only his hotel stays came with complimentary luggage!",
+      "year": 1833,
+      "city": "various",
+      "country": "various"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/Der_Alchymist,_WoO_57_(Spohr,_Louis)",
+      "year": 1829,
+      "title": "Der Alchymist, WoO 57"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Aus_der_Tiefen,_Op.85_No.3_(Spohr,_Louis)",
+      "year": 1832,
+      "title": "Aus der Tiefen, Op.85 No.3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Clarinet_Concerto_No.1,_Op.26_(Spohr,_Louis)",
+      "year": 1808,
+      "title": "Clarinet Concerto No.1, Op.26"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Clarinet_Concerto_No.2,_Op.57_(Spohr,_Louis)",
+      "year": 1810,
+      "title": "Clarinet Concerto No.2, Op.57"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Clarinet_Concerto_No.3,_WoO_19_(Spohr,_Louis)",
+      "year": 1821,
+      "title": "Clarinet Concerto No.3, WoO 19"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Clarinet_Concerto_No.4,_WoO_20_(Spohr,_Louis)",
+      "year": 1829,
+      "title": "Clarinet Concerto No.4, WoO 20"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concertante_No.2_for_2_Violins_and_Orchestra,_Op.88_(Spohr,_Louis)",
+      "year": 1833,
+      "title": "Concertante No.2 for 2 Violins and Orchestra, Op.88"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Deutsche_Lieder,_Op.25_(Spohr,_Louis)",
+      "year": 1810,
+      "title": "6 Deutsche Lieder, Op.25"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Deutsche_Lieder,_Op.101_(Spohr,_Louis)",
+      "year": 1836,
+      "title": "6 Deutsche Lieder, Op.101"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Deutsche_Lieder,_Op.103_(Spohr,_Louis)",
+      "year": 1837,
+      "title": "6 Deutsche Lieder, Op.103"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Double_String_Quartet_No.1,_Op.65_(Spohr,_Louis)",
+      "year": 1823,
+      "title": "Double String Quartet No.1, Op.65"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Double_String_Quartet_No.2,_Op.77_(Spohr,_Louis)",
+      "year": 1827,
+      "title": "Double String Quartet No.2, Op.77"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Double_String_Quartet_No.3,_Op.87_(Spohr,_Louis)",
+      "year": 1833,
+      "title": "Double String Quartet No.3, Op.87"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Double_String_Quartet_No.4,_Op.136_(Spohr,_Louis)",
+      "year": 1847,
+      "title": "Double String Quartet No.4, Op.136"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Duet_for_Violin_and_Viola,_Op.13_(Spohr,_Louis)",
+      "year": 1808,
+      "title": "Duet for Violin and Viola, Op.13"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Duo_concertant_No.1,_Op.95_(Spohr,_Louis)",
+      "year": 1836,
+      "title": "Duo concertant No.1, Op.95"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Duo_concertant_No.2,_Op.96_(Spohr,_Louis)",
+      "year": 1838,
+      "title": "Duo concertant No.2, Op.96"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Duo_concertant_No.3,_Op.112_(Spohr,_Louis)",
+      "year": 1837,
+      "title": "Duo concertant No.3, Op.112"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Duo_en_forme_d%27un_pot-pourri,_Op.116_(Spohr,_Louis)",
+      "year": 1841,
+      "title": "Duo en forme d'un pot-pourri, Op.116"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Duo_for_2_Violins,_Op.148_(Spohr,_Louis)",
+      "year": 1856,
+      "title": "Duo for 2 Violins, Op.148"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Duo_for_2_Violins,_Op.150_(Spohr,_Louis)",
+      "year": 1856,
+      "title": "Duo for 2 Violins, Op.150"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Duo_for_2_Violins,_Op.153_(Spohr,_Louis)",
+      "year": 1856,
+      "title": "Duo for 2 Violins, Op.153"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Duos_for_2_Violins,_Op.9_(Spohr,_Louis)",
+      "year": 1808,
+      "title": "2 Duos for 2 Violins, Op.9"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Erinnerung_an_Marienbad,_Op.89_(Spohr,_Louis)",
+      "year": 1834,
+      "title": "Erinnerung an Marienbad, Op.89"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Der_Fall_Babylons,_WoO_63_(Spohr,_Louis)",
+      "year": 1839,
+      "title": "Der Fall Babylons, WoO 63"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantaisie_sur_des_th%C3%A8mes_de_Haendel_et_Abb%C3%A9_Vogler,_Op.118_(Spohr,_Louis)",
+      "year": 1814,
+      "title": "Fantaisie sur des th\u00e8mes de Haendel et Abb\u00e9 Vogler, Op.118"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantasia_for_Harp,_Op.35_(Spohr,_Louis)",
+      "year": 1807,
+      "title": "Fantasia for Harp, Op.35"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantasy_and_Variations,_Op.81_(Spohr,_Louis)",
+      "year": 1811,
+      "title": "Fantasy and Variations, Op.81"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Faust_(Spohr,_Louis)",
+      "year": 1813,
+      "title": "Faust"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Ges%C3%A4nge,_Op.44_(Spohr,_Louis)",
+      "year": 1817,
+      "title": "6 Ges\u00e4nge, Op.44"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Ges%C3%A4nge,_Op.90_(Spohr,_Louis)",
+      "year": 1838,
+      "title": "6 Ges\u00e4nge, Op.90"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Ges%C3%A4nge,_Op.154_(Spohr,_Louis)",
+      "year": 1855,
+      "title": "6 Ges\u00e4nge, Op.154"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Gott,_du_bist_gross,_Op.98_(Spohr,_Louis)",
+      "year": 1836,
+      "title": "Gott, du bist gross, Op.98"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Grand_polonaise,_Op.40_(Spohr,_Louis)",
+      "year": 1815,
+      "title": "Grand polonaise, Op.40"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Des_Heilands_letzte_Stunden,_WoO_62_(Spohr,_Louis)",
+      "year": 1834,
+      "title": "Des Heilands letzte Stunden, WoO 62"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hymne_an_die_heilige_C%C3%A4cilie_(Spohr,_Louis)",
+      "year": 1823,
+      "title": "Hymne an die heilige C\u00e4cilie"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jessonda,_WoO_53_(Spohr,_Louis)",
+      "year": 1822,
+      "title": "Jessonda, WoO 53"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Die_Kreuzfahrer,_WoO_59_(Spohr,_Louis)",
+      "year": 1845,
+      "title": "Die Kreuzfahrer, WoO 59"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Die_letzten_Dinge,_WoO_61_(Spohr,_Louis)",
+      "year": 1825,
+      "title": "Die letzten Dinge, WoO 61"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mass_in_C_minor,_Op.54_(Spohr,_Louis)",
+      "year": 1820,
+      "title": "Mass in C minor, Op.54"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nonet,_Op.31_(Spohr,_Louis)",
+      "year": 1813,
+      "title": "Nonet, Op.31"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Notturno,_Op.34_(Spohr,_Louis)",
+      "year": 1815,
+      "title": "Notturno, Op.34"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Octet,_Op.32_(Spohr,_Louis)",
+      "year": 1814,
+      "title": "Octet, Op.32"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Quintet_No.1,_Op.53_(Spohr,_Louis)",
+      "year": 1820,
+      "title": "Piano Quintet No.1, Op.53"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Quintet_No.2,_Op.130_(Spohr,_Louis)",
+      "year": 1845,
+      "title": "Piano Quintet No.2, Op.130"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata,_Op.125_(Spohr,_Louis)",
+      "year": 1842,
+      "title": "Piano Sonata, Op.125"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.1,_Op.119_(Spohr,_Louis)",
+      "year": 1841,
+      "title": "Piano Trio No.1, Op.119"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.2,_Op.123_(Spohr,_Louis)",
+      "year": 1842,
+      "title": "Piano Trio No.2, Op.123"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.3,_Op.124_(Spohr,_Louis)",
+      "year": 1842,
+      "title": "Piano Trio No.3, Op.124"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.4,_Op.133_(Spohr,_Louis)",
+      "year": 1846,
+      "title": "Piano Trio No.4, Op.133"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.5,_Op.142_(Spohr,_Louis)",
+      "year": 1849,
+      "title": "Piano Trio No.5, Op.142"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Potpourri_for_Clarinet_and_Orchestra,_Op.80_(Spohr,_Louis)",
+      "year": 1811,
+      "title": "Potpourri for Clarinet and Orchestra, Op.80"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Potpourri_No.2,_Op.22_(Spohr,_Louis)",
+      "year": 1807,
+      "title": "Potpourri No.2, Op.22"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Potpourri_No.4,_Op.24_(Spohr,_Louis)",
+      "year": 1808,
+      "title": "Potpourri No.4, Op.24"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Potpourri_on_%27Das_unterbrochene_Opferfest%27,_Op.56_(Spohr,_Louis)",
+      "year": 1822,
+      "title": "Potpourri on 'Das unterbrochene Opferfest', Op.56"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Potpourri_on_Irish_Themes,_Op.59_(Spohr,_Louis)",
+      "year": 1823,
+      "title": "Potpourri on Irish Themes, Op.59"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Potpourri_on_Themes_from_%27Die_Zauberfl%C3%B6te%27,_Op.50_(Spohr,_Louis)",
+      "year": 1821,
+      "title": "Potpourri on Themes from 'Die Zauberfl\u00f6te', Op.50"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Die_Pr%C3%BCfung,_Op.15a_(Spohr,_Louis)",
+      "year": 1809,
+      "title": "Die Pr\u00fcfung, Op.15a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Psalm_24,_Op.97a_(Spohr,_Louis)",
+      "year": 1836,
+      "title": "Psalm 24, Op.97a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Psalm_84,_WoO_72_(Spohr,_Louis)",
+      "year": 1846,
+      "title": "Psalm 84, WoO 72"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Quintet_for_Piano_and_Winds,_Op.52_(Spohr,_Louis)",
+      "year": 1820,
+      "title": "Quintet for Piano and Winds, Op.52"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Salonst%C3%BCcke,_Op.135_(Spohr,_Louis)",
+      "year": 1848,
+      "title": "6 Salonst\u00fccke, Op.135"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Salonst%C3%BCcke,_Op.145_(Spohr,_Louis)",
+      "year": 1856,
+      "title": "6 Salonst\u00fccke, Op.145"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Septet,_Op.147_(Spohr,_Louis)",
+      "year": 1853,
+      "title": "Septet, Op.147"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_Concerto,_Op.131_(Spohr,_Louis)",
+      "year": 1847,
+      "title": "String Quartet Concerto, Op.131"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1,_Op.4_No.1_(Spohr,_Louis)",
+      "year": 1805,
+      "title": "String Quartet No.1, Op.4 No.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2,_Op.4_No.2_(Spohr,_Louis)",
+      "year": 1805,
+      "title": "String Quartet No.2, Op.4 No.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.3,_Op.11_(Spohr,_Louis)",
+      "year": 1806,
+      "title": "String Quartet No.3, Op.11"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.4,_Op.15_No.1_(Spohr,_Louis)",
+      "year": 1808,
+      "title": "String Quartet No.4, Op.15 No.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.5,_Op.15_No.2_(Spohr,_Louis)",
+      "year": 1808,
+      "title": "String Quartet No.5, Op.15 No.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.7,_Op.29_No.1_(Spohr,_Louis)",
+      "year": 1814,
+      "title": "String Quartet No.7, Op.29 No.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.8,_Op.29_No.2_(Spohr,_Louis)",
+      "year": 1815,
+      "title": "String Quartet No.8, Op.29 No.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.9,_Op.29_No.3_(Spohr,_Louis)",
+      "year": 1813,
+      "title": "String Quartet No.9, Op.29 No.3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.10,_Op.30_(Spohr,_Louis)",
+      "year": 1814,
+      "title": "String Quartet No.10, Op.30"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.11,_Op.43_(Spohr,_Louis)",
+      "year": 1817,
+      "title": "String Quartet No.11, Op.43"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.12,_Op.45_No.1_(Spohr,_Louis)",
+      "year": 1818,
+      "title": "String Quartet No.12, Op.45 No.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.13,_Op.45_No.2_(Spohr,_Louis)",
+      "year": 1818,
+      "title": "String Quartet No.13, Op.45 No.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.14,_Op.45_No.3_(Spohr,_Louis)",
+      "year": 1818,
+      "title": "String Quartet No.14, Op.45 No.3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.15,_Op.58_No.1_(Spohr,_Louis)",
+      "year": 1821,
+      "title": "String Quartet No.15, Op.58 No.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.16,_Op.58_No.2_(Spohr,_Louis)",
+      "year": 1821,
+      "title": "String Quartet No.16, Op.58 No.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.17,_Op.58_No.3_(Spohr,_Louis)",
+      "year": 1821,
+      "title": "String Quartet No.17, Op.58 No.3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.18,_Op.61_(Spohr,_Louis)",
+      "year": 1823,
+      "title": "String Quartet No.18, Op.61"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.19,_Op.68_(Spohr,_Louis)",
+      "year": 1823,
+      "title": "String Quartet No.19, Op.68"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.20,_Op.74_No.1_(Spohr,_Louis)",
+      "year": 1826,
+      "title": "String Quartet No.20, Op.74 No.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.21,_Op.74_No.2_(Spohr,_Louis)",
+      "year": 1826,
+      "title": "String Quartet No.21, Op.74 No.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.22,_Op.74_No.3_(Spohr,_Louis)",
+      "year": 1826,
+      "title": "String Quartet No.22, Op.74 No.3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.23,_Op.82_No.1_(Spohr,_Louis)",
+      "year": 1828,
+      "title": "String Quartet No.23, Op.82 No.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.24,_Op.82_No.2_(Spohr,_Louis)",
+      "year": 1828,
+      "title": "String Quartet No.24, Op.82 No.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.25,_Op.82_No.3_(Spohr,_Louis)",
+      "year": 1828,
+      "title": "String Quartet No.25, Op.82 No.3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.26,_Op.83_(Spohr,_Louis)",
+      "year": 1829,
+      "title": "String Quartet No.26, Op.83"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.27,_Op.84_No.1_(Spohr,_Louis)",
+      "year": 1831,
+      "title": "String Quartet No.27, Op.84 No.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.28,_Op.84_No.2_(Spohr,_Louis)",
+      "year": 1831,
+      "title": "String Quartet No.28, Op.84 No.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.29,_Op.84_No.3_(Spohr,_Louis)",
+      "year": 1831,
+      "title": "String Quartet No.29, Op.84 No.3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.30,_Op.93_(Spohr,_Louis)",
+      "year": 1835,
+      "title": "String Quartet No.30, Op.93"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.32,_Op.141_(Spohr,_Louis)",
+      "year": 1849,
+      "title": "String Quartet No.32, Op.141"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.33,_Op.146_(Spohr,_Louis)",
+      "year": 1851,
+      "title": "String Quartet No.33, Op.146"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.34,_Op.152_(Spohr,_Louis)",
+      "year": 1855,
+      "title": "String Quartet No.34, Op.152"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quintet_No.1,_Op.33_No.1_(Spohr,_Louis)",
+      "year": 1814,
+      "title": "String Quintet No.1, Op.33 No.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quintet_No.2,_Op.33_No.2_(Spohr,_Louis)",
+      "year": 1813,
+      "title": "String Quintet No.2, Op.33 No.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quintet_No.3,_Op.69_(Spohr,_Louis)",
+      "year": 1826,
+      "title": "String Quintet No.3, Op.69"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quintet_No.4,_Op.91_(Spohr,_Louis)",
+      "year": 1833,
+      "title": "String Quintet No.4, Op.91"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quintet_No.5,_Op.106_(Spohr,_Louis)",
+      "year": 1838,
+      "title": "String Quintet No.5, Op.106"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quintet_No.6,_Op.129_(Spohr,_Louis)",
+      "year": 1845,
+      "title": "String Quintet No.6, Op.129"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quintet_No.7,_Op.144_(Spohr,_Louis)",
+      "year": 1854,
+      "title": "String Quintet No.7, Op.144"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Sextet,_Op.140_(Spohr,_Louis)",
+      "year": 1848,
+      "title": "String Sextet, Op.140"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphonie_concertante_No.1,_Op.48_(Spohr,_Louis)",
+      "year": 1808,
+      "title": "Symphonie concertante No.1, Op.48"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.1,_Op.20_(Spohr,_Louis)",
+      "year": 1811,
+      "title": "Symphony No.1, Op.20"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.2,_Op.49_(Spohr,_Louis)",
+      "year": 1820,
+      "title": "Symphony No.2, Op.49"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.3,_Op.78_(Spohr,_Louis)",
+      "year": 1828,
+      "title": "Symphony No.3, Op.78"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.4,_Op.86_(Spohr,_Louis)",
+      "year": 1832,
+      "title": "Symphony No.4, Op.86"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.5,_Op.102_(Spohr,_Louis)",
+      "year": 1837,
+      "title": "Symphony No.5, Op.102"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.6,_Op.116_(Spohr,_Louis)",
+      "year": 1839,
+      "title": "Symphony No.6, Op.116"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.7,_Op.121_(Spohr,_Louis)",
+      "year": 1841,
+      "title": "Symphony No.7, Op.121"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.8,_Op.137_(Spohr,_Louis)",
+      "year": 1847,
+      "title": "Symphony No.8, Op.137"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.9,_Op.143_(Spohr,_Louis)",
+      "year": 1850,
+      "title": "Symphony No.9, Op.143"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Theme_and_Variations_for_String_Quartet,_Op.6_(Spohr,_Louis)",
+      "year": 1805,
+      "title": "Theme and Variations for String Quartet, Op.6"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Theme_and_Variations_for_String_Quartet,_Op.8_(Spohr,_Louis)",
+      "year": 1806,
+      "title": "Theme and Variations for String Quartet, Op.8"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Unendlicher!_Gott,_unser_Herr!,_Op.85_No.1_(Spohr,_Louis)",
+      "year": 1832,
+      "title": "Unendlicher! Gott, unser Herr!, Op.85 No.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Variations_on_%27Alruna%27_for_Clarinet_and_Orchestra,_WoO_15_(Spohr,_Louis)",
+      "year": 1809,
+      "title": "Variations on 'Alruna' for Clarinet and Orchestra, WoO 15"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Variations_sur_%27Je_suis_encore_dans_mon_printemps%27,_Op.36_(Spohr,_Louis)",
+      "year": 1807,
+      "title": "Variations sur 'Je suis encore dans mon printemps', Op.36"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Vater_Unser,_WoO_67_(Spohr,_Louis)",
+      "year": 1829,
+      "title": "Vater Unser, WoO 67"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto_No.1,_Op.1_(Spohr,_Louis)",
+      "year": 1802,
+      "title": "Violin Concerto No.1, Op.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto_No.2,_Op.2_(Spohr,_Louis)",
+      "year": 1804,
+      "title": "Violin Concerto No.2, Op.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto_No.3,_Op.7_(Spohr,_Louis)",
+      "year": 1805,
+      "title": "Violin Concerto No.3, Op.7"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto_No.4,_Op.10_(Spohr,_Louis)",
+      "year": 1805,
+      "title": "Violin Concerto No.4, Op.10"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto_No.5,_Op.17_(Spohr,_Louis)",
+      "year": 1807,
+      "title": "Violin Concerto No.5, Op.17"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto_No.6,_Op.28_(Spohr,_Louis)",
+      "year": 1808,
+      "title": "Violin Concerto No.6, Op.28"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto_No.7,_Op.38_(Spohr,_Louis)",
+      "year": 1814,
+      "title": "Violin Concerto No.7, Op.38"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto_No.8,_Op.47_(Spohr,_Louis)",
+      "year": 1816,
+      "title": "Violin Concerto No.8, Op.47"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto_No.9,_Op.55_(Spohr,_Louis)",
+      "year": 1820,
+      "title": "Violin Concerto No.9, Op.55"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto_No.10,_Op.62_(Spohr,_Louis)",
+      "year": 1810,
+      "title": "Violin Concerto No.10, Op.62"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto_No.11,_Op.70_(Spohr,_Louis)",
+      "year": 1827,
+      "title": "Violin Concerto No.11, Op.70"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto_No.12,_Op.79_(Spohr,_Louis)",
+      "year": 1828,
+      "title": "Violin Concerto No.12, Op.79"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto_No.13,_Op.92_(Spohr,_Louis)",
+      "year": 1835,
+      "title": "Violin Concerto No.13, Op.92"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto_No.14,_Op.110_(Spohr,_Louis)",
+      "year": 1839,
+      "title": "Violin Concerto No.14, Op.110"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto_No.15,_Op.128_(Spohr,_Louis)",
+      "year": 1844,
+      "title": "Violin Concerto No.15, Op.128"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.1,_WoO_23_(Spohr,_Louis)",
+      "year": 1805,
+      "title": "Violin Sonata No.1, WoO 23"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.2,_Op.16_(Spohr,_Louis)",
+      "year": 1806,
+      "title": "Violin Sonata No.2, Op.16"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.4,_Op.113_(Spohr,_Louis)",
+      "year": 1806,
+      "title": "Violin Sonata No.4, Op.113"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.5,_Op.114_(Spohr,_Louis)",
+      "year": 1841,
+      "title": "Violin Sonata No.5, Op.114"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.6,_Op.115_(Spohr,_Louis)",
+      "year": 1809,
+      "title": "Violin Sonata No.6, Op.115"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Was_treibt_den_Waidmann_in_den_Wald,_WoO_92_(Spohr,_Louis)",
+      "year": 1825,
+      "title": "Was treibt den Waidmann in den Wald, WoO 92"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Zemire_und_Azor,_WoO_52_(Spohr,_Louis)",
+      "year": 1818,
+      "title": "Zemire und Azor, WoO 52"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Der_Zweikampf_mit_der_Geliebten,_WoO_50_(Spohr,_Louis)",
+      "year": 1810,
+      "title": "Der Zweikampf mit der Geliebten, WoO 50"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_String_Quartets,_Op.4_(Spohr,_Louis)",
+      "year": 1805,
+      "title": "2 String Quartets, Op.4"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_String_Quartets,_Op.15_(Spohr,_Louis)",
+      "year": 1807,
+      "title": "2 String Quartets, Op.15"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_String_Quartets,_Op.29_(Spohr,_Louis)",
+      "year": 1813,
+      "title": "3 String Quartets, Op.29"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_String_Quartets,_Op.45_(Spohr,_Louis)",
+      "year": 1818,
+      "title": "3 String Quartets, Op.45"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_String_Quartets,_Op.58_(Spohr,_Louis)",
+      "year": 1821,
+      "title": "3 String Quartets, Op.58"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_String_Quartets,_Op.74_(Spohr,_Louis)",
+      "year": 1826,
+      "title": "3 String Quartets, Op.74"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_String_Quartets,_Op.82_(Spohr,_Louis)",
+      "year": 1828,
+      "title": "3 String Quartets, Op.82"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_String_Quartets,_Op.84_(Spohr,_Louis)",
+      "year": 1831,
+      "title": "3 String Quartets, Op.84"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Vollst%C3%A4ndige_Sammlung_der_Concert-Compositionen_f%C3%BCr_die_Violine_(Spohr,_Louis)",
+      "year": 1832,
+      "title": "Vollst\u00e4ndige Sammlung der Concert-Compositionen f\u00fcr die Violine"
+    }
+  ]
+}

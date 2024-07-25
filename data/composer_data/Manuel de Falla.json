@@ -1,0 +1,123 @@
+{
+  "full_name": "Manuel de Falla",
+  "first_names": "Manuel",
+  "last_name": "de Falla",
+  "birth_year": 1876,
+  "death_year": 1946,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Manuel_de_Falla",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Manuel de Falla pops into the world in C\u00e1diz\u2014just what Spain needed, another future musical genius shaking things up! His parents surely had no idea they were in for a ride when they named him Manuel Mar\u00eda de los Dolores.",
+      "year": 1876,
+      "city": "C\u00e1diz",
+      "country": "Spain"
+    },
+    {
+      "event": "Piano Lessons",
+      "summary": "At the tender age of 13, Falla dives headfirst into piano lessons and starts crafting melodies while trying to juggle his teenage angst and budding literary ambitions, creating magazines along the way. Who knew sonatas and sass could mix?",
+      "year": 1889,
+      "city": "C\u00e1diz",
+      "country": "Spain"
+    },
+    {
+      "event": "Madrid Move",
+      "summary": "Falla relocates to bustling Madrid, where he dives into composition and piano studies, probably hoping to outshine his peers\u2014spoiler alert: he does! He quickly becomes the talk of the town after grabbing first prize in a piano competition\u2014go, Manuel!",
+      "year": 1900,
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    {
+      "event": "La vida breve",
+      "summary": "After years of hard work and a sprinkle of revisions, Falla whips up a one-act opera, La vida breve, winning him accolades and a cash prize. Unfortunately, the promised grand production falls flat\u2014talk about a dramatic twist!",
+      "year": 1905,
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    {
+      "event": "Parisian Sojourn",
+      "summary": "Falla trades in his flamenco for French flair, moving to Paris to rub elbows with the likes of Ravel and Stravinsky. He feels the excitement of Parisian concerts while trying to figure out how to fit in with the avant-garde crowd.",
+      "year": 1907,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Performance of La vida breve",
+      "summary": "Finally, after all the wait, Falla's La vida breve sees the light of day in Nice\u2014a true triumph! One can only imagine the sigh of relief he must have heaved! Finally, a standing ovation for all those years of hard work.",
+      "year": 1913,
+      "city": "Nice",
+      "country": "France"
+    },
+    {
+      "event": "Return to Madrid",
+      "summary": "With the onset of WWI forcing him back to Madrid, Falla returns to a city less glamorous than before (thanks, world events!). But hey, silver lining: he dives into composing some of his best-known works amid the chaos!",
+      "year": 1914,
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    {
+      "event": "Granada Period",
+      "summary": "Falla finds solace in the beautiful city of Granada, where he organizes a flamenco contest that turns into a musical love affair\u2014how romantic! Here, he conceives works showcasing the charms of Spanish folk influences and a hint of elegance.",
+      "year": 1921,
+      "city": "Granada",
+      "country": "Spain"
+    },
+    {
+      "event": "Move to Argentina",
+      "summary": "After fleeing to Argentina post-Civil War, Falla continues composing, proving that distance makes the heart grow fonder\u2014even for unfinished works! He sees the bright lights of Buenos Aires while still dreaming of his beloved Spain.",
+      "year": 1939,
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    {
+      "event": "Death",
+      "summary": "Falla takes his final bow in Alta Gracia, saying adios to the world just shy of his 70th birthday. Surely, the music in him lives on, while he leaves behind a well-deserved legacy of compositions to keep the world dancing!",
+      "year": 1946,
+      "city": "Alta Gracia",
+      "country": "Argentina"
+    },
+    {
+      "event": "First Composition",
+      "summary": "Falla completed his first piano sonata, proving that his musical skills exceeded those of his childhood friends, who mostly just played tag.",
+      "year": 1897,
+      "city": "Cadiz",
+      "country": "Spain"
+    },
+    {
+      "event": "Move to Paris",
+      "summary": "Falla moved to Paris, rubbing shoulders with greats while making enough noise to get kicked out of a caf\u00e9 at least once.",
+      "year": 1907,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "El amor brujo Premieres",
+      "summary": "His ballet 'El amor brujo' premiered, charming audiences with magical dances and the kind of flames only a 'Ritual Fire Dance' could conjure.",
+      "year": 1915,
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    {
+      "event": "The Three-Cornered Hat Complete",
+      "summary": "Falla completed 'The Three-Cornered Hat', a masterpiece which made even triangular hats fashionable again.",
+      "year": 1919,
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    {
+      "event": "Harpsichord Concerto",
+      "summary": "He wrote his Harpsichord Concerto, showcasing the instrument's charming quirks while making most people question their knowledge of baroque instruments.",
+      "year": 1926,
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    {
+      "event": "Return to Spain",
+      "summary": "After years abroad, Falla returned to Spain, perhaps to reconnect with his roots, or maybe just to enjoy some good paella.",
+      "year": 1939,
+      "city": "Granada",
+      "country": "Spain"
+    }
+  ],
+  "compositions": []
+}

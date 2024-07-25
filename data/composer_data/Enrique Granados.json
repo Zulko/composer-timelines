@@ -1,0 +1,172 @@
+{
+  "full_name": "Enrique Granados",
+  "first_names": "Enrique",
+  "last_name": "Granados",
+  "birth_year": 1867,
+  "death_year": 1916,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Enrique_Granados",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Pantale\u00f3n Enrique Joaqu\u00edn Granados Campi\u00f1a was born, marking the arrival of a future musical genius and piano virtuoso. Little did his parents know they were just one toddler tantrum away from perplexing concert halls around the world.",
+      "year": 1867,
+      "city": "Lleida",
+      "country": "Spain"
+    },
+    {
+      "event": "Piano Studies",
+      "summary": "Granados began his piano studies in Barcelona. It was like musical kindergarten where he learned to tickle the ivories from teachers who probably hoped he wouldn't just play Chopsticks.",
+      "year": 1880,
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    {
+      "event": "Paris Studies",
+      "summary": "Moved to Paris for further studies, where he took private lessons with a renowned professor. Although he couldn't get into the conservatoire, he certainly was a 'private student' and made the most of it, probably impressing the French with his Catalan charm.",
+      "year": 1887,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Return to Barcelona",
+      "summary": "Granados returned to Barcelona, bringing back a suitcase full of French sophistication and a few extra musical skills, setting the stage for a thriving career ahead.",
+      "year": 1889,
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    {
+      "event": "First Opera Success",
+      "summary": "His opera Mar\u00eda del Carmen debuted to much acclaim, winning the attention of King Alfonso XIII. It was the kind of royal reception every composer dreams of, minus the tiaras.",
+      "year": 1898,
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    {
+      "event": "Competition Win",
+      "summary": "Winning a national competition for his concert piece Allegro de concierto brought Granados into the spotlight, proving he could not only play the piano but also make it sing for him (or at least make the judges dance with joy).",
+      "year": 1903,
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    {
+      "event": "Premier of Goyescas",
+      "summary": "The suite Goyescas premiered and sent the audience into a frenzy. It was like a musical painting; patrons were pretty much dancing through the gallery of sounds inspired by Francisco Goya's work!",
+      "year": 1911,
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    {
+      "event": "Goyescas Opera Premiere",
+      "summary": "The opera version of Goyescas debuted in New York City to rave reviews, making Granados the toast of the town. Nothing like a little transatlantic success to make one's heart swell!",
+      "year": 1916,
+      "city": "New York City",
+      "country": "USA"
+    },
+    {
+      "event": "Final Concert and Recordings",
+      "summary": "Before his untimely death, Granados treated audiences to a final recital and made live player piano recordings. You could say he went out with a bang\u2014or perhaps a symphony!",
+      "year": 1916,
+      "city": "New York City",
+      "country": "USA"
+    },
+    {
+      "event": "Tragic Death",
+      "summary": "Granados drowned after the ferry he was on was torpedoed during World War I. A romantic hero, he made the ultimate sacrifice for love, refusing to forsake his wife in a moment of chaos \u2013 a true testament to his character!",
+      "year": 1916,
+      "city": "English Channel",
+      "country": "France"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro_de_Concierto,_Op.46_(Granados,_Enrique)",
+      "year": 1903,
+      "title": "Allegro de Concierto, Op.46"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bocetos_(Granados,_Enrique)",
+      "year": 1912,
+      "title": "Bocetos"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/A_la_Cubana,_Op.36_(Granados,_Enrique)",
+      "year": 1914,
+      "title": "A la Cubana, Op.36"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cuentos_de_la_juventud,_Op.1_(Granados,_Enrique)",
+      "year": 1906,
+      "title": "Cuentos de la juventud, Op.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dante,_Op.21_(Granados,_Enrique)",
+      "year": 1908,
+      "title": "Dante, Op.21"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/12_Danzas_espa%C3%B1olas_(Granados,_Enrique)",
+      "year": 1890,
+      "title": "12 Danzas espa\u00f1olas"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Danzas_Espa%C3%B1olas,_Op.37_(Granados,_Enrique)",
+      "year": 1915,
+      "title": "2 Danzas Espa\u00f1olas, Op.37"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Elegia_eterna_(Granados,_Enrique)",
+      "year": 1914,
+      "title": "Elegia eterna"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Escenas_Po%C3%A9ticas_(Granados,_Enrique)",
+      "year": 1912,
+      "title": "Escenas Po\u00e9ticas"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Goyescas_(opera)_(Granados,_Enrique)",
+      "year": 1913,
+      "title": "Goyescas"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Goyescas_(piano_suite)_(Granados,_Enrique)",
+      "year": 1909,
+      "title": "Goyescas"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/El_jard%C3%AD_d%E2%80%99Elisenda_(Granados,_Enrique)",
+      "year": 1912,
+      "title": "El jard\u00ed d\u2019Elisenda"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jota_de_Miel_de_la_Alcarria_(Granados,_Enrique)",
+      "year": 1897,
+      "title": "Jota de Miel de la Alcarria"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/El_pelele_(Granados,_Enrique)",
+      "year": 1913,
+      "title": "El pelele"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Quintet_in_G_minor,_Op.49_(Granados,_Enrique)",
+      "year": 1894,
+      "title": "Piano Quintet in G minor, Op.49"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/12_Tonadillas_en_estilo_antiguo_(Granados,_Enrique)",
+      "year": 1914,
+      "title": "12 Tonadillas en estilo antiguo"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Valse_de_concert,_Op.35_(Granados,_Enrique)",
+      "year": 1914,
+      "title": "Valse de concert, Op.35"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/8_Valses_poeticos_(Granados,_Enrique)",
+      "year": 1894,
+      "title": "8 Valses poeticos"
+    }
+  ]
+}
