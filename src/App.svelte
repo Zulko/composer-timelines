@@ -1,8 +1,8 @@
 <script>
   import { onMount } from "svelte";
-  import ComposerSelector from "./components/ComposerSelector.svelte";
-  import YearByYearDisplay from "./components/YearByYearDisplay.svelte";
-  import About from "./components/About.svelte";
+  import ComposerSelector from "./lib/ComposerSelector.svelte";
+  import YearByYearDisplay from "./lib/YearByYearDisplay.svelte";
+  import About from "./lib/About.svelte";
 
   let composerListWithMetadata = [];
   let selectedComposers = [];
