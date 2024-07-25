@@ -110,26 +110,26 @@ and be as informative as possible.
 """)
 ```
 
-```json
+```python
 [{'event': 'Birth',
-  'summary': 'Giovanni Battista Pergolesi was born into a modest
-  family. His musical talent became evident early in his childhood.',
+  'summary': """Giovanni Battista Pergolesi was born into a modest
+  family. His musical talent became evident early in his childhood.""",
   'year': 1710,
   'city': 'Jesi',
   'country': 'Italy'},
  ...
  {'event': 'Early Compositions',
-  'summary': 'Around this time, Pergolesi began composing sacred
+  'summary': """Around this time, Pergolesi began composing sacred
   music, cantatas, and instrumental pieces, showcasing his rapidly
-  developing talent.',
+  developing talent.""",
   'year': 1723,
   'city': 'Naples',
   'country': 'Italy'},
  ...
  {'event': "Composes 'Stabat Mater'",
-  'summary': "One of his most famous works, 'Stabat Mater',
+  'summary': """One of his most famous works, 'Stabat Mater',
              was composed during this period, commissioned
-             by the Confraternity of San Luigi di Palazzo.",
+             by the Confraternity of San Luigi di Palazzo.""",
   'year': 1736,
   'city': 'Naples',
   'country': 'Italy'},
@@ -152,25 +152,25 @@ and be as informative as possible.
 
 > [
   {'event': 'Birth',
-   'summary': 'Franz Schubert was born on January 31, 1797, in
+   'summary': """Franz Schubert was born on January 31, 1797, in
     Himmelpfortgrund, a small suburb of Vienna, to Franz Theodor Florian
     Schubert and Maria Elisabeth Katharina. His father was a schoolmaster
     and his mother was a housemaid. Schubert showed early musical talent
-    and was encouraged by his family.',
+    and was encouraged by his family.""",
   'year': 1797, 'city': 'Vienna', 'country': 'Austria'},
  {'event': 'Early musical education',
-  'summary': "Schubert's father and brother gave him his first lessons in
+  'summary': """Schubert's father and brother gave him his first lessons in
   piano and violin. Recognizing his prodigious talent, his family enrolled
   him in the Imperial Court Chapel, where he sang in the choir and received a
-  rigorous musical education under Antonio Salieri.",
+  rigorous musical education under Antonio Salieri.""",
   'year': 1808,
   'city': 'Vienna',
   'country': 'Austria'},
  {'event': 'First compositions',
-  'summary': 'At a young age, Schubert began composing music. Among his
+  'summary': '''At a young age, Schubert began composing music. Among his
   earliest works are string quartets and his first symphony, composed when he
   was just 16. His growing portfolio included songs, chamber music, and
-  orchestral works.',
+  orchestral works.''',
   'year': 1813,
   'city': 'Vienna',
   'country': 'Austria'},
@@ -193,7 +193,7 @@ What was wagner doing when Bizet was composing Carmen?
     ],
     'timeline': """Carmen was composed between 1873 and 1875;
                  during this time, Wagner was primarily occupied
-                 with his final works"""}
+                 with his final works"""
   }
 }
 ```
@@ -410,7 +410,7 @@ TEXT:
 
 Here is an example output for 1791:
 
-```
+```python
 [
   {
     "event": "Introduction of the Metric System in France",
@@ -480,7 +480,7 @@ Data format:
 
 The data will be a list of composers, each composer with the following JSON structure:
 
-```json
+```
 {
     name: "Ludwig van Beethoven",
     portrait_url: "https://some_url.jpeg"
