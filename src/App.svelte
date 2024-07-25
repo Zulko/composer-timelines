@@ -49,12 +49,16 @@
   }
 
   onMount(async () => {
+    const baseFolder =
+      process.env.NODE_ENV === "development" ? "" : "/composer-timelines";
     const composerListResponse = await fetch(
-      "/data/composer_list_with_metadata.json"
+      basefolder + "/data/composer_list_with_metadata.json"
     );
     composerListWithMetadata = await composerListResponse.json();
 
-    const worldEventsResponse = await fetch("/data/year_world_events.json");
+    const worldEventsResponse = await fetch(
+      basefolder + "/data/year_world_events.json"
+    );
     worldEvents = await worldEventsResponse.json();
   });
 
