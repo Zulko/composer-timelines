@@ -1,0 +1,224 @@
+{
+  "full_name": "Alban Berg",
+  "first_names": "Alban",
+  "last_name": "Berg",
+  "birth_year": 1885,
+  "death_year": 1935,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alban_Berg",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Alban Berg entered the world on a chilly February morning in Vienna, making his debut in a city that would witness his rise to fame\u2014in a family that could have used a more dramatic entrance, really. Little did anyone know at that moment, the Third of the Berg siblings would grow up to compose music that would make audiences both weep and wonder.",
+      "year": 1885,
+      "city": "Vienna",
+      "country": "Austria-Hungary"
+    },
+    {
+      "event": "First Composition",
+      "summary": "At the tender age of fifteen, Berg decided it was time to embark on a musically adventurous path, teaching himself how to compose\u2014perhaps thinking he could out-lyric the poets who had his heart in a poetic chokehold. This early venture set him on the road to creating emotional masterpieces.",
+      "year": 1900,
+      "city": "Vienna",
+      "country": "Austria-Hungary"
+    },
+    {
+      "event": "Marriage",
+      "summary": "After some serious courting maneuvers and possibly dodging melodramatic family disapproval, Berg finally tied the knot with Helene Nahowski, who came with a fascinating family background\u2014talk about a royal flush! A Protestant ceremony was a necessary compromise, but who knew that love could be so... bureaucratic?",
+      "year": 1911,
+      "city": "Vienna",
+      "country": "Austria-Hungary"
+    },
+    {
+      "event": "First Public Success with Wozzeck",
+      "summary": "Berg's first opera, Wozzeck, came out swinging and received its first public success after a long period of determination and creativity. This groundbreaking work was like mixing angst with a dash of operatic flair, and it became clear that audiences were up for the ride in a musically savage world.",
+      "year": 1925,
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    {
+      "event": "Completion of Violin Concerto",
+      "summary": "In a rush of creativity (and perhaps a hint of panic due to a tight commission), Berg penned his Violin Concerto, a heartfelt and emotional work dedicated to a memory that glittered with nostalgia. It\u2019s the sort of piece that makes the strings weep in joy and sadness simultaneously\u2014a true Berg special!",
+      "year": 1935,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Death",
+      "summary": "On Christmas Eve\u2014talk about a dramatic flair\u2014Berg passed away from an unfortunate case of blood poisoning, which was not the kind of festive ending anyone had in mind. Perhaps he was off to join the celestial choir, but not before leaving behind a legacy as rich as a holiday feast, forever changing music's landscape.",
+      "year": 1935,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Premiere of Wozzeck",
+      "summary": "The world was graced with Berg's opera 'Wozzeck', a piece that combined gut-wrenching emotion and innovation, effectively saying 'who needs traditional operatic norms anyway?'.",
+      "year": 1925,
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    {
+      "event": "Lieder Composition",
+      "summary": "Berg was busy crafting his Lieder, meaning he was essentially throwing a party for poetry and melodies from 1913 to 1916, where everyone was invited, but most were left dancing awkwardly in the corner.",
+      "year": 1916,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Chamber Symphony No. 1",
+      "summary": "From 1906, Berg started tinkering with his Chamber Symphony No. 1, proving that even for complex compositions, it often takes just one mad genius in a room to say, 'Let\u2019s do this with style!' and turn it into a masterpiece.",
+      "year": 1906,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Opera Wozzeck",
+      "summary": "Ah, Wozzeck, arguably Berg's most famous work. He put his heart and many sleepless nights into this opera between 1914 and 1922, which revolves around a soldier\u2014because who doesn\u2019t love a story involving tragic figures and melodramatic turns!",
+      "year": 1922,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Teaching Contribution",
+      "summary": "Berg wasn't just about creating; he also loved to share his knowledge and had a knack for teaching. Think of him as a musical grandparent who didn\u2019t just hand down cookies but also handed down compositional wisdom from 1910 to 1911.",
+      "year": 1911,
+      "city": "Vienna",
+      "country": "Austria"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/7_Fr%C3%BChe_Lieder_(Berg,_Alban)",
+      "year": 1907,
+      "title": "7 Fr\u00fche Lieder"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Ges%C3%A4nge,_Op.2_(Berg,_Alban)",
+      "year": 1910,
+      "title": "4 Ges\u00e4nge, Op.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Impromptu_in_E_major_(Berg,_Alban)",
+      "year": 1907,
+      "title": "Impromptu in E major"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jugendlieder_(Berg,_Alban)",
+      "year": 1901,
+      "title": "Jugendlieder"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Kammerkonzert_(Berg,_Alban)",
+      "year": 1923,
+      "title": "Kammerkonzert"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Klavierst%C3%BCck_in_B_minor_(Berg,_Alban)",
+      "year": 1907,
+      "title": "Klavierst\u00fcck in B minor"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Klavierst%C3%BCck_in_C_minor_(Berg,_Alban)",
+      "year": 1907,
+      "title": "Klavierst\u00fcck in C minor"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Klavierst%C3%BCck_in_C-sharp_minor_(Berg,_Alban)",
+      "year": 1907,
+      "title": "Klavierst\u00fcck in C-sharp minor"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Klavierst%C3%BCck_in_F_minor_(Berg,_Alban)",
+      "year": 1907,
+      "title": "Klavierst\u00fcck in F minor"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Kleiner_Walzer_in_G_major_(Berg,_Alban)",
+      "year": 1907,
+      "title": "Kleiner Walzer in G major"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lulu_Suite_(Berg,_Alban)",
+      "year": 1934,
+      "title": "Lulu Suite"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lulu_(Berg,_Alban)",
+      "year": 1929,
+      "title": "Lulu"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lyrische_Suite_(Berg,_Alban)",
+      "year": 1925,
+      "title": "Lyrische Suite"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Menuet_in_F_major_(Berg,_Alban)",
+      "year": 1907,
+      "title": "Menuet in F major"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_Orchesterlieder,_Op.4_(Berg,_Alban)",
+      "year": 1911,
+      "title": "5 Orchesterlieder, Op.4"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Orchesterst%C3%BCcke,_Op.6_(Berg,_Alban)",
+      "year": 1914,
+      "title": "3 Orchesterst\u00fccke, Op.6"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata,_Op.1_(Berg,_Alban)",
+      "year": 1907,
+      "title": "Piano Sonata, Op.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Schliesse_mir_die_Augen_beide_(Berg,_Alban)",
+      "year": 1900,
+      "title": "Schliesse mir die Augen beide"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet,_Op.3_(Berg,_Alban)",
+      "year": 1910,
+      "title": "String Quartet, Op.3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_St%C3%BCcke,_Op.5_(Berg,_Alban)",
+      "year": 1913,
+      "title": "4 St\u00fccke, Op.5"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Thema_und_Variation_in_A_minor_(Berg,_Alban)",
+      "year": 1907,
+      "title": "Thema und Variation in A minor"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Thema_und_Variation_in_F_minor_(Berg,_Alban)",
+      "year": 1907,
+      "title": "Thema und Variation in F minor"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/12_Variationen_%C3%BCber_ein_eigenes_Thema_(Berg,_Alban)",
+      "year": 1908,
+      "title": "12 Variationen \u00fcber ein eigenes Thema"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto_(Berg,_Alban)",
+      "year": 1935,
+      "title": "Violin Concerto"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Der_Wein_(Berg,_Alban)",
+      "year": 1929,
+      "title": "Der Wein"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Wozzeck,_Op.7_(Berg,_Alban)",
+      "year": 1914,
+      "title": "Wozzeck, Op.7"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jugendlieder_(Berg,_Alban)",
+      "year": 1901,
+      "title": "Jugendlieder"
+    }
+  ]
+}

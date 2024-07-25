@@ -1,0 +1,263 @@
+{
+  "full_name": "Sergei Prokofiev",
+  "first_names": "Sergei",
+  "last_name": "Prokofiev",
+  "birth_year": 1891,
+  "death_year": 1953,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sergei_Prokofiev",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Sergei Prokofiev graced the world with his presence in a rural estate in Ukraine, where he was destined to become a musical powerhouse. His mother, a determined music lover, likely thought she was giving birth to the next Chopin, instead she got a curious boy who wrote his first piano piece at the tender age of five\u2014an 'Indian Gallop'\u2014long before he learned that native music requires more than just galloping rhythm.",
+      "year": 1891,
+      "city": "Sontsovka",
+      "country": "Russian Empire"
+    },
+    {
+      "event": "First Composition",
+      "summary": "At the ripe age of five, young Prokofiev penned his very first composition, which apparently indicated that his future was going to be a cacophony of creativity. This piece probably sounded like a wild horse running away from home, a precursor to his many orchestral wild rides yet to come!",
+      "year": 1896,
+      "city": "Sontsovka",
+      "country": "Russian Empire"
+    },
+    {
+      "event": "Education at Conservatory",
+      "summary": "Prokofiev, in a musical twist of fate, secured admission to the prestigious Saint Petersburg Conservatory. There, he earned a degree in composition\u2014hopefully, completed without detentions for being too avant-garde among traditionalists!",
+      "year": 1904,
+      "city": "Saint Petersburg",
+      "country": "Russian Empire"
+    },
+    {
+      "event": "Completion of First Symphony",
+      "summary": "In a surprising turn of self-inspired creativity, Prokofiev completed his first symphony, cheekily named the 'Classical.' Legend has it he imagined that Haydn was peeking through the keyhole, raising an eyebrow at the deviation from tradition while secretly cheering him on from the afterlife.",
+      "year": 1917,
+      "city": "Saint Petersburg",
+      "country": "Russian Empire"
+    },
+    {
+      "event": "Return to Russia",
+      "summary": "After years trajectory of ups and downs spanning continents, Prokofiev made the long-awaited and mood-boosting decision to return to his homeland. It was the ultimate 'you can't go home again' story, except this time he really could and brought his family, proving you can go home even when the revolution is brewing!",
+      "year": 1936,
+      "city": "Moscow",
+      "country": "Soviet Union"
+    },
+    {
+      "event": "Composition of War and Peace",
+      "summary": "Amidst WWII chaos, Prokofiev snagged attention by composing an audacious adaptation of Tolstoy's 'War and Peace.' Just imagine him trying to sell the original libretto while dodging tank shells \u2013 now that's dedication to art!",
+      "year": 1941,
+      "city": "Moscow",
+      "country": "Soviet Union"
+    },
+    {
+      "event": "Final Years",
+      "summary": "The final act of Prokofiev\u2019s dramatic life came to fruition in Moscow, where he continued to compose music until he couldn't anymore. Imagine the maestro, now past his prime, refusing to let his musical genius be eclipsed by age; he was composing like a true rockstar till the grand finale!",
+      "year": 1953,
+      "city": "Moscow",
+      "country": "Soviet Union"
+    },
+    {
+      "event": "Departure to America",
+      "summary": "Prokofiev found himself unoccupied and decided that Russia needed music about as much as a fish needs a bicycle. So, he grabbed his passport and set off for the U.S. with blessings from a revolutionary education minister, after all, revolutionary musicians ought to stick together!",
+      "year": 1918,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Arrival in San Francisco",
+      "summary": "Prokofiev arrived in San Francisco after a rather awkward tango with immigration officials on Angel Island. He was soon dubbed a sensation like Rachmaninoff, though he probably thought, 'I don't even have a sweater vest!'",
+      "year": 1918,
+      "city": "San Francisco",
+      "country": "United States"
+    },
+    {
+      "event": "Premiere of The Love for Three Oranges",
+      "summary": "After a rollercoaster ride of operatic misfortune, Prokofiev finally conducted the premiere of his opera The Love for Three Oranges. One can only imagine the oranges rolling around on stage in delight!",
+      "year": 1921,
+      "city": "Chicago",
+      "country": "United States"
+    },
+    {
+      "event": "Move to Ettal",
+      "summary": "Prokofiev decided to relocate to Ettal in the Bavarian Alps, perhaps thinking the mountains would inspire him to create something more melodious than the noise of urban life. He took his mother along for moral support and the occasional laundry day!",
+      "year": 1922,
+      "city": "Ettal",
+      "country": "Germany"
+    },
+    {
+      "event": "Completion of The Prodigal Son",
+      "summary": "In 1929, Prokofiev completed The Prodigal Son, much to the audience's astonishment. The final scene had the son crawling back on stage to his father\u2014talk about family therapy of the ballet kind!",
+      "year": 1929,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Permanent Move to Moscow",
+      "summary": "After years of shuttling between two grand cities, Prokofiev finally decided to plant his flag in Moscow. Talk about a commitment issue resolved, he must have felt like a historical artifact by then!",
+      "year": 1936,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Composition of Peter and the Wolf",
+      "summary": "In a stroke of genius, Prokofiev composed Peter and the Wolf for children, probably figuring if he had to teach them about complex music, it might as well involve talking animals and a few sly morals thrown in!",
+      "year": 1936,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Composition of the War Sonatas",
+      "summary": "Prokofiev plunged into the creation of his 'War Sonatas', channeling darker feelings into music as his cheerful piece for Stalin faded into the background. He clearly understood that sometimes, you just have to let the pain out!",
+      "year": 1939,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Romeo and Juliet ballet staging",
+      "summary": "To the surprise of the dancers, who almost boycotted the performance, Romeo and Juliet was staged and turned into a success, proving that sometimes chaos can lead to brilliance, even if you're trying to dance to Prokofiev's syncopated melodies.",
+      "year": 1940,
+      "city": "Leningrad",
+      "country": "Russia"
+    },
+    {
+      "event": "Evacuation to Georgian SSR",
+      "summary": "Amidst the chaos of war, Prokofiev was evacuated to the Georgian SSR where he managed to write the original version of War and Peace\u2014because who wouldn\u2019t want to compose during a war?",
+      "year": 1941,
+      "city": "Tbilisi",
+      "country": "Georgian SSR"
+    },
+    {
+      "event": "Fifth Symphony premiere",
+      "summary": "Prokofiev conducted the premiere of his Fifth Symphony, making a grand statement by pairing it with Peter and the Wolf\u2014a fine example of 'let's celebrate with more music, even amidst the rubble.'",
+      "year": 1945,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Concussion incident",
+      "summary": "Prokofiev fainted due to chronic hypertension, leading to a visit from Dmitry Kabalevsky who thought it might be the end\u2014little did they know he\u2019d keep writing and surprising audiences for years to come!",
+      "year": 1945,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Marriage with Mira Mendelson",
+      "summary": "After some complicated relationship gymnastics, Prokofiev married Mira, proving that when life throws you curveballs, there\u2019s always time for love... even in a courtroom.",
+      "year": 1948,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Zhdanov Doctrine criticism",
+      "summary": "Prokofiev found himself called out for 'formalism' while casually wearing baggy-kneed trousers\u2014a fashion statement for a composer not too worried about what others think.",
+      "year": 1948,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Stroke and composing limits",
+      "summary": "Post-stroke, Prokofiev\u2019s doctors advised limiting his composing to just an hour a day\u2014proving that genius doesn\u2019t always need multiple hours to shine, just a good hour\u2019s work!",
+      "year": 1949,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Last public performance attendance",
+      "summary": "Prokofiev attended the premi\u00e8re of his Seventh Symphony, his last completed work\u2014talk about a solid farewell note to leave on before taking a permanent break!",
+      "year": 1952,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Death",
+      "summary": "Prokofiev's passing on the same day as Stalin turned his funeral into a minor event compared to the dictator's, proving once again that timing is everything\u2014even in life and death.",
+      "year": 1953,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Study at the Saint Petersburg Conservatory",
+      "summary": "Prokofiev enrolled at the Saint Petersburg Conservatory, where he was undoubtedly the star of the show, dazzling both peers and professors with his talents and possibly annoying them with his non-stop piano practice.",
+      "year": 1904,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "First Major Work",
+      "summary": "He completed his work, the 'Violin Concerto No. 1', which was so groundbreaking it made his mentors question whether they were still on the right path or if they needed to start exploring the realm of rock and roll instead.",
+      "year": 1917,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "Exile to America",
+      "summary": "Due to the tumultuous political climate back home, Prokofiev embarked on a journey to America, where he embraced a new life that included learning to navigate subway systems and still manage to compose music that would leave everyone wondering how he did it.",
+      "year": 1918,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Return to the Soviet Union",
+      "summary": "After years of exploring the West, Prokofiev returned to the USSR, perhaps feeling it was time to add a little more 'motherland' flavor to his music\u2014after all, he missed the local cuisine and the occasional state-sponsored concert.",
+      "year": 1936,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Creation of War and Peace",
+      "summary": "Prokofiev commenced work on the opera 'War and Peace', a massive undertaking that likely involved more caffeine than any human should consume and enough musical notes to score a full season of a soap opera.",
+      "year": 1941,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Becoming a People's Artist",
+      "summary": "He was officially named a 'People's Artist of the RSFSR', which meant he was now one of the artistic elite\u2014kind of like becoming the honorary mayor of the musical community, but with fewer parades and more sheet music.",
+      "year": 1947,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Final Composition",
+      "summary": "He completed his final work, Symphony No. 7, a grand tribute that seemed to say, 'I might be leaving, but my music will haunt your concert halls forever!'\u2014and indeed, it did.",
+      "year": 1952,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Study in Saint Petersburg",
+      "summary": "Prokofiev packed his bags and headed to the big city to study at the Saint Petersburg Conservatory, where he refined his craft, probably while wondering if anyone else could hear the amazing music playing in his head.",
+      "year": 1904,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "First major success with 'Sarcasms'",
+      "summary": "Prokofiev's piece 'Sarcasms' was a clear hit, reflecting his brilliance and perhaps a little sarcasm of his own about the seriousness of the music scene at the time.",
+      "year": 1912,
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "event": "Exile to the West",
+      "summary": "In the wake of the Russian Revolution, Prokofiev decided to play a game of musical hide-and-seek and exiled himself to the West, where he found himself amidst all the modernist chaos.",
+      "year": 1918,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Completion of 'War and Peace'",
+      "summary": "Prokofiev finished his epic opera 'War and Peace', tackling the complex themes of love and battle. Because nothing says 'comeback' like a good old-fashioned war opera!",
+      "year": 1946,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Establishment as a major composer",
+      "summary": "By the end of his life, Prokofiev had established himself as a titan in the world of classical music, and like the fine wine he enjoyed, his works only became more celebrated with time.",
+      "year": 1953,
+      "city": "Moscow",
+      "country": "Russia"
+    }
+  ],
+  "compositions": []
+}

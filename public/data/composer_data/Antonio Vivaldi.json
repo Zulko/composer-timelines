@@ -1,0 +1,518 @@
+{
+  "full_name": "Antonio Vivaldi",
+  "first_names": "Antonio",
+  "last_name": "Vivaldi",
+  "birth_year": 1678,
+  "death_year": 1741,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Antonio_Vivaldi",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Antonio Vivaldi was born in Venice, the city of canals and pasta, giving rise to speculation that he might actually have been delivered by a gondola instead of a midwife. His baptism was rushed, probably due to his feisty health, not an earthquake as some rumor suggested. Turns out, the only shaking was likely from his heartwarming entry into the world!",
+      "year": 1678,
+      "city": "Venice",
+      "country": "Italy"
+    },
+    {
+      "event": "Start of Priesthood Studies",
+      "summary": "At the tender age of fifteen, Vivaldi decided to trade his violin for a cassock and embarked on his studies to become a priest. It was a classic case of 'from violin prodigy to holy man', even if the only holy thing he ended up doing was giving music a divine twist.",
+      "year": 1693,
+      "city": "Venice",
+      "country": "Italy"
+    },
+    {
+      "event": "Ordination",
+      "summary": "By the time he was twenty-five, Vivaldi donned his clerical robes and was ordained a priest. Known as il Prete Rosso, or 'The Red Priest', he might have been hoping for divine inspiration, but instead, he got more gigs than sermons to cater!",
+      "year": 1703,
+      "city": "Venice",
+      "country": "Italy"
+    },
+    {
+      "event": "Appointment at Ospedale della Piet\u00e0",
+      "summary": "Vivaldi took his impressive violin talents to Ospedale della Piet\u00e0, where he was named maestro di violino. Little did they know, he\u2019d be revolutionizing their orphan music program and leaving those kids with musical skills sharper than a barber's scissors!",
+      "year": 1703,
+      "city": "Venice",
+      "country": "Italy"
+    },
+    {
+      "event": "First Collection Published",
+      "summary": "Vivaldi unleashed his Opus 1, - a compilation of 12 sonatas - on an unsuspecting public. Venice\u2019s music scene had never been quite the same; it was a little like discovering your favorite gelato flavor had a twin you never knew about!",
+      "year": 1705,
+      "city": "Venice",
+      "country": "Italy"
+    },
+    {
+      "event": "Breakthrough with L'estro armonico",
+      "summary": "This was the moment Vivaldi dropped his first collection of concertos, L'estro armonico, which took the music world by storm like a surging gondola over a hidden canal. People across Europe were suddenly very interested in owning a copy of this musical joyride!",
+      "year": 1711,
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    {
+      "event": "Success with Juditha triumphans",
+      "summary": "Vivaldi composed Juditha triumphans \u2013 a sacred masterpiece performed by girls from the Ospedale. Here he had the ultimate win: girls celebrated a Venetian victory while showcasing their singing talents. Who knew girl power sprinkled with Baroque music could be this powerful?",
+      "year": 1716,
+      "city": "Venice",
+      "country": "Italy"
+    },
+    {
+      "event": "Death",
+      "summary": "Vivaldi swapped his violin for eternal rest in Vienna. Although he had moved in search of royal backing, the only thing he left behind was an impression that was as enduring as the music he loved. His final chapter may have lacked the fanfare he deserved, but his legacy kept on playing, one concert at a time.",
+      "year": 1741,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Became Maestro di Cappella",
+      "summary": "In one of the most prestige-filled job offers you could imagine, Vivaldi became the Maestro di Cappella for Prince Philip of Hesse-Darmstadt in Mantua. It was a position that came with a lot of music (and probably some royal drama). He churned out operas like it was a pasta assembly line, including the notable Tito Manlio.",
+      "year": 1718,
+      "city": "Mantua",
+      "country": "Italy"
+    },
+    {
+      "event": "Introduced New Style in Rome",
+      "summary": "Vivaldi moved to Rome and sprinkled some of his musical magic dust by introducing a new style into his operas. His bold moves likely made waves, with the Pope so curious he invited Vivaldi to perform for him. Imagine being summoned by the Pope; it\u2019s like getting a backstage pass to the universe!",
+      "year": 1722,
+      "city": "Rome",
+      "country": "Italy"
+    },
+    {
+      "event": "Composed The Four Seasons",
+      "summary": "While channeling his inner meteorologist, Vivaldi wrote the Four Seasons, four concertos that not only describe, but practically paint the scenery of the seasons. With birds singing and mosquitoes buzzing, he captured the countryside\u2019s essence in music. It was a seasonal symphony that even the calendar could appreciate!",
+      "year": 1725,
+      "city": "Venice",
+      "country": "Italy"
+    },
+    {
+      "event": "Met Emperor Charles VI",
+      "summary": "During an imperial meet-and-greet, Vivaldi managed to charm Emperor Charles VI with his music, leading to admiration that was likely louder than any court gossip. Charles VI was so taken that he and Vivaldi apparently talked more in one sitting than the emperor had with his ministers in two years\u2014talk about a musical coup!",
+      "year": 1728,
+      "city": "Trieste",
+      "country": "Italy"
+    },
+    {
+      "event": "Struggled Financially in Later Years",
+      "summary": "In a classic tale of 'it\u2019s not you, it\u2019s me', Vivaldi found himself in financial straits as tastes changed faster than fashion. He tried to sell his manuscripts for whatever pennies he could scrounge, proving that even musical geniuses aren\u2019t immune to the whims of modern trends.",
+      "year": 1730,
+      "city": "Venice",
+      "country": "Italy"
+    },
+    {
+      "event": "Moved to Vienna",
+      "summary": "In a final act of determination, Vivaldi migrated to Vienna with hopes of hitting the big time at the imperial court. Unfortunately, right after his grand entrance, the emperor passed away, leaving him in the lurch\u2014an awkward twist in his grand plan that left him pondering his career choices.",
+      "year": 1741,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "First Published Work",
+      "summary": "Vivaldi's first published work hit the music world by storm, proving that he was not just a priest but also a musical genius who could create fabulous concertos that would leave audiences in awe.",
+      "year": 1705,
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    {
+      "event": "The Four Seasons",
+      "summary": "This guy composed 'The Four Seasons' and suddenly the weather had a soundtrack! He made every season feel like the most dramatic opera of the year, all from the comfort of his sheet music.",
+      "year": 1723,
+      "city": "Venice",
+      "country": "Italy"
+    },
+    {
+      "event": "Royal Patronage",
+      "summary": "Vivaldi cozied up to royals, gaining patrons who likely swooned over his music. One can imagine him conducting an orchestra while wearing a crown in their honor!",
+      "year": 1716,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Final Years",
+      "summary": "In his later years, while facing financial hardships and waning popularity, Vivaldi continued composing, proving that true artistry never retires, even if the audiences do sometimes forget.",
+      "year": 1740,
+      "city": "Vienna",
+      "country": "Austria"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27Adelaide,_RV_695_(Vivaldi,_Antonio)",
+      "year": 1735,
+      "title": "L'Adelaide, RV 695"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Alvilda_regina_de%27_Goti,_RV_Anh.88_(Vivaldi,_Antonio)",
+      "year": 1731,
+      "title": "Alvilda regina de' Goti, RV Anh.88"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Argippo_(Vivaldi,_Antonio)",
+      "year": 1730,
+      "title": "Argippo"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bassoon_Concerto_in_A_minor,_RV_497_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Bassoon Concerto in A minor, RV 497"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bassoon_Concerto_in_A_minor,_RV_498_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Bassoon Concerto in A minor, RV 498"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bassoon_Concerto_in_A_minor,_RV_499_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Bassoon Concerto in A minor, RV 499"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bassoon_Concerto_in_A_minor,_RV_500_(Vivaldi,_Antonio)",
+      "year": 1730,
+      "title": "Bassoon Concerto in A minor, RV 500"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bassoon_Concerto_in_B-flat_major,_RV_501_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Bassoon Concerto in B-flat major, RV 501"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bassoon_Concerto_in_B-flat_major,_RV_502_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Bassoon Concerto in B-flat major, RV 502"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bassoon_Concerto_in_B-flat_major,_RV_504_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Bassoon Concerto in B-flat major, RV 504"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bassoon_Concerto_in_C_major,_RV_473_(Vivaldi,_Antonio)",
+      "year": 1730,
+      "title": "Bassoon Concerto in C major, RV 473"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bassoon_Concerto_in_C_major,_RV_477_(Vivaldi,_Antonio)",
+      "year": 1730,
+      "title": "Bassoon Concerto in C major, RV 477"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bassoon_Concerto_in_C_major,_RV_478_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Bassoon Concerto in C major, RV 478"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bassoon_Concerto_in_C_minor,_RV_480_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Bassoon Concerto in C minor, RV 480"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bassoon_Concerto_in_D_minor,_RV_481_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Bassoon Concerto in D minor, RV 481"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bassoon_Concerto_in_E-flat_major,_RV_483_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Bassoon Concerto in E-flat major, RV 483"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bassoon_Concerto_in_F_major,_RV_485_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Bassoon Concerto in F major, RV 485"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bassoon_Concerto_in_F_major,_RV_487_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Bassoon Concerto in F major, RV 487"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bassoon_Concerto_in_F_major,_RV_491_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Bassoon Concerto in F major, RV 491"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bassoon_Concerto_in_G_minor,_RV_496_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Bassoon Concerto in G minor, RV 496"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Beatus_vir,_RV_598_(Vivaldi,_Antonio)",
+      "year": 1713,
+      "title": "Beatus vir, RV 598"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Beatus_vir,_RV_795_(Vivaldi,_Antonio)",
+      "year": 1739,
+      "title": "Beatus vir, RV 795"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Catone_in_Utica,_RV_705_(Vivaldi,_Antonio)",
+      "year": 1737,
+      "title": "Catone in Utica, RV 705"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cello_Concerto_in_B_minor,_RV_424_(Vivaldi,_Antonio)",
+      "year": 1729,
+      "title": "Cello Concerto in B minor, RV 424"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cello_Concerto_in_C_major,_RV_398_(Vivaldi,_Antonio)",
+      "year": 1724,
+      "title": "Cello Concerto in C major, RV 398"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata_in_E_minor,_RV_40_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Cello Sonata in E minor, RV 40"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata_in_F_major,_RV_41_(Vivaldi,_Antonio)",
+      "year": 1740,
+      "title": "Cello Sonata in F major, RV 41"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata_in_A_minor,_RV_43_(Vivaldi,_Antonio)",
+      "year": 1740,
+      "title": "Cello Sonata in A minor, RV 43"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata_in_A_minor,_RV_44_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Cello Sonata in A minor, RV 44"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata_in_B-flat_major,_RV_47_(Vivaldi,_Antonio)",
+      "year": 1740,
+      "title": "Cello Sonata in B-flat major, RV 47"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chamber_Concerto_in_A_minor,_RV_108_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Chamber Concerto in A minor, RV 108"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chamber_Concerto_in_C_major,_RV_87_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Chamber Concerto in C major, RV 87"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chamber_Concerto_in_D_major,_RV_90_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Chamber Concerto in D major, RV 90"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chamber_Concerto_in_D_major,_RV_92_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Chamber Concerto in D major, RV 92"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chamber_Concerto_in_D_major,_RV_93_(Vivaldi,_Antonio)",
+      "year": 1730,
+      "title": "Chamber Concerto in D major, RV 93"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chamber_Concerto_in_D_major,_RV_94_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Chamber Concerto in D major, RV 94"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chamber_Concerto_in_F_major,_RV_97_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Chamber Concerto in F major, RV 97"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chamber_Concerto_in_F_major,_RV_99_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Chamber Concerto in F major, RV 99"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chamber_Concerto_in_G_major,_RV_101_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Chamber Concerto in G major, RV 101"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chamber_Concerto_in_G_minor,_RV_104_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Chamber Concerto in G minor, RV 104"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chamber_Concerto_in_G_minor,_RV_105_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Chamber Concerto in G minor, RV 105"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Clarae_stellae,_scintillate,_RV_625_(Vivaldi,_Antonio)",
+      "year": 1715,
+      "title": "Clarae stellae, scintillate, RV 625"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_2_Mandolins_in_G_major,_RV_532_(Vivaldi,_Antonio)",
+      "year": 1740,
+      "title": "Concerto for 2 Mandolins in G major, RV 532"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_2_Oboes_in_C_major,_RV_534_(Vivaldi,_Antonio)",
+      "year": 1717,
+      "title": "Concerto for 2 Oboes in C major, RV 534"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_2_Oboes_in_D_minor,_RV_535_(Vivaldi,_Antonio)",
+      "year": 1724,
+      "title": "Concerto for 2 Oboes in D minor, RV 535"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_2_Violins_in_B-flat_major,_RV_530_(Vivaldi,_Antonio)",
+      "year": 1727,
+      "title": "Concerto for 2 Violins in B-flat major, RV 530"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_3_Violins_in_F_major,_RV_551_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Concerto for 3 Violins in F major, RV 551"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_4_Violins_in_E_minor,_RV_550_(Vivaldi,_Antonio)",
+      "year": 1711,
+      "title": "Concerto for 4 Violins in E minor, RV 550"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_2_Violins_in_A_major,_RV_519_(Vivaldi,_Antonio)",
+      "year": 1711,
+      "title": "Concerto for 2 Violins in A major, RV 519"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_2_Violins_in_A_minor,_RV_522_(Vivaldi,_Antonio)",
+      "year": 1711,
+      "title": "Concerto for 2 Violins in A minor, RV 522"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_Flute,_Strings_and_Basso_continuo_in_D_major,_RV_783_(Vivaldi,_Antonio)",
+      "year": 1678,
+      "title": "Concerto for Flute, Strings and Basso continuo in D major, RV 783"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_Strings_in_C_major,_RV_109_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Concerto for Strings in C major, RV 109"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_Strings_in_C_major,_RV_110_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Concerto for Strings in C major, RV 110"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_Strings_in_C_major,_RV_114_(Vivaldi,_Antonio)",
+      "year": 1717,
+      "title": "Concerto for Strings in C major, RV 114"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_Strings_in_C_major,_RV_117_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Concerto for Strings in C major, RV 117"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_Strings_in_C_minor,_RV_118_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Concerto for Strings in C minor, RV 118"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_Strings_in_C_minor,_RV_119_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Concerto for Strings in C minor, RV 119"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_Strings_in_D_major,_RV_121_(Vivaldi,_Antonio)",
+      "year": 1717,
+      "title": "Concerto for Strings in D major, RV 121"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_Strings_in_D_major,_RV_123_(Vivaldi,_Antonio)",
+      "year": 1720,
+      "title": "Concerto for Strings in D major, RV 123"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_Strings_in_D_major,_RV_124_(Vivaldi,_Antonio)",
+      "year": 1729,
+      "title": "Concerto for Strings in D major, RV 124"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_Strings_in_D_minor,_RV_127_(Vivaldi,_Antonio)",
+      "year": 1717,
+      "title": "Concerto for Strings in D minor, RV 127"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Rosmira,_RV_731_(Vivaldi,_Antonio)",
+      "year": 1737,
+      "title": "Rosmira, RV 731"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Cello_Sonatas,_Op.14_(Vivaldi,_Antonio)",
+      "year": 1740,
+      "title": "6 Cello Sonatas, Op.14"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_cetra,_Op.9_(Vivaldi,_Antonio)",
+      "year": 1727,
+      "title": "La cetra, Op.9"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Il_cimento_dell%27armonia_e_dell%27inventione,_Op.8_(Vivaldi,_Antonio)",
+      "year": 1725,
+      "title": "Il cimento dell'armonia e dell'inventione, Op.8"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Concerti,_Op.6_(Vivaldi,_Antonio)",
+      "year": 1719,
+      "title": "6 Concerti, Op.6"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/12_Concerti,_Op.7_(Vivaldi,_Antonio)",
+      "year": 1716,
+      "title": "12 Concerti, Op.7"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Concerti,_Op.11_(Vivaldi,_Antonio)",
+      "year": 1729,
+      "title": "6 Concerti, Op.11"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Concerti,_Op.12_(Vivaldi,_Antonio)",
+      "year": 1729,
+      "title": "6 Concerti, Op.12"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27estro_armonico,_Op.3_(Vivaldi,_Antonio)",
+      "year": 1711,
+      "title": "L'estro armonico, Op.3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Flute_Concertos,_Op.10_(Vivaldi,_Antonio)",
+      "year": 1729,
+      "title": "6 Flute Concertos, Op.10"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_quattro_stagioni_(Vivaldi,_Antonio)",
+      "year": 1725,
+      "title": "Le quattro stagioni"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_stravaganza,_Op.4_(Vivaldi,_Antonio)",
+      "year": 1716,
+      "title": "La stravaganza, Op.4"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/12_Trio_Sonatas,_Op.1_(Vivaldi,_Antonio)",
+      "year": 1705,
+      "title": "12 Trio Sonatas, Op.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/12_Violin_Sonatas,_Op.2_(Vivaldi,_Antonio)",
+      "year": 1709,
+      "title": "12 Violin Sonatas, Op.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Violin_Sonatas,_Op.5_(Vivaldi,_Antonio)",
+      "year": 1716,
+      "title": "6 Violin Sonatas, Op.5"
+    }
+  ]
+}

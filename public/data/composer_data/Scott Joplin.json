@@ -1,0 +1,488 @@
+{
+  "full_name": "Scott Joplin",
+  "first_names": "Scott",
+  "last_name": "Joplin",
+  "birth_year": 1868,
+  "death_year": 1917,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Scott_Joplin",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Scott Joplin graced the world with his presence in a Texas town, though exactly where is still up for debate\u2014Texarkana or Linden? Either way, it was explosion of musical creativity from day one!",
+      "year": 1868,
+      "city": "Texarkana or Linden",
+      "country": "U.S."
+    },
+    {
+      "event": "Move to Texarkana",
+      "summary": "The family moved to Texarkana, where Scott started to piece together a musical education from his mom and dad, who apparently thought quarreling was the best background music.",
+      "year": 1880,
+      "city": "Texarkana",
+      "country": "U.S."
+    },
+    {
+      "event": "First Public Performance",
+      "summary": "At age 16, Scott decided to show off his musical skills in a vocal quartet, hoping to charm everyone with his serious demeanor and piano prowess, proving that he was more than just a kid with big dreams.",
+      "year": 1884,
+      "city": "Texarkana",
+      "country": "U.S."
+    },
+    {
+      "event": "World's Fair Performance",
+      "summary": "Joplin hit the big leagues at the Chicago World's Fair, showcasing his music in a time when many Black performers were still vying for attention, adding a much-needed dash of rhythm to the festivities.",
+      "year": 1893,
+      "city": "Chicago",
+      "country": "U.S."
+    },
+    {
+      "event": "Move to Sedalia",
+      "summary": "Scott packed his bags for Sedalia, Missouri, where he practically set up shop as a piano teacher and began making a name for himself\u2014because why not show off some southern charm while composing?",
+      "year": 1894,
+      "city": "Sedalia",
+      "country": "U.S."
+    },
+    {
+      "event": "Publication of Maple Leaf Rag",
+      "summary": "Joplin's 'Maple Leaf Rag' hit the music scene, marking the beginning of a ragtime revolution as people realized pianos could do more than just accompany singing\u2014they could also get toes tapping!",
+      "year": 1899,
+      "city": "Sedalia",
+      "country": "U.S."
+    },
+    {
+      "event": "First Opera",
+      "summary": "Scott tried his hand at opera with 'A Guest of Honor', only for it to play magician and vanish due to non-payment of bills, leaving Joplin with a great story and a tragic loss\u2014but with more compositions waiting to be birthed!",
+      "year": 1901,
+      "city": "St. Louis",
+      "country": "U.S."
+    },
+    {
+      "event": "Relocation to New York City",
+      "summary": "Hoping to break into the big league of productions, Joplin took the leap to New York City. Spoiler alert: He didn't find a producer, but he definitely found an apartment with an inspiring view and plenty of coffee to keep him going.",
+      "year": 1907,
+      "city": "New York City",
+      "country": "U.S."
+    },
+    {
+      "event": "Dementia Diagnosis",
+      "summary": "In a tragic twist, Joplin faced a diagnosis of dementia from neurosyphilis, where even a man known as the 'King of Ragtime' couldn\u2019t keep his rhythm in check, reminding us all that life can be a slippery piano bench.",
+      "year": 1916,
+      "city": "New York City",
+      "country": "U.S."
+    },
+    {
+      "event": "Death",
+      "summary": "Scott Joplin departed this world, bringing the curtain down on an era of ragtime music but leaving behind a legacy that would inspire generations, proving that even a king can bow out with grace and style.",
+      "year": 1917,
+      "city": "Manhattan",
+      "country": "U.S."
+    },
+    {
+      "event": "Marriage to Freddie Alexander",
+      "summary": "In a romantic twist befitting a classic opera, Joplin married Freddie Alexander, his muse for the piece 'The Chrysanthemum'. Alas, the honeymoon was cut short, proving that love can be as fleeting as a catchy ragtime melody.",
+      "year": 1904,
+      "city": "Little Rock",
+      "country": "USA"
+    },
+    {
+      "event": "Freddie's Untimely Death",
+      "summary": "Just ten weeks post-wedding, Freddie succumbed to complications from a cold, leaving Joplin with a heart as heavy as a bass drum and a new piece titled 'Bethena' that was his way of navigating through grief.",
+      "year": 1904,
+      "city": "Little Rock",
+      "country": "USA"
+    },
+    {
+      "event": "Creation of Opera Company",
+      "summary": "Undeterred by personal woes, Joplin assembled an opera company of 30 eager performers, but in a plot twist worthy of his opera 'A Guest of Honor', the box office took a hit as cash went missing, leading to the opera's demise.",
+      "year": 1904,
+      "city": "Springfield/Pittsburg",
+      "country": "USA"
+    },
+    {
+      "event": "Move to New York City",
+      "summary": "With dreams bigger than his piano, Joplin relocated to New York, believing this concrete jungle was the perfect stage for his operatic endeavors, though it turned out to be more challenging than a syncopated rhythm.",
+      "year": 1907,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Marriage to Lottie Stokes",
+      "summary": "Joplin, ever the romantic, tied the knot with Lottie Stokes, hoping to write a new chapter in his life, which was like composing a fresh rag: plenty of highs, lows, and unexpected turns.",
+      "year": 1909,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Self-Publishing 'Treemonisha'",
+      "summary": "In a typical underdog story, Joplin took the reins on publishing 'Treemonisha' himself, stepping into the spotlight and proving that sometimes you just have to dance to your own tune\u2014even if that dance is a solo.",
+      "year": 1911,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Rehearsal Hall Debacle",
+      "summary": "In a valiant yet somewhat comical attempt to showcase 'Treemonisha', Joplin held a rehearsal for an audience that didn't quite appreciate his art, leaving him to fend off a sea of indifference with only his piano as support.",
+      "year": 1915,
+      "city": "Harlem",
+      "country": "USA"
+    },
+    {
+      "event": "Founding Scott Joplin Music Company",
+      "summary": "Reflecting his entrepreneurial spirit, Joplin launched the Scott Joplin Music Company as a means to self-publish 'Magnetic Rag'. Who says you can't make a business out of music and a dash of ambition?",
+      "year": 1914,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Admission to Manhattan State Hospital",
+      "summary": "In a twist of fate that would shock any composer, Joplin was admitted to a mental institution, making his final chapter the real-life version of a tragic opera, but with much more than just a minor chord of sadness.",
+      "year": 1917,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Maple Leaf Rag Composition",
+      "summary": "Joplin composed \"Maple Leaf Rag,\" believing it would crown him as the 'King of Ragtime Composers,' though he knew the world wasn\u2019t ready for his genius. It was like serving gourmet food to someone who only eats fast food!",
+      "year": 1899,
+      "city": "Sedalia",
+      "country": "United States"
+    },
+    {
+      "event": "Maple Leaf Rag Publication",
+      "summary": "Joplin published his most famous piece, 'Maple Leaf Rag'. It became so popular that it seems to have single-handedly kept piano tuners in business!",
+      "year": 1899,
+      "city": "Sedalia",
+      "country": "USA"
+    },
+    {
+      "event": "Formation of the Scott Joplin Company",
+      "summary": "Realizing that a solo career is great but a band is even better, Joplin formed his own company to produce and promote his music in a more robust way.",
+      "year": 1902,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Treemonisha Premiere",
+      "summary": "Joplin's opera 'Treemonisha' premiered, showcasing his ability to blend genres. People left the show not sure if they saw a musical or a masterpiece, and perhaps a little confused, but entertained.",
+      "year": 1911,
+      "city": "Memphis",
+      "country": "USA"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/All-American_Ragtime_(Joplin,_Scott)",
+      "year": 1910,
+      "title": "All-American Ragtime"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Augustan_Club_Waltz_(Joplin,_Scott)",
+      "year": 1901,
+      "title": "Augustan Club Waltz"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bethena_(Joplin,_Scott)",
+      "year": 1905,
+      "title": "Bethena"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Binks%27_Waltz_(Joplin,_Scott)",
+      "year": 1905,
+      "title": "Binks' Waltz"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/A_Breeze_from_Alabama_(Joplin,_Scott)",
+      "year": 1902,
+      "title": "A Breeze from Alabama"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Cascades_(Joplin,_Scott)",
+      "year": 1904,
+      "title": "The Cascades"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Chrysanthemum_(Joplin,_Scott)",
+      "year": 1904,
+      "title": "The Chrysanthemum"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cleopha_(Joplin,_Scott)",
+      "year": 1902,
+      "title": "Cleopha"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Combination_March_(Joplin,_Scott)",
+      "year": 1896,
+      "title": "Combination March"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Country_Club_(Joplin,_Scott)",
+      "year": 1909,
+      "title": "Country Club"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Easy_Winners_(Joplin,_Scott)",
+      "year": 1901,
+      "title": "The Easy Winners"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Elite_Syncopations_(Joplin,_Scott)",
+      "year": 1902,
+      "title": "Elite Syncopations"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Entertainer_(Joplin,_Scott)",
+      "year": 1902,
+      "title": "The Entertainer"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Eugenia_(Joplin,_Scott)",
+      "year": 1906,
+      "title": "Eugenia"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Euphonic_Sounds_(Joplin,_Scott)",
+      "year": 1909,
+      "title": "Euphonic Sounds"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Favorite_(Joplin,_Scott)",
+      "year": 1899,
+      "title": "The Favorite"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Felicity_Rag_(Joplin,_Scott)",
+      "year": 1911,
+      "title": "Felicity Rag"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fig_Leaf_Rag_(Joplin,_Scott)",
+      "year": 1908,
+      "title": "Fig Leaf Rag"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Gladiolus_Rag_(Joplin,_Scott)",
+      "year": 1907,
+      "title": "Gladiolus Rag"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Great_Crush_Collision_(Joplin,_Scott)",
+      "year": 1896,
+      "title": "Great Crush Collision"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Harmony_Club_Waltz_(Joplin,_Scott)",
+      "year": 1896,
+      "title": "Harmony Club Waltz"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Heliotrope_Bouquet_(Joplin,_Scott)",
+      "year": 1907,
+      "title": "Heliotrope Bouquet"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/I_Am_Thinking_of_My_Pickanniny_Days_(Joplin,_Scott)",
+      "year": 1902,
+      "title": "I Am Thinking of My Pickanniny Days"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Kismet_Rag_(Joplin,_Scott)",
+      "year": 1913,
+      "title": "Kismet Rag"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Leola_(Joplin,_Scott)",
+      "year": 1905,
+      "title": "Leola"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Little_Black_Baby_(Joplin,_Scott)",
+      "year": 1903,
+      "title": "Little Black Baby"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Magnetic_Rag_(Joplin,_Scott)",
+      "year": 1912,
+      "title": "Magnetic Rag"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Maple_Leaf_Rag_(Joplin,_Scott)",
+      "year": 1898,
+      "title": "Maple Leaf Rag"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/March_Majestic_(Joplin,_Scott)",
+      "year": 1902,
+      "title": "March Majestic"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Nonpareil_(Joplin,_Scott)",
+      "year": 1907,
+      "title": "The Nonpareil"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Original_Rags_(Joplin,_Scott)",
+      "year": 1897,
+      "title": "Original Rags"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Palm_Leaf_Rag_(Joplin,_Scott)",
+      "year": 1903,
+      "title": "Palm Leaf Rag"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Paragon_Rag_(Joplin,_Scott)",
+      "year": 1909,
+      "title": "Paragon Rag"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Peacherine_Rag_(Joplin,_Scott)",
+      "year": 1901,
+      "title": "Peacherine Rag"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/A_Picture_of_Her_Face_(Joplin,_Scott)",
+      "year": 1895,
+      "title": "A Picture of Her Face"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pine_Apple_Rag_(Joplin,_Scott)",
+      "year": 1908,
+      "title": "Pine Apple Rag"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pleasant_Moments_(Joplin,_Scott)",
+      "year": 1909,
+      "title": "Pleasant Moments"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Ragtime_Dance_(Joplin,_Scott)",
+      "year": 1899,
+      "title": "The Ragtime Dance"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Reflection_Rag_(Joplin,_Scott)",
+      "year": 1904,
+      "title": "Reflection Rag"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Rose_Leaf_Rag_(Joplin,_Scott)",
+      "year": 1907,
+      "title": "Rose Leaf Rag"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Rosebud_(Joplin,_Scott)",
+      "year": 1905,
+      "title": "Rosebud"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sarah_Dear_(Joplin,_Scott)",
+      "year": 1905,
+      "title": "Sarah Dear"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/School_of_Ragtime_(Joplin,_Scott)",
+      "year": 1908,
+      "title": "School of Ragtime"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Scott_Joplin%27s_New_Rag_(Joplin,_Scott)",
+      "year": 1912,
+      "title": "Scott Joplin's New Rag"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Searchlight_Rag_(Joplin,_Scott)",
+      "year": 1907,
+      "title": "Searchlight Rag"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Solace_(Joplin,_Scott)",
+      "year": 1909,
+      "title": "Solace"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Something_Doing_(Joplin,_Scott)",
+      "year": 1903,
+      "title": "Something Doing"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Stoptime_Rag_(Joplin,_Scott)",
+      "year": 1910,
+      "title": "Stoptime Rag"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Strenuous_Life_(Joplin,_Scott)",
+      "year": 1902,
+      "title": "The Strenuous Life"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sugar_Cane_(Joplin,_Scott)",
+      "year": 1908,
+      "title": "Sugar Cane"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sunflower_Slow_Drag_(Joplin,_Scott)",
+      "year": 1901,
+      "title": "Sunflower Slow Drag"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Sycamore_(Joplin,_Scott)",
+      "year": 1904,
+      "title": "The Sycamore"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Treemonisha_(Joplin,_Scott)",
+      "year": 1907,
+      "title": "Treemonisha"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Wall_Street_Rag_(Joplin,_Scott)",
+      "year": 1909,
+      "title": "Wall Street Rag"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Weeping_Willow_(Joplin,_Scott)",
+      "year": 1903,
+      "title": "Weeping Willow"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/When_Your_Hair_Is_Like_The_Snow_(Joplin,_Scott)",
+      "year": 1907,
+      "title": "When Your Hair Is Like The Snow"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Felicity_Rag_(Joplin,_Scott)",
+      "year": 1911,
+      "title": "Felicity Rag"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Heliotrope_Bouquet_(Joplin,_Scott)",
+      "year": 1907,
+      "title": "Heliotrope Bouquet"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Kismet_Rag_(Joplin,_Scott)",
+      "year": 1913,
+      "title": "Kismet Rag"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lily_Queen_(Joplin,_Scott)",
+      "year": 1907,
+      "title": "Lily Queen"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Something_Doing_(Joplin,_Scott)",
+      "year": 1903,
+      "title": "Something Doing"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sunflower_Slow_Drag_(Joplin,_Scott)",
+      "year": 1901,
+      "title": "Sunflower Slow Drag"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Swipesy_Cake_Walk_(Joplin,_Scott)",
+      "year": 1900,
+      "title": "Swipesy Cake Walk"
+    }
+  ]
+}

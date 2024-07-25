@@ -1,0 +1,1256 @@
+{
+  "full_name": "Camille Saint-Sa\u00ebns",
+  "first_names": "Camille",
+  "last_name": "Saint-Sa\u00ebns",
+  "birth_year": 1835,
+  "death_year": 1921,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Camille_Saint-Sa\u00ebns",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Born in the Rue du Jardinet, little Camille Saint-Sa\u00ebns entered the world as the only child of Victor and Fran\u00e7oise-Cl\u00e9mence. With perfect pitch and a knack for piano, he was already gearing up to annoy his future neighbors with impromptu concerts.",
+      "year": 1835,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Concert Debut",
+      "summary": "At the tender age of ten, young Camille charmed an audience at Salle Pleyel, performing Mozart and Beethoven. Who knew tiny fingers could create such big music? It was the beginning of a long-standing tradition of making the audience wonder: 'Is this actually a child?'",
+      "year": 1845,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Academic Triumph",
+      "summary": "Admitted to the Paris Conservatoire at thirteen, Saint-Sa\u00ebns quickly made a name for himself. He strutted off with the top prize for organists, proving that if you are talented enough, academic rules are just guidelines.",
+      "year": 1848,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Teaching Position",
+      "summary": "In a twist that shocked the musical elite, he took a teaching position at the \u00c9cole de Musique Classique et Religieuse, scandalizing stuffy colleagues with contemporary music lessons. It was like introducing students to rock music in a classical ballet school.",
+      "year": 1861,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Completion of The Carnival of the Animals",
+      "summary": "Saint-Sa\u00ebns finally completed his whimsical masterpiece, The Carnival of the Animals, after over twenty years of contemplating which animal should play what. Not surprisingly, the swan was a big hit, but the elephant's dance was a work-in-progress!",
+      "year": 1886,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Death",
+      "summary": "Camille Saint-Sa\u00ebns decided to take his final bow after an illustrious career filled with compositions that still make classical music lovers spring from their seats. Rumor has it that the angels are still arguing over who gets to play his organ.",
+      "year": 1921,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Spartacus Overture Competition",
+      "summary": "Saint-Sa\u00ebns thought he could whip up a quick overture titled Spartacus and lo and behold, it won a competition! He was like a chef throwing together leftovers and somehow creating a Michelin meal.",
+      "year": 1863,
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    {
+      "event": "Les noces de Prom\u00e9th\u00e9e Wins Prize",
+      "summary": "After receiving over a hundred submissions, the jury, including famous names like Berlioz and Verdi, realized that Saint-Sa\u00ebns's cantata could outshine a dozen others. It was like a musical version of 'Survivor' and he was the last composer standing!",
+      "year": 1867,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Premiere of Second Piano Concerto",
+      "summary": "Finally, a piece that became part of the orchestral repertoire! Saint-Sa\u00ebns was ready to showcase his genius, and he undoubtedly stole the spotlight, leaving the audience wondering 'Who needs a symphony when you have this?'",
+      "year": 1868,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Founding of Soci\u00e9t\u00e9 Nationale de Musique",
+      "summary": "Saint-Sa\u00ebns and Bussine brainstormed a musical revolution but then war happened. But hey, nothing like a little conflict to put a fire under a committee! They came back from the war wanting to showcase French talent, saying 'Vive la France!' as they formed the society.",
+      "year": 1871,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Po\u00e8me Symphonique",
+      "summary": "Saint-Sa\u00ebns crafted his first symphonic poem Le Rouet d'Omphale and premiered it at a Soci\u00e9t\u00e9 Nationale concert. It was as if he took inspiration from a fairy tale while making the audience think, 'I never knew a wheel could sound this good!'",
+      "year": 1872,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Debut of La princesse jaune",
+      "summary": "After years of waiting and writing, his opera La princesse jaune finally hit the stage. Five performances later, he realized maybe being a successful operatic composer wasn't just about having a catchy title!",
+      "year": 1872,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Premiere of Le timbre d'argent",
+      "summary": "After many rehearsals thwarted by war, his opera finally saw the light of day. Despite its short run and the hiccup of a theater fire, the premiere was a significant step, proving that he wasn\u2019t just a musician but also a fire hazard!",
+      "year": 1877,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Success of Samson et Dalila",
+      "summary": "Saint-Sa\u00ebns knocked it out of the park with his opera Samson et Dalila, although it had to premiere in Germany to avoid all sorts of French drama. You could say it was the most dramatic twist since the plot of a daytime soap opera!",
+      "year": 1877,
+      "city": "Weimar",
+      "country": "Germany"
+    },
+    {
+      "event": "Commission of the Third Symphony",
+      "summary": "The Philharmonic Society of London called on Saint-Sa\u00ebns for a symphony, reluctantly stepping into the spotlight to present one of his most popular works. Let's just say, the audience didn't just clap\u2014they nearly lifted him off the ground!",
+      "year": 1886,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Death of his Mother",
+      "summary": "This was a hitting moment for Saint-Sa\u00ebns, who felt a hole in his heart and creative inspiration. He took a trip to Algiers to recover, which was less of a vacation and more of a \u2018who am I without my mom\u2019 quest.",
+      "year": 1888,
+      "city": "Algiers",
+      "country": "Algeria"
+    },
+    {
+      "event": "Second Visit to the United States",
+      "summary": "Saint-Sa\u00ebns wowed audiences yet again as he toured the States, this time as both pianist and conductor. One can only imagine the Manhattan skyline began to shake with excitement every time he tickled those ivories!",
+      "year": 1906,
+      "city": "New York",
+      "country": "United States"
+    },
+    {
+      "event": "Successful Tours",
+      "summary": "Saint-Sa\u00ebns embarked on highly successful tours across the United States, dazzling audiences as both a pianist and conductor. Who knew he could not only play but also hold a crowd captive with his conducting skills? Talk about a double threat!",
+      "year": 1910,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Mahler Premiere Experience",
+      "summary": "Despite being labeled a musical reactionary, Saint-Sa\u00ebns shocked many by traveling to Munich just to hear Mahler's Eighth Symphony. You could say he believed in musical cross-training before it was cool!",
+      "year": 1910,
+      "city": "Munich",
+      "country": "Germany"
+    },
+    {
+      "event": "Farewell Concert (Sort of)",
+      "summary": "Saint-Sa\u00ebns held what he intended to be his farewell concert in Paris, but surprise! The war had other plans, and he continued playing. It was like telling everyone he was retiring and then immediately being drafted into the encore!",
+      "year": 1913,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Recital at 86",
+      "summary": "At the grand old age of eighty-six, Saint-Sa\u00ebns performed a recital at the Institut, showcasing a vitality in both playing and personality that left the audience in awe. Forget anti-aging cream; he clearly found the fountain of youth in music!",
+      "year": 1921,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Final Winter in Algiers",
+      "summary": "Saint-Sa\u00ebns set off for Algiers with plans for a lovely winter, but alas! He ended up not making it back for the spring. Talk about an unplanned permanent vacation!",
+      "year": 1921,
+      "city": "Algiers",
+      "country": "Algeria"
+    },
+    {
+      "event": "First Violin Concerto performance",
+      "summary": "Saint-Sa\u00ebns's First Violin Concerto, although not the life of the party, attempted to make a grand entrance with its themes. Sadly, it seems that it only decided to show up for three performances during his lifetime, making it the wallflower of his concerto collection.",
+      "year": 1859,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Composition of Introduction and Rondo Capriccioso",
+      "summary": "In 1863, Saint-Sa\u00ebns penned the Introduction and Rondo Capriccioso for virtuoso violinist Pablo de Sarasate. This single-movement showpiece transitioned from melancholic musings to a swaggering finale, leaving the audience in a joyful frenzy, as if cheering on a marathon runner at the finish line!",
+      "year": 1863,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Premiere of Samson et Dalila",
+      "summary": "In 1892, Saint-Sa\u00ebns's opera Samson et Dalila graced the stage of the Paris Op\u00e9ra, witnessing Samson enthusiastically smashing the Philistine temple. The audience surely gasped, half in awe of the drama, and half in envy of the impressive demolition skills!",
+      "year": 1892,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Publication of Sept Improvisations",
+      "summary": "In 1912, Saint-Sa\u00ebns composed his Sept Improvisations for organ, demonstrating his skills at the keyboard. One can only imagine the expressions on the congregation's faces as he wove through an array of improvisations, blending worship with a dash of whimsical flair.",
+      "year": 1912,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Recordings of His Works",
+      "summary": "Saint-Sa\u00ebns stepped into the world of recording in 1904, laying down tracks that showcased his talents. He would have probably made a great DJ too\u2014if only music had a dance floor back then!",
+      "year": 1904,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Chevalier of the Legion of Honour",
+      "summary": "He didn\u2019t just pick up any old badge; he became a Chevalier of the Legion of Honour! It\u2019s as if France said, \u2018Here, have a shiny medal for being fabulous at music!\u2019",
+      "year": 1867,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Promotion to Officier of the Legion of Honour",
+      "summary": "Saint-Sa\u00ebns got an upgrade from Chevalier to Officier, proving that not only did he shine in music, but he also managed to shine in the eyes of the French government!",
+      "year": 1884,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Promotion to Grand Croix of the Legion of Honour",
+      "summary": "He reached the pinnacle of French honorary titles, becoming a Grand Croix. With all those medals, he could have started a small medal museum!",
+      "year": 1913,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Public Performance",
+      "summary": "At a tender age, Saint-Sa\u00ebns showcased his remarkable talent to the public. While most kids were busy playing hide and seek, he was busy hiding under layers of applause!",
+      "year": 1846,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Symphony",
+      "summary": "In a bid to impress everyone and their grandmother, Saint-Sa\u00ebns composed his First Symphony, proving that he was not just a prodigy but a full-blown composer ready to take on the world\u2014or at least some very tuneful parts of it.",
+      "year": 1853,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Royal Opera Debut",
+      "summary": "Saint-Sa\u00ebns made his dazzling debut at the prestigious Royal Opera. It was quite the introduction\u2014opera lovers got a taste of genius and excitement high enough to rival the dramatic plots on stage!",
+      "year": 1896,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Composition of 'Samson and Delilah'",
+      "summary": "Composing 'Samson and Delilah' was like crafting the perfect dessert\u2014sweet, rich, and impossible to resist. It catapulted Saint-Sa\u00ebns to fame as everyone wanted to get their ears on that melodic delight.",
+      "year": 1877,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "The Carnival of the Animals",
+      "summary": "Saint-Sa\u00ebns decided to let his wild side out, composing 'The Carnival of the Animals'\u2014not a zoo-themed composition but a whimsical orchestral piece that made animals seem way more musical than they had any right to be.",
+      "year": 1886,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Piano Recital",
+      "summary": "Displaying skills that made the grown-ups gasp at his audacity, he graced the stage at just a few years old, showcasing his piano prowess. The applause surely felt louder than any toddler tantrum he could throw!",
+      "year": 1846,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Composition of 'Danse Macabre'",
+      "summary": "Saint-Sa\u00ebns conjured up his famous piece, 'Danse Macabre', which brought a lively dance of skeletons to life, proving that even the afterlife can get groovy with the right composer at the helm.",
+      "year": 1874,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Debut Symphony",
+      "summary": "He composed his first symphony, impressively showcasing complex orchestrations as if he was balancing musical plates\u2014simultaneous brilliance that would make any circus juggler envious!",
+      "year": 1853,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Oratorio Success",
+      "summary": "Saint-Sa\u00ebns' oratorio turns out to be quite the hit, making him a musical celebrity in circles that were highly cultured and probably had excellent taste in both music and hors d'oeuvres.",
+      "year": 1858,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Innovation with the Organ",
+      "summary": "In a revolutionary twist, he took the traditional organ to new heights, proving that this church staple could moonlight as the life of the party, wowing audiences at venues far beyond the cathedral.",
+      "year": 1886,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Conducting the Boston Symphony",
+      "summary": "Taking his talents across the ocean, he conducted the Boston Symphony Orchestra, probably while charming audiences with his witty banter and avoiding being upstaged by wooden instruments.",
+      "year": 1906,
+      "city": "Boston",
+      "country": "United States"
+    },
+    {
+      "event": "Completion of 'The Carnival of the Animals'",
+      "summary": "He penned the whimsical 'Carnival of the Animals', a musical romp through the animal kingdom that makes you wonder if he was trying to audition for a wildlife documentary.",
+      "year": 1886,
+      "city": "Paris",
+      "country": "France"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%80_la_France!,_Op.121_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1903,
+      "title": "\u00c0 la France!, Op.121"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Adagio_and_Andante_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1853,
+      "title": "Adagio and Andante"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Africa,_Op.89_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1891,
+      "title": "Africa, Op.89"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Aimons-nous_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1892,
+      "title": "Aimons-nous"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Album,_Op.72_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1884,
+      "title": "Album, Op.72"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Alla_riva_del_Tebro_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1860,
+      "title": "Alla riva del Tebro"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegretto_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1842,
+      "title": "Allegretto"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro_appassionato,_Op.43_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1873,
+      "title": "Allegro appassionato, Op.43"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro_appassionato,_Op.70_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1884,
+      "title": "Allegro appassionato, Op.70"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro_d%27apr%C3%A8s_le_3e_Concerto,_Op.29_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1913,
+      "title": "Allegro d'apr\u00e8s le 3e Concerto, Op.29"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro_de_concert_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1913,
+      "title": "Allegro de concert"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Amour_viril_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1891,
+      "title": "Amour viril"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27anc%C3%AAtre_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1905,
+      "title": "L'anc\u00eatre"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Andante_et_berceuse_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1841,
+      "title": "Andante et berceuse"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Andromaque_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1902,
+      "title": "Andromaque"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ang%C3%A9lus_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1918,
+      "title": "Ang\u00e9lus"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Antigone_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1893,
+      "title": "Antigone"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27arbre_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1903,
+      "title": "L'arbre"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ascanio_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1887,
+      "title": "Ascanio"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27assassinat_du_duc_de_Guise,_Op.128_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1908,
+      "title": "L'assassinat du duc de Guise, Op.128"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27attente_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1855,
+      "title": "L'attente"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Aux_aviateurs,_Op.134_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1911,
+      "title": "Aux aviateurs, Op.134"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Aux_mineurs,_Op.137_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1912,
+      "title": "Aux mineurs, Op.137"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ave_Maria_in_A_major,_ICS_18_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1860,
+      "title": "Ave Maria in A major, ICS 18"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ave_Maria_in_A_major,_ICS_19_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1865,
+      "title": "Ave Maria in A major, ICS 19"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ave_Maria,_Op.145_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1914,
+      "title": "Ave Maria, Op.145"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ave_verum_in_D_major_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1860,
+      "title": "Ave verum in D major"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ave_verum_in_E-flat_major_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1860,
+      "title": "Ave verum in E-flat major"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Bagatelles,_Op.3_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1855,
+      "title": "6 Bagatelles, Op.3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Barcarolle,_Op.108_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1898,
+      "title": "Barcarolle, Op.108"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bassoon_Sonata,_Op.168_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1921,
+      "title": "Bassoon Sonata, Op.168"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/B%C3%A9n%C3%A9diction_nuptiale,_Op.9_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1859,
+      "title": "B\u00e9n\u00e9diction nuptiale, Op.9"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Berceuse,_Op.38_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1871,
+      "title": "Berceuse, Op.38"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Berceuse,_Op.105_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1896,
+      "title": "Berceuse, Op.105"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bourr%C3%A9e_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1888,
+      "title": "Bourr\u00e9e"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Caprice_andalous,_Op.122_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1904,
+      "title": "Caprice andalous, Op.122"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Caprice_arabe,_Op.96_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1894,
+      "title": "Caprice arabe, Op.96"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Caprice_brillant_in_B_minor_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1859,
+      "title": "Caprice brillant in B minor"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Caprice_h%C3%A9ro%C3%AFque,_Op.106_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1898,
+      "title": "Caprice h\u00e9ro\u00efque, Op.106"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Caprice_sur_des_airs_danois_et_russes,_Op.79_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1887,
+      "title": "Caprice sur des airs danois et russes, Op.79"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Caprice_sur_les_airs_de_ballet_d%27Alceste_de_Gluck_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1867,
+      "title": "Caprice sur les airs de ballet d'Alceste de Gluck"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_carnaval_des_animaux_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1886,
+      "title": "Le carnaval des animaux"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cavatine,_Op.144_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1915,
+      "title": "Cavatine, Op.144"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cello_Concerto_No.1,_Op.33_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1872,
+      "title": "Cello Concerto No.1, Op.33"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cello_Concerto_No.2,_Op.119_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1902,
+      "title": "Cello Concerto No.2, Op.119"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata_No.1,_Op.32_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1872,
+      "title": "Cello Sonata No.1, Op.32"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata_No.2,_Op.123_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1905,
+      "title": "Cello Sonata No.2, Op.123"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_cendre_rouge,_Op.146_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1914,
+      "title": "La cendre rouge, Op.146"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chanson_%C3%A0_boire_du_vieux_temps_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1885,
+      "title": "Chanson \u00e0 boire du vieux temps"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chanson_triste_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1872,
+      "title": "Chanson triste"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_chant_de_ceux_qui_s%27en_vont_sur_la_mer_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1868,
+      "title": "Le chant de ceux qui s'en vont sur la mer"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chant_saphique,_Op.91_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1892,
+      "title": "Chant saphique, Op.91"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chants_d%27automne,_Op.113_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1899,
+      "title": "Chants d'automne, Op.113"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Choruses,_Op.53_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1878,
+      "title": "2 Choruses, Op.53"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Choruses,_Op.68_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1882,
+      "title": "2 Choruses, Op.68"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Choruses,_Op.71_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1884,
+      "title": "2 Choruses, Op.71"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Choruses,_Op.141_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1913,
+      "title": "2 Choruses, Op.141"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Choruses,_Op.151_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1917,
+      "title": "3 Choruses, Op.151"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Clair_de_lune_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1865,
+      "title": "Clair de lune"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Clarinet_Sonata,_Op.167_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1921,
+      "title": "Clarinet Sonata, Op.167"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_cloche_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1885,
+      "title": "La cloche"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_cloches_de_la_mer_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1900,
+      "title": "Les cloches de la mer"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_cloches_du_soir,_Op.85_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1889,
+      "title": "Les cloches du soir, Op.85"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_coccinelle_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1868,
+      "title": "La coccinelle"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cypr%C3%A8s_et_lauriers,_Op.156_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1919,
+      "title": "Cypr\u00e8s et lauriers, Op.156"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/C%C5%93li_enarrant,_Op.42_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1865,
+      "title": "C\u0153li enarrant, Op.42"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dans_les_coins_bleus_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1880,
+      "title": "Dans les coins bleus"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Danse_macabre_(song)_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1872,
+      "title": "Danse macabre"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Danse_macabre,_Op.40_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1874,
+      "title": "Danse macabre, Op.40"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/D%C3%A9janire,_incidental_music_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1898,
+      "title": "D\u00e9janire, incidental music"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/D%C3%A9janire,_opera_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1909,
+      "title": "D\u00e9janire, opera"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_d%C3%A9luge,_Op.45_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1875,
+      "title": "Le d\u00e9luge, Op.45"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/El_desdichado_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1871,
+      "title": "El desdichado"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/D%C3%A9sir_d%27amour_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1901,
+      "title": "D\u00e9sir d'amour"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/D%C3%A9sir_de_l%27orient_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1871,
+      "title": "D\u00e9sir de l'orient"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Deus_Abraham_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1885,
+      "title": "Deus Abraham"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Duettino,_Op.11_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1855,
+      "title": "Duettino, Op.11"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Duo_for_2_Pianos,_Op.8bis_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1858,
+      "title": "Duo for 2 Pianos, Op.8bis"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Duos,_Op.8_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1858,
+      "title": "6 Duos, Op.8"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Elegy,_Op.143_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1915,
+      "title": "Elegy, Op.143"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Elegy,_Op.160_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1920,
+      "title": "Elegy, Op.160"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%89l%C3%A9vation_ou_communion,_Op.13_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1859,
+      "title": "\u00c9l\u00e9vation ou communion, Op.13"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Elle_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1901,
+      "title": "Elle"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27enl%C3%A8vement_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1865,
+      "title": "L'enl\u00e8vement"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%89tienne_Marcel_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1877,
+      "title": "\u00c9tienne Marcel"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_%C3%89tudes_pour_la_main_gauche_seule,_Op.135_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1912,
+      "title": "6 \u00c9tudes pour la main gauche seule, Op.135"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_%C3%89tudes,_Op.52_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1877,
+      "title": "6 \u00c9tudes, Op.52"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_%C3%89tudes,_Op.111_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1892,
+      "title": "6 \u00c9tudes, Op.111"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Extase_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1860,
+      "title": "Extase"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantaisie_for_Harp,_Op.95_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1893,
+      "title": "Fantaisie for Harp, Op.95"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantaisie_for_Violin_and_Harp,_Op.124_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1907,
+      "title": "Fantaisie for Violin and Harp, Op.124"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantaisie_No.1_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1857,
+      "title": "Fantaisie No.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantaisie_No.2,_Op.101_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1895,
+      "title": "Fantaisie No.2, Op.101"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantaisie_No.3,_Op.157_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1919,
+      "title": "Fantaisie No.3, Op.157"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_f%C3%A9es_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1892,
+      "title": "Les f\u00e9es"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_feu_c%C3%A9leste,_Op.115_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1900,
+      "title": "Le feu c\u00e9leste, Op.115"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_feuille_de_peuplier_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1853,
+      "title": "La feuille de peuplier"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Feuillet_d%27album,_Op.81_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1887,
+      "title": "Feuillet d'album, Op.81"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Feuillet_d%27album,_Op.169_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1921,
+      "title": "Feuillet d'album, Op.169"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_fianc%C3%A9e_du_timbalier,_Op.82_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1887,
+      "title": "La fianc\u00e9e du timbalier, Op.82"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_fleurs_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1892,
+      "title": "Les fleurs"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_fleuve_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1906,
+      "title": "Le fleuve"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_foi,_Op.130_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1908,
+      "title": "La foi, Op.130"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_Fran%C3%A7aise_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1915,
+      "title": "La Fran\u00e7aise"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Fugues,_Op.161_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1920,
+      "title": "6 Fugues, Op.161"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Gavotte,_Op.23_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1871,
+      "title": "Gavotte, Op.23"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_gloire_de_Corneille,_Op.126_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1906,
+      "title": "La gloire de Corneille, Op.126"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_gloire,_Op.131_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1911,
+      "title": "La gloire, Op.131"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Gloria_Patri_in_D_major_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1858,
+      "title": "Gloria Patri in D major"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_golfe_de_Baya_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1847,
+      "title": "Le golfe de Baya"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_guerriers,_Op.84_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1888,
+      "title": "Les guerriers, Op.84"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Guitares_et_mandolines_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1890,
+      "title": "Guitares et mandolines"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Guitare_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1851,
+      "title": "Guitare"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hail!_California_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1915,
+      "title": "Hail! California"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Havanaise,_Op.83_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1887,
+      "title": "Havanaise, Op.83"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/H%C3%A9l%C3%A8ne_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1902,
+      "title": "H\u00e9l\u00e8ne"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Henry_VIII_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1883,
+      "title": "Henry VIII"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Heureux_qui_du_coeur_de_Marie_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1859,
+      "title": "Heureux qui du coeur de Marie"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Honneur_%C3%A0_l%27Am%C3%A9rique_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1917,
+      "title": "Honneur \u00e0 l'Am\u00e9rique"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hymne_%C3%A0_la_paix,_Op.159_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1919,
+      "title": "Hymne \u00e0 la paix, Op.159"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hymne_%C3%A0_Victor_Hugo,_Op.69_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1881,
+      "title": "Hymne \u00e0 Victor Hugo, Op.69"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Improvisation_sur_la_Beethoven-Cantate_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1870,
+      "title": "Improvisation sur la Beethoven-Cantate"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/7_Improvisations,_Op.150_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1916,
+      "title": "7 Improvisations, Op.150"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Introduction_et_rondo_capriccioso,_Op.28_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1863,
+      "title": "Introduction et rondo capriccioso, Op.28"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Inviolata_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1867,
+      "title": "Inviolata"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Javotte_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1896,
+      "title": "Javotte"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_jeunesse_d%27Hercule,_Op.50_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1877,
+      "title": "La jeunesse d'Hercule, Op.50"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jota_aragonese,_Op.64_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1880,
+      "title": "Jota aragonese, Op.64"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%C3%A0-bas_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1892,
+      "title": "L\u00e0-bas"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_lac_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1850,
+      "title": "Le lac"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Laudate_Dominum,_Op.149_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1915,
+      "title": "Laudate Dominum, Op.149"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_lever_de_la_lune_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1855,
+      "title": "Le lever de la lune"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lever_de_soleil_sur_le_Nil_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1898,
+      "title": "Lever de soleil sur le Nil"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_libellule_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1893,
+      "title": "La libellule"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Litanies_de_la_Sainte_Vierge_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1917,
+      "title": "Litanies de la Sainte Vierge"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lola,_Op.116_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1900,
+      "title": "Lola, Op.116"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_lyre_et_la_harpe,_Op.57_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1879,
+      "title": "La lyre et la harpe, Op.57"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Madeleine_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1892,
+      "title": "Madeleine"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Marche_d%C3%A9di%C3%A9e_aux_%C3%A9tudiants_d%27Alger,_Op.163_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1921,
+      "title": "Marche d\u00e9di\u00e9e aux \u00e9tudiants d'Alger, Op.163"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Marche_du_couronnement,_Op.117_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1902,
+      "title": "Marche du couronnement, Op.117"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Marche_h%C3%A9ro%C3%AFque,_Op.34_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1870,
+      "title": "Marche h\u00e9ro\u00efque, Op.34"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Marche_interalli%C3%A9e,_Op.155_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1918,
+      "title": "Marche interalli\u00e9e, Op.155"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Marche_religieuse,_Op.107_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1897,
+      "title": "Marche religieuse, Op.107"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Maria_Lucrezia_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1868,
+      "title": "Maria Lucrezia"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mass,_Op.4_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1856,
+      "title": "Mass, Op.4"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_matin_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1864,
+      "title": "Le matin"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_matin,_Op.129_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1909,
+      "title": "Le matin, Op.129"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/M%C3%A9ditation,_Op.3_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1892,
+      "title": "M\u00e9ditation, Op.3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/M%C3%A9lodies_persanes,_Op.26_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1870,
+      "title": "M\u00e9lodies persanes, Op.26"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Menuet_et_valse,_Op.56_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1872,
+      "title": "Menuet et valse, Op.56"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Morceau_anonyme_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1905,
+      "title": "Morceau anonyme"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Morceau_de_concert,_Op.62_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1880,
+      "title": "Morceau de concert, Op.62"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Morceau_de_concert,_Op.94_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1887,
+      "title": "Morceau de concert, Op.94"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Morceau_de_concert,_Op.154_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1918,
+      "title": "Morceau de concert, Op.154"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Morceaux,_Op.1_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1852,
+      "title": "3 Morceaux, Op.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_mort_d%27Oph%C3%A9lie_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1857,
+      "title": "La mort d'Oph\u00e9lie"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_mort_de_Tha%C3%AFs_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1895,
+      "title": "La mort de Tha\u00efs"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_muse_et_le_po%C3%A8te,_Op.132_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1910,
+      "title": "La muse et le po\u00e8te, Op.132"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_noces_de_Prom%C3%A9th%C3%A9e,_Op.19_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1867,
+      "title": "Les noces de Prom\u00e9th\u00e9e, Op.19"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturne_sur_les_motifs_d%27Hell%C3%A9_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1897,
+      "title": "Nocturne sur les motifs d'Hell\u00e9"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Une_nuit_%C3%A0_Lisbonne,_Op.63_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1880,
+      "title": "Une nuit \u00e0 Lisbonne, Op.63"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nuit_persane,_Op.26bis_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1891,
+      "title": "Nuit persane, Op.26bis"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_nuit,_Op.114_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1900,
+      "title": "La nuit, Op.114"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Oboe_Sonata,_Op.166_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1921,
+      "title": "Oboe Sonata, Op.166"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ode_%C3%A0_Sainte-C%C3%A9cile_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1852,
+      "title": "Ode \u00e0 Sainte-C\u00e9cile"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ode_d%27Horace_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1905,
+      "title": "Ode d'Horace"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Odelette,_Op.162_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1920,
+      "title": "Odelette, Op.162"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Offertoire_in_C_minor_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1854,
+      "title": "Offertoire in C minor"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Offertoire_pour_la_Toussaint_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1904,
+      "title": "Offertoire pour la Toussaint"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Oratorio_de_No%C3%ABl,_Op.12_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1858,
+      "title": "Oratorio de No\u00ebl, Op.12"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Organ_Pieces_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1853,
+      "title": "2 Organ Pieces"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Orient_et_occident,_Op.25_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1869,
+      "title": "Orient et occident, Op.25"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ouverture_d%27un_op%C3%A9ra-comique_inachev%C3%A9_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1854,
+      "title": "Ouverture d'un op\u00e9ra-comique inachev\u00e9"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ouverture_de_f%C3%AAte,_Op.133_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1910,
+      "title": "Ouverture de f\u00eate, Op.133"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pallas_Ath%C3%A9n%C3%A9e,_Op.98_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1894,
+      "title": "Pallas Ath\u00e9n\u00e9e, Op.98"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Panis_angelicus_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1898,
+      "title": "Panis angelicus"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Papillons_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1918,
+      "title": "Papillons"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Paraphrase_sur_Gallia_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1879,
+      "title": "Paraphrase sur Gallia"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Paraphrase_sur_Mandolinata_de_Paladilhe_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1869,
+      "title": "Paraphrase sur Mandolinata de Paladilhe"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Parysatis_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1901,
+      "title": "Parysatis"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_pas_d%27armes_du_Roi_Jean_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1852,
+      "title": "Le pas d'armes du Roi Jean"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pas_redoubl%C3%A9,_Op.86_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1887,
+      "title": "Pas redoubl\u00e9, Op.86"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pastorale_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1855,
+      "title": "Pastorale"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Peut-%C3%AAtre_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1893,
+      "title": "Peut-\u00eatre"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Mazurkas,_Opp.21,_24,_66_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1862,
+      "title": "3 Mazurkas, Opp.21, 24, 66"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/20_Motets_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1884,
+      "title": "20 Motets"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pi%C3%A8ces_de_clavecin_attribu%C3%A9es_%C3%A0_Rameau_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1895,
+      "title": "Pi\u00e8ces de clavecin attribu\u00e9es \u00e0 Rameau"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Transcriptions_de_quatuors_de_Beethoven_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1858,
+      "title": "3 Transcriptions de quatuors de Beethoven"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Samson_et_Dalila,_Op.47_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1877,
+      "title": "Samson et Dalila, Op.47"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Catalog_of_Works_(Saint-Sa%C3%ABns,_Camille)",
+      "year": 1901,
+      "title": "Catalog of Works"
+    }
+  ]
+}

@@ -1,0 +1,1226 @@
+{
+  "full_name": "Jules Massenet",
+  "first_names": "Jules",
+  "last_name": "Massenet",
+  "birth_year": 1842,
+  "death_year": 1912,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jules_Massenet",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Jules \u00c9mile Fr\u00e9d\u00e9ric Massenet was born in Montaud, a place so charming that even the storks were jealous of his family's residence. Being the youngest of four, he probably mastered the art of getting attention beautifully from day one.",
+      "year": 1842,
+      "city": "Montaud",
+      "country": "France"
+    },
+    {
+      "event": "Move to Paris",
+      "summary": "By 1848, Massenet's family moved to Paris, a city bustling enough to inspire even the most procrastinating of composers. Little did he know that the alleys here would soon be filled with the sounds of his operas!",
+      "year": 1848,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Admission to the Paris Conservatoire",
+      "summary": "Massenet dazzled the panel at the Paris Conservatoire, making his way in at such a young age that he probably thought he was sneaking into a music-themed amusement park rather than an esteemed institution.",
+      "year": 1853,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Winning the Prix de Rome",
+      "summary": "In a twist straight out of a musical fairy tale, young Massenet won the prestigious Prix de Rome, leading to a three-year educational spree in Italy where he probably felt like a rock star among painters.",
+      "year": 1863,
+      "city": "Rome",
+      "country": "Italy"
+    },
+    {
+      "event": "Composition of La grand'tante",
+      "summary": "Massenet composed his first commissioned opera, La grand'tante, which was so unique it made the audience reminisce about their own grandmothers' questionable cooking.",
+      "year": 1867,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Marriage to Ninon",
+      "summary": "Massenet wed Ninon, a partnership filled with love and presumably a lot of music, because what better way to celebrate wedded bliss than with endless piano duets?",
+      "year": 1866,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Completion of Don C\u00e9sar de Bazan",
+      "summary": "He completed Don C\u00e9sar de Bazan, his first grand effort, which left audiences wondering whether they came to see an opera or an elaborate dinner theatre performance.",
+      "year": 1872,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Success of Le roi de Lahore",
+      "summary": "Le roi de Lahore debuted at the Palais Garnier, and despite having a name longer than some essays, it became an instant hit, proving that sometimes a catchy title can overshadow everything else.",
+      "year": 1877,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Appointment as professor at the Conservatoire",
+      "summary": "Massenet became a professor at the Paris Conservatoire, perhaps believing that the best way to ensure a seat at the table was to grow his own future composers, much like a gardener with melodious seeds.",
+      "year": 1878,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Premiere of H\u00e9rodiade",
+      "summary": "Massenet's H\u00e9rodiade faced rejection from the Paris Op\u00e9ra, confirming that even composers deal with gatekeeping. Luckily, Brussels welcomed it with so much fanfare, it felt like a surprise party for his music.",
+      "year": 1881,
+      "city": "Brussels",
+      "country": "Belgium"
+    },
+    {
+      "event": "Success of Manon",
+      "summary": "The premiere of Manon marked Massenet's rise to operatic fame, where his compositions hit the stage like a delightful souffl\u00e9, light and full of sweet surprises that audiences couldn\u2019t resist.",
+      "year": 1884,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Becoming a Chevalier of the Legion of Honour",
+      "summary": "Massenet's achievements were recognized when he became a Chevalier of the Legion of Honour, a title that sounds fancy enough to impress dinner guests even if he couldn't cook to save his life.",
+      "year": 1876,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Premiered Manon",
+      "summary": "Massenet's opera 'Manon' had its premiere at the Op\u00e9ra-Comique, quickly becoming a sensational hit. Its success was so resounding that it earned a luxurious place in the hearts of opera lovers, alongside other giants of French opera, proving that good things come to those who compose well.",
+      "year": 1884,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Premiered Le Cid",
+      "summary": "Returning to the Op\u00e9ra with 'Le Cid', Massenet declared himself a melodist of remarkable talent. Critics hailed him as an inspiration, while the opera houses breathed a sigh of relief because who wouldn\u2019t want to be associated with a title like 'The Cid'?",
+      "year": 1885,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Failed to complete Amadis",
+      "summary": "Launched into the composition of 'Amadis', Massenet found himself creatively stumped. The project became a perpetual 'work in progress', as if he was trying to write a best-seller while suffering from writer's block!",
+      "year": 1889,
+      "city": "N/A",
+      "country": "N/A"
+    },
+    {
+      "event": "Werther's premiere",
+      "summary": "After much effort, 'Werther' finally made its debut, yet it didn\u2019t light the world on fire. It received a lukewarm reception, and critics wondered if Massenet had left his emotional depth at the door!",
+      "year": 1892,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "First performance of Tha\u00efs",
+      "summary": "The premiere of 'Tha\u00efs' took place, and though it was received with moderate enthusiasm, it wasn't long before its charms began blossoming in revivals. Massenet likely raised an eyebrow, thinking, 'It\u2019s like fine wine; it gets better after some time in the cellar!'",
+      "year": 1894,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Refused Conservatoire position",
+      "summary": "Offered the prestigious position of director at the Conservatoire, Massenet raised a bemused eyebrow and decided to decline, demonstrating that sometimes, the best job is the one you already have\u2014like being a celebrated composer!",
+      "year": 1896,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Composed Sapho",
+      "summary": "Creating 'Sapho', Massenet hit the sweet spot with a story about the innocent romantic pursuits of a young lad in Paris. The opera opened to a wave of applause, making Massenet feel like a rock star in a pit of poets!",
+      "year": 1897,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Cendrillon premiere",
+      "summary": "Massenet\u2019s version of Cinderella took the stage and charmed audiences. The fairy tale unfolded so magically that one could say Massenet sprinkled his musical fairy dust all over the audience, leaving them even more enchanted than before!",
+      "year": 1899,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Second offer for Conservatoire",
+      "summary": "Jules received a second offer to be director at the Conservatoire, and once more he opted out, sure that creative freedom was far more important than a desk job\u2014a message for all dreamers working nine-to-five!",
+      "year": 1905,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Last major opera Don Quichotte",
+      "summary": "In a final flourish, Massenet launched 'Don Quichotte', which was met with enthusiasm. It was like sending off a beloved friend on a grand adventure \u2014 with plenty of music to fill the air!",
+      "year": 1910,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Died in Paris",
+      "summary": "Massenet's flourishing life came to an end in Paris, leaving behind a legacy that still sings in the hearts of opera lovers everywhere. According to his wishes, his funeral was quiet\u2014a fitting farewell for the 'bourgeois artist' he always claimed to be.",
+      "year": 1912,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First major opera",
+      "summary": "Massenet composed his first major opera, 'Don C\u00e9sar de Bazan', a comedic romp where mistaken identities and mishaps abound. Critics may have been less than impressed, but it was a raucous start to his operatic adventures!",
+      "year": 1872,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Premiere of Manon",
+      "summary": "'Manon' debuted in Paris and took the opera world by storm. Critics were captivated by its lush melodies and dramatic flair, reminding everyone that operas could be both serious and immensely fun, like a rollercoaster with musical notes!",
+      "year": 1884,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Achieved fame in America",
+      "summary": "Massenet's works, especially 'Manon' and 'Werther', swept across the Atlantic, charming American audiences. Maybe it was the French flair, or perhaps audiences just needed a good dose of sophisticated drama to spice up their evenings!",
+      "year": 1894,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "M\u00e9ditation from Tha\u00efs becomes popular",
+      "summary": "The 'M\u00e9ditation' for violin and orchestra from 'Tha\u00efs' wowed concert-goers, elevating Massenet into the realms of orchestral popularity. It became a hit, proving that classical pieces could be as catchy as pop songs... well, sort of!",
+      "year": 1894,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Death",
+      "summary": "Massenet passed away, leaving behind a legacy that had critics divided \u2014 some loved him, some scoffed at him. But at least he never had to hear the mean reviews from beyond the grave, right?",
+      "year": 1912,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First public performance",
+      "summary": "At the age of ten, Massenet made his debut in public performance, where he delighted the audience and likely left his baby grand piano with a few emotional scars.",
+      "year": 1852,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First opera premiere",
+      "summary": "Massenet's first opera premiered, marking his transition from boy wonder to a bona fide composer, proving once and for all that he could put on a show that even his mom would brag about.",
+      "year": 1876,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "M\u00e9ditation from Tha\u00efs",
+      "summary": "The release of 'M\u00e9ditation' from Tha\u00efs became a hit! It was so captivating that it probably had folks forgetting to clap, lost in a trance of musical bliss.",
+      "year": 1894,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Retirement",
+      "summary": "Massenet decided it was time to retire, trading composing for leisurely strolls through the park\u2014where he could reflect on his stellar career and occasionally scare birds with his dramatic gestures.",
+      "year": 1907,
+      "city": "Paris",
+      "country": "France"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%80_Colombine_(Massenet,_Jules)",
+      "year": 1872,
+      "title": "\u00c0 Colombine"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%80_deux_pleurer_(Massenet,_Jules)",
+      "year": 1897,
+      "title": "\u00c0 deux pleurer"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_alcyons_(Massenet,_Jules)",
+      "year": 1881,
+      "title": "Les alcyons"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Amadis_(Massenet,_Jules)",
+      "year": 1891,
+      "title": "Amadis"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27%C3%A2me_des_fleurs_(Massenet,_Jules)",
+      "year": 1891,
+      "title": "L'\u00e2me des fleurs"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27%C3%A2me_des_oiseaux_(Massenet,_Jules)",
+      "year": 1895,
+      "title": "L'\u00e2me des oiseaux"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%82mes_obscures_(Massenet,_Jules)",
+      "year": 1912,
+      "title": "\u00c2mes obscures"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_%C3%A2mes_(Massenet,_Jules)",
+      "year": 1898,
+      "title": "Les \u00e2mes"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27amour_pleure_(Massenet,_Jules)",
+      "year": 1912,
+      "title": "L'amour pleure"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Amour!_(Massenet,_Jules)",
+      "year": 1880,
+      "title": "Amour!"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_amoureuses_sont_des_folles_(Massenet,_Jules)",
+      "year": 1902,
+      "title": "Les amoureuses sont des folles"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Amoureuse_(Massenet,_Jules)",
+      "year": 1898,
+      "title": "Amoureuse"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Amoureux_appel_(Massenet,_Jules)",
+      "year": 1901,
+      "title": "Amoureux appel"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Amours_b%C3%A9nis_(Massenet,_Jules)",
+      "year": 1899,
+      "title": "Amours b\u00e9nis"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Andante_cantabile_(Massenet,_Jules)",
+      "year": 1882,
+      "title": "Andante cantabile"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27ange_et_l%27enfant_(Massenet,_Jules)",
+      "year": 1899,
+      "title": "L'ange et l'enfant"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ann%C3%A9e_pass%C3%A9e_(Massenet,_Jules)",
+      "year": 1897,
+      "title": "Ann\u00e9e pass\u00e9e"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Anniversaire_(Massenet,_Jules)",
+      "year": 1880,
+      "title": "Anniversaire"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ariane_(Massenet,_Jules)",
+      "year": 1905,
+      "title": "Ariane"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Au_del%C3%A0_du_r%C3%AAve_(Massenet,_Jules)",
+      "year": 1903,
+      "title": "Au del\u00e0 du r\u00eave"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Au_tr%C3%A8s_aim%C3%A9_(Massenet,_Jules)",
+      "year": 1900,
+      "title": "Au tr\u00e8s aim\u00e9"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Aubade_(Massenet,_Jules)",
+      "year": 1877,
+      "title": "Aubade"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Aube_pa%C3%AFenne_(Massenet,_Jules)",
+      "year": 1912,
+      "title": "Aube pa\u00efenne"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ave_Margarita!_(Massenet,_Jules)",
+      "year": 1902,
+      "title": "Ave Margarita!"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Avec_toi!_(Massenet,_Jules)",
+      "year": 1902,
+      "title": "Avec toi!"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Aveu_(Massenet,_Jules)",
+      "year": 1884,
+      "title": "Aveu"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Avril_est_amoureux_(Massenet,_Jules)",
+      "year": 1900,
+      "title": "Avril est amoureux"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Avril_est_l%C3%A0_(Massenet,_Jules)",
+      "year": 1899,
+      "title": "Avril est l\u00e0"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bacchus_(Massenet,_Jules)",
+      "year": 1908,
+      "title": "Bacchus"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Beaux_yeux_que_j%27aime_(Massenet,_Jules)",
+      "year": 1891,
+      "title": "Beaux yeux que j'aime"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_belles_de_nuit_(Massenet,_Jules)",
+      "year": 1887,
+      "title": "Les belles de nuit"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Berceuses_(Massenet,_Jules)",
+      "year": 1870,
+      "title": "2 Berceuses"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Biblis_(Massenet,_Jules)",
+      "year": 1886,
+      "title": "Biblis"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Brumaire_(Massenet,_Jules)",
+      "year": 1900,
+      "title": "Brumaire"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/C%27est_l%27amour_(Massenet,_Jules)",
+      "year": 1908,
+      "title": "C'est l'amour"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_carillon_(Massenet,_Jules)",
+      "year": 1891,
+      "title": "Le carillon"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ce_que_disent_les_cloches_(Massenet,_Jules)",
+      "year": 1900,
+      "title": "Ce que disent les cloches"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ce_sont_les_petits_que_je_veux_chanter_(Massenet,_Jules)",
+      "year": 1899,
+      "title": "Ce sont les petits que je veux chanter"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cendrillon_(opera)_(Massenet,_Jules)",
+      "year": 1894,
+      "title": "Cendrillon"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cendrillon_(suite)_(Massenet,_Jules)",
+      "year": 1894,
+      "title": "Cendrillon"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chanson_andalouse_(Massenet,_Jules)",
+      "year": 1885,
+      "title": "Chanson andalouse"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chanson_de_Capri_(Massenet,_Jules)",
+      "year": 1872,
+      "title": "Chanson de Capri"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_chanson_de_Musette_(Massenet,_Jules)",
+      "year": 1875,
+      "title": "La chanson de Musette"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_chanson_des_l%C3%A8vres_(Massenet,_Jules)",
+      "year": 1897,
+      "title": "La chanson des l\u00e8vres"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chanson_d%C3%A9sesp%C3%A9r%C3%A9e_(Massenet,_Jules)",
+      "year": 1905,
+      "title": "Chanson d\u00e9sesp\u00e9r\u00e9e"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chanson_juanesque_(Massenet,_Jules)",
+      "year": 1905,
+      "title": "Chanson juanesque"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chanson_pour_elle_(Massenet,_Jules)",
+      "year": 1897,
+      "title": "Chanson pour elle"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chansons_des_bois_d%27amaranthe_(Massenet,_Jules)",
+      "year": 1901,
+      "title": "Chansons des bois d'amaranthe"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chant_de_guerre_cosaque_(Massenet,_Jules)",
+      "year": 1886,
+      "title": "Chant de guerre cosaque"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chant_proven%C3%A7al_(Massenet,_Jules)",
+      "year": 1871,
+      "title": "Chant proven\u00e7al"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Chants_intimes_(Massenet,_Jules)",
+      "year": 1866,
+      "title": "3 Chants intimes"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ch%C3%A9rubin_(Massenet,_Jules)",
+      "year": 1905,
+      "title": "Ch\u00e9rubin"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_Cid_(Massenet,_Jules)",
+      "year": 1885,
+      "title": "Le Cid"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cigale_(ballet)_(Massenet,_Jules)",
+      "year": 1902,
+      "title": "Cigale"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cigale_(suite)_(Massenet,_Jules)",
+      "year": 1904,
+      "title": "Cigale"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_coffret_d%27%C3%A9b%C3%A8ne_(Massenet,_Jules)",
+      "year": 1912,
+      "title": "Le coffret d'\u00e9b\u00e8ne"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Come_into_the_Garden,_Maud_(Massenet,_Jules)",
+      "year": 1880,
+      "title": "Come into the Garden, Maud"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Coupe_d%27ivresse_(Massenet,_Jules)",
+      "year": 1899,
+      "title": "Coupe d'ivresse"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_crocodile_(Massenet,_Jules)",
+      "year": 1886,
+      "title": "Le crocodile"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_crucifix_(Massenet,_Jules)",
+      "year": 1862,
+      "title": "Le crucifix"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dans_le_sentier,_parmi_les_roses_(Massenet,_Jules)",
+      "year": 1891,
+      "title": "Dans le sentier, parmi les roses"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/D%C3%A9part_(Massenet,_Jules)",
+      "year": 1893,
+      "title": "D\u00e9part"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_derni%C3%A8re_chanson_(Massenet,_Jules)",
+      "year": 1898,
+      "title": "La derni\u00e8re chanson"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Devant_l%27infini_(Massenet,_Jules)",
+      "year": 1892,
+      "title": "Devant l'infini"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Devant_la_Madone_(Massenet,_Jules)",
+      "year": 1864,
+      "title": "Devant la Madone"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dialogue_nocturne_(Massenet,_Jules)",
+      "year": 1871,
+      "title": "Dialogue nocturne"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dieu_cr%C3%A9a_le_d%C3%A9sert_(Massenet,_Jules)",
+      "year": 1910,
+      "title": "Dieu cr\u00e9a le d\u00e9sert"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dites-lui_que_je_l%27aime_(Massenet,_Jules)",
+      "year": 1910,
+      "title": "Dites-lui que je l'aime"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Don_C%C3%A9sar_de_Bazan_(Massenet,_Jules)",
+      "year": 1872,
+      "title": "Don C\u00e9sar de Bazan"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Don_Quichotte_(Massenet,_Jules)",
+      "year": 1910,
+      "title": "Don Quichotte"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dormons_parmi_les_lis_(Massenet,_Jules)",
+      "year": 1908,
+      "title": "Dormons parmi les lis"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Duo_pour_violoncelle_et_contrebasse_(Massenet,_Jules)",
+      "year": 1876,
+      "title": "Duo pour violoncelle et contrebasse"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%89l%C3%A9gie_(Massenet,_Jules)",
+      "year": 1872,
+      "title": "\u00c9l\u00e9gie"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%89l%C3%A9vation_(Massenet,_Jules)",
+      "year": 1901,
+      "title": "\u00c9l\u00e9vation"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Elle_s%27en_est_all%C3%A9e_(Massenet,_Jules)",
+      "year": 1895,
+      "title": "Elle s'en est all\u00e9e"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Enchantement_(Massenet,_Jules)",
+      "year": 1890,
+      "title": "Enchantement"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_enfants_(Massenet,_Jules)",
+      "year": 1881,
+      "title": "Les enfants"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%89pithalame_(Massenet,_Jules)",
+      "year": 1891,
+      "title": "\u00c9pithalame"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_%C3%89rinnyes_(incidental_music)_(Massenet,_Jules)",
+      "year": 1872,
+      "title": "Les \u00c9rinnyes"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_%C3%89rinnyes_(suite)_(Massenet,_Jules)",
+      "year": 1872,
+      "title": "Les \u00c9rinnyes"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Esclarmonde_(opera)_(Massenet,_Jules)",
+      "year": 1888,
+      "title": "Esclarmonde"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Esclarmonde_(suite)_(Massenet,_Jules)",
+      "year": 1889,
+      "title": "Esclarmonde"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Espada_(Massenet,_Jules)",
+      "year": 1908,
+      "title": "Espada"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Et_puis_(Massenet,_Jules)",
+      "year": 1905,
+      "title": "Et puis"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%89ternit%C3%A9_(Massenet,_Jules)",
+      "year": 1899,
+      "title": "\u00c9ternit\u00e9"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%8Atre_aim%C3%A9_(Massenet,_Jules)",
+      "year": 1893,
+      "title": "\u00catre aim\u00e9"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%89veil_(Massenet,_Jules)",
+      "year": 1906,
+      "title": "\u00c9veil"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27%C3%A9ventail_(Massenet,_Jules)",
+      "year": 1891,
+      "title": "L'\u00e9ventail"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%88ve_(Massenet,_Jules)",
+      "year": 1874,
+      "title": "\u00c8ve"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Expressions_lyriques_(Massenet,_Jules)",
+      "year": 1902,
+      "title": "Expressions lyriques"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Extase_printani%C3%A8re_(Massenet,_Jules)",
+      "year": 1902,
+      "title": "Extase printani\u00e8re"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_extases_(Massenet,_Jules)",
+      "year": 1912,
+      "title": "Les extases"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fandango_(Massenet,_Jules)",
+      "year": 1888,
+      "title": "Fandango"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantaisie_pour_violoncelle_et_orchestre_(Massenet,_Jules)",
+      "year": 1897,
+      "title": "Fantaisie pour violoncelle et orchestre"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_femmes_de_Magdala_(Massenet,_Jules)",
+      "year": 1872,
+      "title": "Les femmes de Magdala"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_fleur_et_le_papillon_(Massenet,_Jules)",
+      "year": 1862,
+      "title": "La fleur et le papillon"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fleurs_cueillies_(Massenet,_Jules)",
+      "year": 1888,
+      "title": "Fleurs cueillies"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_fleurs_(Massenet,_Jules)",
+      "year": 1894,
+      "title": "Les fleurs"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fourvi%C3%A8res_(Massenet,_Jules)",
+      "year": 1893,
+      "title": "Fourvi\u00e8res"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_gavotte_de_Puyjoli_(Massenet,_Jules)",
+      "year": 1909,
+      "title": "La gavotte de Puyjoli"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_grand%27tante_(Massenet,_Jules)",
+      "year": 1866,
+      "title": "La grand'tante"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Grande_fantaisie_de_concert_sur_%27Le_pardon_de_Plo%C3%ABrmel%27_(Massenet,_Jules)",
+      "year": 1861,
+      "title": "Grande fantaisie de concert sur 'Le pardon de Plo\u00ebrmel'"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_grands_violons_du_roi_Louis_XV_(Massenet,_Jules)",
+      "year": 1899,
+      "title": "Les grands violons du roi Louis XV"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Gris%C3%A9lidis_(Massenet,_Jules)",
+      "year": 1894,
+      "title": "Gris\u00e9lidis"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Guitare_(Massenet,_Jules)",
+      "year": 1886,
+      "title": "Guitare"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/H%C3%A9rodiade_(Massenet,_Jules)",
+      "year": 1881,
+      "title": "H\u00e9rodiade"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Heure_v%C3%A9cue_(Massenet,_Jules)",
+      "year": 1912,
+      "title": "Heure v\u00e9cue"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27heure_vol%C3%A9e_(Massenet,_Jules)",
+      "year": 1902,
+      "title": "L'heure vol\u00e9e"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27heureuse_souffrance_(Massenet,_Jules)",
+      "year": 1902,
+      "title": "L'heureuse souffrance"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Horace_et_Lydie_(Massenet,_Jules)",
+      "year": 1886,
+      "title": "Horace et Lydie"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hymne_d%27amour_(Massenet,_Jules)",
+      "year": 1895,
+      "title": "Hymne d'amour"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Il_pleuvait_(Massenet,_Jules)",
+      "year": 1871,
+      "title": "Il pleuvait"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Impromptus_(Massenet,_Jules)",
+      "year": 1896,
+      "title": "2 Impromptus"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27improvisateur_(Massenet,_Jules)",
+      "year": 1864,
+      "title": "L'improvisateur"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Improvisations_(Massenet,_Jules)",
+      "year": 1874,
+      "title": "Improvisations"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ivre_d%27amour_(Massenet,_Jules)",
+      "year": 1906,
+      "title": "Ivre d'amour"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jamais_plus_(Massenet,_Jules)",
+      "year": 1912,
+      "title": "Jamais plus"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Je_cours_apr%C3%A8s_le_bonheur_(Massenet,_Jules)",
+      "year": 1888,
+      "title": "Je cours apr\u00e8s le bonheur"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Je_m%27en_suis_all%C3%A9_vers_l%27amour_(Massenet,_Jules)",
+      "year": 1902,
+      "title": "Je m'en suis all\u00e9 vers l'amour"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Je_mourrai_plus_que_toi_(Massenet,_Jules)",
+      "year": 1905,
+      "title": "Je mourrai plus que toi"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Je_t%27aime_(Massenet,_Jules)",
+      "year": 1893,
+      "title": "Je t'aime"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/J%C3%A9rusalem_(Massenet,_Jules)",
+      "year": 1911,
+      "title": "J\u00e9rusalem"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_jongleur_de_Notre-Dame_(Massenet,_Jules)",
+      "year": 1901,
+      "title": "Le jongleur de Notre-Dame"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jour_de_noces_(Massenet,_Jules)",
+      "year": 1886,
+      "title": "Jour de noces"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Larmes_maternelles_(Massenet,_Jules)",
+      "year": 1893,
+      "title": "Larmes maternelles"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_lettre_(Massenet,_Jules)",
+      "year": 1907,
+      "title": "La lettre"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Loin_de_moi_ta_l%C3%A8vre_qui_ment_(Massenet,_Jules)",
+      "year": 1881,
+      "title": "Loin de moi ta l\u00e8vre qui ment"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lui_et_elle_(Massenet,_Jules)",
+      "year": 1890,
+      "title": "Lui et elle"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ma_cousine_(Massenet,_Jules)",
+      "year": 1890,
+      "title": "Ma cousine"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ma_petite_m%C3%A8re_a_pleur%C3%A9_(Massenet,_Jules)",
+      "year": 1902,
+      "title": "Ma petite m\u00e8re a pleur\u00e9"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Madrigal_(Massenet,_Jules)",
+      "year": 1869,
+      "title": "Madrigal"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_Mage_(Massenet,_Jules)",
+      "year": 1890,
+      "title": "Le Mage"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_mains_(Massenet,_Jules)",
+      "year": 1898,
+      "title": "Les mains"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Manon_(Massenet,_Jules)",
+      "year": 1883,
+      "title": "Manon"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_marchande_de_r%C3%AAves_(Massenet,_Jules)",
+      "year": 1905,
+      "title": "La marchande de r\u00eaves"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Marche_h%C3%A9ro%C3%AFque_de_Szabadi_(Massenet,_Jules)",
+      "year": 1879,
+      "title": "Marche h\u00e9ro\u00efque de Szabadi"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Marche_solennelle_(Massenet,_Jules)",
+      "year": 1881,
+      "title": "Marche solennelle"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Marie-Magdeleine_(Massenet,_Jules)",
+      "year": 1871,
+      "title": "Marie-Magdeleine"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Marquise_(Massenet,_Jules)",
+      "year": 1888,
+      "title": "Marquise"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_m%C3%A9lodie_des_baisers_(Massenet,_Jules)",
+      "year": 1906,
+      "title": "La m\u00e9lodie des baisers"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_M%C3%A9lodies,_deux_duos_et_un_trio,_Op.2_(Massenet,_Jules)",
+      "year": 1868,
+      "title": "3 M\u00e9lodies, deux duos et un trio, Op.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_M%C3%A9lodies,_Op.12_(Massenet,_Jules)",
+      "year": 1868,
+      "title": "4 M\u00e9lodies, Op.12"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Menteuse_ch%C3%A9rie_(Massenet,_Jules)",
+      "year": 1912,
+      "title": "Menteuse ch\u00e9rie"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_m%C3%A8res_(Massenet,_Jules)",
+      "year": 1891,
+      "title": "Les m\u00e8res"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mienne!_(Massenet,_Jules)",
+      "year": 1893,
+      "title": "Mienne!"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/1812_(Massenet,_Jules)",
+      "year": 1886,
+      "title": "1812"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Moines_et_forbans_(Massenet,_Jules)",
+      "year": 1877,
+      "title": "Moines et forbans"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mon_page_(Massenet,_Jules)",
+      "year": 1900,
+      "title": "Mon page"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Morceaux_%C3%A0_d%C3%A9chiffrer_(Massenet,_Jules)",
+      "year": 1881,
+      "title": "2 Morceaux \u00e0 d\u00e9chiffrer"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_mort_de_la_cigale_(Massenet,_Jules)",
+      "year": 1911,
+      "title": "La mort de la cigale"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mousm%C3%A9_(Massenet,_Jules)",
+      "year": 1901,
+      "title": "Mousm\u00e9"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Musique_pour_bercer_les_petits_enfants_(Massenet,_Jules)",
+      "year": 1902,
+      "title": "Musique pour bercer les petits enfants"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Narcisse_%C3%A0_la_fontaine_(Massenet,_Jules)",
+      "year": 1881,
+      "title": "Narcisse \u00e0 la fontaine"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Narcisse_(Massenet,_Jules)",
+      "year": 1878,
+      "title": "Narcisse"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_Navarraise_(Massenet,_Jules)",
+      "year": 1894,
+      "title": "La Navarraise"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ne_donne_pas_ton_c%C5%93ur_(Massenet,_Jules)",
+      "year": 1892,
+      "title": "Ne donne pas ton c\u0153ur"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/N%C3%A9%C3%A9re_(Massenet,_Jules)",
+      "year": 1872,
+      "title": "N\u00e9\u00e9re"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_neige_(Massenet,_Jules)",
+      "year": 1890,
+      "title": "La neige"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_nid_(Massenet,_Jules)",
+      "year": 1898,
+      "title": "Le nid"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/No%C3%ABl_de_fleurs_(Massenet,_Jules)",
+      "year": 1912,
+      "title": "No\u00ebl de fleurs"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_no%C3%ABl_des_humbles_(Massenet,_Jules)",
+      "year": 1908,
+      "title": "Le no\u00ebl des humbles"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/No%C3%ABl_pa%C3%AFen_(Massenet,_Jules)",
+      "year": 1886,
+      "title": "No\u00ebl pa\u00efen"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nuit_d%27Espagne_(Massenet,_Jules)",
+      "year": 1874,
+      "title": "Nuit d'Espagne"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_nuit_(Massenet,_Jules)",
+      "year": 1912,
+      "title": "La nuit"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Oh!_si_les_fleurs_avaient_des_yeux_(Massenet,_Jules)",
+      "year": 1903,
+      "title": "Oh! si les fleurs avaient des yeux"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27oiseau_du_paradis_(Massenet,_Jules)",
+      "year": 1912,
+      "title": "L'oiseau du paradis"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_oiselets_(Massenet,_Jules)",
+      "year": 1877,
+      "title": "Les oiselets"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/On_dit_(Massenet,_Jules)",
+      "year": 1901,
+      "title": "On dit"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Orphelines_(Massenet,_Jules)",
+      "year": 1906,
+      "title": "Orphelines"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ouverture_de_concert,_Op.1_(Massenet,_Jules)",
+      "year": 1863,
+      "title": "Ouverture de concert, Op.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Panurge_(Massenet,_Jules)",
+      "year": 1912,
+      "title": "Panurge"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Parade_militaire_(Massenet,_Jules)",
+      "year": 1887,
+      "title": "Parade militaire"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Parfums_(Massenet,_Jules)",
+      "year": 1909,
+      "title": "Parfums"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pens%C3%A9e_d%27automne_(Massenet,_Jules)",
+      "year": 1887,
+      "title": "Pens\u00e9e d'automne"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pens%C3%A9e_de_printemps_(Massenet,_Jules)",
+      "year": 1893,
+      "title": "Pens\u00e9e de printemps"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Perce-neige_(Massenet,_Jules)",
+      "year": 1909,
+      "title": "Perce-neige"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_petit_J%C3%A9sus_(Massenet,_Jules)",
+      "year": 1899,
+      "title": "Le petit J\u00e9sus"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Petite_Mireille_(Massenet,_Jules)",
+      "year": 1899,
+      "title": "Petite Mireille"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ph%C3%A8dre_(Massenet,_Jules)",
+      "year": 1873,
+      "title": "Ph\u00e8dre"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_(Massenet,_Jules)",
+      "year": 1902,
+      "title": "Piano Concerto"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/10_Pi%C3%A8ces_de_genre,_Op.10_(Massenet,_Jules)",
+      "year": 1866,
+      "title": "10 Pi\u00e8ces de genre, Op.10"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pi%C3%A8ces_pour_petit_orchestre_(Massenet,_Jules)",
+      "year": 1901,
+      "title": "Pi\u00e8ces pour petit orchestre"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Pi%C3%A8ces_pour_piano_%C3%A0_4_mains,_Op.11_(Massenet,_Jules)",
+      "year": 1867,
+      "title": "3 Pi\u00e8ces pour piano \u00e0 4 mains, Op.11"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Pi%C3%A8ces_pour_piano_(Massenet,_Jules)",
+      "year": 1907,
+      "title": "2 Pi\u00e8ces pour piano"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Pi%C3%A8ces_pour_violoncelle_et_piano_(Massenet,_Jules)",
+      "year": 1866,
+      "title": "2 Pi\u00e8ces pour violoncelle et piano"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pitchounette_(Massenet,_Jules)",
+      "year": 1897,
+      "title": "Pitchounette"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Plus_vite_(Massenet,_Jules)",
+      "year": 1886,
+      "title": "Plus vite"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Po%C3%A8me_d%27amour_(Massenet,_Jules)",
+      "year": 1878,
+      "title": "Po\u00e8me d'amour"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Po%C3%A8me_d%27avril,_Op.14_(Massenet,_Jules)",
+      "year": 1866,
+      "title": "Po\u00e8me d'avril, Op.14"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Po%C3%A8me_d%27hiver_(Massenet,_Jules)",
+      "year": 1882,
+      "title": "Po\u00e8me d'hiver"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Po%C3%A8me_d%27octobre_(Massenet,_Jules)",
+      "year": 1876,
+      "title": "Po\u00e8me d'octobre"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Po%C3%A8me_d%27un_soir_(Massenet,_Jules)",
+      "year": 1895,
+      "title": "Po\u00e8me d'un soir"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_po%C3%A8me_des_fleurs_(Massenet,_Jules)",
+      "year": 1907,
+      "title": "Le po\u00e8me des fleurs"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Po%C3%A8me_du_souvenir_(Massenet,_Jules)",
+      "year": 1868,
+      "title": "Po\u00e8me du souvenir"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Po%C3%A8me_pastoral_(Massenet,_Jules)",
+      "year": 1870,
+      "title": "Po\u00e8me pastoral"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/M%C3%A9lodies_(Massenet,_Jules)",
+      "year": 1875,
+      "title": "M\u00e9lodies"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Pi%C3%A8ces_pour_orgue_(Massenet,_Jules)",
+      "year": 1904,
+      "title": "3 Pi\u00e8ces pour orgue"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mes_souvenirs_(Massenet,_Jules)",
+      "year": 1912,
+      "title": "Mes souvenirs"
+    }
+  ]
+}

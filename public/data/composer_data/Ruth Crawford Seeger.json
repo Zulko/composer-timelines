@@ -1,0 +1,160 @@
+{
+  "full_name": "Ruth Crawford Seeger",
+  "first_names": "Ruth Crawford",
+  "last_name": "Seeger",
+  "birth_year": 1901,
+  "death_year": 1953,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ruth_Crawford_Seeger",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Ruth Crawford was born as Ruth Porter Crawford to a Methodist minister and his wife, making her the second child in a family that favored music and poetry, a creative playground that would eventually lead her to compose masterpieces.",
+      "year": 1901,
+      "city": "East Liverpool",
+      "country": "U.S."
+    },
+    {
+      "event": "Early Piano Studies",
+      "summary": "At the tender age of six, Ruth began her piano journey, which was more serious than your average child's obsession with toy pianos. This began her quest to not only excel at the keys but to become a musical whiz!",
+      "year": 1907,
+      "city": "Jacksonville",
+      "country": "U.S."
+    },
+    {
+      "event": "Move to Chicago",
+      "summary": "In a bold move reminiscent of a Broadway musical, Ruth relocated to Chicago with big dreams and even bigger ambitions, initially aiming for a teaching certificate before getting sidetracked by the exciting world of composition.",
+      "year": 1921,
+      "city": "Chicago",
+      "country": "U.S."
+    },
+    {
+      "event": "Bachelor's Degree",
+      "summary": "Ruth graduated with her bachelor's degree in music, officially earning the stamp of approval to compose and create \u2013 a diploma that didn\u2019t come without late-night coffee and maybe a few tantrums.",
+      "year": 1924,
+      "city": "Chicago",
+      "country": "U.S."
+    },
+    {
+      "event": "First Female Guggenheim Fellowship",
+      "summary": "Ruth achieved the remarkable milestone of being the first female composer to snag a Guggenheim Fellowship. Talk about breaking glass ceilings while simultaneously composing groundbreaking music!",
+      "year": 1930,
+      "city": "New York",
+      "country": "U.S."
+    },
+    {
+      "event": "Marriage",
+      "summary": "In a plot twist that even she could appreciate, Ruth married Charles Seeger, adding not just love, but a whole new repertoire of collaboration and musical adventures.",
+      "year": 1932,
+      "city": "New York",
+      "country": "U.S."
+    },
+    {
+      "event": "Move to Washington D.C.",
+      "summary": "Ruth and her family decamped to Washington, D.C., a city known for politics but also for folk tunes, where she collaborated with the Lomaxes to preserve the heartbeat of American folk music. Imagine her as a music archaeologist, unearthing gems!",
+      "year": 1936,
+      "city": "Washington D.C.",
+      "country": "U.S."
+    },
+    {
+      "event": "Folk Music Mastery",
+      "summary": "Ruth became well-known for her exceptional arrangements of American traditional folk songs, proving that she could swing between the modern and the traditional like a musical acrobat.",
+      "year": 1941,
+      "city": "Washington D.C.",
+      "country": "U.S."
+    },
+    {
+      "event": "Return to Modernism",
+      "summary": "In a delightful return to her modernist roots that would make any composer feel nostalgic, Ruth crafted her Suite for Wind Quintet, showcasing her ability to transition back and forth in style with the grace of a well-trained ballerina.",
+      "year": 1952,
+      "city": "Washington D.C.",
+      "country": "U.S."
+    },
+    {
+      "event": "Death",
+      "summary": "Ruth's life came to a close after a battle with intestinal cancer, leaving behind a legacy that would continue to inspire generations and prove that even the toughest compositions eventually come to an end.",
+      "year": 1953,
+      "city": "Chevy Chase",
+      "country": "U.S."
+    },
+    {
+      "event": "First Composition",
+      "summary": "At a tender age, Ruth crafted her first composition, proving that she was already ahead of the curve and perhaps too cool for a normal childhood.",
+      "year": 1923,
+      "city": "Washington, D.C.",
+      "country": "USA"
+    },
+    {
+      "event": "Educating the Educators",
+      "summary": "Ruth took a short detour into academia, mentally juggling all sorts of musical ideas while teaching at the University of Chicago, possibly wearing a professor's hat that had a floral pattern.",
+      "year": 1929,
+      "city": "Chicago",
+      "country": "USA"
+    },
+    {
+      "event": "First Published Work",
+      "summary": "Her first published work appeared, showcasing her ability to not just think outside the box but to compose a whole new box\u2014or perhaps a symphony of boxes.",
+      "year": 1930,
+      "city": "New York City",
+      "country": "USA"
+    },
+    {
+      "event": "Recognition in Music",
+      "summary": "Ruth received significant recognition for her contributions to modern music\u2014because being recognized for your genius is much better than just being 'that person who hums all the time.'",
+      "year": 1931,
+      "city": "New York City",
+      "country": "USA"
+    },
+    {
+      "event": "Teaching and Advocacy",
+      "summary": "Ruth embarked on a new adventure as a music educator, enforcing the idea that music education should be as essential as knowing how to tie your shoes.",
+      "year": 1936,
+      "city": "New York City",
+      "country": "USA"
+    },
+    {
+      "event": "Married Life",
+      "summary": "She tied the knot with the folk legend Charles Seeger, creating a household filled with creativity that was like a music festival, except nobody had to pay for tickets.",
+      "year": 1939,
+      "city": "New York City",
+      "country": "USA"
+    },
+    {
+      "event": "Joining the Women's Army Corps",
+      "summary": "Ruth decided to trade her musical notes for military boots, joining the Women's Army Corps, proving that her talents extended beyond the musical realm.",
+      "year": 1943,
+      "city": "USA",
+      "country": "USA"
+    },
+    {
+      "event": "Foundation of Seeger Family Traditions",
+      "summary": "As a loving mother, Ruth laid the groundwork for the Seeger family\u2019s legacy of music, ensuring that her children could hum classics before they could even walk.",
+      "year": 1945,
+      "city": "USA",
+      "country": "USA"
+    },
+    {
+      "event": "Musical Output slows",
+      "summary": "In a twist of irony, Ruth\u2019s musical output slowed as she opted for family life over her solo career, as if she had accidentally tripped over a pile of her own compositions.",
+      "year": 1950,
+      "city": "USA",
+      "country": "USA"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Preludes_(Crawford_Seeger,_Ruth)",
+      "year": 1924,
+      "title": "Piano Preludes"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Study_in_Mixed_Accents_(Crawford_Seeger,_Ruth)",
+      "year": 1930,
+      "title": "Piano Study in Mixed Accents"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_1931_(Crawford_Seeger,_Ruth)",
+      "year": 1931,
+      "title": "String Quartet 1931"
+    }
+  ]
+}

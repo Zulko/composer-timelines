@@ -1,0 +1,109 @@
+{
+  "full_name": "Zolt\u00e1n Kod\u00e1ly",
+  "first_names": "Zolt\u00e1n",
+  "last_name": "Kod\u00e1ly",
+  "birth_year": 1882,
+  "death_year": 1967,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Zolt\u00e1n_Kod\u00e1ly",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Born in Kecskem\u00e9t, Hungary, where he probably had more dreams than toys, little did anyone know that he would grow up to be a music legend.",
+      "year": 1882,
+      "city": "Kecskem\u00e9t",
+      "country": "Hungary"
+    },
+    {
+      "event": "Started Music Education",
+      "summary": "Kod\u00e1ly got a double whammy by enrolling in the University of Budapest's Department of Languages while also taking composition classes at the Royal Hungarian Academy of Music. It was like multitasking before it was fashionable!",
+      "year": 1900,
+      "city": "Budapest",
+      "country": "Hungary"
+    },
+    {
+      "event": "Studied in Paris",
+      "summary": "Keen on international exposure, he decided to study in Paris with Charles Widor. One can only imagine the croissants and music he indulged in!",
+      "year": 1901,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Folk Song Collection",
+      "summary": "Venturing into remote villages to collect songs, Kod\u00e1ly recorded them on phonograph cylinders. A bit like an early music DJ, he was dropping beats from the countryside!",
+      "year": 1905,
+      "city": "Various villages",
+      "country": "Hungary"
+    },
+    {
+      "event": "Thesis on Hungarian Folk Song",
+      "summary": "He wrote a thesis titled 'Strophic Construction in Hungarian Folksong' and probably threw in some delightful folk anecdotes that made his professors chuckle.",
+      "year": 1906,
+      "city": "Budapest",
+      "country": "Hungary"
+    },
+    {
+      "event": "First Major Success",
+      "summary": "Kod\u00e1ly finally hit the big time with the premiere of 'Psalmus Hungaricus', marking his arrival on the concert stage. It was his 'surprise, I'm here!' moment.",
+      "year": 1923,
+      "city": "Budapest",
+      "country": "Hungary"
+    },
+    {
+      "event": "Marriage to Emma Gruber",
+      "summary": "Kod\u00e1ly married his first wife, Emma, who was like the dedicated fan to his music career. They had a melodious 48 years together before 'not sweet and low' became the tune.",
+      "year": 1910,
+      "city": "Budapest",
+      "country": "Hungary"
+    },
+    {
+      "event": "Second Marriage",
+      "summary": "After losing his first wife, he married his 19-year-old student Sarolta P\u00e9czely. Talk about a plot twist worthy of a rom-com, he spent the remaining years being a very happy octave higher.",
+      "year": 1959,
+      "city": "Budapest",
+      "country": "Hungary"
+    },
+    {
+      "event": "U.S. Tour and Lecture",
+      "summary": "Kod\u00e1ly packed his bags and toured the United States where he delivered a lecture at Stanford University. It was like a musical TED Talk, showcasing his methods to a new audience!",
+      "year": 1966,
+      "city": "Stanford",
+      "country": "United States"
+    },
+    {
+      "event": "Death",
+      "summary": "Kod\u00e1ly passed away in Budapest, leaving a legacy as substantial as his influence on music education. The world lost a maestro, but his tunes still linger like a sweet refrain.",
+      "year": 1967,
+      "city": "Budapest",
+      "country": "Hungary"
+    },
+    {
+      "event": "First Musical Education",
+      "summary": "Kod\u00e1ly embarked on his early musical journey, proving early on that he could master the notes better than most people could grasp a simple math problem. He began studying music when he was just a wee lad!",
+      "year": 1894,
+      "city": "Budapest",
+      "country": "Hungary"
+    },
+    {
+      "event": "Debut Concert",
+      "summary": "Kod\u00e1ly took to the stage, marking his performance debut. The audience was never the same again, realizing they were in the presence of a musical genius who had the charm to make their hearts dance.",
+      "year": 1905,
+      "city": "Budapest",
+      "country": "Hungary"
+    },
+    {
+      "event": "First Major Work",
+      "summary": "He composed his first significant piece, earning praise from critics who probably wondered how one man could pack so much brilliance into a single composition. This was the start of a journey that would elevate Hungarian folk music to new heights.",
+      "year": 1911,
+      "city": "Budapest",
+      "country": "Hungary"
+    },
+    {
+      "event": "Establishment of the Kod\u00e1ly Method",
+      "summary": "Kod\u00e1ly devised an innovative method for music education. He transformed musical training, proving that even the most tone-deaf students could learn to tell a g flat from a g sharp. It was a musical revolution, one note at a time!",
+      "year": 1945,
+      "city": "Budapest",
+      "country": "Hungary"
+    }
+  ],
+  "compositions": []
+}

@@ -1,0 +1,745 @@
+{
+  "full_name": "Amy Beach",
+  "first_names": "Amy",
+  "last_name": "Beach",
+  "birth_year": 1867,
+  "death_year": 1944,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Amy_Beach",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Amy Marcy Cheney was born in Henniker, New Hampshire, and started her musical journey before she could even walk! It seems like her family was in a constant race to keep up with her prodigious talents.",
+      "year": 1867,
+      "city": "Henniker",
+      "country": "United States"
+    },
+    {
+      "event": "First Concert Debut",
+      "summary": "At the age of sixteen, Amy made her concert debut playing Chopin's Rondo, earning such rave reviews that it was clear the audience had never seen a keyboard magician like her!",
+      "year": 1883,
+      "city": "Boston",
+      "country": "United States"
+    },
+    {
+      "event": "Marriage",
+      "summary": "Amy tied the knot with Dr. Henry Harris Aubrey Beach, making her husband feel like the luckiest man in Boston \u2013 he had a wife who was a musical wonder, but she was also bound by the conditions of their marriage that had her swapping concerts for charity gigs.",
+      "year": 1885,
+      "city": "Boston",
+      "country": "United States"
+    },
+    {
+      "event": "Mass in E-flat premiere",
+      "summary": "Her Mass in E-flat major gets performed by the Handel and Haydn Society, marking a moment when critics had to admit that American women could not only cook but could also compose like Bach!",
+      "year": 1892,
+      "city": "Boston",
+      "country": "United States"
+    },
+    {
+      "event": "Gaelic Symphony Premiere",
+      "summary": "The Gaelic Symphony made its debut, being the first symphony by an American woman, stunning the audience and leaving critics in a tizzy trying to contextualize a woman composing real music!",
+      "year": 1896,
+      "city": "Boston",
+      "country": "United States"
+    },
+    {
+      "event": "Piano Concerto Premiere",
+      "summary": "The Boston Symphony performed Amy\u2019s Piano Concerto with her as the soloist, proving once and for all that her fights against her husband and mother for artistic control were not in vain. She was simply unstoppable!",
+      "year": 1900,
+      "city": "Boston",
+      "country": "United States"
+    },
+    {
+      "event": "First European Concert",
+      "summary": "After the passing of her husband, Amy felt so invigorated that she headed to Europe and gave her first concert in Dresden, essentially saying, \u2018Hey Europe, meet your new favorite composer!\u2019",
+      "year": 1912,
+      "city": "Dresden",
+      "country": "Germany"
+    },
+    {
+      "event": "Panama Hymn Commission",
+      "summary": "Invited to write a hymn for the Panama-Pacific International Exposition, Beach found herself the belle of the ball in San Francisco, as everyone scrambled to celebrate the opening of the Panama Canal with her music.",
+      "year": 1915,
+      "city": "San Francisco",
+      "country": "United States"
+    },
+    {
+      "event": "Return to America",
+      "summary": "Despite losing some precious manuscripts at the Belgian border, Amy returned to America ready to take on the world again, proving that even a composer of her caliber could have travel mishaps!",
+      "year": 1914,
+      "city": "San Francisco",
+      "country": "United States"
+    },
+    {
+      "event": "New Compositions Publication",
+      "summary": "Amy kept her creative juices flowing and published new works with G. Schirmer, ensuring that her music remained as fresh as her famous waltzes she had a knack for composing since childhood.",
+      "year": 1921,
+      "city": "New York City",
+      "country": "United States"
+    },
+    {
+      "event": "Summer Fellowships at MacDowell Colony",
+      "summary": "Starting in 1921, Beach became a regular at the MacDowell Colony, spending her summers there composing and hanging out with fellow women composers. Imagine a summer camp with less campfire and more composing! The social scene had a mix of old traditions and young talent, but some of the folks thought her music was as outdated as last year's fashion.",
+      "year": 1921,
+      "city": "Peterborough",
+      "country": "USA"
+    },
+    {
+      "event": "Sale of Boston House",
+      "summary": "In 1924, Beach sold her inherited house in Boston, a bittersweet farewell to her family legacy. It was like moving out of your childhood home, but with fewer tears and more piano keys involved.",
+      "year": 1924,
+      "city": "Boston",
+      "country": "USA"
+    },
+    {
+      "event": "Establishment at St. Bartholomew's Church",
+      "summary": "By the fall of 1930, Beach became the go-to composer at St. Bartholomew's Episcopal Church, where her music was practically a playlist for the divine! It was like having a private concert for the congregation\u2014talk about high notes and holy vibes!",
+      "year": 1930,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Coaching Young Composers",
+      "summary": "With her unique status as the top female American composer, Beach turned her attention to mentoring budding musicians. Picture her as the wise old sage of music, guiding young composers with her infamous 'Music\u2019s Ten Commandments.' Spoiler alert: they had to practice\u2014a lot!",
+      "year": 1900,
+      "city": "Various",
+      "country": "USA"
+    },
+    {
+      "event": "Concert in Rome",
+      "summary": "In March 1929, Beach hosted a concert in Rome to support the American Hospital. It was a hit, and her piece 'The Year's at the Spring' got such a great response, it might as well have been the headline act at a rock concert.",
+      "year": 1929,
+      "city": "Rome",
+      "country": "Italy"
+    },
+    {
+      "event": "Retirement Due to Health Issues",
+      "summary": "In 1940, heart disease led Beach to retire, marking the end of an era. She received a touching testimonial dinner with 200 friends\u2014imagine being so popular that your farewell party looks like a small wedding!",
+      "year": 1940,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Death",
+      "summary": "Beach passed away in New York City in 1944, leaving behind a legacy as a pioneering woman in music. When she left, it wasn't just a final curtain but an encore of applause that continued to resonate through the years.",
+      "year": 1944,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Completion of Gaelic Symphony",
+      "summary": "After proving that she had a big heart and could take on Brahms and Beethoven without breaking a sweat, Beach finally completed her Gaelic Symphony. Critics later wondered if it could fly off the shelves or just hang in the air like a bad joke.",
+      "year": 1896,
+      "city": "Boston",
+      "country": "USA"
+    },
+    {
+      "event": "Debut of Piano Concerto",
+      "summary": "With the flair that rivaled even a Broadway show, Beach premiered her Piano Concerto, dazzling critics who praised it as colorful and dashing. They could hardly believe how much punch you could pack into a 19th-century piece!",
+      "year": 1900,
+      "city": "Chicago",
+      "country": "USA"
+    },
+    {
+      "event": "Publication of Music's Ten Commandments",
+      "summary": "Channeling her inner Moses, Beach wrote 'Music's Ten Commandments' for aspiring composers. This wasn\u2019t just any list\u2014it was a witty guide to avoid composing sins while still being creative!",
+      "year": 1915,
+      "city": "Boston",
+      "country": "USA"
+    },
+    {
+      "event": "Writing for Various Journals",
+      "summary": "Beach donned her editor\u2019s hat and began writing articles for music journals, sharing her wisdom with the world like a musical Oprah. If only she had her own magazine, it would surely sell like hotcakes!",
+      "year": 1910,
+      "city": "Boston",
+      "country": "USA"
+    },
+    {
+      "event": "Formation of the First Nationalist Movement",
+      "summary": "In the early 1890s, Beach teamed up with her musical pals to stir up a nationalist movement in American music through folk songs. Who knew such a serious topic was just a hop, skip, and a jig away from a musical party?",
+      "year": 1890,
+      "city": "Boston",
+      "country": "USA"
+    },
+    {
+      "event": "Completion of the String Quartet",
+      "summary": "Finishing her string quartet became quite the adventure as Beach found herself battling unfamiliar compositions and the ever-elusive perfect performance. It was like trying to find the last piece of a jigsaw puzzle under the couch!",
+      "year": 1929,
+      "city": "Rome",
+      "country": "Italy"
+    },
+    {
+      "event": "Incorporation of Inuit Melodies",
+      "summary": "Beach decided to break traditions by incorporating Inuit melodies into a bunch of her compositions, proving that borrowing was just the creative synergy she needed to keep things fresh and exciting\u2014no apology needed!",
+      "year": 1907,
+      "city": "Boston",
+      "country": "USA"
+    },
+    {
+      "event": "First public performance",
+      "summary": "At the tender age of six, Amy performed in public for the first time, wowing the audience and probably causing a few nervous parents to question their own lack of musical talent.",
+      "year": 1873,
+      "city": "Boston",
+      "country": "United States"
+    },
+    {
+      "event": "First major composition",
+      "summary": "Amy composed her first major piece and sent the music world abuzz. Critics were impressed, and she probably received a few pats on the back\u2014as well as a few jealous glances from the men in tuxedos.",
+      "year": 1892,
+      "city": "Boston",
+      "country": "United States"
+    },
+    {
+      "event": "First major symphony performance",
+      "summary": "The debut of her 'Gaelic Symphony' took place, showcasing her brilliance and proving that women could orchestrate fun and chaos just as well as any man\u2014or maybe even better!",
+      "year": 1896,
+      "city": "Boston",
+      "country": "United States"
+    },
+    {
+      "event": "Founding of a music group",
+      "summary": "Amy co-founded the 'Society of American Women Composers', ensuring that her fellow female composers would also gain recognition, likely while sharing tips on how to balance family life with deep artistic endeavors.",
+      "year": 1910,
+      "city": "Boston",
+      "country": "United States"
+    },
+    {
+      "event": "Recognition for contributions",
+      "summary": "Amy was awarded numerous accolades for her contributions to music, firmly establishing her as a force to be reckoned with and probably giving her a great excuse to throw a fancy party.",
+      "year": 1930,
+      "city": "Boston",
+      "country": "United States"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/After,_Op.68_(Beach,_Amy_Marcy)",
+      "year": 1909,
+      "title": "After, Op.68"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/All_Hail_the_Power_of_Jesus%27_Name,_Op.74_(Beach,_Amy_Marcy)",
+      "year": 1915,
+      "title": "All Hail the Power of Jesus' Name, Op.74"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bal_masqu%C3%A9,_Op.22_(Beach,_Amy_Marcy)",
+      "year": 1893,
+      "title": "Bal masqu\u00e9, Op.22"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ballade,_Op.6_(Beach,_Amy_Marcy)",
+      "year": 1894,
+      "title": "Ballade, Op.6"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bethlehem,_Op.24_(Beach,_Amy_Marcy)",
+      "year": 1893,
+      "title": "Bethlehem, Op.24"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/A_Bit_of_Cairo_(Beach,_Amy_Marcy)",
+      "year": 1928,
+      "title": "A Bit of Cairo"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Browning_Songs,_Op.44_(Beach,_Amy_Marcy)",
+      "year": 1899,
+      "title": "3 Browning Songs, Op.44"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/By_the_Still_Waters,_Op.114_(Beach,_Amy_Marcy)",
+      "year": 1925,
+      "title": "By the Still Waters, Op.114"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cabildo,_Op.149_(Beach,_Amy_Marcy)",
+      "year": 1932,
+      "title": "Cabildo, Op.149"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canticle_of_the_Sun,_Op.123_(Beach,_Amy_Marcy)",
+      "year": 1924,
+      "title": "Canticle of the Sun, Op.123"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Canticles,_Op.78_(Beach,_Amy_Marcy)",
+      "year": 1916,
+      "title": "4 Canticles, Op.78"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Chambered_Nautilus,_Op.66_(Beach,_Amy_Marcy)",
+      "year": 1907,
+      "title": "The Chambered Nautilus, Op.66"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Children%27s_Album,_Op.36_(Beach,_Amy_Marcy)",
+      "year": 1897,
+      "title": "Children's Album, Op.36"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Children%27s_Carnival,_Op.25_(Beach,_Amy_Marcy)",
+      "year": 1894,
+      "title": "Children's Carnival, Op.25"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Choral_Responses,_Op.8_(Beach,_Amy_Marcy)",
+      "year": 1891,
+      "title": "3 Choral Responses, Op.8"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christ_in_the_Universe,_Op.132_(Beach,_Amy_Marcy)",
+      "year": 1931,
+      "title": "Christ in the Universe, Op.132"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Compositions_for_Violin_and_Piano,_Op.40_(Beach,_Amy_Marcy)",
+      "year": 1898,
+      "title": "3 Compositions for Violin and Piano, Op.40"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cradle_Song_of_the_Lonely_Mother,_Op.108_(Beach,_Amy_Marcy)",
+      "year": 1924,
+      "title": "Cradle Song of the Lonely Mother, Op.108"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dark_Garden,_Op.131_(Beach,_Amy_Marcy)",
+      "year": 1932,
+      "title": "Dark Garden, Op.131"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dusk_in_June,_Op.82_(Beach,_Amy_Marcy)",
+      "year": 1917,
+      "title": "Dusk in June, Op.82"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Eskimos,_Op.64_(Beach,_Amy_Marcy)",
+      "year": 1907,
+      "title": "Eskimos, Op.64"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Fair_Hills_of_Eir%C3%A9,_Op.91_(Beach,_Amy_Marcy)",
+      "year": 1922,
+      "title": "The Fair Hills of Eir\u00e9, Op.91"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantasia_fugata,_Op.87_(Beach,_Amy_Marcy)",
+      "year": 1923,
+      "title": "Fantasia fugata, Op.87"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Festival_Jubilate,_Op.17_(Beach,_Amy_Marcy)",
+      "year": 1892,
+      "title": "Festival Jubilate, Op.17"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/From_Blackbird_Hills,_Op.83_(Beach,_Amy_Marcy)",
+      "year": 1922,
+      "title": "From Blackbird Hills, Op.83"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/From_Grandmother%27s_Garden,_Op.97_(Beach,_Amy_Marcy)",
+      "year": 1922,
+      "title": "From Grandmother's Garden, Op.97"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/From_Six_to_Twelve,_Op.119_(Beach,_Amy_Marcy)",
+      "year": 1927,
+      "title": "From Six to Twelve, Op.119"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Give_Me_Not_Love,_Op.61_(Beach,_Amy_Marcy)",
+      "year": 1905,
+      "title": "Give Me Not Love, Op.61"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Help_Us,_O_God,_Op.50_(Beach,_Amy_Marcy)",
+      "year": 1903,
+      "title": "Help Us, O God, Op.50"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hermit_Thrush,_Op.92_(Beach,_Amy_Marcy)",
+      "year": 1921,
+      "title": "Hermit Thrush, Op.92"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_Improvisations,_Op.148_(Beach,_Amy_Marcy)",
+      "year": 1934,
+      "title": "5 Improvisations, Op.148"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/In_the_Twilight,_Op.85_(Beach,_Amy_Marcy)",
+      "year": 1922,
+      "title": "In the Twilight, Op.85"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jephthah%27s_Daughter,_Op.53_(Beach,_Amy_Marcy)",
+      "year": 1903,
+      "title": "Jephthah's Daughter, Op.53"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mary_Stuart,_Op.18_(Beach,_Amy_Marcy)",
+      "year": 1892,
+      "title": "Mary Stuart, Op.18"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mass_in_E-flat_major,_Op.5_(Beach,_Amy_Marcy)",
+      "year": 1889,
+      "title": "Mass in E-flat major, Op.5"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Message,_Op.93_(Beach,_Amy_Marcy)",
+      "year": 1922,
+      "title": "Message, Op.93"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mine_be_the_Lips,_Op.113_(Beach,_Amy_Marcy)",
+      "year": 1926,
+      "title": "Mine be the Lips, Op.113"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Minstrel_and_the_King,_Op.16_(Beach,_Amy_Marcy)",
+      "year": 1894,
+      "title": "The Minstrel and the King, Op.16"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Morceaux_caract%C3%A9ristiques,_Op.28_(Beach,_Amy_Marcy)",
+      "year": 1894,
+      "title": "3 Morceaux caract\u00e9ristiques, Op.28"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mother_Songs,_Op.69_(Beach,_Amy_Marcy)",
+      "year": 1908,
+      "title": "Mother Songs, Op.69"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturne,_Op.107_(Beach,_Amy_Marcy)",
+      "year": 1924,
+      "title": "Nocturne, Op.107"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/O_Praise_the_Lord,_All_Ye_Nations,_Op.7_(Beach,_Amy_Marcy)",
+      "year": 1891,
+      "title": "O Praise the Lord, All Ye Nations, Op.7"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Old_Chapel_by_Moonlight,_Op.106_(Beach,_Amy_Marcy)",
+      "year": 1924,
+      "title": "Old Chapel by Moonlight, Op.106"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Out_of_the_Depths,_Op.130_(Beach,_Amy_Marcy)",
+      "year": 1932,
+      "title": "Out of the Depths, Op.130"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pastorale_for_Woodwind_Quintet,_Op.151_(Beach,_Amy_Marcy)",
+      "year": 1941,
+      "title": "Pastorale for Woodwind Quintet, Op.151"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Peace_on_Earth,_Op.38_(Beach,_Amy_Marcy)",
+      "year": 1897,
+      "title": "Peace on Earth, Op.38"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Peter_Pan,_Op.101_(Beach,_Amy_Marcy)",
+      "year": 1923,
+      "title": "Peter Pan, Op.101"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto,_Op.45_(Beach,_Amy_Marcy)",
+      "year": 1899,
+      "title": "Piano Concerto, Op.45"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Piano_Pieces,_Op.54_(Beach,_Amy_Marcy)",
+      "year": 1903,
+      "title": "2 Piano Pieces, Op.54"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Piano_Pieces,_Op.102_(Beach,_Amy_Marcy)",
+      "year": 1924,
+      "title": "2 Piano Pieces, Op.102"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Piano_Pieces,_Op.128_(Beach,_Amy_Marcy)",
+      "year": 1932,
+      "title": "3 Piano Pieces, Op.128"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Quintet,_Op.67_(Beach,_Amy_Marcy)",
+      "year": 1907,
+      "title": "Piano Quintet, Op.67"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio,_Op.150_(Beach,_Amy_Marcy)",
+      "year": 1938,
+      "title": "Piano Trio, Op.150"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Prelude_and_Fugue,_Op.81_(Beach,_Amy_Marcy)",
+      "year": 1917,
+      "title": "Prelude and Fugue, Op.81"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Prelude_on_an_Old_Folk_Tune_(Beach,_Amy_Marcy)",
+      "year": 1943,
+      "title": "Prelude on an Old Folk Tune"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Rainy_Day_(Beach,_Amy_Marcy)",
+      "year": 1883,
+      "title": "The Rainy Day"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_R%C3%AAves_de_Colombine,_Op.65_(Beach,_Amy_Marcy)",
+      "year": 1907,
+      "title": "Les R\u00eaves de Colombine, Op.65"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Romance,_Op.23_(Beach,_Amy_Marcy)",
+      "year": 1893,
+      "title": "Romance, Op.23"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Rose_of_Avontown,_Op.30_(Beach,_Amy_Marcy)",
+      "year": 1896,
+      "title": "The Rose of Avontown, Op.30"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Sea-Fairies,_Op.59_(Beach,_Amy_Marcy)",
+      "year": 1904,
+      "title": "The Sea-Fairies, Op.59"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Service_in_A_major,_Op.63_(Beach,_Amy_Marcy)",
+      "year": 1906,
+      "title": "Service in A major, Op.63"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Shakespeare_Choruses,_Op.39_(Beach,_Amy_Marcy)",
+      "year": 1897,
+      "title": "3 Shakespeare Choruses, Op.39"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Shakespeare_Songs,_Op.37_(Beach,_Amy_Marcy)",
+      "year": 1897,
+      "title": "3 Shakespeare Songs, Op.37"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Sketches,_Op.15_(Beach,_Amy_Marcy)",
+      "year": 1892,
+      "title": "4 Sketches, Op.15"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/A_Song_of_Liberty,_Op.49_(Beach,_Amy_Marcy)",
+      "year": 1902,
+      "title": "A Song of Liberty, Op.49"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Songs_of_the_Sea,_Op.10_(Beach,_Amy_Marcy)",
+      "year": 1890,
+      "title": "Songs of the Sea, Op.10"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Songs,_Op.1_(Beach,_Amy_Marcy)",
+      "year": 1885,
+      "title": "4 Songs, Op.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Songs,_Op.2_(Beach,_Amy_Marcy)",
+      "year": 1887,
+      "title": "3 Songs, Op.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Songs,_Op.11_(Beach,_Amy_Marcy)",
+      "year": 1889,
+      "title": "3 Songs, Op.11"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Songs,_Op.12_(Beach,_Amy_Marcy)",
+      "year": 1889,
+      "title": "3 Songs, Op.12"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Songs,_Op.14_(Beach,_Amy_Marcy)",
+      "year": 1891,
+      "title": "4 Songs, Op.14"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Songs,_Op.19_(Beach,_Amy_Marcy)",
+      "year": 1892,
+      "title": "3 Songs, Op.19"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Songs,_Op.21_(Beach,_Amy_Marcy)",
+      "year": 1893,
+      "title": "3 Songs, Op.21"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Songs,_Op.26_(Beach,_Amy_Marcy)",
+      "year": 1894,
+      "title": "4 Songs, Op.26"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Songs,_Op.29_(Beach,_Amy_Marcy)",
+      "year": 1895,
+      "title": "4 Songs, Op.29"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Songs,_Op.35_(Beach,_Amy_Marcy)",
+      "year": 1897,
+      "title": "4 Songs, Op.35"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Songs,_Op.41_(Beach,_Amy_Marcy)",
+      "year": 1898,
+      "title": "3 Songs, Op.41"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_Songs,_Op.43_(Beach,_Amy_Marcy)",
+      "year": 1899,
+      "title": "5 Songs, Op.43"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Songs,_Op.48_(Beach,_Amy_Marcy)",
+      "year": 1902,
+      "title": "4 Songs, Op.48"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Songs,_Op.51_(Beach,_Amy_Marcy)",
+      "year": 1903,
+      "title": "4 Songs, Op.51"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Songs,_Op.56_(Beach,_Amy_Marcy)",
+      "year": 1904,
+      "title": "4 Songs, Op.56"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Songs,_Op.71_(Beach,_Amy_Marcy)",
+      "year": 1910,
+      "title": "3 Songs, Op.71"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Songs,_Op.72_(Beach,_Amy_Marcy)",
+      "year": 1914,
+      "title": "2 Songs, Op.72"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Songs,_Op.73_(Beach,_Amy_Marcy)",
+      "year": 1914,
+      "title": "2 Songs, Op.73"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Songs,_Op.75_(Beach,_Amy_Marcy)",
+      "year": 1914,
+      "title": "4 Songs, Op.75"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Songs,_Op.76_(Beach,_Amy_Marcy)",
+      "year": 1914,
+      "title": "2 Songs, Op.76"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Songs,_Op.77_(Beach,_Amy_Marcy)",
+      "year": 1916,
+      "title": "2 Songs, Op.77"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Songs,_Op.78_(Beach,_Amy_Marcy)",
+      "year": 1917,
+      "title": "3 Songs, Op.78"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Songs,_Op.99_(Beach,_Amy_Marcy)",
+      "year": 1923,
+      "title": "4 Songs, Op.99"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Songs,_Op.100_(Beach,_Amy_Marcy)",
+      "year": 1924,
+      "title": "2 Songs, Op.100"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Songs,_Op.117_(Beach,_Amy_Marcy)",
+      "year": 1925,
+      "title": "3 Songs, Op.117"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Springtime,_Op.124_(Beach,_Amy_Marcy)",
+      "year": 1929,
+      "title": "Springtime, Op.124"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet,_Op.89_(Beach,_Amy_Marcy)",
+      "year": 1921,
+      "title": "String Quartet, Op.89"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Suite_for_Two_Pianos_Founded_upon_Old_Irish_Melodies,_Op.104_(Beach,_Amy_Marcy)",
+      "year": 1924,
+      "title": "Suite for Two Pianos Founded upon Old Irish Melodies, Op.104"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Summer_Dreams,_Op.47_(Beach,_Amy_Marcy)",
+      "year": 1901,
+      "title": "Summer Dreams, Op.47"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sylvania,_Op.46_(Beach,_Amy_Marcy)",
+      "year": 1901,
+      "title": "Sylvania, Op.46"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_E_minor,_Op.32_%27Gaelic%27_(Beach,_Amy_Marcy)",
+      "year": 1896,
+      "title": "Symphony in E minor, Op.32 'Gaelic'"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Theme_and_Variations_for_Flute_and_String_Quartet,_Op.80_(Beach,_Amy_Marcy)",
+      "year": 1916,
+      "title": "Theme and Variations for Flute and String Quartet, Op.80"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Thou_Knowest,_Lord,_Op.76_(Beach,_Amy_Marcy)",
+      "year": 1915,
+      "title": "Thou Knowest, Lord, Op.76"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Tyrolean_Valse-Fantaisie,_Op.116_(Beach,_Amy_Marcy)",
+      "year": 1911,
+      "title": "Tyrolean Valse-Fantaisie, Op.116"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Valse-Caprice,_Op.4_(Beach,_Amy_Marcy)",
+      "year": 1889,
+      "title": "Valse-Caprice, Op.4"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Variations_on_Balkan_Themes,_Op.60_(Beach,_Amy_Marcy)",
+      "year": 1904,
+      "title": "Variations on Balkan Themes, Op.60"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Villanelle,_Op.20_(Beach,_Amy_Marcy)",
+      "year": 1894,
+      "title": "Villanelle, Op.20"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata,_Op.34_(Beach,_Amy_Marcy)",
+      "year": 1896,
+      "title": "Violin Sonata, Op.34"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/When_Soul_is_Joined_to_Soul,_Op.62_(Beach,_Amy_Marcy)",
+      "year": 1905,
+      "title": "When Soul is Joined to Soul, Op.62"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Song_Albums_(Beach,_Amy_Marcy)",
+      "year": 1891,
+      "title": "Song Albums"
+    }
+  ]
+}

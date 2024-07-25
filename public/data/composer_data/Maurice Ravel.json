@@ -1,0 +1,669 @@
+{
+  "full_name": "Maurice Ravel",
+  "first_names": "Maurice",
+  "last_name": "Ravel",
+  "birth_year": 1875,
+  "death_year": 1937,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Maurice_Ravel",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Joseph Maurice Ravel was born in the lovely Basque town of Ciboure, possibly while his father was engineering a delightful invention or his mother was singing folk songs. He entered the world with the melodious vibrations typical of a future composer!",
+      "year": 1875,
+      "city": "Ciboure",
+      "country": "France"
+    },
+    {
+      "event": "First Piano Lessons",
+      "summary": "At the tender age of seven, Ravel began his musical journey with piano lessons from Henri Ghys. Little did he know that he was setting the stage for a life filled with musical mischief and orchestration!",
+      "year": 1882,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Entry to Paris Conservatoire",
+      "summary": "With his parents' encouragement, Ravel took the plunge and auditioned for the prestigious Paris Conservatoire. He dazzled the judges with some Chopin, sealing his fate as a student amid the glories of French music.",
+      "year": 1889,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Prize at Conservatoire",
+      "summary": "Ravel proved his mettle by winning the Conservatoire's piano competition. But don't let that fool you; he remained as unremarkable as a baguette in a bakery when it came to standing out among his peers!",
+      "year": 1891,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Expulsion from Conservatoire",
+      "summary": "Despite his melodic aspirations, Ravel's journey hit a snag when he was expelled from the Conservatoire for not being up to snuff according to their conservative standards. He probably shrugged it off, thinking, 'Who needs formalities when you have genius?'",
+      "year": 1895,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Conducted Sh\u00e9h\u00e9razade Overture",
+      "summary": "Ravel took to the podium to conduct the first performance of his Sh\u00e9h\u00e9razade overture. The audience's mixed response was enough to give him a preview of the dramatic feedback that would continue throughout his career.",
+      "year": 1897,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First known widely recognized piece",
+      "summary": "Ravel composed Pavane pour une infante d\u00e9funte, his first piece to make waves, although it was more of a gentle ripple at the time! Much like the princess in the title, it soon became quite enchanting.",
+      "year": 1899,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Formation of Les Apaches",
+      "summary": "Ravel and an eclectic mix of artists formed the group Les Apaches. Think of them as a musical Avengers team, but instead of saving the world, they mostly just debated and played each other's compositions. Still pretty heroic!",
+      "year": 1900,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Recognition of Jazz influences",
+      "summary": "Ravel began incorporating jazz elements into his music, surprising many who thought he was just a classical composer. Little did they know he could also sway with the best of them, proving he was not just about fine lines and clarity!",
+      "year": 1920,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Composition of Bol\u00e9ro",
+      "summary": "Ravel composed his hallmark piece, Bol\u00e9ro, featuring an infectious repetition that made it the earworm of his time. Who knew that a simple melody could spiral into such a magnificent orchestral frenzy?",
+      "year": 1928,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Recording Participation",
+      "summary": "Amidst his busy composing life, Ravel recognized the magic of recordings. He boldly entered the world of audio, ensuring that his masterpieces would echo through time, whether with his own fingers or with a helping hand!",
+      "year": 1930,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Death",
+      "summary": "Maurice Ravel passed away, leaving behind a legacy that continues to inspire. While he may have left the stage, his music will forever remain an echoing whisper in the hearts of musicians and audiences alike.",
+      "year": 1937,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Completion of La valse",
+      "summary": "Ravel completed 'La valse' after a lengthy gestation period, intending it as a breathtaking tribute to the Viennese waltz. Diaghilev, however, told him it was a masterpiece but not a ballet, which left Ravel with more time to ponder why he couldn't just make things simple.",
+      "year": 1920,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Premiere of La valse",
+      "summary": "The premiere of 'La valse' followed soon after its completion, prompting audiences to have mixed reactions, including one elderly lady calling it 'rubbish'. Ravel quipped that she got the message, showing that he truly appreciated audience feedback, especially of the shouting kind.",
+      "year": 1920,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Four-month North American tour",
+      "summary": "Ravel embarked on a tumultuous tour of North America, impressing audiences across twenty-five cities while being serenaded with enthusiastic applause. His no-nonsense approach to fame led him to brush off critics who once labeled him emotionally deficient, which says a lot about his character.",
+      "year": 1928,
+      "city": "Various",
+      "country": "USA and Canada"
+    },
+    {
+      "event": "Completion of Bol\u00e9ro",
+      "summary": "Ravel completed 'Bol\u00e9ro', a piece he called an experiment in a 'very special and limited direction'. Despite its simplicity, it became a massive hit. Ravel was bemused by its popularity and remarked that it contained practically no music, as if he had accidentally spilled his lunch onto the score.",
+      "year": 1928,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Premiere of the Piano Concerto in D for the Left Hand",
+      "summary": "Ravel completed the Piano Concerto in D for the Left Hand, a challenging piece with a history that intrigued him. Its premiere was a success, allowing the often-humorous irony of a man without a right arm triumphing with a piano concerto to shine through, which was a delightful twist in the tale.",
+      "year": 1932,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Suffered a taxi accident",
+      "summary": "After a seemingly innocuous taxi accident, Ravel seemed not to notice the impact, but unbeknownst to him, it led to further declines in his health. One might say he learned the hard way that even great composers aren't immune to the hazards of public transportation.",
+      "year": 1932,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Final composition for the film Don Quixote",
+      "summary": "Ravel worked on music for the film 'Don Quixote', producing three songs. Unfortunately, time was not on his side, as soon after, he was unable to compose further. Although a bit sad, one can imagine him shaking his fist in the air like an indignant Don Quixote as he faced the inevitability of illness.",
+      "year": 1933,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Surgery and declining health",
+      "summary": "Ravel underwent surgery in hopes of correcting his health issues, but sadly, it led to a rapid decline into a coma. One could say he took the phrase 'going under the knife' to a whole new level, but tragically, neither music nor laughter returned from that operation.",
+      "year": 1937,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Completion of L'heure espagnole",
+      "summary": "Ravel premiered his first completed opera, L'heure espagnole, which was described as a com\u00e9die musicale. Critics praised his skilled vocal writing while others claimed the characters felt more artificial than a mannequin in a store window.",
+      "year": 1911,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Premiere of L'enfant et les sortil\u00e8ges",
+      "summary": "Ravel's second opera, L'enfant et les sortil\u00e8ges, premiered later amid a mix of jazz elements and bitonality, causing an uproar among some opera goers. They might have preferred a quiet night with a book instead.",
+      "year": 1926,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Creation of Daphnis et Chlo\u00e9",
+      "summary": "Ravel worked on Daphnis et Chlo\u00e9, showcasing his orchestration prowess, often likened to juggling. The piece continues to impress audiences with its vibrant colors and unimaginable complexity, as if he threw in a circus show for good measure.",
+      "year": 1912,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Introduction of Violin Sonata",
+      "summary": "Ravel completed his Violin Sonata, noting the incompatibility of the violin and piano, as if he were trying to mix oil and water. Yet, he made it work with dissonance that left listeners both puzzled and delighted.",
+      "year": 1927,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Recording Innovations",
+      "summary": "Ravel decided to dive into the world of recording, which was like jumping into a musical swimming pool filled with potential. He quickly became one of the first composers to realize that recordings could take his tunes from the concert hall to the living room, leading to a flood of his works being recorded in the 1920s, sometimes featuring Ravel himself at the helm as pianist or conductor. Talk about a one-man band!",
+      "year": 1920,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Refusal of State Honors",
+      "summary": "Ravel casually declined all the French state honors, including the prestigious L\u00e9gion d'honneur. Imagine him at a fancy award ceremony, looking at the shiny medal and saying, 'Nah, I'm good, I prefer my music to speak for itself.' He obviously wasn't in it for the bling!",
+      "year": 1930,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Honorary Awards from Abroad",
+      "summary": "Although he turned down French honors, Ravel was not averse to receiving accolades from other countries. He bagged foreign awards like a pro, with honorary memberships and doctorates raining down on him like musical confetti, proving that sometimes it pays to be a little picky!",
+      "year": 1921,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Conducting Recordings",
+      "summary": "In 1930, Ravel took to the podium, conducting a recording of his own Bol\u00e9ro. Picture this: a tiny man with a giant baton orchestrating a masterpiece that would have audiences tapping their feet for decades. It turns out he was quite the maestro!",
+      "year": 1930,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Prix de Rome Win",
+      "summary": "Winning the prestigious Prix de Rome allowed Ravel to party in Italy, leaving him with incredible inspiration and a few extra pounds from too much pasta!",
+      "year": 1901,
+      "city": "Rome",
+      "country": "Italy"
+    },
+    {
+      "event": "First Major Composition",
+      "summary": "Ravel completed his first major composition, which some critics said was good enough to make them reconsider their career choices, or at least take a nap.",
+      "year": 1902,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Paris Op\u00e9ra Debut",
+      "summary": "His opera debut was a huge success, making Ravel a must-know name in every music circle, increasing his chances of being invited to fancy dinners!",
+      "year": 1925,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "American Tour",
+      "summary": "Ravel embarked on a grand American tour, where he discovered that jazz was not just a musical genre, but a way to make everyone swing to the beat!",
+      "year": 1928,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Bol\u00e9ro Composition",
+      "summary": "Ravel composed his famous Bol\u00e9ro, initially meant as a simple piece but soon became the party anthem that everyone wanted played on repeat.",
+      "year": 1928,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Health Struggles",
+      "summary": "In the following years, Ravel faced health challenges that were no match for his fierce determination to keep creating delightful music despite feeling less than cheery.",
+      "year": 1932,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Final Composition",
+      "summary": "Even as his health waned, Ravel completed his final composition, proving that a true artist never lets a little thing like illness get in the way of genius!",
+      "year": 1937,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Composition",
+      "summary": "At a young age, Ravel decided that traditional toys were overrated and began composing his first piece of music. Who needed a teddy bear when you could create a masterpiece instead? The world was about to experience the magic of Ravel.",
+      "year": 1885,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Studied at the Conservatoire",
+      "summary": "Ravel enrolled at the Paris Conservatoire, where he learned the ins and outs of music. Think Hogwarts, but for composers. He made friends, enemies, and probably a few puns about diminished chords.",
+      "year": 1899,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Official Recognition",
+      "summary": "Ravel won the prestigious Prix de Rome, which meant free time in Italy\u2014new sights, food, and maybe a gondola ride or two. This was his ticket to the big leagues, and he did it with flair, of course.",
+      "year": 1901,
+      "city": "Rome",
+      "country": "Italy"
+    },
+    {
+      "event": "Premiere of Daphnis et Chlo\u00e9",
+      "summary": "The ballet 'Daphnis et Chlo\u00e9' premiered, as Ravel hid behind the curtains, nervously hoping the critics would focus on the music and not the ridiculously elaborate choreography. Spoiler alert: they loved it!",
+      "year": 1912,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Bol\u00e9ro Success",
+      "summary": "Ravel\u2019s 'Bol\u00e9ro' was first performed, and the instant reaction was akin to musical fireworks on the Fourth of July. Everyone was tapping toes and wondering how a simple melody could lead to such a grand celebration!",
+      "year": 1928,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Last Major Work",
+      "summary": "Ravel composed his last major work, 'Piano Concerto for the Left Hand', and decided it was high time to show the world that one-handed playing could be just as dazzling. The audience may have needed a few extra hands applauding after that!",
+      "year": 1931,
+      "city": "Paris",
+      "country": "France"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%80_la_mani%C3%A8re_de_Borodine,_M.63/1_(Ravel,_Maurice)",
+      "year": 1912,
+      "title": "\u00c0 la mani\u00e8re de Borodine, M.63/1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%80_la_mani%C3%A8re_de_Chabrier,_M.63/2_(Ravel,_Maurice)",
+      "year": 1912,
+      "title": "\u00c0 la mani\u00e8re de Chabrier, M.63/2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Alcyone,_M.34_(Ravel,_Maurice)",
+      "year": 1902,
+      "title": "Alcyone, M.34"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Alyssa,_M.38_(Ravel,_Maurice)",
+      "year": 1903,
+      "title": "Alyssa, M.38"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27aurore,_M.45_(Ravel,_Maurice)",
+      "year": 1905,
+      "title": "L'aurore, M.45"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ballade_de_la_reine_morte_d%27aimer,_M.4_(Ravel,_Maurice)",
+      "year": 1893,
+      "title": "Ballade de la reine morte d'aimer, M.4"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_bayad%C3%A8res,_M.25_(Ravel,_Maurice)",
+      "year": 1900,
+      "title": "Les bayad\u00e8res, M.25"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Berceuse_sur_le_nom_de_Gabriel_Faur%C3%A9,_M.74_(Ravel,_Maurice)",
+      "year": 1922,
+      "title": "Berceuse sur le nom de Gabriel Faur\u00e9, M.74"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bol%C3%A9ro,_M.81_(Ravel,_Maurice)",
+      "year": 1928,
+      "title": "Bol\u00e9ro, M.81"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Callerho%C3%A9,_M.22_(Ravel,_Maurice)",
+      "year": 1900,
+      "title": "Callerho\u00e9, M.22"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chanson_du_rouet,_M.15_(Ravel,_Maurice)",
+      "year": 1898,
+      "title": "Chanson du rouet, M.15"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chanson_%C3%A9cossaise,_M.A_12_(Ravel,_Maurice)",
+      "year": 1909,
+      "title": "Chanson \u00e9cossaise, M.A 12"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chansons_mad%C3%A9casses,_M.78_(Ravel,_Maurice)",
+      "year": 1925,
+      "title": "Chansons mad\u00e9casses, M.78"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Chansons,_M.69_(Ravel,_Maurice)",
+      "year": 1914,
+      "title": "3 Chansons, M.69"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chants_populaires,_M.A_17_(Ravel,_Maurice)",
+      "year": 1909,
+      "title": "Chants populaires, M.A 17"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Daphnis_et_Chlo%C3%A9_Suite_No.1,_M.57a_(Ravel,_Maurice)",
+      "year": 1911,
+      "title": "Daphnis et Chlo\u00e9 Suite No.1, M.57a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Daphnis_et_Chlo%C3%A9_Suite_No.2,_M.57b_(Ravel,_Maurice)",
+      "year": 1913,
+      "title": "Daphnis et Chlo\u00e9 Suite No.2, M.57b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Daphnis_et_Chlo%C3%A9,_M.57_(Ravel,_Maurice)",
+      "year": 1909,
+      "title": "Daphnis et Chlo\u00e9, M.57"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Don_Quichotte_%C3%A0_Dulcin%C3%A9e,_M.84_(Ravel,_Maurice)",
+      "year": 1932,
+      "title": "Don Quichotte \u00e0 Dulcin\u00e9e, M.84"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27enfant_et_les_sortil%C3%A8ges,_M.71_(Ravel,_Maurice)",
+      "year": 1919,
+      "title": "L'enfant et les sortil\u00e8ges, M.71"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Epigrammes_de_Cl%C3%A9ment_Marot,_M.21/10_(Ravel,_Maurice)",
+      "year": 1896,
+      "title": "Epigrammes de Cl\u00e9ment Marot, M.21/10"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fanfare_for_the_ballet_%27L%27%C3%A9ventail_de_Jeanne%27,_M.80_(Ravel,_Maurice)",
+      "year": 1927,
+      "title": "Fanfare for the ballet 'L'\u00e9ventail de Jeanne', M.80"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Frontispice,_M.70_(Ravel,_Maurice)",
+      "year": 1918,
+      "title": "Frontispice, M.70"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fugue_in_C_major,_M.44_(Ravel,_Maurice)",
+      "year": 1905,
+      "title": "Fugue in C major, M.44"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fugue_in_D_major,_M.23_(Ravel,_Maurice)",
+      "year": 1900,
+      "title": "Fugue in D major, M.23"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fugue_in_E-flat_major,_M.32_(Ravel,_Maurice)",
+      "year": 1902,
+      "title": "Fugue in E-flat major, M.32"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Gaspard_de_la_nuit,_M.55_(Ravel,_Maurice)",
+      "year": 1908,
+      "title": "Gaspard de la nuit, M.55"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_grands_vents_venus_d%27outre-mer,_M.48_(Ravel,_Maurice)",
+      "year": 1906,
+      "title": "Les grands vents venus d'outre-mer, M.48"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27heure_espagnole,_M.52_(Ravel,_Maurice)",
+      "year": 1907,
+      "title": "L'heure espagnole, M.52"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Histoires_naturelles,_M.50_(Ravel,_Maurice)",
+      "year": 1906,
+      "title": "Histoires naturelles, M.50"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Introduction_et_allegro,_M.46_(Ravel,_Maurice)",
+      "year": 1905,
+      "title": "Introduction et allegro, M.46"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Jeux_d%27eau,_M.30_(Ravel,_Maurice)",
+      "year": 1901,
+      "title": "Jeux d'eau, M.30"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ma_m%C3%A8re_l%27Oye,_M.60_(Ravel,_Maurice)",
+      "year": 1908,
+      "title": "Ma m\u00e8re l'Oye, M.60"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ma_m%C3%A8re_l%27Oye,_M.62_(Ravel,_Maurice)",
+      "year": 1911,
+      "title": "Ma m\u00e8re l'Oye, M.62"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Manteau_de_fleurs,_M.39_(Ravel,_Maurice)",
+      "year": 1903,
+      "title": "Manteau de fleurs, M.39"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_M%C3%A9lodies_h%C3%A9bra%C3%AFques,_M.A_22_(Ravel,_Maurice)",
+      "year": 1914,
+      "title": "2 M\u00e9lodies h\u00e9bra\u00efques, M.A 22"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_M%C3%A9lodies_populaires_grecques,_M.A_4-5,_9-11_(Ravel,_Maurice)",
+      "year": 1904,
+      "title": "5 M\u00e9lodies populaires grecques, M.A 4-5, 9-11"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Menuet_antique,_M.7_(Ravel,_Maurice)",
+      "year": 1895,
+      "title": "Menuet antique, M.7"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Menuet_sur_le_nom_d%27Haydn,_M.58_(Ravel,_Maurice)",
+      "year": 1909,
+      "title": "Menuet sur le nom d'Haydn, M.58"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Minuet_in_C-sharp_minor,_M.42_(Ravel,_Maurice)",
+      "year": 1904,
+      "title": "Minuet in C-sharp minor, M.42"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Miroirs,_M.43_(Ravel,_Maurice)",
+      "year": 1904,
+      "title": "Miroirs, M.43"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Myrrha,_M.29_(Ravel,_Maurice)",
+      "year": 1901,
+      "title": "Myrrha, M.29"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/No%C3%ABl_des_jouets,_M.47_(Ravel,_Maurice)",
+      "year": 1905,
+      "title": "No\u00ebl des jouets, M.47"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_parade,_M.11_(Ravel,_Maurice)",
+      "year": 1896,
+      "title": "La parade, M.11"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pavane_pour_une_infante_d%C3%A9funte,_M.19_(Ravel,_Maurice)",
+      "year": 1899,
+      "title": "Pavane pour une infante d\u00e9funte, M.19"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_for_the_Left_Hand,_M.82_(Ravel,_Maurice)",
+      "year": 1929,
+      "title": "Piano Concerto for the Left Hand, M.82"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_in_G_major,_M.83_(Ravel,_Maurice)",
+      "year": 1929,
+      "title": "Piano Concerto in G major, M.83"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio,_M.67_(Ravel,_Maurice)",
+      "year": 1914,
+      "title": "Piano Trio, M.67"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Po%C3%A8mes_de_St%C3%A9phane_Mallarm%C3%A9,_M.64_(Ravel,_Maurice)",
+      "year": 1913,
+      "title": "3 Po\u00e8mes de St\u00e9phane Mallarm\u00e9, M.64"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pr%C3%A9lude,_M.65_(Ravel,_Maurice)",
+      "year": 1913,
+      "title": "Pr\u00e9lude, M.65"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Rapsodie_espagnole,_M.54_(Ravel,_Maurice)",
+      "year": 1907,
+      "title": "Rapsodie espagnole, M.54"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/R%C3%AAves,_M.79_(Ravel,_Maurice)",
+      "year": 1927,
+      "title": "R\u00eaves, M.79"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ronsard_%C3%A0_son_%C3%A2me,_M.75_(Ravel,_Maurice)",
+      "year": 1923,
+      "title": "Ronsard \u00e0 son \u00e2me, M.75"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sainte,_M.9_(Ravel,_Maurice)",
+      "year": 1896,
+      "title": "Sainte, M.9"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/S%C3%A9miramis,_M.31_(Ravel,_Maurice)",
+      "year": 1902,
+      "title": "S\u00e9miramis, M.31"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/S%C3%A9r%C3%A9nade_grotesque,_M.5_(Ravel,_Maurice)",
+      "year": 1893,
+      "title": "S\u00e9r\u00e9nade grotesque, M.5"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sh%C3%A9h%C3%A9razade,_M.41_(Ravel,_Maurice)",
+      "year": 1903,
+      "title": "Sh\u00e9h\u00e9razade, M.41"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sh%C3%A9h%C3%A9razade,_ouverture_de_f%C3%A9erie,_M.17_(Ravel,_Maurice)",
+      "year": 1898,
+      "title": "Sh\u00e9h\u00e9razade, ouverture de f\u00e9erie, M.17"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Si_morne!,_M.16_(Ravel,_Maurice)",
+      "year": 1898,
+      "title": "Si morne!, M.16"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sites_auriculaires,_M.8/13_(Ravel,_Maurice)",
+      "year": 1895,
+      "title": "Sites auriculaires, M.8/13"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sonata_for_Violin_and_Cello,_M.73_(Ravel,_Maurice)",
+      "year": 1920,
+      "title": "Sonata for Violin and Cello, M.73"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sonatine,_M.40_(Ravel,_Maurice)",
+      "year": 1903,
+      "title": "Sonatine, M.40"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_F_major,_M.35_(Ravel,_Maurice)",
+      "year": 1902,
+      "title": "String Quartet in F major, M.35"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sur_l%27herbe,_M.53_(Ravel,_Maurice)",
+      "year": 1907,
+      "title": "Sur l'herbe, M.53"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_tombeau_de_Couperin,_M.68_(Ravel,_Maurice)",
+      "year": 1914,
+      "title": "Le tombeau de Couperin, M.68"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_tombeau_de_Couperin,_M.68a_(Ravel,_Maurice)",
+      "year": 1919,
+      "title": "Le tombeau de Couperin, M.68a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Tzigane,_M.76_(Ravel,_Maurice)",
+      "year": 1924,
+      "title": "Tzigane, M.76"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Un_grand_sommeil_noir,_M.6_(Ravel,_Maurice)",
+      "year": 1895,
+      "title": "Un grand sommeil noir, M.6"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_valse,_M.72_(Ravel,_Maurice)",
+      "year": 1919,
+      "title": "La valse, M.72"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Valses_nobles_et_sentimentales,_M.61_(Ravel,_Maurice)",
+      "year": 1911,
+      "title": "Valses nobles et sentimentales, M.61"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.1,_M.12_(Ravel,_Maurice)",
+      "year": 1897,
+      "title": "Violin Sonata No.1, M.12"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.2,_M.77_(Ravel,_Maurice)",
+      "year": 1923,
+      "title": "Violin Sonata No.2, M.77"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Vocalise-%C3%A9tude_en_forme_de_habanera,_M.51_(Ravel,_Maurice)",
+      "year": 1907,
+      "title": "Vocalise-\u00e9tude en forme de habanera, M.51"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Organ_Pieces_(Ravel,_Maurice)",
+      "year": 1927,
+      "title": "6 Organ Pieces"
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "full_name": "Pierre Boulez",
+  "first_names": "Pierre",
+  "last_name": "Boulez",
+  "birth_year": 1925,
+  "death_year": 2016,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre_Boulez",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Pierre Boulez popped into the world in Montbrison, right above a pharmacy where his life began. Little did everyone know that this baby would grow up to shake the foundations of classical music, all while probably not having a clue about tax returns!",
+      "year": 1925,
+      "city": "Montbrison",
+      "country": "France"
+    },
+    {
+      "event": "Musical Awakening",
+      "summary": "At the tender age of seven, Boulez began taking piano lessons and singing in the school choir. It's like he was gearing up for a lifelong audition for the role of 'Mozart 2.0', minus the wig and powdered face!",
+      "year": 1932,
+      "city": "Montbrison",
+      "country": "France"
+    },
+    {
+      "event": "Move to Paris",
+      "summary": "Boulez moved to Paris in hopes of becoming a musical prodigy but was on an adventurous quest against his father's engineering aspirations. Paris had its famous caf\u00e9s, but he just wanted harmony and maybe a croissant or two!",
+      "year": 1943,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Public Performance",
+      "summary": "Yvette Grimaud performed Boulez's music for the first time. Boulez must have thought, 'Finally, someone appreciates my genius!' while others maybe just thought it was a peculiar way to entertain at a dinner party.",
+      "year": 1946,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Music Director Appointment",
+      "summary": "Boulez became music director for the Compagnie Renaud-Barrault. Conducting music he wasn\u2019t too fond of? Just another day at the office\u2014better than sitting in a cubicle, right?",
+      "year": 1946,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Domaine Musical Founded",
+      "summary": "Boulez founded the Domaine Musical, where he drew crowds who were probably just there for the snacks, but stayed for the groundbreaking music. Who knew attending a concert could also double as a social event for the avant-garde?",
+      "year": 1954,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Premiere of Le Marteau sans ma\u00eetre",
+      "summary": "The world finally got to hear 'Le Marteau sans ma\u00eetre', and some of the audience's reaction was a mix of whistles and hisses. It was either revolutionary music or a badly timed fireworks display!",
+      "year": 1955,
+      "city": "Baden-Baden",
+      "country": "Germany"
+    },
+    {
+      "event": "Expansion of Musical Institutions",
+      "summary": "Boulez didn't stop at music; he rolled up his sleeves and helped establish IRCAM and Ensemble intercontemporain to foster innovation. Talk about taking 'let's make music' to an entirely new corporate level!",
+      "year": 1970,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Cit\u00e9 de la musique",
+      "summary": "Boulez's co-founding of the Cit\u00e9 de la musique was like saying, 'Let\u2019s create a Disneyland, but for music lovers!' Complete with a museum! It was a great excuse for classical fans to buy more memorabilia than they ever wanted.",
+      "year": 1995,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Improvisations sur Mallarm\u00e9 premiere",
+      "summary": "The Improvisations sur Mallarm\u00e9 took the stage, slowly morphing into the intricate five-movement Pli selon pli. It was like watching a caterpillar turn into a butterfly, if the butterfly was a profound commentary on poetry.",
+      "year": 1958,
+      "city": "Donaueschingen",
+      "country": "Germany"
+    },
+    {
+      "event": "Conducting Wozzeck",
+      "summary": "Boulez made waves conducting Berg's Wozzeck at the Op\u00e9ra National de Paris, where thirty rehearsals led to musicians showering him with applause. Who knew a powerful opera could turn conductors into rock stars?",
+      "year": 1963,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Chief Conductor of the New York Philharmonic",
+      "summary": "Boulez stepped into the spotlight as chief conductor of the New York Philharmonic, a position that had him balancing the expectations of two musical metropolises. It was arguably his version of leading a rock band while also doing stand-up comedy.",
+      "year": 1971,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Opening of IRCAM",
+      "summary": "Boulez launched IRCAM under the eyes of President Pompidou. This music lab was to creativity what a gym is to fitness\u2014except it didn\u2019t just pump iron; it pumped sound and innovation.",
+      "year": 1977,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Premiere of Lulu",
+      "summary": "Boulez conducted the world premiere of the three-act version of Berg's Lulu, bringing a long-lost score back to life like a musical resurrection with flair and pizzazz.",
+      "year": 1979,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Return to conducting",
+      "summary": "Boulez embraced the baton again after stepping back from IRCAM to grace the stages of the Salzburg Festival and others, like a seasoned actor returning to the spotlight for the encore everyone knew was coming.",
+      "year": 1992,
+      "city": "Salzburg",
+      "country": "Austria"
+    },
+    {
+      "event": "Cit\u00e9 de la musique co-founding",
+      "summary": "Boulez co-founded the Cit\u00e9 de la musique, a spot to mix, mingle, and make music\u2014which inspired so many to think the place was a musical Disneyland for avant-garde enthusiasts.",
+      "year": 1995,
+      "city": "La Villette",
+      "country": "France"
+    },
+    {
+      "event": "Co-founding of Lucerne Festival Academy",
+      "summary": "In a moment of inspiration reminiscent of musical matchmaking, Boulez co-founded the Lucerne Festival Academy, aiming to bring young musicians into the spotlight and teach them the tricks of the trade for contemporary music. Talk about being a musical Yoda for the next generation!",
+      "year": 2004,
+      "city": "Lucerne",
+      "country": "Switzerland"
+    },
+    {
+      "event": "Completion of D\u00e9rive 2",
+      "summary": "Boulez finished his last major composition, D\u00e9rive 2, unleashing a whirlwind of eleven instruments in a 45-minute musical escapade. It seems he saved his grand finale for last, proving that even after all those years, he still had plenty of musical tricks up his sleeve!",
+      "year": 2006,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Conducting Mahler Symphonies with Barenboim",
+      "summary": "In a dynamic duo moment, Boulez reunited with conductor Daniel Barenboim to tackle the Mahler symphonies, igniting the concert hall with vibrant energy. Like musical superheroes, they left their audiences in awe and probably brought a few tears of joy along with them!",
+      "year": 2007,
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    {
+      "event": "Retrospective of Boulez's Music",
+      "summary": "Late in 2007, Boulez's musical life received a flashback as the Orchestre de Paris and the Ensemble intercontemporain presented a retrospective of his works. It was like throwing a party for a legendary figure and basking in the glow of his past hits!",
+      "year": 2007,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Final appearance as a conductor",
+      "summary": "In a duo performance for the ages, Boulez made his last appearance as a conductor with the Vienna Philharmonic Orchestra, showing that he knew how to exit the stage with style\u2014after conducting everything from Schoenberg to Mozart. It was his grand musical farewell, and boy, did he go out with a bang!",
+      "year": 2012,
+      "city": "Salzburg",
+      "country": "Austria"
+    },
+    {
+      "event": "Diagnosis of neurodegenerative disease",
+      "summary": "In mid-2012, Boulez received the unwelcome news of a neurodegenerative disease diagnosis. However, as a master of resilience, he continued revising his works, showing that while life threw him curveballs, he still aimed to hit them out of the park!",
+      "year": 2012,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Release of Pierre Boulez: Complete Works",
+      "summary": "In a grand finale of sorts, Boulez supervised the release of a comprehensive 13-CD survey of his works, making sure his musical legacy would reverberate through time. Move over Beethoven; there\u2019s a new box set in town, and it's got Boulez's name on it!",
+      "year": 2013,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Last public appearance discussing Stravinsky",
+      "summary": "Boulez made his last public appearance discussing Stravinsky\u2014because even a maestro knows when it\u2019s time to pass the baton, at least in conversation. This chat added a final touch of class to his illustrious career, mingling wisdom with celebration!",
+      "year": 2013,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Turning 90 celebrations",
+      "summary": "In 2015, Boulez's 90th birthday was marked with celebrations worldwide, although he couldn't attend any due to health issues. It really was a case of everyone else throwing him a party while he cheered them on from his sofa\u2014definitely not the worst seat in the house!",
+      "year": 2015,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Death",
+      "summary": "On 5 January 2016, Boulez left this world, marking the end of a truly groundbreaking era in music. While the music community mourned, he undoubtedly began his next great composition in the cosmos. You can bet there are some celestial concerts happening up there!",
+      "year": 2016,
+      "city": "Baden-Baden",
+      "country": "Germany"
+    },
+    {
+      "event": "Career Shift to Conducting",
+      "summary": "Initially poised for a career solely as a composer, Boulez found himself conducting his own works for practicality's sake. After realizing conducting was a means to tackle the financial constraints of his performances, it became a bit like eating the cake and having it too\u2014if the cake was made of symphonic scores!",
+      "year": 1960,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Aesthetic Shift in Composition",
+      "summary": "In the mid-1970s, Boulez experienced an aesthetic epiphany, stating that his compositions became simpler, while the contents remained complex. It was kind of like a magician revealing his top hat and yet pulling out an entire orchestra!",
+      "year": 1975,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Creation of R\u00e9pons",
+      "summary": "Boulez's R\u00e9pons represented the first piece completed at IRCAM, where he innovatively merged live instrumental performance with electronic sounds. Imagine inviting an orchestra to your house and then having an electronic DJ jump in to remix their performance\u2014now that's a party!",
+      "year": 1984,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Final Work sur Incises",
+      "summary": "In his later years, Boulez embraced a new approach with sur Incises, ditching electronics for a complex setup of pianos and harps\u2014like pulling a magician's rabbit out of an acoustic hat instead! Boulez felt it was his most important piece, bravely stating it's the 'freest' work he created, a tongue-in-cheek nod to musicians everywhere struggling with compositions!",
+      "year": 1998,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Recordings",
+      "summary": "Boulez dives into the recording world in the late 1950s, making his first splash with a series of projects for the French Vega label, proving that musicians can indeed multitask\u2014conducting and recording at the same time!",
+      "year": 1950,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Controversial Writings",
+      "summary": "In 1952, Boulez ignites a firestorm with his article 'Schoenberg is Dead', claiming that conservatism is out and radicalism is in. The music world collectively gasps, while Boulez enjoys the chaos he created\u2014from now on, all eyes are on him!",
+      "year": 1952,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Conducting the Ring",
+      "summary": "Patrice Ch\u00e9reau accepts the monumental task of directing Boulez's vision for the centenary Ring in Bayreuth, leading to a production that was so groundbreaking that it almost had its own fan club! Boulez's conducting style, however, ruffles a few feathers in the conservative audience.",
+      "year": 1976,
+      "city": "Bayreuth",
+      "country": "Germany"
+    },
+    {
+      "event": "Rise of the Op\u00e9ra Bastille",
+      "summary": "In the 1980s, Boulez gets appointed vice president of Op\u00e9ra Bastille's planned revival, ready to whip the tired opera scene into shape but gets sidelined when the politics of the times throw him a curveball\u2014talk about bad timing!",
+      "year": 1980,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Teach and Influence",
+      "summary": "During the 1960s, Boulez takes up the role of a professor, shaping the minds of the next generation of composers while being described as a 'bully'\u2014guess that\u2019s one way to keep your students on their toes!",
+      "year": 1960,
+      "city": "Basel",
+      "country": "Switzerland"
+    },
+    {
+      "event": "Music Manuscripts Agreement",
+      "summary": "In a move that could only be described as a literary and musical treasure hunt, Boulez agreed to stash his valuable musical and literary manuscripts with the Paul Sacher Foundation in Basel. We'll never know if he accidentally slipped a grocery list in there too!",
+      "year": 1986,
+      "city": "Basel",
+      "country": "Switzerland"
+    },
+    {
+      "event": "Philharmonie de Paris Hall Renamed",
+      "summary": "After decades of tireless campaigning\u2014probably involving a lot of impressive batons and a few dramatic gestures\u2014the main concert hall at the Philharmonie de Paris was dubbed the Grande salle Pierre Boulez. Talk about getting your name on the building without buying it!",
+      "year": 2016,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "International Tribute Performances",
+      "summary": "In a show of love and admiration that spanned continents, Boulez's music was performed by leading orchestras around the globe after his passing, proving that while he might be gone, his notes are still having quite the party.",
+      "year": 2016,
+      "city": "Various",
+      "country": "Various"
+    },
+    {
+      "event": "Honours and Awards",
+      "summary": "Boulez collected accolades like they were candy while trick-or-treating. From the honorary CBE to a whirlwind of prizes, it was clear that this composer was the blue ribbon winner of the music world, probably needing an extra trophy cabinet!",
+      "year": 2013,
+      "city": "Various",
+      "country": "Various"
+    },
+    {
+      "event": "Founding Le Domaine Musical",
+      "summary": "In a feat of genius, Boulez founded Le Domaine Musical, a concert series that pushed the avant-garde envelope so far it nearly fell off the table. It was a party for contemporary music lovers!",
+      "year": 1956,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Conducts at the BBC",
+      "summary": "Boulez took his talents to the BBC, where he wielded a baton with the grace of a magician and made listeners question if they were truly ready for the musical magic about to unfold!",
+      "year": 1960,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Premiere of 'R\u00e9pons'",
+      "summary": "The premiere of 'R\u00e9pons' was so electrifying that it had the audience buzzing long after the final note. Boulez made everyone wonder if they had accidentally walked into a sci-fi movie!",
+      "year": 1981,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Pierre Boulez Saal Inauguration",
+      "summary": "The grand inauguration of the Pierre Boulez Saal was an event that celebrated his legacy with such flair that even the walls seemed to be applauding and dancing along with the music.",
+      "year": 2015,
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    {
+      "event": "First composition",
+      "summary": "Boulez penned his first composition, proving that even in his early days, he was destined to create what would confuse and inspire many. It\u2019s rumored the notes were like precursors to modern art, abstract yet harmoniously chaotic!",
+      "year": 1942,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Conducts at the BBC Symphony Orchestra",
+      "summary": "Taking the podium at the BBC Symphony Orchestra, Boulez turned the orchestra into his personal playground. Rumor has it he made the brass section laugh with his witty interpretations, or at least that\u2019s the polite version of the story!",
+      "year": 1971,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Music Director of Cleveland Orchestra",
+      "summary": "Boulez became the Music Director of the Cleveland Orchestra, where he brought a fresh perspective to classical music that left some musicians in awe and others scratching their heads. It was an era of musical enlightenment, sprinkled with countless 'Aha!' moments.",
+      "year": 1970,
+      "city": "Cleveland",
+      "country": "United States"
+    },
+    {
+      "event": "Created Ensemble InterContemporain",
+      "summary": "Founder of the Ensemble InterContemporain, Boulez gathered musicians who were as adventurous as he was. They played like they were out on a musical safari, discovering new sounds and rhythms that left the traditionalists quaking in their boots!",
+      "year": 1976,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Awarded the Glenn Gould Prize",
+      "summary": "Pierre Boulez bagged the Glenn Gould Prize, proving his genius in the music world was as widely recognized as his unique hairstyles. He was rewarded for the melodies that turned the classical world upside down, eliciting applause at odd hours!",
+      "year": 2002,
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    {
+      "event": "Died",
+      "summary": "The world sadly said farewell to Pierre Boulez, but true to his nature, the music never stopped. It could be said the angels in heaven had to tune up because his arrival came with quite the magical repertoire.",
+      "year": 2016,
+      "city": "Bolsena",
+      "country": "Italy"
+    }
+  ],
+  "compositions": []
+}

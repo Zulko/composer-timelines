@@ -1,0 +1,607 @@
+{
+  "full_name": "B\u00e9la Bart\u00f3k",
+  "first_names": "B\u00e9la",
+  "last_name": "Bart\u00f3k",
+  "birth_year": 1881,
+  "death_year": 1945,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/B\u00e9la_Bart\u00f3k",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "B\u00e9la Bart\u00f3k was born in a small town, and rumor has it he came out singing folk songs rather than crying. Clearly, he was destined for musical greatness from day one!",
+      "year": 1881,
+      "city": "Nagyszentmikl\u00f3s",
+      "country": "Austria-Hungary"
+    },
+    {
+      "event": "First Public Recital",
+      "summary": "At the tender age of 11, Bart\u00f3k gave his first public recital, featuring his own composition. Imagine being that good at music while most kids were still figuring out how to play hopscotch!",
+      "year": 1892,
+      "city": "Nagysz\u0151l\u0151s",
+      "country": "Ukraine"
+    },
+    {
+      "event": "Marriage to M\u00e1rta Ziegler",
+      "summary": "Bart\u00f3k decided to tie the knot with M\u00e1rta Ziegler, a marriage that would later prove to be more challenging than composing his most complex piece!",
+      "year": 1909,
+      "city": "Budapest",
+      "country": "Hungary"
+    },
+    {
+      "event": "Divorce from M\u00e1rta",
+      "summary": "After nearly 15 years, Bart\u00f3k's marriage hit a sour note leading to divorce. But fear not, he found love again quickly, because who could resist a talented composer?",
+      "year": 1923,
+      "city": "Budapest",
+      "country": "Hungary"
+    },
+    {
+      "event": "Second Marriage to Ditta P\u00e1sztory",
+      "summary": "Bart\u00f3k married Ditta P\u00e1sztory, a piano student, ten days after proposing. Surely, he figured if he wasn't going to get a wedding gift, he might as well get the bride!",
+      "year": 1923,
+      "city": "Budapest",
+      "country": "Hungary"
+    },
+    {
+      "event": "Creation of Bluebeard's Castle",
+      "summary": "Bart\u00f3k composed his only opera, Bluebeard's Castle, but alas, it was rejected for a prize, rumored to be because it was 'too dramatic' \u2013 ironic for an opera, isn't it?",
+      "year": 1911,
+      "city": "Budapest",
+      "country": "Hungary"
+    },
+    {
+      "event": "Emigration to the U.S.",
+      "summary": "With two bags, some manuscripts, and a rebellious spirit against fascism, Bart\u00f3k emigrated to the U.S., where he encountered a whole new audience who barely recognized his name!",
+      "year": 1940,
+      "city": "New York City",
+      "country": "U.S."
+    },
+    {
+      "event": "Becoming a U.S. Citizen",
+      "summary": "Bart\u00f3k, feeling like an outsider in his new country, finally took the plunge and became a U.S. citizen, proving once again that music transcends borders \u2013 just not paperwork!",
+      "year": 1945,
+      "city": "New York City",
+      "country": "U.S."
+    },
+    {
+      "event": "Death",
+      "summary": "Bart\u00f3k passed away, leaving behind a remarkable legacy. Rumor has it his last words were a charming folk tune that no one could remember.",
+      "year": 1945,
+      "city": "New York City",
+      "country": "U.S."
+    },
+    {
+      "event": "Childhood Recital",
+      "summary": "At the tender age of 13, little B\u00e9la Bart\u00f3k made his first public performance by playing a ten-part epic about the River Danube, proving that he was destined to be a musical giant, even if he was just a short boy at the time.",
+      "year": 1892,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Discovery of Folk Music",
+      "summary": "While vacationing and eavesdropping on his nanny singing Transylvanian folk songs in 1904, Bart\u00f3k ignited a lifelong obsession with collecting folk melodies, marking the birth of his musical nationalism.",
+      "year": 1904,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Kossuth Composition",
+      "summary": "Bart\u00f3k was on fire in 1903, composing a symphonic poem about the Hungarian war of independence. Who knew national pride could sound so good?",
+      "year": 1903,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Renewed Creativity",
+      "summary": "1915 brought Kl\u00e1ra Gombossy into Bart\u00f3k's life like a whirlwind, inspiring him to crank out works like 'The Miraculous Mandarin' that were stormy enough to clear away his creative cobwebs.",
+      "year": 1915,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Marriage",
+      "summary": "In 1923, Bart\u00f3k tied the knot again, and no, it wasn't a double wedding with his piano; he actually married a lovely lady, which naturally led to some joyous, sunny compositions.",
+      "year": 1923,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Piano Concerto Inspiration",
+      "summary": "In 1926, after witnessing the mad piano skills of Henry Cowell\u2014complete with intense tone clusters\u2014Bart\u00f3k decided it was time to join the avant-garde party and ended up writing his first Piano Concerto.",
+      "year": 1926,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Concerto for Orchestra Premiere",
+      "summary": "In December 1944, Bart\u00f3k's 'Concerto for Orchestra' hit the stage, quickly charming audiences and ensuring he wouldn\u2019t be forgotten, even as he was fading himself.",
+      "year": 1944,
+      "city": "Boston",
+      "country": "USA"
+    },
+    {
+      "event": "Final Compositions",
+      "summary": "Before his untimely exit stage left in 1945, Bart\u00f3k left behind sketches for his Viola Concerto and a nearly finished Piano Concerto No. 3, proving that even illness couldn't dim his creative spark.",
+      "year": 1945,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "First Composition",
+      "summary": "At the tender age of 7, Bart\u00f3k composed his first piece, setting the stage for a lifetime of musical mischief and genius.",
+      "year": 1888,
+      "city": "Nagyszentmikl\u00f3s",
+      "country": "Romania"
+    },
+    {
+      "event": "Piano Studies",
+      "summary": "He took up piano studies at the Royal Academy in Budapest, proving that even musical prodigies need formal training to refine their flair.",
+      "year": 1899,
+      "city": "Budapest",
+      "country": "Hungary"
+    },
+    {
+      "event": "Folk Music Collection",
+      "summary": "Bart\u00f3k, along with his buddy Zolt\u00e1n Kod\u00e1ly, embarked on a folk music collecting journey, trading the comforts of a concert hall for the vibrant sounds of the countryside.",
+      "year": 1905,
+      "city": "Hungary",
+      "country": "Hungary"
+    },
+    {
+      "event": "First Major Work",
+      "summary": "His opera, 'Bluebeard's Castle', premiered, bringing a dramatic flair that would leave the audience both moved and utterly confused.",
+      "year": 1911,
+      "city": "Budapest",
+      "country": "Hungary"
+    },
+    {
+      "event": "World War II and the Move to America",
+      "summary": "With the clouds of World War II gathering, Bart\u00f3k made the leap to America, trading in his Hungarian waltzes for the New World\u2019s jazz and swing.",
+      "year": 1940,
+      "city": "New York City",
+      "country": "USA"
+    },
+    {
+      "event": "U.S. Citizenship",
+      "summary": "In a welcome twist, Bart\u00f3k became a U.S. citizen just before his health took a nosedive, reminding everyone that life doesn\u2019t always play in a major key.",
+      "year": 1945,
+      "city": "New York City",
+      "country": "USA"
+    },
+    {
+      "event": "Passing",
+      "summary": "Bart\u00f3k passed away, leaving behind a treasure trove of music that has puzzled, delighted, and inspired generations, proving that composers can indeed live forever in their notes.",
+      "year": 1945,
+      "city": "New York City",
+      "country": "USA"
+    },
+    {
+      "event": "First Musical Composition",
+      "summary": "At the tender age of 9, Bart\u00f3k decided to put his childhood daydreams into music, creating his first composition, which his parents affectionately referred to as 'that little tune' that would eventually grow into a symphony of genius.",
+      "year": 1890,
+      "city": "Nagyszentmikl\u00f3s",
+      "country": "Hungary"
+    },
+    {
+      "event": "First Public Performance",
+      "summary": "Young Bart\u00f3k took the stage for his first public performance, where he dazzled the crowd and his ego simultaneously, playing a piano piece that undoubtedly led the audience to wonder how he could possibly be related to those awkward toddlers at family gatherings.",
+      "year": 1899,
+      "city": "Budapest",
+      "country": "Hungary"
+    },
+    {
+      "event": "Study at the Royal Academy of Music",
+      "summary": "With dreams bigger than his piano, Bart\u00f3k enrolled in the Royal Academy of Music in Budapest, where he rubbed elbows with fellow prodigies and engaged in friendly debates about the best way to blend classical music with Hungarian folk melodies, sparking a national musical identity crisis.",
+      "year": 1899,
+      "city": "Budapest",
+      "country": "Hungary"
+    },
+    {
+      "event": "Field Work on Hungarian Folklore",
+      "summary": "Armed with a recording device that would make any hipster jealous, Bart\u00f3k set out to collect Hungarian folk music, leaving no village unrecorded and no tune unturned, inadvertently becoming the original 'folk music influencer'.",
+      "year": 1905,
+      "city": "Various rural villages",
+      "country": "Hungary"
+    },
+    {
+      "event": "Emigration to the United States",
+      "summary": "Citing a need for fresh inspiration and a new audience, Bart\u00f3k packed his bags and made his way to the United States, where he would find not just diverse sounds but also the smiling faces of jazz musicians who would change his musical perspective forever.",
+      "year": 1940,
+      "city": "New York",
+      "country": "United States"
+    },
+    {
+      "event": "Last Major Work",
+      "summary": "In a final flourish of creativity, Bart\u00f3k composed his Viola Concerto, which stands as a testament to his genius and determination, reminding us all that even the best composers have a way of making the final bows incredibly dramatic.",
+      "year": 1945,
+      "city": "New York",
+      "country": "United States"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro_barbaro,_Sz.49_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1911,
+      "title": "Allegro barbaro, Sz.49"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/14_Bagatelles,_Op.6_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1908,
+      "title": "14 Bagatelles, Op.6"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Burlesques,_Sz.47_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1908,
+      "title": "Burlesques, Sz.47"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cantata_profana,_Sz.94_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1930,
+      "title": "Cantata profana, Sz.94"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_Orchestra,_Sz.116_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1943,
+      "title": "Concerto for Orchestra, Sz.116"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_Two_Pianos,_Percussion_and_Orchestra_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1937,
+      "title": "Concerto for Two Pianos, Percussion and Orchestra"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Contrasts,_Sz.111_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1938,
+      "title": "Contrasts, Sz.111"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/A_csod%C3%A1latos_mandarin_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1918,
+      "title": "A csod\u00e1latos mandarin"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Dirges,_Sz.45_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1910,
+      "title": "4 Dirges, Sz.45"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Divertimento,_Sz.113_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1939,
+      "title": "Divertimento, Sz.113"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/44_Duos_for_2_Violins,_Sz.98_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1931,
+      "title": "44 Duos for 2 Violins, Sz.98"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/10_Easy_Pieces,_Sz.39_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1908,
+      "title": "10 Easy Pieces, Sz.39"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Elegies,_Sz.41_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1908,
+      "title": "2 Elegies, Sz.41"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/A_f%C3%A1b%C3%B3l_faragott_kir%C3%A1lyfi,_Sz.60_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1917,
+      "title": "A f\u00e1b\u00f3l faragott kir\u00e1lyfi, Sz.60"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/First_Term_at_the_Piano,_Sz.53_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1913,
+      "title": "First Term at the Piano, Sz.53"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/For_Children,_Sz.42_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1908,
+      "title": "For Children, Sz.42"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Hungarian_Folksongs_from_Cs%C3%ADk,_Sz.35a_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1907,
+      "title": "3 Hungarian Folksongs from Cs\u00edk, Sz.35a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Hungarian_Folksongs,_Sz.33b_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1907,
+      "title": "2 Hungarian Folksongs, Sz.33b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/8_Hungarian_Folksongs,_Sz.64_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1907,
+      "title": "8 Hungarian Folksongs, Sz.64"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/15_Hungarian_Peasant_Songs,_Sz.71_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1914,
+      "title": "15 Hungarian Peasant Songs, Sz.71"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hungarian_Pictures,_Sz.97_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1931,
+      "title": "Hungarian Pictures, Sz.97"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Improvisations_on_Hungarian_Peasant_Songs,_Op.20_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1920,
+      "title": "Improvisations on Hungarian Peasant Songs, Op.20"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/A_k%C3%A9kszak%C3%A1ll%C3%BA_herceg_v%C3%A1ra,_Sz.48_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1911,
+      "title": "A k\u00e9kszak\u00e1ll\u00fa herceg v\u00e1ra, Sz.48"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Kossuth,_Sz.21_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1903,
+      "title": "Kossuth, Sz.21"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/9_Little_Pieces_for_Piano,_Sz.82_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1926,
+      "title": "9 Little Pieces for Piano, Sz.82"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/20_Magyar_n%C3%A9pdal,_Sz.92_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1929,
+      "title": "20 Magyar n\u00e9pdal, Sz.92"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Magyar_n%C3%A9pdalok,_Sz.33_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1906,
+      "title": "Magyar n\u00e9pdalok, Sz.33"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Marche_fun%C3%A8bre,_Sz.21_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1903,
+      "title": "Marche fun\u00e8bre, Sz.21"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mikrokosmos,_Sz.107_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1926,
+      "title": "Mikrokosmos, Sz.107"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Music_for_Strings,_Percussion_and_Celesta,_Sz.106_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1936,
+      "title": "Music for Strings, Percussion and Celesta, Sz.106"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Old_Hungarian_Folksongs,_Sz.50_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1910,
+      "title": "4 Old Hungarian Folksongs, Sz.50"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Out_of_Doors,_Sz.81_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1926,
+      "title": "Out of Doors, Sz.81"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Petite_suite,_Sz.105_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1936,
+      "title": "Petite suite, Sz.105"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.1,_Sz.83_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1926,
+      "title": "Piano Concerto No.1, Sz.83"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.2,_Sz.95_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1930,
+      "title": "Piano Concerto No.2, Sz.95"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.3,_Sz.119_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1945,
+      "title": "Piano Concerto No.3, Sz.119"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Quintet_in_C_major,_Sz.23_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1903,
+      "title": "Piano Quintet in C major, Sz.23"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata,_Sz.80_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1926,
+      "title": "Piano Sonata, Sz.80"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Pictures,_Op.10_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1910,
+      "title": "2 Pictures, Op.10"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Pieces,_Op.12_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1912,
+      "title": "4 Pieces, Op.12"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Pieces,_Sz.22_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1903,
+      "title": "4 Pieces, Sz.22"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Portraits,_Op.5_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1907,
+      "title": "2 Portraits, Op.5"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Rhapsody_for_Piano,_Sz.26_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1904,
+      "title": "Rhapsody for Piano, Sz.26"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Rhapsody_for_Piano_and_Orchestra,_Sz.27_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1905,
+      "title": "Rhapsody for Piano and Orchestra, Sz.27"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Rhapsody_No.1,_Sz.87_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1928,
+      "title": "Violin Rhapsody No.1, Sz.87"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Rhapsody_No.2,_Sz.90_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1928,
+      "title": "Violin Rhapsody No.2, Sz.90"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Romanian_Christmas_Carols,_Sz.57_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1915,
+      "title": "Romanian Christmas Carols, Sz.57"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Romanian_Dances,_Op.8a_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1909,
+      "title": "2 Romanian Dances, Op.8a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Romanian_Folk_Dances,_Sz.56_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1915,
+      "title": "Romanian Folk Dances, Sz.56"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Romanian_Folk_Dances_(orchestra),_Sz.68_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1917,
+      "title": "Romanian Folk Dances"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Rondos_on_Slovak_Folk_Tunes,_Sz.84_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1916,
+      "title": "Rondos on Slovak Folk Tunes, Sz.84"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Scherzo_for_Piano_and_Orchestra,_Sz.28_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1904,
+      "title": "Scherzo for Piano and Orchestra, Sz.28"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/7_Sketches,_Sz.44_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1908,
+      "title": "7 Sketches, Sz.44"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_Slovak_Folksongs,_Sz.69_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1917,
+      "title": "5 Slovak Folksongs, Sz.69"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Slovak_Folksongs,_Sz.70_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1916,
+      "title": "4 Slovak Folksongs, Sz.70"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sonata_for_2_Pianos_and_Percussion,_Sz.110_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1937,
+      "title": "Sonata for 2 Pianos and Percussion, Sz.110"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sonata_for_Violin_Solo,_Sz.117_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1944,
+      "title": "Sonata for Violin Solo, Sz.117"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sonatina,_Sz.55_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1915,
+      "title": "Sonatina, Sz.55"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_Songs,_Op.16_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1916,
+      "title": "5 Songs, Op.16"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1,_Sz.40_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1908,
+      "title": "String Quartet No.1, Sz.40"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2,_Sz.67_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1914,
+      "title": "String Quartet No.2, Sz.67"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.3,_Sz.85_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1927,
+      "title": "String Quartet No.3, Sz.85"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.4,_Sz.91_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1928,
+      "title": "String Quartet No.4, Sz.91"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.5,_Sz.102_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1934,
+      "title": "String Quartet No.5, Sz.102"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.6,_Sz.114_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1939,
+      "title": "String Quartet No.6, Sz.114"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Studies_for_Piano,_Op.18_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1918,
+      "title": "Studies for Piano, Op.18"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Suite_for_Piano,_Op.14_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1916,
+      "title": "Suite for Piano, Op.14"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Suite_No.1,_Op.3_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1905,
+      "title": "Suite No.1, Op.3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Suite_No.2,_Op.4_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1905,
+      "title": "Suite No.2, Op.4"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Tanz-Suite,_Sz.77_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1923,
+      "title": "Tanz-Suite, Sz.77"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Transylvanian_Dances,_Sz.96_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1931,
+      "title": "Transylvanian Dances, Sz.96"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Viola_Concerto_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1945,
+      "title": "Viola Concerto"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto_No.1,_Sz.36_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1907,
+      "title": "Violin Concerto No.1, Sz.36"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto_No.2,_Sz.112_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1937,
+      "title": "Violin Concerto No.2, Sz.112"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.1,_Sz.75_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1921,
+      "title": "Violin Sonata No.1, Sz.75"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.2,_Sz.76_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1922,
+      "title": "Violin Sonata No.2, Sz.76"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/C%C3%A2ntece_poporale_rom%C3%A2ne%C5%9Fti_din_comitatul_Bihor_(Ungaria)_(Bart%C3%B3k,_B%C3%A9la)",
+      "year": 1913,
+      "title": "C\u00e2ntece poporale rom\u00e2ne\u015fti din comitatul Bihor"
+    }
+  ]
+}

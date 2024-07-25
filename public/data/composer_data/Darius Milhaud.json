@@ -1,0 +1,440 @@
+{
+  "full_name": "Darius Milhaud",
+  "first_names": "Darius",
+  "last_name": "Milhaud",
+  "birth_year": 1892,
+  "death_year": 1974,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Darius_Milhaud",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Darius Milhaud graced the world with his presence in Marseille, France, giving his parents a reason to celebrate and hope for a future filled with musical genius and maybe a little mischief.",
+      "year": 1892,
+      "city": "Marseille",
+      "country": "France"
+    },
+    {
+      "event": "Education at Paris Conservatory",
+      "summary": "Milhaud traded his violin for composition, diving headfirst into the vibrant world of music education, where he would meet future musical partners-in-crime like Honegger and Tailleferre.",
+      "year": 1910,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Emigration to the United States",
+      "summary": "Faced with the dilemma of Nazi Germany's invasion, Milhaud and his family decided it was time for a one-way ticket to the U.S., leaving behind a life of baguettes and berets for baseball and Broadway.",
+      "year": 1940,
+      "city": "Unknown",
+      "country": "United States"
+    },
+    {
+      "event": "Marriage to Madeleine",
+      "summary": "Milhaud tied the knot with his cousin Madeleine, not just ensuring family unity but also providing himself a lifelong muse and partner in artistic adventures.",
+      "year": 1925,
+      "city": "Unknown",
+      "country": "France"
+    },
+    {
+      "event": "Creation of La cr\u00e9ation du monde",
+      "summary": "In a creative flourish, Milhaud composed his famed ballet, which was basically jazz on wheels, proving that the arts could dance together quite happily.",
+      "year": 1923,
+      "city": "Unknown",
+      "country": "Unknown"
+    },
+    {
+      "event": "Teaching at Mills College",
+      "summary": "With a flair for molding young minds, Milhaud took to Mills College, where he taught future legends in jazz and classical music, including Brubeck, and probably made some legendary puns along the way.",
+      "year": 1940,
+      "city": "Oakland",
+      "country": "United States"
+    },
+    {
+      "event": "Founding of the Music Academy of the West",
+      "summary": "Milhaud, in a fit of creativity and perhaps a sprinkle of excitement, co-founded a summer conservatory, where aspiring musicians could bask under the sun and the wisdom of their mentor.",
+      "year": 1947,
+      "city": "Santa Barbara",
+      "country": "United States"
+    },
+    {
+      "event": "Retirement due to poor health",
+      "summary": "Milhaud decided that orchestrating music was easier than orchestrating life in a wheelchair, and thus he gracefully stepped back from the teaching podium.",
+      "year": 1971,
+      "city": "Unknown",
+      "country": "Unknown"
+    },
+    {
+      "event": "Death",
+      "summary": "Milhaud left us at the age of 81, probably still humming a tune, leaving behind a legacy that would keep his music alive in the hearts of many\u2014just like a catchy chorus.",
+      "year": 1974,
+      "city": "Geneva",
+      "country": "Switzerland"
+    },
+    {
+      "event": "Moved to Paris",
+      "summary": "In pursuit of high culture and gourmet meals, Milhaud made the big move to Paris. Little did he know this would be his playground and battleground for musical innovation and intellectual banter.",
+      "year": 1910,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Joined Les Six",
+      "summary": "Milhaud teamed up with five other composers to form the iconic group 'Les Six'. They were like the Avengers of music but with less spandex and more harmonies, aiming to break away from traditionalism and make a splash in the modernist pond.",
+      "year": 1920,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Visit to the United States",
+      "summary": "Milhaud traveled to the United States and found inspiration in jazz and the lively atmosphere. Between sipping coffee and composing, he likely marveled at how Americans could make a party out of anything, including their cereal.",
+      "year": 1922,
+      "city": "New York",
+      "country": "United States"
+    },
+    {
+      "event": "Ballet Collaborations",
+      "summary": "Milhaud collaborated on several ballet scores, blending French flair with captivating rhythms that could make even the stiffest ballerina kick her heels up. He was basically the guy who turned ballet into a spectacle of pizzazz!",
+      "year": 1928,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Conductor of Taormina Opera Festival",
+      "summary": "Milhaud took on the role of conductor for the Taormina Opera Festival, bringing his unique style to the beautiful setting. It was like having a gourmet chef whip up a five-course meal in a kitchenette \u2013 a delightful mix of high culture and scenic beauty!",
+      "year": 1951,
+      "city": "Taormina",
+      "country": "Italy"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27abandon_d%27Ariane,_Op.98_(Milhaud,_Darius)",
+      "year": 1927,
+      "title": "L'abandon d'Ariane, Op.98"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Agamemnon,_Op.14_(Milhaud,_Darius)",
+      "year": 1913,
+      "title": "Agamemnon, Op.14"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_brebis_%C3%A9gar%C3%A9e,_Op.4_(Milhaud,_Darius)",
+      "year": 1910,
+      "title": "La brebis \u00e9gar\u00e9e, Op.4"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_b%C5%93uf_sur_le_toit,_Op.58_(Milhaud,_Darius)",
+      "year": 1920,
+      "title": "Le b\u0153uf sur le toit, Op.58"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Caprices_de_Paganini,_Op.97_(Milhaud,_Darius)",
+      "year": 1927,
+      "title": "3 Caprices de Paganini, Op.97"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Caramel_mou,_Op.68_(Milhaud,_Darius)",
+      "year": 1920,
+      "title": "Caramel mou, Op.68"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_carnaval_d%27Aix,_Op.83b_(Milhaud,_Darius)",
+      "year": 1926,
+      "title": "Le carnaval d'Aix, Op.83b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Catalogue_de_fleurs,_Op.60_(Milhaud,_Darius)",
+      "year": 1920,
+      "title": "Catalogue de fleurs, Op.60"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chansons_bas,_Op.44_(Milhaud,_Darius)",
+      "year": 1917,
+      "title": "Chansons bas, Op.44"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_Cho%C3%A9phores,_Op.24_(Milhaud,_Darius)",
+      "year": 1915,
+      "title": "Les Cho\u00e9phores, Op.24"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_cr%C3%A9ation_du_monde,_Op.81a_(Milhaud,_Darius)",
+      "year": 1922,
+      "title": "La cr\u00e9ation du monde, Op.81a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_cr%C3%A9ation_du_monde,_Op.81b_(Milhaud,_Darius)",
+      "year": 1923,
+      "title": "La cr\u00e9ation du monde, Op.81b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_d%C3%A9livrance_de_Th%C3%A9s%C3%A9e,_Op.99_(Milhaud,_Darius)",
+      "year": 1927,
+      "title": "La d\u00e9livrance de Th\u00e9s\u00e9e, Op.99"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/D%E2%80%99un_cahier_in%C3%A9dit_du_journal_d%27Eug%C3%A9nie_de_Gu%C3%A9rin,_Op.27_(Milhaud,_Darius)",
+      "year": 1915,
+      "title": "D\u2019un cahier in\u00e9dit du journal d'Eug\u00e9nie de Gu\u00e9rin, Op.27"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27Enl%C3%A8vement_d%27Europe,_Op.94_(Milhaud,_Darius)",
+      "year": 1927,
+      "title": "L'Enl\u00e8vement d'Europe, Op.94"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_%C3%89tudes,_Op.63_(Milhaud,_Darius)",
+      "year": 1920,
+      "title": "5 \u00c9tudes, Op.63"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_Eum%C3%A9nides,_Op.41_(Milhaud,_Darius)",
+      "year": 1917,
+      "title": "Les Eum\u00e9nides, Op.41"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/L%27homme_et_son_d%C3%A9sir,_Op.48_(Milhaud,_Darius)",
+      "year": 1917,
+      "title": "L'homme et son d\u00e9sir, Op.48"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Hymnes,_Op.88_(Milhaud,_Darius)",
+      "year": 1925,
+      "title": "2 Hymnes, Op.88"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Machines_agricoles,_Op.56_(Milhaud,_Darius)",
+      "year": 1919,
+      "title": "Machines agricoles, Op.56"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_malheurs_d%27Orph%C3%A9e,_Op.85_(Milhaud,_Darius)",
+      "year": 1924,
+      "title": "Les malheurs d'Orph\u00e9e, Op.85"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazurka_(Milhaud,_Darius)",
+      "year": 1914,
+      "title": "Mazurka"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_pauvre_matelot,_Op.92_(Milhaud,_Darius)",
+      "year": 1926,
+      "title": "Le pauvre matelot, Op.92"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Petits_airs,_Op.51_(Milhaud,_Darius)",
+      "year": 1918,
+      "title": "2 Petits airs, Op.51"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.1,_Op.33_(Milhaud,_Darius)",
+      "year": 1916,
+      "title": "Piano Sonata No.1, Op.33"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Po%C3%A8me_de_Gitanjali,_Op.22_(Milhaud,_Darius)",
+      "year": 1914,
+      "title": "Po\u00e8me de Gitanjali, Op.22"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Po%C3%A8mes_de_Catulle,_Op.80_(Milhaud,_Darius)",
+      "year": 1923,
+      "title": "4 Po\u00e8mes de Catulle, Op.80"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Po%C3%A8mes_de_Jean_Cocteau,_Op.59_(Milhaud,_Darius)",
+      "year": 1920,
+      "title": "3 Po\u00e8mes de Jean Cocteau, Op.59"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/7_Po%C3%A8mes_de_La_connaissance_de_l%E2%80%99Est,_Op.7_(Milhaud,_Darius)",
+      "year": 1912,
+      "title": "7 Po\u00e8mes de La connaissance de l\u2019Est, Op.7"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Po%C3%A8mes_de_L%C3%A9o_Latil,_Op.20_(Milhaud,_Darius)",
+      "year": 1914,
+      "title": "4 Po\u00e8mes de L\u00e9o Latil, Op.20"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Po%C3%A8mes_de_Lucile_de_Chateaubriand,_Op.10_(Milhaud,_Darius)",
+      "year": 1913,
+      "title": "3 Po\u00e8mes de Lucile de Chateaubriand, Op.10"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Po%C3%A8mes_de_Paul_Claudel_pour_baryton,_Op.26_(Milhaud,_Darius)",
+      "year": 1915,
+      "title": "4 Po\u00e8mes de Paul Claudel pour baryton, Op.26"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Po%C3%A8mes_d%E2%80%99amour,_Op.30_(Milhaud,_Darius)",
+      "year": 1915,
+      "title": "2 Po\u00e8mes d\u2019amour, Op.30"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Po%C3%A8mes_juifs,_Op.34_(Milhaud,_Darius)",
+      "year": 1916,
+      "title": "Po\u00e8mes juifs, Op.34"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Po%C3%A8mes,_Op.39_(Milhaud,_Darius)",
+      "year": 1916,
+      "title": "2 Po\u00e8mes, Op.39"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pri%C3%A8res_journali%C3%A8res_%C3%A0_l%27usage_des_Juifs_du_Comtat-Venaissin,_Op.96_(Milhaud,_Darius)",
+      "year": 1927,
+      "title": "Pri\u00e8res journali\u00e8res \u00e0 l'usage des Juifs du Comtat-Venaissin, Op.96"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_printemps,_Op.18_(Milhaud,_Darius)",
+      "year": 1914,
+      "title": "Le printemps, Op.18"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Printemps,_Opp.25,_66_(Milhaud,_Darius)",
+      "year": 1915,
+      "title": "Printemps, Opp.25, 66"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Prot%C3%A9e,_Op.17_(Milhaud,_Darius)",
+      "year": 1913,
+      "title": "Prot\u00e9e, Op.17"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Rag-Caprices,_Op.78_(Milhaud,_Darius)",
+      "year": 1922,
+      "title": "3 Rag-Caprices, Op.78"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Salade,_Op.83_(Milhaud,_Darius)",
+      "year": 1924,
+      "title": "Salade, Op.83"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Saudades_do_Brasil,_Op.67b_(Milhaud,_Darius)",
+      "year": 1920,
+      "title": "Saudades do Brasil, Op.67b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Saudades_do_Brasil,_Op.67_(Milhaud,_Darius)",
+      "year": 1920,
+      "title": "Saudades do Brasil, Op.67"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/S%C3%A9r%C3%A9nade,_Op.62_(Milhaud,_Darius)",
+      "year": 1920,
+      "title": "S\u00e9r\u00e9nade, Op.62"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_soir%C3%A9es_de_P%C3%A9trograde,_Op.55_(Milhaud,_Darius)",
+      "year": 1919,
+      "title": "Les soir\u00e9es de P\u00e9trograde, Op.55"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sonata_for_2_Violins_and_Piano,_Op.15_(Milhaud,_Darius)",
+      "year": 1914,
+      "title": "Sonata for 2 Violins and Piano, Op.15"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sonata_for_Flute,_Clarinet,_Oboe_and_Piano,_Op.47_(Milhaud,_Darius)",
+      "year": 1918,
+      "title": "Sonata for Flute, Clarinet, Oboe and Piano, Op.47"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sonatina_for_Flute_and_Piano,_Op.76_(Milhaud,_Darius)",
+      "year": 1922,
+      "title": "Sonatina for Flute and Piano, Op.76"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1,_Op.5_(Milhaud,_Darius)",
+      "year": 1912,
+      "title": "String Quartet No.1, Op.5"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2,_Op.16_(Milhaud,_Darius)",
+      "year": 1914,
+      "title": "String Quartet No.2, Op.16"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.4,_Op.46_(Milhaud,_Darius)",
+      "year": 1918,
+      "title": "String Quartet No.4, Op.46"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.5,_Op.64_(Milhaud,_Darius)",
+      "year": 1920,
+      "title": "String Quartet No.5, Op.64"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.6,_Op.77_(Milhaud,_Darius)",
+      "year": 1922,
+      "title": "String Quartet No.6, Op.77"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.7,_Op.87_(Milhaud,_Darius)",
+      "year": 1925,
+      "title": "String Quartet No.7, Op.87"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Suite_symphonique_No.1,_Op.12_(Milhaud,_Darius)",
+      "year": 1913,
+      "title": "Suite symphonique No.1, Op.12"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Suite_symphonique_No.2,_Op.57_(Milhaud,_Darius)",
+      "year": 1919,
+      "title": "Suite symphonique No.2, Op.57"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Suite,_Op.8_(Milhaud,_Darius)",
+      "year": 1913,
+      "title": "Suite, Op.8"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphonie_de_chambre_No.1,_Op.43_(Milhaud,_Darius)",
+      "year": 1917,
+      "title": "Symphonie de chambre No.1, Op.43"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphonie_de_chambre_No.2,_Op.49_(Milhaud,_Darius)",
+      "year": 1918,
+      "title": "Symphonie de chambre No.2, Op.49"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphonie_de_chambre_No.3,_Op.71_(Milhaud,_Darius)",
+      "year": 1921,
+      "title": "Symphonie de chambre No.3, Op.71"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphonie_de_chambre_No.4,_Op.74_(Milhaud,_Darius)",
+      "year": 1921,
+      "title": "Symphonie de chambre No.4, Op.74"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphonie_de_chambre_No.5,_Op.75_(Milhaud,_Darius)",
+      "year": 1922,
+      "title": "Symphonie de chambre No.5, Op.75"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Touches_blanches,_Op.222_(Milhaud,_Darius)",
+      "year": 1941,
+      "title": "Touches blanches, Op.222"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.1,_Op.3_(Milhaud,_Darius)",
+      "year": 1911,
+      "title": "Violin Sonata No.1, Op.3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.2,_Op.40_(Milhaud,_Darius)",
+      "year": 1917,
+      "title": "Violin Sonata No.2, Op.40"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cin%C3%A9ma-fantaisie,_Op.58b_(Milhaud,_Darius)",
+      "year": 1919,
+      "title": "Cin\u00e9ma-fantaisie, Op.58b"
+    }
+  ]
+}

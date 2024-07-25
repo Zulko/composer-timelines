@@ -1,0 +1,5 @@
+/node_modules/
+/public/build/
+/data_collection/data/
+/data_collection/.env
+.DS_Store

@@ -1,0 +1,305 @@
+{
+  "full_name": "Samuel Barber",
+  "first_names": "Samuel",
+  "last_name": "Barber",
+  "birth_year": 1910,
+  "death_year": 1981,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Samuel_Barber",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Samuel Barber was born into a musical family. His mother was a pianist and his uncle was a composer, which might explain his early obsession with music. Instead of learning to play catch, he was busy composing masterpieces. Not your typical American childhood, right?",
+      "year": 1910,
+      "city": "West Chester",
+      "country": "USA"
+    },
+    {
+      "event": "First Composition",
+      "summary": "At the tender age of seven, Barber composed his first work titled 'Sadness'. It was a piano piece that might have made other kids wonder if they should also be writing symphonies instead of just doodling on the back of their math tests.",
+      "year": 1917,
+      "city": "West Chester",
+      "country": "USA"
+    },
+    {
+      "event": "First Operetta",
+      "summary": "By ten, Barber had already written his first operetta, 'The Rose Tree', to a libretto provided by the family's cook! Clearly, music was his calling, despite all those football games he was expected to attend.",
+      "year": 1920,
+      "city": "West Chester",
+      "country": "USA"
+    },
+    {
+      "event": "Entered Curtis Institute",
+      "summary": "At 14, Barber stepped into the musical elite by entering the Curtis Institute of Music. Talk about skipping the line \u2013 he was already on his way to becoming a triple threat: composer, vocalist, and pianist!",
+      "year": 1924,
+      "city": "Philadelphia",
+      "country": "USA"
+    },
+    {
+      "event": "Professional Debut as Conductor",
+      "summary": "Barber made his professional conducting debut in Vienna. Just imagine an 18-year-old standing in front of a group of musicians trying to command an orchestra \u2013 the baton must have felt heavier than it looked!",
+      "year": 1934,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Adagio for Strings Premiere",
+      "summary": "At age 28, Barber's 'Adagio for Strings' was performed under Arturo Toscanini. The piece was so beautiful that Toscanini reportedly exclaimed 'Semplice e bella!' - it seems the Italian operatic flair does wonders for compositions.",
+      "year": 1938,
+      "city": "New York City",
+      "country": "USA"
+    },
+    {
+      "event": "Pulitzer Prize for Opera",
+      "summary": "Barber won his first Pulitzer Prize for his opera 'Vanessa'. Winning awards while sitting in opera houses sounds fancy, but just imagine the excitement of telling your family you finally made it big!",
+      "year": 1956,
+      "city": "New York City",
+      "country": "USA"
+    },
+    {
+      "event": "Guggenheim Fellowship",
+      "summary": "In 1946, Barber snagged a Guggenheim Fellowship. It sounds so prestigious that it might as well come with a personal butler named Jeeves \u2013 but really, it was the perfect way for him to further explore his creativity!",
+      "year": 1946,
+      "city": "USA",
+      "country": "USA"
+    },
+    {
+      "event": "Death",
+      "summary": "Barber passed away in 1981 after a vibrant career filled with accolades. It's hard to believe that someone so full of life through music would eventually leave the world behind, but all great composers are always sort of immortal in their melodies.",
+      "year": 1981,
+      "city": "New York City",
+      "country": "USA"
+    },
+    {
+      "event": "Commission for Orchestral Work",
+      "summary": "While serving in the Army Air Corps, Barber was commissioned by Serge Koussevitzky to create an orchestral piece that would later make its grand debut with the Boston Symphony Orchestra. Talk about a military-grade musical assignment!",
+      "year": 1943,
+      "city": "Atlantic City",
+      "country": "USA"
+    },
+    {
+      "event": "Premiere of Cello Concerto",
+      "summary": "Barber's Cello Concerto debuted with the talented Raya Garbousova performing, proving that sometimes a string instrument can create more drama than a soap opera. People were definitely struck by its emotional depth!",
+      "year": 1945,
+      "city": "Boston",
+      "country": "USA"
+    },
+    {
+      "event": "Premiere of 'Vanessa'",
+      "summary": "Barber's first opera 'Vanessa' made its debut at the Metropolitan Opera, winning the Pulitzer Prize. It was like Barber threw a musical party and everyone came dressed as accolades!",
+      "year": 1958,
+      "city": "New York City",
+      "country": "USA"
+    },
+    {
+      "event": "Attendance at Congress of Soviet Composers",
+      "summary": "Barber broke the ice by being the first American composer to attend the Congress of Soviet Composers in Moscow, proving that not even the Iron Curtain could stop him from networking!",
+      "year": 1962,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Lincoln Center Opening",
+      "summary": "Barber premiered his Piano Concerto at the opening of Lincoln Center, possibly the fanciest concert setting imaginable. It was a celebration where the music was more than just a warm-up act!",
+      "year": 1962,
+      "city": "New York City",
+      "country": "USA"
+    },
+    {
+      "event": "Premiere of 'Antony and Cleopatra'",
+      "summary": "His third opera 'Antony and Cleopatra' premiered at the new Metropolitan Opera House, but with mixed reviews, Barber might have felt it was more of a 'death by criticism' than a dramatic triumph!",
+      "year": 1966,
+      "city": "New York City",
+      "country": "USA"
+    },
+    {
+      "event": "Creation of 'Agnus Dei'",
+      "summary": "In a transformative moment, Barber adapted his iconic 'Adagio for Strings' into 'Agnus Dei', giving it a holy twist that made choirs everywhere say, 'Now that\u2019s heavenly music!'",
+      "year": 1967,
+      "city": "USA",
+      "country": "USA"
+    },
+    {
+      "event": "Last Major Work",
+      "summary": "Barber completed his last major work, 'The Third Essay for Orchestra', demonstrating that even as he approached 70, he was still creating movements that were anything but quiet!",
+      "year": 1978,
+      "city": "USA",
+      "country": "USA"
+    },
+    {
+      "event": "Hospitalization for Cancer",
+      "summary": "Between hospital visits due to cancer, he managed to keep his spirits high while creating music, proving that even illness can\u2019t completely silence the genius of Barber!",
+      "year": 1981,
+      "city": "New York City",
+      "country": "USA"
+    },
+    {
+      "event": "First major composition",
+      "summary": "Barber kicked off his composing career with the 'Overture to The School for Scandal' that was so impressive it made many sit up, say 'wow', and maybe even adjust their bow ties. Who knew scandal could sound so symphonious!",
+      "year": 1931,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Cello Sonata composition",
+      "summary": "He penned the 'Cello Sonata' which could easily be mistaken for a duet between a very mature cellist and a cacophonic cat. This composition redefined what playing with a string can really mean!",
+      "year": 1932,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Music for a Scene from Shelley",
+      "summary": "In 'Music for a Scene from Shelley', Barber demonstrated his ability to evoke deep emotions with music, proving once and for all that dramatic scoring could easily rival soap operas, with less melodrama!",
+      "year": 1933,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "First Symphony",
+      "summary": "His 'Symphony in One Movement' came along, showcasing that lavish orchestras can condense their drama into one single, thoughtful ride. Talk about efficiency!",
+      "year": 1936,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Adagio for Strings arrangement",
+      "summary": "Barber arranged the second movement of his String Quartet into 'Adagio for Strings', which quickly carved its place into the hearts of audiences, proving that sometimes, less is indeed more!",
+      "year": 1936,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Essay for Orchestra",
+      "summary": "The 'Essay for Orchestra' had the critics buzzing and audiences scratching their heads, wondering if they just attended an orchestra concert or a philosophical debate. Spoiler: it was both!",
+      "year": 1938,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Violin Concerto",
+      "summary": "Barber's 'Violin Concerto' hit the stage, making violins the unlikely rock stars of the night, leaving everyone wondering if they should start forming string quartets in their garage!",
+      "year": 1939,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Reincarnations composition",
+      "summary": "With 'Reincarnations', Barber not only gave life to choral music but also to some twisted tales from Irish poetry, making everyone question if they were now experiencing a literary classic set to music!",
+      "year": 1940,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Second Essay for Orchestra",
+      "summary": "This piece solidified Barber's reputation as a master essayist, albeit with a much more melodic approach compared to his fellow essayists who only had words. Music never felt so scholarly!",
+      "year": 1942,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Excursions composition",
+      "summary": "In 'Excursions', Barber took listeners on a musical journey where the destination was less important than the whimsical detours taken along the way. Pack your bags for this whimsical ride!",
+      "year": 1944,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Capricorn Concerto",
+      "summary": "The 'Capricorn Concerto' was born, and for all those clueless about Capricorn, rest assured the music was far more enlightening than any astrology book could manage!",
+      "year": 1944,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Cello Concerto",
+      "summary": "The 'Cello Concerto' hit like a lightning bolt of emotive power, leaving cellists everywhere feeling like they were in a music video directed by the world\u2019s most sensitive filmmaker.",
+      "year": 1945,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Medea ballet",
+      "summary": "Barber ventured into the dance world with 'Medea', creating music that was as captivating as the ballet's movements, proving dance and melodies can indeed share the spotlight without stepping on each other's toes!",
+      "year": 1946,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Knoxville: Summer of 1915",
+      "summary": "This vocal work brought memories of childhood summers flooding back, raising questions of nostalgia and whether a soprano could be more charismatic than a summer BBQ!",
+      "year": 1948,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Sonata for Piano",
+      "summary": "Barber wrote the 'Sonata for Piano', a piece so intense it could make even the most seasoned pianists feel as if they were drained after just one performance \u2013 talk about pressure!",
+      "year": 1949,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Hermit Songs composition",
+      "summary": "In 'Hermit Songs', Barber turned to the works of ancient monks, making solitude sound surprisingly catchy and relatable for the rest of us who sometimes enjoy our own company a bit too much!",
+      "year": 1953,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Prayers of Kierkegaard",
+      "summary": "This work had audiences pondering their existence \u2013 it was a prayerful experience where spirituality met an incredible sense of musical accountability. And all for a composer who was just trying to get people to think!",
+      "year": 1954,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Summer Music composition",
+      "summary": "With 'Summer Music', Barber created a wind quintet that instantly transported listeners to memories of summer vacations, minus the sunburns and suspicious tan lines!",
+      "year": 1956,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Vanessa opera",
+      "summary": "The arrival of 'Vanessa' blew the opera scene away, fusing drama, romance, and the kind of emotional turmoil that made even soap operas look like a walk in the park!",
+      "year": 1957,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Nocturne for piano",
+      "summary": "'Nocturne' was so beautifully crafted it had audience members questioning the melodies even in their dreams, solidifying Barber's reputation for making nighttime sound just as splendid as daytime!",
+      "year": 1959,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "A Hand of Bridge",
+      "summary": "In 'A Hand of Bridge', Barber showcased the essence of card games infused with music, forcing listeners to reconsider if they were at a concert or a high-stakes casino. Bet your life it was worth it!",
+      "year": 1959,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Toccata Festiva",
+      "summary": "'Toccata Festiva' isn't just a mouthful to say, it\u2019s a vibrant spectacle that left audiences tapping their toes, wondering if they just attended a concert or an impromptu dance party!",
+      "year": 1960,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Piano Concerto",
+      "summary": "Barber's 'Piano Concerto' dazzled audiences, combining flair and virtuosity to the point that piano students everywhere began questioning whether they picked the right career path. Time to practice harder!",
+      "year": 1962,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Antony and Cleopatra opera",
+      "summary": "With 'Antony and Cleopatra', Barber crafted a romantic opera that celebrated passion and politics, and made everyone wonder if Shakespeare would\u2019ve preferred orchestral scores over text any day!",
+      "year": 1966,
+      "city": "",
+      "country": ""
+    }
+  ],
+  "compositions": []
+}

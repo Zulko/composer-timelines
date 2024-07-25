@@ -1,0 +1,313 @@
+{
+  "full_name": "Isaac Alb\u00e9niz",
+  "first_names": "Isaac",
+  "last_name": "Alb\u00e9niz",
+  "birth_year": 1860,
+  "death_year": 1909,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Isaac_Alb\u00e9niz",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Isaac Alb\u00e9niz was born in a small town and was likely causing local shockwaves from day one with his talent. Who knew a baby could be a prodigy?",
+      "year": 1860,
+      "city": "Camprodon",
+      "country": "Spain"
+    },
+    {
+      "event": "First Concert",
+      "summary": "At the tender age of four, little Isaac took the stage and began to play the piano like the world was about to end. Imagine the proud parents and the audience: 'What a child!'",
+      "year": 1864,
+      "city": "Camprodon",
+      "country": "Spain"
+    },
+    {
+      "event": "Failed Conservatory Admission",
+      "summary": "Isaac attempted to attend the prestigious Conservatoire de Paris at just seven. Unfortunately, the admissions committee believed he was more toddler than virtuoso and sent him home\u2014definitely a missed opportunity for the French!",
+      "year": 1867,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "World Concert Tours",
+      "summary": "By the age of fifteen, he was off on grand tours around the world, delighting audiences from New York to Leipzig. His dad surely deserved a 'World's Best Accompanying Father' mug!",
+      "year": 1875,
+      "city": "Various",
+      "country": "Various"
+    },
+    {
+      "event": "Studied at Royal Conservatory of Brussels",
+      "summary": "Isaac made the leap to Europe\u2019s classical heart with a royal grant. Not your typical college application story! Just think of all the fun he had arguing over music theory with the professors.",
+      "year": 1876,
+      "city": "Brussels",
+      "country": "Belgium"
+    },
+    {
+      "event": "Study with Franz Liszt",
+      "summary": "Off to Budapest to study with the legendary Liszt, only to find out he was in Weimar. Talk about bad luck! Isaac managed to leave a little piece of him behind in Hungary, at least!",
+      "year": 1880,
+      "city": "Budapest",
+      "country": "Hungary"
+    },
+    {
+      "event": "Married Rosina Jordana",
+      "summary": "He tied the knot with former student Rosina, an event likely filled with music, laughter, and a fight over who gets to play the piano at their wedding reception.",
+      "year": 1883,
+      "city": "Unknown",
+      "country": "Unknown"
+    },
+    {
+      "event": "Peak Concert Career",
+      "summary": "The peak of his concert career involved a series of tours where he was treated like a rock star\u2014minus the groupies, of course. It's hard to imagine anyone playing the piano while simultaneously being mobbed by fans!",
+      "year": 1889,
+      "city": "Various",
+      "country": "Various"
+    },
+    {
+      "event": "Composed Iberia",
+      "summary": "In his last years, he composed 'Iberia', crafting musical gems that made even the notes themselves seem like they were dancing the flamenco. Talk about a glorious farewell to his life\u2019s work!",
+      "year": 1908,
+      "city": "Unknown",
+      "country": "France"
+    },
+    {
+      "event": "Death",
+      "summary": "Isaac passed away from kidney disease, leaving behind a legacy that would make any composer jealous. Just weeks before, he received the Legion of Honour\u2014guess he made it to the VIP list after all!",
+      "year": 1909,
+      "city": "Cambo-les-Bains",
+      "country": "France"
+    },
+    {
+      "event": "First public performance",
+      "summary": "After enchanting his family for years, young Isaac took the stage for his first public performance. Rumor has it the applause was so overwhelming, he almost forgot to play the piano.",
+      "year": 1865,
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    {
+      "event": "Study in Paris",
+      "summary": "Isaac decided to trade the warm Spanish sun for Paris's charming gray. But hey, who needs sunlight when you have a city known for croissants and culture?",
+      "year": 1874,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Premiere of 'Iberia'",
+      "summary": "In what can only be described as a mesmerizing musical fiesta, Isaac unveiled 'Iberia,' leaving audiences wondering how one man could put so much flavor into notes, making even the olives jealous.",
+      "year": 1905,
+      "city": "Madrid",
+      "country": "Spain"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/Angustia_(Alb%C3%A9niz,_Isaac)",
+      "year": 1886,
+      "title": "Angustia"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Azulejos_(Alb%C3%A9niz,_Isaac)",
+      "year": 1909,
+      "title": "Azulejos"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Baladas_(Alb%C3%A9niz,_Isaac)",
+      "year": 1888,
+      "title": "6 Baladas"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Barcarola,_Op.23_(Alb%C3%A9niz,_Isaac)",
+      "year": 1884,
+      "title": "Barcarola, Op.23"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Catalonia_(Alb%C3%A9niz,_Isaac)",
+      "year": 1899,
+      "title": "Catalonia"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/C%C3%A9l%C3%A8bre_s%C3%A9r%C3%A9nade_espagnole,_Op.181_(Alb%C3%A9niz,_Isaac)",
+      "year": 1889,
+      "title": "C\u00e9l\u00e8bre s\u00e9r\u00e9nade espagnole, Op.181"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Champagne-valse_(Alb%C3%A9niz,_Isaac)",
+      "year": 1887,
+      "title": "Champagne-valse"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chants_d%27Espagne,_Op.232_(Alb%C3%A9niz,_Isaac)",
+      "year": 1891,
+      "title": "Chants d'Espagne, Op.232"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Danzas_espa%C3%B1olas,_Op.37_(Alb%C3%A9niz,_Isaac)",
+      "year": 1887,
+      "title": "Danzas espa\u00f1olas, Op.37"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Deseo,_Op.40_(Alb%C3%A9niz,_Isaac)",
+      "year": 1885,
+      "title": "Deseo, Op.40"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Espagne_(Souvenirs)_(Alb%C3%A9niz,_Isaac)",
+      "year": 1899,
+      "title": "Espagne"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Espa%C3%B1a,_Op.165_(Alb%C3%A9niz,_Isaac)",
+      "year": 1889,
+      "title": "Espa\u00f1a, Op.165"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Estudio_impromptu,_Op.56_(Alb%C3%A9niz,_Isaac)",
+      "year": 1886,
+      "title": "Estudio impromptu, Op.56"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/7_Estudios_en_los_tonos_naturales_mayores,_Op.65_(Alb%C3%A9niz,_Isaac)",
+      "year": 1886,
+      "title": "7 Estudios en los tonos naturales mayores, Op.65"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Henry_Clifford_(Alb%C3%A9niz,_Isaac)",
+      "year": 1893,
+      "title": "Henry Clifford"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Iberia_(Alb%C3%A9niz,_Isaac)",
+      "year": 1905,
+      "title": "Iberia"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Improvisations_(Alb%C3%A9niz,_Isaac)",
+      "year": 1903,
+      "title": "3 Improvisations"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Mazurkas,_Op.66_(Alb%C3%A9niz,_Isaac)",
+      "year": 1886,
+      "title": "6 Mazurkas, Op.66"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_M%C3%A9lodies_(Alb%C3%A9niz,_Isaac)",
+      "year": 1909,
+      "title": "4 M\u00e9lodies"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Merlin_(Alb%C3%A9niz,_Isaac)",
+      "year": 1902,
+      "title": "Merlin"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Morceaux_caract%C3%A9ristiques,_Op.164_(Alb%C3%A9niz,_Isaac)",
+      "year": 1889,
+      "title": "2 Morceaux caract\u00e9ristiques, Op.164"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pavana-capricho,_Op.12_(Alb%C3%A9niz,_Isaac)",
+      "year": 1884,
+      "title": "Pavana-capricho, Op.12"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pepita_Jim%C3%A9nez_(Alb%C3%A9niz,_Isaac)",
+      "year": 1895,
+      "title": "Pepita Jim\u00e9nez"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Peque%C3%B1os_valses,_Op.25_(Alb%C3%A9niz,_Isaac)",
+      "year": 1884,
+      "title": "6 Peque\u00f1os valses, Op.25"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.1,_Op.28_(Alb%C3%A9niz,_Isaac)",
+      "year": 1884,
+      "title": "Piano Sonata No.1, Op.28"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.3,_Op.68_(Alb%C3%A9niz,_Isaac)",
+      "year": 1886,
+      "title": "Piano Sonata No.3, Op.68"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.4,_Op.72_(Alb%C3%A9niz,_Isaac)",
+      "year": 1887,
+      "title": "Piano Sonata No.4, Op.72"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.5,_Op.82_(Alb%C3%A9niz,_Isaac)",
+      "year": 1887,
+      "title": "Piano Sonata No.5, Op.82"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/12_Piezas_caracter%C3%ADsticas,_Op.92_(Alb%C3%A9niz,_Isaac)",
+      "year": 1888,
+      "title": "12 Piezas caracter\u00edsticas, Op.92"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Rapsodia_espa%C3%B1ola,_Op.70_(Alb%C3%A9niz,_Isaac)",
+      "year": 1886,
+      "title": "Rapsodia espa\u00f1ola, Op.70"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Recuerdos_de_viaje,_Op.71_(Alb%C3%A9niz,_Isaac)",
+      "year": 1886,
+      "title": "Recuerdos de viaje, Op.71"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/R%C3%AAves,_T.99_(Alb%C3%A9niz,_Isaac)",
+      "year": 1890,
+      "title": "R\u00eaves, T.99"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ricordatti,_Op.96_(Alb%C3%A9niz,_Isaac)",
+      "year": 1888,
+      "title": "Ricordatti, Op.96"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Rimas_de_B%C3%A9cquer_(Alb%C3%A9niz,_Isaac)",
+      "year": 1888,
+      "title": "Rimas de B\u00e9cquer"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Les_saisons,_Op.201_(Alb%C3%A9niz,_Isaac)",
+      "year": 1892,
+      "title": "Les saisons, Op.201"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/San_Antonio_de_la_Florida_(Alb%C3%A9niz,_Isaac)",
+      "year": 1894,
+      "title": "San Antonio de la Florida"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Serenata_arabe_(Alb%C3%A9niz,_Isaac)",
+      "year": 1885,
+      "title": "Serenata arabe"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Suite_espa%C3%B1ola_No.1,_Op.47_(Alb%C3%A9niz,_Isaac)",
+      "year": 1882,
+      "title": "Suite espa\u00f1ola No.1, Op.47"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Suite_espa%C3%B1ola_No.2,_Op.97_(Alb%C3%A9niz,_Isaac)",
+      "year": 1888,
+      "title": "Suite espa\u00f1ola No.2, Op.97"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_Vega_(Alb%C3%A9niz,_Isaac)",
+      "year": 1899,
+      "title": "La Vega"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Yvonne_en_visite!_(Alb%C3%A9niz,_Isaac)",
+      "year": 1905,
+      "title": "Yvonne en visite!"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Zortzico_(Alb%C3%A9niz,_Isaac)",
+      "year": 1887,
+      "title": "Zortzico"
+    }
+  ]
+}

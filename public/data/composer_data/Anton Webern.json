@@ -1,0 +1,682 @@
+{
+  "full_name": "Anton Webern",
+  "first_names": "Anton",
+  "last_name": "Webern",
+  "birth_year": 1883,
+  "death_year": 1945,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Anton_Webern",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Born in Vienna, Webern joined the world as the only surviving son of a civil servant and mining engineer, setting the stage for a life of musical exploration. He probably cried a little, but what newborn doesn't?",
+      "year": 1883,
+      "city": "Vienna",
+      "country": "Austria-Hungary"
+    },
+    {
+      "event": "Early Musical Education",
+      "summary": "Webern began his love affair with music early on, thanks to his mom, a pianist who taught him the ropes. Imagine little Anton, bouncing between drums, trumpets, and violins like a kid at a candy store!",
+      "year": 1890,
+      "city": "Graz",
+      "country": "Austria-Hungary"
+    },
+    {
+      "event": "Studies at the University of Vienna",
+      "summary": "Enrolling at the University of Vienna, Webern dove into musicology while dreaming of being a composer. He even edited a volume of Heinrich Isaac's work for his doctoral thesis\u2014kind of like getting a gold star for musical nerdiness!",
+      "year": 1902,
+      "city": "Vienna",
+      "country": "Austria-Hungary"
+    },
+    {
+      "event": "Marriage",
+      "summary": "Webern tied the knot with Wilhelmine 'Minna' M\u00f6rtl in a civil ceremony, having overcome the awkwardness of cousinly romance and unexpected pregnancy. Quite the family reunion conversation starter!",
+      "year": 1911,
+      "city": "Danzig",
+      "country": "Germany"
+    },
+    {
+      "event": "Early Conducting Career",
+      "summary": "He embarked on an early conducting career in operetta, famously declaring some pieces 'filth' while later admitting certain works weren't so bad. Talk about a turnaround like a musical politician!",
+      "year": 1908,
+      "city": "Vienna",
+      "country": "Austria-Hungary"
+    },
+    {
+      "event": "Psychotherapy",
+      "summary": "Facing some serious job-related drama and a mild breakdown, Webern turned to psychotherapy, revealing that even musical geniuses need to talk it out sometimes. This was the original 'therapy for the soul'!",
+      "year": 1912,
+      "city": "Semmering",
+      "country": "Austria"
+    },
+    {
+      "event": "World War I Service",
+      "summary": "As the world erupted into chaos, Webern served in the military, balancing patriotism with the hope for peace. It's safe to say he didn't compose many love songs during the trenches!",
+      "year": 1914,
+      "city": "Austria",
+      "country": "Austria"
+    },
+    {
+      "event": "Post-War Compositions",
+      "summary": "Emerging from the war, Webern began crafting music that made waves\u2014or rather, ripples. He embraced atonality and twelve-tone techniques, making his peers both confused and a little jealous",
+      "year": 1918,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Return to M\u00f6dling",
+      "summary": "In a bid to compose more music, Webern returned to Schoenberg in M\u00f6dling, yet his finances were so tight he considered going back to Prague. It was like trying to buy a luxury item while living on instant noodles!",
+      "year": 1918,
+      "city": "M\u00f6dling",
+      "country": "Austria"
+    },
+    {
+      "event": "Society for Private Musical Performances",
+      "summary": "Webern threw himself into the Society for Private Musical Performances alongside friends. They promoted new music like it was the latest viral dance trend, featuring works by famous composers and even his own. Unfortunately, this 'party' ended by 1921 due to catastrophic inflation\u2014talk about crashing the economy!",
+      "year": 1921,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Director of Wiener Schubertbund",
+      "summary": "Webern became the director of the Wiener Schubertbund, showcasing his conducting skills and earning applause equivalent to a celebrity concert! Notably, he mounted Mahler's Third Symphony in a performance that got everyone talking, much like the newest blockbuster film release.",
+      "year": 1922,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Critical acclaim as a conductor",
+      "summary": "Webern was hailed as 'the greatest conductor since Mahler himself' in 1922, proving that he could conduct with the best of them. It's like being told you're the best pizza-maker in a city famous for its pizza!",
+      "year": 1922,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Lectures on New Music",
+      "summary": "Webern delivered an eight-lecture series on new music in 1933, attempting to assert that it wasn't just about messy chaos but had its own delightful logic\u2014like explaining how eating cake daily can still be part of a balanced diet!",
+      "year": 1933,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Kristallnacht Reaction",
+      "summary": "Shocked by Kristallnacht, Webern attempted to aid Jewish colleagues, showing that he could be a supportive friend in a time of trouble. It was like realizing your buddy needs help moving and you actually show up with a truck!",
+      "year": 1938,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Inner Emigration",
+      "summary": "During the Nazi regime, Webern entered a period of 'inner emigration,' where he claimed to be 'totally immersed in his work,' much like pretending to be busy at a party while actually avoiding a conversation with that one person you don't know how to escape!",
+      "year": 1938,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Final Compositions",
+      "summary": "Webern continued composing during World War II, navigating his art through tumultuous times. He worked to create music that was like the secret ingredient in a family recipe\u2014hard to find but cherished, even when the world outside was falling apart!",
+      "year": 1940,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Graduation and Early Works",
+      "summary": "Webern completed his studies with Schoenberg and published his graduation piece, the Passacaglia, Op. 1. The piece was so groundbreaking that even its own premiere audience in Danzig must have thought they\u2019d wandered into an insane experiment rather than a classical concert.",
+      "year": 1908,
+      "city": "Danzig",
+      "country": "Poland"
+    },
+    {
+      "event": "At the Dawn of Atonality",
+      "summary": "Webern\u2019s experimentation with atonality began around this time, leading to his incredibly brief and aphoristic style. Schoenberg joked that he was so influenced by Webern that he was starting to lose his own identity\u2014guess they took 'influence' a bit too seriously!",
+      "year": 1909,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "World War II Impact",
+      "summary": "As the war raged on, Webern\u2019s financial situation deteriorated, relying on his children for support. His letters during this period oversaw a delightful mix of bombings and births\u2014talk about a chaotic family reunion!",
+      "year": 1940,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Conscription",
+      "summary": "In a rather inconvenient twist, Webern was conscripted as an air-raid protection police officer, putting a literal spin on his 'working' conditions during wartime. There\u2019s nothing like an impending airstrike to motivate a man to pen a symphony!",
+      "year": 1943,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Fleeing to Mittersill",
+      "summary": "The Webern family took a frantic dash to Mittersill, where they crammed into a tiny space with 17 other relatives. Imagine the sibling squabbles over who gets the last piece of bread during a family reunion gone awry!",
+      "year": 1945,
+      "city": "Mittersill",
+      "country": "Austria"
+    },
+    {
+      "event": "Untimely Death",
+      "summary": "In an incident as sudden as a misplaced breath, Webern was accidentally shot by a U.S. soldier while outside smoking. It\u2019s a reminder that even composers can find themselves in unfathomable situations, like picking the wrong night to enjoy a relaxing cigarette!",
+      "year": 1945,
+      "city": "Mittersill",
+      "country": "Austria"
+    },
+    {
+      "event": "Orchestration of Schubert Lieder",
+      "summary": "In his youthful exuberance, Webern orchestrated several Schubert Lieder for a full orchestra, laying the groundwork for his future compositional adventures while trying to do justice to Schubert's genius. Who knew that giving a Schubert monologue a full orchestration would be like dressing a cat in a tuxedo\u2014both unorthodox and surprisingly delightful?",
+      "year": 1903,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Influenced by Schoenberg",
+      "summary": "Webern found himself under the spell of Schoenberg's 'Pierrot lunaire', kicking off his serious endeavors in composition. Imagine being inspired by a quirky clown and deciding to write serious stuff\u2014isn't that what every artist dreams of?",
+      "year": 1912,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Mid-Period Lieder Composition",
+      "summary": "During and after World War I, Webern diligently worked on a plethora of songs, striving to create something more substantial than mere whims. Talk about turning wartime blues into lyrical tunes\u2014music therapy at its finest!",
+      "year": 1914,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "First Large-Scale Non-Vocal Work",
+      "summary": "In 1926-1927, Webern completed his String Trio, Op. 20, marking his significant step into the realm of large-scale non-vocal compositions. It was as if he decided that singing wasn't enough and that strings needed their time in the spotlight too!",
+      "year": 1927,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Use of Twelve-Tone Technique",
+      "summary": "Webern boldly embraced twelve-tone technique for the first time, adding a layer of complexity to his already intricate musical fabric. Just when you thought music couldn't get any more mathematical, Webern whipped out the twelve-tone toolkit!",
+      "year": 1945,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "First Composition",
+      "summary": "He tried his hand at composing, and while critics would later battle over its brilliance, let's just say his musical output wasn\u2019t exactly traditional\u2014welcome to the avant-garde.",
+      "year": 1904,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Studied with Mahler",
+      "summary": "Webern had the privilege of learning from Gustav Mahler. Picture this: a young composer essentially learning from a master who once described his own work as too terrifying for audiences.",
+      "year": 1906,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Joined the Vienna School",
+      "summary": "Webern teamed up with Berg and Schoenberg, forming a legendary trio. It was like the original boy band of the 20th-century classical scene, but with fewer synchronized dance moves.",
+      "year": 1910,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Op. 21 Premiere",
+      "summary": "The world got its first taste of Webern's Op. 21, and while it was revolutionary, some listeners probably felt like they had just been fed a plate of avant-garde spaghetti\u2014unusual but flavorful.",
+      "year": 1921,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Facet of Composition Revolution",
+      "summary": "Webern's radical changes in music became known as a 'facet of the composition revolution.' Imagine a musical revolution with less violence and more complex timbres.",
+      "year": 1930,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Post-War Influence",
+      "summary": "After the tumult of war, Webern's music surged in popularity and became a kind of template for new composers, akin to how a good recipe turns novice cooks into chefs\u2014a pinch of serialism and voila!",
+      "year": 1945,
+      "city": "Europe",
+      "country": "Various"
+    },
+    {
+      "event": "Death",
+      "summary": "Webern wrapped up his earthly existence by becoming an accidental casualty of the tragic absurdities of life, which is probably not the finale he envisioned for his avant-garde symphony.",
+      "year": 1945,
+      "city": "Mittersill",
+      "country": "Austria"
+    },
+    {
+      "event": "Studying with Schoenberg",
+      "summary": "Webern decided to hit the books with the master himself, Arnold Schoenberg. This was like being trained by the coolest superhero in the music world\u2014talk about a major upgrade in mentoring!",
+      "year": 1904,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Emerging Composer",
+      "summary": "Webern made waves as a rising composer in early 20th-century Europe. His reputation grew, which is like gaining followers on social media\u2014but in the music world, that meant people actually listened to his avant-garde ideas!",
+      "year": 1920,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "World War I",
+      "summary": "Webern found himself swept into the chaos of World War I. Not exactly what you\u2019d call an ideal time for composing, unless you enjoy writing about trench warfare as a metaphor for dissonance!",
+      "year": 1914,
+      "city": "Europe",
+      "country": "Various"
+    },
+    {
+      "event": "Prominent in Second Viennese School",
+      "summary": "Webern emerged as a key figure in the Second Viennese School, which sounds fancy until you realize it was a group of musicians kind of like a 'musical fight club'\u2014no rules, just breathtaking creativity!",
+      "year": 1920,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "First Opus",
+      "summary": "He composed his first work, which was like the opening chapter of an epic novel, full of promise and brimming with youthful enthusiasm, but probably didn't get published immediately because, you know, it's hard to get noticed when everyone else is also trying to be the next Mozart.",
+      "year": 1912,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Major Composition",
+      "summary": "He delivered what he considered a masterpiece, which was heralded by some and misunderstood by many, creating a delightful mix of accolades and bewilderment in the audience.",
+      "year": 1927,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "International Recognition",
+      "summary": "He finally gained some international fame, probably after realizing that being the best-kept secret wasn't as glamorous as it sounded, and therefore decided to break out of his shell.",
+      "year": 1933,
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    {
+      "event": "Emigration",
+      "summary": "In an act of self-preservation and artistic survival, he emigrated to escape the crazy political situation, possibly hoping that the music scene in his new location would be better equipped for a genius of his caliber\u2014less antisemitism, more symphonies!",
+      "year": 1938,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Final Composition",
+      "summary": "He crafted his last composition, which was both a sweet farewell and an incredibly complex piece that left music scholars scratching their heads and wondering why he couldn\u2019t just throw in a catchy tune instead.",
+      "year": 1945,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Major Work Debut",
+      "summary": "Unveiled a significant work that had critics scratching their heads and audience members wondering if they'd just attended a comedy act instead of a concert.",
+      "year": 1909,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "New Musical Style",
+      "summary": "Decided to throw out the rulebook and created a new style, which left traditionalists in shock and younger musicians cheering louder than a football crowd after a last-minute goal.",
+      "year": 1910,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Establishment of New Schools",
+      "summary": "Opened a few new schools where he served not just as a teacher but as a 'musical life coach,' helping students find their avant-garde path amidst the cacophony.",
+      "year": 1941,
+      "city": "Los Angeles",
+      "country": "USA"
+    },
+    {
+      "event": "Retirement Announcement",
+      "summary": "Surprised everyone by announcing his retirement, probably while sipping a fancy cocktail and reflecting on his euphoric career filled with abstract melodies and a lot of confusion.",
+      "year": 1944,
+      "city": "Los Angeles",
+      "country": "USA"
+    },
+    {
+      "event": "First Published Work",
+      "summary": "Webern decided it was time to unleash his creativity upon the world, publishing his first work and prompting critics to question whether music should be this avant-garde.",
+      "year": 1910,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Studied with Schoenberg",
+      "summary": "Webern decided that studying with Arnold Schoenberg was the best way to learn the intricacies of atonality and ended up making interesting friends, including the weirdest teacher anyone could ask for.",
+      "year": 1904,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "First Major Composition",
+      "summary": "In an impressive display of skill and emotional depth, Webern completed his first major composition, 'Five Pieces for Orchestra', causing his contemporaries to either weep with joy or scratch their heads in confusion.",
+      "year": 1913,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Publication of 'Six Bagatelles'",
+      "summary": "'Six Bagatelles' hit the shelves, leaving musicians wondering if Webern had accidentally left part of his grocery list in the final scores instead of a musical masterpiece.",
+      "year": 1913,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Becoming Prominent in the Avant-Garde",
+      "summary": "Webern became known as one of the big guns of the avant-garde movement, which, of course, meant that dinner parties became a bit awkward with all that 'new music' talk.",
+      "year": 1920,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Completion of 'Concerto for Nine Instruments'",
+      "summary": "Webern completed his 'Concerto for Nine Instruments', and it became a regular topic of discussion, with people trying to figure out why he didn't just go for ten.",
+      "year": 1934,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Study with Schoenberg",
+      "summary": "Webern decided to take music lessons with Arnold Schoenberg, leading to some of the most transformative musical ideas ever. It was like going to a fun cooking class but instead of whipping up souffl\u00e9s, they cooked up some serious avant-garde sounds!",
+      "year": 1904,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "First Public Performance",
+      "summary": "The big day arrived when one of Webern's compositions was performed publicly. It was the moment when his music took its first wobbly steps onto the stage, probably tripping over its own avant-garde shoelaces!",
+      "year": 1910,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Debut with Vienna Secession",
+      "summary": "Webern made his grand entrance with the Vienna Secession, showcasing his distinct style. Imagine a fashion show, but instead of models, there were musical notes strutting their stuff on stage!",
+      "year": 1913,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Post-War Musical Development",
+      "summary": "After the war, Webern experienced an explosion of creativity, rethinking music as if it were a Rubik's Cube, twisting and turning it into something innovatively complex. The musical world had no idea what was coming next!",
+      "year": 1919,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Studied with Arnold Schoenberg",
+      "summary": "Webern took a dive into the deep end of modern music by studying with Arnold Schoenberg in 1904. It was like joining an avant-garde book club, but for composers who enjoy dissonance and hair-pulling academic debates!",
+      "year": 1904,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "First Publication",
+      "summary": "In 1910, Webern's piece 'Four Songs for Voice and Piano' was published. Talk about a debut! Suddenly, his music was out there, mingling at parties and showing off its unique style\u2014much to the confusion of traditionalists.",
+      "year": 1910,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Restarting Composition",
+      "summary": "After the war in 1918, Webern returned to composing with a vengeance, as if he'd missed the chance to show off his latest tricks. This era saw the creation of some of his most perplexing works. The critics were both baffled and amazed, which I assume are two of the best responses a composer can get.",
+      "year": 1918,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Langsamer Satz Composition",
+      "summary": "Webern composed his romantic piece 'Langsamer Satz', proving that even avant-garde composers have a soft spot for lush strings and lingering melodies. It\u2019s like he was saying, 'I can do pretty too!'",
+      "year": 1905,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Symphony Composition",
+      "summary": "Webern embarked on his 'Symphony, Op. 21', a piece so meticulously crafted that it would make a perfectionist weep with joy. It\u2019s like he said, 'Why use more notes when fewer will do?'",
+      "year": 1927,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Concerto for Nine Instruments",
+      "summary": "He worked on his 'Concerto for Nine Instruments, Op. 24', embracing chamber music like a hipster embracing small batch coffee \u2013 exclusive but somehow still cost-effective.",
+      "year": 1934,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Variations for Piano Composition",
+      "summary": "Webern's 'Variations, Op. 27' emerged as he experimented with new ideas, probably thinking to himself, 'If I can\u2019t have my cake, I\u2019ll just write variations on it instead!'",
+      "year": 1936,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "String Quartet Composition",
+      "summary": "He completed 'String Quartet, Op. 28', which showcased his unique style and deepened his obsession with the number four \u2013 perhaps he liked it better than a dozen.",
+      "year": 1938,
+      "city": "Vienna",
+      "country": "Austria"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/Das_Augenlicht,_Op.26_(Webern,_Anton)",
+      "year": 1935,
+      "title": "Das Augenlicht, Op.26"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Bagatellen,_Op.9_(Webern,_Anton)",
+      "year": 1910,
+      "title": "6 Bagatellen, Op.9"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_Canons,_Op.16_(Webern,_Anton)",
+      "year": 1923,
+      "title": "5 Canons, Op.16"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata_(Webern,_Anton)",
+      "year": 1914,
+      "title": "Cello Sonata"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto,_Op.24_(Webern,_Anton)",
+      "year": 1934,
+      "title": "Concerto, Op.24"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Entflieht_auf_leichten_K%C3%A4hnen,_Op.2_(Webern,_Anton)",
+      "year": 1908,
+      "title": "Entflieht auf leichten K\u00e4hnen, Op.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/8_Fr%C3%BChe_Lieder_(Webern,_Anton)",
+      "year": 1901,
+      "title": "8 Fr\u00fche Lieder"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_Geistliche_Lieder,_Op.15_(Webern,_Anton)",
+      "year": 1917,
+      "title": "5 Geistliche Lieder, Op.15"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Geistlicher_Volkstext_(Webern,_Anton)",
+      "year": 1930,
+      "title": "Geistlicher Volkstext"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Ges%C3%A4nge_aus_%27Viae_inviae%27,_Op.23_(Webern,_Anton)",
+      "year": 1933,
+      "title": "3 Ges\u00e4nge aus 'Viae inviae', Op.23"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Im_Sommerwind_(Webern,_Anton)",
+      "year": 1904,
+      "title": "Im Sommerwind"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Kantate_I,_Op.29_(Webern,_Anton)",
+      "year": 1938,
+      "title": "Kantate I, Op.29"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Kantate_II,_Op.31_(Webern,_Anton)",
+      "year": 1941,
+      "title": "Kantate II, Op.31"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Kinderst%C3%BCck_(Webern,_Anton)",
+      "year": 1924,
+      "title": "Kinderst\u00fcck"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Klavierst%C3%BCck_(Webern,_Anton)",
+      "year": 1925,
+      "title": "Klavierst\u00fcck"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Kleine_St%C3%BCcke,_Op.11_(Webern,_Anton)",
+      "year": 1914,
+      "title": "3 Kleine St\u00fccke, Op.11"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Langsamer_Satz_(Webern,_Anton)",
+      "year": 1905,
+      "title": "Langsamer Satz"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_Lieder_aus_Der_siebente_Ring,_Op.3_(Webern,_Anton)",
+      "year": 1908,
+      "title": "5 Lieder aus Der siebente Ring, Op.3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Lieder_for_Voice_and_Orchestra_(Webern,_Anton)",
+      "year": 1913,
+      "title": "3 Lieder for Voice and Orchestra"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Lieder_f%C3%BCr_Sopran_und_Kammerorchester,_Op.13_(Webern,_Anton)",
+      "year": 1914,
+      "title": "4 Lieder f\u00fcr Sopran und Kammerorchester, Op.13"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Lieder_f%C3%BCr_Sopran,_Klarinette_und_Gitarre,_Op.18_(Webern,_Anton)",
+      "year": 1925,
+      "title": "3 Lieder f\u00fcr Sopran, Klarinette und Gitarre, Op.18"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Lieder_nach_Gedichten_von_Georg_Trakl,_Op.14_(Webern,_Anton)",
+      "year": 1917,
+      "title": "6 Lieder nach Gedichten von Georg Trakl, Op.14"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Lieder_nach_Gedichten_von_Hildegard_Jone,_Op.25_(Webern,_Anton)",
+      "year": 1934,
+      "title": "3 Lieder nach Gedichten von Hildegard Jone, Op.25"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Lieder_nach_Gedichten_von_Rainer_Maria_Rilke,_Op.8_(Webern,_Anton)",
+      "year": 1910,
+      "title": "2 Lieder nach Gedichten von Rainer Maria Rilke, Op.8"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_Lieder_nach_Gedichten_von_Stefan_George,_Op.4_(Webern,_Anton)",
+      "year": 1908,
+      "title": "5 Lieder nach Gedichten von Stefan George, Op.4"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Lieder,_Op.12_(Webern,_Anton)",
+      "year": 1915,
+      "title": "4 Lieder, Op.12"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Lieder,_Op.19_(Webern,_Anton)",
+      "year": 1925,
+      "title": "2 Lieder, Op.19"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_Movements,_Op.5_(Webern,_Anton)",
+      "year": 1909,
+      "title": "5 Movements, Op.5"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Passacaglia,_Op.1_(Webern,_Anton)",
+      "year": 1922,
+      "title": "Passacaglia, Op.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Quintet_(Webern,_Anton)",
+      "year": 1907,
+      "title": "Piano Quintet"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Pieces_for_Cello_and_Piano_(Webern,_Anton)",
+      "year": 1899,
+      "title": "2 Pieces for Cello and Piano"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Pieces_for_Large_Orchestra,_Op.6_(Webern,_Anton)",
+      "year": 1909,
+      "title": "6 Pieces for Large Orchestra, Op.6"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_Pieces_for_Orchestra,_Op.10_(Webern,_Anton)",
+      "year": 1913,
+      "title": "5 Pieces for Orchestra, Op.10"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Pieces_for_Violin_and_Piano,_Op.7_(Webern,_Anton)",
+      "year": 1910,
+      "title": "4 Pieces for Violin and Piano, Op.7"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Quartet,_Op.22_(Webern,_Anton)",
+      "year": 1928,
+      "title": "Quartet, Op.22"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Satz_for_String_Trio_(Webern,_Anton)",
+      "year": 1925,
+      "title": "Satz for String Trio"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet,_Op.28_(Webern,_Anton)",
+      "year": 1936,
+      "title": "String Quartet, Op.28"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_(Webern,_Anton)",
+      "year": 1905,
+      "title": "String Quartet"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Trio,_Op.20_(Webern,_Anton)",
+      "year": 1926,
+      "title": "String Trio, Op.20"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony,_Op.21_(Webern,_Anton)",
+      "year": 1928,
+      "title": "Symphony, Op.21"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Variations_for_Piano,_Op.27_(Webern,_Anton)",
+      "year": 1935,
+      "title": "Variations for Piano, Op.27"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Variations,_Op.30_(Webern,_Anton)",
+      "year": 1940,
+      "title": "Variations, Op.30"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Volkstexte,_Op.17_(Webern,_Anton)",
+      "year": 1924,
+      "title": "3 Volkstexte, Op.17"
+    }
+  ]
+}

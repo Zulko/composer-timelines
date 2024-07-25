@@ -1,0 +1,610 @@
+{
+  "full_name": "Gustav Holst",
+  "first_names": "Gustav",
+  "last_name": "Holst",
+  "birth_year": 1874,
+  "death_year": 1934,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gustav_Holst",
+  "events": [
+    {
+      "event": "Transformation to Composer",
+      "summary": "Holst decided to abandon orchestral playing and focus solely on composition. He must have thought, 'Why play someone else\u2019s music when I could create my own masterpiece, even if it means I\u2019ll be living on toast and tea?'",
+      "year": 1903,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Teaching at James Allen's Girls' School",
+      "summary": "Holst accepted a teaching position at James Allen's Girls' School and reportedly turned the place into a hotbed of musical genius\u2014goodbye, childish sentimentality; hello, Bach and Vittoria!",
+      "year": 1905,
+      "city": "Dulwich",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Marriage to Isobel",
+      "summary": "Holst married Isobel at Fulham Register Office, which must have given the local paperwork staff a giggle seeing a composer not quite ready to be a starving artist!",
+      "year": 1901,
+      "city": "Fulham",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Premiere of The Cotswolds",
+      "summary": "Holst\u2019s symphony, The Cotswolds, had its premiere, because what better way to remember William Morris than with a musical love letter that raised a few eyebrows and possibly a few tambourines?",
+      "year": 1902,
+      "city": "Bournemouth",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "First Performance of The Fairy-Queen",
+      "summary": "Deftly resurrecting Purcell'sThe Fairy-Queen after centuries of silence, Holst's Morley College students had to give the first performance ever since the 17th century\u2014talk about the ultimate musical time machine!",
+      "year": 1911,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Discovery of Astrology",
+      "summary": "During a holiday in Spain, Holst got introduced to astrology, which led him to delight in casting horoscopes and pondering if his musical destiny was written in the stars or just poorly described in a fortune cookie.",
+      "year": 1912,
+      "city": "Spain",
+      "country": "Spain"
+    },
+    {
+      "event": "Composition of St Paul's Suite",
+      "summary": "In celebration of a new music wing at St Paul's Girls' School, he composed St Paul's Suite, marking a turning point in the school\u2019s musical legacy, much like giving them a backstage pass to the world of classical music!",
+      "year": 1913,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Annual Music Festival at Thaxted",
+      "summary": "Holst started an annual music festival at Whitsuntide in Thaxted, proving once more that music and community can create a delightful mashup that\u2019s way tastier than meat and potatoes.",
+      "year": 1916,
+      "city": "Thaxted",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Whitsun Festival Carol Premiere",
+      "summary": "The first performance of Holst's a cappella carol, 'This Have I Done for My True Love', took place during the Third Whitsun Festival, making sure everyone knew his carol wasn\u2019t just another holiday jingle.",
+      "year": 1918,
+      "city": "Thaxted",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Rejection from Military Service",
+      "summary": "When the First World War broke out, Holst tried to enlist but was rejected, a fate he surely lamented while wondering how to serve up musical contributions instead of military flamboyance.",
+      "year": 1914,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Changed surname",
+      "summary": "In a dramatic quest for acceptance, Holst decided to drop the 'von' from his name because the YMCA thought it sounded too German. Such an identity crisis leads one to wonder if he had contemplated changing it to 'Holst-ine'!",
+      "year": 1918,
+      "city": "Salonica",
+      "country": "Greece"
+    },
+    {
+      "event": "Premiere of Savitri",
+      "summary": "Holst's chamber opera Savitri debuted like a shy turtle peeking out of its shell, with students from the London School of Opera performing it. It went unnoticed at first but was later hailed a 'perfect little masterpiece'\u2014like finding a diamond in the laundry!",
+      "year": 1916,
+      "city": "St John's Wood",
+      "country": "England"
+    },
+    {
+      "event": "Conducted The Planets",
+      "summary": "Holst got quite the send-off before heading to Salonica; he conducted The Planets with a full orchestra at the Queen's Hall, organized by his friend. Imagine being treated like a rock star, if your instrument were a baton instead of a guitar!",
+      "year": 1918,
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "event": "Introduction of The Planets to the public",
+      "summary": "While Holst was enjoying sunny Greece, his suite, The Planets, made its public debut in London. Unfortunately, the conductor thought the audience could only handle half of it, turning it into a rather early version of 'The Planets: The Highlight Reel'",
+      "year": 1919,
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "event": "Premiere of The Hymn of Jesus",
+      "summary": "This piece took its sweet time to get performed, remaining hidden in the composer's vault until long after the war. When it finally made its debut, it was appreciated like a forgotten pie that turns out to be absolutely delicious!",
+      "year": 1920,
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "event": "Premiere of The Perfect Fool",
+      "summary": "Holst\u2019s comic opera, often thought to poke fun at Parsifal, premiered to applause. What better way to prove he had a sense of humor than to have Maggie Teyte star in it! This was Holst\u2019s own version of taking the 'fool' out of 'foolishness'!",
+      "year": 1923,
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "event": "Commissioned to write Egdon Heath",
+      "summary": "In a twist of fate, Holst was commissioned for a symphony and instead delivered Egdon Heath, an orchestral piece inspired by Thomas Hardy. It was first performed to less-than-stellar reviews, proving that even the best composers cannot escape the critics' wrath!",
+      "year": 1928,
+      "city": "New York",
+      "country": "United States"
+    },
+    {
+      "event": "Health decline and retreat",
+      "summary": "Feeling overwhelmed by demands after his US tour, Holst canceled professional engagements and retreated to Thaxted. The classic tale of a composer needing a break from the limelight\u2014talk about needing a vacation from your own fame!",
+      "year": 1924,
+      "city": "Thaxted",
+      "country": "England"
+    },
+    {
+      "event": "Harvard lectureship",
+      "summary": "Arriving at Harvard, Holst got more than he bargained for with constant press attention, leading him to wonder if he should have just stuck with composing music for the classroom instead of a spotlight. Fame is a fickle friend!",
+      "year": 1932,
+      "city": "Cambridge",
+      "country": "United States"
+    },
+    {
+      "event": "Final composition Brook Green Suite",
+      "summary": "Guiding students through the Brook Green Suite was one of Holst's last projects; it was a bittersweet symphony reminiscent of passing the torch. It\u2019s like the final scene of a movie where the teacher realizes their legacy is in good hands\u2014but with music instead of a screenplay!",
+      "year": 1934,
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "event": "The Mystic Trumpeter",
+      "summary": "Holst discovered his genuine voice while composing this work, where he sneakily introduced trumpet calls that later became iconic for Mars in The Planets. It's like he was practicing for the big leagues all along!",
+      "year": 1904,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Opera Sita",
+      "summary": "Holst's long quest to fuse Indian mythology and Western influences led him to create the opera Sita, proving that creativity takes time, and also a bit of patience with his own writing!",
+      "year": 1901,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Publication of Rig Veda Hymns",
+      "summary": "A landmark moment where Holst decided to embrace sacred texts, transforming his musical clarity into something much more distinctive\u2014talk about a glow-up moment in the music world!",
+      "year": 1911,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Composing The Planets",
+      "summary": "Holst dived into The Planets, blending his quirky astrology hobby with music, resulting in distinct movements that captured the essence of celestial bodies\u2014who knew planets had such personalities?",
+      "year": 1914,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Completion of The Hymn of Jesus",
+      "summary": "With this work, Holst bid adieu to typical Victorian oratorios, waving goodbye with a piece that intertwined choruses and innovative dialogue\u2014it's like he tossed a musical curveball to the past!",
+      "year": 1917,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Egdon Heath",
+      "summary": "In this work, Holst returned to the orchestral scene after The Planets like a magician revealing a new trick, full of unpredictable melodies and intriguing brass, leaving audiences spellbound once again!",
+      "year": 1927,
+      "city": "",
+      "country": ""
+    },
+    {
+      "event": "Composed A Moorside Suite",
+      "summary": "In a delightful twist, Holst penned A Moorside Suite for brass band, not as a mere trifle but as a showcase for the National Brass Band Festival championships. It was a hit, showing off his signature skipping rhythms and, surprisingly, a touch of his own musical fingerprint all over the traditional brass sound.",
+      "year": 1928,
+      "city": "Unknown",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Final opera attempt with The Wandering Scholar",
+      "summary": "In a cheery effort, Holst composed The Wandering Scholar, where he threw in playful rhythms and motifs that kept reappearing. Vaughan Williams cheekily asked if Holst had perhaps overdosed on 6/8 time, but really, who could resist his light-hearted charm?",
+      "year": 1930,
+      "city": "Unknown",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Composed Choral Fantasia",
+      "summary": "Holst graced the Three Choirs Festival at Gloucester with his Choral Fantasia, which made everyone feel a mix of colossal loneliness and joy \u2013 quite a balancing act for a festival piece, and it featured a soprano soloist who might have been auditioning for a diva role!",
+      "year": 1930,
+      "city": "Gloucester",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Authored remaining small works",
+      "summary": "As time ticked on, Holst decided to keep things intimate, crafting small-scale compositions for his beloved students. He penned Canons that were marked as tough as a riddle in a crossword puzzle and a Brook Green Suite that was just large enough for a good old-fashioned school performance.",
+      "year": 1932,
+      "city": "Unknown",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Final composition of orchestral scherzo",
+      "summary": "Before bidding adieu, Holst whipped up a final orchestral scherzo movement, summing up his orchestral essence. It was like a musical wrap-up party where he threw together his favorite themes, hoping they would blend like a fine cocktail!",
+      "year": 1934,
+      "city": "Unknown",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Conducted recordings of own music",
+      "summary": "In a burst of enthusiasm, Holst traded his baton for a microphone to conduct his own works, including the beloved Planets. This was his attempt to ensure future generations would hear what he had to offer, even if it meant convincing a tuba to fill in for the string bass!",
+      "year": 1922,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Birth",
+      "summary": "Gustav Holst decided to grace the world with his presence, kicking off a love affair with music that would confuse and delight many for decades to come.",
+      "year": 1874,
+      "city": "Cheltenham",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "First Public Performance",
+      "summary": "Holst made his debut as a composer, and you could say it was music to everyone's ears\u2014provided they had good taste, of course.",
+      "year": 1893,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Introduction of 'The Planets'",
+      "summary": "When Holst unveiled his orchestral suite, it was so out of this world that even aliens might have felt a bit envious.",
+      "year": 1918,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "First Performance of 'S\u0101vitri'",
+      "summary": "Holst's opera was a fairy tale of sorts, although the fairies were somewhat less sparkly than you'd expect.",
+      "year": 1916,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Adapting for Military",
+      "summary": "During a particularly musical wartime, Holst took it upon himself to whip up a few pieces for military bands, tossing in a dose of patriotism and a sprinkle of 'let's not take ourselves too seriously'.",
+      "year": 1914,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Retirement from Teaching",
+      "summary": "After years of inspiring students, Holst decided that it was time for him to be the student of life instead\u2014no reports, no grades, just music.",
+      "year": 1933,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Death",
+      "summary": "Holst passed away, leaving behind a legacy as big as the universe he once so delightfully orchestrated, proving that while life may be fleeting, good music truly lasts forever.",
+      "year": 1934,
+      "city": "London",
+      "country": "United Kingdom"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/Ave_Maria,_Op.9b_(Holst,_Gustav)",
+      "year": 1900,
+      "title": "Ave Maria, Op.9b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Beni_Mora,_Op.29_No.1_(Holst,_Gustav)",
+      "year": 1909,
+      "title": "Beni Mora, Op.29 No.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bring_us_in_good_ale,_Op.34_No.4_(Holst,_Gustav)",
+      "year": 1916,
+      "title": "Bring us in good ale, Op.34 No.4"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Brook_Green_Suite,_H.190_(Holst,_Gustav)",
+      "year": 1933,
+      "title": "Brook Green Suite, H.190"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Carols,_H.133_(Holst,_Gustav)",
+      "year": 1916,
+      "title": "3 Carols, H.133"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Choral_Folksongs,_Op.36_(Holst,_Gustav)",
+      "year": 1916,
+      "title": "6 Choral Folksongs, Op.36"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Choral_Hymns_from_the_Rig_Veda,_Op.26_(Holst,_Gustav)",
+      "year": 1908,
+      "title": "Choral Hymns from the Rig Veda, Op.26"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Choral_Symphony,_Op.41_(Holst,_Gustav)",
+      "year": 1923,
+      "title": "Choral Symphony, Op.41"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chrissemas_Day_in_the_Morning,_H.165_(Holst,_Gustav)",
+      "year": 1926,
+      "title": "Chrissemas Day in the Morning, H.165"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Christmas_Day_(Holst,_Gustav)",
+      "year": 1910,
+      "title": "Christmas Day"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Cloud_Messenger,_Op.30_(Holst,_Gustav)",
+      "year": 1912,
+      "title": "The Cloud Messenger, Op.30"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Coming_of_Christ,_H.170_(Holst,_Gustav)",
+      "year": 1928,
+      "title": "The Coming of Christ, H.170"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_2_Violins,_Op.49_(Holst,_Gustav)",
+      "year": 1929,
+      "title": "Concerto for 2 Violins, Op.49"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dirge_and_Hymeneal,_H.124_(Holst,_Gustav)",
+      "year": 1915,
+      "title": "Dirge and Hymeneal, H.124"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/A_Dirge_for_2_Veterans,_H.121_(Holst,_Gustav)",
+      "year": 1914,
+      "title": "A Dirge for 2 Veterans, H.121"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/A_Dream_of_Christmas,_H.139_(Holst,_Gustav)",
+      "year": 1917,
+      "title": "A Dream of Christmas, H.139"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Eastern_Pictures_(Holst,_Gustav)",
+      "year": 1911,
+      "title": "2 Eastern Pictures"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Egdon_Heath,_Op.47_(Holst,_Gustav)",
+      "year": 1927,
+      "title": "Egdon Heath, Op.47"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Festival_Choruses,_Op.36a_(Holst,_Gustav)",
+      "year": 1916,
+      "title": "3 Festival Choruses, Op.36a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Folk_Songs_from_Somerset_(Holst,_Gustav)",
+      "year": 1906,
+      "title": "Folk Songs from Somerset"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/A_Fugal_Concerto,_Op.40_No.2_(Holst,_Gustav)",
+      "year": 1923,
+      "title": "A Fugal Concerto, Op.40 No.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/A_Fugal_Overture,_Op.40_No.1_(Holst,_Gustav)",
+      "year": 1922,
+      "title": "A Fugal Overture, Op.40 No.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Golden_Goose,_Op.45_No.1_(Holst,_Gustav)",
+      "year": 1928,
+      "title": "The Golden Goose, Op.45 No.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Greeting_(Holst,_Gustav)",
+      "year": 1903,
+      "title": "Greeting"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hammersmith,_Op.52_(Holst,_Gustav)",
+      "year": 1930,
+      "title": "Hammersmith, Op.52"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/12_Humbert_Wolfe_Songs,_Op.48_(Holst,_Gustav)",
+      "year": 1929,
+      "title": "12 Humbert Wolfe Songs, Op.48"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Hymn_of_Jesus,_Op.37_(Holst,_Gustav)",
+      "year": 1917,
+      "title": "The Hymn of Jesus, Op.37"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hymn_to_Dionysus,_Op.31_No.2_(Holst,_Gustav)",
+      "year": 1913,
+      "title": "Hymn to Dionysus, Op.31 No.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hymns_from_the_Rig_Veda,_Op.24_(Holst,_Gustav)",
+      "year": 1907,
+      "title": "Hymns from the Rig Veda, Op.24"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/I_vow_to_thee,_my_country,_H.148_(Holst,_Gustav)",
+      "year": 1918,
+      "title": "I vow to thee, my country, H.148"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Idea_(Holst,_Gustav)",
+      "year": 1896,
+      "title": "The Idea"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/In_the_Bleak_Midwinter_(Holst,_Gustav)",
+      "year": 1904,
+      "title": "In the Bleak Midwinter"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Japanese_Suite,_Op.33_(Holst,_Gustav)",
+      "year": 1915,
+      "title": "Japanese Suite, Op.33"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/King_Estmere,_Op.17_(Holst,_Gustav)",
+      "year": 1903,
+      "title": "King Estmere, Op.17"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lullay_My_Liking,_Op.34_No.2_(Holst,_Gustav)",
+      "year": 1916,
+      "title": "Lullay My Liking, Op.34 No.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lyric_Movement,_H.191_(Holst,_Gustav)",
+      "year": 1933,
+      "title": "Lyric Movement, H.191"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/A_Moorside_Suite,_H.173_(Holst,_Gustav)",
+      "year": 1928,
+      "title": "A Moorside Suite, H.173"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Motets,_Op.43_(Holst,_Gustav)",
+      "year": 1924,
+      "title": "2 Motets, Op.43"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ode_to_Death,_Op.38_(Holst,_Gustav)",
+      "year": 1919,
+      "title": "Ode to Death, Op.38"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Of_one_that_is_so_fair_and_bright,_Op.34_No.3_(Holst,_Gustav)",
+      "year": 1916,
+      "title": "Of one that is so fair and bright, Op.34 No.3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Old_English_Carols,_Op.20b_(Holst,_Gustav)",
+      "year": 1908,
+      "title": "4 Old English Carols, Op.20b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/7_Part-songs,_Op.44_(Holst,_Gustav)",
+      "year": 1925,
+      "title": "7 Part-songs, Op.44"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Perfect_Fool,_Op.39_(Holst,_Gustav)",
+      "year": 1918,
+      "title": "The Perfect Fool, Op.39"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Pieces_for_Piano,_H.179_(Holst,_Gustav)",
+      "year": 1930,
+      "title": "2 Pieces for Piano, H.179"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Planets,_Op.32_(Holst,_Gustav)",
+      "year": 1914,
+      "title": "The Planets, Op.32"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Psalms,_H.117_(Holst,_Gustav)",
+      "year": 1912,
+      "title": "2 Psalms, H.117"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Scherzo,_H.192_(Holst,_Gustav)",
+      "year": 1933,
+      "title": "Scherzo, H.192"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Short_Festival_Te_Deum_(Holst,_Gustav)",
+      "year": 1919,
+      "title": "Short Festival Te Deum"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/A_Somerset_Rhapsody,_Op.21_(Holst,_Gustav)",
+      "year": 1906,
+      "title": "A Somerset Rhapsody, Op.21"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Songs_for_Voice_and_Violin,_Op.35_(Holst,_Gustav)",
+      "year": 1916,
+      "title": "4 Songs for Voice and Violin, Op.35"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Songs_from_%27The_Princess%27,_Op.20a_(Holst,_Gustav)",
+      "year": 1905,
+      "title": "Songs from 'The Princess', Op.20a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Songs_without_Words,_Op.22_(Holst,_Gustav)",
+      "year": 1906,
+      "title": "2 Songs without Words, Op.22"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/St._Paul%27s_Suite,_Op.29_No.2_(Holst,_Gustav)",
+      "year": 1912,
+      "title": "St. Paul's Suite, Op.29 No.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Suite_de_Ballet,_Op.10_(Holst,_Gustav)",
+      "year": 1899,
+      "title": "Suite de Ballet, Op.10"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/First_Suite_for_Military_Band,_Op.28_No.1_(Holst,_Gustav)",
+      "year": 1909,
+      "title": "First Suite for Military Band, Op.28 No.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Second_Suite_for_Military_Band,_Op.28_No.2_(Holst,_Gustav)",
+      "year": 1911,
+      "title": "Second Suite for Military Band, Op.28 No.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Swallow_leaves_her_nest,_H.119_(Holst,_Gustav)",
+      "year": 1914,
+      "title": "The Swallow leaves her nest, H.119"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/S%C4%81vitri,_Op.25_(Holst,_Gustav)",
+      "year": 1909,
+      "title": "S\u0101vitri, Op.25"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Terzetto_(Holst,_Gustav)",
+      "year": 1925,
+      "title": "Terzetto"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/This_have_I_done_for_my_true_love,_Op.34_No.1_(Holst,_Gustav)",
+      "year": 1916,
+      "title": "This have I done for my true love, Op.34 No.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Toccata_(Holst,_Gustav)",
+      "year": 1924,
+      "title": "Toccata"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Walt_Whitman_Overture,_Op.7_(Holst,_Gustav)",
+      "year": 1899,
+      "title": "Walt Whitman Overture, Op.7"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/12_Welsh_Folk_Songs_(Holst,_Gustav)",
+      "year": 1930,
+      "title": "12 Welsh Folk Songs"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Carols_(Holst,_Gustav)",
+      "year": 1916,
+      "title": "2 Carols"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Masters_in_this_Hall_(Holst,_Gustav)",
+      "year": 1916,
+      "title": "Masters in this Hall"
+    }
+  ]
+}

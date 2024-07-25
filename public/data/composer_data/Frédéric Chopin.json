@@ -1,0 +1,961 @@
+{
+  "full_name": "Fr\u00e9d\u00e9ric Chopin",
+  "first_names": "Fr\u00e9d\u00e9ric",
+  "last_name": "Chopin",
+  "birth_year": 1810,
+  "death_year": 1849,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Fr\u00e9d\u00e9ric_Chopin",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Chopin was born in \u017belazowa Wola, a picturesque town near Warsaw, into a family that thought French was the way to go, despite living among Polish folk. His wooden cradle was less a symbol of comfort and more a stage for an early musical legend to play in, not to mention that this little 'frycek' would soon be ticking all the boxes on the child prodigy checklist.",
+      "year": 1810,
+      "city": "\u017belazowa Wola",
+      "country": "Poland"
+    },
+    {
+      "event": "First Concert",
+      "summary": "By age seven, Chopin was not just playing piano but also impressing everyone with public performances. It must have been quite shocking\u2014and quite adorable\u2014to see this tiny figure give concerts while probably still needing a booster seat!",
+      "year": 1817,
+      "city": "Warsaw",
+      "country": "Poland"
+    },
+    {
+      "event": "Debut in Vienna",
+      "summary": "Chopin finally broke out of Warsaw's cozy salons and made his debut in Vienna, where he not only played but also charmed critics who were decidedly confused about how someone so delicate could make such beautiful music. It was a real 'piano's about to explode with talent' moment!",
+      "year": 1830,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Move to Paris",
+      "summary": "Chopin took the plunge and made a grand escape to Paris, just escaping the stirrings of political upheaval back home. Upon arrival, he settled into the artistic melting pot, where he would swap romantic stories and music notes with the likes of Liszt and Sand\u2014not a bad networking strategy for a budding composer!",
+      "year": 1831,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Intimate Performances",
+      "summary": "Chopin was a bit shy about public appearances, preferring intimate salon performances. It's like he chose to host epic jam sessions instead of grandiose concerts, saying 'Why deal with the stress of a big audience when I can simply wow a few select friends with my genius?' Genius with a side of social anxiety!",
+      "year": 1832,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Relationship with George Sand",
+      "summary": "Chopin and writer George Sand started a famously tumultuous relationship that had all the drama of a soap opera\u2014the kind where artistic genius and romantic chaos collide. Their escapades were almost as storied as his compositions, resulting in plenty of music inspired by love and existential crises!",
+      "year": 1837,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Time in Majorca",
+      "summary": "Amidst a flurry of romantic angst, Chopin decided a trip to Mallorca would inspire some creative juices. What he didn't expect was that the scenery would be stunning but the accommodations, shall we say, rustic. Still, he managed to compose a chunk of his greatest works amidst sunburn and humidity!",
+      "year": 1838,
+      "city": "Mallorca",
+      "country": "Spain"
+    },
+    {
+      "event": "Final Years",
+      "summary": "In his final years, despite deteriorating health that would put a damper on anyone's plans, Chopin continued to compose and distinguish himself in the Parisian music scene. He was like the ultimate 'music-cave hermit,' crafting masterpieces while attempting to remember what fresh air smelled like!",
+      "year": 1840,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Death",
+      "summary": "Chopin passed away at the relatively young age of 39 in Paris, leaving behind a treasure trove of music that continues to be celebrated. Many speculate that if he had lived longer, he might have crafted even more emotional piano pieces, potentially resulting in a 21st-century piano bar filled with Chopin hits!",
+      "year": 1849,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Departure from Warsaw",
+      "summary": "Chopin left Warsaw with dreams and a vague sense of adventure, only to find himself in Vienna, lamenting his homeland but ready to embrace the music scene. He jokingly remarked that he cursed the moment he departed like a melodramatic hero in a romantic opera.",
+      "year": 1830,
+      "city": "Warsaw",
+      "country": "Poland"
+    },
+    {
+      "event": "Arrival in Paris",
+      "summary": "Chopin arrived in Paris, aiming for Italy, but that plan went south faster than a poorly written sonata. Instead, he became part of the Polish diaspora, revealing just how tragic it is to be a musician craving pasta in a land torn by unrest.",
+      "year": 1831,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Major Endorsement",
+      "summary": "Chopin got a nod of approval from Robert Schumann, who declared him a genius in a review. It was like receiving a star on the Hollywood Walk of Fame, except it was written in German and definitely involved fewer paparazzi.",
+      "year": 1831,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Debut Concert in Paris",
+      "summary": "Chopin\u2019s first concert in Paris was like a Mozart opera\u2014filled with admiration and a touch of drama. The critics were over the moon, claiming he was finding 'an abundance of original ideas,' all while he probably just wanted to play some intimate tunes for a few friends.",
+      "year": 1832,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Meeting with Mendelssohn",
+      "summary": "At the Lower Rhenish Music Festival, Chopin met Mendelssohn, leading to a day filled with music, laughter, and perhaps too many cups of coffee for the Polish composer. It was like an inspirational TV episode where musicians unite over a grand piano!",
+      "year": 1834,
+      "city": "Aix-la-Chapelle",
+      "country": "Germany"
+    },
+    {
+      "event": "Proposal to Maria Wodzi\u0144ska",
+      "summary": "Chopin proposed to Maria Wodzi\u0144ska, sealing the deal with romantic undertones as sweet as his nocturnes, but ultimately got a response as lackluster as a badly played scale. It turned out to be a romantic misadventure he couldn't quite shake off.",
+      "year": 1836,
+      "city": "Dresden",
+      "country": "Germany"
+    },
+    {
+      "event": "Formation of a Friendship with Liszt",
+      "summary": "Chopin developed a complicated friendship with Franz Liszt, a mix of collaboration and friendly rivalry, often resembling a musical buddy comedy. The two partied like rock stars but also competed playfully over who could dazzle the audience more with their piano skills.",
+      "year": 1831,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Meeting George Sand",
+      "summary": "At a party, Chopin met George Sand, described as 'not attractive but intriguing.' Their initial exchanges were less romantic comedy and more awkward sitcom, but it surprised everyone when an emotional affair blossomed, proving opposites attract, even in the music world.",
+      "year": 1836,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Koncert w Londynie",
+      "summary": "Chopin w lipcu 1837 roku postanowi\u0142 wyruszy\u0107 do Londynu incognito z producentem fortepian\u00f3w Camille Pleyel. Tam zagra\u0142 na wieczorze muzycznym, co na pewno przynios\u0142o mu ulg\u0119 i chwil\u0119 rado\u015bci po powrocie do Pary\u017ca i rozpocz\u0119ciu burzliwego romansu z Georgem Sandem.",
+      "year": 1837,
+      "city": "Londyn",
+      "country": "Wielka Brytania"
+    },
+    {
+      "event": "Zwi\u0105zek z Georgem Sandem",
+      "summary": "Pocz\u0105tek ekscytuj\u0105cego, ale pe\u0142nego wzlot\u00f3w i upadk\u00f3w zwi\u0105zku Chopina z Georgem Sandem. Ich romans by\u0142 jak dobre wino - czasami kwa\u015bny, ale z pewno\u015bci\u0105 pozostawia\u0142 niezatarte wra\u017cenie.",
+      "year": 1838,
+      "city": "Pary\u017c",
+      "country": "Francja"
+    },
+    {
+      "event": "Zimowanie na Majorce",
+      "summary": "Chopin i Sand sp\u0119dzili mro\u017an\u0105 zim\u0119 na Majorce w nadziei na popraw\u0119 zdrowia Chopina. Jednak przytulne wycofanie w by\u0142ym klasztorze okaza\u0142o si\u0119 by\u0107 bardziej wyzwaniem ni\u017c luksusem, a lokalnej ludno\u015bci trudno by\u0142o pogodzi\u0107 si\u0119 z faktami ich nieformalnego ma\u0142\u017ce\u0144stwa.",
+      "year": 1838,
+      "city": "Valldemossa",
+      "country": "Hiszpania"
+    },
+    {
+      "event": "Skomponowanie Preludi\u00f3w",
+      "summary": "Chocia\u017c Chopin by\u0142a chora jak nigdy przedtem, to wspaniale uda\u0142o mu si\u0119 napisa\u0107 swoje Preludia na ma\u0142ym fortepianie z Palma, co mo\u017cna nazwa\u0107 triumfem muzycznej determinacji.",
+      "year": 1839,
+      "city": "Valldemossa",
+      "country": "Hiszpania"
+    },
+    {
+      "event": "Pobyty w Nohant",
+      "summary": "Chopin sp\u0119dza\u0142 lata letnie w Nohant, tocz\u0105c artystyczne boje z samym sob\u0105, a jego muzyka unosi\u0142a si\u0119 w powietrzu razem z zapachami r\u00f3\u017c i \u015bpiewem s\u0142owik\u00f3w. Kto by pomy\u015bla\u0142, \u017ce pisanie muzyki mo\u017ce by\u0107 tak romantyczne?",
+      "year": 1839,
+      "city": "Nohant",
+      "country": "Francja"
+    },
+    {
+      "event": "Ostatni koncert w Pary\u017cu",
+      "summary": "Chopin da\u0142 sw\u00f3j ostatni koncert w Pary\u017cu, \u0142\u0105cz\u0105c si\u0142y z wiolonczelist\u0105 Augustem Franchomme. Po\u0142\u0105czenie si\u0142 w sztuce by\u0142o dla niego przyjemno\u015bci\u0105, ale czasy by\u0142y trudne, a finansowe k\u0142opoty dawa\u0142y si\u0119 we znaki.",
+      "year": 1848,
+      "city": "Pary\u017c",
+      "country": "Francja"
+    },
+    {
+      "event": "Tournee po Wielkiej Brytanii",
+      "summary": "Chopin wyruszy\u0142 w podr\u00f3\u017c do Wielkiej Brytanii, gdzie gra\u0142 koncerty, spotyka\u0142 si\u0119 z wa\u017cnymi osobisto\u015bciami i zmaga\u0142 si\u0119 z ambicjami swoje szkockiej uczennicy Jane Stirling, kt\u00f3ra chcia\u0142a znacznie wi\u0119cej ni\u017c tylko zwyk\u0142e lekcje muzyki.",
+      "year": 1848,
+      "city": "Londyn",
+      "country": "Wielka Brytania"
+    },
+    {
+      "event": "Ostatnie wyst\u0105pienie publiczne",
+      "summary": "Na swojej ostatniej publicznej wystawie w Londynie Chopin, zm\u0119czony chorob\u0105, gra\u0142 dla polskich uchod\u017ac\u00f3w, ale niestety, to wydarzenie przypomina\u0142o bardziej bal ni\u017c koncert, a jemu brakowa\u0142o si\u0142 na wszelkie ekstrawagancje.",
+      "year": 1848,
+      "city": "Londyn",
+      "country": "Wielka Brytania"
+    },
+    {
+      "event": "Powr\u00f3t do Pary\u017ca",
+      "summary": "Po zako\u0144czonym tournee Chopin wr\u00f3ci\u0142 do Pary\u017ca, gdzie walczy\u0142 z kolejnym zdrowotnym kryzysem i bardziej przypomina\u0142 artyst\u0119 na emeryturze ni\u017c geniusza salon\u00f3w, co z pewno\u015bci\u0105 przynosi\u0142o mu wi\u0119cej smutku ni\u017c rado\u015bci.",
+      "year": 1848,
+      "city": "Pary\u017c",
+      "country": "Francja"
+    },
+    {
+      "event": "\u015amier\u0107",
+      "summary": "Chopin zmar\u0142 w Pary\u017cu, a jego odej\u015bcie ustawione by\u0142o bardziej jako cicha melodia ni\u017c huczna symfonia. To by\u0142 koniec burzliwej, ale przepi\u0119knej podr\u00f3\u017cy przez \u017cycie jednego z najwi\u0119kszych kompozytor\u00f3w!",
+      "year": 1849,
+      "city": "Pary\u017c",
+      "country": "Francja"
+    },
+    {
+      "event": "Funeral",
+      "summary": "Chopin's funeral was a grand spectacle attended by over 3,000 people, many of whom were turned away due to a lack of tickets. The Church of the Madeleine was filled with the sounds of Mozart's Requiem and Chopin's own compositions, proving that not even death could silence his music. His friend Delacroix helped carry the coffin, which only added an artistic touch to an already dramatic event.",
+      "year": 1849,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Piano Technique Development",
+      "summary": "Chopin revolutionized piano technique, emphasizing the importance of finger independence and fluidity. His methods were so unique that many traditional players likely had no idea how he made those sweet sounds!",
+      "year": 1841,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Completion of Piano Sonatas",
+      "summary": "Chopin showcased his artistic genius with the composition of two mature piano sonatas, blending virtuosic elements and profound musical themes. His last movement in Op. 35 was so surprising that it left contemporaries scratching their heads in confusion!",
+      "year": 1839,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Recognition in Paris",
+      "summary": "Upon his arrival in Paris, Chopin was quickly recognized for his talent, attracting the attention of wealthy patrons and publishers. It's a good thing he had his dapper attire to match his evocative music in those soir\u00e9es!",
+      "year": 1831,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Composition of Preludes Inspired by Bach",
+      "summary": "Inspired by Bach's teachings, Chopin created a series of preludes that were so innovative that even he may have scratched his head at their creative possibilities. They ranged from musically sublime to whimsically bizarre!",
+      "year": 1839,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Innovative Harmony Techniques",
+      "summary": "Chopin's harmonic innovations were like candy for the ears\u2014he blended unexpected chords and shifted tonality, leaving listeners both dazzled and hungry for more. Who knew peas and carrots could taste like a symphony?",
+      "year": 1840,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Teaching Philosophy",
+      "summary": "Chopin took teaching very seriously\u2014his criticism was as witty as it was sharp, insisting on precision and beauty in every note his students played. After all, who wants to hear notes stumbling over each other like toddlers in a rush?",
+      "year": 1846,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Public Recitals Rarity",
+      "summary": "Chopin avoided the spotlight of grand public recitals, preferring intimate soir\u00e9es where he could connect with his audience on a deeper level. Basically, he was the original 'come to my private concert' pop star!",
+      "year": 1830,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Public Performance",
+      "summary": "At a tender age, Chopin showcased his prodigious talent in front of an audience that probably gasped at his genius, wondering if he was a musical wizard or just a very precocious child with too much time on his hands.",
+      "year": 1818,
+      "city": "Warsaw",
+      "country": "Poland"
+    },
+    {
+      "event": "Love Affair with George Sand",
+      "summary": "Chopin and George Sand shared a romantic escapade that was the talk of Paris, combining the passion of love with the drama of companionship, all while he composed like a possessed maestro amidst her literary prowess.",
+      "year": 1837,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Health Struggles",
+      "summary": "Chopin faced numerous health challenges that kept disrupting his creative flow, a constant reminder that even musical geniuses are not immune to the woes of everyday life (and perhaps to too many croissants).",
+      "year": 1848,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Final Concert",
+      "summary": "In a performance that was both triumphant and melancholic, Chopin bid farewell to the stage, leaving his listeners spellbound and perhaps a little teary-eyed, wondering if they would ever hear the likes of him again.",
+      "year": 1848,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Paris Move",
+      "summary": "Chopin packed his bags and headed to Paris, where he quickly became the toast of the town. Parisians soon realized that fine wine and fine art go hand in hand, especially when a genius is in the mix!",
+      "year": 1831,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Composition of Ballades",
+      "summary": "Chopin composed his beloved Ballades, pouring his heart and soul onto the piano keys like it was the last call at the bar. Each composition tells a story that could make you weep or dance, depending on your mood!",
+      "year": 1835,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Declining Health",
+      "summary": "Despite his growing fame, health issues began to creep in on Chopin like an uninvited guest. However, he continued composing, proving that even with a few coughs, magic could still be made on the piano!",
+      "year": 1840,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First Composition",
+      "summary": "At the tender age of seven, Chopin composed his first piece, impressing everyone with his genius. Some might say he was just trying to escape piano lessons, but look how that turned out!",
+      "year": 1817,
+      "city": "Warsaw",
+      "country": "Poland"
+    },
+    {
+      "event": "Debut Performance",
+      "summary": "Chopin stunned audiences with his first public performance, probably making his parents wonder if they should consider a career as managers. The applause was deafening!",
+      "year": 1829,
+      "city": "Warsaw",
+      "country": "Poland"
+    },
+    {
+      "event": "First Published Work",
+      "summary": "Chopin\u2019s first published work hit the shelves, proving once and for all that he was not just a pretty face at fancy soir\u00e9es. Retailers had to keep up with the demand!",
+      "year": 1833,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Recognition as a Composer",
+      "summary": "As Chopin\u2019s fame grew, so did his status as a composer. Suddenly, everyone wanted to sip tea while listening to him play. Instant music celebrity, anyone?",
+      "year": 1840,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Health Decline",
+      "summary": "Chopin's health took a turn for the worse, which definitely conflicted with his plans to compose more beautiful music. If only there were an Etude for better health!",
+      "year": 1847,
+      "city": "Paris",
+      "country": "France"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegretto_and_Mazurka_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1835,
+      "title": "Allegretto and Mazurka"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegretto_in_F-sharp_major_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1829,
+      "title": "Allegretto in F-sharp major"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegro_de_concert,_Op.46_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1832,
+      "title": "Allegro de concert, Op.46"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Andante_spianato_et_Grande_polonaise_brillante,_Op.22_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1831,
+      "title": "Andante spianato et Grande polonaise brillante, Op.22"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Andantino,_B.117_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1838,
+      "title": "Andantino, B.117"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ballade_No.1,_Op.23_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1831,
+      "title": "Ballade No.1, Op.23"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ballade_No.2,_Op.38_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1836,
+      "title": "Ballade No.2, Op.38"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ballade_No.3,_Op.47_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1841,
+      "title": "Ballade No.3, Op.47"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ballade_No.4,_Op.52_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1842,
+      "title": "Ballade No.4, Op.52"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Barcarolle,_Op.60_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1845,
+      "title": "Barcarolle, Op.60"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Berceuse,_Op.57_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1843,
+      "title": "Berceuse, Op.57"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bolero,_Op.19_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1833,
+      "title": "Bolero, Op.19"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bourr%C3%A9e_No.1,_B.160b1_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1846,
+      "title": "Bourr\u00e9e No.1, B.160b1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bourr%C3%A9e_No.2,_B.160b2_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1846,
+      "title": "Bourr\u00e9e No.2, B.160b2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Canon_in_F_minor,_B.129a_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1839,
+      "title": "Canon in F minor, B.129a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cantabile_in_B-flat_major,_B.84_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1834,
+      "title": "Cantabile in B-flat major, B.84"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Casta_Diva_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1831,
+      "title": "Casta Diva"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata,_Op.65_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1846,
+      "title": "Cello Sonata, Op.65"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Contredanse_in_G-flat_major,_B.17_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1827,
+      "title": "Contredanse in G-flat major, B.17"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Czary,_B.51_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1829,
+      "title": "Czary, B.51"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Ecossaises,_Op.72_No.3_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1826,
+      "title": "3 Ecossaises, Op.72 No.3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%89tudes,_Op.10_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1829,
+      "title": "\u00c9tudes, Op.10"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/%C3%89tudes,_Op.25_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1832,
+      "title": "\u00c9tudes, Op.25"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantaisie,_Op.49_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1841,
+      "title": "Fantaisie, Op.49"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantaisie-impromptu,_Op.66_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1834,
+      "title": "Fantaisie-impromptu, Op.66"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fugue_in_A_minor,_B.144_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1841,
+      "title": "Fugue in A minor, B.144"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Gallop_marquis_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1846,
+      "title": "Gallop marquis"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Grande_fantaisie_sur_des_airs_polonais,_Op.13_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1828,
+      "title": "Grande fantaisie sur des airs polonais, Op.13"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Grande_valse_brillante,_Op.18_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1833,
+      "title": "Grande valse brillante, Op.18"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hexam%C3%A9ron:_Variation_No.6,_B.113_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1837,
+      "title": "Hexam\u00e9ron: Variation No.6, B.113"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Impromptu_No.1,_Op.29_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1837,
+      "title": "Impromptu No.1, Op.29"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Impromptu_No.2,_Op.36_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1838,
+      "title": "Impromptu No.2, Op.36"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Impromptu_No.3,_Op.51_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1842,
+      "title": "Impromptu No.3, Op.51"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Introduction_et_polonaise_brillante,_Op.3_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1829,
+      "title": "Introduction et polonaise brillante, Op.3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Krakowiak,_Op.14_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1828,
+      "title": "Krakowiak, Op.14"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Largo_in_E-flat_major,_B.109_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1837,
+      "title": "Largo in E-flat major, B.109"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Marche_fun%C3%A8bre,_Op.72_No.2_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1827,
+      "title": "Marche fun\u00e8bre, Op.72 No.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazurka_in_A_minor,_B.134_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1839,
+      "title": "Mazurka in A minor, B.134"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazurka_in_A_minor,_B.140_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1840,
+      "title": "Mazurka in A minor, B.140"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazurka_in_A-flat_major,_B.85_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1834,
+      "title": "Mazurka in A-flat major, B.85"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazurka_in_B-flat_major_%27Wo%C5%82owska%27,_B.73_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1832,
+      "title": "Mazurka in B-flat major 'Wo\u0142owska', B.73"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazurka_in_C_major,_B.82_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1833,
+      "title": "Mazurka in C major, B.82"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazurka_in_D_major,_B.4_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1820,
+      "title": "Mazurka in D major, B.4"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazurka_in_D_major,_B.31_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1829,
+      "title": "Mazurka in D major, B.31"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazurka_in_D_major,_B.71_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1832,
+      "title": "Mazurka in D major, B.71"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazurka_in_F-sharp_major_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1840,
+      "title": "Mazurka in F-sharp major"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Mazurkas,_B.16_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1825,
+      "title": "2 Mazurkas, B.16"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazurkas,_Op.6_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1830,
+      "title": "Mazurkas, Op.6"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazurkas,_Op.7_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1824,
+      "title": "Mazurkas, Op.7"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazurkas,_Op.17_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1831,
+      "title": "Mazurkas, Op.17"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazurkas,_Op.24_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1834,
+      "title": "Mazurkas, Op.24"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazurkas,_Op.30_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1835,
+      "title": "Mazurkas, Op.30"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazurkas,_Op.33_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1837,
+      "title": "Mazurkas, Op.33"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazurkas,_Op.41_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1838,
+      "title": "Mazurkas, Op.41"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazurkas,_Op.50_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1841,
+      "title": "Mazurkas, Op.50"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazurkas,_Op.56_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1843,
+      "title": "Mazurkas, Op.56"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazurkas,_Op.59_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1845,
+      "title": "Mazurkas, Op.59"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazurkas,_Op.63_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1846,
+      "title": "Mazurkas, Op.63"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazurkas,_Op.67_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1830,
+      "title": "Mazurkas, Op.67"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mazurkas,_Op.68_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1826,
+      "title": "Mazurkas, Op.68"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Moderato_in_E_major,_B.151_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1843,
+      "title": "Moderato in E major, B.151"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturne_in_C_minor,_B.108_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1837,
+      "title": "Nocturne in C minor, B.108"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturne_in_C-sharp_minor,_B.49_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1830,
+      "title": "Nocturne in C-sharp minor, B.49"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturne_in_E_minor,_Op.72_No.1_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1826,
+      "title": "Nocturne in E minor, Op.72 No.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturne_oubli%C3%A9e_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1833,
+      "title": "Nocturne oubli\u00e9e"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturnes,_Op.9_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1830,
+      "title": "Nocturnes, Op.9"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturnes,_Op.15_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1830,
+      "title": "Nocturnes, Op.15"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturnes,_Op.27_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1836,
+      "title": "Nocturnes, Op.27"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturnes,_Op.32_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1836,
+      "title": "Nocturnes, Op.32"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturnes,_Op.37_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1837,
+      "title": "Nocturnes, Op.37"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturnes,_Op.48_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1841,
+      "title": "Nocturnes, Op.48"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturnes,_Op.55_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1842,
+      "title": "Nocturnes, Op.55"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nocturnes,_Op.62_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1845,
+      "title": "Nocturnes, Op.62"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Nouvelles_%C3%A9tudes,_B.130_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1839,
+      "title": "3 Nouvelles \u00e9tudes, B.130"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.1,_Op.11_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1830,
+      "title": "Piano Concerto No.1, Op.11"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.2,_Op.21_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1829,
+      "title": "Piano Concerto No.2, Op.21"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.1,_Op.4_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1828,
+      "title": "Piano Sonata No.1, Op.4"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.2,_Op.35_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1837,
+      "title": "Piano Sonata No.2, Op.35"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.3,_Op.58_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1844,
+      "title": "Piano Sonata No.3, Op.58"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio,_Op.8_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1829,
+      "title": "Piano Trio, Op.8"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Polish_Songs,_Op.74_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1829,
+      "title": "Polish Songs, Op.74"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Polonaise_in_A-flat_major,_B.5_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1821,
+      "title": "Polonaise in A-flat major, B.5"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Polonaise_in_A-flat_major,_Op.53_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1842,
+      "title": "Polonaise in A-flat major, Op.53"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Polonaise_in_B-flat_major,_B.3_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1817,
+      "title": "Polonaise in B-flat major, B.3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Polonaise_in_B-flat_minor,_B.13_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1826,
+      "title": "Polonaise in B-flat minor, B.13"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Polonaise_in_F-sharp_minor,_Op.44_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1841,
+      "title": "Polonaise in F-sharp minor, Op.44"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Polonaise_in_G_minor,_B.1_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1817,
+      "title": "Polonaise in G minor, B.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Polonaise_in_G-flat_major,_B.36_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1829,
+      "title": "Polonaise in G-flat major, B.36"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Polonaise_in_G-sharp_minor,_B.6_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1824,
+      "title": "Polonaise in G-sharp minor, B.6"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Polonaise-fantaisie,_Op.61_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1846,
+      "title": "Polonaise-fantaisie, Op.61"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Polonaises,_Op.26_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1835,
+      "title": "Polonaises, Op.26"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Polonaises,_Op.40_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1838,
+      "title": "Polonaises, Op.40"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Polonaises,_Op.71_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1827,
+      "title": "Polonaises, Op.71"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Prelude_in_A-flat_major,_B.86_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1834,
+      "title": "Prelude in A-flat major, B.86"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Prelude_in_C-sharp_minor,_Op.45_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1841,
+      "title": "Prelude in C-sharp minor, Op.45"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Preludes,_Op.28_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1838,
+      "title": "Preludes, Op.28"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/R%C3%AAverie,_B.132_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1840,
+      "title": "R\u00eaverie, B.132"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Rondo_%C3%A0_la_mazur,_Op.5_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1825,
+      "title": "Rondo \u00e0 la mazur, Op.5"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Rondo_in_C_major,_Op.73_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1828,
+      "title": "Rondo in C major, Op.73"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Rondo_in_C_minor,_Op.1_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1825,
+      "title": "Rondo in C minor, Op.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Rondo_in_E-flat_major,_Op.16_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1833,
+      "title": "Rondo in E-flat major, Op.16"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Scherzo_No.1,_Op.20_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1833,
+      "title": "Scherzo No.1, Op.20"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Scherzo_No.2,_Op.31_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1837,
+      "title": "Scherzo No.2, Op.31"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Scherzo_No.3,_Op.39_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1839,
+      "title": "Scherzo No.3, Op.39"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Scherzo_No.4,_Op.54_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1842,
+      "title": "Scherzo No.4, Op.54"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Tarantella,_Op.43_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1841,
+      "title": "Tarantella, Op.43"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Variations_brillantes,_Op.12_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1833,
+      "title": "Variations brillantes, Op.12"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Variations_for_Flute_and_Piano_in_E_major,_B.9_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1829,
+      "title": "Variations for Flute and Piano in E major, B.9"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Variations_in_A_major,_B.37_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1829,
+      "title": "Variations in A major, B.37"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Variations_on_%27L%C3%A0_ci_darem_la_mano%27,_Op.2_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1827,
+      "title": "Variations on 'L\u00e0 ci darem la mano', Op.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Variations_sur_un_air_national_allemand,_B.14_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1826,
+      "title": "Variations sur un air national allemand, B.14"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Variations_sur_un_air_national_de_Moore,_B.12a_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1826,
+      "title": "Variations sur un air national de Moore, B.12a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Waltz_in_A_minor,_B.150_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1843,
+      "title": "Waltz in A minor, B.150"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Waltz_in_A-flat_major,_B.21_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1827,
+      "title": "Waltz in A-flat major, B.21"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Waltz_in_A-flat_major,_Op.42_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1840,
+      "title": "Waltz in A-flat major, Op.42"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Waltz_in_E_major,_B.44_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1829,
+      "title": "Waltz in E major, B.44"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Waltz_in_E_minor,_B.56_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1830,
+      "title": "Waltz in E minor, B.56"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Waltz_in_E-flat_major,_B.46_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1829,
+      "title": "Waltz in E-flat major, B.46"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Waltz_in_E-flat_major,_B.133_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1840,
+      "title": "Waltz in E-flat major, B.133"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Waltzes,_Op.34_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1835,
+      "title": "Waltzes, Op.34"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Waltzes,_Op.64_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1846,
+      "title": "Waltzes, Op.64"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Waltzes,_Op.69_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1835,
+      "title": "Waltzes, Op.69"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Waltzes,_Op.70_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1832,
+      "title": "Waltzes, Op.70"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Grand_duo_concertant_sur_des_th%C3%A8mes_de_Robert_le_diable,_B.70_(Chopin,_Fr%C3%A9d%C3%A9ric)",
+      "year": 1832,
+      "title": "Grand duo concertant sur des th\u00e8mes de Robert le diable, B.70"
+    }
+  ]
+}

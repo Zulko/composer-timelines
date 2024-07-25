@@ -1,0 +1,89 @@
+{
+  "full_name": "V\u00edt\u011bzslava Kapr\u00e1lov\u00e1",
+  "first_names": "V\u00edt\u011bzslava",
+  "last_name": "Kapr\u00e1lov\u00e1",
+  "birth_year": 1915,
+  "death_year": 1940,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/V\u00edt\u011bzslava_Kapr\u00e1lov\u00e1",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Kapr\u00e1lov\u00e1 was born in Brno to a musical family, which only makes sense since she was destined to compose like a boss. Being the daughter of a composer and a singer, musical traits practically dripped from her cradle.",
+      "year": 1915,
+      "city": "Brno",
+      "country": "Czech Republic"
+    },
+    {
+      "event": "Musical Education",
+      "summary": "From the age of 15, she embarked on a quest for knowledge in music, studying composition and conducting. Little did she know these years would be vital, setting the stage for her future as a musical sorceress.",
+      "year": 1930,
+      "city": "Brno",
+      "country": "Czech Republic"
+    },
+    {
+      "event": "Czech Philharmonic Conducting Debut",
+      "summary": "In a moment that screamed 'Look at me, I'm fabulous!', she conducted the Czech Philharmonic, showcasing her composition 'Military Sinfonietta'. You can almost hear the orchestra saying, 'Finally, a conductor with class!'",
+      "year": 1937,
+      "city": "Prague",
+      "country": "Czech Republic"
+    },
+    {
+      "event": "BBC Orchestra Conducting",
+      "summary": "The very next year she took her talents to the BBC Orchestra, further solidifying her status as the most sought-after musician in her social circle \u2013 the 'cool kid' of classical music, if you will.",
+      "year": 1938,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Marriage",
+      "summary": "As a cherry on top, she tied the knot with Czech writer Ji\u0159\u00ed Mucha just two months before her untimely departure from this world. Talk about a whirlwind romance, though it was unfortunately short-lived!",
+      "year": 1940,
+      "city": "Montpellier",
+      "country": "France"
+    },
+    {
+      "event": "Death",
+      "summary": "Kapr\u00e1lov\u00e1 passed away at the tender age of 25, possibly from typhoid fever. It's a classic plot twist in her story that her promising career ended before it could peak, leaving audiences wanting more.",
+      "year": 1940,
+      "city": "Montpellier",
+      "country": "France"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Choruses_for_Women%27s_Voices,_Op.17_(Kapr%C3%A1lov%C3%A1,_V%C3%ADt%C4%9Bzslava)",
+      "year": 1936,
+      "title": "2 Choruses for Women's Voices, Op.17"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dubnov%C3%A1_preludia,_Op.13_(Kapr%C3%A1lov%C3%A1,_V%C3%ADt%C4%9Bzslava)",
+      "year": 1937,
+      "title": "Dubnov\u00e1 preludia, Op.13"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Elegie_(Kapr%C3%A1lov%C3%A1,_V%C3%ADt%C4%9Bzslava)",
+      "year": 1939,
+      "title": "Elegie"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Grotesque_passacaglia_(Kapr%C3%A1lov%C3%A1,_V%C3%ADt%C4%9Bzslava)",
+      "year": 1935,
+      "title": "Grotesque passacaglia"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Novoro%C4%8Dn%C3%AD,_Op.18_No.2_(Kapr%C3%A1lov%C3%A1,_V%C3%ADt%C4%9Bzslava)",
+      "year": 1937,
+      "title": "Novoro\u010dn\u00ed, Op.18 No.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sbohem_a_%C5%A1%C3%A1te%C4%8Dek,_Op.14_(Kapr%C3%A1lov%C3%A1,_V%C3%ADt%C4%9Bzslava)",
+      "year": 1937,
+      "title": "Sbohem a \u0161\u00e1te\u010dek, Op.14"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Velikonoce,_Op.18_No.3_(Kapr%C3%A1lov%C3%A1,_V%C3%ADt%C4%9Bzslava)",
+      "year": 1937,
+      "title": "Velikonoce, Op.18 No.3"
+    }
+  ]
+}

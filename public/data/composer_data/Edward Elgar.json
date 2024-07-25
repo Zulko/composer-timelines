@@ -1,0 +1,1335 @@
+{
+  "full_name": "Edward Elgar",
+  "first_names": "Edward",
+  "last_name": "Elgar",
+  "birth_year": 1857,
+  "death_year": 1934,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Edward_Elgar",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Edward Elgar was born in Lower Broadheath, Worcestershire, England. The world wasn't quite ready for his genius, but it definitely needed some good music to spice things up.",
+      "year": 1857,
+      "city": "Lower Broadheath",
+      "country": "England"
+    },
+    {
+      "event": "Early Composing",
+      "summary": "As a child, Elgar started composing music for plays he wrote with his siblings. Little did he know, he was just a few steps away from becoming England's musical darling!",
+      "year": 1867,
+      "city": "Worcester",
+      "country": "England"
+    },
+    {
+      "event": "First Professional Engagement",
+      "summary": "Elgar became conductor of the band at the Worcester and County Lunatic Asylum, where he probably learned that music can heal, or at least distract, many from their troubles!",
+      "year": 1879,
+      "city": "Worcester",
+      "country": "England"
+    },
+    {
+      "event": "Engagement to Helen Weaver",
+      "summary": "Elgar got engaged to Helen Weaver during a trip to Leipzig, but alas, the engagement was broken off. Was it the music or the relationship that hit the wrong note?",
+      "year": 1883,
+      "city": "Leipzig",
+      "country": "Germany"
+    },
+    {
+      "event": "First Orchestral Performance",
+      "summary": "Elgar's work 'S\u00e9r\u00e9nade mauresque' premiered with a professional orchestra in Birmingham, marking his serious entrance into the music scene. Applause from the audience made him blush\u2014what a debut!",
+      "year": 1883,
+      "city": "Birmingham",
+      "country": "England"
+    },
+    {
+      "event": "Marriage to Alice Roberts",
+      "summary": "Elgar married Alice, a strong, independent lady who managed his career while keeping him sane. In other words, a match made in musical heaven, albeit with a few disapproving stares from society!",
+      "year": 1889,
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "event": "Birth of Daughter",
+      "summary": "The Elgars welcomed their only child, Carice. Being a musician and a dad surely prepared Elgar for his next symphonic movements\u2014he had to juggle more than just notes now!",
+      "year": 1890,
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "event": "Enigma Variations Success",
+      "summary": "Elgar's 'Enigma Variations' became a breakout success, cementing his status as a top composer. Finally, everyone was listening\u2014and he wasn't even using Bluetooth!",
+      "year": 1899,
+      "city": "England",
+      "country": "England"
+    },
+    {
+      "event": "Appointment as Master of the King's Musick",
+      "summary": "In recognition of his work, Elgar was appointed Master of the King's Musick, proving that talent truly does rise to the top, or at least to royal favor!",
+      "year": 1924,
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "event": "Acoustic Recordings",
+      "summary": "Elgar became one of the first composers to embrace the gramophone, recording his works and paving the way for future generations to hear his genius. Talk about making music history\u2014literally!",
+      "year": 1925,
+      "city": "England",
+      "country": "England"
+    },
+    {
+      "event": "First Major Work Performance",
+      "summary": "Elgar conducted his first major work, the assured and uninhibited Froissart, at the Three Choirs Festival after being invited by his hometown committee. It was like a local talent show, but with less singing and more sophistication!",
+      "year": 1890,
+      "city": "Worcester",
+      "country": "UK"
+    },
+    {
+      "event": "Enigma Variations Premiered",
+      "summary": "After years of feeling unappreciated, Elgar exploded onto the scene with his Enigma Variations, which he humorously claimed were based on the moods of his friends. The variations were anything but dull, sparking acclaim and establishing Elgar as the go-to composer of his era \u2013 no more \u2018invisible man\u2019 for him!",
+      "year": 1899,
+      "city": "London",
+      "country": "UK"
+    },
+    {
+      "event": "The Dream of Gerontius Premiere",
+      "summary": "Despite a chorus that sounded like they had swallowed a jazz singer, Elgar's oratorio was recognized for its mastery. It was a poignant day for the audience, combining awe and giggles at the bloopers. Even amidst the chaos, critics loved it!",
+      "year": 1900,
+      "city": "Birmingham",
+      "country": "UK"
+    },
+    {
+      "event": "Knighted",
+      "summary": "Elgar received a royal nod when he was knighted at Buckingham Palace, which probably made him feel like a marquess of music. He must have felt like he was being turned from a musical frog into a musical prince!",
+      "year": 1904,
+      "city": "London",
+      "country": "UK"
+    },
+    {
+      "event": "Three-Day Festival of Works",
+      "summary": "A three-day festival of his works at Covent Garden made Elgar feel like a rock star of classical music. The king and queen showed up \u2013 but no pressure, right? Just a casual audience of royals for his compositions!",
+      "year": 1904,
+      "city": "London",
+      "country": "UK"
+    },
+    {
+      "event": "Conducting his music at Yale",
+      "summary": "Elgar decided to conduct his own music and accept a prestigious doctorate from Yale University, because what better way to celebrate academia than by waving your hands around like a maestro?",
+      "year": 1905,
+      "city": "New Haven",
+      "country": "USA"
+    },
+    {
+      "event": "First Symphony premiere",
+      "summary": "His First Symphony was greeted with such enthusiasm that it performed everywhere from New York to Leipzig. Elgar probably felt like a rock star as he basked in a hundred performances across continents!",
+      "year": 1908,
+      "city": "London",
+      "country": "UK"
+    },
+    {
+      "event": "Violin Concerto composition",
+      "summary": "Elgar whipped up his Violin Concerto during a summer romance with his muse, Fritz Kreisler, leading to a concert that was so dazzling it made Ysa\u00ffe frown in envy while hoping for his own shot at the limelight!",
+      "year": 1910,
+      "city": "London",
+      "country": "UK"
+    },
+    {
+      "event": "Second Symphony premiere",
+      "summary": "In a curious twist of fate, Elgar's Second Symphony was received more like a lukewarm cup of tea than a rousing cheer. When the audience sat in silence, he quipped about feeling surrounded by 'stuffed pigs.'",
+      "year": 1911,
+      "city": "London",
+      "country": "UK"
+    },
+    {
+      "event": "Order of Merit appointment",
+      "summary": "In a royal twist, Elgar was appointed to the Order of Merit just in time for King George V's coronation celebrations, proving that even composers can earn shiny medals!",
+      "year": 1911,
+      "city": "London",
+      "country": "UK"
+    },
+    {
+      "event": "The Music Makers composition",
+      "summary": "Elgar composed 'The Music Makers' for the Birmingham Festival, which was performed with polite applause. Perhaps the crowd was too busy thinking about their tea schedules to show true enthusiasm!",
+      "year": 1912,
+      "city": "Birmingham",
+      "country": "UK"
+    },
+    {
+      "event": "Nationalistic compositions during WWI",
+      "summary": "While the world was in turmoil, Elgar's patriotic spirit kicked in, leading to pieces like 'Carillon' and 'Polonia.' Who knew you could make so much music while the world was dancing on the edge of chaos?",
+      "year": 1914,
+      "city": "London",
+      "country": "UK"
+    },
+    {
+      "event": "The Fringes of the Fleet",
+      "summary": "His settings of Kipling's verses, 'The Fringes of the Fleet,' became a hit despite Kipling's mysterious objections to their theater performances. It was like musical Whac-A-Mole with an author!",
+      "year": 1915,
+      "city": "London",
+      "country": "UK"
+    },
+    {
+      "event": "Health recovery in Sussex",
+      "summary": "In the tranquil countryside of Sussex, Elgar took the chance to recover from poor health and came back to compose a magical whirl of chamber music that had his wife declaring, 'E. writing wonderful new music'!",
+      "year": 1918,
+      "city": "Fittleworth",
+      "country": "UK"
+    },
+    {
+      "event": "Cello Concerto disastrous premiere",
+      "summary": "Elgar's Cello Concerto faced a nightmarish premiere as the orchestra floundered under disastrous rehearsal management. He might've wondered if he'd accidentally signed up for a circus instead!",
+      "year": 1919,
+      "city": "London",
+      "country": "UK"
+    },
+    {
+      "event": "Becoming Master of the King's Musick",
+      "summary": "After a steady drift from the public eye, Elgar was appointed Master of the King's Musick, a title that surely sounded impressive on a business card and let him conduct while wearing a crown in spirit!",
+      "year": 1924,
+      "city": "London",
+      "country": "UK"
+    },
+    {
+      "event": "Recording sessions",
+      "summary": "Elgar took to the recording studio, becoming the first composer to take gramophone recordings seriously\u2014much like conducting wind-up toys that might accidentally play the wrong note!",
+      "year": 1926,
+      "city": "London",
+      "country": "UK"
+    },
+    {
+      "event": "Recording Session at EMI Studios",
+      "summary": "In a grand display of musical charisma, Elgar was filmed at the opening of EMI's Abbey Road Studios while conducting his own Pomp and Circumstance March No. 1. He cheekily asked the musicians to play it like they had more thrilling tunes stuck in their heads! It\u2019s like telling a kid to eat spinach while giving them cake.",
+      "year": 1931,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "BBC Festival for Seventy-Fifth Birthday",
+      "summary": "Elgar experienced a splendid musical revival as the BBC organized a festival to celebrate his seventy-fifth birthday. Picture a rock star's comeback but instead of electric guitars, there's a lot of violins and an enthusiastic conductor waving his arms around.",
+      "year": 1932,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Conducting the Violin Concerto in Paris",
+      "summary": "Elgar jetted off to Paris to conduct his Violin Concerto for the famous violinist Menuhin. It was a picturesque moment where music met the City of Lights; one can only imagine the violins flirting with the romantic ambiance!",
+      "year": 1933,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Diagnosis of Illness",
+      "summary": "During a routine operation, Elgar discovered he had inoperable colorectal cancer. He mustered his humor by candidly sharing his lack of faith in an afterlife - perhaps contemplating just going for another encore at his last performance!",
+      "year": 1933,
+      "city": "Unknown",
+      "country": "Unknown"
+    },
+    {
+      "event": "Death and Burial",
+      "summary": "Elgar passed away, leaving a musical legacy that would forever echo in concert halls. He was laid to rest next to his beloved wife, marking the end of a remarkable era, while their combined melodies surely serenade the heavens!",
+      "year": 1934,
+      "city": "Little Malvern",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Master of the King's Musick",
+      "summary": "In 1924, Elgar became Master of the King's Musick, which sounds daunting but mostly meant he got to hang out with the royal crowd and compose music while trying not to roll his eyes at their musical tastes.",
+      "year": 1924,
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "event": "Enigma Variations",
+      "summary": "Elgar's Enigma Variations became a celebrated hit, with its mysterious theme and assorted character sketches, leading many to wonder if it was a musical riddle or just Elgar playing around disguised as deep art. Spoiler alert: it was a little bit of both!",
+      "year": 1899,
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "event": "Second Symphony Reception",
+      "summary": "After the high acclaim of his First Symphony, Elgar's Second Symphony appeared in 1911 but was met with polite applause instead of the wild cheers. It was like showing up at a party with a great snack but the host only offering a respectful nod!",
+      "year": 1911,
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "event": "Retirement",
+      "summary": "Elgar spent his later years attempting to bask in the glow of his past achievements, much like a cat that has caught its first mouse and now lies around acting like it's king of the neighborhood. He did his best to stay relevant, but the world was busy having a roaring 1920s instead!",
+      "year": 1931,
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "event": "Death",
+      "summary": "Elgar exited the stage in 1934, leaving behind a trove of music and a legacy that turned into musical fame, proving that even if the audience is fickle, a true artist's work endures like an old vinyl record that mysteriously always comes back into style.",
+      "year": 1934,
+      "city": " Worcester",
+      "country": "England"
+    },
+    {
+      "event": "First Major Work",
+      "summary": "In a moment of inspiration, Elgar composed his first major piece, wowing the locals and probably making the village band rethink their life choices.",
+      "year": 1895,
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "event": "Popularization of Salut d'Amour",
+      "summary": "Elgar's smash hit, Salut d'Amour, came into the spotlight, proving that love songs really do sell, even when the copyright deal is a bit dodgy.",
+      "year": 1910,
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "event": "Pomp and Circumstance Marches Premiere",
+      "summary": "His famous Pomp and Circumstance Marches premiered, and little did he know it would become the soundtrack for every graduation ceremony in history, making him an honorary cap-and-gown hero.",
+      "year": 1901,
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "event": "The Dream of Gerontius Debuts",
+      "summary": "Elgar's masterpiece, The Dream of Gerontius, premiered, leaving audiences bewildered, awed, and probably rethinking their life choices after such a profound musical experience.",
+      "year": 1900,
+      "city": "Birmingham",
+      "country": "England"
+    },
+    {
+      "event": "World War I Influence",
+      "summary": "The Great War impacted Elgar, prompting him to create music that reflected the struggle, making it a surprisingly emotional ride for all involved.",
+      "year": 1914,
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "event": "Royal Recognition",
+      "summary": "In 1904, it was all glitz and glamour for Elgar when he was appointed as Master of the King's Musick. Just imagine - he was literally the King\u2019s go-to guy for a good tune!",
+      "year": 1904,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Pomp and Circumstance",
+      "summary": "The notorious 'Pomp and Circumstance Marches' debuted in 1901, turning Elgar into the unofficial soundtrack for graduation ceremonies and royal events alike. Because who doesn\u2019t want a rousing march to celebrate their achievements?",
+      "year": 1901,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Baronetcy",
+      "summary": "Elgar was honored with a baronetcy in 1931. Now he could not only compose symphonies but also be addressed as 'Sir Edward Elgar'\u2014a title that sounded as grand as his music!",
+      "year": 1931,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Final Years and Legacy",
+      "summary": "In the early 1930s, he spent his time reminiscing about his illustrious career and the music industry that had changed quite a bit. He probably thought, 'Back in my day, we had to carry our own conductors!' before passing away in 1934.",
+      "year": 1934,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Composition of 'Immortal Legions'",
+      "summary": "This piece was a triumphant celebration of the British Empire, making it sound much cooler than it probably was. Elgar was basically like, 'Let\u2019s throw a musical party for our troops!' and he delivered with flair!",
+      "year": 1924,
+      "city": "Unknown",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Composition of 'Pageant of Empire'",
+      "summary": "Another nod to the British Empire, Elgar gave this piece a flair, as if he was saying, 'Look how awesome we are!' It was as if he decided that every citizen should have a personal soundtrack of grandeur to march to.",
+      "year": 1924,
+      "city": "Unknown",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Creation of 'XTC'",
+      "summary": "Not to be confused with the band, Elgar's 'XTC' was another vibrant piece that made listeners feel as if they were on a rollercoaster built of musical notes, making everyone question how one composer could have this many energetic ideas!",
+      "year": 1930,
+      "city": "Unknown",
+      "country": "United Kingdom"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/Adieu_(Elgar,_Edward)",
+      "year": 1932,
+      "title": "Adieu"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Allegretto_on_G-E-D-G-E_(Elgar,_Edward)",
+      "year": 1888,
+      "title": "Allegretto on G-E-D-G-E"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Always_and_Everywhere_(Elgar,_Edward)",
+      "year": 1901,
+      "title": "Always and Everywhere"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Angelus,_Op.56_(Elgar,_Edward)",
+      "year": 1909,
+      "title": "Angelus, Op.56"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Apostles,_Op.49_(Elgar,_Edward)",
+      "year": 1902,
+      "title": "The Apostles, Op.49"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Arabian_Serenade_(Elgar,_Edward)",
+      "year": 1914,
+      "title": "Arabian Serenade"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/As_I_laye_a-Thynkynge_(Elgar,_Edward)",
+      "year": 1888,
+      "title": "As I laye a-Thynkynge"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Banner_of_St._George,_Op.33_(Elgar,_Edward)",
+      "year": 1897,
+      "title": "The Banner of St. George, Op.33"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Beau_Brummel_(Elgar,_Edward)",
+      "year": 1928,
+      "title": "Beau Brummel"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Big_Steamers_(Elgar,_Edward)",
+      "year": 1918,
+      "title": "Big Steamers"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Birthright_(Elgar,_Edward)",
+      "year": 1914,
+      "title": "The Birthright"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Black_Knight,_Op.25_(Elgar,_Edward)",
+      "year": 1889,
+      "title": "The Black Knight, Op.25"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Brook_(Elgar,_Edward)",
+      "year": 1913,
+      "title": "The Brook"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cantique,_Op.3_(Elgar,_Edward)",
+      "year": 1879,
+      "title": "Cantique, Op.3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/La_Capricieuse,_Op.17_(Elgar,_Edward)",
+      "year": 1891,
+      "title": "La Capricieuse, Op.17"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Caractacus,_Op.35_(Elgar,_Edward)",
+      "year": 1897,
+      "title": "Caractacus, Op.35"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Carillon,_Op.75_(Elgar,_Edward)",
+      "year": 1914,
+      "title": "Carillon, Op.75"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Carissima_(Elgar,_Edward)",
+      "year": 1913,
+      "title": "Carissima"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cello_Concerto,_Op.85_(Elgar,_Edward)",
+      "year": 1919,
+      "title": "Cello Concerto, Op.85"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chanson_de_nuit_and_chanson_de_matin,_Op.15_(Elgar,_Edward)",
+      "year": 1889,
+      "title": "Chanson de nuit and chanson de matin, Op.15"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Chantant_(Elgar,_Edward)",
+      "year": 1872,
+      "title": "Chantant"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Characteristic_Pieces,_Op.10_(Elgar,_Edward)",
+      "year": 1899,
+      "title": "3 Characteristic Pieces, Op.10"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Chariots_of_the_Lord_(Elgar,_Edward)",
+      "year": 1914,
+      "title": "The Chariots of the Lord"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/A_Child_Asleep_(Elgar,_Edward)",
+      "year": 1909,
+      "title": "A Child Asleep"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/A_Christmas_Greeting,_Op.52_(Elgar,_Edward)",
+      "year": 1907,
+      "title": "A Christmas Greeting, Op.52"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Civic_Fanfare_(Elgar,_Edward)",
+      "year": 1927,
+      "title": "Civic Fanfare"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Cockaigne_Overture,_Op.40_(Elgar,_Edward)",
+      "year": 1901,
+      "title": "Cockaigne Overture, Op.40"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Come,_Gentle_Night!_(Elgar,_Edward)",
+      "year": 1901,
+      "title": "Come, Gentle Night!"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concert_Allegro,_Op.46_(Elgar,_Edward)",
+      "year": 1901,
+      "title": "Concert Allegro, Op.46"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Coronation_March,_Op.65_(Elgar,_Edward)",
+      "year": 1911,
+      "title": "Coronation March, Op.65"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Coronation_Ode,_Op.44_(Elgar,_Edward)",
+      "year": 1901,
+      "title": "Coronation Ode, Op.44"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Credo_(Elgar,_Edward)",
+      "year": 1877,
+      "title": "Credo"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Crown_of_India_Suite,_Op.66a_(Elgar,_Edward)",
+      "year": 1912,
+      "title": "The Crown of India Suite, Op.66a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Crown_of_India,_Op.66_(Elgar,_Edward)",
+      "year": 1911,
+      "title": "The Crown of India, Op.66"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Death_on_the_Hills,_Op.72_(Elgar,_Edward)",
+      "year": 1914,
+      "title": "Death on the Hills, Op.72"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Drakes_Broughton_(Elgar,_Edward)",
+      "year": 1878,
+      "title": "Drakes Broughton"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Le_drapeau_belge,_Op.79_(Elgar,_Edward)",
+      "year": 1916,
+      "title": "Le drapeau belge, Op.79"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dream_Children,_Op.43_(Elgar,_Edward)",
+      "year": 1902,
+      "title": "Dream Children, Op.43"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Dream_of_Gerontius,_Op.38_(Elgar,_Edward)",
+      "year": 1899,
+      "title": "The Dream of Gerontius, Op.38"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dry_Those_Fair,_Those_Crystal_Eyes_(Elgar,_Edward)",
+      "year": 1899,
+      "title": "Dry Those Fair, Those Crystal Eyes"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Duet_for_Trombone_and_Double_Bass_(Elgar,_Edward)",
+      "year": 1887,
+      "title": "Duet for Trombone and Double Bass"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ecce_Sacerdos_Magnus_(Elgar,_Edward)",
+      "year": 1888,
+      "title": "Ecce Sacerdos Magnus"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Elegy,_Op.58_(Elgar,_Edward)",
+      "year": 1909,
+      "title": "Elegy, Op.58"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Empire_March_(Elgar,_Edward)",
+      "year": 1924,
+      "title": "Empire March"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Etudes_caract%C3%A9ristiques_for_Violin_solo,_Op.24_(Elgar,_Edward)",
+      "year": 1882,
+      "title": "Etudes caract\u00e9ristiques for Violin solo, Op.24"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Evening_Scene_(Elgar,_Edward)",
+      "year": 1905,
+      "title": "Evening Scene"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Falstaff,_Op.68_(Elgar,_Edward)",
+      "year": 1912,
+      "title": "Falstaff, Op.68"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fear_not,_O_land_(Elgar,_Edward)",
+      "year": 1914,
+      "title": "Fear not, O land"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fight_for_Right_(Elgar,_Edward)",
+      "year": 1916,
+      "title": "Fight for Right"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Follow_the_Colours_(Elgar,_Edward)",
+      "year": 1908,
+      "title": "Follow the Colours"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/For_Dot%27s_Nuns_(Elgar,_Edward)",
+      "year": 1906,
+      "title": "For Dot's Nuns"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Fringes_of_the_Fleet_(Elgar,_Edward)",
+      "year": 1917,
+      "title": "The Fringes of the Fleet"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Froissart,_Op.19_(Elgar,_Edward)",
+      "year": 1890,
+      "title": "Froissart, Op.19"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/From_the_Bavarian_Highlands,_Op.27_(Elgar,_Edward)",
+      "year": 1895,
+      "title": "From the Bavarian Highlands, Op.27"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fugue_in_D_minor_for_Oboe_and_Violin_(Elgar,_Edward)",
+      "year": 1883,
+      "title": "Fugue in D minor for Oboe and Violin"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Gavotte_(Elgar,_Edward)",
+      "year": 1885,
+      "title": "Gavotte"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Give_unto_the_Lord,_Op.74_(Elgar,_Edward)",
+      "year": 1914,
+      "title": "Give unto the Lord, Op.74"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Gloria_(Elgar,_Edward)",
+      "year": 1872,
+      "title": "Gloria"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Go,_Song_of_Mine,_Op.57_(Elgar,_Edward)",
+      "year": 1909,
+      "title": "Go, Song of Mine, Op.57"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Good_Morrow_(Elgar,_Edward)",
+      "year": 1929,
+      "title": "Good Morrow"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Grania_and_Diarmid,_Op.42_(Elgar,_Edward)",
+      "year": 1901,
+      "title": "Grania and Diarmid, Op.42"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Great_is_the_Lord,_Op.67_(Elgar,_Edward)",
+      "year": 1910,
+      "title": "Great is the Lord, Op.67"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Grete_Malverne_on_a_rocke_(Elgar,_Edward)",
+      "year": 1897,
+      "title": "Grete Malverne on a rocke"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Griffinesque_(Elgar,_Edward)",
+      "year": 1884,
+      "title": "Griffinesque"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Harmony_Music_No.1_(Elgar,_Edward)",
+      "year": 1878,
+      "title": "Harmony Music No.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Harmony_Music_No.2_(Elgar,_Edward)",
+      "year": 1878,
+      "title": "Harmony Music No.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Harmony_Music_No.3_(Elgar,_Edward)",
+      "year": 1878,
+      "title": "Harmony Music No.3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Harmony_Music_No.4_(Elgar,_Edward)",
+      "year": 1878,
+      "title": "Harmony Music No.4"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Harmony_Music_No.5_(Elgar,_Edward)",
+      "year": 1879,
+      "title": "Harmony Music No.5"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Harmony_Music_No.6_(Elgar,_Edward)",
+      "year": 1879,
+      "title": "Harmony Music No.6"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Harmony_Music_No.7_(Elgar,_Edward)",
+      "year": 1881,
+      "title": "Harmony Music No.7"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/How_Calmly_the_Evening_(Elgar,_Edward)",
+      "year": 1907,
+      "title": "How Calmly the Evening"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/I_Sing_the_Birth_(Elgar,_Edward)",
+      "year": 1928,
+      "title": "I Sing the Birth"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Imperial_March,_Op.32_(Elgar,_Edward)",
+      "year": 1897,
+      "title": "Imperial March, Op.32"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/In_Moonlight_(Elgar,_Edward)",
+      "year": 1903,
+      "title": "In Moonlight"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/In_Smyrna_(Elgar,_Edward)",
+      "year": 1905,
+      "title": "In Smyrna"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/In_the_South,_Op.50_(Elgar,_Edward)",
+      "year": 1904,
+      "title": "In the South, Op.50"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Inside_the_Bar_(Elgar,_Edward)",
+      "year": 1917,
+      "title": "Inside the Bar"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Introduction_and_Allegro,_Op.47_(Elgar,_Edward)",
+      "year": 1905,
+      "title": "Introduction and Allegro, Op.47"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Is_She_Not_Passing_Fair%3F_(Elgar,_Edward)",
+      "year": 1886,
+      "title": "Is She Not Passing Fair?"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/It_Isnae_Me_(Elgar,_Edward)",
+      "year": 1930,
+      "title": "It Isnae Me"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_King%27s_Way_(Elgar,_Edward)",
+      "year": 1909,
+      "title": "The King's Way"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Kingdom,_Op.51_(Elgar,_Edward)",
+      "year": 1901,
+      "title": "The Kingdom, Op.51"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Language_of_Flowers_(Elgar,_Edward)",
+      "year": 1872,
+      "title": "The Language of Flowers"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/7_Lieder_(Elgar,_Edward)",
+      "year": 1885,
+      "title": "7 Lieder"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Light_of_Life,_Op.29_(Elgar,_Edward)",
+      "year": 1896,
+      "title": "The Light of Life, Op.29"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Like_to_the_Damask_Rose_(Elgar,_Edward)",
+      "year": 1882,
+      "title": "Like to the Damask Rose"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Litanies_of_the_Blessed_Virgin_Mary_(Elgar,_Edward)",
+      "year": 1882,
+      "title": "4 Litanies of the Blessed Virgin Mary"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lo,_Christ_the_Lord_is_Born_(Elgar,_Edward)",
+      "year": 1897,
+      "title": "Lo, Christ the Lord is Born"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Love_Alone_Will_Stay_(Elgar,_Edward)",
+      "year": 1897,
+      "title": "Love Alone Will Stay"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/May_Song_(Elgar,_Edward)",
+      "year": 1901,
+      "title": "May Song"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Memorial_Chimes_(Elgar,_Edward)",
+      "year": 1923,
+      "title": "Memorial Chimes"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Merry-go-round_(Elgar,_Edward)",
+      "year": 1913,
+      "title": "The Merry-go-round"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mina_(Elgar,_Edward)",
+      "year": 1933,
+      "title": "Mina"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Minuet,_Op.21_(Elgar,_Edward)",
+      "year": 1897,
+      "title": "Minuet, Op.21"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Motets,_Op.2_(Elgar,_Edward)",
+      "year": 1887,
+      "title": "3 Motets, Op.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Music_Makers,_Op.69_(Elgar,_Edward)",
+      "year": 1912,
+      "title": "The Music Makers, Op.69"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Now_with_the_fast-departing_light_(Elgar,_Edward)",
+      "year": 1878,
+      "title": "Now with the fast-departing light"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Nursery_Suite_(Elgar,_Edward)",
+      "year": 1931,
+      "title": "Nursery Suite"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/O_hearken_Thou,_Op.64_(Elgar,_Edward)",
+      "year": 1911,
+      "title": "O hearken Thou, Op.64"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/O_Mightiest_of_the_mighty_(Elgar,_Edward)",
+      "year": 1902,
+      "title": "O Mightiest of the mighty"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/O_Salutaris_Hostia_No.1_in_E-flat_major_(Elgar,_Edward)",
+      "year": 1880,
+      "title": "O Salutaris Hostia No.1 in E-flat major"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/O_Salutaris_Hostia_No.2_in_E-flat_major_(Elgar,_Edward)",
+      "year": 1880,
+      "title": "O Salutaris Hostia No.2 in E-flat major"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/O_Salutaris_Hostia_No.3_in_F_major_(Elgar,_Edward)",
+      "year": 1880,
+      "title": "O Salutaris Hostia No.3 in F major"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Offertoire_(Elgar,_Edward)",
+      "year": 1893,
+      "title": "Offertoire"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Organ_Sonata,_Op.28_(Elgar,_Edward)",
+      "year": 1895,
+      "title": "Organ Sonata, Op.28"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Pageant_of_Empire_(Elgar,_Edward)",
+      "year": 1924,
+      "title": "The Pageant of Empire"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_Part_Songs_from_the_Greek_Anthology,_Op.45_(Elgar,_Edward)",
+      "year": 1902,
+      "title": "5 Part Songs from the Greek Anthology, Op.45"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Part_Songs,_Op.18_(Elgar,_Edward)",
+      "year": 1890,
+      "title": "3 Part Songs, Op.18"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Part_Songs,_Op.26_(Elgar,_Edward)",
+      "year": 1894,
+      "title": "2 Part Songs, Op.26"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Part_Songs,_Op.53_(Elgar,_Edward)",
+      "year": 1907,
+      "title": "4 Part Songs, Op.53"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Part_Songs,_Op.71_(Elgar,_Edward)",
+      "year": 1914,
+      "title": "2 Part Songs, Op.71"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Part_Songs,_Op.73_(Elgar,_Edward)",
+      "year": 1914,
+      "title": "2 Part Songs, Op.73"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Peckham_March_(Elgar,_Edward)",
+      "year": 1877,
+      "title": "Peckham March"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Quintet,_Op.84_(Elgar,_Edward)",
+      "year": 1918,
+      "title": "Piano Quintet, Op.84"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Pieces_for_Violin_and_Piano,_Op.4_(Elgar,_Edward)",
+      "year": 1883,
+      "title": "3 Pieces for Violin and Piano, Op.4"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Pieces_for_Violin_and_Piano,_Op.13_(Elgar,_Edward)",
+      "year": 1889,
+      "title": "2 Pieces for Violin and Piano, Op.13"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Pipes_of_Pan_(Elgar,_Edward)",
+      "year": 1899,
+      "title": "The Pipes of Pan"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pleading,_Op.48_(Elgar,_Edward)",
+      "year": 1908,
+      "title": "Pleading, Op.48"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Poet%27s_Life_(Elgar,_Edward)",
+      "year": 1892,
+      "title": "The Poet's Life"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Polonia,_Op.76_(Elgar,_Edward)",
+      "year": 1915,
+      "title": "Polonia, Op.76"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pomp_and_Circumstance_March_No.1,_Op.39_No.1_(Elgar,_Edward)",
+      "year": 1901,
+      "title": "Pomp and Circumstance March No.1, Op.39 No.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pomp_and_Circumstance_March_No.2,_Op.39_No.2_(Elgar,_Edward)",
+      "year": 1901,
+      "title": "Pomp and Circumstance March No.2, Op.39 No.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pomp_and_Circumstance_March_No.3,_Op.39_No.3_(Elgar,_Edward)",
+      "year": 1904,
+      "title": "Pomp and Circumstance March No.3, Op.39 No.3"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pomp_and_Circumstance_March_No.4,_Op.39_No.4_(Elgar,_Edward)",
+      "year": 1907,
+      "title": "Pomp and Circumstance March No.4, Op.39 No.4"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pomp_and_Circumstance_March_No.5,_Op.39_No.5_(Elgar,_Edward)",
+      "year": 1930,
+      "title": "Pomp and Circumstance March No.5, Op.39 No.5"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Presto_(Elgar,_Edward)",
+      "year": 1889,
+      "title": "Presto"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Prince_of_Sleep_(Elgar,_Edward)",
+      "year": 1925,
+      "title": "The Prince of Sleep"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Psalm_68_(Elgar,_Edward)",
+      "year": 1909,
+      "title": "Psalm 68"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Psalm_75_(Elgar,_Edward)",
+      "year": 1909,
+      "title": "Psalm 75"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Queen_Alexandra%27s_Memorial_Ode_(Elgar,_Edward)",
+      "year": 1932,
+      "title": "Queen Alexandra's Memorial Ode"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Queen_Mary%27s_Song_(Elgar,_Edward)",
+      "year": 1887,
+      "title": "Queen Mary's Song"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Rapid_Stream_(Elgar,_Edward)",
+      "year": 1932,
+      "title": "The Rapid Stream"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Reminiscences_(Elgar,_Edward)",
+      "year": 1877,
+      "title": "Reminiscences"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Reveille,_Op.54_(Elgar,_Edward)",
+      "year": 1907,
+      "title": "The Reveille, Op.54"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Romance_for_Violin_and_Piano,_Op.1_(Elgar,_Edward)",
+      "year": 1878,
+      "title": "Romance for Violin and Piano, Op.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Romance,_Op.62_(Elgar,_Edward)",
+      "year": 1910,
+      "title": "Romance, Op.62"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Rosemary_(Elgar,_Edward)",
+      "year": 1915,
+      "title": "Rosemary"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Roundel_(Elgar,_Edward)",
+      "year": 1897,
+      "title": "Roundel"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Salut_d%27amour,_Op.12_(Elgar,_Edward)",
+      "year": 1888,
+      "title": "Salut d'amour, Op.12"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Salve_Regina_(Elgar,_Edward)",
+      "year": 1876,
+      "title": "Salve Regina"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Sanguine_Fan,_Op.81_(Elgar,_Edward)",
+      "year": 1917,
+      "title": "The Sanguine Fan, Op.81"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Scenes_from_the_Saga_of_King_Olaf,_Op.30_(Elgar,_Edward)",
+      "year": 1895,
+      "title": "Scenes from the Saga of King Olaf, Op.30"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sea_Pictures,_Op.37_(Elgar,_Edward)",
+      "year": 1899,
+      "title": "Sea Pictures, Op.37"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Self_Banished_(Elgar,_Edward)",
+      "year": 1875,
+      "title": "The Self Banished"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Serenade_for_String_Orchestra,_Op.20_(Elgar,_Edward)",
+      "year": 1888,
+      "title": "Serenade for String Orchestra, Op.20"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/S%C3%A9r%C3%A9nade_lyrique_(Elgar,_Edward)",
+      "year": 1899,
+      "title": "S\u00e9r\u00e9nade lyrique"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Serenade_(Elgar,_Edward)",
+      "year": 1932,
+      "title": "Serenade"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Severn_Suite,_Op.87_(Elgar,_Edward)",
+      "year": 1930,
+      "title": "Severn Suite, Op.87"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sevilla%C3%B1a,_Op.7_(Elgar,_Edward)",
+      "year": 1884,
+      "title": "Sevilla\u00f1a, Op.7"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Single_Chants_for_the_Venite_(Elgar,_Edward)",
+      "year": 1909,
+      "title": "2 Single Chants for the Venite"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Skizze_(Elgar,_Edward)",
+      "year": 1901,
+      "title": "Skizze"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sonatina_(Elgar,_Edward)",
+      "year": 1889,
+      "title": "Sonatina"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/A_Song_of_Autumn_(Elgar,_Edward)",
+      "year": 1892,
+      "title": "A Song of Autumn"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Songs,_Op.16_(Elgar,_Edward)",
+      "year": 1894,
+      "title": "3 Songs, Op.16"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Songs,_Op.31_(Elgar,_Edward)",
+      "year": 1895,
+      "title": "2 Songs, Op.31"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Songs,_Op.41_(Elgar,_Edward)",
+      "year": 1901,
+      "title": "2 Songs, Op.41"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Songs,_Op.59_(Elgar,_Edward)",
+      "year": 1909,
+      "title": "3 Songs, Op.59"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Songs,_Op.60_(Elgar,_Edward)",
+      "year": 1909,
+      "title": "2 Songs, Op.60"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sospiri,_Op.70_(Elgar,_Edward)",
+      "year": 1914,
+      "title": "Sospiri, Op.70"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Spanish_Serenade,_Op.23_(Elgar,_Edward)",
+      "year": 1891,
+      "title": "Spanish Serenade, Op.23"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Speak,_my_Heart!_(Elgar,_Edward)",
+      "year": 1902,
+      "title": "Speak, my Heart!"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Spirit_of_England,_Op.80_(Elgar,_Edward)",
+      "year": 1914,
+      "title": "The Spirit of England, Op.80"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Starlight_Express,_Op.78_(Elgar,_Edward)",
+      "year": 1915,
+      "title": "The Starlight Express, Op.78"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet,_Op.83_(Elgar,_Edward)",
+      "year": 1918,
+      "title": "String Quartet, Op.83"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Study_for_Strengthening_the_Third_Finger_for_Solo_Violin_(Elgar,_Edward)",
+      "year": 1877,
+      "title": "Study for Strengthening the Third Finger for Solo Violin"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sursum_Corda,_Op.11_(Elgar,_Edward)",
+      "year": 1894,
+      "title": "Sursum Corda, Op.11"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.1,_Op.55_(Elgar,_Edward)",
+      "year": 1907,
+      "title": "Symphony No.1, Op.55"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.2,_Op.63_(Elgar,_Edward)",
+      "year": 1909,
+      "title": "Symphony No.2, Op.63"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.3,_Op.88_(Elgar,_Edward)",
+      "year": 1933,
+      "title": "Symphony No.3, Op.88"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Tantum_Ergo_(Elgar,_Edward)",
+      "year": 1876,
+      "title": "Tantum Ergo"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Te_Deum_and_Benedictus,_Op.34_(Elgar,_Edward)",
+      "year": 1897,
+      "title": "Te Deum and Benedictus, Op.34"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/They_are_at_rest_(Elgar,_Edward)",
+      "year": 1909,
+      "title": "They are at rest"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/To_her_beneath_whose_stedfast_star_(Elgar,_Edward)",
+      "year": 1899,
+      "title": "To her beneath whose stedfast star"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Une_voix_dans_le_d%C3%A9sert,_Op.77_(Elgar,_Edward)",
+      "year": 1915,
+      "title": "Une voix dans le d\u00e9sert, Op.77"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Variations_on_an_Original_Theme_%27Enigma%27,_Op.36_(Elgar,_Edward)",
+      "year": 1899,
+      "title": "Variations on an Original Theme 'Enigma', Op.36"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Very_Easy_Melodious_Exercises_in_the_First_Position,_Op.22_(Elgar,_Edward)",
+      "year": 1892,
+      "title": "Very Easy Melodious Exercises in the First Position, Op.22"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/11_Vesper_Voluntaries,_Op.14_(Elgar,_Edward)",
+      "year": 1889,
+      "title": "11 Vesper Voluntaries, Op.14"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto,_Op.61_(Elgar,_Edward)",
+      "year": 1905,
+      "title": "Violin Concerto, Op.61"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata,_Op.82_(Elgar,_Edward)",
+      "year": 1918,
+      "title": "Violin Sonata, Op.82"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Wand_of_Youth,_Suite_No.1,_Op.1a_(Elgar,_Edward)",
+      "year": 1867,
+      "title": "The Wand of Youth, Suite No.1, Op.1a"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Wand_of_Youth,_Suite_No.2,_Op.1b_(Elgar,_Edward)",
+      "year": 1867,
+      "title": "The Wand of Youth, Suite No.2, Op.1b"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Wanderer_(Elgar,_Edward)",
+      "year": 1923,
+      "title": "The Wanderer"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/A_War_Song,_Op.5_(Elgar,_Edward)",
+      "year": 1884,
+      "title": "A War Song, Op.5"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Weary_Wind_of_the_West_(Elgar,_Edward)",
+      "year": 1903,
+      "title": "Weary Wind of the West"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/When_Swallows_Fly_(Elgar,_Edward)",
+      "year": 1932,
+      "title": "When Swallows Fly"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Wind_at_Dawn_(Elgar,_Edward)",
+      "year": 1888,
+      "title": "The Wind at Dawn"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Windlass_Song_(Elgar,_Edward)",
+      "year": 1913,
+      "title": "Windlass Song"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/With_Proud_Thanksgiving_(Elgar,_Edward)",
+      "year": 1920,
+      "title": "With Proud Thanksgiving"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Woodland_Stream_(Elgar,_Edward)",
+      "year": 1932,
+      "title": "The Woodland Stream"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Zut!_zut!_zut!_(Elgar,_Edward)",
+      "year": 1923,
+      "title": "Zut! zut! zut!"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Elgar_Album_for_Pianoforte_(Elgar,_Edward)",
+      "year": 1901,
+      "title": "Elgar Album for Pianoforte"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Later_Part-Songs_(Elgar,_Edward)",
+      "year": 1902,
+      "title": "The Later Part-Songs"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Pomp_and_Circumstance_Marches,_Op.39_(Elgar,_Edward)",
+      "year": 1901,
+      "title": "Pomp and Circumstance Marches, Op.39"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Powick_Asylum_Music_(Elgar,_Edward)",
+      "year": 1879,
+      "title": "Powick Asylum Music"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Clapham_Town_End_(Elgar,_Edward)",
+      "year": 1890,
+      "title": "Clapham Town End"
+    }
+  ]
+}

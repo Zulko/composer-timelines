@@ -1,0 +1,130 @@
+{
+  "full_name": "Alfred Schnittke",
+  "first_names": "Alfred",
+  "last_name": "Schnittke",
+  "birth_year": 1934,
+  "death_year": 1998,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alfred_Schnittke",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Alfred Schnittke was born in Engels to a family that could easily fill a genealogy sandwich. With a Jewish father and a German mother, as well as a philologist grandmother, the family tree must have been a sight to behold!",
+      "year": 1934,
+      "city": "Engels",
+      "country": "Russia"
+    },
+    {
+      "event": "Musical Education",
+      "summary": "In 1946, young Schnittke found himself in Vienna, where he decided to fall in love with music. After all, who wouldn't want to be transported to a world filled with ghosts, historical links, and highbrow music references like Mozart?",
+      "year": 1946,
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "event": "Family Move",
+      "summary": "In 1948, the Schnittke family relocated to Moscow. Just think of it as a family road trip, but without the songs and snacks, and certainly more of a 'should we really do this?' vibe!",
+      "year": 1948,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Conservatory Graduation",
+      "summary": "After spending years holed up with his musical scores, Schnittke completed his graduate work at the Moscow Conservatory in 1961. It's like he finally got his gold star for being a dedicated student \u2013 but now with more composing responsibilities!",
+      "year": 1961,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "First Symphony",
+      "summary": "Around 1972, Schnittke completed his epic First Symphony, which was such a bold move that it somehow ended up on the Soviet bureaucracy's naughty list, much like a misbehaving teenager.",
+      "year": 1972,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Mother's Death and Composition",
+      "summary": "After losing his mother in 1972, Schnittke was inspired to compose his Piano Quintet in her memory. It's like creating a heartfelt gift that costs nothing but emotional energy and a lot of introspection.",
+      "year": 1972,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Conversion to Catholicism",
+      "summary": "On June 18, 1983, Schnittke decided to swap some spiritual baggage and converted to Catholicism, adding a twist of faith to his already complex life story \u2013 talk about a plot twist!",
+      "year": 1983,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "First Stroke",
+      "summary": "In 1985, Schnittke had a stroke and took an unplanned nap in a coma. Upon waking, he must have felt like he had just crashed from a wild party \u2013 now with a bit less mobility but still a lot of creativity!",
+      "year": 1985,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Emigration to Germany",
+      "summary": "In 1990, seeking a change of scenery and possibly better health, Schnittke moved to Hamburg. It was like finding a hidden room in a house \u2013 one that was quieter and more inviting!",
+      "year": 1990,
+      "city": "Hamburg",
+      "country": "Germany"
+    },
+    {
+      "event": "Death",
+      "summary": "Schnittke passed away in Hamburg in 1998, leaving behind a musical legacy that mingles light and heavy like a perfectly balanced dessert. Who needs a life preserver when you can just compose your way to immortality?",
+      "year": 1998,
+      "city": "Hamburg",
+      "country": "Germany"
+    },
+    {
+      "event": "First Compositions",
+      "summary": "Schnittke starts composing at a young age, showcasing works that are as eclectic as a box of chocolates, but with more dissonance. His early pieces hint at the genius that is about to unfold.",
+      "year": 1947,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Graduation from Conservatory",
+      "summary": "After years of dedication, Schnittke graduates from the Moscow Conservatory, officially becoming a 'master of awkward silence' who creates brilliant sounds in between the notes.",
+      "year": 1958,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Film Scoring Begin",
+      "summary": "Diving into the world of cinema, Schnittke scores his first film, and it turns out to be an adventure \u2014 not unlike a rollercoaster, but with an excellent soundtrack.",
+      "year": 1965,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Recognition with 'Concerto Grosso No. 1'",
+      "summary": "His 'Concerto Grosso No. 1' makes waves in the music world, swimming upstream against the currents of traditionalism like a rebellious salmon.",
+      "year": 1976,
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "event": "Health Issues",
+      "summary": "Schnittke faces serious health challenges, turning his life into a dramatic opera where he plays the leading role \u2014 if only he could score it better!",
+      "year": 1985,
+      "city": "Hamburg",
+      "country": "Germany"
+    },
+    {
+      "event": "Return to Composition",
+      "summary": "With spirits high, Schnittke returns to composing, proving that even a composer can pull off a 'comeback tour' without the glitter\u2014just lots of notes!",
+      "year": 1989,
+      "city": "Hamburg",
+      "country": "Germany"
+    },
+    {
+      "event": "International Recognition",
+      "summary": "Schnittke achieves international acclaim, becoming a household name among music lovers and just about anyone who has ever tried to explain polystylism at a party.",
+      "year": 1990,
+      "city": "Various",
+      "country": "Global"
+    }
+  ],
+  "compositions": []
+}

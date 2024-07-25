@@ -1,0 +1,872 @@
+{
+  "full_name": "Ralph Vaughan Williams",
+  "first_names": "Ralph Vaughan",
+  "last_name": "Williams",
+  "birth_year": 1872,
+  "death_year": 1958,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ralph_Vaughan_Williams",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Ralph Vaughan Williams pops into the world, ready to make some noise and ultimately change the British music scene forever! This was just the start of an extraordinary journey filled with tunes and adventures.",
+      "year": 1872,
+      "city": "Down Ampney",
+      "country": "England"
+    },
+    {
+      "event": "First Piano Lessons",
+      "summary": "At the tender age of five, Vaughan Williams begins his piano lessons with his aunt, showcasing his early musical talent by writing a four-bar composition called 'The Robin's Nest'. Who knew he was already birdwatching for melodies!",
+      "year": 1878,
+      "city": "Down Ampney",
+      "country": "England"
+    },
+    {
+      "event": "Engagement",
+      "summary": "After forming lifelong friendships at Cambridge, Vaughan Williams decides to take the plunge and gets engaged to Adeline Fisher. Their love story kicks off, ready for a duet that lasts a lifetime.",
+      "year": 1897,
+      "city": "Cambridge",
+      "country": "England"
+    },
+    {
+      "event": "First Publication",
+      "summary": "With 'Linden Lea' being published, Vaughan Williams finally gets his first taste of being in print, marking his official entry into the realm of published composers. It's about time he starts sharing his genius!",
+      "year": 1902,
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "event": "Folk-Song Collection",
+      "summary": "Taking a page out of the book of folk enthusiasts, Vaughan Williams embarks on a mission to collect traditional folk-songs from the English countryside. He becomes the musical Indiana Jones of the early 20th century, preserving cultural gems!",
+      "year": 1903,
+      "city": "Various locations",
+      "country": "England"
+    },
+    {
+      "event": "First Major Work",
+      "summary": "The Fantasia on a Theme by Thomas Tallis is unleashed upon the world, and Vaughan Williams starts earning his stripes as a significant composer. This piece was like opening the floodgates for his creative tidal wave!",
+      "year": 1910,
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "event": "Marriage to Adeline",
+      "summary": "Vaughan Williams and Adeline finally tie the knot, officially becoming one of music's finest couples. Their honeymoon in Berlin probably involved as much musical studying as romance, proving that love and music often go hand in hand.",
+      "year": 1897,
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    {
+      "event": "War Service",
+      "summary": "Vaughan Williams serves in the army during World War I, which leaves a lasting emotional imprint on him. Who wouldn't find creating beautiful melodies a little easier after experiencing the chaos of war?",
+      "year": 1914,
+      "city": "Various locations",
+      "country": "England"
+    },
+    {
+      "event": "Last Symphony",
+      "summary": "In his twilight years, Vaughan Williams composes his final symphony, showing that age is just a number when it comes to creativity. Who needs retirement when you have masterpieces to create?",
+      "year": 1958,
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "event": "Composed In the Fen Country",
+      "summary": "Vaughan Williams started to flex his creative muscles with his tone poem 'In the Fen Country'. It was like spring cleaning for a composer\u2014clearing out the cobwebs and letting in some fresh musical air!",
+      "year": 1904,
+      "city": "Unknown",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Premiered Fantasia on a Theme by Thomas Tallis",
+      "summary": "He struck gold when his 'Fantasia on a Theme by Thomas Tallis' premiered at the Three Choirs Festival. Critics were so blown away they probably needed to pick their jaws off the floor!",
+      "year": 1910,
+      "city": "Gloucester",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Premiered A Sea Symphony",
+      "summary": "Hot on the tail of his last success, Vaughan Williams unveiled 'A Sea Symphony' at the Leeds Festival. It was a tidal wave of applause, and suddenly, he was riding the crest of the British musical scene!",
+      "year": 1910,
+      "city": "Leeds",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Volunteered for Military Service",
+      "summary": "Despite being older than most soldiers, Vaughan Williams decided to trade his composing pen for a stretcher, volunteering to serve in World War I. Who knew symphonies and stretcher-bearing had so much in common\u2014both required a strong back!",
+      "year": 1914,
+      "city": "France",
+      "country": "France"
+    },
+    {
+      "event": "Commissioned as Lieutenant",
+      "summary": "After some heroic stretcher work, Vaughan Williams was promoted to lieutenant in the Royal Artillery. It\u2019s always good to add a little rank to your r\u00e9sum\u00e9, particularly when you\u2019re dodging bullets!",
+      "year": 1917,
+      "city": "France",
+      "country": "France"
+    },
+    {
+      "event": "Accepted Teaching Position at RCM",
+      "summary": "Returning to the civilian world, Vaughan Williams took a breather and accepted a teaching gig at the Royal College of Music\u2014presumably to let the next generation of composers know that it\u2019s okay to write outside the lines!",
+      "year": 1919,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Conducted Premiere of A Pastoral Symphony",
+      "summary": "In a moment of pastoral bliss, Vaughan Williams held the baton for the premiere of his 'A Pastoral Symphony'. Nature enthusiasts everywhere probably sighed with delight, hoping the symphony would finally convince musicians to stop playing loud, brash music!",
+      "year": 1922,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Moved to The White Gates",
+      "summary": "After a struggle with stairs and arthritis, Vaughan Williams moved to 'The White Gates' in Dorking, where it was finally safe to say he could compose without an elevator crisis interrupting his flow!",
+      "year": 1929,
+      "city": "Dorking",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Elected President of the English Folk Dance and Song Society",
+      "summary": "Choosing to channel his energy into folk traditions, Vaughan Williams became president of the English Folk Dance and Song Society, proving once again that old-timey music is cooler than it looks!",
+      "year": 1932,
+      "city": "Unknown",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Composed His First Film Score",
+      "summary": "In a surprising turn, Vaughan Williams dived into the world of cinema with his first film score for '49th Parallel'. Who says classical musicians can\u2019t break into films\u2014he probably felt like a Hollywood star for a moment!",
+      "year": 1940,
+      "city": "Unknown",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Conducted Premiere of Fifth Symphony",
+      "summary": "Vaughan Williams unveiled his Fifth Symphony at the Proms, and it turned out to be quite the ear-opener\u2014his serene tones were here to remind everyone that not all symphonies have to scream for attention!",
+      "year": 1943,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Final Opera The Pilgrim's Progress",
+      "summary": "After 45 years in the making, Vaughan Williams finally showcased 'The Pilgrim's Progress'. While it may not have been an instant hit, the composer summed it up pretty well: 'If they don\u2019t want it, that\u2019s their loss\u2014this is my opus!'",
+      "year": 1951,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Married Ursula Wood",
+      "summary": "He tied the knot with Ursula Wood, marking the start of a new chapter. Here\u2019s to love stories that come with an impressive soundtrack\u2014and hopefully fewer staircases!",
+      "year": 1953,
+      "city": "Unknown",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Traveling to the US",
+      "summary": "In 1954, Vaughan Williams took a trip to the US where he received a warm welcome fit for a rock star, with audiences who were far more enthusiastic than many dinner guests. He lectured at Cornell and conducted, turning academia into a mini-concert tour!",
+      "year": 1954,
+      "city": "Ithaca",
+      "country": "USA"
+    },
+    {
+      "event": "Premiere of Eighth Symphony",
+      "summary": "The Eighth Symphony premiered in 1956 and was embraced by audiences as heartily as a long-lost relative at a family reunion. Despite its minor key, the symphony was light-hearted, showcasing Vaughan Williams's mischievous side!",
+      "year": 1956,
+      "city": "Manchester",
+      "country": "UK"
+    },
+    {
+      "event": "Premiere of Ninth Symphony",
+      "summary": "The Ninth Symphony made its debut in April 1958, just months before Vaughan Williams's passing. This work was like a final gift to the world, leaving the audience puzzling over its deep, heroic tones, much like trying to understand a dog's dream!",
+      "year": 1958,
+      "city": "London",
+      "country": "UK"
+    },
+    {
+      "event": "Death",
+      "summary": "Vaughan Williams passed away suddenly in August 1958, leaving a musical legacy that was as unstoppable as the tide. His sudden exit from the stage shocked everyone, making his life seem like one last crescendo before fading to silence.",
+      "year": 1958,
+      "city": "London",
+      "country": "UK"
+    },
+    {
+      "event": "Studies in Paris",
+      "summary": "Vaughan Williams studied in Paris with the legendary Ravel, who probably wished he had a 'Do Not Disturb' sign for the young composer's musical ideas that were just bursting out!",
+      "year": 1900,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "First String Quartet Completion",
+      "summary": "He finished his first string quartet shortly after soaking up all that French flair\u2014clearly, the quartet was a bit jealous of all the attention Ravel was getting!",
+      "year": 1909,
+      "city": "Unknown",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Composition of Tallis Fantasia",
+      "summary": "Two years prior to penning the quintet, Vaughan Williams struck gold with Tallis Fantasia, a piece so beautiful that even time seemed to stand still while it was played!",
+      "year": 1910,
+      "city": "Unknown",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Second String Quartet Revision",
+      "summary": "He revised his second string quartet, which was later told it should be a masterpiece, truly putting the 'art' in 'heart-wrenching seriousness'.",
+      "year": 1943,
+      "city": "Unknown",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Masterful Choral Work Composition",
+      "summary": "In a bid to make church music cool, he composed the Magnificat and Nunc Dimittis, proving that even agnostics can have a flair for uplifting hymn tunes!",
+      "year": 1925,
+      "city": "Unknown",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Completion of The Pilgrim's Progress",
+      "summary": "After more than forty years of work, Vaughan Williams finally finished his opera The Pilgrim's Progress\u2014talk about taking the scenic route to musical mastery!",
+      "year": 1951,
+      "city": "Unknown",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Recordings for Gramophone",
+      "summary": "Vaughan Williams took a swing at the recording industry, conducting some memorable pieces to make sure the world knew he wasn't just a one-hit wonder.",
+      "year": 1925,
+      "city": "Unknown",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Order of Merit",
+      "summary": "Vaughan Williams finally accepted an award in 1935 when he received the Order of Merit, which is kind of like being told you're the best without having to wear a badge that says so. He preferred to keep his title as 'Dr Vaughan Williams,' proving he wasn't one for too much pomp and circumstance.",
+      "year": 1935,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Honorary Doctorate",
+      "summary": "In 1919, Vaughan Williams was given an honorary doctorate of music from the University of Oxford. Just imagine the pomp of that ceremony, with him casually shrugging off the robe because comfort was key for this composer.",
+      "year": 1919,
+      "city": "Oxford",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Cobbett Medal",
+      "summary": "In 1930, Vaughan Williams won the Cobbett medal for his services to chamber music. It\u2019s like getting a trophy for being the life of a small party \u2013 but in a musical context.",
+      "year": 1930,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Gold Medal of the Royal Philharmonic Society",
+      "summary": "That same year, 1930, Vaughan Williams also snagged the Gold Medal from the Royal Philharmonic Society, proving that he had more shiny awards than some people have kitchen utensils.",
+      "year": 1930,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Honorary Fellowship of Trinity College",
+      "summary": "In 1935, Vaughan Williams received an honorary fellowship from Trinity College, Cambridge. His brilliance once again acknowledged, and he presumably raised a cup of tea in approval.",
+      "year": 1935,
+      "city": "Cambridge",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Shakespeare Prize",
+      "summary": "In 1937, he was awarded the Shakespeare Prize by the University of Hamburg. Who knew that writing some of the finest music could also earn you a round of applause in German?",
+      "year": 1937,
+      "city": "Hamburg",
+      "country": "Germany"
+    },
+    {
+      "event": "Albert Medal",
+      "summary": "In 1955, the Royal Society of Arts presented him with the Albert Medal. It\u2019s a fancy piece of hardware that says, 'We acknowledge your awesomeness in music!', which is universally known as a cool thing to have.",
+      "year": 1955,
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "event": "Howland Memorial Prize",
+      "summary": "In 1954, Vaughan Williams bagged the Howland Memorial Prize from Yale University. There he was, sipping tea and receiving accolades from across the pond like a rock star.",
+      "year": 1954,
+      "city": "New Haven",
+      "country": "United States"
+    },
+    {
+      "event": "Study at the Royal College of Music",
+      "summary": "Ralph decided that spending his days in a place full of music was a good idea, so he enrolled at the Royal College of Music. Imagine all that talent bottled up in one building; it must have been like living in a musical pressure cooker!",
+      "year": 1890,
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "event": "First Symphony Premiere",
+      "summary": "Vaughan Williams debuted his first symphony, and audience members were so blown away that they practically floated out of their seats. It was the musical equivalent of a rollercoaster that went uphill, downhill, and then somehow managed to do a loop-de-loop!",
+      "year": 1910,
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "event": "World War I Service",
+      "summary": "Feeling that he should be part of something larger, Ralph joined the Army during World War I. Rumor has it that he brought along a harmonium just in case he had a moment to compose between the chaos, proving that inspiration can strike even in the trenches!",
+      "year": 1914,
+      "city": "Various",
+      "country": "Various"
+    },
+    {
+      "event": "Composer of the 6th Symphony",
+      "summary": "Vaughan Williams composed his 6th Symphony, which was so intense that it made Beethoven's \u2018heavy metal\u2019 phase seem like a gentle lullaby. People were left guessing if he was channeling his inner storm or just having a particularly moody day.",
+      "year": 1947,
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "event": "Ninth Symphony Premiere",
+      "summary": "When his Ninth Symphony premiered, the crowd was so ecstatic that it was as if they had just witnessed a once-in-a-lifetime event, complete with confetti and enthusiastic dancing in the aisles. The critics probably needed a moment to catch their breath!",
+      "year": 1958,
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "event": "First Composition",
+      "summary": "At an incredibly tender age, Vaughan Williams composed his first piece, proving that he was not just any child prodigy; he was a composer who had his sights set on greatness. The neighbors probably raved about how well-behaved he was, but little did they know he was busy crafting symphonies in his head!",
+      "year": 1885,
+      "city": "Isle of Wight",
+      "country": "England"
+    },
+    {
+      "event": "First Symphony Premiered",
+      "summary": "The world finally got a taste of Vaughan Williams's genius when his first symphony debuted. Critics were confused, audiences were captivated, and he was probably wondering if he\u2019d ever be invited to tea again after all those dissonances!",
+      "year": 1910,
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "event": "Beacon of English Music",
+      "summary": "Vaughan Williams became a symbol of national pride and a beacon of English music. It was as if he had donned the crown of kingly homage, ruling over the realm of composers with the upbeat rhythms and heartfelt harmonies that made everyone want to hum along!",
+      "year": 1920,
+      "city": "London",
+      "country": "England"
+    },
+    {
+      "event": "Last Symphony Finished",
+      "summary": "In a remarkable display of perseverance, Vaughan Williams completed his final symphony. Even at this late stage in life, he proved that creativity knows no age limits. It was a symphonic farewell that made everyone think he must have discovered the secret to eternal youth!",
+      "year": 1958,
+      "city": "London",
+      "country": "England"
+    }
+  ],
+  "compositions": [
+    {
+      "imslp_url": "https://imslp.org/wiki/Alister_McAlpine%27s_Lament_(Vaughan_Williams,_Ralph)",
+      "year": 1912,
+      "title": "Alister McAlpine's Lament"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Along_the_Field_(Vaughan_Williams,_Ralph)",
+      "year": 1927,
+      "title": "Along the Field"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/At_the_Name_of_Jesus_(Vaughan_Williams,_Ralph)",
+      "year": 1925,
+      "title": "At the Name of Jesus"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Benedicite_(Vaughan_Williams,_Ralph)",
+      "year": 1929,
+      "title": "Benedicite"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Blackmwore_by_the_Stour_(Vaughan_Williams,_Ralph)",
+      "year": 1901,
+      "title": "Blackmwore by the Stour"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/10_Blake_Songs_(Vaughan_Williams,_Ralph)",
+      "year": 1957,
+      "title": "10 Blake Songs"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Come_away,_Death_(Vaughan_Williams,_Ralph)",
+      "year": 1899,
+      "title": "Come away, Death"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_Accademico_(Vaughan_Williams,_Ralph)",
+      "year": 1924,
+      "title": "Concerto Accademico"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Concerto_Grosso_(Vaughan_Williams,_Ralph)",
+      "year": 1950,
+      "title": "Concerto Grosso"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Dona_Nobis_Pacem_(Vaughan_Williams,_Ralph)",
+      "year": 1936,
+      "title": "Dona Nobis Pacem"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/English_Folk_Song_Suite_(Vaughan_Williams,_Ralph)",
+      "year": 1923,
+      "title": "English Folk Song Suite"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_English_Folk_Songs_(Vaughan_Williams,_Ralph)",
+      "year": 1913,
+      "title": "5 English Folk Songs"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Epithalamion_(Vaughan_Williams,_Ralph)",
+      "year": 1939,
+      "title": "Epithalamion"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fain_Would_I_Change_That_Note_(Vaughan_Williams,_Ralph)",
+      "year": 1907,
+      "title": "Fain Would I Change That Note"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantasia_on_a_Theme_by_Thomas_Tallis_(Vaughan_Williams,_Ralph)",
+      "year": 1910,
+      "title": "Fantasia on a Theme by Thomas Tallis"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantasia_on_Christmas_Carols_(Vaughan_Williams,_Ralph)",
+      "year": 1912,
+      "title": "Fantasia on Christmas Carols"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Fantasia_on_Greensleeves_(Vaughan_Williams,_Ralph)",
+      "year": 1934,
+      "title": "Fantasia on Greensleeves"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Festival_Te_Deum_(Vaughan_Williams,_Ralph)",
+      "year": 1937,
+      "title": "Festival Te Deum"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Flos_Campi_(Vaughan_Williams,_Ralph)",
+      "year": 1925,
+      "title": "Flos Campi"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/For_All_the_Saints_(Vaughan_Williams,_Ralph)",
+      "year": 1906,
+      "title": "For All the Saints"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Forest_Green_(Vaughan_Williams,_Ralph)",
+      "year": 1906,
+      "title": "Forest Green"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_49th_Parallel_(Vaughan_Williams,_Ralph)",
+      "year": 1940,
+      "title": "The 49th Parallel"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hodie_(Vaughan_Williams,_Ralph)",
+      "year": 1953,
+      "title": "Hodie"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_House_of_Life_(Vaughan_Williams,_Ralph)",
+      "year": 1903,
+      "title": "The House of Life"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hugh_the_Drover_(Vaughan_Williams,_Ralph)",
+      "year": 1910,
+      "title": "Hugh the Drover"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Hundredth_Psalm_(Vaughan_Williams,_Ralph)",
+      "year": 1929,
+      "title": "The Hundredth Psalm"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Hymn_Tune_Prelude_on_Song_13_(Vaughan_Williams,_Ralph)",
+      "year": 1930,
+      "title": "Hymn Tune Prelude on Song 13"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Hymn-Tune_Preludes_(Vaughan_Williams,_Ralph)",
+      "year": 1936,
+      "title": "2 Hymn-Tune Preludes"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Hymns_(Vaughan_Williams,_Ralph)",
+      "year": 1920,
+      "title": "4 Hymns"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/In_The_Fen_Country_(Vaughan_Williams,_Ralph)",
+      "year": 1904,
+      "title": "In The Fen Country"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/In_the_Spring_(Vaughan_Williams,_Ralph)",
+      "year": 1952,
+      "title": "In the Spring"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Job_(Vaughan_Williams,_Ralph)",
+      "year": 1927,
+      "title": "Job"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Lark_Ascending_(Vaughan_Williams,_Ralph)",
+      "year": 1914,
+      "title": "The Lark Ascending"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Let_Us_Now_Praise_Famous_Men_(Vaughan_Williams,_Ralph)",
+      "year": 1923,
+      "title": "Let Us Now Praise Famous Men"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Linden_Lea_(Vaughan_Williams,_Ralph)",
+      "year": 1901,
+      "title": "Linden Lea"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Loch_Lomond_(Vaughan_Williams,_Ralph)",
+      "year": 1921,
+      "title": "Loch Lomond"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Lord,_Thou_hast_been_our_refuge_(Vaughan_Williams,_Ralph)",
+      "year": 1921,
+      "title": "Lord, Thou hast been our refuge"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Mass_in_G_minor_(Vaughan_Williams,_Ralph)",
+      "year": 1921,
+      "title": "Mass in G minor"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Merciless_Beauty_(Vaughan_Williams,_Ralph)",
+      "year": 1921,
+      "title": "Merciless Beauty"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Morning_Service_in_D_minor_(Vaughan_Williams,_Ralph)",
+      "year": 1939,
+      "title": "Morning Service in D minor"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_Mystical_Songs_(Vaughan_Williams,_Ralph)",
+      "year": 1911,
+      "title": "5 Mystical Songs"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Norfolk_Rhapsody_No.1_(Vaughan_Williams,_Ralph)",
+      "year": 1905,
+      "title": "Norfolk Rhapsody No.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/O_Clap_Your_Hands_(Vaughan_Williams,_Ralph)",
+      "year": 1920,
+      "title": "O Clap Your Hands"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/O_Praise_the_Lord_of_Heaven_(Vaughan_Williams,_Ralph)",
+      "year": 1913,
+      "title": "O Praise the Lord of Heaven"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/O_Taste_and_See_(Vaughan_Williams,_Ralph)",
+      "year": 1953,
+      "title": "O Taste and See"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Oboe_Concerto_(Vaughan_Williams,_Ralph)",
+      "year": 1944,
+      "title": "Oboe Concerto"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Old_German_Songs_(Vaughan_Williams,_Ralph)",
+      "year": 1902,
+      "title": "2 Old German Songs"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Old_Hundredth_Psalm_Tune_(Vaughan_Williams,_Ralph)",
+      "year": 1953,
+      "title": "The Old Hundredth Psalm Tune"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Old_King_Cole_(Vaughan_Williams,_Ralph)",
+      "year": 1923,
+      "title": "Old King Cole"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/On_Wenlock_Edge_(Vaughan_Williams,_Ralph)",
+      "year": 1909,
+      "title": "On Wenlock Edge"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Organ_Preludes_(Vaughan_Williams,_Ralph)",
+      "year": 1956,
+      "title": "2 Organ Preludes"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Orpheus_with_His_Lute_(Vaughan_Williams,_Ralph)",
+      "year": 1903,
+      "title": "Orpheus with His Lute"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Partita_(Vaughan_Williams,_Ralph)",
+      "year": 1948,
+      "title": "Partita"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Phantasy_Quintet_(Vaughan_Williams,_Ralph)",
+      "year": 1912,
+      "title": "Phantasy Quintet"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_in_C_major_(Vaughan_Williams,_Ralph)",
+      "year": 1926,
+      "title": "Piano Concerto in C major"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Piano_Quintet_in_C_minor_(Vaughan_Williams,_Ralph)",
+      "year": 1903,
+      "title": "Piano Quintet in C minor"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Pilgrim%27s_Progress_(Vaughan_Williams,_Ralph)",
+      "year": 1949,
+      "title": "The Pilgrim's Progress"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/4_Poems_by_Fredegond_Shove_(Vaughan_Williams,_Ralph)",
+      "year": 1925,
+      "title": "4 Poems by Fredegond Shove"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/2_Poems_by_Seumas_O%27Sullivan_(Vaughan_Williams,_Ralph)",
+      "year": 1925,
+      "title": "2 Poems by Seumas O'Sullivan"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Poems_by_Walt_Whitman_(Vaughan_Williams,_Ralph)",
+      "year": 1925,
+      "title": "3 Poems by Walt Whitman"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Prelude_and_Fugue_in_C_minor_(Vaughan_Williams,_Ralph)",
+      "year": 1921,
+      "title": "Prelude and Fugue in C minor"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Preludes_Founded_on_Welsh_Hymn_Tunes_(Vaughan_Williams,_Ralph)",
+      "year": 1920,
+      "title": "3 Preludes Founded on Welsh Hymn Tunes"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Riders_to_the_Sea_(Vaughan_Williams,_Ralph)",
+      "year": 1927,
+      "title": "Riders to the Sea"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Ring_Out_Your_Bells_(Vaughan_Williams,_Ralph)",
+      "year": 1902,
+      "title": "Ring Out Your Bells"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Romance_for_Harmonica_(Vaughan_Williams,_Ralph)",
+      "year": 1951,
+      "title": "Romance for Harmonica"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sancta_Civitas_(Vaughan_Williams,_Ralph)",
+      "year": 1923,
+      "title": "Sancta Civitas"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Serenade_to_Music_(Vaughan_Williams,_Ralph)",
+      "year": 1938,
+      "title": "Serenade to Music"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Shakespeare_Songs_(Vaughan_Williams,_Ralph)",
+      "year": 1951,
+      "title": "3 Shakespeare Songs"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Shepherds_of_the_Delectable_Mountains_(Vaughan_Williams,_Ralph)",
+      "year": 1921,
+      "title": "The Shepherds of the Delectable Mountains"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sir_John_in_Love_(Vaughan_Williams,_Ralph)",
+      "year": 1928,
+      "title": "Sir John in Love"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Sky_Above_the_Roof_(Vaughan_Williams,_Ralph)",
+      "year": 1908,
+      "title": "The Sky Above the Roof"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Songs_of_Travel_(Vaughan_Williams,_Ralph)",
+      "year": 1905,
+      "title": "Songs of Travel"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1_(Vaughan_Williams,_Ralph)",
+      "year": 1909,
+      "title": "String Quartet No.1"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2_(Vaughan_Williams,_Ralph)",
+      "year": 1944,
+      "title": "String Quartet No.2"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/6_Studies_in_English_Folksong_(Vaughan_Williams,_Ralph)",
+      "year": 1926,
+      "title": "6 Studies in English Folksong"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Suite_for_Viola_and_Small_Orchestra_(Vaughan_Williams,_Ralph)",
+      "year": 1934,
+      "title": "Suite for Viola and Small Orchestra"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Suite_of_6_Short_Pieces_(Vaughan_Williams,_Ralph)",
+      "year": 1920,
+      "title": "Suite of 6 Short Pieces"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/A_Sea_Symphony_(Symphony_No.1)_(Vaughan_Williams,_Ralph)",
+      "year": 1903,
+      "title": "A Sea Symphony"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/A_London_Symphony_(Symphony_No.2)_(Vaughan_Williams,_Ralph)",
+      "year": 1913,
+      "title": "A London Symphony"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.4_in_F_minor_(Vaughan_Williams,_Ralph)",
+      "year": 1932,
+      "title": "Symphony No.4 in F minor"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.5_in_D_major_(Vaughan_Williams,_Ralph)",
+      "year": 1938,
+      "title": "Symphony No.5 in D major"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.6_in_E_minor_(Vaughan_Williams,_Ralph)",
+      "year": 1947,
+      "title": "Symphony No.6 in E minor"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sinfonia_Antartica_(Symphony_No.7)_(Vaughan_Williams,_Ralph)",
+      "year": 1952,
+      "title": "Sinfonia Antartica"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.8_in_D_minor_(Vaughan_Williams,_Ralph)",
+      "year": 1956,
+      "title": "Symphony No.8 in D minor"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.9_in_E_minor_(Vaughan_Williams,_Ralph)",
+      "year": 1956,
+      "title": "Symphony No.9 in E minor"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Te_Deum_in_G_major_(Vaughan_Williams,_Ralph)",
+      "year": 1928,
+      "title": "Te Deum in G major"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Toccata_Marziale_(Vaughan_Williams,_Ralph)",
+      "year": 1924,
+      "title": "Toccata Marziale"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Toward_the_Unknown_Region_(Vaughan_Williams,_Ralph)",
+      "year": 1906,
+      "title": "Toward the Unknown Region"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Tuba_Concerto_(Vaughan_Williams,_Ralph)",
+      "year": 1954,
+      "title": "Tuba Concerto"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_Tudor_Portraits_(Vaughan_Williams,_Ralph)",
+      "year": 1935,
+      "title": "5 Tudor Portraits"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/5_Variants_of_%E2%80%98Dives_and_Lazarus%E2%80%99_(Vaughan_Williams,_Ralph)",
+      "year": 1939,
+      "title": "5 Variants of \u2018Dives and Lazarus\u2019"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Variations_for_Brass_Band_(Vaughan_Williams,_Ralph)",
+      "year": 1957,
+      "title": "Variations for Brass Band"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_(Vaughan_Williams,_Ralph)",
+      "year": 1954,
+      "title": "Violin Sonata"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/3_Vocalises_(Vaughan_Williams,_Ralph)",
+      "year": 1958,
+      "title": "3 Vocalises"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Wasps,_Aristophanic_suite_(Vaughan_Williams,_Ralph)",
+      "year": 1909,
+      "title": "The Wasps, Aristophanic suite"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Wasps_(Vaughan_Williams,_Ralph)",
+      "year": 1908,
+      "title": "The Wasps"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/12_Traditional_Carols_from_Herefordshire_(Vaughan_Williams,_Ralph)",
+      "year": 1920,
+      "title": "12 Traditional Carols from Herefordshire"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/8_Traditional_English_Carols_(Vaughan_Williams,_Ralph)",
+      "year": 1919,
+      "title": "8 Traditional English Carols"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Bushes_and_Briars_(Vaughan_Williams,_Ralph)",
+      "year": 1908,
+      "title": "Bushes and Briars"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/R%C3%A9veillez-vous_Picards_(Vaughan_Williams,_Ralph)",
+      "year": 1907,
+      "title": "R\u00e9veillez-vous Picards"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/Sea_Songs_(Vaughan_Williams,_Ralph)",
+      "year": 1924,
+      "title": "Sea Songs"
+    },
+    {
+      "imslp_url": "https://imslp.org/wiki/The_Making_of_Music_(Vaughan_Williams,_Ralph)",
+      "year": 1955,
+      "title": "The Making of Music"
+    }
+  ]
+}

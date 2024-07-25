@@ -1,0 +1,277 @@
+{
+  "full_name": "Astor Piazzolla",
+  "first_names": "Astor",
+  "last_name": "Piazzolla",
+  "birth_year": 1921,
+  "death_year": 1992,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Astor_Piazzolla",
+  "events": [
+    {
+      "event": "Birth",
+      "summary": "Astor Piazzolla was born into a world that probably wasn't ready for his bandoneon brilliance. It was March 11, 1921, in Mar del Plata, Argentina, where the tango was about to meet its revolution. Watch out, world!",
+      "year": 1921,
+      "city": "Mar del Plata",
+      "country": "Argentina"
+    },
+    {
+      "event": "First Tango Composition",
+      "summary": "At just 13 years old, Piazzolla decided that the world needed his musical genius and composed 'La Catinga.' This was his first tango composition, and we can only assume it had everyone dancing!",
+      "year": 1932,
+      "city": "New York City",
+      "country": "USA"
+    },
+    {
+      "event": "Meeting Carlos Gardel",
+      "summary": "Piazzolla met Carlos Gardel, the king of tango, and even played a cameo role in one of his movies. Unfortunately for him, his father wouldn\u2019t let him join Gardel's tour\u2014a decision that saved his life!",
+      "year": 1934,
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    {
+      "event": "Joining An\u00edbal Troilo's Orchestra",
+      "summary": "Piazzolla hit the big leagues by joining the orchestra of An\u00edbal Troilo, one of tango's superstars. This was his chance to shine, but let\u2019s just say their creative differences made for some dramatic tango duels!",
+      "year": 1939,
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    {
+      "event": "Forming Orquesta T\u00edpica",
+      "summary": "In a bold move to blend his unique style with traditional tango, Piazzolla formed his own orchestra. The Orquesta T\u00edpica was his playground for experimenting, showing that tango could wear many hats!",
+      "year": 1946,
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    {
+      "event": "Studying in Paris",
+      "summary": "With a nudge from his mentor, Piazzolla traveled to Paris to study composition with Nadia Boulanger. Little did he know this would be the moment he embraced his tango roots instead of hiding from them!",
+      "year": 1954,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Forming Orquesta de Cuerdas",
+      "summary": "Back in Buenos Aires, Piazzolla founded the Orquesta de Cuerdas, revolutionizing tango with a sound that felt like a fancy dinner party mixed with a street dance showdown!",
+      "year": 1955,
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    {
+      "event": "Composing 'Adi\u00f3s Nonino'",
+      "summary": "After the passing of his father, Piazzolla channeled his grief into a timeless masterpiece, 'Adi\u00f3s Nonino,' proving that while tango can be dance, it can also express deep emotions\u2014just like a soap opera!",
+      "year": 1959,
+      "city": "New York City",
+      "country": "USA"
+    },
+    {
+      "event": "Premiering 'Mar\u00eda de Buenos Aires'",
+      "summary": "Piazzolla released the operetta 'Mar\u00eda de Buenos Aires,' layering his music with poetic lyrics by Horacio Ferrer, turning tango into a high art that even the critics couldn\u2019t resist!",
+      "year": 1968,
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    {
+      "event": "International Recognition",
+      "summary": "By the 1970s, Piazzolla's nuevo tango style gained indigenous and international fame, proving that tango could be an art form as formidable as any classical mastery. Who knew dancing could come with such highbrow credentials?",
+      "year": 1970,
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    {
+      "event": "Premiering Cuatro Estaciones Porte\u00f1as",
+      "summary": "Astor Piazzolla decided that the best way to greet Buenos Aires was with a bang\u2014an actual concert bang featuring his composition, Cuatro Estaciones Porte\u00f1as, which undoubtedly made the city's weather feel a bit jealous.",
+      "year": 1970,
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    {
+      "event": "Founding Conjunto 9",
+      "summary": "After a brief tango with financial woes, Piazzolla founded the Conjunto 9, a dream team for his sophisticated music. Unfortunately, the dream turned into a financial nightmare, leaving him with more empty pockets than melodies.",
+      "year": 1970,
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    {
+      "event": "Heart Attack and Move to Italy",
+      "summary": "In a classic case of 'when it rains, it pours', Piazzolla suffered a heart attack and decided to pack up and move to Italy, where he traded tango beats for pasta rhythms.",
+      "year": 1973,
+      "city": "Milan",
+      "country": "Italy"
+    },
+    {
+      "event": "Recording Libertango",
+      "summary": "Piazzolla recorded his legendary album Libertango in Milan. This album sharply reminded everyone that tango could, and should, rock harder than a traditional dance hall.",
+      "year": 1974,
+      "city": "Milan",
+      "country": "Italy"
+    },
+    {
+      "event": "Formation of Electronic Octet",
+      "summary": "Astor Piazzolla launched his Electronic Octet, merging the traditional sounds of tango with electrifying modern instruments, proving that tango could really 'amp' up the excitement.",
+      "year": 1975,
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    {
+      "event": "Concert at Teatro Gran Rex",
+      "summary": "Piazzolla took to the stage at the Teatro Gran Rex, showcasing his work, '500 motivaciones', a title that could easily refer to why he kept composing despite the ups and downs of artistic life.",
+      "year": 1976,
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    {
+      "event": "Formation of Second Quintet",
+      "summary": "Piazzolla formed his second Quintet, setting off on a whirlwind world tour. This group proved to be the perfect blend of talent and fun, putting the 'cinco' back in 'quintet'!",
+      "year": 1978,
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    {
+      "event": "Concert at Teatro Col\u00f3n",
+      "summary": "Piazzolla staged one of his best concerts at the prestigious Teatro Col\u00f3n in Buenos Aires, reminding everyone why he was the maestro of nuevo tango\u2014probably while getting jazz hands from the orchestra.",
+      "year": 1983,
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    {
+      "event": "Appearance at Montreal International Jazz Festival",
+      "summary": "Performing at the Montreal International Jazz Festival, Piazzolla sent the crowd into a tango frenzy, proving that even jazz festivals couldn't resist the pull of a charismatic bandoneon.",
+      "year": 1984,
+      "city": "Montreal",
+      "country": "Canada"
+    },
+    {
+      "event": "Recording Suite Punta del Este",
+      "summary": "Piazzolla recorded Suite Punta del Este, which turned his concert at the Teatro Nazionale into an auditory delight that left listeners ping-ponging between joy and melancholy.",
+      "year": 1984,
+      "city": "Milan",
+      "country": "Italy"
+    },
+    {
+      "event": "Winning C\u00e9sar Award",
+      "summary": "Piazzolla snagged the C\u00e9sar Award for his film score to El exilio de Gardel. Clearly, even French critics couldn't resist the tempting tug of tango.",
+      "year": 1986,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Final Concert in New York's Central Park",
+      "summary": "In an emotional and nostalgic performance at Central Park, Piazzolla shared his music with the city of his childhood, closing out a memorable chapter with a bandoneon and a heart full of memories.",
+      "year": 1987,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "Marriage to Laura Escalada",
+      "summary": "In a delightful twist of fate, Piazzolla tied the knot with singer Laura Escalada, proving that not all duets are just about the music!",
+      "year": 1988,
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    {
+      "event": "Formation of Sexteto Nuevo Tango",
+      "summary": "Piazzolla formed his last ensemble, the Sexteto Nuevo Tango, featuring a fresh twist on tango that promised more surprises than a magician's hat.",
+      "year": 1989,
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    {
+      "event": "Last Concert in Athens",
+      "summary": "Piazzolla graced the stage in Athens for his final concert, leaving behind echoes of his melodies\u2014much like breadcrumbs, but much more artistic.",
+      "year": 1990,
+      "city": "Athens",
+      "country": "Greece"
+    },
+    {
+      "event": "Release of Album with Borges",
+      "summary": "In 1965, Astor Piazzolla decided to team up with literary giant Jorge Luis Borges, because normal album collaborations just weren\u2019t avant-garde enough. They released an album that featured Borges's poetry over Piazzolla\u2019s experimental music\u2014where dodecaphonic rows and free improvisation made tango sound like it was having a midlife crisis.",
+      "year": 1965,
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    {
+      "event": "Creation of Mar\u00eda de Buenos Aires",
+      "summary": "Piazzolla took a dramatic leap into the world of opera in 1968, crafting 'Mar\u00eda de Buenos Aires'. This wasn\u2019t your average opera, as it included everything from flutes to hurdy-gurdies, a nod to his flair for the theatrical. It was a musical buffet served alongside a dash of nostalgia!",
+      "year": 1968,
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    {
+      "event": "New Musical Style Exploration",
+      "summary": "By the 1970s, Piazzolla found himself in Rome, where he decided it was time for a 'musical diet'. He lightened up his style, incorporating jazz influences as though tango were shedding pounds, leading to creations like Libertango that practically danced on air!",
+      "year": 1970,
+      "city": "Rome",
+      "country": "Italy"
+    },
+    {
+      "event": "Autonomy and Ambition in Composition",
+      "summary": "In the 1980s, Astor Piazzolla found himself swimming in money and creativity. He dived into ambitious multi-movement works, such as 'Histoire du Tango' that humorously narrated its evolution over decades\u2014complete with flutist and guitarist reminiscing like old pals at a bar.",
+      "year": 1980,
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    {
+      "event": "Formation of Sextet After Quintet",
+      "summary": "Piazzolla\u2019s 1989 move to form a sextet from his beloved quintet was like upgrading from a family sedan to a high-speed sports car. He included an extra bandoneon and electric guitar, promising that the music would be more adventurous harmonically and structurally, as if tango were now aiming for a PhD in jazz fusion.",
+      "year": 1989,
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    {
+      "event": "Stroke Incident",
+      "summary": "In 1990, while casually heading to church, Piazzolla was dealt a blow that could stop any musician\u2014an incapacitating stroke. It was as if tango had hit a flat note, leaving the world to wonder what sonic escapades he might have orchestrated next, had he maintained his health.",
+      "year": 1990,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Concert at Central Park",
+      "summary": "On September 6, 1987, Piazzolla\u2019s quintet performed a concert that transformed New York's Central Park into a tango dance floor, capturing the hearts of modern audiences. This whimsical event turned out to be memorable enough to get a CD release, proving that not all park concerts end with a simple picnic.",
+      "year": 1987,
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "event": "First Music Lessons",
+      "summary": "Young Astor started his musical journey by learning the bandone\u00f3n, a decision that would later make him the 'Houdini of the bandone\u00f3n'. His first lessons were like a crash course in tango, minus the dancing shoes!",
+      "year": 1930,
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    {
+      "event": "Studied in Paris",
+      "summary": "Astor took his talents to Paris, where he attended the Conservatoire, soaking up European classical music like a sponge at a juice bar. His time there was so inspiring that he almost forgot about his tango roots, well, almost.",
+      "year": 1946,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Formation of Orquesta T\u00edpica",
+      "summary": "Piazzolla decided to form his own orchestra, Orquesta T\u00edpica, which was like starting a rock band, but with more dancing and less screaming. This marked the birth of his modern tango style, which was quite the upgrade from the earlier models.",
+      "year": 1955,
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    {
+      "event": "Libertango Composition",
+      "summary": "Astor composed 'Libertango', a piece that became an anthem for freedom, liberation, and probably spontaneous dance parties across the globe. It was the kind of track that made even the most rigid folks want to shake it!",
+      "year": 1974,
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    {
+      "event": "Final Concert",
+      "summary": "Before signing off for the grand concert in the sky, Piazzolla performed one last fabulous concert, proving that age is just a number and the spirit of tango knows no bounds. His performance was so vibrant that it felt like he was dancing on stage even while seated!",
+      "year": 1990,
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "event": "Passing",
+      "summary": "Astor Piazzolla left the world stage for good, but his music remains in a perpetual tango, still spinning and swaying as people dance to his tunes. Even in the afterlife, one can only imagine the celestial tango parties he\u2019s throwing!",
+      "year": 1992,
+      "city": "Paris",
+      "country": "France"
+    }
+  ],
+  "compositions": []
+}
