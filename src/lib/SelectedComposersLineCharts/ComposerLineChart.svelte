@@ -1,5 +1,6 @@
 <script>
   import { chart } from "svelte-apexcharts";
+  import { sineIn } from "svelte/easing";
   export let composerData;
   export let xMin;
   export let xMax;
@@ -63,6 +64,12 @@
             window.location.hash = `#${composerURI}-${xValue}`;
           },
         },
+      },
+      tooltip: {
+        custom: function () {
+          return `<div></div>`;
+        },
+        x: { show: false, format: "click !" }, // This disables all tooltips
       },
       series: [
         {
