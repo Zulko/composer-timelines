@@ -2,13 +2,18 @@
   export let composerData;
   export let showWorks = true;
   export let showLifeEvents = true;
+  export let year;
+  let sectionId;
 
+  $: {
+    sectionId = `${encodeURIComponent(composerData.full_name)}-${year}`;
+  }
   function youtubeSearchTerm(composition) {
     return encodeURIComponent(composerData.last_name + " " + composition.title);
   }
 </script>
 
-<div class="composer-events">
+<div class="composer-events" id={sectionId}>
   {#if composerData.events.length > 0 || composerData.compositions.length > 0}
     <h3>
       <a
@@ -54,16 +59,6 @@
           >
             <i class="fab fa-youtube"></i>
           </a>
-          <!-- <a
-            href="https://open.spotify.com/search/{youtubeSearchTerm(
-              composition
-            )}"
-            class="icon"
-            target="_blank"
-            title="Search Spotify"
-          >
-            <i class="fab fa-spotify"></i>
-          </a> -->
           {composition.title}
         </li>
       {/each}

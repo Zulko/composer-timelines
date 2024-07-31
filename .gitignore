@@ -25,5 +25,6 @@ dist-ssr
 
 /public/build/
 /data_collection/data/
-/data_collection/.env
+/data_collection/.ipynb_checkpoints
+
 .DS_Store

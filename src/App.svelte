@@ -1,13 +1,15 @@
 <script>
   import { onMount } from "svelte";
   import ComposerSelector from "./lib/ComposerSelector.svelte";
-  import YearByYearDisplay from "./lib/YearByYearDisplay.svelte";
+  import YearByYearDisplay from "./lib/YearByYearDisplay/YearByYearDisplay.svelte";
   import About from "./lib/About.svelte";
+  import SelectedComposersLineCharts from "./lib/SelectedComposersLineCharts/SelectedComposersLineCharts.svelte";
 
   let composerListWithMetadata = [];
   let selectedComposers = [];
   let composerData = {};
   let worldEvents = {};
+  let selectedComposerData = [];
 
   const baseFolder =
     process.env.NODE_ENV === "development" ? "" : "/composer-timelines";
@@ -16,17 +18,24 @@
 
   $: {
     // compute the years to display information for
+
+    let selectedComposersWithData = selectedComposers.filter(
+      (c) => composerData[c]
+    );
+    selectedComposersWithData.sort(
+      (a, b) => composerData[a].birth_year - composerData[b].birth_year
+    );
+    console.log(selectedComposersWithData);
+
     let yearsSet = new Set();
-    selectedComposers
-      .filter((c) => composerData[c])
-      .forEach((composer) => {
-        composerData[composer].events.forEach((event) =>
-          yearsSet.add(event.year)
-        );
-        composerData[composer].compositions.forEach((composition) =>
-          yearsSet.add(composition.year)
-        );
-      });
+    selectedComposersWithData.forEach((composer) => {
+      composerData[composer].events.forEach((event) =>
+        yearsSet.add(event.year)
+      );
+      composerData[composer].compositions.forEach((composition) =>
+        yearsSet.add(composition.year)
+      );
+    });
     let yearsToDisplay = Array.from(yearsSet)
       .filter((year) => year)
       .sort((a, b) => a - b);
@@ -35,20 +44,22 @@
     dataByYearToDisplay = yearsToDisplay.map((year) => ({
       year,
       worldEvents: worldEvents[year],
-      selectedComposers: selectedComposers
-        .filter((c) => composerData[c])
-        .map((composer) => ({
-          full_name: composer,
-          last_name: composerData[composer].last_name,
-          wikipedia_url: composerData[composer].wikipedia_url,
-          events: composerData[composer].events.filter(
-            (event) => event.year === year
-          ),
-          compositions: composerData[composer].compositions.filter(
-            (composition) => composition.year === year
-          ),
-        })),
+      selectedComposers: selectedComposersWithData.map((composer) => ({
+        full_name: composer,
+        last_name: composerData[composer].last_name,
+        wikipedia_url: composerData[composer].wikipedia_url,
+        events: composerData[composer].events.filter(
+          (event) => event.year === year
+        ),
+        compositions: composerData[composer].compositions.filter(
+          (composition) => composition.year === year
+        ),
+      })),
     }));
+
+    selectedComposerData = selectedComposersWithData.map(
+      (composer) => composerData[composer]
+    );
   }
 
   onMount(async () => {
@@ -88,6 +99,7 @@
     on:selectionChange={handleSelection}
     on:unselected={handleUnselect}
   />
+  <SelectedComposersLineCharts {selectedComposerData} />
   <YearByYearDisplay {dataByYearToDisplay} />
   <About />
 </main>

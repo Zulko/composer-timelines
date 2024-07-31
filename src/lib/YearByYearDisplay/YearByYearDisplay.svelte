@@ -22,7 +22,12 @@
   {#each dataByYearToDisplay as yearData}
     <h2>{yearData.year}</h2>
     {#each yearData.selectedComposers as composerData}
-      <ComposerEvents {composerData} {showWorks} {showLifeEvents} />
+      <ComposerEvents
+        {composerData}
+        {showWorks}
+        {showLifeEvents}
+        year={yearData.year}
+      />
     {/each}
     {#if showWorldEvents}
       <YearWorldEvents events={yearData.worldEvents} />
