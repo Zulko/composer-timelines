@@ -86,8 +86,8 @@
 
   function handleUnselect(event) {
     console.log({ event });
-    selectedComposers = selectedComposers.filter(
-      (e) => event.detail & (e != event.detail)
+    selectedComposers = selectedComposers.filter((e) =>
+      event.detail ? e != event.detail : false
     );
   }
 
