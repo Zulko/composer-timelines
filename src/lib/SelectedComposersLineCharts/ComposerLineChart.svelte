@@ -28,7 +28,7 @@
     for (let year = minYear; year <= maxYear; year++) {
       allYears.push(year.toString());
       let eventsTotal = worksByYear[year] || 0;
-      combinedByYear[year] = Math.min(eventsTotal, 10);
+      combinedByYear[year] = Math.sqrt(eventsTotal);
     }
 
     allYears.sort();
