@@ -7,1001 +7,833 @@
   "wikipedia_url": "https://en.wikipedia.org/wiki/Anton\u00edn_Dvo\u0159\u00e1k",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Born in Nelahozeves, Czech Republic, Anton\u00edn Dvo\u0159\u00e1k entered the world as the eldest of 14 children, much like a living family tree with a lot of branches. His parents, an innkeeper and a zither player, must have had quite the household symphony going on!",
+      "section": "Biography",
+      "title": "Birth",
+      "summary": "Anton\u00edn Dvo\u0159\u00e1k was born in Nelahozeves, near Prague, as the eldest son of Franti\u0161ek Dvo\u0159\u00e1k and Anna Zde\u0148kov\u00e1. His upbringing in a musical family and strong Christian faith fostered his love for music and his Bohemian heritage.",
       "year": 1841,
-      "city": "Nelahozeves",
-      "country": "Austria-Hungary"
+      "location": "Nelahozeves, Austrian Empire",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Anton\u00edn Dvo\u0159\u00e1k, the first of Franti\u0161ek Dvo\u0159\u00e1k and Anna Zde\u0148kov\u00e1's children, burst into the world near Prague. Growing up in a musical family, he didn't just inherit a love for music; he was practically born with a musical score attached! His strong Christian faith and Bohemian heritage undoubtedly shaped his musical journey\u2014because what better way to hit all the right notes than with divine inspiration!"
     },
     {
-      "event": "First public performance",
-      "summary": "Dvo\u0159\u00e1k's works finally got their moment of fame when they were performed in Prague. Imagine that excitement\u2014it's like being the opening act for your favorite band, except it\u2019s just your own compositions getting a shot at the spotlight!",
+      "section": "Biography",
+      "title": "First Composition",
+      "summary": "Dvo\u0159\u00e1k wrote his first composition, the Forget-Me-Not Polka in C, possibly in 1855. This early creative endeavor marked the beginning of his journey as a composer.",
+      "year": 1855,
+      "location": "Zlonice",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "So, picture this: Dvo\u0159\u00e1k, in 1855, decided to whip out his first composition - the Forget-Me-Not Polka in C. He thought, \u2018Why not mix chaos with some catchy tunes?\u2019 This playful polka marked the beginning of Dvo\u0159\u00e1k\u2019s grand journey into the world of composition!"
+    },
+    {
+      "section": "Biography",
+      "title": "Graduation from Organ School",
+      "summary": "In 1859, Dvo\u0159\u00e1k graduated from the Organ School in Prague, ranking second in his class, after extensive studies in singing and organ with notable professors.",
+      "year": 1859,
+      "location": "Prague",
+      "emoji": "\ud83c\udf93",
+      "fun_version": "In 1859, Dvo\u0159\u00e1k graduated from the Organ School in Prague! He didn\u2019t just play the organ; he practically made it sing. After extensive studies in singing and organ with notable professors, he ranked second in his class. Quite impressive unless you consider there was only one other student who took frequent snack breaks!"
+    },
+    {
+      "section": "Biography",
+      "title": "First Public Performance",
+      "summary": "Dvo\u0159\u00e1k's Piano Quintet in A major, Op. 5, was performed in November 1872 in Prague. This event was significant as it was his first piece played in a concert setting.",
       "year": 1872,
-      "city": "Prague",
-      "country": "Austria-Hungary"
+      "location": "Prague",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Dvo\u0159\u00e1k's Piano Quintet was so charming that even the piano couldn't contain its excitement! In November 1872, this masterpiece made a grand entrance in Prague, and it was a particularly noteworthy occasion as it marked dear Anton\u00edn's first time unleashing his music in a concert setting\u2014without any musical dog leashes, mind you!"
     },
     {
-      "event": "Winning the Austrian State Prize",
-      "summary": "After submitting a generous 15 works to the jury, including two symphonies, Dvo\u0159\u00e1k snagged the Austrian State Prize. It's like winning a free pass to the composer\u2019s club, and all thanks to Brahms noticing his undeniable talent amidst financial woes!",
-      "year": 1874,
-      "city": "Prague",
-      "country": "Austria-Hungary"
+      "section": "Biography",
+      "title": "Successful Performance of Cantata",
+      "summary": "In March 1873, Dvo\u0159\u00e1k's Czech patriotic cantata The Heirs of the White Mountain was performed by the Prague Hlahol Choral Society, receiving a warm response from the audience and critics, marking a notable success in his career.",
+      "year": 1873,
+      "location": "Prague",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In March 1873, Dvo\u0159\u00e1k\u2019s Czech patriotic cantata The Heirs of the White Mountain took center stage. It was performed by the Prague Hlahol Choral Society, who must have been proud to sing their hearts out! The audience and critics offered a warm response and couldn\u2019t stop applauding. This marked a notable success in Dvo\u0159\u00e1k\u2019s career."
     },
     {
-      "event": "Publication of the Slavonic Dances",
-      "summary": "With a recommendation from Brahms, the commission for Slavonic Dances turned into a global sensation. Talk about taking your folk tunes on a world tour \u2013 Dvo\u0159\u00e1k hit the right notes with this one!",
-      "year": 1878,
-      "city": "Prague",
-      "country": "Austria-Hungary"
+      "section": "Biography",
+      "title": "Austrian State Prize",
+      "summary": "In 1875, Dvo\u0159\u00e1k won the Austrian State Prize for composition, which provided him with financial support and recognition from esteemed jurors including Johannes Brahms.",
+      "year": 1875,
+      "location": "Austria",
+      "emoji": "\ud83c\udfc6",
+      "fun_version": "In 1875, Dvo\u0159\u00e1k won the Austrian State Prize for composition, which didn't just give him financial support; it set him on a path to becoming the rock star of classical music\u2014unfortunately, his fan club didn\u2019t come with groupies, just an awkward handshake from Johannes Brahms!"
     },
     {
-      "event": "Stabat Mater performance in London",
-      "summary": "The Stabat Mater became Dvo\u0159\u00e1k's ambassador in London, making such an impression that it launched his works into the UK music scene. It was like a musical passport granting him access to hearts and halls across continents!",
-      "year": 1883,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Becoming director of National Conservatory of Music",
-      "summary": "Dvo\u0159\u00e1k snagged the director position in NYC, proving that not only did he compose, but he could also lead the charge for American music education. Who knew composition could come with such an impressive business card?",
-      "year": 1892,
-      "city": "New York City",
-      "country": "United States"
-    },
-    {
-      "event": "Composition of Symphony From the New World",
-      "summary": "While in America, Dvo\u0159\u00e1k wrote Symphony From the New World, channeling his experiences into a piece that became an instant classic. It was like a major cultural exchange program with musical brilliance as the outcome!",
-      "year": 1893,
-      "city": "Spillville",
-      "country": "United States"
-    },
-    {
-      "event": "Return to Bohemia",
-      "summary": "After a stint in the New World, Dvo\u0159\u00e1k decided to return home, driven by homesickness and budget cuts. Sometimes, even musical geniuses need a grandma's home-cooked meal!",
-      "year": 1895,
-      "city": "Prague",
-      "country": "Austria-Hungary"
-    },
-    {
-      "event": "Premiere of Rusalka",
-      "summary": "His opera Rusalka debuted with great success, proving Dvo\u0159\u00e1k could capture the Czech national spirit in a way that resonated with audiences. It\u2019s not every day a composer drops an opera that makes the crowd say \u2018wow!\u2019",
-      "year": 1901,
-      "city": "Prague",
-      "country": "Austria-Hungary"
-    },
-    {
-      "event": "Passing",
-      "summary": "Dvo\u0159\u00e1k passed away in Prague, but his music has continued to charm audiences everywhere, ensuring that this musical giant will never truly leave the stage. He left the world on a high note!",
-      "year": 1904,
-      "city": "Prague",
-      "country": "Austria-Hungary"
-    },
-    {
-      "event": "Austrian State Prize Win",
-      "summary": "In a victorious showdown akin to a musical gladiator match, Dvo\u0159\u00e1k snatched the Austrian State Prize in 1876, jubilantly waving goodbye to his role as an organist and his former job description of 'Pianist Who Plays for a Living'.",
-      "year": 1876,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Symphonic Variations Premiere",
-      "summary": "In 1877, Dvo\u0159\u00e1k's stunning Symphonic Variations made their grand debut under the baton of the very charming Ludev\u00edt Proch\u00e1zka in Prague, instantly becoming the talk of the concert circuit - like a viral sensation but with violins.",
-      "year": 1877,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Another Prize, Another Quartet",
-      "summary": "Dvo\u0159\u00e1k's fortune smiled upon him again when he won the Austrian Prize in December 1877, making him feel all warm and fuzzy inside. Feeling inspired, he dedicated his String Quartet No. 9 in D minor to Brahms, his new best buddy.",
-      "year": 1877,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Slavonic Dances Success",
-      "summary": "In 1878, Dvo\u0159\u00e1k gifted the musical world with his Slavonic Dances, which quickly made him a household name \u2013 even the grumpy old music critics couldn\u2019t resist a good dance tune!",
-      "year": 1878,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Stabat Mater Premiere",
-      "summary": "Dvo\u0159\u00e1k explored the religious side of music with his Stabat Mater in 1880, which was enjoyed much more by the audience than the critics, proving that sometimes divine intervention is necessary for artistic survival.",
-      "year": 1880,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Symphony No. 7 Premiere",
-      "summary": "On a sunny April day in 1885, Dvo\u0159\u00e1k took center stage to conduct his Symphony No. 7 in London \u2013 an event so grand that by the end, even the tourists wanted to be part of the music scene.",
-      "year": 1885,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Directorship in New York",
-      "summary": "From 1892 to 1895, Dvo\u0159\u00e1k seized a lucrative gig as director of the National Conservatory of Music in New York, earning a jaw-dropping salary of $15,000 \u2013 quite the upgrade from his organist days!",
-      "year": 1892,
-      "city": "New York City",
-      "country": "United States"
-    },
-    {
-      "event": "Creation of the New World Symphony",
-      "summary": "In 1893, the New York Philharmonic commissioned Dvo\u0159\u00e1k to pen Symphony No. 9, From the New World, earning him a standing ovation that probably caused some minor ceiling tile damage from all the clapping.",
-      "year": 1893,
-      "city": "New York City",
-      "country": "United States"
-    },
-    {
-      "event": "Professorship Resumed",
-      "summary": "Shortly after returning from the States in May 1895, Dvo\u0159\u00e1k resumed his professorship at the Prague Conservatory \u2013 proving that even heavyweights can return to their humble roots without an entourage.",
-      "year": 1895,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Premiere of Cello Concerto",
-      "summary": "In a grand final act, Dvo\u0159\u00e1k took the podium in London to unveil his Cello Concerto like a magician revealing the final rabbit from his hat. The audience didn't quite expect the trick, but they certainly loved it!",
-      "year": 1896,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Visit from Brahms",
-      "summary": "Everyone loves a good friend in need, especially when that friend has quite the fortune. Brahms had the gall to suggest Dvo\u0159\u00e1k should pack his bags for Vienna, sniffling as he did so. Spoiler alert: Dvo\u0159\u00e1k decided he liked his homeland just fine!",
-      "year": 1896,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Rusalka's Popularity",
-      "summary": "Rusalka, Dvo\u0159\u00e1k's own take on fairy tales, hopped into the spotlight, waving its arms like an overenthusiastic contestant on a talent show. It quickly became the belle of the ball, garnering international fame and casual \u201coohs\u201d and \u201cahhs\u201d all around the globe.",
-      "year": 1900,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Conducted Last Concert",
-      "summary": "Dvo\u0159\u00e1k conducted his last concert, a delicious mix of Brahms, Schubert, Beethoven, and of course, his own work, The Wild Dove. Talk about a musical potluck! Little did he know he was about to hit the sick notes instead of the high ones.",
-      "year": 1900,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "60th Birthday Celebration",
-      "summary": "Dvo\u0159\u00e1k's 60th birthday was marked by a celebration so grand, one might think the Czech people were throwing a surprise party. With operas and oratorios filling the air, it was hard to tell whose birthday it actually was\u2014Dvo\u0159\u00e1k was just the lucky guy who got all the cake!",
-      "year": 1901,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Appointment to Austrian House of Lords",
-      "summary": "In a nod that was more 'come join our prestigious club' than 'let's save the world', Dvo\u0159\u00e1k was appointed to the Austrian House of Lords. His influence grew, making music as the gracious lord while scratching his head over parliamentary debates.",
-      "year": 1901,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Illness Before Czech Musical Festival",
-      "summary": "As Czech musicians gathered to show off their talent, Dvo\u0159\u00e1k had the unfortunate timing to be bedridden with illness. Like the ultimate bad host, he missed his own music festival where thousands gathered to honor his work\u2014awkward!",
-      "year": 1904,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Death",
-      "summary": "Dvo\u0159\u00e1k exited this world after five weeks of illness, leaving behind a library of unfinished musical stories and an audience eager for more. It's believed even his compositions started to murmur in sorrow, 'But wait, we still had so much to say!'.",
-      "year": 1904,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Funeral Service",
-      "summary": "Dvo\u0159\u00e1k's funeral on May 5th became a national spectacle, as people gathered to pay their respects. It was less of a somber goodbye and more like a 'Let\u2019s celebrate the life and music of the genius who just couldn't stop composing his way into our hearts!'",
-      "year": 1904,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Invention of Symphonic Poem",
-      "summary": "Franz Liszt, presumably tired of the standard symphonic structure, created the symphonic poem, which Dvo\u0159\u00e1k decided was much more fun than being conservative like Brahms, leading to five of his own. Who knew poetry could sound so good?",
-      "year": 1896,
-      "city": "N/A",
-      "country": "N/A"
-    },
-    {
-      "event": "Premiere of Requiem",
-      "summary": "Dvo\u0159\u00e1k conducted a performance of his Requiem, and it was such a hit that he was basically drowning in applause, especially in Boston where people couldn\u2019t help but stand and cheer, clearly thinking he should do this more often!",
+      "section": "Works",
+      "title": "First Performance of Requiem",
+      "summary": "Dvo\u0159\u00e1k's Requiem was first performed in Birmingham, conducted by Dvo\u0159\u00e1k himself, and was received with great enthusiasm.",
       "year": 1891,
-      "city": "Birmingham",
-      "country": "United Kingdom"
+      "location": "Birmingham, England",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "When Dvo\u0159\u00e1k decided to conduct his own Requiem in Birmingham, he wasn't just making music; he was throwing a musical party! The audience was so enthusiastic that Dvo\u0159\u00e1k himself was thrilled, knowing his creation was well-received!"
     },
     {
-      "event": "First Concert in New York",
-      "summary": "Moving to America was clearly a great choice for Dvo\u0159\u00e1k, as his Te Deum had its debut here. The audience was so absorbed they likely left wondering if they could buy a piece of it to take home!",
+      "section": "Works",
+      "title": "Premiere of Stabat Mater",
+      "summary": "Dvo\u0159\u00e1k's Stabat Mater, an extensive vocal-instrumental sacred work, premiered successfully in Birmingham, where it garnered significant acclaim.",
+      "year": 1891,
+      "location": "Birmingham, England",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Dvo\u0159\u00e1k's Stabat Mater, an extensive vocal-instrumental sacred work, took its grand debut in Birmingham, where it was met with applause so loud it probably woke up the ghosts of composers past."
+    },
+    {
+      "section": "Works",
+      "title": "Dvo\u0159\u00e1k's tenure at the National Conservatory",
+      "summary": "Dvo\u0159\u00e1k served as the Director of the National Conservatory in New York, influencing music education and composition in America.",
       "year": 1892,
-      "city": "New York",
-      "country": "United States"
+      "location": "New York, United States",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Dvo\u0159\u00e1k was the big cheese at the National Conservatory in New York, where he mixed music like a DJ at a dance party, influencing music education and composition in America."
     },
     {
-      "event": "Premier of Cello Concerto",
-      "summary": "Dvo\u0159\u00e1k finally caved and composed a cello concerto after a long debate with himself about whether the cello was just a supporting actor in the orchestra. The crowd in London was so ecstatic you\u2019d think they had just seen their favorite superhero!",
-      "year": 1896,
-      "city": "London",
-      "country": "United Kingdom"
+      "section": "Works",
+      "title": "Performance of Requiem in Boston",
+      "summary": "The Requiem received an outstanding reception in Boston, leading to enthusiastic applause for Dvo\u0159\u00e1k between numbers and a grand ovation at the conclusion.",
+      "year": 1892,
+      "location": "Boston, United States",
+      "emoji": "\ud83d\udc4f",
+      "fun_version": "Dvo\u0159\u00e1k\u2019s Requiem received an outstanding reception in Boston, leading to enthusiastic applause between numbers! By the end, they gave him a grand ovation \u2014 I half expected them to throw him a parade!"
     },
     {
-      "event": "Composition of 'The American' Quartet",
-      "summary": "Dvo\u0159\u00e1k found inspiration while in the scenic countryside of America, composing 'The American' quartet in just three days. It was as if the fields were whispering melodies to him, urging him to write something beautiful!",
+      "section": "Works",
+      "title": "Premiere of Te Deum",
+      "summary": "Te Deum premiered at Dvo\u0159\u00e1k's first concert in New York City and was well-received by the audience.",
+      "year": 1892,
+      "location": "New York City, United States",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "When Te Deum made its grand debut at Dvo\u0159\u00e1k's first concert in the Big Apple, it received applause so enthusiastic that the audience couldn't tell if they were at a concert or a Broadway show \u2013 they clapped like they just spotted a celebrity!"
+    },
+    {
+      "section": "Works",
+      "title": "Composed String Quartet No. 12",
+      "summary": "Dvo\u0159\u00e1k composed the popular String Quartet No. 12, also known as 'The American', during his stay in America, reflecting his experiences in the countryside.",
       "year": 1893,
-      "city": "Spillville",
-      "country": "United States"
+      "location": "Spillville, Iowa, United States",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "Dvo\u0159\u00e1k was so inspired by America that he whipped up the String Quartet No. 12, also known as 'The American\u2019. He took a stroll through the countryside, reflecting on his experiences, and decided to bottle up all the vibes. Who needs a picnic when you can have music?"
     },
     {
-      "event": "Creation of Stabat Mater",
-      "summary": "In what could have been a moment of pure inspiration mixed with grief, Dvo\u0159\u00e1k\u2019s Stabat Mater came to life, proving that heartfelt compositions often come from rather overwhelming emotions. It was lengthy, and surely, it had the audience asking for an encore halfway through!",
-      "year": 1880,
-      "city": "N/A",
-      "country": "N/A"
+      "section": "Works",
+      "title": "New World Symphony Composition",
+      "summary": "Dvo\u0159\u00e1k wrote his Ninth Symphony, known as the New World Symphony, while living in New York, claiming influences from American music.",
+      "year": 1893,
+      "location": "New York, United States",
+      "emoji": "\ud83c\uddfa\ud83c\uddf8\ud83c\udfb6",
+      "fun_version": "Dvo\u0159\u00e1k was so inspired by American music while living in New York while writing his Ninth Symphony\u2014also known as the New World Symphony\u2014that he probably thought he was working on a Broadway musical! Let\u2019s be real\u2014there's nothing more dramatic than a symphony about bagels!"
     },
     {
-      "event": "Completion of Song Cycle",
-      "summary": "Dvo\u0159\u00e1k wraps up what will be dubbed 'the finest of his song cycles,' based on the Czech Bible of Kralice. It's a perfect blend of sacred text and melodic charm, which unfortunately means he was too busy to notice his father kicking the bucket just two days later.",
+      "section": "Works",
+      "title": "Completion of Biblical Songs",
+      "summary": "Dvo\u0159\u00e1k completed his song cycle of Biblical Songs, inspired by his personal grief due to the loss of close friends and family.",
       "year": 1894,
-      "city": "unknown",
-      "country": "Czech Republic"
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Dvo\u0159\u00e1k completed his song cycle of Biblical Songs because he needed a creative outlet to cope with his personal grief due to the loss of close friends and family. Who knew that grief could inspire such operatic flair?"
     },
     {
-      "event": "Creation of Gypsy Songs",
-      "summary": "In a venture that made his membranes flutter, Dvo\u0159\u00e1k composed the famed seven Gypsy Songs, which brought Czech national traditional music into the limelight, serving up the catchy tunes that would make anyone want to dance like no one is watching!",
-      "year": 1878,
-      "city": "unknown",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Slavonic Dances",
-      "summary": "Dvo\u0159\u00e1k channels his inner Czech folk spirit and mixes it with Slavic dance rhythms, resulting in the first Slavonic Dances. Imagine four hands fighting it out on a single piano \u2013 it\u2019s musical combat of the best kind.",
-      "year": 1878,
-      "city": "unknown",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Orchestration of Slavonic Dances",
-      "summary": "Taking the musical world by storm, Dvo\u0159\u00e1k orchestrates his Slavonic Dances, transforming what started as a simple piano duet into a vibrant orchestral piece that had audiences tapping their feet and asking for encores, all within the same year!",
-      "year": 1878,
-      "city": "unknown",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Symphonic Variations",
-      "summary": "A rather oddball in his collection, the Symphonic Variations initially flopped harder than a fish out of water at the premiere but had the comeback of the century ten years later, firmly securing its spot in orchestral repertoire.",
-      "year": 1877,
-      "city": "unknown",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "First Major Work",
-      "summary": "Dvo\u0159\u00e1k composed his first serious piece, proving that even the greatest composers have to start somewhere, often with a bit of trial and error and some brutally honest feedback from their friends.",
-      "year": 1865,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "International Recognition",
-      "summary": "After winning a prestigious competition, Dvo\u0159\u00e1k realized he could be more than just a local talent, and the world began to pay attention to this guy with a knack for making notes dance.",
-      "year": 1874,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Visit to the United States",
-      "summary": "Dvo\u0159\u00e1k embarked on an adventure to America, where he found inspiration in the local folk music and went back home convinced he could blend it into something greater than just a barbecue soundtrack.",
-      "year": 1892,
-      "city": "New York",
-      "country": "United States"
-    },
-    {
-      "event": "Composition of 'From the New World'",
-      "summary": "He produced his famous symphony that had everyone humming. It was his way of saying, 'Look, I can do this American sound too! Just add some heart and a dash of Czech flavor.'",
-      "year": 1893,
-      "city": "New York",
-      "country": "United States"
-    },
-    {
-      "event": "Return to Europe",
-      "summary": "After his stint in America, Dvo\u0159\u00e1k brought back experiences that fed into his compositions, like a musical travel blogger who raves about the best local cuisine and style.",
+      "section": "Biography",
+      "title": "Return from United States",
+      "summary": "On 27 April 1895, Dvo\u0159\u00e1k returned from his successful tenure in the United States with his wife and son, marking the end of a significant chapter in his life and career.",
       "year": 1895,
-      "city": "Prague",
-      "country": "Czech Republic"
+      "location": "Prague",
+      "emoji": "\ud83c\udfc5",
+      "fun_version": "On 27 April 1895, Dvo\u0159\u00e1k returned from the United States, finally back from his long vacation where he was probably searching for the best American hotdog! He brought his wife and son along, marking the end of a significant chapter in his life and career. Who knew composing symphonies could be so exhausting?"
     },
     {
-      "event": "Final Major Works",
-      "summary": "In his later years, Dvo\u0159\u00e1k produced some of his greatest pieces, showing that great things can come with age\u2014much like fine wine or your favorite retired superhero.",
+      "section": "Works",
+      "title": "Premiere of Cello Concerto",
+      "summary": "Dvo\u0159\u00e1k's Cello Concerto was premiered in London and was met with enthusiastic reviews, being hailed as a significant addition to the cello repertoire.",
+      "year": 1896,
+      "location": "London, England",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "In a historical event that didn\u2019t involve a royal wedding or a baby being born, Dvo\u0159\u00e1k's Cello Concerto made its triumphant debut in London, earning cheers louder than a cat at a dog show! Critics hailed it as a significant addition to the cello repertoire, probably with a standing ovation and some jumping up and down!"
+    },
+    {
+      "section": "Biography",
+      "title": "Final Concert",
+      "summary": "On 4 April 1900, Dvo\u0159\u00e1k conducted his last concert with the Czech Philharmonic, featuring several major works including Brahms' Tragic Overture and his own symphonic poem The Wild Dove, revealing his enduring dedication to music.",
+      "year": 1900,
+      "location": "Prague",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "On the fabulous day of April 4, 1900, Dvo\u0159\u00e1k conducted his last concert with the Czech Philharmonic, featuring major works including Brahms' 'Overture' \u2013 because what\u2019s music without a little melodrama? \u2013 and his own 'The Wild Dove.' It was a musical buffet garnished with his enduring love for music. Spoiler alert: No actual doves were harmed in the making of this concert!"
+    },
+    {
+      "section": "Biography",
+      "title": "Death",
+      "summary": "Dvo\u0159\u00e1k passed away on 1 May 1904 after a prolonged illness. His funeral on 5 May was a significant national event, reflecting the impact of his life and work on Czech culture and music.",
       "year": 1904,
-      "city": "Prague",
-      "country": "Czech Republic"
+      "location": "Prague",
+      "emoji": "\ud83c\udf39",
+      "fun_version": "Dvo\u0159\u00e1k passed away on May 1, 1904, after a prolonged illness. His funeral on May 5 was a significant national event, reflecting the impact of his life and work on Czech culture and music."
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/Album_Leaf,_B.158_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1888,
-      "title": "Album Leaf, B.158"
+      "title": "8 Preludes and Fugues, B.302",
+      "imslp_url": "https://imslp.org/wiki/8_Preludes_and_Fugues,_B.302_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1859
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Album_Leaves,_B.109_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1880,
-      "title": "Album Leaves, B.109"
+      "title": "Polka, B.3",
+      "imslp_url": "https://imslp.org/wiki/Polka,_B.3_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1860
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Alfred,_B.16_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1870,
-      "title": "Alfred, B.16"
+      "title": "String Quintet No.1, Op.1",
+      "imslp_url": "https://imslp.org/wiki/String_Quintet_No.1,_Op.1_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1861
     },
     {
-      "imslp_url": "https://imslp.org/wiki/The_American_Flag,_Op.102_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1892,
-      "title": "The American Flag, Op.102"
+      "title": "String Quartet No.1, Op.2",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1,_Op.2_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1862
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Ave_Maria,_B.68_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1877,
-      "title": "Ave Maria, B.68"
+      "title": "Cello Concerto in A major, B.10",
+      "imslp_url": "https://imslp.org/wiki/Cello_Concerto_in_A_major,_B.10_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1865
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Bagatelles,_Op.47_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1878,
-      "title": "Bagatelles, Op.47"
+      "title": "Cypresses, B.11",
+      "imslp_url": "https://imslp.org/wiki/Cypresses,_B.11_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1865
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Ballade,_Op.15_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1884,
-      "title": "Ballade, Op.15"
+      "title": "Symphony No.1, B.9",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.1,_B.9_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1865
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Biblical_Songs,_Op.99_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1894,
-      "title": "Biblical Songs, Op.99"
+      "title": "Symphony No.2, Op.4",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.2,_Op.4_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1865
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Capriccio,_B.81_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1878,
-      "title": "Capriccio, B.81"
+      "title": "String Quartet No.2, B.17",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2,_B.17_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1869
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Carnival_Overture,_Op.92_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1891,
-      "title": "Carnival Overture, Op.92"
+      "title": "String Quartet No.3, B.18",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.3,_B.18_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1869
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Cello_Concerto_in_A_major,_B.10_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1865,
-      "title": "Cello Concerto in A major, B.10"
+      "title": "Alfred, B.16",
+      "imslp_url": "https://imslp.org/wiki/Alfred,_B.16_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1870
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Cello_Concerto,_Op.104_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1894,
-      "title": "Cello Concerto, Op.104"
+      "title": "Silhouettes, Op.8",
+      "imslp_url": "https://imslp.org/wiki/Silhouettes,_Op.8_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1870
     },
     {
-      "imslp_url": "https://imslp.org/wiki/%C4%8Cert_a_K%C3%A1%C4%8Da,_Op.112_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1898,
-      "title": "\u010cert a K\u00e1\u010da, Op.112"
+      "title": "String Quartet No.4, B.19",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.4,_B.19_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1870
     },
     {
-      "imslp_url": "https://imslp.org/wiki/The_Cunning_Peasant,_Op.37_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1877,
-      "title": "The Cunning Peasant, Op.37"
+      "title": "The Orphan, Op.5",
+      "imslp_url": "https://imslp.org/wiki/The_Orphan,_Op.5_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1871
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Cypresses,_B.11_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1865,
-      "title": "Cypresses, B.11"
+      "title": "4 Songs on Serbian Folk Poems, Op.6",
+      "imslp_url": "https://imslp.org/wiki/4_Songs_on_Serbian_Folk_Poems,_Op.6_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1872
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Czech_Suite,_Op.39_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1879,
-      "title": "Czech Suite, Op.39"
+      "title": "Piano Quintet No.1, Op.5",
+      "imslp_url": "https://imslp.org/wiki/Piano_Quintet_No.1,_Op.5_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1872
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Dimitrij,_Op.64_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1881,
-      "title": "Dimitrij, Op.64"
+      "title": "Songs from the Dv\u016fr Kr\u00e1lov\u00e9 Manuscript, Op.7",
+      "imslp_url": "https://imslp.org/wiki/Songs_from_the_Dv\u016fr_Kr\u00e1lov\u00e9_Manuscript,_Op.7_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1872
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Dumka_and_Furiant,_Op.12_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1884,
-      "title": "Dumka and Furiant, Op.12"
+      "title": "The Heirs of the White Mountain, Op.30",
+      "imslp_url": "https://imslp.org/wiki/The_Heirs_of_the_White_Mountain,_Op.30_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1872
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Dumka,_Op.35_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1876,
-      "title": "Dumka, Op.35"
+      "title": "Romance, Op.11",
+      "imslp_url": "https://imslp.org/wiki/Romance,_Op.11_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1873
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Echo_of_Songs,_B.152_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1887,
-      "title": "Echo of Songs, B.152"
+      "title": "String Quartet No.5, Op.9",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.5,_Op.9_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1873
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Eclogues,_B.103_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1880,
-      "title": "Eclogues, B.103"
+      "title": "Symphony No.3, Op.10",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.3,_Op.10_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1873
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Evening_Songs,_B.61_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1876,
-      "title": "Evening Songs, B.61"
+      "title": "String Quartet No.7, Op.16",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.7,_Op.16_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1874
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Festival_March,_B.88_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1879,
-      "title": "Festival March, B.88"
+      "title": "Symphonic Poem, Op.14",
+      "imslp_url": "https://imslp.org/wiki/Symphonic_Poem,_Op.14_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1874
     },
     {
-      "imslp_url": "https://imslp.org/wiki/From_a_Bouquet_of_Slavonic_Folksongs,_Op.43_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1877,
-      "title": "From a Bouquet of Slavonic Folksongs, Op.43"
+      "title": "Symphony No.4, Op.13",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.4,_Op.13_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1874
     },
     {
-      "imslp_url": "https://imslp.org/wiki/From_the_Bohemian_Forest,_Op.68_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1883,
-      "title": "From the Bohemian Forest, Op.68"
+      "title": "The Stubborn Lovers, Op.17",
+      "imslp_url": "https://imslp.org/wiki/The_Stubborn_Lovers,_Op.17_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1874
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Furiants,_Op.42_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1878,
-      "title": "Furiants, Op.42"
+      "title": "Nocturne in B major, Op.40",
+      "imslp_url": "https://imslp.org/wiki/Nocturne_in_B_major,_Op.40_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1875
     },
     {
-      "imslp_url": "https://imslp.org/wiki/The_Golden_Spinning_Wheel,_Op.109_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1896,
-      "title": "The Golden Spinning Wheel, Op.109"
+      "title": "Piano Quartet No.1, Op.23",
+      "imslp_url": "https://imslp.org/wiki/Piano_Quartet_No.1,_Op.23_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1875
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Gypsy_Songs,_Op.55_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1880,
-      "title": "Gypsy Songs, Op.55"
+      "title": "Piano Trio No.1, Op.21",
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.1,_Op.21_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1875
     },
     {
-      "imslp_url": "https://imslp.org/wiki/The_Heirs_of_the_White_Mountain,_Op.30_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1872,
-      "title": "The Heirs of the White Mountain, Op.30"
+      "title": "Serenade for Strings, Op.22",
+      "imslp_url": "https://imslp.org/wiki/Serenade_for_Strings,_Op.22_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1875
     },
     {
-      "imslp_url": "https://imslp.org/wiki/A_Hero%27s_Song,_Op.111_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1897,
-      "title": "A Hero's Song, Op.111"
+      "title": "String Quintet No.2, Op.77",
+      "imslp_url": "https://imslp.org/wiki/String_Quintet_No.2,_Op.77_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1875
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Humoresque,_B.138_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1884,
-      "title": "Humoresque, B.138"
+      "title": "Symphony No.5, Op.76",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.5,_Op.76_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1875
     },
     {
-      "imslp_url": "https://imslp.org/wiki/8_Humoresques,_Op.101_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1894,
-      "title": "8 Humoresques, Op.101"
+      "title": "Vanda (opera), B.55",
+      "imslp_url": "https://imslp.org/wiki/Vanda_(opera),_B.55_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1875
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Hussite_Overture,_Op.67_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1883,
-      "title": "Hussite Overture, Op.67"
+      "title": "2 Minuets, Op.28",
+      "imslp_url": "https://imslp.org/wiki/2_Minuets,_Op.28_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1876
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Impromptu,_B.129_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1883,
-      "title": "Impromptu, B.129"
+      "title": "Dumka, Op.35",
+      "imslp_url": "https://imslp.org/wiki/Dumka,_Op.35_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1876
     },
     {
-      "imslp_url": "https://imslp.org/wiki/In_Folk_Tone,_Op.73_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1886,
-      "title": "In Folk Tone, Op.73"
+      "title": "Evening Songs, B.61",
+      "imslp_url": "https://imslp.org/wiki/Evening_Songs,_B.61_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1876
     },
     {
-      "imslp_url": "https://imslp.org/wiki/In_Nature%27s_Realm,_Op.91_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1891,
-      "title": "In Nature's Realm, Op.91"
+      "title": "Moravian Duets, Op.32",
+      "imslp_url": "https://imslp.org/wiki/Moravian_Duets,_Op.32_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1876
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Jakob%C3%ADn,_Op.84_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1887,
-      "title": "Jakob\u00edn, Op.84"
+      "title": "Piano Concerto, Op.33",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto,_Op.33_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1876
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Legends,_Op.59_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1881,
-      "title": "Legends, Op.59"
+      "title": "Piano Trio No.2, Op.26",
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.2,_Op.26_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1876
     },
     {
-      "imslp_url": "https://imslp.org/wiki/4_Lieder,_Op.82_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1888,
-      "title": "4 Lieder, Op.82"
+      "title": "Stabat Mater, Op.58",
+      "imslp_url": "https://imslp.org/wiki/Stabat_Mater,_Op.58_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1876
     },
     {
-      "imslp_url": "https://imslp.org/wiki/2_Little_Pearls,_B.156_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1887,
-      "title": "2 Little Pearls, B.156"
+      "title": "String Quartet No.8, Op.80",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.8,_Op.80_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1876
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Love_Songs,_Op.83_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1888,
-      "title": "Love Songs, Op.83"
+      "title": "Theme and Variations, Op.36",
+      "imslp_url": "https://imslp.org/wiki/Theme_and_Variations,_Op.36_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1876
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Mass_in_D_major,_Op.86_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1887,
-      "title": "Mass in D major, Op.86"
+      "title": "Ave Maria, B.68",
+      "imslp_url": "https://imslp.org/wiki/Ave_Maria,_B.68_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1877
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Mazurek,_Op.49_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1879,
-      "title": "Mazurek, Op.49"
+      "title": "From a Bouquet of Slavonic Folksongs, Op.43",
+      "imslp_url": "https://imslp.org/wiki/From_a_Bouquet_of_Slavonic_Folksongs,_Op.43_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1877
     },
     {
-      "imslp_url": "https://imslp.org/wiki/6_Mazurkas,_Op.56_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1880,
-      "title": "6 Mazurkas, Op.56"
+      "title": "Scottish Dances, Op.41",
+      "imslp_url": "https://imslp.org/wiki/Scottish_Dances,_Op.41_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1877
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Miniatures,_Op.75a_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1887,
-      "title": "Miniatures, Op.75a"
+      "title": "String Quartet No.9, Op.34",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.9,_Op.34_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1877
     },
     {
-      "imslp_url": "https://imslp.org/wiki/2_Minuets,_Op.28_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1876,
-      "title": "2 Minuets, Op.28"
+      "title": "Symphonic Variations, Op.78",
+      "imslp_url": "https://imslp.org/wiki/Symphonic_Variations,_Op.78_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1877
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Moderato_in_A_major,_B.116_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1881,
-      "title": "Moderato in A major, B.116"
+      "title": "The Cunning Peasant, Op.37",
+      "imslp_url": "https://imslp.org/wiki/The_Cunning_Peasant,_Op.37_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1877
     },
     {
-      "imslp_url": "https://imslp.org/wiki/3_Modern_Greek_Poems,_Op.50_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1878,
-      "title": "3 Modern Greek Poems, Op.50"
+      "title": "3 Modern Greek Poems, Op.50",
+      "imslp_url": "https://imslp.org/wiki/3_Modern_Greek_Poems,_Op.50_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1878
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Moravian_Duets,_Op.32_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1876,
-      "title": "Moravian Duets, Op.32"
+      "title": "Bagatelles, Op.47",
+      "imslp_url": "https://imslp.org/wiki/Bagatelles,_Op.47_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1878
     },
     {
-      "imslp_url": "https://imslp.org/wiki/My_Homeland,_Op.62_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1882,
-      "title": "My Homeland, Op.62"
+      "title": "Capriccio, B.81",
+      "imslp_url": "https://imslp.org/wiki/Capriccio,_B.81_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1878
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Nocturne_in_B_major,_Op.40_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1875,
-      "title": "Nocturne in B major, Op.40"
+      "title": "Furiants, Op.42",
+      "imslp_url": "https://imslp.org/wiki/Furiants,_Op.42_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1878
     },
     {
-      "imslp_url": "https://imslp.org/wiki/The_Noon_Witch,_Op.108_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1896,
-      "title": "The Noon Witch, Op.108"
+      "title": "Serenade for Wind Instruments, Op.44",
+      "imslp_url": "https://imslp.org/wiki/Serenade_for_Wind_Instruments,_Op.44_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1878
     },
     {
-      "imslp_url": "https://imslp.org/wiki/The_Orphan,_Op.5_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1871,
-      "title": "The Orphan, Op.5"
+      "title": "Slavonic Dances, Op.46",
+      "imslp_url": "https://imslp.org/wiki/Slavonic_Dances,_Op.46_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1878
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Othello,_Op.93_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1891,
-      "title": "Othello, Op.93"
+      "title": "Slavonic Rhapsodies, Op.45",
+      "imslp_url": "https://imslp.org/wiki/Slavonic_Rhapsodies,_Op.45_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1878
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Piano_Concerto,_Op.33_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1876,
-      "title": "Piano Concerto, Op.33"
+      "title": "String Quartet No.10, Op.51",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.10,_Op.51_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1878
     },
     {
-      "imslp_url": "https://imslp.org/wiki/6_Piano_Pieces,_Op.52_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1880,
-      "title": "6 Piano Pieces, Op.52"
+      "title": "String Sextet, Op.48",
+      "imslp_url": "https://imslp.org/wiki/String_Sextet,_Op.48_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1878
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Piano_Quartet_No.1,_Op.23_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1875,
-      "title": "Piano Quartet No.1, Op.23"
+      "title": "Czech Suite, Op.39",
+      "imslp_url": "https://imslp.org/wiki/Czech_Suite,_Op.39_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1879
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Piano_Quartet_No.2,_Op.87_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1889,
-      "title": "Piano Quartet No.2, Op.87"
+      "title": "Festival March, B.88",
+      "imslp_url": "https://imslp.org/wiki/Festival_March,_B.88_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1879
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Piano_Quintet_No.1,_Op.5_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1872,
-      "title": "Piano Quintet No.1, Op.5"
+      "title": "Mazurek, Op.49",
+      "imslp_url": "https://imslp.org/wiki/Mazurek,_Op.49_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1879
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Piano_Quintet_No.2,_Op.81_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1887,
-      "title": "Piano Quintet No.2, Op.81"
+      "title": "Polonaise in E-flat major, B.100",
+      "imslp_url": "https://imslp.org/wiki/Polonaise_in_E-flat_major,_B.100_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1879
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.1,_Op.21_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1875,
-      "title": "Piano Trio No.1, Op.21"
+      "title": "Prague Waltzes, B.99",
+      "imslp_url": "https://imslp.org/wiki/Prague_Waltzes,_B.99_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1879
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.2,_Op.26_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1876,
-      "title": "Piano Trio No.2, Op.26"
+      "title": "Psalm 149, Op.79",
+      "imslp_url": "https://imslp.org/wiki/Psalm_149,_Op.79_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1879
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.3,_Op.65_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1883,
-      "title": "Piano Trio No.3, Op.65"
+      "title": "Vanda (overture), B.97",
+      "imslp_url": "https://imslp.org/wiki/Vanda_(overture),_B.97_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1879
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.4,_Op.90_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1890,
-      "title": "Piano Trio No.4, Op.90"
+      "title": "Violin Concerto, Op.53",
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto,_Op.53_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1879
     },
     {
-      "imslp_url": "https://imslp.org/wiki/2_Pieces,_B.188_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1894,
-      "title": "2 Pieces, B.188"
+      "title": "Waltzes, Op.54",
+      "imslp_url": "https://imslp.org/wiki/Waltzes,_Op.54_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1879
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Poetic_Tone_Pictures,_Op.85_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1889,
-      "title": "Poetic Tone Pictures, Op.85"
+      "title": "6 Mazurkas, Op.56",
+      "imslp_url": "https://imslp.org/wiki/6_Mazurkas,_Op.56_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1880
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Polka_for_Prague_Students,_B.114_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1880,
-      "title": "Polka for Prague Students, B.114"
+      "title": "6 Piano Pieces, Op.52",
+      "imslp_url": "https://imslp.org/wiki/6_Piano_Pieces,_Op.52_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1880
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Polka,_B.3_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1860,
-      "title": "Polka, B.3"
+      "title": "Album Leaves, B.109",
+      "imslp_url": "https://imslp.org/wiki/Album_Leaves,_B.109_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1880
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Polonaise_in_E-flat_major,_B.100_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1879,
-      "title": "Polonaise in E-flat major, B.100"
+      "title": "Eclogues, B.103",
+      "imslp_url": "https://imslp.org/wiki/Eclogues,_B.103_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1880
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Prague_Waltzes,_B.99_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1879,
-      "title": "Prague Waltzes, B.99"
+      "title": "Gypsy Songs, Op.55",
+      "imslp_url": "https://imslp.org/wiki/Gypsy_Songs,_Op.55_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1880
     },
     {
-      "imslp_url": "https://imslp.org/wiki/8_Preludes_and_Fugues,_B.302_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1859,
-      "title": "8 Preludes and Fugues, B.302"
+      "title": "Polka for Prague Students, B.114",
+      "imslp_url": "https://imslp.org/wiki/Polka_for_Prague_Students,_B.114_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1880
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Psalm_149,_Op.79_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1879,
-      "title": "Psalm 149, Op.79"
+      "title": "Symphony No.6, Op.60",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.6,_Op.60_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1880
     },
     {
-      "imslp_url": "https://imslp.org/wiki/V_P%C5%99%C3%ADrod%C4%9B,_Op.63_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1882,
-      "title": "V P\u0159\u00edrod\u011b, Op.63"
+      "title": "Violin Sonata, Op.57",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata,_Op.57_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1880
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Question,_B.128a_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1882,
-      "title": "Question, B.128a"
+      "title": "Dimitrij, Op.64",
+      "imslp_url": "https://imslp.org/wiki/Dimitrij,_Op.64_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1881
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Requiem,_Op.89_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1889,
-      "title": "Requiem, Op.89"
+      "title": "Legends, Op.59",
+      "imslp_url": "https://imslp.org/wiki/Legends,_Op.59_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1881
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Romance,_Op.11_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1873,
-      "title": "Romance, Op.11"
+      "title": "Moderato in A major, B.116",
+      "imslp_url": "https://imslp.org/wiki/Moderato_in_A_major,_B.116_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1881
     },
     {
-      "imslp_url": "https://imslp.org/wiki/4_Romantic_Pieces,_Op.75_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1887,
-      "title": "4 Romantic Pieces, Op.75"
+      "title": "String Quartet No.11, Op.61",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.11,_Op.61_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1881
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Rondo,_Op.94_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1891,
-      "title": "Rondo, Op.94"
+      "title": "My Homeland, Op.62",
+      "imslp_url": "https://imslp.org/wiki/My_Homeland,_Op.62_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1882
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Rusalka,_Op.114_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1900,
-      "title": "Rusalka, Op.114"
+      "title": "Question, B.128a",
+      "imslp_url": "https://imslp.org/wiki/Question,_B.128a_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1882
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Saint_Ludmila,_Op.71_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1885,
-      "title": "Saint Ludmila, Op.71"
+      "title": "V P\u0159\u00edrod\u011b, Op.63",
+      "imslp_url": "https://imslp.org/wiki/V_P\u0159\u00edrod\u011b,_Op.63_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1882
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Scherzo_capriccioso,_Op.66_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1883,
-      "title": "Scherzo capriccioso, Op.66"
+      "title": "From the Bohemian Forest, Op.68",
+      "imslp_url": "https://imslp.org/wiki/From_the_Bohemian_Forest,_Op.68_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1883
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Scottish_Dances,_Op.41_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1877,
-      "title": "Scottish Dances, Op.41"
+      "title": "Hussite Overture, Op.67",
+      "imslp_url": "https://imslp.org/wiki/Hussite_Overture,_Op.67_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1883
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Serenade_for_Strings,_Op.22_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1875,
-      "title": "Serenade for Strings, Op.22"
+      "title": "Impromptu, B.129",
+      "imslp_url": "https://imslp.org/wiki/Impromptu,_B.129_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1883
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Serenade_for_Wind_Instruments,_Op.44_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1878,
-      "title": "Serenade for Wind Instruments, Op.44"
+      "title": "Piano Trio No.3, Op.65",
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.3,_Op.65_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1883
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Silent_Woods_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1883,
-      "title": "Silent Woods"
+      "title": "Scherzo capriccioso, Op.66",
+      "imslp_url": "https://imslp.org/wiki/Scherzo_capriccioso,_Op.66_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1883
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Silhouettes,_Op.8_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1870,
-      "title": "Silhouettes, Op.8"
+      "title": "Ballade, Op.15",
+      "imslp_url": "https://imslp.org/wiki/Ballade,_Op.15_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1884
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Slavonic_Dances,_Op.46_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1878,
-      "title": "Slavonic Dances, Op.46"
+      "title": "Dumka and Furiant, Op.12",
+      "imslp_url": "https://imslp.org/wiki/Dumka_and_Furiant,_Op.12_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1884
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Slavonic_Dances,_Op.72_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1886,
-      "title": "Slavonic Dances, Op.72"
+      "title": "Humoresque, B.138",
+      "imslp_url": "https://imslp.org/wiki/Humoresque,_B.138_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1884
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Slavonic_Rhapsodies,_Op.45_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1878,
-      "title": "Slavonic Rhapsodies, Op.45"
+      "title": "Symphony No.7, Op.70",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.7,_Op.70_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1884
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Sonatina,_Op.100_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1893,
-      "title": "Sonatina, Op.100"
+      "title": "The Spectre's Bride, Op.69",
+      "imslp_url": "https://imslp.org/wiki/The_Spectre's_Bride,_Op.69_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1884
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Songs_from_the_Dv%C5%AFr_Kr%C3%A1lov%C3%A9_Manuscript,_Op.7_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1872,
-      "title": "Songs from the Dv\u016fr Kr\u00e1lov\u00e9 Manuscript, Op.7"
+      "title": "Saint Ludmila, Op.71",
+      "imslp_url": "https://imslp.org/wiki/Saint_Ludmila,_Op.71_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1885
     },
     {
-      "imslp_url": "https://imslp.org/wiki/4_Songs_on_Serbian_Folk_Poems,_Op.6_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1872,
-      "title": "4 Songs on Serbian Folk Poems, Op.6"
+      "title": "In Folk Tone, Op.73",
+      "imslp_url": "https://imslp.org/wiki/In_Folk_Tone,_Op.73_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1886
     },
     {
-      "imslp_url": "https://imslp.org/wiki/The_Spectre%27s_Bride,_Op.69_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1884,
-      "title": "The Spectre's Bride, Op.69"
+      "title": "Slavonic Dances, Op.72",
+      "imslp_url": "https://imslp.org/wiki/Slavonic_Dances,_Op.72_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1886
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Stabat_Mater,_Op.58_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1876,
-      "title": "Stabat Mater, Op.58"
+      "title": "2 Little Pearls, B.156",
+      "imslp_url": "https://imslp.org/wiki/2_Little_Pearls,_B.156_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1887
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1,_Op.2_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1862,
-      "title": "String Quartet No.1, Op.2"
+      "title": "4 Romantic Pieces, Op.75",
+      "imslp_url": "https://imslp.org/wiki/4_Romantic_Pieces,_Op.75_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1887
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2,_B.17_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1869,
-      "title": "String Quartet No.2, B.17"
+      "title": "Echo of Songs, B.152",
+      "imslp_url": "https://imslp.org/wiki/Echo_of_Songs,_B.152_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1887
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.3,_B.18_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1869,
-      "title": "String Quartet No.3, B.18"
+      "title": "Jakob\u00edn, Op.84",
+      "imslp_url": "https://imslp.org/wiki/Jakob\u00edn,_Op.84_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1887
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.4,_B.19_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1870,
-      "title": "String Quartet No.4, B.19"
+      "title": "Mass in D major, Op.86",
+      "imslp_url": "https://imslp.org/wiki/Mass_in_D_major,_Op.86_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1887
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.5,_Op.9_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1873,
-      "title": "String Quartet No.5, Op.9"
+      "title": "Miniatures, Op.75a",
+      "imslp_url": "https://imslp.org/wiki/Miniatures,_Op.75a_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1887
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.7,_Op.16_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1874,
-      "title": "String Quartet No.7, Op.16"
+      "title": "Piano Quintet No.2, Op.81",
+      "imslp_url": "https://imslp.org/wiki/Piano_Quintet_No.2,_Op.81_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1887
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.8,_Op.80_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1876,
-      "title": "String Quartet No.8, Op.80"
+      "title": "Terzetto, Op.74",
+      "imslp_url": "https://imslp.org/wiki/Terzetto,_Op.74_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1887
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.9,_Op.34_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1877,
-      "title": "String Quartet No.9, Op.34"
+      "title": "4 Lieder, Op.82",
+      "imslp_url": "https://imslp.org/wiki/4_Lieder,_Op.82_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1888
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.10,_Op.51_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1878,
-      "title": "String Quartet No.10, Op.51"
+      "title": "Album Leaf, B.158",
+      "imslp_url": "https://imslp.org/wiki/Album_Leaf,_B.158_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1888
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.11,_Op.61_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1881,
-      "title": "String Quartet No.11, Op.61"
+      "title": "Love Songs, Op.83",
+      "imslp_url": "https://imslp.org/wiki/Love_Songs,_Op.83_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1888
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.12,_Op.96_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1893,
-      "title": "String Quartet No.12, Op.96"
+      "title": "Piano Quartet No.2, Op.87",
+      "imslp_url": "https://imslp.org/wiki/Piano_Quartet_No.2,_Op.87_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1889
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.13,_Op.106_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1895,
-      "title": "String Quartet No.13, Op.106"
+      "title": "Poetic Tone Pictures, Op.85",
+      "imslp_url": "https://imslp.org/wiki/Poetic_Tone_Pictures,_Op.85_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1889
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.14,_Op.105_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1895,
-      "title": "String Quartet No.14, Op.105"
+      "title": "Requiem, Op.89",
+      "imslp_url": "https://imslp.org/wiki/Requiem,_Op.89_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1889
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quintet_No.1,_Op.1_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1861,
-      "title": "String Quintet No.1, Op.1"
+      "title": "Symphony No.8, Op.88",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.8,_Op.88_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1889
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quintet_No.2,_Op.77_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1875,
-      "title": "String Quintet No.2, Op.77"
+      "title": "Piano Trio No.4, Op.90",
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.4,_Op.90_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1890
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quintet_No.3,_Op.97_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1893,
-      "title": "String Quintet No.3, Op.97"
+      "title": "Carnival Overture, Op.92",
+      "imslp_url": "https://imslp.org/wiki/Carnival_Overture,_Op.92_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1891
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Sextet,_Op.48_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1878,
-      "title": "String Sextet, Op.48"
+      "title": "In Nature's Realm, Op.91",
+      "imslp_url": "https://imslp.org/wiki/In_Nature's_Realm,_Op.91_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1891
     },
     {
-      "imslp_url": "https://imslp.org/wiki/The_Stubborn_Lovers,_Op.17_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1874,
-      "title": "The Stubborn Lovers, Op.17"
+      "title": "Othello, Op.93",
+      "imslp_url": "https://imslp.org/wiki/Othello,_Op.93_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1891
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Suite,_Op.98_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1894,
-      "title": "Suite, Op.98"
+      "title": "Rondo, Op.94",
+      "imslp_url": "https://imslp.org/wiki/Rondo,_Op.94_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1891
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Symphonic_Poem,_Op.14_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1874,
-      "title": "Symphonic Poem, Op.14"
+      "title": "Te Deum, Op.103",
+      "imslp_url": "https://imslp.org/wiki/Te_Deum,_Op.103_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1892
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Symphonic_Variations,_Op.78_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1877,
-      "title": "Symphonic Variations, Op.78"
+      "title": "The American Flag, Op.102",
+      "imslp_url": "https://imslp.org/wiki/The_American_Flag,_Op.102_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1892
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.1,_B.9_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1865,
-      "title": "Symphony No.1, B.9"
+      "title": "Sonatina, Op.100",
+      "imslp_url": "https://imslp.org/wiki/Sonatina,_Op.100_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1893
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.2,_Op.4_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1865,
-      "title": "Symphony No.2, Op.4"
+      "title": "String Quartet No.12, Op.96",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.12,_Op.96_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1893
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.3,_Op.10_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1873,
-      "title": "Symphony No.3, Op.10"
+      "title": "String Quintet No.3, Op.97",
+      "imslp_url": "https://imslp.org/wiki/String_Quintet_No.3,_Op.97_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1893
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.4,_Op.13_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1874,
-      "title": "Symphony No.4, Op.13"
+      "title": "Symphony No.9, Op.95",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.9,_Op.95_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1893
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.5,_Op.76_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1875,
-      "title": "Symphony No.5, Op.76"
+      "title": "2 Pieces, B.188",
+      "imslp_url": "https://imslp.org/wiki/2_Pieces,_B.188_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1894
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.6,_Op.60_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1880,
-      "title": "Symphony No.6, Op.60"
+      "title": "8 Humoresques, Op.101",
+      "imslp_url": "https://imslp.org/wiki/8_Humoresques,_Op.101_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1894
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.7,_Op.70_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1884,
-      "title": "Symphony No.7, Op.70"
+      "title": "Biblical Songs, Op.99",
+      "imslp_url": "https://imslp.org/wiki/Biblical_Songs,_Op.99_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1894
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.8,_Op.88_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1889,
-      "title": "Symphony No.8, Op.88"
+      "title": "Cello Concerto, Op.104",
+      "imslp_url": "https://imslp.org/wiki/Cello_Concerto,_Op.104_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1894
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.9,_Op.95_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1893,
-      "title": "Symphony No.9, Op.95"
+      "title": "Suite, Op.98",
+      "imslp_url": "https://imslp.org/wiki/Suite,_Op.98_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1894
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Te_Deum,_Op.103_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1892,
-      "title": "Te Deum, Op.103"
+      "title": "String Quartet No.13, Op.106",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.13,_Op.106_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1895
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Terzetto,_Op.74_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1887,
-      "title": "Terzetto, Op.74"
+      "title": "String Quartet No.14, Op.105",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.14,_Op.105_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1895
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Theme_and_Variations,_Op.36_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1876,
-      "title": "Theme and Variations, Op.36"
+      "title": "The Golden Spinning Wheel, Op.109",
+      "imslp_url": "https://imslp.org/wiki/The_Golden_Spinning_Wheel,_Op.109_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1896
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Vanda_(opera),_B.55_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1875,
-      "title": "Vanda"
+      "title": "The Noon Witch, Op.108",
+      "imslp_url": "https://imslp.org/wiki/The_Noon_Witch,_Op.108_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1896
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Vanda_(overture),_B.97_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1879,
-      "title": "Vanda"
+      "title": "The Water Goblin, Op.107",
+      "imslp_url": "https://imslp.org/wiki/The_Water_Goblin,_Op.107_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1896
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Violin_Concerto,_Op.53_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1879,
-      "title": "Violin Concerto, Op.53"
+      "title": "The Wild Dove, Op.110",
+      "imslp_url": "https://imslp.org/wiki/The_Wild_Dove,_Op.110_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1896
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Violin_Sonata,_Op.57_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1880,
-      "title": "Violin Sonata, Op.57"
+      "title": "A Hero's Song, Op.111",
+      "imslp_url": "https://imslp.org/wiki/A_Hero's_Song,_Op.111_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1897
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Waltzes,_Op.54_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1879,
-      "title": "Waltzes, Op.54"
+      "title": "\u010cert a K\u00e1\u010da, Op.112",
+      "imslp_url": "https://imslp.org/wiki/\u010cert_a_K\u00e1\u010da,_Op.112_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1898
     },
     {
-      "imslp_url": "https://imslp.org/wiki/The_Water_Goblin,_Op.107_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1896,
-      "title": "The Water Goblin, Op.107"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Wild_Dove,_Op.110_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1896,
-      "title": "The Wild Dove, Op.110"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Moravsk%C3%BDch_dvojzp%C4%9Bv%C5%AF_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1877,
-      "title": "6 Moravsk\u00fdch dvojzp\u011bv\u016f"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Waltzes,_Op.54_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)",
-      "year": 1879,
-      "title": "Waltzes, Op.54"
+      "title": "Rusalka, Op.114",
+      "imslp_url": "https://imslp.org/wiki/Rusalka,_Op.114_(Dvo\u0159\u00e1k,_Anton\u00edn)",
+      "year": 1900
     }
   ]
 }

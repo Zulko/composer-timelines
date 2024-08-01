@@ -1,0 +1,673 @@
+{
+  "full_name": "Claudio Monteverdi",
+  "first_names": "Claudio Giovanni Antonio",
+  "last_name": "Monteverdi",
+  "birth_year": 1567,
+  "death_year": 1643,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Claudio_Monteverdi",
+  "events": [
+    {
+      "section": "Life",
+      "title": "Birth",
+      "summary": "Claudio Monteverdi was baptized at the church of SS Nazaro e Celso in Cremona. He was the first child of Baldassare Monteverdi and his first wife Maddalena. His family had significant connections to the musical landscape of the area.",
+      "year": 1567,
+      "location": "Cremona",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Claudio Monteverdi was baptized at the church of SS Nazaro e Celso in Cremona. He was the first child of Baldassare Monteverdi and his first wife Maddalena. His family had significant connections to the musical landscape of the area, ensuring that when they gathered for dinner, the table was always set with a side of opera!"
+    },
+    {
+      "section": "Life",
+      "title": "First Published Work",
+      "summary": "At the age of fifteen, Monteverdi published his first work, a set of motets titled 'Sacrae cantiunculae', which marked the beginning of his distinguished career in music.",
+      "year": 1582,
+      "location": "Venice",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "At the age of 15, Monteverdi published his first work, a collection of motets called 'Sacrae cantiunculae.' While most teenagers were busy figuring out how to impress their crushes, he was out there composing classical music! Clearly, veering off into music was his way of saying, \"Forget the prom, I'm going for a career in symphonies!\""
+    },
+    {
+      "section": "Life",
+      "title": "Marriage",
+      "summary": "Monteverdi married Claudia de Cattaneis, a court singer in Mantua. They had three children together, while also dealing with the challenges of a family life entwined with his musical career.",
+      "year": 1599,
+      "location": "Mantua",
+      "emoji": "\ud83d\udc70\ud83c\udfb6\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66",
+      "fun_version": "Once upon a time in Mantua, Monteverdi married Claudia de Cattaneis, a court singer with a voice so enchanting that even the castle's pigeons couldn\u2019t resist joining in. They juggled three kids while navigating the delightful chaos of family life and Monteverdi's musical career\u2014because composing symphonies amidst children is the true test of multitasking!"
+    },
+    {
+      "section": "Life",
+      "title": "Appointment as Maestro di Capella",
+      "summary": "Following the death of Benedetto Pallavicino, Monteverdi was appointed as the new maestro di capella at the court of Mantua, reflecting the trust placed in him by the Duke.",
+      "year": 1601,
+      "location": "Mantua",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Monteverdi was crowned the new maestro di capella at the court of Mantua following the death of Benedetto Pallavicino. The Duke clearly saw a talent for music, thinking, 'Why not let this guy take the reins?'"
+    },
+    {
+      "section": "Life",
+      "title": "Death of His Wife",
+      "summary": "The tragic death of Monteverdi's wife in September 1607 affected his personal and professional life deeply, leading him to seek a period of convalescence.",
+      "year": 1607,
+      "location": "Mantua",
+      "emoji": "\ud83d\ude22",
+      "fun_version": "Monteverdi's wife's departure was so dramatic that even Shakespeare would\u2019ve whipped up a sonnet about it. Poor Monteverdi had to tackle all the extra time on his hands \u2014 what\u2019s a composer to do when his muse is busy? It significantly impacted his personal and professional life, leaving him to seek some much-needed convalescence."
+    },
+    {
+      "section": "Life",
+      "title": "First Opera",
+      "summary": "Monteverdi premiered his first opera, 'L'Orfeo', during the Carnival season of 1607, marking a significant contribution to the art form and showcasing the evolving nature of drama and music.",
+      "year": 1607,
+      "location": "Mantua",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Monteverdi premiered his first opera, 'L'Orfeo', during the Carnival season of 1607. This significant contribution to the artistic world showcases the evolving nature of drama and music."
+    },
+    {
+      "section": "Life",
+      "title": "Appointment in Venice",
+      "summary": "Monteverdi was appointed as the maestro di capella at the basilica of San Marco in Venice, a prestigious position that allowed him to further develop his musical career.",
+      "year": 1613,
+      "location": "Venice",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Monteverdi became the maestro di capella at the basilica of San Marco in Venice, which was basically like being the head chef in a kitchen full of musical ingredients. He had the prestigious opportunity to sprinkle a little 'la la la' and a whole lot of 'wow' into his musical dishes, all while wearing a very fancy hat! This role allowed him to cook up a storm in the music world, helping him to develop his career further."
+    },
+    {
+      "section": "Life",
+      "title": "Ordination",
+      "summary": "Monteverdi was ordained as a priest, reflecting a significant turn in his life, both personally and spiritually as he navigated his responsibilities at San Marco.",
+      "year": 1632,
+      "location": "Venice",
+      "emoji": "\u26ea",
+      "fun_version": "Monteverdi was ordained as a priest, reflecting a significant turn in his life, both personally and spiritually as he navigated his responsibilities at San Marco\u2014trading in his music sheets for a robe and a chance to boss people around."
+    },
+    {
+      "section": "Life",
+      "title": "Death",
+      "summary": "Claudio Monteverdi passed away in Venice after a brief visit to Cremona, marking the end of a monumental career that profoundly influenced the trajectory of Western music.",
+      "year": 1643,
+      "location": "Venice",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Claudio Monteverdi passed away in Venice after a brief vacation in Cremona, yet he left behind a legacy that had Western music singing his praises!"
+    }
+  ],
+  "works": [
+    {
+      "title": "Angelus ad pastores ait, SV 222",
+      "imslp_url": "https://imslp.org/wiki/Angelus_ad_pastores_ait,_SV_222_(Monteverdi,_Claudio)",
+      "year": 1582
+    },
+    {
+      "title": "Ave Maria, SV 213",
+      "imslp_url": "https://imslp.org/wiki/Ave_Maria,_SV_213_(Monteverdi,_Claudio)",
+      "year": 1582
+    },
+    {
+      "title": "Surgens Jesus Dominus noster, SV 227",
+      "imslp_url": "https://imslp.org/wiki/Surgens_Jesus_Dominus_noster,_SV_227_(Monteverdi,_Claudio)",
+      "year": 1582
+    },
+    {
+      "title": "Ubi duo vel tres congregati fuerint, SV 211",
+      "imslp_url": "https://imslp.org/wiki/Ubi_duo_vel_tres_congregati_fuerint,_SV_211_(Monteverdi,_Claudio)",
+      "year": 1582
+    },
+    {
+      "title": "Baci soavi e cari, SV 27",
+      "imslp_url": "https://imslp.org/wiki/Baci_soavi_e_cari,_SV_27_(Monteverdi,_Claudio)",
+      "year": 1587
+    },
+    {
+      "title": "Se nel partir da voi, SV 32",
+      "imslp_url": "https://imslp.org/wiki/Se_nel_partir_da_voi,_SV_32_(Monteverdi,_Claudio)",
+      "year": 1587
+    },
+    {
+      "title": "Se pur non mi consenti, SV 28",
+      "imslp_url": "https://imslp.org/wiki/Se_pur_non_mi_consenti,_SV_28_(Monteverdi,_Claudio)",
+      "year": 1587
+    },
+    {
+      "title": "Bevea Fillide mia",
+      "imslp_url": "https://imslp.org/wiki/Bevea_Fillide_mia_(Monteverdi,_Claudio)",
+      "year": 1590
+    },
+    {
+      "title": "Cantai un tempo e se fu dolce il canto",
+      "imslp_url": "https://imslp.org/wiki/Cantai_un_tempo_e_se_fu_dolce_il_canto_(Monteverdi,_Claudio)",
+      "year": 1590
+    },
+    {
+      "title": "Crudel perch\u00e9 mi fuggi, SV 55",
+      "imslp_url": "https://imslp.org/wiki/Crudel_perch\u00e9_mi_fuggi,_SV_55_(Monteverdi,_Claudio)",
+      "year": 1590
+    },
+    {
+      "title": "Dolcemente dormiva la mia Clori, SV 52",
+      "imslp_url": "https://imslp.org/wiki/Dolcemente_dormiva_la_mia_Clori,_SV_52_(Monteverdi,_Claudio)",
+      "year": 1590
+    },
+    {
+      "title": "Dolcissimi legami",
+      "imslp_url": "https://imslp.org/wiki/Dolcissimi_legami_(Monteverdi,_Claudio)",
+      "year": 1590
+    },
+    {
+      "title": "Donna, nel mio ritorno",
+      "imslp_url": "https://imslp.org/wiki/Donna,_nel_mio_ritorno_(Monteverdi,_Claudio)",
+      "year": 1590
+    },
+    {
+      "title": "Ecco mormorar l\u2019onde, SV 51",
+      "imslp_url": "https://imslp.org/wiki/Ecco_mormorar_l\u2019onde,_SV_51_(Monteverdi,_Claudio)",
+      "year": 1590
+    },
+    {
+      "title": "Intorno a due vermiglie e vaghe labra",
+      "imslp_url": "https://imslp.org/wiki/Intorno_a_due_vermiglie_e_vaghe_labra_(Monteverdi,_Claudio)",
+      "year": 1590
+    },
+    {
+      "title": "La bocca onde l\u2019asprissime parole",
+      "imslp_url": "https://imslp.org/wiki/La_bocca_onde_l\u2019asprissime_parole_(Monteverdi,_Claudio)",
+      "year": 1590
+    },
+    {
+      "title": "Mentre io mirava fisso",
+      "imslp_url": "https://imslp.org/wiki/Mentre_io_mirava_fisso_(Monteverdi,_Claudio)",
+      "year": 1590
+    },
+    {
+      "title": "Non giacinti o narcisi",
+      "imslp_url": "https://imslp.org/wiki/Non_giacinti_o_narcisi_(Monteverdi,_Claudio)",
+      "year": 1590
+    },
+    {
+      "title": "Non mi \u00e8 grave il morire",
+      "imslp_url": "https://imslp.org/wiki/Non_mi_\u00e8_grave_il_morire_(Monteverdi,_Claudio)",
+      "year": 1590
+    },
+    {
+      "title": "Non si levav\u2019ancor l\u2019alba novella, SV 40",
+      "imslp_url": "https://imslp.org/wiki/Non_si_levav\u2019ancor_l\u2019alba_novella,_SV_40_(Monteverdi,_Claudio)",
+      "year": 1590
+    },
+    {
+      "title": "Non sono in queste rive",
+      "imslp_url": "https://imslp.org/wiki/Non_sono_in_queste_rive_(Monteverdi,_Claudio)",
+      "year": 1590
+    },
+    {
+      "title": "Quell\u2019ombra esser vorrei",
+      "imslp_url": "https://imslp.org/wiki/Quell\u2019ombra_esser_vorrei_(Monteverdi,_Claudio)",
+      "year": 1590
+    },
+    {
+      "title": "Questo specchio ti dono",
+      "imslp_url": "https://imslp.org/wiki/Questo_specchio_ti_dono_(Monteverdi,_Claudio)",
+      "year": 1590
+    },
+    {
+      "title": "Se tu mi lassi, perfida",
+      "imslp_url": "https://imslp.org/wiki/Se_tu_mi_lassi,_perfida_(Monteverdi,_Claudio)",
+      "year": 1590
+    },
+    {
+      "title": "S\u2019andasse amor a caccia, SV 49",
+      "imslp_url": "https://imslp.org/wiki/S\u2019andasse_amor_a_caccia,_SV_49_(Monteverdi,_Claudio)",
+      "year": 1590
+    },
+    {
+      "title": "Ti spont\u00f2 l'ali, Amor, la donna mia",
+      "imslp_url": "https://imslp.org/wiki/Ti_spont\u00f2_l'ali,_Amor,_la_donna_mia_(Monteverdi,_Claudio)",
+      "year": 1590
+    },
+    {
+      "title": "Tutte le bocche belle",
+      "imslp_url": "https://imslp.org/wiki/Tutte_le_bocche_belle_(Monteverdi,_Claudio)",
+      "year": 1590
+    },
+    {
+      "title": "Ch\u2019io non t\u2019ami, cor mio, SV 70",
+      "imslp_url": "https://imslp.org/wiki/Ch\u2019io_non_t\u2019ami,_cor_mio,_SV_70_(Monteverdi,_Claudio)",
+      "year": 1592
+    },
+    {
+      "title": "La giovinetta pianta, SV 60",
+      "imslp_url": "https://imslp.org/wiki/La_giovinetta_pianta,_SV_60_(Monteverdi,_Claudio)",
+      "year": 1592
+    },
+    {
+      "title": "Lumi miei, cari lumi', SV 73",
+      "imslp_url": "https://imslp.org/wiki/Lumi_miei,_cari_lumi',_SV_73_(Monteverdi,_Claudio)",
+      "year": 1592
+    },
+    {
+      "title": "O come \u00e8 gran martire, SV 61",
+      "imslp_url": "https://imslp.org/wiki/O_come_\u00e8_gran_martire,_SV_61_(Monteverdi,_Claudio)",
+      "year": 1592
+    },
+    {
+      "title": "O dolce anima mia, SV 63",
+      "imslp_url": "https://imslp.org/wiki/O_dolce_anima_mia,_SV_63_(Monteverdi,_Claudio)",
+      "year": 1592
+    },
+    {
+      "title": "O primavera, giovent\u00fa dell\u2019anno, SV 68",
+      "imslp_url": "https://imslp.org/wiki/O_primavera,_giovent\u00fa_dell\u2019anno,_SV_68_(Monteverdi,_Claudio)",
+      "year": 1592
+    },
+    {
+      "title": "O rossignuol ch\u2019in queste verdi fronde, SV 65",
+      "imslp_url": "https://imslp.org/wiki/O_rossignuol_ch\u2019in_queste_verdi_fronde,_SV_65_(Monteverdi,_Claudio)",
+      "year": 1592
+    },
+    {
+      "title": "Occhi un tempo mia vita, SV 71",
+      "imslp_url": "https://imslp.org/wiki/Occhi_un_tempo_mia_vita,_SV_71_(Monteverdi,_Claudio)",
+      "year": 1592
+    },
+    {
+      "title": "Perfidissimo volto ben lusata bellezza, SV 69",
+      "imslp_url": "https://imslp.org/wiki/Perfidissimo_volto_ben_lusata_bellezza,_SV_69_(Monteverdi,_Claudio)",
+      "year": 1592
+    },
+    {
+      "title": "Rimanti in pace a la dolente e bella Fillida, SV 74",
+      "imslp_url": "https://imslp.org/wiki/Rimanti_in_pace_a_la_dolente_e_bella_Fillida,_SV_74_(Monteverdi,_Claudio)",
+      "year": 1592
+    },
+    {
+      "title": "Se per estremo ardore morir potesse un core, SV 66",
+      "imslp_url": "https://imslp.org/wiki/Se_per_estremo_ardore_morir_potesse_un_core,_SV_66_(Monteverdi,_Claudio)",
+      "year": 1592
+    },
+    {
+      "title": "Sovra tenere erbette e bianchi fiori, SV 62",
+      "imslp_url": "https://imslp.org/wiki/Sovra_tenere_erbette_e_bianchi_fiori,_SV_62_(Monteverdi,_Claudio)",
+      "year": 1592
+    },
+    {
+      "title": "Stracciami pur il core ragion \u00e8 ben ingrato, SV 64",
+      "imslp_url": "https://imslp.org/wiki/Stracciami_pur_il_core_ragion_\u00e8_ben_ingrato,_SV_64_(Monteverdi,_Claudio)",
+      "year": 1592
+    },
+    {
+      "title": "Vattene pur, crudel, con quella pace, SV 67",
+      "imslp_url": "https://imslp.org/wiki/Vattene_pur,_crudel,_con_quella_pace,_SV_67_(Monteverdi,_Claudio)",
+      "year": 1592
+    },
+    {
+      "title": "Vivr\u00f2 fra i miei tormenti, SV 72",
+      "imslp_url": "https://imslp.org/wiki/Vivr\u00f2_fra_i_miei_tormenti,_SV_72_(Monteverdi,_Claudio)",
+      "year": 1592
+    },
+    {
+      "title": "A un giro sol de\u2019 bell\u2019 occhi lucenti, SV 84",
+      "imslp_url": "https://imslp.org/wiki/A_un_giro_sol_de\u2019_bell\u2019_occhi_lucenti,_SV_84_(Monteverdi,_Claudio)",
+      "year": 1603
+    },
+    {
+      "title": "Ah dolente partita, SV 75",
+      "imslp_url": "https://imslp.org/wiki/Ah_dolente_partita,_SV_75_(Monteverdi,_Claudio)",
+      "year": 1603
+    },
+    {
+      "title": "Anima mia, perdona",
+      "imslp_url": "https://imslp.org/wiki/Anima_mia,_perdona_(Monteverdi,_Claudio)",
+      "year": 1603
+    },
+    {
+      "title": "Cor mio, mentre vi miro, SV 77",
+      "imslp_url": "https://imslp.org/wiki/Cor_mio,_mentre_vi_miro,_SV_77_(Monteverdi,_Claudio)",
+      "year": 1603
+    },
+    {
+      "title": "Io mi son giovinetta, SV 86",
+      "imslp_url": "https://imslp.org/wiki/Io_mi_son_giovinetta,_SV_86_(Monteverdi,_Claudio)",
+      "year": 1603
+    },
+    {
+      "title": "Luci serene e chiare",
+      "imslp_url": "https://imslp.org/wiki/Luci_serene_e_chiare_(Monteverdi,_Claudio)",
+      "year": 1603
+    },
+    {
+      "title": "Ohim\u00e8 se tanto amate, SV 85",
+      "imslp_url": "https://imslp.org/wiki/Ohim\u00e8_se_tanto_amate,_SV_85_(Monteverdi,_Claudio)",
+      "year": 1603
+    },
+    {
+      "title": "Piagne e sospira, SV 93",
+      "imslp_url": "https://imslp.org/wiki/Piagne_e_sospira,_SV_93_(Monteverdi,_Claudio)",
+      "year": 1603
+    },
+    {
+      "title": "Quel augellin che canta s\u00ec dolcemente, SV 87",
+      "imslp_url": "https://imslp.org/wiki/Quel_augellin_che_canta_s\u00ec_dolcemente,_SV_87_(Monteverdi,_Claudio)",
+      "year": 1603
+    },
+    {
+      "title": "Sfogava con le stelle, SV 78",
+      "imslp_url": "https://imslp.org/wiki/Sfogava_con_le_stelle,_SV_78_(Monteverdi,_Claudio)",
+      "year": 1603
+    },
+    {
+      "title": "S\u00ec ch\u2019io vorrei morire hora ch\u2019io bacio amore, SV 89",
+      "imslp_url": "https://imslp.org/wiki/S\u00ec_ch\u2019io_vorrei_morire_hora_ch\u2019io_bacio_amore,_SV_89_(Monteverdi,_Claudio)",
+      "year": 1603
+    },
+    {
+      "title": "Ahi come a un vago sol cortese giro, SV 101",
+      "imslp_url": "https://imslp.org/wiki/Ahi_come_a_un_vago_sol_cortese_giro,_SV_101_(Monteverdi,_Claudio)",
+      "year": 1605
+    },
+    {
+      "title": "Ch\u2019io t\u2019ami, SV 98",
+      "imslp_url": "https://imslp.org/wiki/Ch\u2019io_t\u2019ami,_SV_98_(Monteverdi,_Claudio)",
+      "year": 1605
+    },
+    {
+      "title": "Cruda Amarilli, SV 94",
+      "imslp_url": "https://imslp.org/wiki/Cruda_Amarilli,_SV_94_(Monteverdi,_Claudio)",
+      "year": 1605
+    },
+    {
+      "title": "Ecco Silvio, SV 97",
+      "imslp_url": "https://imslp.org/wiki/Ecco_Silvio,_SV_97_(Monteverdi,_Claudio)",
+      "year": 1605
+    },
+    {
+      "title": "Era l\u2019anima mia, SV 96",
+      "imslp_url": "https://imslp.org/wiki/Era_l\u2019anima_mia,_SV_96_(Monteverdi,_Claudio)",
+      "year": 1605
+    },
+    {
+      "title": "O Mirtillo, Mirtill\u2019anima mia, SV 95",
+      "imslp_url": "https://imslp.org/wiki/O_Mirtillo,_Mirtill\u2019anima_mia,_SV_95_(Monteverdi,_Claudio)",
+      "year": 1605
+    },
+    {
+      "title": "T'amo mia vita, SV 104",
+      "imslp_url": "https://imslp.org/wiki/T'amo_mia_vita,_SV_104_(Monteverdi,_Claudio)",
+      "year": 1605
+    },
+    {
+      "title": "Troppo ben pu\u00f2 questo tiranno Amore, SV 102",
+      "imslp_url": "https://imslp.org/wiki/Troppo_ben_pu\u00f2_questo_tiranno_Amore,_SV_102_(Monteverdi,_Claudio)",
+      "year": 1605
+    },
+    {
+      "title": "L'Arianna, SV 291",
+      "imslp_url": "https://imslp.org/wiki/L'Arianna,_SV_291_(Monteverdi,_Claudio)",
+      "year": 1607
+    },
+    {
+      "title": "L'Orfeo, SV 318",
+      "imslp_url": "https://imslp.org/wiki/L'Orfeo,_SV_318_(Monteverdi,_Claudio)",
+      "year": 1607
+    },
+    {
+      "title": "Plorat amare et liquitur",
+      "imslp_url": "https://imslp.org/wiki/Plorat_amare_et_liquitur_(Monteverdi,_Claudio)",
+      "year": 1609
+    },
+    {
+      "title": "Mass for 6 Voices, SV 205",
+      "imslp_url": "https://imslp.org/wiki/Mass_for_6_Voices,_SV_205_(Monteverdi,_Claudio)",
+      "year": 1610
+    },
+    {
+      "title": "Missa In illo tempore, SV 205",
+      "imslp_url": "https://imslp.org/wiki/Missa_In_illo_tempore,_SV_205_(Monteverdi,_Claudio)",
+      "year": 1610
+    },
+    {
+      "title": "Vespro della Beata Vergine, SV 206",
+      "imslp_url": "https://imslp.org/wiki/Vespro_della_Beata_Vergine,_SV_206_(Monteverdi,_Claudio)",
+      "year": 1610
+    },
+    {
+      "title": "Lagrime d'amante, SV 111",
+      "imslp_url": "https://imslp.org/wiki/Lagrime_d'amante,_SV_111_(Monteverdi,_Claudio)",
+      "year": 1614
+    },
+    {
+      "title": "Lamento d'Arianna, SV 107",
+      "imslp_url": "https://imslp.org/wiki/Lamento_d'Arianna,_SV_107_(Monteverdi,_Claudio)",
+      "year": 1614
+    },
+    {
+      "title": "Ohim\u00e8 il bel viso, SV 112",
+      "imslp_url": "https://imslp.org/wiki/Ohim\u00e8_il_bel_viso,_SV_112_(Monteverdi,_Claudio)",
+      "year": 1614
+    },
+    {
+      "title": "Zefiro torna e'l bel tempo rimena, SV 108",
+      "imslp_url": "https://imslp.org/wiki/Zefiro_torna_e'l_bel_tempo_rimena,_SV_108_(Monteverdi,_Claudio)",
+      "year": 1614
+    },
+    {
+      "title": "Cantate Domino, SV 292",
+      "imslp_url": "https://imslp.org/wiki/Cantate_Domino,_SV_292_(Monteverdi,_Claudio)",
+      "year": 1615
+    },
+    {
+      "title": "Al lume delle stelle, SV 138",
+      "imslp_url": "https://imslp.org/wiki/Al_lume_delle_stelle,_SV_138_(Monteverdi,_Claudio)",
+      "year": 1619
+    },
+    {
+      "title": "Chiome d'oro, bel thesoro, SV 143",
+      "imslp_url": "https://imslp.org/wiki/Chiome_d'oro,_bel_thesoro,_SV_143_(Monteverdi,_Claudio)",
+      "year": 1619
+    },
+    {
+      "title": "Se i languidi miei sguardi, SV 141",
+      "imslp_url": "https://imslp.org/wiki/Se_i_languidi_miei_sguardi,_SV_141_(Monteverdi,_Claudio)",
+      "year": 1619
+    },
+    {
+      "title": "Adoramus te, SV 289",
+      "imslp_url": "https://imslp.org/wiki/Adoramus_te,_SV_289_(Monteverdi,_Claudio)",
+      "year": 1620
+    },
+    {
+      "title": "Cantate Domino, SV 293",
+      "imslp_url": "https://imslp.org/wiki/Cantate_Domino,_SV_293_(Monteverdi,_Claudio)",
+      "year": 1620
+    },
+    {
+      "title": "Christe adoramus te, SV 294",
+      "imslp_url": "https://imslp.org/wiki/Christe_adoramus_te,_SV_294_(Monteverdi,_Claudio)",
+      "year": 1620
+    },
+    {
+      "title": "Domine ne in furore tuo arguas me, SV 298",
+      "imslp_url": "https://imslp.org/wiki/Domine_ne_in_furore_tuo_arguas_me,_SV_298_(Monteverdi,_Claudio)",
+      "year": 1620
+    },
+    {
+      "title": "Laetaniae della Beata Vergine, SV 204",
+      "imslp_url": "https://imslp.org/wiki/Laetaniae_della_Beata_Vergine,_SV_204_(Monteverdi,_Claudio)",
+      "year": 1620
+    },
+    {
+      "title": "Fuge anima mea mundum, SV 305",
+      "imslp_url": "https://imslp.org/wiki/Fuge_anima_mea_mundum,_SV_305_(Monteverdi,_Claudio)",
+      "year": 1621
+    },
+    {
+      "title": "O beatae viae, SV 312",
+      "imslp_url": "https://imslp.org/wiki/O_beatae_viae,_SV_312_(Monteverdi,_Claudio)",
+      "year": 1621
+    },
+    {
+      "title": "O bone Jesu o piissimi Jesu, SV 313",
+      "imslp_url": "https://imslp.org/wiki/O_bone_Jesu_o_piissimi_Jesu,_SV_313_(Monteverdi,_Claudio)",
+      "year": 1622
+    },
+    {
+      "title": "Lamento d'Arianna, SV 22",
+      "imslp_url": "https://imslp.org/wiki/Lamento_d'Arianna,_SV_22_(Monteverdi,_Claudio)",
+      "year": 1623
+    },
+    {
+      "title": "Ego flos campi, SV 301",
+      "imslp_url": "https://imslp.org/wiki/Ego_flos_campi,_SV_301_(Monteverdi,_Claudio)",
+      "year": 1624
+    },
+    {
+      "title": "Ohim\u00e9 ch\u2019io cado, SV 316",
+      "imslp_url": "https://imslp.org/wiki/Ohim\u00e9_ch\u2019io_cado,_SV_316_(Monteverdi,_Claudio)",
+      "year": 1624
+    },
+    {
+      "title": "Salve o regina, SV 326",
+      "imslp_url": "https://imslp.org/wiki/Salve_o_regina,_SV_326_(Monteverdi,_Claudio)",
+      "year": 1624
+    },
+    {
+      "title": "S\u00ec dolce \u00e8'l tormento, SV 332",
+      "imslp_url": "https://imslp.org/wiki/S\u00ec_dolce_\u00e8'l_tormento,_SV_332_(Monteverdi,_Claudio)",
+      "year": 1624
+    },
+    {
+      "title": "Venite sitientes ad aquas, SV 335",
+      "imslp_url": "https://imslp.org/wiki/Venite_sitientes_ad_aquas,_SV_335_(Monteverdi,_Claudio)",
+      "year": 1624
+    },
+    {
+      "title": "Currite, populi, psallite timpanis, SV 297",
+      "imslp_url": "https://imslp.org/wiki/Currite,_populi,_psallite_timpanis,_SV_297_(Monteverdi,_Claudio)",
+      "year": 1625
+    },
+    {
+      "title": "Ecce sacrum paratum convivium, SV 299",
+      "imslp_url": "https://imslp.org/wiki/Ecce_sacrum_paratum_convivium,_SV_299_(Monteverdi,_Claudio)",
+      "year": 1625
+    },
+    {
+      "title": "Ego dormio et cor meum vigilat, SV 300",
+      "imslp_url": "https://imslp.org/wiki/Ego_dormio_et_cor_meum_vigilat,_SV_300_(Monteverdi,_Claudio)",
+      "year": 1625
+    },
+    {
+      "title": "O quam pulchra es amica mea, SV 317",
+      "imslp_url": "https://imslp.org/wiki/O_quam_pulchra_es_amica_mea,_SV_317_(Monteverdi,_Claudio)",
+      "year": 1625
+    },
+    {
+      "title": "Salve Regina, SV 327",
+      "imslp_url": "https://imslp.org/wiki/Salve_Regina,_SV_327_(Monteverdi,_Claudio)",
+      "year": 1625
+    },
+    {
+      "title": "Sancta Maria succurre miseris, SV 328",
+      "imslp_url": "https://imslp.org/wiki/Sancta_Maria_succurre_miseris,_SV_328_(Monteverdi,_Claudio)",
+      "year": 1627
+    },
+    {
+      "title": "Beatus vir, SV 268",
+      "imslp_url": "https://imslp.org/wiki/Beatus_vir,_SV_268_(Monteverdi,_Claudio)",
+      "year": 1630
+    },
+    {
+      "title": "Maledetto sia l\u2019aspetto, SV 246",
+      "imslp_url": "https://imslp.org/wiki/Maledetto_sia_l\u2019aspetto,_SV_246_(Monteverdi,_Claudio)",
+      "year": 1632
+    },
+    {
+      "title": "Zefiro torna e di soavi accenti, SV 251",
+      "imslp_url": "https://imslp.org/wiki/Zefiro_torna_e_di_soavi_accenti,_SV_251_(Monteverdi,_Claudio)",
+      "year": 1632
+    },
+    {
+      "title": "Armato il cor d\u2019adamantina fede, SV 150",
+      "imslp_url": "https://imslp.org/wiki/Armato_il_cor_d\u2019adamantina_fede,_SV_150_(Monteverdi,_Claudio)",
+      "year": 1638
+    },
+    {
+      "title": "Combattimento di Tancredi e Clorinda, SV 153",
+      "imslp_url": "https://imslp.org/wiki/Combattimento_di_Tancredi_e_Clorinda,_SV_153_(Monteverdi,_Claudio)",
+      "year": 1638
+    },
+    {
+      "title": "Dolcissimo uscignolo, SV 161",
+      "imslp_url": "https://imslp.org/wiki/Dolcissimo_uscignolo,_SV_161_(Monteverdi,_Claudio)",
+      "year": 1638
+    },
+    {
+      "title": "Gira il nemico insidioso amore, SV 148",
+      "imslp_url": "https://imslp.org/wiki/Gira_il_nemico_insidioso_amore,_SV_148_(Monteverdi,_Claudio)",
+      "year": 1638
+    },
+    {
+      "title": "Hor che \u2019l ciel e la terra e \u2019l vento tace, SV 147",
+      "imslp_url": "https://imslp.org/wiki/Hor_che_\u2019l_ciel_e_la_terra_e_\u2019l_vento_tace,_SV_147_(Monteverdi,_Claudio)",
+      "year": 1638
+    },
+    {
+      "title": "Il ballo delle ingrate in genere representativo, SV 167",
+      "imslp_url": "https://imslp.org/wiki/Il_ballo_delle_ingrate_in_genere_representativo,_SV_167_(Monteverdi,_Claudio)",
+      "year": 1638
+    },
+    {
+      "title": "Lamento della ninfa, SV 163",
+      "imslp_url": "https://imslp.org/wiki/Lamento_della_ninfa,_SV_163_(Monteverdi,_Claudio)",
+      "year": 1638
+    },
+    {
+      "title": "Su su, su pastorelli vezzosi, SV 166",
+      "imslp_url": "https://imslp.org/wiki/Su_su,_su_pastorelli_vezzosi,_SV_166_(Monteverdi,_Claudio)",
+      "year": 1638
+    },
+    {
+      "title": "Volgendo il ciel per l'immortal sentiero, SV 154",
+      "imslp_url": "https://imslp.org/wiki/Volgendo_il_ciel_per_l'immortal_sentiero,_SV_154_(Monteverdi,_Claudio)",
+      "year": 1638
+    },
+    {
+      "title": "Pianto della Madonna, SV 288",
+      "imslp_url": "https://imslp.org/wiki/Pianto_della_Madonna,_SV_288_(Monteverdi,_Claudio)",
+      "year": 1640
+    },
+    {
+      "title": "Confitebor tibi domine, SV 265",
+      "imslp_url": "https://imslp.org/wiki/Confitebor_tibi_domine,_SV_265_(Monteverdi,_Claudio)",
+      "year": 1641
+    },
+    {
+      "title": "Confitebor tibi domine, SV 267",
+      "imslp_url": "https://imslp.org/wiki/Confitebor_tibi_domine,_SV_267_(Monteverdi,_Claudio)",
+      "year": 1641
+    },
+    {
+      "title": "Deus tuorum militum, SV 280",
+      "imslp_url": "https://imslp.org/wiki/Deus_tuorum_militum,_SV_280_(Monteverdi,_Claudio)",
+      "year": 1641
+    },
+    {
+      "title": "Et resurrexit, SV 260",
+      "imslp_url": "https://imslp.org/wiki/Et_resurrexit,_SV_260_(Monteverdi,_Claudio)",
+      "year": 1641
+    },
+    {
+      "title": "Iste confessor, SV 279",
+      "imslp_url": "https://imslp.org/wiki/Iste_confessor,_SV_279_(Monteverdi,_Claudio)",
+      "year": 1641
+    },
+    {
+      "title": "Laudate dominum in sanctis eius, SV 287",
+      "imslp_url": "https://imslp.org/wiki/Laudate_dominum_in_sanctis_eius,_SV_287_(Monteverdi,_Claudio)",
+      "year": 1641
+    },
+    {
+      "title": "Mass for 4 Voices, SV 257",
+      "imslp_url": "https://imslp.org/wiki/Mass_for_4_Voices,_SV_257_(Monteverdi,_Claudio)",
+      "year": 1641
+    },
+    {
+      "title": "L'Incoronazione di Poppea, SV 308",
+      "imslp_url": "https://imslp.org/wiki/L'Incoronazione_di_Poppea,_SV_308_(Monteverdi,_Claudio)",
+      "year": 1642
+    }
+  ]
+}

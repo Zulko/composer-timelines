@@ -1,453 +1,487 @@
 {
   "full_name": "Vincenzo Bellini",
-  "first_names": "Vincenzo",
+  "first_names": "Vincenzo Antonio",
   "last_name": "Bellini",
   "birth_year": 1801,
   "death_year": 1835,
   "wikipedia_url": "https://en.wikipedia.org/wiki/Vincenzo_Bellini",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Vincenzo Bellini was born in Catania to a musical family, making him the eldest of seven children. It seems being the oldest means he had to deal with more siblings, but that didn\u2019t stop him from hitting those high notes early on!",
-      "year": 1801,
-      "city": "Catania",
-      "country": "Kingdom of Sicily"
+      "section": "Catania: early life",
+      "title": "Child Prodigy",
+      "summary": "By the age of five, Bellini could play the piano marvelously and composed his first pieces at six, showcasing his prodigious talent.",
+      "year": 1806,
+      "location": "Catania",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "By the age of five, Bellini was tickling the ivory like a pro and composing his first masterpieces at the ripe old age of six. I guess when it comes to talent, he must have been born not just with a silver spoon, but with a grand piano!"
     },
     {
-      "event": "First Music Lessons",
-      "summary": "At the tender age of six, Bellini composed his first five pieces. Apparently, he was not just a child who could sing 'Twinkle, Twinkle, Little Star' but was crafting compositions while still figuring out how to tie his shoes!",
-      "year": 1807,
-      "city": "Catania",
-      "country": "Kingdom of Sicily"
+      "section": "Catania: early life",
+      "title": "First Music Lessons",
+      "summary": "After 1816, Bellini moved in with his grandfather, receiving his first formal music lessons which encouraged his early composition efforts.",
+      "year": 1816,
+      "location": "Catania",
+      "emoji": "\ud83c\udfb5",
+      "fun_version": "After 1816, Bellini moved in with his grandfather, who gave him music lessons. Let's be real, it was either that or teaching him how to knit sweaters! This time of formal training encouraged his early composition efforts."
     },
     {
-      "event": "Scholarship to Naples",
-      "summary": "In a dramatic turn of events that rivaled any opera plot, Bellini secured a stipend from the city of Catania for musical studies in Naples, allowing him to escape the chaos of family life for the world of music!",
+      "section": "Catania: early life",
+      "title": "Completion of Orchestral Pieces",
+      "summary": "By 1818, Bellini completed several orchestral pieces and settings of the Mass Ordinary, marking significant milestones in his early career.",
+      "year": 1818,
+      "location": "Catania",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "By 1818, Bellini was composing orchestral pieces faster than you can say 'massive musical milestone!' He completed several orchestral pieces and settings of the Mass Ordinary, proving that even church music can have a bit of flair."
+    },
+    {
+      "section": "Catania: early life",
+      "title": "Stipend for Musical Studies",
+      "summary": "In May 1819, Bellini successfully petitioned for a stipend to support his studies in Naples, allowing him to further his musical education.",
       "year": 1819,
-      "city": "Catania",
-      "country": "Kingdom of Sicily"
+      "location": "Catania",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In May 1819, Bellini managed to charm the pants off some patrons and bagged himself a stipend to support his studies in Naples, allowing him to further his musical education. I guess being a musical genius has its perks\u2014like not having to sell your organs for a few coins."
     },
     {
-      "event": "Enrollment in Conservatory",
-      "summary": "Bellini entered the Conservatorio di San Sebastiano in Naples, where he experienced a rigorous regimen worthy of a military drill. Who knew that learning music could feel like boot camp?",
+      "section": "Naples: musical education",
+      "title": "Composing Sacred Music",
+      "summary": "During his time in Naples, Bellini composed several sacred works, including a Messa di Gloria and settings of the Mass, as a fulfillment of his scholarship obligations. These pieces demonstrated his growing compositional skills and were performed publicly, indicating his rising prominence.",
       "year": 1820,
-      "city": "Naples",
-      "country": "Italy"
+      "location": "Naples",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "During his time in Naples, Bellini was like a pizza chef in a music kitchen, creating sacred works like Messa di Gloria and some Mass settings, fulfilling his scholarship obligations. These pieces demonstrated his growing compositional skills and were performed publicly, showcasing his rising prominence while the crowds sang his praises!"
     },
     {
-      "event": "First Opera Composition",
-      "summary": "After becoming primo maestrino, Bellini wrote 'Adelson e Salvini'. This opera was such a hit among his fellow students that it ran like a long-running sitcom for a whole year every Sunday!",
+      "section": "Naples: musical education",
+      "title": "Scholarship Achievement",
+      "summary": "In January 1820, Bellini passed his examinations in theory, earning an annual scholarship that enabled him to support his family. He continued to excel in his studies the following January, further solidifying his place in the music community.",
+      "year": 1820,
+      "location": "Naples",
+      "emoji": "\ud83c\udfc6",
+      "fun_version": "In January 1820, Bellini aced his examinations in theory\u2014turns out all those late-night battles with his musical notes paid off! He even bagged an annual scholarship to support his family. The next January, he continued his academic success, firmly establishing himself in the music community."
+    },
+    {
+      "section": "Naples: musical education",
+      "title": "Musical Education at Conservatorio di San Sebastiano",
+      "summary": "Vincenzo Bellini attended the Conservatorio di San Sebastiano, where he studied under the opera composer Niccol\u00f2 Antonio Zingarelli. He submitted ten pieces for consideration, showcasing his talent, despite needing remedial work in technique. His days were filled with long classes under a strict regimen, highlighting the rigorous training he received during this formative period.",
+      "year": 1822,
+      "location": "Naples",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Vincenzo Bellini attended the Conservatorio di San Sebastiano, where he studied under the opera composer Niccol\u00f2 Antonio Zingarelli. He submitted ten pieces, showcasing his talent, despite needing a bit of a musical tune-up. His days were filled with long classes under a strict regimen, as Bellini was working hard to transform from a novice into the dazzling composer we all love, one lesson at a time!"
+    },
+    {
+      "section": "Complete works of Bellini",
+      "title": "Adelson e Salvini",
+      "summary": "This opera semiseria includes 3 acts and features a libretto by Andrea Leone Tottola. It represents Bellini's early forays into composition, showcasing his evolving style and establishing his presence in the operatic world.",
       "year": 1825,
-      "city": "Naples",
-      "country": "Italy"
+      "location": "Naples, Teatro del Conservatorio di San Sebastiano",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Welcome to an opera semiseria that\u2019s got more acts than a soap opera, featuring a libretto by Andrea Leone Tottola. This opera has 3 acts and represents Bellini's early forays into composition while showcasing his evolving style and establishing his presence in the operatic world, all while desperately trying to shout, 'Hey world, I\u2019m here!'"
     },
     {
-      "event": "Major Success with Il pirata",
-      "summary": "'Il pirata' debuted and marked Bellini's rise to fame. It was like he shot out of a champagne bottle and became the life of the musical party, gaining recognition that set him apart from many contemporaries.",
-      "year": 1827,
-      "city": "Naples",
-      "country": "Italy"
+      "section": "Naples: musical education",
+      "title": "First Opera: Adelson e Salvini",
+      "summary": "In late summer of 1824, Bellini was assigned to compose an opera as a requirement of his primo maestrino status at the conservatory. The resulting work, Adelson e Salvini, premiered in 1825 and became immensely popular among fellow students, showcasing his burgeoning career in opera composition.",
+      "year": 1825,
+      "location": "Naples",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "In late summer of 1824, Bellini was handed the task of composing an opera as part of his primo maestrino status at the conservatory. He rolled up his sleeves, donned his imaginary maestro hat, and got to work. The result? A grand premiere in 1825 of 'Adelson e Salvini'\u2014a work that became immensely popular among fellow students, showcasing his burgeoning career in opera composition!"
     },
     {
-      "event": "Successes in Milan",
-      "summary": "Bellini\u2019s operas 'I Capuleti e i Montecchi' and 'La sonnambula' premiered in Milan, achieving great acclaim. It was his equivalent of winning the musical Olympics, with audiences cheerfully humming his melodies for years!",
-      "year": 1830,
-      "city": "Milan",
-      "country": "Italy"
+      "section": "Naples: musical education",
+      "title": "Return to Catania",
+      "summary": "After the success of his opera, Bellini decided to visit his family in Catania after being away for six years. While the exact year of this visit differs in sources, it is known that he returned to Naples shortly after to fulfill a contract for a new opera, marking a significant transition in his professional endeavors.",
+      "year": 1825,
+      "location": "Catania and Naples",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "After the colossal smashing success of his opera, Bellini made a grand decision: he would visit his family in Catania after a six-year-long absence! While historians argue about the exact year he returned, it is known that he dashed back to Naples shortly after to fulfill a contract for a new opera. This visit wasn't just a family reunion; it was a glorious event filled with hugs, and I'm sure Bellini's mom had at least a dozen lasagnas ready!"
     },
     {
-      "event": "Norma Premiere",
-      "summary": "'Norma' premiered at La Scala, initially met with mixed reviews, as if the critics were still trying to remember their opera training! Thankfully, it later got the standing ovations it deserved.",
-      "year": 1831,
-      "city": "Milan",
-      "country": "Italy"
-    },
-    {
-      "event": "Final Masterpiece I puritani",
-      "summary": "Bellini\u2019s last opera, 'I puritani', premiered in Paris and was celebrated as a genuine triumph. It was like the composer saved his best card for last in a game of musical poker!",
-      "year": 1835,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Death",
-      "summary": "Tragically, Bellini passed away at the young age of 33 in France, leaving behind a legacy of music that would forever echo in opera houses. Some might say he burned bright and fast, like a diva hitting those high notes!",
-      "year": 1835,
-      "city": "Puteaux",
-      "country": "France"
-    },
-    {
-      "event": "Premiere of Bianca e Gernando",
-      "summary": "After much anticipation and a title adjustment due to royal protocol, Bellini's first opera premiered at the Teatro di San Carlo. The King even applauded, breaking a tradition, which made it an event where the audience was not just listening but clapping along, much to the surprise of everyone involved!",
+      "section": "Complete works of Bellini",
+      "title": "Bianca e Gernando",
+      "summary": "A melodramma consisting of 2 acts, this opera has a libretto by Domenico Gilardoni. The work reflects Bellini's lyrical style and his growing reputation as a composer during this period.",
       "year": 1826,
-      "city": "Naples",
-      "country": "Italy"
+      "location": "Naples, Teatro San Carlo",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "This opera consists of 2 acts and boasts a libretto by Domenico Gilardoni, reflecting Bellini's lyrical style\u2014the kind that makes you weep into your handkerchief. And let\u2019s not forget Bellini's growing reputation as a composer during this period!"
     },
     {
-      "event": "Commission for Il pirata",
-      "summary": "Domenico Barbaja offered Bellini a commission for an opera. Bellini jumped at the opportunity, starting a collaboration with the illustrious librettist Felice Romani, and they began creating melodrama that would have audiences swooning, or at least reaching for their handkerchiefs!",
+      "section": "Beginnings of a career",
+      "title": "Premiere of Bianca e Gernando",
+      "summary": "After facing delays due to royal interference, Vincenzo Bellini's opera, originally titled Bianca e Fernando, premiered as Bianca e Gernando at the Teatro di San Carlo. The performance took place on 30 May 1826 and was attended by King Francesco I, which helped garner significant enthusiasm from the audience, including fellow composer Donizetti, who praised it highly.",
+      "year": 1826,
+      "location": "Teatro di San Carlo, Naples",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "After a royal game of 'let's keep you waiting', Vincenzo Bellini's opera\u2014formerly known as Bianca e Fernando and for reasons that remain a mystery, renamed Bianca e Gernando\u2014finally graced the Teatro di San Carlo. The grand opening on 30 May 1826 attracted King Francesco I, which helped generate considerable enthusiasm among the audience. This royal endorsement whipped the audience into a frenzy, particularly captivating fellow composer Donizetti, who praised the performance highly."
+    },
+    {
+      "section": "Beginnings of a career",
+      "title": "Commission for Opera at La Scala",
+      "summary": "In early 1827, Domenico Barbaja extended a commission to Bellini to write another opera for La Scala set to premiere in the autumn of the same year, marking an important step in Bellini's burgeoning career and showcasing his growing reputation in the opera world.",
       "year": 1827,
-      "city": "Milan",
-      "country": "Italy"
+      "location": "La Scala, Milan",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Picture this: it's early 1827, and Domenico Barbaja, probably sipping on a cappuccino, decides that Bellini needs to crank out another opera for La Scala. The big premiere is set for autumn, which means Bellini has just enough time to whip up a masterpiece and give his growing fan club a reason to keep wearing those fancy hats to the opera. This endeavor marks a crucial step in Bellini's burgeoning career, truly showcasing his growing reputation in the opera world!"
     },
     {
-      "event": "Premiere of Il pirata",
-      "summary": "The premiere of Il pirata was a resounding success. With the audience loving the combination of beautiful music and dramatic storylines, Bellini could finally bask in the glow of acclaim, knowing he had written something that both satisfied his artistic cravings and entertained the masses!",
+      "section": "Complete works of Bellini",
+      "title": "Il pirata",
+      "summary": "This melodramma, with 2 acts and a libretto by Felice Romani, demonstrates Bellini's exceptional ability to create powerful emotional narratives within his operatic works.",
       "year": 1827,
-      "city": "Milan",
-      "country": "Italy"
+      "location": "Milan, Teatro alla Scala",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "This melodramma, with 2 acts\u2014because who doesn't love a good act-out in opera?\u2014and a libretto by Felice Romani, showcases Bellini's exceptional ability to make you feel all the feels, just like that time your cat brought you a 'gift'!"
     },
     {
-      "event": "Revival of Bianca e Fernando",
-      "summary": "In a twist of fate, Bellini decided to revive Bianca e Gernando, this time embracing its original title with no royal names to trip him up. Fans of the opera applauded loudly, a bit like teenagers at a pop concert, but critics had a few raised eyebrows about the 'long bore' second act.",
+      "section": "Northern Italy",
+      "title": "Il pirata Premiere",
+      "summary": "The premiere of Bellini's opera Il pirata took place on 17 October 1827, marking an immediate success with the audience. The strong cast included tenor Giovanni Battista Rubini, praised for his dual singing and acting abilities. The performance generated significant acclaim, leading to a successful season where the opera was performed to full houses.",
+      "year": 1827,
+      "location": "Milan",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "On October 17, 1827, the premiere of Bellini's opera Il pirata was so glamorous, the audience didn\u2019t just clap; they practically threw their hats at the stage! The cast was as strong as a double espresso, featuring the legendary tenor Giovanni Battista Rubini, who could sing and act so well! The performance generated significant acclaim, turning the opera house into a full-on party venue, where every seat was as occupied as a Vienna caf\u00e9 at 4 PM, leading to a successful season with full houses."
+    },
+    {
+      "section": "Complete works of Bellini",
+      "title": "Bianca e Fernando",
+      "summary": "This is a revision of Bellini's earlier work, \"Bianca e Gernando,\" staying within the melodramma genre and showcasing the composer's development in storytelling through music.",
       "year": 1828,
-      "city": "Genoa",
-      "country": "Italy"
+      "location": "Genoa, Teatro Carlo Felice",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Join us for a ride through Bellini's earlier work, 'Bianca e Gernando,' where the melodramma genre comes alive! It\u2019s melodramatic tunes that practically sing along with their own plot twists\u2014watch as Bellini develops his storytelling skills through music!"
     },
     {
-      "event": "Commission for La straniera",
-      "summary": "Bellini signed a lucrative contract to compose La straniera, predicting it would be an even greater success than his previous works. He was onto something good\u2014composing while dodging royal drama seemed to be his forte, and he was eager to prove it again!",
+      "section": "Northern Italy",
+      "title": "Bianca e Fernando Revision",
+      "summary": "Bellini revised his earlier work, Bianca e Gernando, renaming it Bianca e Fernando, for a new performance in Genoa on 7 April 1828. He made substantial alterations to the libretto and music, responding to the audience's positive reactions during the premiere.",
       "year": 1828,
-      "city": "Milan",
-      "country": "Italy"
+      "location": "Genoa",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Bellini decided to turn his earlier opera, Bianca e Gernando, into a fresh take called Bianca e Fernando. This makeover was all set to dazzle the audience in Genoa on April 7, 1828. Bellini made substantial changes to the libretto and music, responding to the crowd's cheers at his premiere!"
     },
     {
-      "event": "Premiere of La straniera",
-      "summary": "With the premiere of La straniera, audiences were dazzled once again by Bellini's genius, and he solidified his standing as a leading composer of the time. It seemed like every performance was a blockbuster, complete with cheers, clapping, and maybe even a few standing ovations!",
+      "section": "Major achievements",
+      "title": "Il Pirata Revival",
+      "summary": "Bellini stages a revival of his opera Il pirata at the Teatro Canobbiana during the summer, where it receives 24 consecutive performances between July 16 and August 23, 1829, showcasing the original cast and achieving great success.",
       "year": 1829,
-      "city": "Milan",
-      "country": "Italy"
+      "location": "Milan",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Bellini decided it was time to dust off his opera 'Il pirata' and give it a summer glow-up at the Teatro Canobbiana! From July 16 to August 23, 1829, it enjoyed 24 consecutive performances showcasing the original cast, and if they didn't win the 'great success' award, they were definitely at least \u2018best dressed\u2019!"
     },
     {
-      "event": "Setback with Zaira",
-      "summary": "After a promising start, Zaira flopped in Parma, causing Bellini to wonder if he should take up knitting instead. The critics were tough, but Bellini learned that not every opera could soar, especially when composer and librettist were seen sipping coffee instead of composing.",
+      "section": "Complete works of Bellini",
+      "title": "La straniera",
+      "summary": "Another melodramma consisting of 2 acts, with a libretto by Felice Romani. The opera is noted for its intricate arias and dramatic expressions, solidifying Bellini's reputation further.",
       "year": 1829,
-      "city": "Parma",
-      "country": "Italy"
+      "location": "Milan, Teatro alla Scala",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Get ready for a theatrical rollercoaster! This opera, noted for its intricate arias and dramatic expressions, comes in two acts \u2013 because one act is just too mainstream! Crafted by the wordsmith Felice Romani, Bellini's reputation is going through the roof, solidified further by this melodramatic spectacle!"
     },
     {
-      "event": "Success of Il Pirata",
-      "summary": "Summer brought Bellini a triumphant return with Il Pirata, proving that when one door closes, another one opens\u2014with a sign that says '24 performances!' His opera was the talk of the town, outshining even rival composer Giovanni Pacini.",
+      "section": "Northern Italy",
+      "title": "La straniera Premiere",
+      "summary": "La straniera premiered on 14 February 1829, achieving immediate and resounding success. The opera received enthusiastic praise for its music and performances, with Bellini being described as the 'modern Orpheus' due to the beauty of his melodies.",
       "year": 1829,
-      "city": "Milan",
-      "country": "Italy"
+      "location": "Milan",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "La straniera premiered on 14 February 1829, a day that outshined any dinner date! It achieved immediate success\u2014think viral cat video! The opera, which made hearts flutter, received enthusiastic praise for its breathtaking music and performances. Bellini was even fondly labeled as the 'modern Orpheus,' indicating he had fans who were smitten by the beauty of his melodies!"
     },
     {
-      "event": "Premiere of I Capuleti e i Montecchi",
-      "summary": "In March, I Capuleti e i Montecchi hit the stage in Venice, and it was as if the ghosts of Romeo and Juliet were cheering from the balcony. The music enchanted everyone, cementing Bellini's place in the opera hall of fame, at least until the next season\u2019s offerings.",
+      "section": "Complete works of Bellini",
+      "title": "Zaira",
+      "summary": "This tragedy in 2 acts features a libretto by Felice Romani. It is indicative of Bellini's ability to intertwine intense drama with expressive music.",
+      "year": 1829,
+      "location": "Parma, Teatro Ducale",
+      "emoji": "\ud83d\ude22",
+      "fun_version": "This drama in 2 acts is like a pizza with no toppings - slightly lacking! Felice Romani's libretto is the secret sauce that makes this meal of intense drama and expressive music truly appetizing, showcasing Bellini's brilliant ability to intertwine intense drama with expressive music."
+    },
+    {
+      "section": "Northern Italy",
+      "title": "Zaira Setback",
+      "summary": "Zaira, which Bellini composed for the inauguration of the Nuovo Teatro Ducale in Parma, faced criticism during its premiere on 12 May 1829. The opera marked the first significant setback in Bellini's career, receiving little acclaim for its music despite some applause for the singers.",
+      "year": 1829,
+      "location": "Parma",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Zaira, Bellini's grand masterpiece for the grand opening of the Nuovo Teatro Ducale in Parma, opened with a chorus of crickets on 12 May 1829. Instead of throwing roses at the singers, the audience dropped a few awkward coughs. The opera marked the first significant setback in Bellini's career, receiving little acclaim for its music despite some applause for the singers, making it less a triumphant debut and more like a buffet of awkwardness."
+    },
+    {
+      "section": "Complete works of Bellini",
+      "title": "I Capuleti e i Montecchi",
+      "summary": "Based on the story of Romeo and Juliet, this tragedy in 2 acts with a libretto by Felice Romani highlights Bellini's musical mastery and dramatic depth.",
       "year": 1830,
-      "city": "Venice",
-      "country": "Italy"
+      "location": "Venice, Teatro La Fenice",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Imagine if Romeo and Juliet were not star-crossed lovers but pizza toppings! This story highlights Bellini's musical mastery and dramatic depth, showcased over 2 acts with a libretto by Felice Romani."
     },
     {
-      "event": "Contract for La sonnambula",
-      "summary": "After some negotiations, Bellini landed a deal for La sonnambula and couldn't believe his luck\u2014he was set to make nearly double what he could have made in Venice! He feverishly composed, hoping not to get sidetracked by another illness or spontaneous caf\u00e9 visit.",
+      "section": "Major achievements",
+      "title": "I Capuleti e i Montecchi Premiere",
+      "summary": "On March 11, 1830, the premiere of I Capuleti e i Montecchi takes place at La Fenice in Venice, receiving immediate success and performed eight times before the season closes.",
+      "year": 1830,
+      "location": "Venice",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "On March 11, 1830, the premiere of *I Capuleti e i Montecchi* took place at La Fenice in Venice, receiving immediate success. The performance was so popular that they decided to perform it eight times before the season closed."
+    },
+    {
+      "section": "Major achievements",
+      "title": "La Sonnambula Premiere",
+      "summary": "La sonnambula premiered on March 6, 1831, at the Teatro Carcano in Milan, becoming a triumphant success, praised by audiences and critics alike, and later performed in London and New York.",
       "year": 1831,
-      "city": "Milan",
-      "country": "Italy"
+      "location": "Milan",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "La sonnambula waltzed onto the stage on March 6, 1831, at the Teatro Carcano in Milan, gaining rave reviews and applause from audiences while critics were throwing roses! This show was so successful, it took a victory lap to London and New York."
     },
     {
-      "event": "Illness and recovery",
-      "summary": "Bellini faced a battle with health issues that were as persistent as a bad tune in your head. After some good care from friends in Lake Como, he bounced back, proving that nothing, not even sickness, could keep a dedicated composer down for long.",
+      "section": "Complete works of Bellini",
+      "title": "La sonnambula",
+      "summary": "This opera semiseria in 2 acts features a libretto by Felice Romani and is revered for its exquisite arias and lyrical beauty, reflecting Bellini's innovative style.",
       "year": 1831,
-      "city": "Lake Como",
-      "country": "Italy"
+      "location": "Milan, Teatro Carcano",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Dive into the zany world of opera semiseria, where the only thing wilder than the stunning exquisite arias is your neighbor's confused face! With a libretto by Felice Romani, this 2-act thrill ride celebrates lyrical beauty while making you ponder everything from questionable life choices to your music taste. Brace yourselves, folks; Bellini's unique style will either sweep you away with laughter or have you nodding in approval\u2014just don\u2019t forget about the oven!"
     },
     {
-      "event": "La sonnambula premiere",
-      "summary": "On the night of 6 March 1831, Bellini's operatic magnum opus 'La sonnambula' graced the stage of Teatro Carcano. The performance was nothing short of exquisite, with singers bringing the audience to tears\u2014talk about hitting those high notes! This opera not only showcased his recycling skills but also proved that sometimes, a change in subject matter is just what you need to make a big splash.",
+      "section": "Complete works of Bellini",
+      "title": "Norma",
+      "summary": "A cornerstone of the operatic repertoire, this tragedy in 2 acts showcases Bellini's ability to combine intricate melodies with profound emotional depth, based on a libretto by Felice Romani.",
       "year": 1831,
-      "city": "Milan",
-      "country": "Italy"
+      "location": "Milan, Teatro alla Scala",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "This opera, a cornerstone of the operatic repertoire, is like a pie\u2014everyone gets a slice of Bellini's melodrama, and by the end, someone always ends up with a messy dessert. In 2 acts, this emotional rollercoaster features intricate melodies and profound emotional depth, all thanks to a libretto by Felice Romani, who definitely had his towel ready!"
     },
     {
-      "event": "Norma completion",
-      "summary": "Later that year, the heavens aligned, and Bellini completed 'Norma', an opera about infanticide\u2014now, that sounds like a barrel of laughs! After weeks of creative tussles while swatting away cholera fears and battling with stubborn soprano egos, the opera was finally ready to see the light of day. Who knew writing about such dark topics could lead to such lively tunes?",
+      "section": "Major achievements",
+      "title": "Norma Premiere",
+      "summary": "Norma premieres on December 26, 1831, at La Scala, marking Giuditta Pasta's debut at the venue, though it initially receives a mixed reaction from the audience.",
       "year": 1831,
-      "city": "Milan",
-      "country": "Italy"
+      "location": "Milan",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Imagine a night in 1831: La Scala was buzzing, not with the latest coffee trends, but with the premiere of 'Norma'! Giuditta Pasta struts onto the stage like she owns the place, but the audience? They've got mixed feelings \u2013 like trying to decide between a plain bagel and everything on it!"
     },
     {
-      "event": "Norma premiere",
-      "summary": "The grand opening of 'Norma' on 26 December 1831 was a mix of stage fright and audience indifference, proving that even geniuses can face a not-so-glamorous debut. Despite Bellini's hopes soaring high, the crowd was more 'meh' than 'magnificent'. But apparently, critics loved it afterward\u2014go figure!",
-      "year": 1831,
-      "city": "Milan",
-      "country": "Italy"
-    },
-    {
-      "event": "Visit to Naples",
-      "summary": "Having endured a frosty reception in Milan, Bellini decided to pack his bags for Naples, where he got a warm welcome fit for a king\u2014literally! With royal applause at his performances, it was a major ego boost that reminded him that not all audiences were sleepy. The trip was full of joyous reunions, dinners, and, of course, opera.",
+      "section": "Major achievements",
+      "title": "Civic Welcome in Catania",
+      "summary": "Upon arriving in Catania on March 3, 1832, Bellini is celebrated with a civic welcome, attending a concert that features his works, further establishing his local fame.",
       "year": 1832,
-      "city": "Naples",
-      "country": "Italy"
+      "location": "Catania",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Upon arriving in Catania on March 3, 1832, Bellini received a civic welcome so grand he thought he was the new mayor! They threw him a concert featuring his own works, further establishing his local fame as he basked in the applause, fully aware that this was just the beginning of his journey towards musical stardom."
     },
     {
-      "event": "Catania Civic Welcome",
-      "summary": "On 3 March 1832, as Bellini strutted into Catania, he was showered with love and admiration from the locals, who threw a concert in his honor. Their enthusiasm was palpable; they f\u00eated him with music\u2014because nothing says \u2018welcome home\u2019 like your own hits being performed back to you! It makes you wonder if he started practicing his bowing technique right then and there.",
+      "section": "Major achievements",
+      "title": "Return to Naples",
+      "summary": "Returning to Naples on January 5, 1832, Bellini is met with a warm welcome from the public and is invited to perform at the San Carlo, receiving admiration from King Ferdinand II during a performance of Capuleti.",
       "year": 1832,
-      "city": "Catania",
-      "country": "Italy"
+      "location": "Naples",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Bellini waltzed back into Naples on January 5, 1832, where he was met with a warm welcome from the locals who rolled out the red carpet, eager for his next performance at the San Carlo. Even King Ferdinand II couldn't resist tossing a few compliments his way while Bellini serenaded the audience with Capuleti!"
     },
     {
-      "event": "First Performance of Norma",
-      "summary": "Bellini's opera 'Norma' premieres in Bergamo to thunderous applause, where he weeps with joy and feels like a proud parent watching his child take its first steps, albeit with a slight wobble.",
-      "year": 1831,
-      "city": "Bergamo",
-      "country": "Italy"
-    },
-    {
-      "event": "Change of Subject for Beatrice di Tenda",
-      "summary": "In a twist worthy of a soap opera, Bellini scrambles to change the subject of his upcoming opera after his librettist Romani gets bogged down. It's like trying to bake a cake but realizing you've run out of eggs\u2014so you substitute them with fruit.",
-      "year": 1832,
-      "city": "Venice",
-      "country": "Italy"
-    },
-    {
-      "event": "Premiere of Beatrice di Tenda",
-      "summary": "The much-anticipated opera 'Beatrice di Tenda' opens to polite applause, as if the audience had just tasted a dish that was perfectly average; they cheer for the chef who brought pasta but are a bit skeptical about the new recipe.",
+      "section": "London: April to August 1833",
+      "title": "Arrival in London",
+      "summary": "In April 1833, Bellini arrived in London with his Italian troupe. He was a recognized composer, having had several operas performed in the city over the years. The excitement surrounding his arrival was notable, as he was known among prominent figures in the city who attended performances of his works.",
       "year": 1833,
-      "city": "Venice",
-      "country": "Italy"
+      "location": "London",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "In April 1833, Bellini waltzed into London with his Italian troupe, generating a buzz that could rival a rock star's entrance! Known among the high society for his operas\u2014more than a chef has pasta recipes\u2014everyone couldn\u2019t wait for the grand performance!"
     },
     {
-      "event": "Break with Librettist Romani",
-      "summary": "After a heated correspondence that could rival a reality TV feud, Bellini and Romani's friendship takes a nosedive, as insults are exchanged like a game of hot potato\u2014everyone\u2019s afraid to get burned.",
+      "section": "Paris: August 1833 to January 1835",
+      "title": "Arrival in Paris",
+      "summary": "In mid-August 1833, Bellini arrived in Paris intending to stay only three weeks to negotiate with the Op\u00e9ra. Although he did not reach an agreement with them, he accepted an offer from the Th\u00e9\u00e2tre-Italien due to better pay and the prestige of the company. He soon settled into a small apartment and began networking within the Parisian salon society, where he met influential figures and other musical personalities.",
       "year": 1833,
-      "city": "Venice",
-      "country": "Italy"
+      "location": "Paris",
+      "emoji": "\ud83c\uddeb\ud83c\uddf7",
+      "fun_version": "In mid-August 1833, Bellini waltzed into Paris thinking he was just on a short vacation\u2014three weeks, tops! But negotiating with the Op\u00e9ra turned out to be more like trying to convince a cat to take a bath. He did not reach an agreement with them, so he jumped ship to the Th\u00eaatre-Italien, lured by better pay and the thrill of performing with a prestigious company. Soon, he moved into a small apartment, sipping espresso and networking like a pro at Parisian salons, where he met influential figures and other musical personalities, rubbing elbows with all the big shots and musical geniuses."
     },
     {
-      "event": "Attempt to Rebuild Relationship with Romani",
-      "summary": "In an attempt to mend fences, Bellini sends a heartfelt letter to Romani, professing his undying love for their collaboration, despite calling Romani a 'cruel man'. It's like that scene in a rom-com where the couple sits down for a heart-to-heart over coffee.",
+      "section": "Complete works of Bellini",
+      "title": "Beatrice di Tenda",
+      "summary": "A tragedy in 2 acts with a libretto by Felice Romani. This work further exemplifies Bellini's interest in strong female characters and dramatic narratives within his operas.",
+      "year": 1833,
+      "location": "Venice, Teatro La Fenice",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "The opera is a tragedy in two acts with a libretto by Felice Romani, showcasing Bellini's interest in strong female characters and dramatic narratives. Imagine an opera where the libretto feels more like a chat between girlfriends! Bellini definitely knows how to bring out the strong female characters, which is perfect because we all know they can handle the drama better than any soap opera!"
+    },
+    {
+      "section": "Major achievements",
+      "title": "Beatrice di Tenda Premiere",
+      "summary": "On March 16, 1833, Beatrice di Tenda premieres at La Fenice amid controversy over the delays from the librettist. The opening night is met with a lukewarm response, followed by later performances that attract larger crowds.",
+      "year": 1833,
+      "location": "Venice",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "On March 16, 1833, Beatrice di Tenda premieres at La Fenice amid controversy over the delays from the librettist. The opening night was about as thrilling as watching paint dry, but thankfully, later performances attracted larger crowds!"
+    },
+    {
+      "section": "London: April to August 1833",
+      "title": "Performance of La sonnambula",
+      "summary": "On 1 May 1833, Maria Malibran made her London debut in La sonnambula at the Theatre Royal, Drury Lane, using an adapted Bellini score. This marked a significant moment in the operatic scene, showcasing Bellini's influence and presence in London.",
+      "year": 1833,
+      "location": "London",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "On 1 May 1833, Maria Malibran made her London debut in La sonnambula at the Theatre Royal, Drury Lane, using an adapted Bellini score. This marked a significant moment in the operatic scene, showcasing Bellini's influence and presence in London. Everyone was buzzing about how she utilized his score, making it sound like he was the most popular kid on the block."
+    },
+    {
+      "section": "London: April to August 1833",
+      "title": "Premiere of I Capuleti e i Montecchi",
+      "summary": "I Capuleti e i Montecchi had its London premiere in late July 1833, marking one of the final events of Bellini's contract in London before he left for Paris in August.",
+      "year": 1833,
+      "location": "London",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "I Capuleti e i Montecchi made its entrance in London in late July 1833, marking the end of Bellini's contract before he headed off to Paris."
+    },
+    {
+      "section": "London: April to August 1833",
+      "title": "Triumph of Norma",
+      "summary": "The premiere of Bellini's opera Norma took place on 21 June 1833, with Pasta in the title role. This performance was a tremendous success, securing Bellini's fame in the city and receiving favorable reviews in the press, particularly from The Times.",
+      "year": 1833,
+      "location": "London",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "The premiere of Bellini's opera Norma took place on 21 June 1833, with Pasta in the title role. This performance wasn\u2019t just a success; it was like finding a perfect pizza slice in a sea of soggy sandwiches! It secured Bellini's fame in the city and received favorable reviews in the press, particularly from The Times."
+    },
+    {
+      "section": "Paris: August 1833 to January 1835",
+      "title": "Contract for New Opera",
+      "summary": "In January 1834, Bellini signed a contract to write a new opera for the Th\u00e9\u00e2tre-Italien scheduled for presentation at the end of the year. He was also invited to compose for the San Carlo in Naples but declined due to his commitment to Paris, indicating he might be available by May 1835 depending on the contracted singers.",
       "year": 1834,
-      "city": "N/A",
-      "country": "N/A"
+      "location": "Paris",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "In January 1834, Bellini signed a contract to write a new opera for the Th\u00e9\u00e2tre-Italien scheduled for presentation at the end of the year. Meanwhile, he was invited to compose for the San Carlo in Naples but declined due to his commitment to Paris, indicating he might be available by May 1835 depending on the contracted singers."
     },
     {
-      "event": "Time in London",
-      "summary": "Bellini arrives in London and settles in to oversee the Italian opera scene, feeling like the king of the world\u2014or at least the king of the local caf\u00e9, trying to enhance Italian cuisine while dodging the British disdain for garlic.",
-      "year": 1833,
-      "city": "London",
-      "country": "UK"
-    },
-    {
-      "event": "Arrival in London",
-      "summary": "Bellini rolled into London and immediately started rubbing elbows with the star-studded crowd, attending performances that would leave his music in awe. Yup, he was officially a celebrity, and not just because of his dazzling Italian charm!",
-      "year": 1833,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Triumphant Premiere of 'Norma'",
-      "summary": "The premiere of 'Norma' was like winning the lottery for Bellini. With Pasta in the lead role, the audience cheered so loud they probably woke up the entire city\u2014definitely a night to remember, far from the dull routine of composing!",
-      "year": 1833,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Arrival in Paris",
-      "summary": "Bellini arrived in Paris thinking it would be a quick pit stop, but who could resist the allure of a city that promised richer pay for artistic shenanigans? He quickly traded composing for salon parties with revolutionaries and such\u2014talk about a glamorous distraction!",
-      "year": 1833,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Inking a Deal with Th\u00e9\u00e2tre-Italien",
-      "summary": "After a thrilling game of musical chairs, Bellini signed a contract with Th\u00e9\u00e2tre-Italien, leaving behind stale offers and opting for proper fancy! Now, with a small paycheck and a big stage, he was ready to stir the Parisian pot!",
+      "section": "Paris: August 1833 to January 1835",
+      "title": "Letters to Florimo",
+      "summary": "Throughout 1834, Bellini wrote numerous letters to his friend Florimo, expressing his worries about competition from Donizetti at the Th\u00e9\u00e2tre-Italien. He discussed his frustrations about the operatic scene in Paris and sought advice from Rossini, with whom he cultivated a supportive relationship.",
       "year": 1834,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Throughout 1834, Bellini wrote numerous letters to his buddy Florimo, venting about the competition with Donizetti at the Th\u00e9\u00e2tre-Italien! He also expressed his frustrations about the operatic scene in Paris and sought advice from Rossini, trying to navigate these challenging waters."
     },
     {
-      "event": "Battling Creative Block for 'I puritani'",
-      "summary": "Bellini faced a crisis of inspiration while trying to craft a plot that even a soap opera writer would find challenging. Fear not! After some angst and letter-writing to his librettist, he was back on track\u2014because who doesn\u2019t love a good theatrical melodrama?",
-      "year": 1834,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Premiere of 'I puritani'",
-      "summary": "With the energy of a coffee-fueled artist, Bellini's 'I puritani' premiered to a raucous audience who cheered louder than a concert of rock stars. He couldn't believe his ears\u2014as if the French had collectively lost their sanity, high society had fully embraced his genius!",
+      "section": "Paris: August 1833 to January 1835",
+      "title": "Completion of I puritani",
+      "summary": "By September 1834, Bellini wrote to Florimo indicating he was polishing his opera, I puritani, and was pleased with the work produced by his librettist, Carlo Pepoli. He expressed satisfaction with the music and began preparing for rehearsals, which were planned for late December and early January.",
       "year": 1835,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "By September 1834, Bellini was busy polishing his opera, I puritani. He wrote to Florimo, indicating he was pleased with the work produced by his librettist, Carlo Pepoli, who could turn a grocery list into a hit opera. Bellini was thrilled about the music and began preparing for rehearsals, which were planned for late December and early January."
     },
     {
-      "event": "Success of I Puritani",
-      "summary": "Bellini's opera I Puritani took Paris by storm, leading to audiences shouting in amazement, as if they had just discovered the secret to eternal youth. It was such a hit that the opera was performed 17 times, proving that the French not only love a good croissant but also a good aria!",
+      "section": "Paris: January to September 1835",
+      "title": "Death",
+      "summary": "Vincenzo Bellini died on September 23, 1835, after a severe illness that caused great distress. His last known letters expressed a sense of disturbance regarding his health, ultimately leading to his passing at around 5 pm.",
       "year": 1835,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris",
+      "emoji": "\ud83d\ude22",
+      "fun_version": "Vincenzo Bellini, the famed composer, fell ill after a severe illness that caused him drama and distress. In his last known letters, he expressed concern regarding his health, ultimately leading to his passing at around 5 pm."
     },
     {
-      "event": "Awarded the L\u00e9gion d'honneur",
-      "summary": "Following the success of I Puritani, Bellini received the prestigious title of chevalier of the L\u00e9gion d'honneur from King Louis-Philippe. To be honored by kings is nice, but getting free pastries in Paris is what truly matters!",
+      "section": "Paris: January to September 1835",
+      "title": "Final Performance of I Puritani",
+      "summary": "On March 31, 1835, Vincenzo Bellini attended the final performance of his opera I Puritani in Paris. This event marked the culmination of his efforts leading to the opera's success, despite various challenges he faced during its staging.",
       "year": 1835,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "On March 31, 1835, Vincenzo Bellini attended the last show of his opera 'I Puritani' in Paris. This event marked the culmination of his efforts leading to its success. Despite facing numerous ups and downs, Bellini finally witnessed his music take center stage without any interruptions."
     },
     {
-      "event": "Fateful Dinner with Heinrich Heine",
-      "summary": "During a dinner with writer Heinrich Heine, Bellini received a compliment tainted with superstition: that geniuses die young. Bellini, believing he was in for early retirement, left the dinner possibly shaking more than he did when he heard the applause for his operas!",
+      "section": "Paris: January to September 1835",
+      "title": "Funeral Arrangements",
+      "summary": "Following his death, arrangements for Bellini's funeral were initiated by composer Rossini who organized a mass and a monument subscription. The funeral mass was held on October 2, 1835, in the chapel of the H\u00f4tel des Invalides.",
       "year": 1835,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris",
+      "emoji": "\u26b0\ufe0f",
+      "fun_version": "After Bellini exited stage left for his final bow, Rossini took the lead in arranging a farewell party. He organized a mass and a monument subscription. The grand finale took place on October 2, 1835, in the chapel of the H\u00f4pital des Invalides."
     },
     {
-      "event": "Decline in Health",
-      "summary": "As summer wore on, Bellini's mood turned grim, matching the overcast Parisian skies. His letters became increasingly filled with grand ideas\u2014who knew the man could have a career as a novelist\u2014yet the success seemed overshadowed by his declining health, proving that even musical geniuses have their off days!",
+      "section": "Complete works of Bellini",
+      "title": "I puritani",
+      "summary": "This melodramma serio is structured in 3 acts and, with its rich orchestration and robust vocal lines, encapsulates Bellini's late style and maturity as a composer.",
       "year": 1835,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris, Th\u00e9\u00e2tre-Italien",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Three acts of melodrama! With its rich orchestration and robust vocal lines, Bellini's late style and maturity shine through, proving that they really saved the best for last\u2014just like dessert!"
     },
     {
-      "event": "Final Illness and Death",
-      "summary": "Bellini's health took a nosedive, leading to an illness that had everyone on the edge of their seats. Doctors took notes while Bellini apparently prepared his exit with style; he passed away as if he was pulling the ultimate diva move during a final aria. That must have been one unforgettable performance!",
+      "section": "Paris: August 1833 to January 1835",
+      "title": "Premiere of I puritani",
+      "summary": "The dress rehearsal for I puritani took place on 20 January 1835, receiving enthusiasm from the audience. The official premiere was on 24 January 1835, which was met with acclaim, and Bellini's letter to Florimo detailed the ecstatic reception, marking it as a significant success in his career as the opera quickly became popular in Paris.",
       "year": 1835,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Funeral and Burial Plans",
-      "summary": "Rossini orchestrated Bellini's funeral like a maestro conducting his final symphony. While planning, he probably wished for a subscription to keep the opera crowds rolling in, ensuring that Bellini's legacy would be celebrated long after his grand finale!",
-      "year": 1835,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "First opera premiere",
-      "summary": "Bellini made his grand entrance into the opera world with 'Adelson e Salvini,' leaving critics both bewildered and oddly impressed by his audacity to try and name characters after snacks.",
-      "year": 1825,
-      "city": "Naples",
-      "country": "Italy"
-    },
-    {
-      "event": "Successful opera 'Il pirata'",
-      "summary": "In the world of melodrama, Bellini scored a hit with 'Il pirata,' proving that taking dramatic liberties was the only way to keep audiences from falling asleep during long performances.",
-      "year": 1827,
-      "city": "Milan",
-      "country": "Italy"
-    },
-    {
-      "event": "Affair with Giuditta Turina",
-      "summary": "Bellini started a five-year love affair with the married Giuditta Turina, which was much more fascinating than a standard episode of his operas and less complicated than expected.",
-      "year": 1828,
-      "city": "Genoa",
-      "country": "Italy"
-    },
-    {
-      "event": "Premiere of 'La sonnambula'",
-      "summary": "With 'La sonnambula,' Bellini showcased his knack for blending dreamy tunes with a plot that suggested sleepwalking might be the path to love \u2014 and uncertainty about one\u2019s own intentions.",
-      "year": 1831,
-      "city": "Milan",
-      "country": "Italy"
-    },
-    {
-      "event": "Creation of 'Norma'",
-      "summary": "In what many consider his masterpiece, Bellini composed 'Norma,' an opera chock-full of drama and the now-classic theme of love triangles worthy of reality TV.",
-      "year": 1831,
-      "city": "Milan",
-      "country": "Italy"
-    },
-    {
-      "event": "Final opera 'I puritani'",
-      "summary": "Bellini finished his operatic saga with 'I puritani,' reminding everyone that sometimes, even with all the singing and scheming, pure love prevails \u2014 or at least gets people arguing about it.",
-      "year": 1835,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "First Opera",
-      "summary": "At the precocious age of 24, Bellini unleashed his first opera, 'Adelson e Salvini.' Critics were trying to figure out if they should applaud or check their watches for the next big thing!",
-      "year": 1825,
-      "city": "Naples",
-      "country": "Italy"
-    },
-    {
-      "event": "Breakthrough Opera",
-      "summary": "In 1831, Bellini composed 'Norma,' which was so powerful that it became an instant classic. People were suddenly very interested in women who could chant as much as they could fight.",
-      "year": 1831,
-      "city": "Milan",
-      "country": "Italy"
-    },
-    {
-      "event": "Final Opera",
-      "summary": "Before packing up for the infinite symphony in the sky, Bellini gave the opera world 'I puritani.' It was a swan song that had everyone wondering how much more he could have achieved if he\u2019d only had more time to write!",
-      "year": 1835,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "The dress rehearsal for 'I Puritani' on January 20, 1835, was incredibly well-received by the audience! The official premiere on January 24, 1835, was met with such acclaim that Bellini wrote to Florimo, sharing the ecstatic reception. It marked a significant success in his career, and the opera quickly became popular in Paris."
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/Beatrice_di_Tenda_(Bellini,_Vincenzo)",
-      "year": 1833,
-      "title": "Beatrice di Tenda"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Bianca_e_Fernando_(Bellini,_Vincenzo)",
-      "year": 1826,
-      "title": "Bianca e Fernando"
-    },
-    {
+      "title": "Capriccio in C minor",
       "imslp_url": "https://imslp.org/wiki/Capriccio_in_C_minor_(Bellini,_Vincenzo)",
-      "year": 1822,
-      "title": "Capriccio in C minor"
+      "year": 1822
     },
     {
-      "imslp_url": "https://imslp.org/wiki/I_Capuleti_e_i_Montecchi_(Bellini,_Vincenzo)",
-      "year": 1830,
-      "title": "I Capuleti e i Montecchi"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Norma_(Bellini,_Vincenzo)",
-      "year": 1831,
-      "title": "Norma"
-    },
-    {
+      "title": "Oboe Concerto in E-flat major",
       "imslp_url": "https://imslp.org/wiki/Oboe_Concerto_in_E-flat_major_(Bellini,_Vincenzo)",
-      "year": 1823,
-      "title": "Oboe Concerto in E-flat major"
+      "year": 1823
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Il_pirata_(Bellini,_Vincenzo)",
-      "year": 1828,
-      "title": "Il pirata"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/I_puritani_(Bellini,_Vincenzo)",
-      "year": 1835,
-      "title": "I puritani"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_sonnambula_(Bellini,_Vincenzo)",
-      "year": 1831,
-      "title": "La sonnambula"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_straniera_(Bellini,_Vincenzo)",
-      "year": 1829,
-      "title": "La straniera"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Symphony_in_D_major_(Bellini,_Vincenzo)",
-      "year": 1825,
-      "title": "Symphony in D major"
-    },
-    {
+      "title": "Symphony in E-flat major",
       "imslp_url": "https://imslp.org/wiki/Symphony_in_E-flat_major_(Bellini,_Vincenzo)",
-      "year": 1823,
-      "title": "Symphony in E-flat major"
+      "year": 1823
     },
     {
-      "imslp_url": "https://imslp.org/wiki/La_Tomba_di_Fille_(Bellini,_Vincenzo)",
-      "year": 1834,
-      "title": "La Tomba di Fille"
+      "title": "Symphony in D major",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_D_major_(Bellini,_Vincenzo)",
+      "year": 1825
     },
     {
+      "title": "Bianca e Fernando",
+      "imslp_url": "https://imslp.org/wiki/Bianca_e_Fernando_(Bellini,_Vincenzo)",
+      "year": 1826
+    },
+    {
+      "title": "Il pirata",
+      "imslp_url": "https://imslp.org/wiki/Il_pirata_(Bellini,_Vincenzo)",
+      "year": 1828
+    },
+    {
+      "title": "La straniera",
+      "imslp_url": "https://imslp.org/wiki/La_straniera_(Bellini,_Vincenzo)",
+      "year": 1829
+    },
+    {
+      "title": "Zaira",
       "imslp_url": "https://imslp.org/wiki/Zaira_(Bellini,_Vincenzo)",
-      "year": 1829,
-      "title": "Zaira"
+      "year": 1829
+    },
+    {
+      "title": "I Capuleti e i Montecchi",
+      "imslp_url": "https://imslp.org/wiki/I_Capuleti_e_i_Montecchi_(Bellini,_Vincenzo)",
+      "year": 1830
+    },
+    {
+      "title": "La sonnambula",
+      "imslp_url": "https://imslp.org/wiki/La_sonnambula_(Bellini,_Vincenzo)",
+      "year": 1831
+    },
+    {
+      "title": "Norma",
+      "imslp_url": "https://imslp.org/wiki/Norma_(Bellini,_Vincenzo)",
+      "year": 1831
+    },
+    {
+      "title": "Beatrice di Tenda",
+      "imslp_url": "https://imslp.org/wiki/Beatrice_di_Tenda_(Bellini,_Vincenzo)",
+      "year": 1833
+    },
+    {
+      "title": "La Tomba di Fille",
+      "imslp_url": "https://imslp.org/wiki/La_Tomba_di_Fille_(Bellini,_Vincenzo)",
+      "year": 1834
+    },
+    {
+      "title": "I puritani",
+      "imslp_url": "https://imslp.org/wiki/I_puritani_(Bellini,_Vincenzo)",
+      "year": 1835
     }
   ]
 }

@@ -1,0 +1,504 @@
+{
+  "full_name": "Giacomo Meyerbeer",
+  "first_names": "Giacomo",
+  "last_name": "Meyerbeer",
+  "birth_year": 1791,
+  "death_year": 1864,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Giacomo_Meyerbeer",
+  "events": [
+    {
+      "section": "Early years",
+      "title": "Birth",
+      "summary": "Jacob Liebmann Beer was born into a Jewish family in Tasdorf, near Berlin. His father, Judah Herz Beer, was a wealthy financier, and his mother, Amalia Wulff, belonged to the moneyed elite. He was devoted to his family and had several notable siblings, including an astronomer and a poet.",
+      "year": 1791,
+      "location": "Tasdorf, near Berlin",
+      "emoji": "\ud83d\udc76",
+      "fun_version": "Jacob Liebmann Beer came into this world from a Jewish family in Tasdorf, near Berlin. His father, Judah Herz Beer, was a financier, and his mother, Amalia Wulff, belonged to the moneyed elite, so it\u2019s no surprise that family gatherings were probably more like a meeting of the Fortune 500. Jacob was devoted to his family and had several notable siblings, including an astronomer and a poet."
+    },
+    {
+      "section": "Early years",
+      "title": "Public Debut",
+      "summary": "Beer made his public debut as a pianist at the age of 9, performing Mozart's D minor Piano Concerto in Berlin. His performance was well-received, with critics praising his remarkable keyboard skills and powers of rendition.",
+      "year": 1801,
+      "location": "Berlin",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "At the tender age of 9, Beer decided that playing hide and seek was for amateurs. Instead, he took to the grand stage like a miniature maestro, hitting the keys on Mozart's D minor Piano Concerto in Berlin! Critics were gobsmacked, praising his remarkable keyboard skills and powers of rendition!"
+    },
+    {
+      "section": "Early years",
+      "title": "First Stage Work",
+      "summary": "Meyerbeer's first stage work, a ballet titled 'Der Fischer und das Milchm\u00e4dchen,' premiered at the Court Opera in Berlin. This marked the beginning of his career as a composer.",
+      "year": 1810,
+      "location": "Berlin",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "So, picture this: Meyerbeer debuted his very first stage work \u2014 a ballet named 'Der Fischer und das Milchm\u00e4dchen' \u2014 at the posh Court Opera in Berlin. It was like the opening scene in a fairytale but with fewer talking animals! This spectacular dance-off was the launchpad of his incredibly serious career as a composer. Who knew pirouettes paved the way for great symphonies?"
+    },
+    {
+      "section": "Early years",
+      "title": "Beethoven's Seventh Symphony",
+      "summary": "During the premiere of Beethoven's Seventh Symphony, Beer played the timpani. Beethoven noted his timing issues but recognized his musical potential.",
+      "year": 1813,
+      "location": "Vienna",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "During the grand premiere of Beethoven's Seventh Symphony, Beer played the timpani amidst the orchestral fervor. Beethoven, ever the perfectionist, noted his timing issues, but he also recognized Beer\u2019s musical potential and gave him a little pep talk, noting that, while his timing was a bit off, he could still shine."
+    },
+    {
+      "section": "Early years",
+      "title": "Court Composer Appointment",
+      "summary": "Beer was appointed 'Court Composer' by Grand Duke Ludwig of Hesse-Darmstadt, marking a significant recognition of his talents and contributions to music in his early career.",
+      "year": 1813,
+      "location": "Darmstadt",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "So, Beer gets the prestigious title of 'Court Composer' from the Grand Duke Ludwig of Hesse-Darmstadt. It\u2019s like if the Duke threw a grand party and suddenly said, 'Hey, you with the great tunes! How about you become my personal jam-maker?' Truly a VIP upgrade from his previous gig of serenading squirrels!"
+    },
+    {
+      "section": "Career",
+      "title": "Arrival in Italy",
+      "summary": "In 1816, after visits to Paris and London, Meyerbeer arrived in Italy, realizing the importance of understanding Italian opera for his musical development. He became acquainted with Gioachino Rossini and was inspired by his contemporary's works.",
+      "year": 1816,
+      "location": "Italy",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1816, Meyerbeer made the fashionable tour of Paris and London\u2014because you can't just waltz into Italy without a little culture shock! Upon landing in the beautiful boot-shaped country, he quickly realized the importance of understanding Italian opera for his musical development. It was like he suddenly discovered that pizza was better with toppings! He rubbed shoulders with Gioachino Rossini and found inspiration in his contemporary's works."
+    },
+    {
+      "section": "Career",
+      "title": "Premier of Il crociato in Egitto",
+      "summary": "Meyerbeer's opera Il crociato in Egitto premiered in Venice in 1824, marking his international recognition as a composer. This opera was notable for being the last to feature a castrato and required keyboard accompaniment for recitatives.",
+      "year": 1824,
+      "location": "Venice",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Meyerbeer's opera 'Il crociato in Egitto' premiered in Venice in 1824, marking his international recognition as a composer. This opera was notable for being the last to feature a castrato and required keyboard accompaniment for recitatives."
+    },
+    {
+      "section": "Career",
+      "title": "Marriage to Minna Mosson",
+      "summary": "In 1826, shortly after his father's death, Meyerbeer married his cousin, Minna Mosson. The marriage was stable and resulted in five children.",
+      "year": 1826,
+      "location": "Berlin",
+      "emoji": "\ud83d\udc70\ud83d\udc68\u200d\ud83d\udc67\u200d\ud83d\udc66",
+      "fun_version": "In 1826, Meyerbeer decided that marrying his cousin, Minna Mosson, was a brilliant idea\u2014because who doesn\u2019t want to keep it in the family? Their stable marriage can be seen from the fact that they lived happily ever after and even managed to kick out five little Meyers from their cozy little family tree!"
+    },
+    {
+      "section": "Career",
+      "title": "Premiere of Robert le diable",
+      "summary": "In 1831, Meyerbeer's opera Robert le diable was produced in Paris, becoming one of the earliest grand operas. This success led to his celebrity status and notable collaborations, including the 'Ballet of the Nuns'.",
+      "year": 1831,
+      "location": "Paris",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "In 1831, Meyerbeer\u2019s opera Robert le diable hit the stage in Paris, and let\u2019s be honest, it was so grand it made a peacock look like a sparrow! This operatic hit skyrocketed him to fame faster than you can say \u2018Ballet of the Nuns\u2019\u2014 proving that when you mix drama and a little bit of dancing, you\u2019re bound to make a splash!"
+    },
+    {
+      "section": "Selected honours and awards",
+      "title": "Knight in the Order of Leopold",
+      "summary": "In 1836, Meyerbeer was created a Knight in the prestigious Order of Leopold, recognizing his contributions to music and his status within the royal court.",
+      "year": 1836,
+      "location": "Belgium",
+      "emoji": "\ud83c\udf96\ufe0f",
+      "fun_version": "In 1836, Meyerbeer was knighted in the prestigious Order of Leopold, recognizing his contributions to music and his status within the royal court. They must have been strumming his lute so well that it earned him a shiny medal\u2014his tunes were so legendary!"
+    },
+    {
+      "section": "Career",
+      "title": "Premiere of Les Huguenots",
+      "summary": "On February 29, 1836, Les Huguenots premiered at the Op\u00e9ra and became an immense success, known for its splendid staging and effects. It was the first opera to reach over 1,000 performances.",
+      "year": 1836,
+      "location": "Paris",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "On February 29, 1836, Les Huguenots premiered at the Op\u00e9ra, and they decided to throw a party that became an immense success! They installed such fabulous staging and effects that the audience thought they were watching a magician rather than an opera! It quickly turned into the hottest ticket in town, racking up over 1,000 performances."
+    },
+    {
+      "section": "Selected honours and awards",
+      "title": "Awarded Pour le M\u00e9rite",
+      "summary": "In 1842, he was honored with the Pour le M\u00e9rite for sciences and arts, a notable accolade in Prussia, which acknowledged his artistic achievements.",
+      "year": 1842,
+      "location": "Prussia",
+      "emoji": "\ud83c\udf96\ufe0f",
+      "fun_version": "In 1842, he was honored with the Pour le M\u00e9rite for sciences and arts, which is French for 'Hey, you did something great!' It's like the Oscars, but for scientists \u2013 and no, the award didn't come with a personalized acceptance speech on how much he loves his mom!"
+    },
+    {
+      "section": "Career",
+      "title": "Berlin premiere of Les Huguenots",
+      "summary": "Following political changes in Prussia, the Berlin premiere of Les Huguenots took place on May 20, 1842, after delays caused by the previous regime and enmities. This further consolidated Meyerbeer's reputation in both Paris and Berlin.",
+      "year": 1842,
+      "location": "Berlin",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Following political changes in Prussia, Les Huguenots premiered in Berlin on May 20, 1842, after delays caused by the previous regime and various enmities. It was like waiting for the next season of a beloved series, with drama and regime changes making it an occasional cliffhanger. Thanks to all the suspense, Meyerbeer\u2019s reputation further consolidated in both Paris and Berlin."
+    },
+    {
+      "section": "Selected honours and awards",
+      "title": "Knight of the Order of the Polar Star",
+      "summary": "In 1842, he was created a Knight of the Order of the Polar Star by King Oscar I of Sweden, which highlighted his international recognition.",
+      "year": 1842,
+      "location": "Sweden",
+      "emoji": "\ud83c\udf1f",
+      "fun_version": "In 1842, he got knighted by none other than King Oscar I of Sweden! That's right\u2014one moment you're sitting around, and the next\u2014BAM! You're part of the Order of the Polar Star. Talk about international recognition!"
+    },
+    {
+      "section": "Selected honours and awards",
+      "title": "Order of the Oak Crown",
+      "summary": "Also in 1842, Meyerbeer received the Order of the Oak Crown awarded by King William II of the Netherlands, further showcasing his prominence in the musical world.",
+      "year": 1842,
+      "location": "Netherlands",
+      "emoji": "\ud83c\udfc5",
+      "fun_version": "In 1842, Meyerbeer was so good at music that King William II of the Netherlands thought it was worth tossing an Order of the Oak Crown his way. I mean, who knew being a musical genius came with a crown? Talk about a royal applause! This further showcases his prominence in the musical world."
+    },
+    {
+      "section": "Career",
+      "title": "Premiere of Le proph\u00e8te",
+      "summary": "Meyerbeer's opera Le proph\u00e8te premiered on April 16, 1849, after years of delays. The opera was noted for its unconventional lead role, contributing to its outstanding success.",
+      "year": 1849,
+      "location": "Paris",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Meyerbeer's opera Le proph\u00e8te premiered on April 16, 1849, after years of delays. It took so long to premiere that the composer probably felt like he was waiting for his bread to rise! After all those years of delays, it's no wonder the opera was a hit with a lead role that was so unconventional."
+    },
+    {
+      "section": "Selected honours and awards",
+      "title": "Honorary Doctorate in Philosophy",
+      "summary": "In 1850, he was awarded an Honorary Doctorate in Philosophy by the University of Jena, acknowledging his intellectual contributions alongside his musical career.",
+      "year": 1850,
+      "location": "Germany",
+      "emoji": "\ud83c\udf93",
+      "fun_version": "In 1850, he was awarded an Honorary Doctorate in Philosophy by the University of Jena, likely because his music was deemed so enlightening that the professors were afraid he might turn their lectures into catchy tunes!"
+    },
+    {
+      "section": "Career",
+      "title": "Death of Meyerbeer",
+      "summary": "Meyerbeer died in Paris on May 2, 1864. His passing prompted notable tributes, including one from Gioachino Rossini, who fainted upon hearing the news.",
+      "year": 1864,
+      "location": "Paris",
+      "emoji": "\ud83d\udd4a\ufe0f",
+      "fun_version": "Meyerbeer passed away in Paris on May 2, 1864, prompting notable tributes, including one from the legendary Gioachino Rossini, who fainted! Apparently, the news hit him harder than a flat note in a symphony!"
+    }
+  ],
+  "works": [
+    {
+      "title": "Clarinet Quintet",
+      "imslp_url": "https://imslp.org/wiki/Clarinet_Quintet_(Meyerbeer,_Giacomo)",
+      "year": 1812
+    },
+    {
+      "title": "Emma di Resburgo",
+      "imslp_url": "https://imslp.org/wiki/Emma_di_Resburgo_(Meyerbeer,_Giacomo)",
+      "year": 1820
+    },
+    {
+      "title": "Margherita d'Anjou",
+      "imslp_url": "https://imslp.org/wiki/Margherita_d'Anjou_(Meyerbeer,_Giacomo)",
+      "year": 1820
+    },
+    {
+      "title": "Il crociato in Egitto",
+      "imslp_url": "https://imslp.org/wiki/Il_crociato_in_Egitto_(Meyerbeer,_Giacomo)",
+      "year": 1824
+    },
+    {
+      "title": "Le ranz-des-v\u00e2ches d'Appenzell",
+      "imslp_url": "https://imslp.org/wiki/Le_ranz-des-v\u00e2ches_d'Appenzell_(Meyerbeer,_Giacomo)",
+      "year": 1828
+    },
+    {
+      "title": "Ballade de la reine Marguerite de Valois",
+      "imslp_url": "https://imslp.org/wiki/Ballade_de_la_reine_Marguerite_de_Valois_(Meyerbeer,_Giacomo)",
+      "year": 1829
+    },
+    {
+      "title": "La barque l\u00e9g\u00e8re",
+      "imslp_url": "https://imslp.org/wiki/La_barque_l\u00e9g\u00e8re_(Meyerbeer,_Giacomo)",
+      "year": 1829
+    },
+    {
+      "title": "La m\u00e8re grand",
+      "imslp_url": "https://imslp.org/wiki/La_m\u00e8re_grand_(Meyerbeer,_Giacomo)",
+      "year": 1830
+    },
+    {
+      "title": "Le v\u0153u pendant l'orage",
+      "imslp_url": "https://imslp.org/wiki/Le_v\u0153u_pendant_l'orage_(Meyerbeer,_Giacomo)",
+      "year": 1830
+    },
+    {
+      "title": "Robert le diable",
+      "imslp_url": "https://imslp.org/wiki/Robert_le_diable_(Meyerbeer,_Giacomo)",
+      "year": 1831
+    },
+    {
+      "title": "Le ricordanze",
+      "imslp_url": "https://imslp.org/wiki/Le_ricordanze_(Meyerbeer,_Giacomo)",
+      "year": 1833
+    },
+    {
+      "title": "Festgesang zur Errichtung des Guttenberg\u2019schen Denkmals in Mainz",
+      "imslp_url": "https://imslp.org/wiki/Festgesang_zur_Errichtung_des_Guttenberg\u2019schen_Denkmals_in_Mainz_(Meyerbeer,_Giacomo)",
+      "year": 1834
+    },
+    {
+      "title": "Le moine",
+      "imslp_url": "https://imslp.org/wiki/Le_moine_(Meyerbeer,_Giacomo)",
+      "year": 1834
+    },
+    {
+      "title": "Rachel \u00e0 Nephtali",
+      "imslp_url": "https://imslp.org/wiki/Rachel_\u00e0_Nephtali_(Meyerbeer,_Giacomo)",
+      "year": 1834
+    },
+    {
+      "title": "Sie und ich",
+      "imslp_url": "https://imslp.org/wiki/Sie_und_ich_(Meyerbeer,_Giacomo)",
+      "year": 1835
+    },
+    {
+      "title": "Fantaisie",
+      "imslp_url": "https://imslp.org/wiki/Fantaisie_(Meyerbeer,_Giacomo)",
+      "year": 1836
+    },
+    {
+      "title": "Le po\u00e8te mourant",
+      "imslp_url": "https://imslp.org/wiki/Le_po\u00e8te_mourant_(Meyerbeer,_Giacomo)",
+      "year": 1836
+    },
+    {
+      "title": "Le proph\u00e8te",
+      "imslp_url": "https://imslp.org/wiki/Le_proph\u00e8te_(Meyerbeer,_Giacomo)",
+      "year": 1836
+    },
+    {
+      "title": "Les Huguenots",
+      "imslp_url": "https://imslp.org/wiki/Les_Huguenots_(Meyerbeer,_Giacomo)",
+      "year": 1836
+    },
+    {
+      "title": "Chant de mai",
+      "imslp_url": "https://imslp.org/wiki/Chant_de_mai_(Meyerbeer,_Giacomo)",
+      "year": 1837
+    },
+    {
+      "title": "H\u00f6r ich das Liedchen klingen",
+      "imslp_url": "https://imslp.org/wiki/H\u00f6r_ich_das_Liedchen_klingen_(Meyerbeer,_Giacomo)",
+      "year": 1837
+    },
+    {
+      "title": "Komm, du sch\u00f6nes Fischerm\u00e4dchen",
+      "imslp_url": "https://imslp.org/wiki/Komm,_du_sch\u00f6nes_Fischerm\u00e4dchen_(Meyerbeer,_Giacomo)",
+      "year": 1837
+    },
+    {
+      "title": "L'Africaine",
+      "imslp_url": "https://imslp.org/wiki/L'Africaine_(Meyerbeer,_Giacomo)",
+      "year": 1837
+    },
+    {
+      "title": "La Marguerite du po\u00e8te",
+      "imslp_url": "https://imslp.org/wiki/La_Marguerite_du_po\u00e8te_(Meyerbeer,_Giacomo)",
+      "year": 1837
+    },
+    {
+      "title": "La fille de l'air",
+      "imslp_url": "https://imslp.org/wiki/La_fille_de_l'air_(Meyerbeer,_Giacomo)",
+      "year": 1837
+    },
+    {
+      "title": "La folle de St. Joseph",
+      "imslp_url": "https://imslp.org/wiki/La_folle_de_St._Joseph_(Meyerbeer,_Giacomo)",
+      "year": 1837
+    },
+    {
+      "title": "Menschenfeindlich",
+      "imslp_url": "https://imslp.org/wiki/Menschenfeindlich_(Meyerbeer,_Giacomo)",
+      "year": 1837
+    },
+    {
+      "title": "Scirocco",
+      "imslp_url": "https://imslp.org/wiki/Scirocco_(Meyerbeer,_Giacomo)",
+      "year": 1837
+    },
+    {
+      "title": "Die Rose, die Lilie, die Taube",
+      "imslp_url": "https://imslp.org/wiki/Die_Rose,_die_Lilie,_die_Taube_(Meyerbeer,_Giacomo)",
+      "year": 1838
+    },
+    {
+      "title": "Die Rosenbl\u00e4tter",
+      "imslp_url": "https://imslp.org/wiki/Die_Rosenbl\u00e4tter_(Meyerbeer,_Giacomo)",
+      "year": 1838
+    },
+    {
+      "title": "Lied des venezianischen Gondoliers",
+      "imslp_url": "https://imslp.org/wiki/Lied_des_venezianischen_Gondoliers_(Meyerbeer,_Giacomo)",
+      "year": 1838
+    },
+    {
+      "title": "Suleika",
+      "imslp_url": "https://imslp.org/wiki/Suleika_(Meyerbeer,_Giacomo)",
+      "year": 1838
+    },
+    {
+      "title": "Chant des moissoneurs vend\u00e9ens",
+      "imslp_url": "https://imslp.org/wiki/Chant_des_moissoneurs_vend\u00e9ens_(Meyerbeer,_Giacomo)",
+      "year": 1839
+    },
+    {
+      "title": "Der Garten des Herzens",
+      "imslp_url": "https://imslp.org/wiki/Der_Garten_des_Herzens_(Meyerbeer,_Giacomo)",
+      "year": 1839
+    },
+    {
+      "title": "La chanson de Ma\u00eetre Floh",
+      "imslp_url": "https://imslp.org/wiki/La_chanson_de_Ma\u00eetre_Floh_(Meyerbeer,_Giacomo)",
+      "year": 1839
+    },
+    {
+      "title": "Le bapt\u00eame",
+      "imslp_url": "https://imslp.org/wiki/Le_bapt\u00eame_(Meyerbeer,_Giacomo)",
+      "year": 1839
+    },
+    {
+      "title": "Pri\u00e8re d'enfants",
+      "imslp_url": "https://imslp.org/wiki/Pri\u00e8re_d'enfants_(Meyerbeer,_Giacomo)",
+      "year": 1839
+    },
+    {
+      "title": "\u00c0 une jeune m\u00e8re",
+      "imslp_url": "https://imslp.org/wiki/\u00c0_une_jeune_m\u00e8re_(Meyerbeer,_Giacomo)",
+      "year": 1839
+    },
+    {
+      "title": "De' miei giorni",
+      "imslp_url": "https://imslp.org/wiki/De'_miei_giorni_(Meyerbeer,_Giacomo)",
+      "year": 1840
+    },
+    {
+      "title": "Nella",
+      "imslp_url": "https://imslp.org/wiki/Nella_(Meyerbeer,_Giacomo)",
+      "year": 1840
+    },
+    {
+      "title": "St\u00e4ndchen",
+      "imslp_url": "https://imslp.org/wiki/St\u00e4ndchen_(Meyerbeer,_Giacomo)",
+      "year": 1840
+    },
+    {
+      "title": "Luft von Morgen",
+      "imslp_url": "https://imslp.org/wiki/Luft_von_Morgen_(Meyerbeer,_Giacomo)",
+      "year": 1841
+    },
+    {
+      "title": "Sonntagslied",
+      "imslp_url": "https://imslp.org/wiki/Sonntagslied_(Meyerbeer,_Giacomo)",
+      "year": 1841
+    },
+    {
+      "title": "Cantique du trappiste",
+      "imslp_url": "https://imslp.org/wiki/Cantique_du_trappiste_(Meyerbeer,_Giacomo)",
+      "year": 1842
+    },
+    {
+      "title": "Fackeltanz No.1",
+      "imslp_url": "https://imslp.org/wiki/Fackeltanz_No.1_(Meyerbeer,_Giacomo)",
+      "year": 1842
+    },
+    {
+      "title": "Freundschaft",
+      "imslp_url": "https://imslp.org/wiki/Freundschaft_(Meyerbeer,_Giacomo)",
+      "year": 1842
+    },
+    {
+      "title": "Ein Feldlager in Schlesien",
+      "imslp_url": "https://imslp.org/wiki/Ein_Feldlager_in_Schlesien_(Meyerbeer,_Giacomo)",
+      "year": 1843
+    },
+    {
+      "title": "Der Wanderer und die Geister an Beethovens Grabe",
+      "imslp_url": "https://imslp.org/wiki/Der_Wanderer_und_die_Geister_an_Beethovens_Grabe_(Meyerbeer,_Giacomo)",
+      "year": 1845
+    },
+    {
+      "title": "La dame invisible",
+      "imslp_url": "https://imslp.org/wiki/La_dame_invisible_(Meyerbeer,_Giacomo)",
+      "year": 1845
+    },
+    {
+      "title": "Sicili\u00e8nne",
+      "imslp_url": "https://imslp.org/wiki/Sicili\u00e8nne_(Meyerbeer,_Giacomo)",
+      "year": 1845
+    },
+    {
+      "title": "Sur le balcon",
+      "imslp_url": "https://imslp.org/wiki/Sur_le_balcon_(Meyerbeer,_Giacomo)",
+      "year": 1845
+    },
+    {
+      "title": "Fr\u00fchling im Versteck",
+      "imslp_url": "https://imslp.org/wiki/Fr\u00fchling_im_Versteck_(Meyerbeer,_Giacomo)",
+      "year": 1847
+    },
+    {
+      "title": "Fackeltanz No.3",
+      "imslp_url": "https://imslp.org/wiki/Fackeltanz_No.3_(Meyerbeer,_Giacomo)",
+      "year": 1853
+    },
+    {
+      "title": "Psalm 91",
+      "imslp_url": "https://imslp.org/wiki/Psalm_91_(Meyerbeer,_Giacomo)",
+      "year": 1853
+    },
+    {
+      "title": "Fackeltanz No.2",
+      "imslp_url": "https://imslp.org/wiki/Fackeltanz_No.2_(Meyerbeer,_Giacomo)",
+      "year": 1854
+    },
+    {
+      "title": "L'\u00e9toile du nord",
+      "imslp_url": "https://imslp.org/wiki/L'\u00e9toile_du_nord_(Meyerbeer,_Giacomo)",
+      "year": 1854
+    },
+    {
+      "title": "Brautgeleite aus der Heimat",
+      "imslp_url": "https://imslp.org/wiki/Brautgeleite_aus_der_Heimat_(Meyerbeer,_Giacomo)",
+      "year": 1856
+    },
+    {
+      "title": "Fackeltanz No.4",
+      "imslp_url": "https://imslp.org/wiki/Fackeltanz_No.4_(Meyerbeer,_Giacomo)",
+      "year": 1858
+    },
+    {
+      "title": "Festmarsch zu Schillers 100 j\u00e4hriger Geburtstagsfeier",
+      "imslp_url": "https://imslp.org/wiki/Festmarsch_zu_Schillers_100_j\u00e4hriger_Geburtstagsfeier_(Meyerbeer,_Giacomo)",
+      "year": 1859
+    },
+    {
+      "title": "Le pardon de Plo\u00ebrmel",
+      "imslp_url": "https://imslp.org/wiki/Le_pardon_de_Plo\u00ebrmel_(Meyerbeer,_Giacomo)",
+      "year": 1859
+    },
+    {
+      "title": "Bundeslied",
+      "imslp_url": "https://imslp.org/wiki/Bundeslied_(Meyerbeer,_Giacomo)",
+      "year": 1861
+    },
+    {
+      "title": "Die lustigen J\u00e4gersleut",
+      "imslp_url": "https://imslp.org/wiki/Die_lustigen_J\u00e4gersleut_(Meyerbeer,_Giacomo)",
+      "year": 1861
+    },
+    {
+      "title": "Kr\u00f6nungsmarsch",
+      "imslp_url": "https://imslp.org/wiki/Kr\u00f6nungsmarsch_(Meyerbeer,_Giacomo)",
+      "year": 1861
+    },
+    {
+      "title": "Marche du couronnement",
+      "imslp_url": "https://imslp.org/wiki/Marche_du_couronnement_(Meyerbeer,_Giacomo)",
+      "year": 1861
+    },
+    {
+      "title": "Das Lied vom blinden Hessen",
+      "imslp_url": "https://imslp.org/wiki/Das_Lied_vom_blinden_Hessen_(Meyerbeer,_Giacomo)",
+      "year": 1862
+    },
+    {
+      "title": "Fest-Ouvert\u00fcre im Marschstyl",
+      "imslp_url": "https://imslp.org/wiki/Fest-Ouvert\u00fcre_im_Marschstyl_(Meyerbeer,_Giacomo)",
+      "year": 1862
+    }
+  ]
+}

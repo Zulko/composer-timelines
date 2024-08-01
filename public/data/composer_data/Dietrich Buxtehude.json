@@ -1,0 +1,215 @@
+{
+  "full_name": "Dietrich Buxtehude",
+  "first_names": "Dietrich",
+  "last_name": "Buxtehude",
+  "birth_year": 1637,
+  "death_year": 1707,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dieterich_Buxtehude",
+  "events": [
+    {
+      "section": "Life",
+      "title": "Birth",
+      "summary": "Dietrich Buxtehude is thought to have been born with the name Diderich Buxtehude. Scholars dispute both the year and the country of his birth, although most now accept he was born in Helsingborg, Sk\u00e5ne, which was part of Denmark at that time.",
+      "year": 1637,
+      "location": "Helsingborg, Sk\u00e5ne",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Dietrich Buxtehude, or Diderich if you\u2019re feeling fancy, is believed to have popped into existence around a time of confusion \u2013 scholars can't even agree on when or where! Most think he was born in Helsingborg, Sk\u00e5ne, which was part of Denmark at that time."
+    },
+    {
+      "section": "Life",
+      "title": "Organist in Helsingborg",
+      "summary": "Buxtehude was employed as an organist in Helsingborg, marking the beginning of his professional musical career.",
+      "year": 1657,
+      "location": "Helsingborg",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Buxtehude wasn\u2019t just any ordinary musician; he got hired as an organist in Helsingborg, marking the beginning of his professional musical career, which was like finding the last slice of pizza at a party\u2014absolutely delightful and the start of something cheesy!"
+    },
+    {
+      "section": "Life",
+      "title": "Organist in Helsing\u00f8r",
+      "summary": "Buxtehude served as organist at St. Olaf's church in Helsing\u00f8r, where he contributed to the musical tradition of the church.",
+      "year": 1660,
+      "location": "Helsing\u00f8r",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Buxtehude was not just an organist at St. Olaf's church in Helsing\u00f8r; he was the wizard of the wooden keys! Picture him conjuring musical spells as the congregation tried not to fall asleep. His contributions to the musical tradition of the church? Let\u2019s just say they could make a stone statue tap its feet!"
+    },
+    {
+      "section": "Life",
+      "title": "Marriage to Anna Margarethe",
+      "summary": "In 1668, Buxtehude married Anna Margarethe, the daughter of his predecessor Franz Tunder, continuing a tradition among organists.",
+      "year": 1668,
+      "location": "L\u00fcbeck",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "Back in 1668, Buxtehude tied the knot with Anna Margarethe, who's basically the royal heir of organ music since she\u2019s the daughter of his predecessor, Franz Tunder! This love story not only sparked an organist soap opera but also continued enduring wedding traditions among organists! Who knew playing the organ was so romantic?"
+    },
+    {
+      "section": "Life",
+      "title": "Establishment of Abendmusik",
+      "summary": "Buxtehude reorganized the Abendmusik performances in L\u00fcbeck, a series of evening musical concerts that attracted musicians from various places.",
+      "year": 1673,
+      "location": "L\u00fcbeck",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Buxtehude decided to give the evening concerts a fresh twist in L\u00fcbeck, reorganizing the Abendmusik performances, which attracted musicians from various places."
+    },
+    {
+      "section": "Life",
+      "title": "Meeting of Handel and Mattheson",
+      "summary": "In 1703, both Handel and Mattheson traveled to meet the elderly Buxtehude, seeking insight and mentoring, although they declined his offer to marry his daughter and take his position.",
+      "year": 1703,
+      "location": "L\u00fcbeck",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1703, both Handel and Mattheson decided to pay a visit to the ancient sage Buxtehude, hoping to snag some wisdom. Spoiler: they turned down his daughter\u2019s hand in marriage, probably because they couldn\u2019t find a suitable ring at the local \u2018Ye Olde Jewelers\u2019!"
+    },
+    {
+      "section": "Life",
+      "title": "Bach's Visit",
+      "summary": "In 1705, the young J.S. Bach walked over 400 kilometers to L\u00fcbeck to hear Buxtehude play and learn from him about his artistic techniques.",
+      "year": 1705,
+      "location": "L\u00fcbeck",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "In 1705, a young J.S. Bach must have had really strong legs because he walked over 400 kilometers to L\u00fcbeck just to hear Buxtehude play and learn about his artistic techniques! Who needs a car when your passion is to listen to someone else play the organ?"
+    }
+  ],
+  "works": [
+    {
+      "title": "Alles, was ihr tut mit Worten oder Werken, BuxWV 4",
+      "imslp_url": "https://imslp.org/wiki/Alles,_was_ihr_tut_mit_Worten_oder_Werken,_BuxWV_4_(Buxtehude,_Dietrich)",
+      "year": 1666
+    },
+    {
+      "title": "Herr, wenn ich nur Dich hab, BuxWV 38",
+      "imslp_url": "https://imslp.org/wiki/Herr,_wenn_ich_nur_Dich_hab,_BuxWV_38_(Buxtehude,_Dietrich)",
+      "year": 1668
+    },
+    {
+      "title": "Trio Sonata in A minor, BuxWV 272",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_A_minor,_BuxWV_272_(Buxtehude,_Dietrich)",
+      "year": 1670
+    },
+    {
+      "title": "Mit Fried und Freud, BuxWV 76",
+      "imslp_url": "https://imslp.org/wiki/Mit_Fried_und_Freud,_BuxWV_76_(Buxtehude,_Dietrich)",
+      "year": 1671
+    },
+    {
+      "title": "Auf stimmet die Saiten, BuxWV 116",
+      "imslp_url": "https://imslp.org/wiki/Auf_stimmet_die_Saiten,_BuxWV_116_(Buxtehude,_Dietrich)",
+      "year": 1672
+    },
+    {
+      "title": "Membra Jesu Nostri, BuxWV 75",
+      "imslp_url": "https://imslp.org/wiki/Membra_Jesu_Nostri,_BuxWV_75_(Buxtehude,_Dietrich)",
+      "year": 1680
+    },
+    {
+      "title": "Sicut Mose, BuxWV 97",
+      "imslp_url": "https://imslp.org/wiki/Sicut_Mose,_BuxWV_97_(Buxtehude,_Dietrich)",
+      "year": 1681
+    },
+    {
+      "title": "Fugue in G major, BuxWV 175",
+      "imslp_url": "https://imslp.org/wiki/Fugue_in_G_major,_BuxWV_175_(Buxtehude,_Dietrich)",
+      "year": 1685
+    },
+    {
+      "title": "Toccata in D minor, BuxWV 155",
+      "imslp_url": "https://imslp.org/wiki/Toccata_in_D_minor,_BuxWV_155_(Buxtehude,_Dietrich)",
+      "year": 1685
+    },
+    {
+      "title": "Man singet mit Freuden vom Sieg, BuxWV Anh.2",
+      "imslp_url": "https://imslp.org/wiki/Man_singet_mit_Freuden_vom_Sieg,_BuxWV_Anh.2_(Buxtehude,_Dietrich)",
+      "year": 1689
+    },
+    {
+      "title": "Jubilate Domino, BuxWV 64",
+      "imslp_url": "https://imslp.org/wiki/Jubilate_Domino,_BuxWV_64_(Buxtehude,_Dietrich)",
+      "year": 1690
+    },
+    {
+      "title": "Missa brevis, BuxWV 114",
+      "imslp_url": "https://imslp.org/wiki/Missa_brevis,_BuxWV_114_(Buxtehude,_Dietrich)",
+      "year": 1690
+    },
+    {
+      "title": "Quemadmodum desiderat cervus, BuxWV 92",
+      "imslp_url": "https://imslp.org/wiki/Quemadmodum_desiderat_cervus,_BuxWV_92_(Buxtehude,_Dietrich)",
+      "year": 1690
+    },
+    {
+      "title": "Trio Sonata in A minor, BuxWV 254",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_A_minor,_BuxWV_254_(Buxtehude,_Dietrich)",
+      "year": 1694
+    },
+    {
+      "title": "Trio Sonata in B-flat major, BuxWV 255",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_B-flat_major,_BuxWV_255_(Buxtehude,_Dietrich)",
+      "year": 1694
+    },
+    {
+      "title": "Trio Sonata in B-flat major, BuxWV 259",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_B-flat_major,_BuxWV_259_(Buxtehude,_Dietrich)",
+      "year": 1694
+    },
+    {
+      "title": "Trio Sonata in C major, BuxWV 256",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_C_major,_BuxWV_256_(Buxtehude,_Dietrich)",
+      "year": 1694
+    },
+    {
+      "title": "Trio Sonata in D minor, BuxWV 257",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_D_minor,_BuxWV_257_(Buxtehude,_Dietrich)",
+      "year": 1694
+    },
+    {
+      "title": "Trio Sonata in E minor, BuxWV 258",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_E_minor,_BuxWV_258_(Buxtehude,_Dietrich)",
+      "year": 1694
+    },
+    {
+      "title": "Trio Sonata in F major, BuxWV 252",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_F_major,_BuxWV_252_(Buxtehude,_Dietrich)",
+      "year": 1694
+    },
+    {
+      "title": "Trio Sonata in G major, BuxWV 253",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_G_major,_BuxWV_253_(Buxtehude,_Dietrich)",
+      "year": 1694
+    },
+    {
+      "title": "Trio Sonata in A major, BuxWV 263",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_A_major,_BuxWV_263_(Buxtehude,_Dietrich)",
+      "year": 1696
+    },
+    {
+      "title": "Trio Sonata in C minor, BuxWV 262",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_C_minor,_BuxWV_262_(Buxtehude,_Dietrich)",
+      "year": 1696
+    },
+    {
+      "title": "Trio Sonata in D major, BuxWV 260",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_D_major,_BuxWV_260_(Buxtehude,_Dietrich)",
+      "year": 1696
+    },
+    {
+      "title": "Trio Sonata in E major, BuxWV 264",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_E_major,_BuxWV_264_(Buxtehude,_Dietrich)",
+      "year": 1696
+    },
+    {
+      "title": "Trio Sonata in F major, BuxWV 265",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_F_major,_BuxWV_265_(Buxtehude,_Dietrich)",
+      "year": 1696
+    },
+    {
+      "title": "Trio Sonata in G minor, BuxWV 261",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_G_minor,_BuxWV_261_(Buxtehude,_Dietrich)",
+      "year": 1696
+    },
+    {
+      "title": "Nichts soll uns scheiden von der Liebe Gottes, BuxWV 77",
+      "imslp_url": "https://imslp.org/wiki/Nichts_soll_uns_scheiden_von_der_Liebe_Gottes,_BuxWV_77_(Buxtehude,_Dietrich)",
+      "year": 1700
+    }
+  ]
+}

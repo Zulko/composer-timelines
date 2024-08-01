@@ -7,822 +7,776 @@
   "wikipedia_url": "https://en.wikipedia.org/wiki/Heitor_Villa-Lobos",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Heitor Villa-Lobos made his grand entrance into the world in Rio de Janeiro\u2014kicking and screaming, no doubt. With a father who was a civil servant and amateur musician, he was destined to have his life steeped in music and a bit of chaos from the start.",
+      "section": "Biography",
+      "title": "Birth",
+      "summary": "Heitor Villa-Lobos was born in Rio de Janeiro, marking the beginning of his journey in a period of social revolution in Brazil. His father was a civil servant and a musician, which likely influenced his early exposure to music.",
       "year": 1887,
-      "city": "Rio de Janeiro",
-      "country": "Empire of Brazil"
+      "location": "Rio de Janeiro",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Heitor Villa-Lobos was born in Rio de Janeiro, marking the start of his musical journey during a period of social revolution in Brazil. His father was a civil servant and a musician, undoubtedly influencing his early exposure to music."
     },
     {
-      "event": "First Music Lessons",
-      "summary": "Villa-Lobos's musical education consisted of peeking from the top of the stairs during his father's musical soir\u00e9es. It\u2019s the original 'no peeking' rule, except instead of cookies, he was learning the cello, clarinet, and classical guitar.",
+      "section": "Biography",
+      "title": "Death of father",
+      "summary": "In 1899, Villa-Lobos's father passed away suddenly, compelling him to support his family by performing in cinema and theatre orchestras in Rio.",
       "year": 1899,
-      "city": "Rio de Janeiro",
-      "country": "Brazil"
+      "location": "Rio de Janeiro",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "In 1899, Villa-Lobos's father decided to take an unexpected vacation from life, leaving our hero to support his family in a bit of a pickle! With no time for tears, he donned his best top hat and jumped into performing in the wild world of cinema and theater orchestras in Rio."
     },
     {
-      "event": "Married Luc\u00edlia Guimar\u00e3es",
-      "summary": "After finally settling down and concluding that life as a wandering musician needed a balance, Villa-Lobos tied the knot with pianist Luc\u00edlia Guimar\u00e3es. And guess what? She even taught him how to play the piano\u2014talk about a supportive spouse!",
+      "section": "Music",
+      "title": "Compositions influenced by the guitar improvisations",
+      "summary": "His earliest pieces originated in guitar improvisations, with notable examples like Panqueca (Pancake). These early works laid the foundation for his later compositions that would incorporate a range of elements and styles.",
+      "year": 1900,
+      "location": "",
+      "emoji": "\ud83c\udfb8",
+      "fun_version": "His earliest pieces were born from the sweet symphony of guitar improvisation, with famous hits like 'Panqueca' (which is just as delicious as it sounds). These works were like the flour and eggs in his musical pancake recipe, laying the foundation for the extravagant layer cakes of sound that would come later, creatively mixing a range of elements and styles like a mad scientist at a buffet."
+    },
+    {
+      "section": "Biography",
+      "title": "Marriage to Luc\u00edlia Guimar\u00e3es",
+      "summary": "On November 12, 1913, Villa-Lobos married pianist Luc\u00edlia Guimar\u00e3es, which marked a significant turning point in his musical education and career.",
       "year": 1913,
-      "city": "Rio de Janeiro",
-      "country": "Brazil"
+      "location": "",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "On November 12, 1913, Villa-Lobos finally decided to tie the knot with pianist Luc\u00ed\u00adlia Guimar\u00e3es! They say it marked a significant turning point in his musical education and career."
     },
     {
-      "event": "First Performances",
-      "summary": "He began unveiling his musical genius through a series of concerts, introducing the world to his unique Brazilian-infused classical style. It was like serving a spicy feijoada at a European dinner party\u2014unexpected yet delightful!",
+      "section": "Music",
+      "title": "Creation of 'Desesperan\u00e7a' Sonata",
+      "summary": "He composed the piece 'Desesperan\u00e7a \u2013 Sonata Phantastica e Capricciosa no. 1' in 1915, a violin sonata expressing contrasting emotions amidst themes of anguish and despair.",
       "year": 1915,
-      "city": "Rio de Janeiro",
-      "country": "Brazil"
+      "location": "",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "He whipped up 'Desesperan\u00e7a \u2013 Sonata Phantastica e Capricciosa no. 1' in 1915, humorously capturing the struggle between feeling like a rockstar and wanting to hide under the bed. This violin sonata expresses contrasting emotions amidst themes of anguish and despair, perfect for those times when life feels like a really long Monday!"
     },
     {
-      "event": "Composing Symphonic Poems",
-      "summary": "In a quest to blend Brazilian folklore with orchestral splendor, Villa-Lobos concocted his symphonic poems, including the first version of what would become Uirapur\u00fa. His struggles with identity were akin to trying to choose between caipirinhas and cocktails at a bar\u2014decisions, decisions!",
-      "year": 1916,
-      "city": "Rio de Janeiro",
-      "country": "Brazil"
+      "section": "Music",
+      "title": "First performances in concert series",
+      "summary": "The concert series from 1915 to 1921 featured first performances of pieces that demonstrated originality and virtuosic technique, reflecting Villa-Lobos's innovative approach to music during this period.",
+      "year": 1915,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Imagine a concert series from 1915 to 1921 where the music was so original that even the instruments had to ask for sheet music! Villa-Lobos, during this inventive period, was like the mad scientist of music, experimenting with pieces and chords. Virtuosic techniques? More like virtuoso tricks that left the audience wondering if the violin was a magician!"
     },
     {
-      "event": "Ballet with Diaghilev",
-      "summary": "Impressed by the famous Sergei Diaghilev and his Ballets Russes, Villa-Lobos was introduced to a world of artistic grandeur, expanding his creative palate. You could say he was swept off his feet\u2014just not on the dance floor.",
+      "section": "Music",
+      "title": "Major works dominated by indigenous Brazilian influences",
+      "summary": "In 1917, Villa-Lobos created tone poems like Amazonas and Uirapur\u00fa. These works incorporate Brazilian folk tales and sounds from the jungle, showcasing his deep connection to Brazilian culture.",
       "year": 1917,
-      "city": "Rio de Janeiro",
-      "country": "Brazil"
+      "location": "Paris",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1917, Villa-Lobos was busy creating tone poems like Amazonas and Uirapur\u00fa. You know, just a casual day in the jungle, mixing Brazilian folk tales with sounds from the wild. It\u2019s like he threw a party for the animals and told everyone to bring their best cultural stories. These works showcase his deep connection to Brazilian culture."
     },
     {
-      "event": "First International Tour",
-      "summary": "After a series of boos for his piano suite and a quirky foot infection mishap at an art festival, Villa-Lobos decided it was time to tour abroad. Off to Paris he went, ready to shake up the classical scene with his exotic sound. Just try and ignore the carpet slippers!",
-      "year": 1923,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Chaotic Creativity",
-      "summary": "During his time in Paris, Villa-Lobos composed a slew of pieces inspired by Brazilian street music, proving that chaos can indeed breed creativity. Talk about making lemonade out of a cacophonous mess!",
-      "year": 1920,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "War and Patriotic Music",
-      "summary": "With Brazil caught up in the revolutionary fervor, Villa-Lobos stepped in as a patriotic composer. His music turned into a tool for nationalism, making him the musical equivalent of that overenthusiastic friend who shows up in full circus gear.",
-      "year": 1930,
-      "city": "S\u00e3o Paulo",
-      "country": "Brazil"
-    },
-    {
-      "event": "Romantic Relationship with Arminda",
-      "summary": "After leaving his wife (but not the marriage), Villa-Lobos embarked on a passionate relationship with Arminda Neves d'Almeida. It\u2019s like a soap opera, but with more music and less drama in front of the camera!",
-      "year": 1936,
-      "city": "Rio de Janeiro",
-      "country": "Brazil"
-    },
-    {
-      "event": "Flourishing International Career",
-      "summary": "Post-World War II, Villa-Lobos resumed his travels, like a classical globetrotter racking up frequent flyer miles. He was in high demand, writing commissions everywhere\u2014talk about a one-man musical express train!",
-      "year": 1945,
-      "city": "Rio de Janeiro",
-      "country": "Brazil"
-    },
-    {
-      "event": "Composing for Film",
-      "summary": "Back in the game and scoring films, Villa-Lobos earned a small fortune with his music for 'Green Mansions'. He managed to put the 'great' in 'Greatness'\u2014albeit with some bumps from movie production delays.",
-      "year": 1958,
-      "city": "Hollywood",
-      "country": "USA"
-    },
-    {
-      "event": "Final Days",
-      "summary": "As Villa-Lobos neared the end of his life, his sharp-tongued disillusionment about the state of music in Brazil caused quite the stir among his peers. Perhaps he was just in need of some good old samba vibes to brighten his day!",
-      "year": 1959,
-      "city": "Rio de Janeiro",
-      "country": "Brazil"
-    },
-    {
-      "event": "First Performance of an Original Piece",
-      "summary": "Villa-Lobos stunned audiences with his unique mix of vibes, showcasing his original compositions that combined guitar improvisations with impressive virtuosity. People probably thought he was the musical equivalent of a double latte\u2014bold and robust!",
-      "year": 1915,
-      "city": "Rio de Janeiro",
-      "country": "Brazil"
-    },
-    {
-      "event": "Meeting with Arthur Rubinstein",
-      "summary": "After crossing paths with the famous pianist, Villa-Lobos was inspired to dive into piano compositions like 'Simples colet\u00e2nea.' Rumor has it that Rubinstein's Ravel performance had him on the edge of his seat, furiously scribbling notes like he was writing a love letter to music.",
+      "section": "Music",
+      "title": "Meeting with Arthur Rubinstein",
+      "summary": "His meeting with pianist Arthur Rubinstein in 1918 inspired him to compose new piano works, including Simples colet\u00e2nea in 1919, which reflected influences from agreed styles in concert.",
       "year": 1918,
-      "city": "Rio de Janeiro",
-      "country": "Brazil"
+      "location": "",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "In 1918, he met the renowned pianist Arthur Rubinstein, inspiring him to dive into the world of composition! In 1919, he created 'Simples colet\u00e2nea,' a work that borrows from various agreed styles in concert, showcasing his eclectic taste."
     },
     {
-      "event": "Emergence of Mature Style",
-      "summary": "Villa-Lobos unleashed his mature style with 'Carnaval das crian\u00e7as,' which merrily bounced through children's dances and carnival sounds, making it an instant party hit. Who knew classical music could feel like a joyous conga line?",
+      "section": "Music",
+      "title": "Emergence of mature style in 'Carnaval das crian\u00e7as'",
+      "summary": "From 1919 to 1920, 'Carnaval das crian\u00e7as' exhibited Villa-Lobos's mature style, capturing the essence of Brazilian culture through music that breaks away from traditional forms.",
       "year": 1919,
-      "city": "Rio de Janeiro",
-      "country": "Brazil"
+      "location": "",
+      "emoji": "\ud83c\udde7\ud83c\uddf7",
+      "fun_version": "From 1919 to 1920, 'Carnaval das crian\u00e7as' was like Villa-Lobos throwing a big Brazilian party that showcased his mature style while capturing the essence of Brazilian culture. The music was so good, even the traditional forms packed their bags and left! Who knew breaking up with tradition could sound so lovely?"
     },
     {
-      "event": "Formal Musical Developments in Paris",
-      "summary": "In Paris, Villa-Lobos cracked the code on music structure, liberating himself from traditional forms. It's like he discovered the 'CTRL+Z' for music composition, allowing him to experiment freely, which led to some rather whimsical creations!",
+      "section": "Music",
+      "title": "Fusion of urban Brazilian influences",
+      "summary": "In 1921, Villa-Lobos's 'Quarteto simb\u00f3lico' fused urban Brazilian influences, incorporating elements from chor\u00f5es into his compositions, which represented a significant evolution in his style.",
+      "year": 1921,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1921, Villa-Lobos's 'Quarteto simb\u00f3lico' fused urban Brazilian influences, throwing a carnival party with chor\u00f5es crashing in uninvited! This incorporation of chor\u00f5es represented a significant evolution in his style!"
+    },
+    {
+      "section": "Biography",
+      "title": "First performance of A Prole do Beb\u00ea",
+      "summary": "In July 1922, the pianist Arthur Rubinstein performed Villa-Lobos's piano suite A Prole do Beb\u00ea, which was met with disapproval from the audience, a moment Villa-Lobos took philosophically.",
+      "year": 1922,
+      "location": "",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "In July 1922, renowned pianist Arthur Rubinstein performed Villa-Lobos's piano suite A Prole do Beb\u00ea! However, the audience didn't seem impressed and expressed their disapproval. Villa-Lobos just shrugged and went back to his philosophical musings about music and life."
+    },
+    {
+      "section": "Biography",
+      "title": "Nonet completion",
+      "summary": "Just before leaving for Paris, Villa-Lobos completed his Nonet for ten players and chorus, which was first performed after his arrival in the French capital, setting the stage for his future works.",
       "year": 1923,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris",
+      "emoji": "\ud83c\uddeb\ud83c\uddf7",
+      "fun_version": "Who knew that Villa-Lobos completed his Nonet for ten players and chorus just before heading off to the City of Lights? The Nonet premiered right when he got to Paris, setting the stage for more of his masterpieces. Talk about a dramatic entrance\u2014who needs a red carpet when you have a Nonet?"
     },
     {
-      "event": "Creation of Bachianas Brasileiras",
-      "summary": "Villa-Lobos infused his works with Brazilian flair while tipping his hat to Bach, resulting in pieces that seemed to be dancing a samba in a tuxedo. Who said baroque couldn't strut its stuff?",
+      "section": "Biography",
+      "title": "Parisian debut",
+      "summary": "In 1923, Villa-Lobos traveled to Paris to showcase his unique sound, meeting influential figures in the art scene and making a significant impact with his performances.",
+      "year": 1923,
+      "location": "Paris",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1923, Villa-Lobos traveled to Paris to showcase his unique sound, strutting into town and bumping into influential figures in the art scene, where he made a significant impact with his performances."
+    },
+    {
+      "section": "Music",
+      "title": "Creation of 'Bachianas Brasileiras'",
+      "summary": "Between 1930 and 1945, he composed nine pieces called Bachianas Brasileiras, merging traditional forms with his love for Bach, contributing to the richness of Brazilian classical music.",
       "year": 1930,
-      "city": "Rio de Janeiro",
-      "country": "Brazil"
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Between 1930 and 1945, he composed nine pieces called Bachianas Brasileiras, merging traditional forms with his love for Bach. Imagine mixing your grandma's secret family recipe with a musical genius like Bach! This culinary concert of sound has contributed more richness to Brazilian classical music than a carnival has to a street party!"
     },
     {
-      "event": "Final Major Work for Film",
-      "summary": "Before bowing out, Villa-Lobos put together music for the film 'Green Mansions', a work so entwined with nature that one could almost hear the trees swaying along. Too bad most of it got replaced, but hey, it's the thought that counts!",
+      "section": "Biography",
+      "title": "Directorial role at SEMA",
+      "summary": "In 1932, Villa-Lobos was appointed director of the Superintend\u00eancia de Educa\u00e7\u00e3o Musical e Art\u00edstica, allowing him to shape the musical education in Brazil.",
+      "year": 1932,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1932, Villa-Lobos was appointed director of the Superintend\u00eancia de Educa\u00e7\u00e3o Musical e Art\u00edstica, letting him shape Brazil's musical education. If you think your music teacher is strict, just imagine the kind of syllabus he might have created!"
+    },
+    {
+      "section": "Biography",
+      "title": "Romantic involvement with Arminda Neves d'Almeida",
+      "summary": "In 1936, Villa-Lobos left his wife and began a relationship with Arminda Neves d'Almeida, who became a key figure in his life and work, influencing many of his compositions.",
+      "year": 1936,
+      "location": "",
+      "emoji": "\ud83d\udc94",
+      "fun_version": "In 1936, Villa-Lobos decided that marriage was so last season and traded his wife for Arminda Neves d'Almeida. Who knew love could be like picking the right flavor of ice cream? One scoop of Arminda came with a sprinkle of creativity that influenced his compositions!"
+    },
+    {
+      "section": "Biography",
+      "title": "Return to Paris post-war",
+      "summary": "After World War II and Vargas's fall from power in 1945, Villa-Lobos was able to return to Paris, where he undertook various commissions and enjoyed a renewed international presence.",
+      "year": 1945,
+      "location": "Paris",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "After World War II and Vargas took a dive into the political swimming pool in 1945, Villa-Lobos packed his bags and made a beeline for Paris, where he took on a bunch of commissions and basked in the glory of his newly minted international fame."
+    },
+    {
+      "section": "Music",
+      "title": "Seventeenth String Quartet",
+      "summary": "In 1957, he wrote his Seventeenth String Quartet, noted for its austerity and emotional intensity, serving as a eulogy to his craft and reflecting his artistic maturity in his later years.",
       "year": 1957,
-      "city": "Rio de Janeiro",
-      "country": "Brazil"
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1957, he wrote his Seventeenth String Quartet, which was noted for its austerity and emotional intensity, serving as a eulogy to his craft and reflecting his artistic maturity in his later years."
     },
     {
-      "event": "Last Composition and Legacy",
-      "summary": "Putting the finishing touches on his Seventeenth String Quartet, Villa-Lobos left behind a musical legacy that whispers, 'Keep innovating, even if it\u2019s just a tiny string section.' His works are timeless\u2014like grandma's secret recipe but with violin.",
+      "section": "Music",
+      "title": "Bendita Sabedoria composition",
+      "summary": "In 1958, he composed 'Bendita Sabedoria', a sequence of a cappella chorales based on Latin biblical texts, showcasing simplicity and depth in his final works.",
       "year": 1958,
-      "city": "Rio de Janeiro",
-      "country": "Brazil"
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1958, he composed 'Bendita Sabedoria', a charming sequence of a cappella chorales based on Latin biblical texts, showcasing simplicity that can hit you like a surprise pie in the face while also reminding us that there's depth, just like in scuba diving without a diving buddy!"
     },
     {
-      "event": "First Music Composition",
-      "summary": "Heitor wrote his first composition, proving that even from a young age, he was destined to make audiences scratch their heads and tap their feet simultaneously.",
-      "year": 1899,
-      "city": "Rio de Janeiro",
-      "country": "Brazil"
-    },
-    {
-      "event": "Musical Studies in Europe",
-      "summary": "Villa-Lobos traveled to Europe to study music, where he likely realized that not everyone speaks the language of notes, leading to some amusing misunderstandings with fellow composers.",
-      "year": 1913,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Return to Brazil",
-      "summary": "After his European escapade, he returned to Brazil, bringing back a suitcase full of ideas that caused waves in the Brazilian music scene, and maybe a bit of European flair as well.",
-      "year": 1920,
-      "city": "Rio de Janeiro",
-      "country": "Brazil"
-    },
-    {
-      "event": "Establishment of Brazilian Music",
-      "summary": "Villa-Lobos began promoting Brazilian music on a global scale, perhaps hoping to turn the world into a fan of samba and bossa nova, even before they existed!",
-      "year": 1930,
-      "city": "Rio de Janeiro",
-      "country": "Brazil"
-    },
-    {
-      "event": "International Fame",
-      "summary": "Heitor began to gain international recognition, which probably made him the coolest kid at the classical music party, with composers lining up to buddy up with him.",
-      "year": 1940,
-      "city": "New York",
-      "country": "USA"
-    },
-    {
-      "event": "Composition of Bachianas Brasileiras",
-      "summary": "He composed 'Bachianas Brasileiras,' an imaginative blend of Bach's genius and Brazilian rhythms, making it the ultimate party piece for classical music lovers who like to move!",
-      "year": 1930,
-      "city": "Rio de Janeiro",
-      "country": "Brazil"
-    },
-    {
-      "event": "Cultural Contributions",
-      "summary": "Villa-Lobos contributed significantly to Brazilian culture, as he managed to convince many that classical music could indeed have a tropical twist, and not just be a summer breeze!",
-      "year": 1950,
-      "city": "Rio de Janeiro",
-      "country": "Brazil"
-    },
-    {
-      "event": "Death",
-      "summary": "Heitor Villa-Lobos passed away, leaving behind a legacy so vibrant that it made everyone wonder if he had actually created music that could live forever, even if he couldn't.",
+      "section": "Biography",
+      "title": "Death",
+      "summary": "In November 1959, Villa-Lobos passed away in Rio de Janeiro, marking the end of his influential life and career in music. His funeral was a significant civic event before the city's capital moved to Bras\u00edlia.",
       "year": 1959,
-      "city": "Rio de Janeiro",
-      "country": "Brazil"
+      "location": "Rio de Janeiro",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In November 1959, Villa-Lobos passed away in Rio de Janeiro. His funeral was a significant civic event before the city's capital moved to Bras\u00edlia."
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/Alvorada_na_floresta_tropical,_W513_(Villa-Lobos,_Heitor)",
-      "year": 1953,
-      "title": "Alvorada na floresta tropical, W513"
+      "title": "Confid\u00eancia, W017",
+      "imslp_url": "https://imslp.org/wiki/Confid\u00eancia,_W017_(Villa-Lobos,_Heitor)",
+      "year": 1908
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Amazonas,_W118,_119_(Villa-Lobos,_Heitor)",
-      "year": 1917,
-      "title": "Amazonas, W118, 119"
+      "title": "Suite populaire br\u00e9silienne, W020",
+      "imslp_url": "https://imslp.org/wiki/Suite_populaire_br\u00e9silienne,_W020_(Villa-Lobos,_Heitor)",
+      "year": 1908
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Amor_y_perfidia,_W135_(Villa-Lobos,_Heitor)",
-      "year": 1918,
-      "title": "Amor y perfidia, W135"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Assobio_a_Jato,_W493_(Villa-Lobos,_Heitor)",
-      "year": 1950,
-      "title": "Assobio a Jato, W493"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Bachianas_brasileiras_No.1,_W246_(Villa-Lobos,_Heitor)",
-      "year": 1930,
-      "title": "Bachianas brasileiras No.1, W246"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Bachianas_brasileiras_No.2,_W247,_250-252,_254,_568,_569_(Villa-Lobos,_Heitor)",
-      "year": 1930,
-      "title": "Bachianas brasileiras No.2, W247, 250-252, 254, 568, 569"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Bachianas_brasileiras_No.3,_W388_(Villa-Lobos,_Heitor)",
-      "year": 1938,
-      "title": "Bachianas brasileiras No.3, W388"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Bachianas_brasileiras_No.4,_W264,_424_(Villa-Lobos,_Heitor)",
-      "year": 1930,
-      "title": "Bachianas brasileiras No.4, W264, 424"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Bachianas_brasileiras_No.5,_W389-391_(Villa-Lobos,_Heitor)",
-      "year": 1938,
-      "title": "Bachianas brasileiras No.5, W389-391"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Bachianas_brasileiras_No.6,_W392_(Villa-Lobos,_Heitor)",
-      "year": 1938,
-      "title": "Bachianas brasileiras No.6, W392"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Bachianas_brasileiras_No.7,_W432_(Villa-Lobos,_Heitor)",
-      "year": 1942,
-      "title": "Bachianas brasileiras No.7, W432"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Bachianas_brasileiras_No.8,_W444_(Villa-Lobos,_Heitor)",
-      "year": 1944,
-      "title": "Bachianas brasileiras No.8, W444"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Bachianas_brasileiras_No.9,_W449_(Villa-Lobos,_Heitor)",
-      "year": 1945,
-      "title": "Bachianas brasileiras No.9, W449"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Bailado_infernal,_W160_(Villa-Lobos,_Heitor)",
-      "year": 1920,
-      "title": "Bailado infernal, W160"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Bendita_sabedoria,_W543_(Villa-Lobos,_Heitor)",
-      "year": 1958,
-      "title": "Bendita sabedoria, W543"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Brinquedo_de_roda,_W045_(Villa-Lobos,_Heitor)",
-      "year": 1912,
-      "title": "Brinquedo de roda, W045"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Caixinha_de_m%C3%BAsica_quebrada,_W256_(Villa-Lobos,_Heitor)",
-      "year": 1931,
-      "title": "Caixinha de m\u00fasica quebrada, W256"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Can%C3%A7%C3%B5es_t%C3%ADpicas_brasileiras,_W158_(Villa-Lobos,_Heitor)",
-      "year": 1919,
-      "title": "Can\u00e7\u00f5es t\u00edpicas brasileiras, W158"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Carnaval_das_crian%C3%A7as,_W157_(Villa-Lobos,_Heitor)",
-      "year": 1919,
-      "title": "Carnaval das crian\u00e7as, W157"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Ch%C3%B4ros_bis,_W227_(Villa-Lobos,_Heitor)",
-      "year": 1928,
-      "title": "2 Ch\u00f4ros bis, W227"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ch%C3%B4ros_No.1,_W161_(Villa-Lobos,_Heitor)",
-      "year": 1920,
-      "title": "Ch\u00f4ros No.1, W161"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ch%C3%B4ros_No.2,_W197,_198_(Villa-Lobos,_Heitor)",
-      "year": 1924,
-      "title": "Ch\u00f4ros No.2, W197, 198"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ch%C3%B4ros_No.3,_W206_(Villa-Lobos,_Heitor)",
-      "year": 1925,
-      "title": "Ch\u00f4ros No.3, W206"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ch%C3%B4ros_No.4,_W218_(Villa-Lobos,_Heitor)",
-      "year": 1926,
-      "title": "Ch\u00f4ros No.4, W218"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ch%C3%B4ros_No.5,_W207_(Villa-Lobos,_Heitor)",
-      "year": 1925,
-      "title": "Ch\u00f4ros No.5, W207"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ch%C3%B4ros_No.6,_W219_(Villa-Lobos,_Heitor)",
-      "year": 1926,
-      "title": "Ch\u00f4ros No.6, W219"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ch%C3%B4ros_No.7,_W199_(Villa-Lobos,_Heitor)",
-      "year": 1924,
-      "title": "Ch\u00f4ros No.7, W199"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ch%C3%B4ros_No.8,_W208_(Villa-Lobos,_Heitor)",
-      "year": 1925,
-      "title": "Ch\u00f4ros No.8, W208"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ch%C3%B4ros_No.9,_W232_(Villa-Lobos,_Heitor)",
-      "year": 1929,
-      "title": "Ch\u00f4ros No.9, W232"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ch%C3%B4ros_No.10,_W209_(Villa-Lobos,_Heitor)",
-      "year": 1926,
-      "title": "Ch\u00f4ros No.10, W209"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ciclo_brasileiro,_W374_(Villa-Lobos,_Heitor)",
-      "year": 1936,
-      "title": "Ciclo brasileiro, W374"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ciranda_das_sete_notas,_W325_(Villa-Lobos,_Heitor)",
-      "year": 1933,
-      "title": "Ciranda das sete notas, W325"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ciranda_das_sete_notas,_W548_(Villa-Lobos,_Heitor)",
-      "year": 1933,
-      "title": "Ciranda das sete notas, W548"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Cirandas,_W220_(Villa-Lobos,_Heitor)",
-      "year": 1926,
-      "title": "Cirandas, W220"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Cirandinhas,_W210_(Villa-Lobos,_Heitor)",
-      "year": 1925,
-      "title": "Cirandinhas, W210"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Confid%C3%AAncia,_W017_(Villa-Lobos,_Heitor)",
-      "year": 1908,
-      "title": "Confid\u00eancia, W017"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Dan%C3%A7as_caracter%C3%ADsticas_africanas,_W085_(Villa-Lobos,_Heitor)",
-      "year": 1914,
-      "title": "Dan\u00e7as caracter\u00edsticas africanas, W085"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Duo_for_Oboe_and_Bassoon,_W535_(Villa-Lobos,_Heitor)",
-      "year": 1957,
-      "title": "Duo for Oboe and Bassoon, W535"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/%C3%89l%C3%A9gie,_W094_(Villa-Lobos,_Heitor)",
-      "year": 1915,
-      "title": "\u00c9l\u00e9gie, W094"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Epigramas_ironicos_e_sentimentais,_W183_(Villa-Lobos,_Heitor)",
-      "year": 1921,
-      "title": "Epigramas ironicos e sentimentais, W183"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Eros%C3%A3o,_W495_(Villa-Lobos,_Heitor)",
-      "year": 1950,
-      "title": "Eros\u00e3o, W495"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/12_Estudos,_W235_(Villa-Lobos,_Heitor)",
-      "year": 1928,
-      "title": "12 Estudos, W235"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/F%C3%A1bulas_caracter%C3%ADsticas,_W076_(Villa-Lobos,_Heitor)",
-      "year": 1914,
-      "title": "F\u00e1bulas caracter\u00edsticas, W076"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fantasia_for_Cello_and_Orchestra,_W454_(Villa-Lobos,_Heitor)",
-      "year": 1945,
-      "title": "Fantasia for Cello and Orchestra, W454"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fantasia_para_saxophone,_W490_(Villa-Lobos,_Heitor)",
-      "year": 1948,
-      "title": "Fantasia para saxophone, W490"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/A_fiandeira,_W176_(Villa-Lobos,_Heitor)",
-      "year": 1921,
-      "title": "A fiandeira, W176"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Francette_et_Pi%C3%A0,_W237,_552_(Villa-Lobos,_Heitor)",
-      "year": 1929,
-      "title": "Francette et Pi\u00e0, W237, 552"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Guitar_Concerto,_W501,_502_(Villa-Lobos,_Heitor)",
-      "year": 1951,
-      "title": "Guitar Concerto, W501, 502"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Harmonica_Concerto,_W524_(Villa-Lobos,_Heitor)",
-      "year": 1955,
-      "title": "Harmonica Concerto, W524"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Hist%C3%B3rias_da_carochinha,_W148_(Villa-Lobos,_Heitor)",
-      "year": 1919,
-      "title": "Hist\u00f3rias da carochinha, W148"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Hommage_%C3%A0_Chopin,_W474_(Villa-Lobos,_Heitor)",
-      "year": 1947,
-      "title": "Hommage \u00e0 Chopin, W474"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Improviso_No.7,_W096_(Villa-Lobos,_Heitor)",
-      "year": 1915,
-      "title": "Improviso No.7, W096"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/A_lenda_do_caboclo,_W166,_188_(Villa-Lobos,_Heitor)",
-      "year": 1921,
-      "title": "A lenda do caboclo, W166, 188"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Louco,_W060_(Villa-Lobos,_Heitor)",
-      "year": 1913,
-      "title": "Louco, W060"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Mandu-%C3%87arar%C3%A1,_W417,_418_(Villa-Lobos,_Heitor)",
-      "year": 1940,
-      "title": "Mandu-\u00c7arar\u00e1, W417, 418"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Les_m%C3%A8res,_W080_(Villa-Lobos,_Heitor)",
-      "year": 1914,
-      "title": "Les m\u00e8res, W080"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Miniaturas,_W056_(Villa-Lobos,_Heitor)",
-      "year": 1912,
-      "title": "Miniaturas, W056"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Modinhas_e_can%C3%A7%C3%B5es,_W365,_406_(Villa-Lobos,_Heitor)",
-      "year": 1935,
-      "title": "Modinhas e can\u00e7\u00f5es, W365, 406"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Modinhas_e_can%C3%A7%C3%B5es,_W441,_563_(Villa-Lobos,_Heitor)",
-      "year": 1958,
-      "title": "Modinhas e can\u00e7\u00f5es, W441, 563"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Momoprecoce,_W240,_259_(Villa-Lobos,_Heitor)",
-      "year": 1929,
-      "title": "Momoprecoce, W240, 259"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/New_York_Skyline_Melody,_W407,_408_(Villa-Lobos,_Heitor)",
-      "year": 1939,
-      "title": "New York Skyline Melody, W407, 408"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Noneto,_W191_(Villa-Lobos,_Heitor)",
-      "year": 1923,
-      "title": "Noneto, W191"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/O_canto_do_cisne_negro,_W122,_123_(Villa-Lobos,_Heitor)",
-      "year": 1917,
-      "title": "O canto do cisne negro, W122, 123"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/L%27oiseau,_W062_(Villa-Lobos,_Heitor)",
-      "year": 1913,
-      "title": "L'oiseau, W062"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ondulando,_W082_(Villa-Lobos,_Heitor)",
-      "year": 1914,
-      "title": "Ondulando, W082"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Pequena_su%C3%ADte,_W064_(Villa-Lobos,_Heitor)",
-      "year": 1913,
-      "title": "Pequena su\u00edte, W064"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Petizada,_W048_(Villa-Lobos,_Heitor)",
-      "year": 1912,
-      "title": "Petizada, W048"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.1,_W453_(Villa-Lobos,_Heitor)",
-      "year": 1945,
-      "title": "Piano Concerto No.1, W453"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.2,_W487_(Villa-Lobos,_Heitor)",
-      "year": 1948,
-      "title": "Piano Concerto No.2, W487"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.3,_W512_(Villa-Lobos,_Heitor)",
-      "year": 1952,
-      "title": "Piano Concerto No.3, W512"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.4,_W505_(Villa-Lobos,_Heitor)",
-      "year": 1952,
-      "title": "Piano Concerto No.4, W505"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.5,_W521_(Villa-Lobos,_Heitor)",
-      "year": 1954,
-      "title": "Piano Concerto No.5, W521"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.2,_W105_(Villa-Lobos,_Heitor)",
-      "year": 1915,
-      "title": "Piano Trio No.2, W105"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Poema_singelo,_W434_(Villa-Lobos,_Heitor)",
-      "year": 1942,
-      "title": "Poema singelo, W434"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Poemas_ind%C3%ADgenas,_W223,_224_(Villa-Lobos,_Heitor)",
-      "year": 1926,
-      "title": "3 Poemas ind\u00edgenas, W223, 224"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Preludes,_W419_(Villa-Lobos,_Heitor)",
-      "year": 1940,
-      "title": "Preludes, W419"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/A_prole_do_beb%C3%AA_No.1,_W140_(Villa-Lobos,_Heitor)",
-      "year": 1918,
-      "title": "A prole do beb\u00ea No.1, W140"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/A_prole_do_beb%C3%AA_No.2,_W180_(Villa-Lobos,_Heitor)",
-      "year": 1921,
-      "title": "A prole do beb\u00ea No.2, W180"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Quartet_for_Flute,_Oboe,_Clarinet_and_Bassoon,_W230_(Villa-Lobos,_Heitor)",
-      "year": 1928,
-      "title": "Quartet for Flute, Oboe, Clarinet and Bassoon, W230"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Quinteto_em_forma_de_ch%C3%B4ros,_W231_(Villa-Lobos,_Heitor)",
-      "year": 1928,
-      "title": "Quinteto em forma de ch\u00f4ros, W231"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Quinteto_instrumental,_W538_(Villa-Lobos,_Heitor)",
-      "year": 1957,
-      "title": "Quinteto instrumental, W538"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Rudepoema,_W184,_310_(Villa-Lobos,_Heitor)",
-      "year": 1921,
-      "title": "Rudepoema, W184, 310"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Samba_cl%C3%A1ssico,_W497,_498_(Villa-Lobos,_Heitor)",
-      "year": 1950,
-      "title": "Samba cl\u00e1ssico, W497, 498"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Saudades_das_selvas_brasileiras,_W226_(Villa-Lobos,_Heitor)",
-      "year": 1927,
-      "title": "Saudades das selvas brasileiras, W226"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Serestas,_W216_(Villa-Lobos,_Heitor)",
-      "year": 1925,
-      "title": "Serestas, W216"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Sete_vezes,_W557-558_(Villa-Lobos,_Heitor)",
-      "year": 1959,
-      "title": "Sete vezes, W557-558"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Sexteto_m%C3%ADstico,_W131_(Villa-Lobos,_Heitor)",
-      "year": 1917,
-      "title": "Sexteto m\u00edstico, W131"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Simples_colet%C3%A2nea,_W134_(Villa-Lobos,_Heitor)",
-      "year": 1917,
-      "title": "Simples colet\u00e2nea, W134"
-    },
-    {
+      "title": "Simples, W040",
       "imslp_url": "https://imslp.org/wiki/Simples,_W040_(Villa-Lobos,_Heitor)",
-      "year": 1911,
-      "title": "Simples, W040"
+      "year": 1911
     },
     {
+      "title": "Brinquedo de roda, W045",
+      "imslp_url": "https://imslp.org/wiki/Brinquedo_de_roda,_W045_(Villa-Lobos,_Heitor)",
+      "year": 1912
+    },
+    {
+      "title": "Miniaturas, W056",
+      "imslp_url": "https://imslp.org/wiki/Miniaturas,_W056_(Villa-Lobos,_Heitor)",
+      "year": 1912
+    },
+    {
+      "title": "Petizada, W048",
+      "imslp_url": "https://imslp.org/wiki/Petizada,_W048_(Villa-Lobos,_Heitor)",
+      "year": 1912
+    },
+    {
+      "title": "Sonata fantasia No.1, W051",
       "imslp_url": "https://imslp.org/wiki/Sonata_fantasia_No.1,_W051_(Villa-Lobos,_Heitor)",
-      "year": 1912,
-      "title": "Sonata fantasia No.1, W051"
+      "year": 1912
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1,_W099_(Villa-Lobos,_Heitor)",
-      "year": 1946,
-      "title": "String Quartet No.1, W099"
+      "title": "Su\u00edte infantil No.1, W053",
+      "imslp_url": "https://imslp.org/wiki/Su\u00edte_infantil_No.1,_W053_(Villa-Lobos,_Heitor)",
+      "year": 1912
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2,_W100_(Villa-Lobos,_Heitor)",
-      "year": 1915,
-      "title": "String Quartet No.2, W100"
+      "title": "L'oiseau, W062",
+      "imslp_url": "https://imslp.org/wiki/L'oiseau,_W062_(Villa-Lobos,_Heitor)",
+      "year": 1913
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.3,_W112_(Villa-Lobos,_Heitor)",
-      "year": 1916,
-      "title": "String Quartet No.3, W112"
+      "title": "Louco, W060",
+      "imslp_url": "https://imslp.org/wiki/Louco,_W060_(Villa-Lobos,_Heitor)",
+      "year": 1913
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.4,_W129_(Villa-Lobos,_Heitor)",
-      "year": 1917,
-      "title": "String Quartet No.4, W129"
+      "title": "Pequena su\u00edte, W064",
+      "imslp_url": "https://imslp.org/wiki/Pequena_su\u00edte,_W064_(Villa-Lobos,_Heitor)",
+      "year": 1913
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.5,_W263_(Villa-Lobos,_Heitor)",
-      "year": 1931,
-      "title": "String Quartet No.5, W263"
+      "title": "Su\u00edte infantil No.2, W067",
+      "imslp_url": "https://imslp.org/wiki/Su\u00edte_infantil_No.2,_W067_(Villa-Lobos,_Heitor)",
+      "year": 1913
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.6,_W399_(Villa-Lobos,_Heitor)",
-      "year": 1938,
-      "title": "String Quartet No.6, W399"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.7,_W435_(Villa-Lobos,_Heitor)",
-      "year": 1942,
-      "title": "String Quartet No.7, W435"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.8,_W446_(Villa-Lobos,_Heitor)",
-      "year": 1944,
-      "title": "String Quartet No.8, W446"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.9,_W457_(Villa-Lobos,_Heitor)",
-      "year": 1945,
-      "title": "String Quartet No.9, W457"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.10,_W468_(Villa-Lobos,_Heitor)",
-      "year": 1946,
-      "title": "String Quartet No.10, W468"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.11,_W481_(Villa-Lobos,_Heitor)",
-      "year": 1947,
-      "title": "String Quartet No.11, W481"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.12,_W496_(Villa-Lobos,_Heitor)",
-      "year": 1950,
-      "title": "String Quartet No.12, W496"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.13,_W503_(Villa-Lobos,_Heitor)",
-      "year": 1951,
-      "title": "String Quartet No.13, W503"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.14,_W519_(Villa-Lobos,_Heitor)",
-      "year": 1953,
-      "title": "String Quartet No.14, W519"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.15,_W523_(Villa-Lobos,_Heitor)",
-      "year": 1954,
-      "title": "String Quartet No.15, W523"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.16,_W526_(Villa-Lobos,_Heitor)",
-      "year": 1955,
-      "title": "String Quartet No.16, W526"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.17,_W537_(Villa-Lobos,_Heitor)",
-      "year": 1957,
-      "title": "String Quartet No.17, W537"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Trio,_W460_(Villa-Lobos,_Heitor)",
-      "year": 1945,
-      "title": "String Trio, W460"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Su%C3%ADte_floral,_W117_(Villa-Lobos,_Heitor)",
-      "year": 1916,
-      "title": "Su\u00edte floral, W117"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Suite_for_Voice_and_Violin,_W195_(Villa-Lobos,_Heitor)",
-      "year": 1923,
-      "title": "Suite for Voice and Violin, W195"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Su%C3%ADte_infantil_No.1,_W053_(Villa-Lobos,_Heitor)",
-      "year": 1912,
-      "title": "Su\u00edte infantil No.1, W053"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Su%C3%ADte_infantil_No.2,_W067_(Villa-Lobos,_Heitor)",
-      "year": 1913,
-      "title": "Su\u00edte infantil No.2, W067"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Suite_populaire_br%C3%A9silienne,_W020_(Villa-Lobos,_Heitor)",
-      "year": 1908,
-      "title": "Suite populaire br\u00e9silienne, W020"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Sul_Am%C3%A9rica,_W217_(Villa-Lobos,_Heitor)",
-      "year": 1925,
-      "title": "Sul Am\u00e9rica, W217"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/As_tr%C3%AAs_Marias,_W411_(Villa-Lobos,_Heitor)",
-      "year": 1939,
-      "title": "As tr\u00eas Marias, W411"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Trio_for_Oboe,_Clarinet_and_Bassoon,_W182_(Villa-Lobos,_Heitor)",
-      "year": 1921,
-      "title": "Trio for Oboe, Clarinet and Bassoon, W182"
-    },
-    {
+      "title": "Trio, W069",
       "imslp_url": "https://imslp.org/wiki/Trio,_W069_(Villa-Lobos,_Heitor)",
-      "year": 1913,
-      "title": "Trio, W069"
+      "year": 1913
     },
     {
+      "title": "Dan\u00e7as caracter\u00edsticas africanas, W085",
+      "imslp_url": "https://imslp.org/wiki/Dan\u00e7as_caracter\u00edsticas_africanas,_W085_(Villa-Lobos,_Heitor)",
+      "year": 1914
+    },
+    {
+      "title": "F\u00e1bulas caracter\u00edsticas, W076",
+      "imslp_url": "https://imslp.org/wiki/F\u00e1bulas_caracter\u00edsticas,_W076_(Villa-Lobos,_Heitor)",
+      "year": 1914
+    },
+    {
+      "title": "Les m\u00e8res, W080",
+      "imslp_url": "https://imslp.org/wiki/Les_m\u00e8res,_W080_(Villa-Lobos,_Heitor)",
+      "year": 1914
+    },
+    {
+      "title": "Ondulando, W082",
+      "imslp_url": "https://imslp.org/wiki/Ondulando,_W082_(Villa-Lobos,_Heitor)",
+      "year": 1914
+    },
+    {
+      "title": "Improviso No.7, W096",
+      "imslp_url": "https://imslp.org/wiki/Improviso_No.7,_W096_(Villa-Lobos,_Heitor)",
+      "year": 1915
+    },
+    {
+      "title": "Piano Trio No.2, W105",
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.2,_W105_(Villa-Lobos,_Heitor)",
+      "year": 1915
+    },
+    {
+      "title": "String Quartet No.2, W100",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2,_W100_(Villa-Lobos,_Heitor)",
+      "year": 1915
+    },
+    {
+      "title": "\u00c9l\u00e9gie, W094",
+      "imslp_url": "https://imslp.org/wiki/\u00c9l\u00e9gie,_W094_(Villa-Lobos,_Heitor)",
+      "year": 1915
+    },
+    {
+      "title": "String Quartet No.3, W112",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.3,_W112_(Villa-Lobos,_Heitor)",
+      "year": 1916
+    },
+    {
+      "title": "Su\u00edte floral, W117",
+      "imslp_url": "https://imslp.org/wiki/Su\u00edte_floral,_W117_(Villa-Lobos,_Heitor)",
+      "year": 1916
+    },
+    {
+      "title": "Amazonas, W118, 119",
+      "imslp_url": "https://imslp.org/wiki/Amazonas,_W118,_119_(Villa-Lobos,_Heitor)",
+      "year": 1917
+    },
+    {
+      "title": "O canto do cisne negro, W122, 123",
+      "imslp_url": "https://imslp.org/wiki/O_canto_do_cisne_negro,_W122,_123_(Villa-Lobos,_Heitor)",
+      "year": 1917
+    },
+    {
+      "title": "Sexteto m\u00edstico, W131",
+      "imslp_url": "https://imslp.org/wiki/Sexteto_m\u00edstico,_W131_(Villa-Lobos,_Heitor)",
+      "year": 1917
+    },
+    {
+      "title": "Simples colet\u00e2nea, W134",
+      "imslp_url": "https://imslp.org/wiki/Simples_colet\u00e2nea,_W134_(Villa-Lobos,_Heitor)",
+      "year": 1917
+    },
+    {
+      "title": "String Quartet No.4, W129",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.4,_W129_(Villa-Lobos,_Heitor)",
+      "year": 1917
+    },
+    {
+      "title": "Uirapuru, W133",
       "imslp_url": "https://imslp.org/wiki/Uirapuru,_W133_(Villa-Lobos,_Heitor)",
-      "year": 1917,
-      "title": "Uirapuru, W133"
+      "year": 1917
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Valsa_da_dor,_W316_(Villa-Lobos,_Heitor)",
-      "year": 1932,
-      "title": "Valsa da dor, W316"
+      "title": "A prole do beb\u00ea No.1, W140",
+      "imslp_url": "https://imslp.org/wiki/A_prole_do_beb\u00ea_No.1,_W140_(Villa-Lobos,_Heitor)",
+      "year": 1918
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Guia_pr%C3%A1tico_(piano),_W277-284,_358,_359,_473_(Villa-Lobos,_Heitor)",
-      "year": 1932,
-      "title": "Guia pr\u00e1tico"
+      "title": "Amor y perfidia, W135",
+      "imslp_url": "https://imslp.org/wiki/Amor_y_perfidia,_W135_(Villa-Lobos,_Heitor)",
+      "year": 1918
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Guia_pr%C3%A1tico,_W276_(Villa-Lobos,_Heitor)",
-      "year": 1932,
-      "title": "Guia pr\u00e1tico, W276"
+      "title": "Can\u00e7\u00f5es t\u00edpicas brasileiras, W158",
+      "imslp_url": "https://imslp.org/wiki/Can\u00e7\u00f5es_t\u00edpicas_brasileiras,_W158_(Villa-Lobos,_Heitor)",
+      "year": 1919
     },
     {
+      "title": "Carnaval das crian\u00e7as, W157",
+      "imslp_url": "https://imslp.org/wiki/Carnaval_das_crian\u00e7as,_W157_(Villa-Lobos,_Heitor)",
+      "year": 1919
+    },
+    {
+      "title": "Hist\u00f3rias da carochinha, W148",
+      "imslp_url": "https://imslp.org/wiki/Hist\u00f3rias_da_carochinha,_W148_(Villa-Lobos,_Heitor)",
+      "year": 1919
+    },
+    {
+      "title": "Bailado infernal, W160",
+      "imslp_url": "https://imslp.org/wiki/Bailado_infernal,_W160_(Villa-Lobos,_Heitor)",
+      "year": 1920
+    },
+    {
+      "title": "Ch\u00f4ros No.1, W161",
+      "imslp_url": "https://imslp.org/wiki/Ch\u00f4ros_No.1,_W161_(Villa-Lobos,_Heitor)",
+      "year": 1920
+    },
+    {
+      "title": "A fiandeira, W176",
+      "imslp_url": "https://imslp.org/wiki/A_fiandeira,_W176_(Villa-Lobos,_Heitor)",
+      "year": 1921
+    },
+    {
+      "title": "A lenda do caboclo, W166, 188",
+      "imslp_url": "https://imslp.org/wiki/A_lenda_do_caboclo,_W166,_188_(Villa-Lobos,_Heitor)",
+      "year": 1921
+    },
+    {
+      "title": "A prole do beb\u00ea No.2, W180",
+      "imslp_url": "https://imslp.org/wiki/A_prole_do_beb\u00ea_No.2,_W180_(Villa-Lobos,_Heitor)",
+      "year": 1921
+    },
+    {
+      "title": "Epigramas ironicos e sentimentais, W183",
+      "imslp_url": "https://imslp.org/wiki/Epigramas_ironicos_e_sentimentais,_W183_(Villa-Lobos,_Heitor)",
+      "year": 1921
+    },
+    {
+      "title": "Rudepoema, W184, 310",
+      "imslp_url": "https://imslp.org/wiki/Rudepoema,_W184,_310_(Villa-Lobos,_Heitor)",
+      "year": 1921
+    },
+    {
+      "title": "Trio for Oboe, Clarinet and Bassoon, W182",
+      "imslp_url": "https://imslp.org/wiki/Trio_for_Oboe,_Clarinet_and_Bassoon,_W182_(Villa-Lobos,_Heitor)",
+      "year": 1921
+    },
+    {
+      "title": "Noneto, W191",
+      "imslp_url": "https://imslp.org/wiki/Noneto,_W191_(Villa-Lobos,_Heitor)",
+      "year": 1923
+    },
+    {
+      "title": "Suite for Voice and Violin, W195",
+      "imslp_url": "https://imslp.org/wiki/Suite_for_Voice_and_Violin,_W195_(Villa-Lobos,_Heitor)",
+      "year": 1923
+    },
+    {
+      "title": "Ch\u00f4ros No.2, W197, 198",
+      "imslp_url": "https://imslp.org/wiki/Ch\u00f4ros_No.2,_W197,_198_(Villa-Lobos,_Heitor)",
+      "year": 1924
+    },
+    {
+      "title": "Ch\u00f4ros No.7, W199",
+      "imslp_url": "https://imslp.org/wiki/Ch\u00f4ros_No.7,_W199_(Villa-Lobos,_Heitor)",
+      "year": 1924
+    },
+    {
+      "title": "Ch\u00f4ros No.3, W206",
+      "imslp_url": "https://imslp.org/wiki/Ch\u00f4ros_No.3,_W206_(Villa-Lobos,_Heitor)",
+      "year": 1925
+    },
+    {
+      "title": "Ch\u00f4ros No.5, W207",
+      "imslp_url": "https://imslp.org/wiki/Ch\u00f4ros_No.5,_W207_(Villa-Lobos,_Heitor)",
+      "year": 1925
+    },
+    {
+      "title": "Ch\u00f4ros No.8, W208",
+      "imslp_url": "https://imslp.org/wiki/Ch\u00f4ros_No.8,_W208_(Villa-Lobos,_Heitor)",
+      "year": 1925
+    },
+    {
+      "title": "Cirandinhas, W210",
+      "imslp_url": "https://imslp.org/wiki/Cirandinhas,_W210_(Villa-Lobos,_Heitor)",
+      "year": 1925
+    },
+    {
+      "title": "Serestas, W216",
+      "imslp_url": "https://imslp.org/wiki/Serestas,_W216_(Villa-Lobos,_Heitor)",
+      "year": 1925
+    },
+    {
+      "title": "Sul Am\u00e9rica, W217",
+      "imslp_url": "https://imslp.org/wiki/Sul_Am\u00e9rica,_W217_(Villa-Lobos,_Heitor)",
+      "year": 1925
+    },
+    {
+      "title": "3 Poemas ind\u00edgenas, W223, 224",
+      "imslp_url": "https://imslp.org/wiki/3_Poemas_ind\u00edgenas,_W223,_224_(Villa-Lobos,_Heitor)",
+      "year": 1926
+    },
+    {
+      "title": "Ch\u00f4ros No.10, W209",
+      "imslp_url": "https://imslp.org/wiki/Ch\u00f4ros_No.10,_W209_(Villa-Lobos,_Heitor)",
+      "year": 1926
+    },
+    {
+      "title": "Ch\u00f4ros No.4, W218",
+      "imslp_url": "https://imslp.org/wiki/Ch\u00f4ros_No.4,_W218_(Villa-Lobos,_Heitor)",
+      "year": 1926
+    },
+    {
+      "title": "Ch\u00f4ros No.6, W219",
+      "imslp_url": "https://imslp.org/wiki/Ch\u00f4ros_No.6,_W219_(Villa-Lobos,_Heitor)",
+      "year": 1926
+    },
+    {
+      "title": "Cirandas, W220",
+      "imslp_url": "https://imslp.org/wiki/Cirandas,_W220_(Villa-Lobos,_Heitor)",
+      "year": 1926
+    },
+    {
+      "title": "Saudades das selvas brasileiras, W226",
+      "imslp_url": "https://imslp.org/wiki/Saudades_das_selvas_brasileiras,_W226_(Villa-Lobos,_Heitor)",
+      "year": 1927
+    },
+    {
+      "title": "12 Estudos, W235",
+      "imslp_url": "https://imslp.org/wiki/12_Estudos,_W235_(Villa-Lobos,_Heitor)",
+      "year": 1928
+    },
+    {
+      "title": "2 Ch\u00f4ros bis, W227",
+      "imslp_url": "https://imslp.org/wiki/2_Ch\u00f4ros_bis,_W227_(Villa-Lobos,_Heitor)",
+      "year": 1928
+    },
+    {
+      "title": "Quartet for Flute, Oboe, Clarinet and Bassoon, W230",
+      "imslp_url": "https://imslp.org/wiki/Quartet_for_Flute,_Oboe,_Clarinet_and_Bassoon,_W230_(Villa-Lobos,_Heitor)",
+      "year": 1928
+    },
+    {
+      "title": "Quinteto em forma de ch\u00f4ros, W231",
+      "imslp_url": "https://imslp.org/wiki/Quinteto_em_forma_de_ch\u00f4ros,_W231_(Villa-Lobos,_Heitor)",
+      "year": 1928
+    },
+    {
+      "title": "Ch\u00f4ros No.9, W232",
+      "imslp_url": "https://imslp.org/wiki/Ch\u00f4ros_No.9,_W232_(Villa-Lobos,_Heitor)",
+      "year": 1929
+    },
+    {
+      "title": "Francette et Pi\u00e0, W237, 552",
+      "imslp_url": "https://imslp.org/wiki/Francette_et_Pi\u00e0,_W237,_552_(Villa-Lobos,_Heitor)",
+      "year": 1929
+    },
+    {
+      "title": "Momoprecoce, W240, 259",
+      "imslp_url": "https://imslp.org/wiki/Momoprecoce,_W240,_259_(Villa-Lobos,_Heitor)",
+      "year": 1929
+    },
+    {
+      "title": "Bachianas brasileiras No.1, W246",
+      "imslp_url": "https://imslp.org/wiki/Bachianas_brasileiras_No.1,_W246_(Villa-Lobos,_Heitor)",
+      "year": 1930
+    },
+    {
+      "title": "Bachianas brasileiras No.2, W247, 250-252, 254, 568, 569",
       "imslp_url": "https://imslp.org/wiki/Bachianas_brasileiras_No.2,_W247,_250-252,_254,_568,_569_(Villa-Lobos,_Heitor)",
-      "year": 1930,
-      "title": "Bachianas brasileiras No.2, W247, 250-252, 254, 568, 569"
+      "year": 1930
     },
     {
+      "title": "Bachianas brasileiras No.4, W264, 424",
+      "imslp_url": "https://imslp.org/wiki/Bachianas_brasileiras_No.4,_W264,_424_(Villa-Lobos,_Heitor)",
+      "year": 1930
+    },
+    {
+      "title": "Caixinha de m\u00fasica quebrada, W256",
+      "imslp_url": "https://imslp.org/wiki/Caixinha_de_m\u00fasica_quebrada,_W256_(Villa-Lobos,_Heitor)",
+      "year": 1931
+    },
+    {
+      "title": "String Quartet No.5, W263",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.5,_W263_(Villa-Lobos,_Heitor)",
+      "year": 1931
+    },
+    {
+      "title": "Valsa da dor, W316",
+      "imslp_url": "https://imslp.org/wiki/Valsa_da_dor,_W316_(Villa-Lobos,_Heitor)",
+      "year": 1932
+    },
+    {
+      "title": "Ciranda das sete notas, W325",
+      "imslp_url": "https://imslp.org/wiki/Ciranda_das_sete_notas,_W325_(Villa-Lobos,_Heitor)",
+      "year": 1933
+    },
+    {
+      "title": "Modinhas e can\u00e7\u00f5es, W365, 406",
+      "imslp_url": "https://imslp.org/wiki/Modinhas_e_can\u00e7\u00f5es,_W365,_406_(Villa-Lobos,_Heitor)",
+      "year": 1935
+    },
+    {
+      "title": "Ciclo brasileiro, W374",
+      "imslp_url": "https://imslp.org/wiki/Ciclo_brasileiro,_W374_(Villa-Lobos,_Heitor)",
+      "year": 1936
+    },
+    {
+      "title": "Bachianas brasileiras No.3, W388",
+      "imslp_url": "https://imslp.org/wiki/Bachianas_brasileiras_No.3,_W388_(Villa-Lobos,_Heitor)",
+      "year": 1938
+    },
+    {
+      "title": "Bachianas brasileiras No.5, W389-391",
       "imslp_url": "https://imslp.org/wiki/Bachianas_brasileiras_No.5,_W389-391_(Villa-Lobos,_Heitor)",
-      "year": 1938,
-      "title": "Bachianas brasileiras No.5, W389-391"
+      "year": 1938
     },
     {
+      "title": "Bachianas brasileiras No.6, W392",
+      "imslp_url": "https://imslp.org/wiki/Bachianas_brasileiras_No.6,_W392_(Villa-Lobos,_Heitor)",
+      "year": 1938
+    },
+    {
+      "title": "String Quartet No.6, W399",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.6,_W399_(Villa-Lobos,_Heitor)",
+      "year": 1938
+    },
+    {
+      "title": "As tr\u00eas Marias, W411",
+      "imslp_url": "https://imslp.org/wiki/As_tr\u00eas_Marias,_W411_(Villa-Lobos,_Heitor)",
+      "year": 1939
+    },
+    {
+      "title": "New York Skyline Melody, W407, 408",
+      "imslp_url": "https://imslp.org/wiki/New_York_Skyline_Melody,_W407,_408_(Villa-Lobos,_Heitor)",
+      "year": 1939
+    },
+    {
+      "title": "Mandu-\u00c7arar\u00e1, W417, 418",
+      "imslp_url": "https://imslp.org/wiki/Mandu-\u00c7arar\u00e1,_W417,_418_(Villa-Lobos,_Heitor)",
+      "year": 1940
+    },
+    {
+      "title": "Preludes, W419",
+      "imslp_url": "https://imslp.org/wiki/Preludes,_W419_(Villa-Lobos,_Heitor)",
+      "year": 1940
+    },
+    {
+      "title": "Bachianas brasileiras No.7, W432",
+      "imslp_url": "https://imslp.org/wiki/Bachianas_brasileiras_No.7,_W432_(Villa-Lobos,_Heitor)",
+      "year": 1942
+    },
+    {
+      "title": "Poema singelo, W434",
+      "imslp_url": "https://imslp.org/wiki/Poema_singelo,_W434_(Villa-Lobos,_Heitor)",
+      "year": 1942
+    },
+    {
+      "title": "String Quartet No.7, W435",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.7,_W435_(Villa-Lobos,_Heitor)",
+      "year": 1942
+    },
+    {
+      "title": "Bachianas brasileiras No.8, W444",
+      "imslp_url": "https://imslp.org/wiki/Bachianas_brasileiras_No.8,_W444_(Villa-Lobos,_Heitor)",
+      "year": 1944
+    },
+    {
+      "title": "String Quartet No.8, W446",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.8,_W446_(Villa-Lobos,_Heitor)",
+      "year": 1944
+    },
+    {
+      "title": "Bachianas brasileiras No.9, W449",
       "imslp_url": "https://imslp.org/wiki/Bachianas_brasileiras_No.9,_W449_(Villa-Lobos,_Heitor)",
-      "year": 1945,
-      "title": "Bachianas brasileiras No.9, W449"
+      "year": 1945
+    },
+    {
+      "title": "Fantasia for Cello and Orchestra, W454",
+      "imslp_url": "https://imslp.org/wiki/Fantasia_for_Cello_and_Orchestra,_W454_(Villa-Lobos,_Heitor)",
+      "year": 1945
+    },
+    {
+      "title": "Piano Concerto No.1, W453",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.1,_W453_(Villa-Lobos,_Heitor)",
+      "year": 1945
+    },
+    {
+      "title": "String Quartet No.9, W457",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.9,_W457_(Villa-Lobos,_Heitor)",
+      "year": 1945
+    },
+    {
+      "title": "String Trio, W460",
+      "imslp_url": "https://imslp.org/wiki/String_Trio,_W460_(Villa-Lobos,_Heitor)",
+      "year": 1945
+    },
+    {
+      "title": "String Quartet No.1, W099",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1,_W099_(Villa-Lobos,_Heitor)",
+      "year": 1946
+    },
+    {
+      "title": "String Quartet No.10, W468",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.10,_W468_(Villa-Lobos,_Heitor)",
+      "year": 1946
+    },
+    {
+      "title": "Hommage \u00e0 Chopin, W474",
+      "imslp_url": "https://imslp.org/wiki/Hommage_\u00e0_Chopin,_W474_(Villa-Lobos,_Heitor)",
+      "year": 1947
+    },
+    {
+      "title": "String Quartet No.11, W481",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.11,_W481_(Villa-Lobos,_Heitor)",
+      "year": 1947
+    },
+    {
+      "title": "Fantasia para saxophone, W490",
+      "imslp_url": "https://imslp.org/wiki/Fantasia_para_saxophone,_W490_(Villa-Lobos,_Heitor)",
+      "year": 1948
+    },
+    {
+      "title": "Piano Concerto No.2, W487",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.2,_W487_(Villa-Lobos,_Heitor)",
+      "year": 1948
+    },
+    {
+      "title": "Assobio a Jato, W493",
+      "imslp_url": "https://imslp.org/wiki/Assobio_a_Jato,_W493_(Villa-Lobos,_Heitor)",
+      "year": 1950
+    },
+    {
+      "title": "Eros\u00e3o, W495",
+      "imslp_url": "https://imslp.org/wiki/Eros\u00e3o,_W495_(Villa-Lobos,_Heitor)",
+      "year": 1950
+    },
+    {
+      "title": "Samba cl\u00e1ssico, W497, 498",
+      "imslp_url": "https://imslp.org/wiki/Samba_cl\u00e1ssico,_W497,_498_(Villa-Lobos,_Heitor)",
+      "year": 1950
+    },
+    {
+      "title": "String Quartet No.12, W496",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.12,_W496_(Villa-Lobos,_Heitor)",
+      "year": 1950
+    },
+    {
+      "title": "Guitar Concerto, W501, 502",
+      "imslp_url": "https://imslp.org/wiki/Guitar_Concerto,_W501,_502_(Villa-Lobos,_Heitor)",
+      "year": 1951
+    },
+    {
+      "title": "String Quartet No.13, W503",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.13,_W503_(Villa-Lobos,_Heitor)",
+      "year": 1951
+    },
+    {
+      "title": "Piano Concerto No.3, W512",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.3,_W512_(Villa-Lobos,_Heitor)",
+      "year": 1952
+    },
+    {
+      "title": "Piano Concerto No.4, W505",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.4,_W505_(Villa-Lobos,_Heitor)",
+      "year": 1952
+    },
+    {
+      "title": "Alvorada na floresta tropical, W513",
+      "imslp_url": "https://imslp.org/wiki/Alvorada_na_floresta_tropical,_W513_(Villa-Lobos,_Heitor)",
+      "year": 1953
+    },
+    {
+      "title": "String Quartet No.14, W519",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.14,_W519_(Villa-Lobos,_Heitor)",
+      "year": 1953
+    },
+    {
+      "title": "Piano Concerto No.5, W521",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.5,_W521_(Villa-Lobos,_Heitor)",
+      "year": 1954
+    },
+    {
+      "title": "String Quartet No.15, W523",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.15,_W523_(Villa-Lobos,_Heitor)",
+      "year": 1954
+    },
+    {
+      "title": "Harmonica Concerto, W524",
+      "imslp_url": "https://imslp.org/wiki/Harmonica_Concerto,_W524_(Villa-Lobos,_Heitor)",
+      "year": 1955
+    },
+    {
+      "title": "String Quartet No.16, W526",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.16,_W526_(Villa-Lobos,_Heitor)",
+      "year": 1955
+    },
+    {
+      "title": "Duo for Oboe and Bassoon, W535",
+      "imslp_url": "https://imslp.org/wiki/Duo_for_Oboe_and_Bassoon,_W535_(Villa-Lobos,_Heitor)",
+      "year": 1957
+    },
+    {
+      "title": "Quinteto instrumental, W538",
+      "imslp_url": "https://imslp.org/wiki/Quinteto_instrumental,_W538_(Villa-Lobos,_Heitor)",
+      "year": 1957
+    },
+    {
+      "title": "String Quartet No.17, W537",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.17,_W537_(Villa-Lobos,_Heitor)",
+      "year": 1957
+    },
+    {
+      "title": "Bendita sabedoria, W543",
+      "imslp_url": "https://imslp.org/wiki/Bendita_sabedoria,_W543_(Villa-Lobos,_Heitor)",
+      "year": 1958
+    },
+    {
+      "title": "Modinhas e can\u00e7\u00f5es, W441, 563",
+      "imslp_url": "https://imslp.org/wiki/Modinhas_e_can\u00e7\u00f5es,_W441,_563_(Villa-Lobos,_Heitor)",
+      "year": 1958
+    },
+    {
+      "title": "Sete vezes, W557-558",
+      "imslp_url": "https://imslp.org/wiki/Sete_vezes,_W557-558_(Villa-Lobos,_Heitor)",
+      "year": 1959
     }
   ]
 }

@@ -1,548 +1,375 @@
 {
   "full_name": "Richard Wagner",
-  "first_names": "Richard",
+  "first_names": "Wilhelm Richard",
   "last_name": "Wagner",
   "birth_year": 1813,
   "death_year": 1883,
   "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_Wagner",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Born in Leipzig, Wagner entered the world as the ninth child in a family that surely didn't have a shortage of drama. His debut coincided with the equally dramatic departure of his father, who left this earthly realm just six months later. Talk about a dramatic entrance!",
+      "section": "Biography",
+      "title": "Birth",
+      "summary": "Richard Wagner was born on 22 May 1813 in Leipzig to an ethnic German family. His father passed away six months after his birth, which marked the beginning of a tumultuous childhood.",
       "year": 1813,
-      "city": "Leipzig",
-      "country": "Germany"
+      "location": "Leipzig",
+      "emoji": "\ud83d\udc76",
+      "fun_version": "Richard Wagner was born on May 22, 1813, in Leipzig\u2014meaning he was likely coming out of the womb while composing his first symphony! Unfortunately, his father decided to exit stage left just six months in, setting the stage for a dramatic childhood."
     },
     {
-      "event": "First Opera",
-      "summary": "At the tender age of 20, Wagner composed his first complete opera, Die Feen. This piece was so ahead of its time that it had to wait half a century to see the light of day. It's like the opera equivalent of being put on the shelf until it gets trendy again!",
+      "section": "Biography",
+      "title": "First Music Lessons",
+      "summary": "During his early years, Wagner received some piano instruction at Pastor Wetzel's school and later at Kreuzschule. He began to develop his passion for music during this time, influenced by Geyer, his stepfather.",
+      "year": 1820,
+      "location": "Dresden",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Once upon a time, a young lad named Wagner received some piano instruction at Pastor Wetzel's school, dabbling in the ivories like a pro-in-training. It was like a music boot camp but without the camouflage! His stepdad Geyer was there, cheering him on and hoping he wouldn't just play 'Chopsticks' on repeat, while Wagner was secretly developing a passion for music!"
+    },
+    {
+      "section": "Biography",
+      "title": "Enrolled at Leipzig University",
+      "summary": "In 1831, Wagner enrolled at Leipzig University, joining a student fraternity and taking composition lessons with Theodor Weinlig, showcasing his exceptional musical talent.",
+      "year": 1831,
+      "location": "Leipzig",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "In 1831, Wagner enrolled at Leipzig University, joined a student fraternity, and took composition lessons with Theodor Weinlig, who recognized his exceptional musical talent."
+    },
+    {
+      "section": "Biography",
+      "title": "First Complete Opera",
+      "summary": "At the age of 20 in 1833, Wagner composed his first complete opera, Die Feen (The Fairies), though it remained unproduced until much later.",
       "year": 1833,
-      "city": "Leipzig",
-      "country": "Germany"
+      "location": "W\u00fcrzburg",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "At the age of 20 in 1833, Wagner composed his first complete opera, \u201cDie Feen\u201d (The Fairies), and his magical fairies were waiting years to hit the stage."
     },
     {
-      "event": "Marriage",
-      "summary": "Wagner married Christine Wilhelmine 'Minna' Planer in Tragheim Church. What should have been a joyous occasion turned out to be the opening act of a tumultuous love story filled with more twists and turns than a soap opera. Spoiler alert: Minna would leave him for another man in just a year!",
+      "section": "Biography",
+      "title": "Marriage to Minna Planer",
+      "summary": "Wagner married Christine Wilhelmine 'Minna' Planer on 24 November 1836. Their marriage was dramatic, marked by infidelity and financial troubles.",
       "year": 1836,
-      "city": "Tragheim",
-      "country": "Germany"
+      "location": "Tragheim Church",
+      "emoji": "\ud83d\udc94",
+      "fun_version": "Wagner married Christine Wilhelmine 'Minna' Planer on November 24, 1836. Their marriage was filled with high drama, marked by infidelity and financial troubles, making them quite the couple!"
     },
     {
-      "event": "Flight from Creditors",
-      "summary": "Wagner's debts became as notorious as his operas, compelling him and Minna to make a dramatic sea escape to London. It was less 'Titanic' and more of a high-seas adventure, with Wagner dreaming up plots for operas amid the chaos of financial woes.",
+      "section": "Biography",
+      "title": "Fleeing from Creditors",
+      "summary": "In 1839, Wagner and Minna fled from Riga to avoid their creditors, embarking on a tumultuous journey that led them to London and ultimately Paris.",
       "year": 1839,
-      "city": "Riga",
-      "country": "Latvia"
+      "location": "Riga",
+      "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f\ud83d\udcb0\u2708\ufe0f",
+      "fun_version": "In 1839, Wagner and Minna fled from Riga to avoid their creditors, sprinting as fast as they could! Their tumultuous journey took them to London and ultimately ended up in Paris!"
     },
     {
-      "event": "Dresden Triumph",
-      "summary": "After moving to Dresden, Wagner's opera Rienzi premiered to acclaim, proving that he could turn his life around faster than a dramatic aria. His newfound success was a sweet symphony, at least until his political activities caused him to flee once more.",
+      "section": "Biography",
+      "title": "Acclaim for Rienzi",
+      "summary": "In 1842, Wagner's opera Rienzi premiered at the Dresden Court Theatre, receiving considerable acclaim and establishing his reputation as a composer.",
       "year": 1842,
-      "city": "Dresden",
-      "country": "Germany"
+      "location": "Dresden",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "In 1842, Wagner's opera Rienzi premiered at the Dresden Court Theatre. The critics raved so much about it that they probably needed a lifeguard to save them from drowning in their own applause! Wagner became so famous, his ego probably needed a seat of its own!"
     },
     {
-      "event": "Exile in Switzerland",
-      "summary": "Following political upheaval, Wagner made a hasty retreat to Switzerland, where his life resembled more of a dramatic exile than the musical haven he'd hoped for. He penned essays about 'Gesamtkunstwerk' while contemplating how to win back his wife and his dignity!",
+      "section": "Biography",
+      "title": "Exile in Switzerland",
+      "summary": "Following his involvement in socialist politics, Wagner was forced into exile in 1849, where he would spend the next twelve years, developing new ideas for his future works.",
       "year": 1849,
-      "city": "Z\u00fcrich",
-      "country": "Switzerland"
+      "location": "Switzerland",
+      "emoji": "\ud83d\udef6",
+      "fun_version": "After dabbling in socialist politics, Wagner was ousted like a bad houseguest in 1849, forced to go into exile where he had a twelve-year spa retreat to brainstorm future masterpieces\u2014working on revolutionary ideas to wow the world!"
     },
     {
-      "event": "Completion of The Ring Cycle",
-      "summary": "After years of toil, Wagner finished composing Der Ring des Nibelungen while still in exile. This four-opera cycle became his magnum opus, proving that sometimes, great art comes from great distress. And what better way to express those feelings than through epic tales of gods and heroes?",
-      "year": 1858,
-      "city": "Z\u00fcrich",
-      "country": "Switzerland"
+      "section": "Biography",
+      "title": "Premiere of Lohengrin",
+      "summary": "After years in exile, Lohengrin premiered under the direction of Franz Liszt in Weimar in August 1850, marking a vital comeback in Wagner's career.",
+      "year": 1850,
+      "location": "Weimar",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "After years of being MIA, Lohengrin finally made a grand entrance under the watchful eye of Franz Liszt in Weimar, August 1850. It was like a dramatic return after a long coffee break \u2013 a comeback that showed Wagner at his best!"
     },
     {
-      "event": "Bayreuth Festspielhaus Opening",
-      "summary": "Wagner finally got his dream opera house built in Bayreuth, making it the Disneyland for opera lovers. The launch of the Bayreuth Festival was such a hit that spectators could almost hear the sounds of applause echoing through history!",
+      "section": "Biography",
+      "title": "Completion of The Ring Cycle",
+      "summary": "Wagner's monumental work, The Ring of the Nibelung, began to take shape after years of writing librettos and composing music inspired by Germanic myths, starting around 1853.",
+      "year": 1853,
+      "location": "Z\u00fcrich",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Wagner's monumental work, The Ring of the Nibelung, began to take shape after years of him scribbling librettos and composing music inspired by Germanic myths, starting around 1853."
+    },
+    {
+      "section": "Biography",
+      "title": "First Bayreuth Festival",
+      "summary": "The Bayreuth Festspielhaus opened on 13 August 1876, premiering the complete Ring cycle and establishing Wagner as a monumental figure in the arts.",
       "year": 1876,
-      "city": "Bayreuth",
-      "country": "Germany"
+      "location": "Bayreuth",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "The Bayreuth Festspielhaus opened on 13 August 1876, like the world's most serious birthday party for classical music, premiering the complete Ring cycle and popping confetti for Wagner, who was suddenly a superstar in the arts."
     },
     {
-      "event": "Finale",
-      "summary": "Wagner's final years were spent wrestling with fame and fortune as he continued to shape the world of music drama. It was as if he decided to host his own prolonged final act on the grand stage of life, leaving audiences both enthralled and exhausted.",
+      "section": "Biography",
+      "title": "Death",
+      "summary": "Wagner died on 13 February 1883 in Venice at the age of 69 from a heart attack, concluding a life filled with music, drama, and controversy.",
       "year": 1883,
-      "city": "Venice",
-      "country": "Italy"
-    },
-    {
-      "event": "Creation of Der Ring des Nibelungen",
-      "summary": "While cooking up his magnum opus, Wagner drafted scenarios and libretto for a cycle of operas that would leave everyone wondering if they were at a concert or in a German mythology seminar.",
-      "year": 1848,
-      "city": "Dresden",
-      "country": "Germany"
-    },
-    {
-      "event": "First public announcement of the Ring cycle",
-      "summary": "In a grand gesture of creativity, Wagner declared he would stop writing so-called 'Operas' and instead create 'Dramas,' thereby raising the bar for melodrama!",
-      "year": 1851,
-      "city": "Z\u00fcrich",
-      "country": "Switzerland"
-    },
-    {
-      "event": "Completion of the libretto for Das Rheingold",
-      "summary": "Between sips of coffee and poetic musings, Wagner finished the libretto for Das Rheingold, marking the start of a new era in his career - the era of epic quests and questionable character motivations!",
-      "year": 1854,
-      "city": "Z\u00fcrich",
-      "country": "Switzerland"
-    },
-    {
-      "event": "First performance of Tristan und Isolde",
-      "summary": "After a long wait, Wagner's heartthrob opera made its debut, but not without hiccups; the premiere delayed twice and then delivered amidst a scandal, proving that even operas can have dramatic openings!",
-      "year": 1865,
-      "city": "Munich",
-      "country": "Germany"
-    },
-    {
-      "event": "Completion of Die Meistersinger von N\u00fcrnberg",
-      "summary": "Wagner dived into comedy with Die Meistersinger, suggesting that maybe a little laughter could help balance out all the heavy drama of the previous years!",
-      "year": 1867,
-      "city": "Bayreuth",
-      "country": "Germany"
-    },
-    {
-      "event": "Foundation of the Bayreuth Festspielhaus",
-      "summary": "Wagner's dream of a festival opera house solidified when he picked a plot of land in Bayreuth \u2014 where the only thing more likely than a good performance was a good time!",
-      "year": 1871,
-      "city": "Bayreuth",
-      "country": "Germany"
-    },
-    {
-      "event": "First complete presentation of the Ring cycle",
-      "summary": "Wagner finally had his day in the sun, with the Ring cycle being presented in its entirety, cementing his legacy while leaving audiences to wonder if they just attended an opera or signed up for a two-day philosophy lecture.",
-      "year": 1876,
-      "city": "Bayreuth",
-      "country": "Germany"
-    },
-    {
-      "event": "Completion of Wahnfried",
-      "summary": "Wagner indulged in some serious home improvement, moving into the grand family residence 'Wahnfried' with Cosima and the kids. He joked that every stone laid was 'red with our blood,' which might explain why they eventually had to call in a cleaning crew.",
-      "year": 1874,
-      "city": "Bayreuth",
-      "country": "Germany"
-    },
-    {
-      "event": "Opening of the Bayreuth Festspielhaus",
-      "summary": "After enduring construction drama that would make any reality show jealous, the Festspielhaus finally opened its doors with the premiere of 'Das Rheingold'. Wagner even managed to attract a crowd that included emperors and composers, which was a bit like inviting royalty to your housewarming party.",
-      "year": 1876,
-      "city": "Bayreuth",
-      "country": "Germany"
-    },
-    {
-      "event": "First Bayreuth Festival",
-      "summary": "The first Bayreuth Festival had critics buzzing\u2014some thought his work was 'divinely composed,' while others claimed it resembled 'the dream of a lunatic.' Wagner, it seems, was happy to be the talk of the town, even if it wasn't all pleasant chit-chat.",
-      "year": 1876,
-      "city": "Bayreuth",
-      "country": "Germany"
-    },
-    {
-      "event": "Completion of Parsifal",
-      "summary": "After four grueling years of work and numerous angina attacks, Wagner completed 'Parsifal'. It was a bit like finishing a massive jigsaw puzzle while dealing with a cranky toddler\u2014satisfying but exhausting!",
-      "year": 1882,
-      "city": "Germany",
-      "country": "Germany"
-    },
-    {
-      "event": "Premiere of Parsifal",
-      "summary": "Wagner's health wasn't great, but he still managed to conduct the final performance of 'Parsifal'. Talk about dedication! He joined the conductor in the pit like a surprise guest at a concert, showcasing not only his genius but his astonishing stamina for drama.",
-      "year": 1882,
-      "city": "Bayreuth",
-      "country": "Germany"
-    },
-    {
-      "event": "Death in Venice",
-      "summary": "Wagner's grand tour ended dramatically\u2014he died of a heart attack while enjoying the Venetian scenery. Some say he simply couldn\u2019t handle the beauty of it all, which is a rather poetic way to go!",
-      "year": 1883,
-      "city": "Venice",
-      "country": "Italy"
-    },
-    {
-      "event": "Completion of G\u00f6tterd\u00e4mmerung",
-      "summary": "After 26 years of intense writing, Wagner finally completed G\u00f6tterd\u00e4mmerung, the last opera in his sprawling Ring Cycle. This monumental effort led to a grand total of about 15 hours of performance, which some might say is Wagner\u2019s way of saying 'Why have a short opera when you can have a saga?'.",
-      "year": 1874,
-      "city": "",
-      "country": ""
-    },
-    {
-      "event": "Ring Cycle Beginnings",
-      "summary": "Wagner began work on his monumental 'Ring Cycle', a piece so grand it could probably take an entire lifetime just to write a single note, let alone the whole thing.",
-      "year": 1848,
-      "city": "Zurich",
-      "country": "Switzerland"
-    },
-    {
-      "event": "Paris Failure",
-      "summary": "Wagner faced a disastrous premiere of 'Tannh\u00e4user' in Paris, where critics savaged his work, demonstrating that not even geniuses are immune to a truly 'Texas Chainsaw Massacre'-style critique.",
-      "year": 1861,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Bayreuth Fest",
-      "summary": "Wagner opened the Bayreuth Festival, transforming it into the musical equivalent of a rock concert, instantly making him a household name among the opera-adoring populace.",
-      "year": 1876,
-      "city": "Bayreuth",
-      "country": "Germany"
-    },
-    {
-      "event": "Last Opera",
-      "summary": "Wagner completed his last opera 'Parsifal', a work that many said was his spiritual culmination, proving that the old adage about life imitating art might actually have some truth to it.",
-      "year": 1882,
-      "city": "Bayreuth",
-      "country": "Germany"
-    },
-    {
-      "event": "Death",
-      "summary": "Wagner passed away, leaving behind a legacy as complicated as his operas, mixing music, emotion, and just a touch of theatrical flair\u2014perfect for the dramatic finale of his life's performance.",
-      "year": 1883,
-      "city": "Venice",
-      "country": "Italy"
-    },
-    {
-      "event": "First opera performance",
-      "summary": "At a young age, Wagner decided to put his composing skills to the test, and voila! The curtain rose on his first opera, proving that he was ready to join the ranks of the melodically inclined. The audience mostly nodded politely, but we're sure they were all secretly impressed.",
-      "year": 1833,
-      "city": "Magdeburg",
-      "country": "Germany"
-    },
-    {
-      "event": "Elopement with Minna Planer",
-      "summary": "In a move that could rival any romantic comedy plot, Wagner eloped with actress Minna Planer, proving that love \u2014 and dramatic flair \u2014 really do conquer all, including the social norms of the time.",
-      "year": 1836,
-      "city": "Saxony",
-      "country": "Germany"
-    },
-    {
-      "event": "The Ring Cycle conception",
-      "summary": "Wagner had a lightbulb moment that would take years to fully materialize: the grand idea of 'The Ring of the Nibelung'. Let's just say it was both an ambitious plan and a very long term commitment, like deciding to build a house but only ever laying the foundation.",
-      "year": 1848,
-      "city": "Zurich",
-      "country": "Switzerland"
-    },
-    {
-      "event": "Debut of Der fliegende Holl\u00e4nder",
-      "summary": "With his confidence soaring, Wagner premiered 'The Flying Dutchman', proving that opera could be both stirring and a little bit spooky. Audience members likely wondered if the ship was heavy on special effects, but were too captivated to care.",
-      "year": 1843,
-      "city": "Dresden",
-      "country": "Germany"
-    },
-    {
-      "event": "Premiere of Tristan und Isolde",
-      "summary": "Wagner's love life and emotional turmoil reached its creative peak with the premiere of 'Tristan und Isolde'. It was so gorgeous and tragic that it had people questioning their own relationship status long after the final curtain fell.",
-      "year": 1865,
-      "city": "Munich",
-      "country": "Germany"
-    },
-    {
-      "event": "Bayreuth Festspielhaus opening",
-      "summary": "Finally realizing his dream of a dedicated opera house, Wagner opened the Bayreuth Festspielhaus. It was the place to be for operatic decadence \u2014 and a few awkward seating arrangements, if we're being honest.",
-      "year": 1876,
-      "city": "Bayreuth",
-      "country": "Germany"
-    },
-    {
-      "event": "Last composition - Parsifal",
-      "summary": "In his twilight years, Wagner composed 'Parsifal', a transcendent piece that wrapped up his operatic legacy like a theatrical bowtie. It left audiences humming and wondering if they\u2019d just attended a concert or a spiritual awakening.",
-      "year": 1882,
-      "city": "Bayreuth",
-      "country": "Germany"
-    },
-    {
-      "event": "Tristan und Isolde Premiere",
-      "summary": "The premiere of 'Tristan und Isolde' was so intense that it left audiences questioning whether to cry or swoon, while Wagner probably just ate his lunch the next day as if nothing happened.",
-      "year": 1865,
-      "city": "Munich",
-      "country": "Germany"
-    },
-    {
-      "event": "Bayreuth Festival Foundation",
-      "summary": "Wagner founded the Bayreuth Festival, giving birth to an annual event where operas are performed in a setting that could only be described as a songwriter's dream - complete with an enthusiastic audience!",
-      "year": 1876,
-      "city": "Bayreuth",
-      "country": "Germany"
-    },
-    {
-      "event": "Final Opera",
-      "summary": "Wagner completed his last opera 'Parsifal', which left critics wondering if he was channeling a knight in shining armor or just someone who really liked long-winded stories about redemption.",
-      "year": 1882,
-      "city": "Bayreuth",
-      "country": "Germany"
+      "location": "Venice",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Wagner kicked the bucket on February 13, 1883, in Venice at the ripe old age of 69, after suffering a heart attack. He lived a life that was a mix of melodrama, music that could make your ears dance, and controversies that could give a soap opera a run for its money!"
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/Albumblatt_f%C3%BCr_Ernst_Benedikt_Kietz,_WWV_64_(Wagner,_Richard)",
-      "year": 1840,
-      "title": "Albumblatt f\u00fcr Ernst Benedikt Kietz, WWV 64"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Albumblatt_f%C3%BCr_Frau_Betty_Schott,_WWV_108_(Wagner,_Richard)",
-      "year": 1875,
-      "title": "Albumblatt f\u00fcr Frau Betty Schott, WWV 108"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/An_Weber%27s_Grabe,_WWV_72_(Wagner,_Richard)",
-      "year": 1844,
-      "title": "An Weber's Grabe, WWV 72"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ankunft_bei_den_schwarzen_Schw%C3%A4nen,_WWV_95_(Wagner,_Richard)",
-      "year": 1861,
-      "title": "Ankunft bei den schwarzen Schw\u00e4nen, WWV 95"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Christoph_Columbus,_WWV_37_(Wagner,_Richard)",
-      "year": 1834,
-      "title": "Christoph Columbus, WWV 37"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Concert_Overture_No.1_in_D_minor,_WWV_20_(Wagner,_Richard)",
-      "year": 1831,
-      "title": "Concert Overture No.1 in D minor, WWV 20"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Concert_Overture_No.2_in_C_major,_WWV_27_(Wagner,_Richard)",
-      "year": 1832,
-      "title": "Concert Overture No.2 in C major, WWV 27"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Les_deux_grenadiers,_WWV_60_(Wagner,_Richard)",
-      "year": 1839,
-      "title": "Les deux grenadiers, WWV 60"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Eine_Faust-Ouvert%C3%BCre,_WWV_59_(Wagner,_Richard)",
-      "year": 1839,
-      "title": "Eine Faust-Ouvert\u00fcre, WWV 59"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Eine_Sonate_f%C3%BCr_das_Album_von_Frau_M.W.,_WWV_85_(Wagner,_Richard)",
-      "year": 1853,
-      "title": "Eine Sonate f\u00fcr das Album von Frau M.W., WWV 85"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Elegy,_WWV_93_(Wagner,_Richard)",
-      "year": 1858,
-      "title": "Elegy, WWV 93"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Entreactes_tragiques,_WWV_25_(Wagner,_Richard)",
-      "year": 1832,
-      "title": "2 Entreactes tragiques, WWV 25"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fantasia_in_F-sharp_minor,_WWV_22_(Wagner,_Richard)",
-      "year": 1831,
-      "title": "Fantasia in F-sharp minor, WWV 22"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Die_Feen,_WWV_32_(Wagner,_Richard)",
-      "year": 1833,
-      "title": "Die Feen, WWV 32"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Der_fliegende_Holl%C3%A4nder,_WWV_63_(Wagner,_Richard)",
-      "year": 1840,
-      "title": "Der fliegende Holl\u00e4nder, WWV 63"
-    },
-    {
+      "title": "2 Fugen, WWV 19",
       "imslp_url": "https://imslp.org/wiki/2_Fugen,_WWV_19_(Wagner,_Richard)",
-      "year": 1831,
-      "title": "2 Fugen, WWV 19"
+      "year": 1831
     },
     {
-      "imslp_url": "https://imslp.org/wiki/5_Gedichte_f%C3%BCr_eine_Frauenstimme,_WWV_91_(Wagner,_Richard)",
-      "year": 1857,
-      "title": "5 Gedichte f\u00fcr eine Frauenstimme, WWV 91"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/G%C3%B6tterd%C3%A4mmerung,_WWV_86D_(Wagner,_Richard)",
-      "year": 1848,
-      "title": "G\u00f6tterd\u00e4mmerung, WWV 86D"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Gro%C3%9Fer_Festmarsch,_WWV_110_(Wagner,_Richard)",
-      "year": 1876,
-      "title": "Gro\u00dfer Festmarsch, WWV 110"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Gru%C3%9F_seiner_Treuen_an_Friedrich_August,_WWV_71_(Wagner,_Richard)",
-      "year": 1844,
-      "title": "Gru\u00df seiner Treuen an Friedrich August, WWV 71"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Die_Hochzeit,_WWV_31_(Wagner,_Richard)",
-      "year": 1832,
-      "title": "Die Hochzeit, WWV 31"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Huldigungsmarsch,_WWV_97_(Wagner,_Richard)",
-      "year": 1864,
-      "title": "Huldigungsmarsch, WWV 97"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/In_das_Album_der_F%C3%BCrstin_Metternich,_WWV_94_(Wagner,_Richard)",
-      "year": 1861,
-      "title": "In das Album der F\u00fcrstin Metternich, WWV 94"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Incidental_Music_to_%27K%C3%B6nig_Enzio%27,_WWV_24_(Wagner,_Richard)",
-      "year": 1831,
-      "title": "Incidental Music to 'K\u00f6nig Enzio', WWV 24"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Kaisermarsch,_WWV_104_(Wagner,_Richard)",
-      "year": 1871,
-      "title": "Kaisermarsch, WWV 104"
-    },
-    {
+      "title": "7 Kompositionen zu Goethes Faust, WWV 15",
       "imslp_url": "https://imslp.org/wiki/7_Kompositionen_zu_Goethes_Faust,_WWV_15_(Wagner,_Richard)",
-      "year": 1831,
-      "title": "7 Kompositionen zu Goethes Faust, WWV 15"
+      "year": 1831
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Das_Liebesmahl_der_Apostel,_WWV_69_(Wagner,_Richard)",
-      "year": 1843,
-      "title": "Das Liebesmahl der Apostel, WWV 69"
+      "title": "Concert Overture No.1 in D minor, WWV 20",
+      "imslp_url": "https://imslp.org/wiki/Concert_Overture_No.1_in_D_minor,_WWV_20_(Wagner,_Richard)",
+      "year": 1831
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Das_Liebesverbot,_WWV_38_(Wagner,_Richard)",
-      "year": 1834,
-      "title": "Das Liebesverbot, WWV 38"
+      "title": "Fantasia in F-sharp minor, WWV 22",
+      "imslp_url": "https://imslp.org/wiki/Fantasia_in_F-sharp_minor,_WWV_22_(Wagner,_Richard)",
+      "year": 1831
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Lohengrin,_WWV_75_(Wagner,_Richard)",
-      "year": 1846,
-      "title": "Lohengrin, WWV 75"
+      "title": "Incidental Music to 'K\u00f6nig Enzio', WWV 24",
+      "imslp_url": "https://imslp.org/wiki/Incidental_Music_to_'K\u00f6nig_Enzio',_WWV_24_(Wagner,_Richard)",
+      "year": 1831
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Die_Meistersinger_von_N%C3%BCrnberg,_WWV_96_(Wagner,_Richard)",
-      "year": 1862,
-      "title": "Die Meistersinger von N\u00fcrnberg, WWV 96"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Mignonne,_WWV_57_(Wagner,_Richard)",
-      "year": 1839,
-      "title": "Mignonne, WWV 57"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Parsifal,_WWV_111_(Wagner,_Richard)",
-      "year": 1857,
-      "title": "Parsifal, WWV 111"
-    },
-    {
+      "title": "Piano Sonata in A major, WWV 26",
       "imslp_url": "https://imslp.org/wiki/Piano_Sonata_in_A_major,_WWV_26_(Wagner,_Richard)",
-      "year": 1831,
-      "title": "Piano Sonata in A major, WWV 26"
+      "year": 1831
     },
     {
+      "title": "Piano Sonata in B-flat major, WWV 21",
       "imslp_url": "https://imslp.org/wiki/Piano_Sonata_in_B-flat_major,_WWV_21_(Wagner,_Richard)",
-      "year": 1831,
-      "title": "Piano Sonata in B-flat major, WWV 21"
+      "year": 1831
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Polka,_WWV_84_(Wagner,_Richard)",
-      "year": 1853,
-      "title": "Polka, WWV 84"
-    },
-    {
+      "title": "Polonaise in D major, WWV 23",
       "imslp_url": "https://imslp.org/wiki/Polonaise_in_D_major,_WWV_23_(Wagner,_Richard)",
-      "year": 1831,
-      "title": "Polonaise in D major, WWV 23"
+      "year": 1831
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Polonia,_WWV_39_(Wagner,_Richard)",
-      "year": 1836,
-      "title": "Polonia, WWV 39"
+      "title": "2 Entreactes tragiques, WWV 25",
+      "imslp_url": "https://imslp.org/wiki/2_Entreactes_tragiques,_WWV_25_(Wagner,_Richard)",
+      "year": 1832
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Das_Rheingold,_WWV_86A_(Wagner,_Richard)",
-      "year": 1854,
-      "title": "Das Rheingold, WWV 86A"
+      "title": "Concert Overture No.2 in C major, WWV 27",
+      "imslp_url": "https://imslp.org/wiki/Concert_Overture_No.2_in_C_major,_WWV_27_(Wagner,_Richard)",
+      "year": 1832
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Rienzi,_WWV_49_(Wagner,_Richard)",
-      "year": 1840,
-      "title": "Rienzi, WWV 49"
+      "title": "Die Hochzeit, WWV 31",
+      "imslp_url": "https://imslp.org/wiki/Die_Hochzeit,_WWV_31_(Wagner,_Richard)",
+      "year": 1832
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Der_Ring_des_Nibelungen,_WWV_86_(Wagner,_Richard)",
-      "year": 1848,
-      "title": "Der Ring des Nibelungen, WWV 86"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Rule_Britannia,_WWV_42_(Wagner,_Richard)",
-      "year": 1837,
-      "title": "Rule Britannia, WWV 42"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Siegfried,_WWV_86C_(Wagner,_Richard)",
-      "year": 1871,
-      "title": "Siegfried, WWV 86C"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Siegfried-Idyll,_WWV_103_(Wagner,_Richard)",
-      "year": 1870,
-      "title": "Siegfried-Idyll, WWV 103"
-    },
-    {
+      "title": "Symphony, WWV 29",
       "imslp_url": "https://imslp.org/wiki/Symphony,_WWV_29_(Wagner,_Richard)",
-      "year": 1832,
-      "title": "Symphony, WWV 29"
+      "year": 1832
     },
     {
+      "title": "Die Feen, WWV 32",
+      "imslp_url": "https://imslp.org/wiki/Die_Feen,_WWV_32_(Wagner,_Richard)",
+      "year": 1833
+    },
+    {
+      "title": "Christoph Columbus, WWV 37",
+      "imslp_url": "https://imslp.org/wiki/Christoph_Columbus,_WWV_37_(Wagner,_Richard)",
+      "year": 1834
+    },
+    {
+      "title": "Das Liebesverbot, WWV 38",
+      "imslp_url": "https://imslp.org/wiki/Das_Liebesverbot,_WWV_38_(Wagner,_Richard)",
+      "year": 1834
+    },
+    {
+      "title": "Polonia, WWV 39",
+      "imslp_url": "https://imslp.org/wiki/Polonia,_WWV_39_(Wagner,_Richard)",
+      "year": 1836
+    },
+    {
+      "title": "Rule Britannia, WWV 42",
+      "imslp_url": "https://imslp.org/wiki/Rule_Britannia,_WWV_42_(Wagner,_Richard)",
+      "year": 1837
+    },
+    {
+      "title": "Eine Faust-Ouvert\u00fcre, WWV 59",
+      "imslp_url": "https://imslp.org/wiki/Eine_Faust-Ouvert\u00fcre,_WWV_59_(Wagner,_Richard)",
+      "year": 1839
+    },
+    {
+      "title": "Les deux grenadiers, WWV 60",
+      "imslp_url": "https://imslp.org/wiki/Les_deux_grenadiers,_WWV_60_(Wagner,_Richard)",
+      "year": 1839
+    },
+    {
+      "title": "Mignonne, WWV 57",
+      "imslp_url": "https://imslp.org/wiki/Mignonne,_WWV_57_(Wagner,_Richard)",
+      "year": 1839
+    },
+    {
+      "title": "Albumblatt f\u00fcr Ernst Benedikt Kietz, WWV 64",
+      "imslp_url": "https://imslp.org/wiki/Albumblatt_f\u00fcr_Ernst_Benedikt_Kietz,_WWV_64_(Wagner,_Richard)",
+      "year": 1840
+    },
+    {
+      "title": "Der fliegende Holl\u00e4nder, WWV 63",
+      "imslp_url": "https://imslp.org/wiki/Der_fliegende_Holl\u00e4nder,_WWV_63_(Wagner,_Richard)",
+      "year": 1840
+    },
+    {
+      "title": "Rienzi, WWV 49",
+      "imslp_url": "https://imslp.org/wiki/Rienzi,_WWV_49_(Wagner,_Richard)",
+      "year": 1840
+    },
+    {
+      "title": "Das Liebesmahl der Apostel, WWV 69",
+      "imslp_url": "https://imslp.org/wiki/Das_Liebesmahl_der_Apostel,_WWV_69_(Wagner,_Richard)",
+      "year": 1843
+    },
+    {
+      "title": "Der Tag erscheint, WWV 68",
       "imslp_url": "https://imslp.org/wiki/Der_Tag_erscheint,_WWV_68_(Wagner,_Richard)",
-      "year": 1843,
-      "title": "Der Tag erscheint, WWV 68"
+      "year": 1843
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Der_Tannenbaum,_WWV_50_(Wagner,_Richard)",
-      "year": 1871,
-      "title": "Der Tannenbaum, WWV 50"
+      "title": "An Weber's Grabe, WWV 72",
+      "imslp_url": "https://imslp.org/wiki/An_Weber's_Grabe,_WWV_72_(Wagner,_Richard)",
+      "year": 1844
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Tannh%C3%A4user,_WWV_70_(Wagner,_Richard)",
-      "year": 1845,
-      "title": "Tannh\u00e4user, WWV 70"
+      "title": "Gru\u00df seiner Treuen an Friedrich August, WWV 71",
+      "imslp_url": "https://imslp.org/wiki/Gru\u00df_seiner_Treuen_an_Friedrich_August,_WWV_71_(Wagner,_Richard)",
+      "year": 1844
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Trauermusik_nach_Motiven_aus_%27Euryanthe%27,_WWV_73_(Wagner,_Richard)",
-      "year": 1844,
-      "title": "Trauermusik nach Motiven aus 'Euryanthe', WWV 73"
+      "title": "Trauermusik nach Motiven aus 'Euryanthe', WWV 73",
+      "imslp_url": "https://imslp.org/wiki/Trauermusik_nach_Motiven_aus_'Euryanthe',_WWV_73_(Wagner,_Richard)",
+      "year": 1844
     },
     {
+      "title": "Tannh\u00e4user, WWV 70",
+      "imslp_url": "https://imslp.org/wiki/Tannh\u00e4user,_WWV_70_(Wagner,_Richard)",
+      "year": 1845
+    },
+    {
+      "title": "Lohengrin, WWV 75",
+      "imslp_url": "https://imslp.org/wiki/Lohengrin,_WWV_75_(Wagner,_Richard)",
+      "year": 1846
+    },
+    {
+      "title": "Der Ring des Nibelungen, WWV 86",
+      "imslp_url": "https://imslp.org/wiki/Der_Ring_des_Nibelungen,_WWV_86_(Wagner,_Richard)",
+      "year": 1848
+    },
+    {
+      "title": "G\u00f6tterd\u00e4mmerung, WWV 86D",
+      "imslp_url": "https://imslp.org/wiki/G\u00f6tterd\u00e4mmerung,_WWV_86D_(Wagner,_Richard)",
+      "year": 1848
+    },
+    {
+      "title": "Eine Sonate f\u00fcr das Album von Frau M.W., WWV 85",
+      "imslp_url": "https://imslp.org/wiki/Eine_Sonate_f\u00fcr_das_Album_von_Frau_M.W.,_WWV_85_(Wagner,_Richard)",
+      "year": 1853
+    },
+    {
+      "title": "Polka, WWV 84",
+      "imslp_url": "https://imslp.org/wiki/Polka,_WWV_84_(Wagner,_Richard)",
+      "year": 1853
+    },
+    {
+      "title": "Das Rheingold, WWV 86A",
+      "imslp_url": "https://imslp.org/wiki/Das_Rheingold,_WWV_86A_(Wagner,_Richard)",
+      "year": 1854
+    },
+    {
+      "title": "Z\u00fcricher Vielliebchen-Walzer, WWV 88",
+      "imslp_url": "https://imslp.org/wiki/Z\u00fcricher_Vielliebchen-Walzer,_WWV_88_(Wagner,_Richard)",
+      "year": 1854
+    },
+    {
+      "title": "Die Walk\u00fcre, WWV 86B",
+      "imslp_url": "https://imslp.org/wiki/Die_Walk\u00fcre,_WWV_86B_(Wagner,_Richard)",
+      "year": 1856
+    },
+    {
+      "title": "5 Gedichte f\u00fcr eine Frauenstimme, WWV 91",
+      "imslp_url": "https://imslp.org/wiki/5_Gedichte_f\u00fcr_eine_Frauenstimme,_WWV_91_(Wagner,_Richard)",
+      "year": 1857
+    },
+    {
+      "title": "Parsifal, WWV 111",
+      "imslp_url": "https://imslp.org/wiki/Parsifal,_WWV_111_(Wagner,_Richard)",
+      "year": 1857
+    },
+    {
+      "title": "Tristan und Isolde, WWV 90",
       "imslp_url": "https://imslp.org/wiki/Tristan_und_Isolde,_WWV_90_(Wagner,_Richard)",
-      "year": 1857,
-      "title": "Tristan und Isolde, WWV 90"
+      "year": 1857
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Die_Walk%C3%BCre,_WWV_86B_(Wagner,_Richard)",
-      "year": 1856,
-      "title": "Die Walk\u00fcre, WWV 86B"
+      "title": "Elegy, WWV 93",
+      "imslp_url": "https://imslp.org/wiki/Elegy,_WWV_93_(Wagner,_Richard)",
+      "year": 1858
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Z%C3%BCricher_Vielliebchen-Walzer,_WWV_88_(Wagner,_Richard)",
-      "year": 1854,
-      "title": "Z\u00fcricher Vielliebchen-Walzer, WWV 88"
+      "title": "Ankunft bei den schwarzen Schw\u00e4nen, WWV 95",
+      "imslp_url": "https://imslp.org/wiki/Ankunft_bei_den_schwarzen_Schw\u00e4nen,_WWV_95_(Wagner,_Richard)",
+      "year": 1861
     },
     {
-      "imslp_url": "https://imslp.org/wiki/10_Lieder_(Wagner,_Richard)",
-      "year": 1838,
-      "title": "10 Lieder"
+      "title": "In das Album der F\u00fcrstin Metternich, WWV 94",
+      "imslp_url": "https://imslp.org/wiki/In_das_Album_der_F\u00fcrstin_Metternich,_WWV_94_(Wagner,_Richard)",
+      "year": 1861
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Mein_Leben_(Wagner,_Richard)",
-      "year": 1865,
-      "title": "Mein Leben"
+      "title": "Die Meistersinger von N\u00fcrnberg, WWV 96",
+      "imslp_url": "https://imslp.org/wiki/Die_Meistersinger_von_N\u00fcrnberg,_WWV_96_(Wagner,_Richard)",
+      "year": 1862
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Richard_Wagner%27s_Prose_Works_(Wagner,_Richard)",
-      "year": 1834,
-      "title": "Richard Wagner's Prose Works"
+      "title": "Huldigungsmarsch, WWV 97",
+      "imslp_url": "https://imslp.org/wiki/Huldigungsmarsch,_WWV_97_(Wagner,_Richard)",
+      "year": 1864
+    },
+    {
+      "title": "Siegfried-Idyll, WWV 103",
+      "imslp_url": "https://imslp.org/wiki/Siegfried-Idyll,_WWV_103_(Wagner,_Richard)",
+      "year": 1870
+    },
+    {
+      "title": "Der Tannenbaum, WWV 50",
+      "imslp_url": "https://imslp.org/wiki/Der_Tannenbaum,_WWV_50_(Wagner,_Richard)",
+      "year": 1871
+    },
+    {
+      "title": "Kaisermarsch, WWV 104",
+      "imslp_url": "https://imslp.org/wiki/Kaisermarsch,_WWV_104_(Wagner,_Richard)",
+      "year": 1871
+    },
+    {
+      "title": "Siegfried, WWV 86C",
+      "imslp_url": "https://imslp.org/wiki/Siegfried,_WWV_86C_(Wagner,_Richard)",
+      "year": 1871
+    },
+    {
+      "title": "Albumblatt f\u00fcr Frau Betty Schott, WWV 108",
+      "imslp_url": "https://imslp.org/wiki/Albumblatt_f\u00fcr_Frau_Betty_Schott,_WWV_108_(Wagner,_Richard)",
+      "year": 1875
+    },
+    {
+      "title": "Gro\u00dfer Festmarsch, WWV 110",
+      "imslp_url": "https://imslp.org/wiki/Gro\u00dfer_Festmarsch,_WWV_110_(Wagner,_Richard)",
+      "year": 1876
     }
   ]
 }

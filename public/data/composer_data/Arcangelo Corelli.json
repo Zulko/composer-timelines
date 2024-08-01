@@ -1,0 +1,375 @@
+{
+  "full_name": "Arcangelo Corelli",
+  "first_names": "Arcangelo",
+  "last_name": "Corelli",
+  "birth_year": 1653,
+  "death_year": 1713,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Arcangelo_Corelli",
+  "events": [
+    {
+      "section": "Life",
+      "title": "Birth",
+      "summary": "Arcangelo Corelli was born in a small Romagna town on February 17, 1653. His family had a long history in the area, and although prosperous, they were not of nobility. His father died shortly before his birth, leading him to be raised by his mother and four siblings.",
+      "year": 1653,
+      "location": "Fusignano, Papal States",
+      "emoji": "\ud83d\udc76",
+      "fun_version": "Arcangelo Corelli popped into this world on February 17, 1653, in a quaint little Romagna town, where his family had a long history. Tragically, his father passed away shortly before his birth, leading young Arcangelo to be raised by his mother and four siblings, making family dinners a lively performance, where the only thing missing was a conductor!"
+    },
+    {
+      "section": "Life",
+      "title": "Musical Education",
+      "summary": "Corelli's musical education began with studies under a priest and continued in Bologna, a significant center for musical culture. At just seventeen, he became a member of the Accademia Filarmonica, marking the start of his formal involvement in the music scene.",
+      "year": 1670,
+      "location": "Bologna",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Corelli's musical education kicked off in a rather unusual way\u2014under the careful supervision of a priest! After some heavenly lessons, he continued to Bologna, a place that could make even spaghetti sound like a symphony. At just seventeen, he joined the Accademia Filarmonica, marking the grand debut of his formal musical career."
+    },
+    {
+      "section": "Life",
+      "title": "Early Career in Rome",
+      "summary": "By 1675, Corelli was active in Rome, engaging as a supporting violinist in various performances, notably during Lent oratorios. His reputation grew as he played for wealthy patrons during significant celebrations.",
+      "year": 1675,
+      "location": "Rome",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "By 1675, Corelli was active in Rome, where he joined the orchestra as a supporting violinist. He was strumming his heart out during Lent oratorios, showcasing his talent during significant celebrations. As he played for wealthy patrons at their fancy shindigs, his reputation grew quickly among the elite crowd."
+    },
+    {
+      "section": "Life",
+      "title": "Festival Performances in Sweden",
+      "summary": "In 1687, Corelli led festival performances for Queen Christina of Sweden, a significant highlight in his career that showcased his talent to an influential audience.",
+      "year": 1687,
+      "location": "Sweden",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1687, Corelli orchestrated a festival so fabulous for Queen Christina of Sweden that even the royal pet goldfish was tapping its fins in applause. This wasn't just a gig; it was the highlight of his career!"
+    },
+    {
+      "section": "Life",
+      "title": "Membership in the Pontificia Accademia degli Arcadi",
+      "summary": "In 1706, Corelli was elected a member of this prestigious academy in Rome, receiving the Arcadian name of Arcomelo Erimanteo, which reflects his esteemed status in the musical community.",
+      "year": 1706,
+      "location": "Rome",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "In 1706, Corelli became a big deal when he was elected a member of a prestigious academy in Rome, being bestowed the Arcadian name of Arcomelo Erimanteo, highlighting his esteemed status in the musical community."
+    },
+    {
+      "section": "Life",
+      "title": "Visit to Naples",
+      "summary": "In 1708, Corelli visited Naples at the invitation of King Philip V, further establishing his influence and connections within the music elite of his time.",
+      "year": 1708,
+      "location": "Naples",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1708, Corelli packed his bags and headed to Naples at the not-so-secret invitation of King Philip V. You know it's a big deal when you're getting invites from kings! Not only did he get to enjoy the pizza (before it was cool), but he also used this royal connection to further establish his influence and charm the socks off the music elite of his time!"
+    },
+    {
+      "section": "Life",
+      "title": "Death and Legacy",
+      "summary": "Corelli passed away in Rome, leaving behind a substantial fortune and a collection of fine violins, reflecting his success and impact on the music world. He was buried in the Pantheon, a testament to his stature.",
+      "year": 1713,
+      "location": "Rome",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "Corelli has taken a permanent leave in Rome! He left behind a substantial fortune and a fancy collection of violins, a reflection of his immense success and impact on the music world. Just in case someone feels like throwing an orchestra party in his honor. His resting place? The Pantheon\u2014very casual for a music legend!"
+    }
+  ],
+  "works": [
+    {
+      "title": "Trio Sonata in A major, Op.1 No.3",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_A_major,_Op.1_No.3_(Corelli,_Arcangelo)",
+      "year": 1681
+    },
+    {
+      "title": "Trio Sonata in A minor, Op.1 No.4",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_A_minor,_Op.1_No.4_(Corelli,_Arcangelo)",
+      "year": 1681
+    },
+    {
+      "title": "Trio Sonata in B minor, Op.1 No.6",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_B_minor,_Op.1_No.6_(Corelli,_Arcangelo)",
+      "year": 1681
+    },
+    {
+      "title": "Trio Sonata in B-flat major, Op.1 No.5",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_B-flat_major,_Op.1_No.5_(Corelli,_Arcangelo)",
+      "year": 1681
+    },
+    {
+      "title": "Trio Sonata in C major, Op.1 No.7",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_C_major,_Op.1_No.7_(Corelli,_Arcangelo)",
+      "year": 1681
+    },
+    {
+      "title": "Trio Sonata in C minor, Op.1 No.8",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_C_minor,_Op.1_No.8_(Corelli,_Arcangelo)",
+      "year": 1681
+    },
+    {
+      "title": "Trio Sonata in E minor, Op.1 No.2",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_E_minor,_Op.1_No.2_(Corelli,_Arcangelo)",
+      "year": 1681
+    },
+    {
+      "title": "Trio Sonata in F major, Op.1 No.1",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_F_major,_Op.1_No.1_(Corelli,_Arcangelo)",
+      "year": 1681
+    },
+    {
+      "title": "Trio Sonata in B minor, Op.2 No.8",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_B_minor,_Op.2_No.8_(Corelli,_Arcangelo)",
+      "year": 1685
+    },
+    {
+      "title": "Trio Sonata in B-flat major, Op.2 No.5",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_B-flat_major,_Op.2_No.5_(Corelli,_Arcangelo)",
+      "year": 1685
+    },
+    {
+      "title": "Trio Sonata in C major, Op.2 No.3",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_C_major,_Op.2_No.3_(Corelli,_Arcangelo)",
+      "year": 1685
+    },
+    {
+      "title": "Trio Sonata in D major, Op.2 No.1",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_D_major,_Op.2_No.1_(Corelli,_Arcangelo)",
+      "year": 1685
+    },
+    {
+      "title": "Trio Sonata in D minor, Op.2 No.2",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_D_minor,_Op.2_No.2_(Corelli,_Arcangelo)",
+      "year": 1685
+    },
+    {
+      "title": "Trio Sonata in E major, Op.2 No.10",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_E_major,_Op.2_No.10_(Corelli,_Arcangelo)",
+      "year": 1685
+    },
+    {
+      "title": "Trio Sonata in E minor, Op.2 No.4",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_E_minor,_Op.2_No.4_(Corelli,_Arcangelo)",
+      "year": 1685
+    },
+    {
+      "title": "Trio Sonata in E-flat major, Op.2 No.11",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_E-flat_major,_Op.2_No.11_(Corelli,_Arcangelo)",
+      "year": 1685
+    },
+    {
+      "title": "Trio Sonata in F major, Op.2 No.7",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_F_major,_Op.2_No.7_(Corelli,_Arcangelo)",
+      "year": 1685
+    },
+    {
+      "title": "Trio Sonata in F-sharp minor, Op.2 No.9",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_F-sharp_minor,_Op.2_No.9_(Corelli,_Arcangelo)",
+      "year": 1685
+    },
+    {
+      "title": "Trio Sonata in G major, Op.2 No.12",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_G_major,_Op.2_No.12_(Corelli,_Arcangelo)",
+      "year": 1685
+    },
+    {
+      "title": "Trio Sonata in G minor, Op.2 No.6",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_G_minor,_Op.2_No.6_(Corelli,_Arcangelo)",
+      "year": 1685
+    },
+    {
+      "title": "Trio Sonata in A minor, Op.3 No.10",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_A_minor,_Op.3_No.10_(Corelli,_Arcangelo)",
+      "year": 1689
+    },
+    {
+      "title": "Trio Sonata in B minor, Op.3 No.4",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_B_minor,_Op.3_No.4_(Corelli,_Arcangelo)",
+      "year": 1689
+    },
+    {
+      "title": "Trio Sonata in B-flat major, Op.3 No.3",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_B-flat_major,_Op.3_No.3_(Corelli,_Arcangelo)",
+      "year": 1689
+    },
+    {
+      "title": "Trio Sonata in D major, Op.3 No.2",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_D_major,_Op.3_No.2_(Corelli,_Arcangelo)",
+      "year": 1689
+    },
+    {
+      "title": "Trio Sonata in D minor, Op.3 No.5",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_D_minor,_Op.3_No.5_(Corelli,_Arcangelo)",
+      "year": 1689
+    },
+    {
+      "title": "Trio Sonata in E minor, Op.3 No.7",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_E_minor,_Op.3_No.7_(Corelli,_Arcangelo)",
+      "year": 1689
+    },
+    {
+      "title": "Trio Sonata in F major, Op.3 No.1",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_F_major,_Op.3_No.1_(Corelli,_Arcangelo)",
+      "year": 1689
+    },
+    {
+      "title": "Concerto grosso in G minor 'Fatto per la Notte di Natale', Op.6 No.8",
+      "imslp_url": "https://imslp.org/wiki/Concerto_grosso_in_G_minor_'Fatto_per_la_Notte_di_Natale',_Op.6_No.8_(Corelli,_Arcangelo)",
+      "year": 1690
+    },
+    {
+      "title": "Trio Sonata in A major, Op.4 No.3",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_A_major,_Op.4_No.3_(Corelli,_Arcangelo)",
+      "year": 1694
+    },
+    {
+      "title": "Trio Sonata in A minor, Op.4 No.5",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_A_minor,_Op.4_No.5_(Corelli,_Arcangelo)",
+      "year": 1694
+    },
+    {
+      "title": "Trio Sonata in B minor, Op.4 No.12",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_B_minor,_Op.4_No.12_(Corelli,_Arcangelo)",
+      "year": 1694
+    },
+    {
+      "title": "Trio Sonata in B-flat major, Op.4 No.9",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_B-flat_major,_Op.4_No.9_(Corelli,_Arcangelo)",
+      "year": 1694
+    },
+    {
+      "title": "Trio Sonata in C major, Op.4 No.1",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_C_major,_Op.4_No.1_(Corelli,_Arcangelo)",
+      "year": 1694
+    },
+    {
+      "title": "Trio Sonata in C minor, Op.4 No.11",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_C_minor,_Op.4_No.11_(Corelli,_Arcangelo)",
+      "year": 1694
+    },
+    {
+      "title": "Trio Sonata in D major, Op.4 No.4",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_D_major,_Op.4_No.4_(Corelli,_Arcangelo)",
+      "year": 1694
+    },
+    {
+      "title": "Trio Sonata in D minor, Op.4 No.8",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_D_minor,_Op.4_No.8_(Corelli,_Arcangelo)",
+      "year": 1694
+    },
+    {
+      "title": "Trio Sonata in E major, Op.4 No.6",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_E_major,_Op.4_No.6_(Corelli,_Arcangelo)",
+      "year": 1694
+    },
+    {
+      "title": "Trio Sonata in F major, Op.4 No.7",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_F_major,_Op.4_No.7_(Corelli,_Arcangelo)",
+      "year": 1694
+    },
+    {
+      "title": "Trio Sonata in G major, Op.4 No.10",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_G_major,_Op.4_No.10_(Corelli,_Arcangelo)",
+      "year": 1694
+    },
+    {
+      "title": "Trio Sonata in G minor, Op.4 No.2",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_G_minor,_Op.4_No.2_(Corelli,_Arcangelo)",
+      "year": 1694
+    },
+    {
+      "title": "Violin Sonata in A minor, Anh.35",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_in_A_minor,_Anh.35_(Corelli,_Arcangelo)",
+      "year": 1697
+    },
+    {
+      "title": "Violin Sonata in D major, Anh.34",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_in_D_major,_Anh.34_(Corelli,_Arcangelo)",
+      "year": 1697
+    },
+    {
+      "title": "Violin Sonata in A major, Op.5 No.6",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_in_A_major,_Op.5_No.6_(Corelli,_Arcangelo)",
+      "year": 1700
+    },
+    {
+      "title": "Violin Sonata in A major, Op.5 No.9",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_in_A_major,_Op.5_No.9_(Corelli,_Arcangelo)",
+      "year": 1700
+    },
+    {
+      "title": "Violin Sonata in B-flat major, Op.5 No.2",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_in_B-flat_major,_Op.5_No.2_(Corelli,_Arcangelo)",
+      "year": 1700
+    },
+    {
+      "title": "Violin Sonata in C major, Op.5 No.3",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_in_C_major,_Op.5_No.3_(Corelli,_Arcangelo)",
+      "year": 1700
+    },
+    {
+      "title": "Violin Sonata in D major, Op.5 No.1",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_in_D_major,_Op.5_No.1_(Corelli,_Arcangelo)",
+      "year": 1700
+    },
+    {
+      "title": "Violin Sonata in D minor 'La Folia', Op.5 No.12",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_in_D_minor_'La_Folia',_Op.5_No.12_(Corelli,_Arcangelo)",
+      "year": 1700
+    },
+    {
+      "title": "Violin Sonata in D minor, Op.5 No.7",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_in_D_minor,_Op.5_No.7_(Corelli,_Arcangelo)",
+      "year": 1700
+    },
+    {
+      "title": "Violin Sonata in E major, Op.5 No.11",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_in_E_major,_Op.5_No.11_(Corelli,_Arcangelo)",
+      "year": 1700
+    },
+    {
+      "title": "Violin Sonata in E minor, Op.5 No.8",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_in_E_minor,_Op.5_No.8_(Corelli,_Arcangelo)",
+      "year": 1700
+    },
+    {
+      "title": "Violin Sonata in F major, Op.5 No.10",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_in_F_major,_Op.5_No.10_(Corelli,_Arcangelo)",
+      "year": 1700
+    },
+    {
+      "title": "Violin Sonata in F major, Op.5 No.4",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_in_F_major,_Op.5_No.4_(Corelli,_Arcangelo)",
+      "year": 1700
+    },
+    {
+      "title": "Violin Sonata in G minor, Op.5 No.5",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_in_G_minor,_Op.5_No.5_(Corelli,_Arcangelo)",
+      "year": 1700
+    },
+    {
+      "title": "Concerto grosso in B-flat major, Op.6 No.11",
+      "imslp_url": "https://imslp.org/wiki/Concerto_grosso_in_B-flat_major,_Op.6_No.11_(Corelli,_Arcangelo)",
+      "year": 1712
+    },
+    {
+      "title": "Concerto grosso in C major, Op.6 No.10",
+      "imslp_url": "https://imslp.org/wiki/Concerto_grosso_in_C_major,_Op.6_No.10_(Corelli,_Arcangelo)",
+      "year": 1712
+    },
+    {
+      "title": "Concerto grosso in C minor, Op.6 No.3",
+      "imslp_url": "https://imslp.org/wiki/Concerto_grosso_in_C_minor,_Op.6_No.3_(Corelli,_Arcangelo)",
+      "year": 1712
+    },
+    {
+      "title": "Concerto grosso in D major, Op.6 No.1",
+      "imslp_url": "https://imslp.org/wiki/Concerto_grosso_in_D_major,_Op.6_No.1_(Corelli,_Arcangelo)",
+      "year": 1712
+    },
+    {
+      "title": "Concerto grosso in D major, Op.6 No.4",
+      "imslp_url": "https://imslp.org/wiki/Concerto_grosso_in_D_major,_Op.6_No.4_(Corelli,_Arcangelo)",
+      "year": 1712
+    },
+    {
+      "title": "Concerto grosso in F major, Op.6 No.2",
+      "imslp_url": "https://imslp.org/wiki/Concerto_grosso_in_F_major,_Op.6_No.2_(Corelli,_Arcangelo)",
+      "year": 1712
+    }
+  ]
+}

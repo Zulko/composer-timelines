@@ -1,0 +1,207 @@
+{
+  "full_name": "Jan Pieterszoon Sweelinck",
+  "first_names": "Jan Pieterszoon",
+  "last_name": "Sweelinck",
+  "birth_year": 1562,
+  "death_year": 1621,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jan_Pieterszoon_Sweelinck",
+  "events": [
+    {
+      "section": "Life",
+      "title": "Birth",
+      "summary": "Jan Pieterszoon Sweelinck was born in Deventer, Netherlands, as the eldest son of organist Peter Swybbertszoon and Elske Jansdochter Sweeling. His early life was shaped by a musical family, with his father as an organist and his grandfather and uncle also in the same profession.",
+      "year": 1562,
+      "location": "Deventer, Netherlands",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Jan Pieterszoon Sweelinck was born in Deventer, Netherlands, as the eldest son of organist Peter Swybbertszoon and Elske Jansdochter Sweeling. With an organist for a father, and an entire family tree that resembled a concert hall, it\u2019s no wonder Jan had hardly any choice but to hit the right notes from day one. His early life was shaped by a musical family, with his grandfather and uncle also in the same profession."
+    },
+    {
+      "section": "Life",
+      "title": "Career as Organist Begins",
+      "summary": "Sweelinck began his 44-year career as the organist of the Oude Kerk in Amsterdam at the young age of 15. His position would be a significant part of his life, as he worked there until his death.",
+      "year": 1577,
+      "location": "Oude Kerk, Amsterdam",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Imagine starting your dream job at the ripe old age of 15! That's exactly what Sweelinck did as the organist of Oude Kerk in Amsterdam. For 44 years, he tickled the ivories there, proving that if you really love your job, you might just work until the end!"
+    },
+    {
+      "section": "Life",
+      "title": "Marriage",
+      "summary": "In 1590, Sweelinck married Claesgen Dircxdochter Puyner from Medemblik. This event marked a personal milestone in his life amid his professional accomplishments.",
+      "year": 1590,
+      "location": "Medemblik",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "In 1590, Sweelinck married Claesgen Dircxdochter Puyner from Medemblik, marking a personal milestone in his life amid his professional accomplishments. The man had a knack for hitting the right notes both in music and in matrimony!"
+    },
+    {
+      "section": "Life",
+      "title": "First Published Works",
+      "summary": "Sweelinck's first published works appeared around 1592-94, including three volumes of chansons. His adoption of his mother\u2019s last name 'Sweelinck' first appeared in print in a 1594 publication.",
+      "year": 1594,
+      "location": "Amsterdam",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Sweelinck was composing music even before it was cool! His first works dropped between 1592-94, including three volumes of chansons. Fun fact\u2014his mother was really proud because he decided to adopt her last name, 'Sweelinck,' in a flashy 1594 publication. After all, he wanted to ensure everyone knew who to thank for all that musical genius!"
+    },
+    {
+      "section": "Life",
+      "title": "Death",
+      "summary": "Sweelinck died of unknown causes on 16 October 1621, leaving behind his wife and five of their six children. His death marked the end of a significant musical career in Amsterdam.",
+      "year": 1621,
+      "location": "Oude Kerk, Amsterdam",
+      "emoji": "\u26b1\ufe0f",
+      "fun_version": "We know that Sweelinck left behind his wife and five of their six children when he passed away on 16 October 1621. His departure marked the end of a significant musical career in Amsterdam, which definitely needed a \u2018do not disturb\u2019 sign!"
+    }
+  ],
+  "works": [
+    {
+      "title": "Susanne un jour",
+      "imslp_url": "https://imslp.org/wiki/Susanne_un_jour_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1594
+    },
+    {
+      "title": "Tu as tout seul, Jan Jan",
+      "imslp_url": "https://imslp.org/wiki/Tu_as_tout_seul,_Jan_Jan_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1597
+    },
+    {
+      "title": "Du fonds de ma pens\u00e9e",
+      "imslp_url": "https://imslp.org/wiki/Du_fonds_de_ma_pens\u00e9e_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1604
+    },
+    {
+      "title": "Che giova posseder",
+      "imslp_url": "https://imslp.org/wiki/Che_giova_posseder_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1612
+    },
+    {
+      "title": "Facciam, cara mia File",
+      "imslp_url": "https://imslp.org/wiki/Facciam,_cara_mia_File_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1612
+    },
+    {
+      "title": "Io mi son giovinetta",
+      "imslp_url": "https://imslp.org/wiki/Io_mi_son_giovinetta_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1612
+    },
+    {
+      "title": "Lascia Filli mia cara",
+      "imslp_url": "https://imslp.org/wiki/Lascia_Filli_mia_cara_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1612
+    },
+    {
+      "title": "Morir non pu\u00f2 'l mio core",
+      "imslp_url": "https://imslp.org/wiki/Morir_non_pu\u00f2_'l_mio_core_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1612
+    },
+    {
+      "title": "Per te rosa gentile",
+      "imslp_url": "https://imslp.org/wiki/Per_te_rosa_gentile_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1612
+    },
+    {
+      "title": "Ut, re, mi, fa, sol, la, a 4 voci. FVB 118",
+      "imslp_url": "https://imslp.org/wiki/Ut,_re,_mi,_fa,_sol,_la,_a_4_voci._FVB_118_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1612
+    },
+    {
+      "title": "Voicy du gay Printemps",
+      "imslp_url": "https://imslp.org/wiki/Voicy_du_gay_Printemps_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1612
+    },
+    {
+      "title": "Chantez a Dieu, SwWV 96",
+      "imslp_url": "https://imslp.org/wiki/Chantez_a_Dieu,_SwWV_96_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1613
+    },
+    {
+      "title": "Or sus, serviteurs du Seigneur",
+      "imslp_url": "https://imslp.org/wiki/Or_sus,_serviteurs_du_Seigneur_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1614
+    },
+    {
+      "title": "Echo Fantasia, SwWV 261",
+      "imslp_url": "https://imslp.org/wiki/Echo_Fantasia,_SwWV_261_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1617
+    },
+    {
+      "title": "Fantasia in Echo style in D dorian",
+      "imslp_url": "https://imslp.org/wiki/Fantasia_in_Echo_style_in_D_dorian_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1617
+    },
+    {
+      "title": "Fantazie in C major",
+      "imslp_url": "https://imslp.org/wiki/Fantazie_in_C_major_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1617
+    },
+    {
+      "title": "Toccata in A minor, SwWV 296",
+      "imslp_url": "https://imslp.org/wiki/Toccata_in_A_minor,_SwWV_296_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1617
+    },
+    {
+      "title": "Untitled Organ work in A minor",
+      "imslp_url": "https://imslp.org/wiki/Untitled_Organ_work_in_A_minor_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1617
+    },
+    {
+      "title": "Untitled Organ work in G mixolydian",
+      "imslp_url": "https://imslp.org/wiki/Untitled_Organ_work_in_G_mixolydian_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1617
+    },
+    {
+      "title": "Miserere mei",
+      "imslp_url": "https://imslp.org/wiki/Miserere_mei_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1618
+    },
+    {
+      "title": "Cantate Domino, SwWV 158",
+      "imslp_url": "https://imslp.org/wiki/Cantate_Domino,_SwWV_158_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1619
+    },
+    {
+      "title": "De profundis, SwWV 170",
+      "imslp_url": "https://imslp.org/wiki/De_profundis,_SwWV_170_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1619
+    },
+    {
+      "title": "Diligam te Domine, SwWV 155",
+      "imslp_url": "https://imslp.org/wiki/Diligam_te_Domine,_SwWV_155_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1619
+    },
+    {
+      "title": "Euge serve bone, SwWV 166",
+      "imslp_url": "https://imslp.org/wiki/Euge_serve_bone,_SwWV_166_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1619
+    },
+    {
+      "title": "Gaude et laetare, SwWV 168",
+      "imslp_url": "https://imslp.org/wiki/Gaude_et_laetare,_SwWV_168_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1619
+    },
+    {
+      "title": "Gaudete omnes et laetamini, SwWV 182",
+      "imslp_url": "https://imslp.org/wiki/Gaudete_omnes_et_laetamini,_SwWV_182_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1619
+    },
+    {
+      "title": "Hodie Christus natus est, SwWV 163",
+      "imslp_url": "https://imslp.org/wiki/Hodie_Christus_natus_est,_SwWV_163_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1619
+    },
+    {
+      "title": "In te, Domine, speravi, SwWV 154",
+      "imslp_url": "https://imslp.org/wiki/In_te,_Domine,_speravi,_SwWV_154_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1619
+    },
+    {
+      "title": "Qui vult venire post me, SwWV 169",
+      "imslp_url": "https://imslp.org/wiki/Qui_vult_venire_post_me,_SwWV_169_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1619
+    },
+    {
+      "title": "Regina coeli, SwWV 183",
+      "imslp_url": "https://imslp.org/wiki/Regina_coeli,_SwWV_183_(Sweelinck,_Jan_Pieterszoon)",
+      "year": 1619
+    }
+  ]
+}

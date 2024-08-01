@@ -7,1332 +7,2668 @@
   "wikipedia_url": "https://en.wikipedia.org/wiki/Franz_Liszt",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Franz Liszt made his grand entry into the world while the Kingdom of Hungary was still figuring out what a piano was. Born on October 22, 1811, in Doborj\u00e1n, he was destined to become a musical genius, though at this point he was just a small bundle of potential.",
+      "section": "Life",
+      "title": "Birth",
+      "summary": "Franz Liszt was born to Anna and Adam Liszt in the village of Doborj\u00e1n, Sopron County, in the Kingdom of Hungary. His father was a land steward and a keen amateur musician, who recognized Liszt's musical talent from a very young age.",
       "year": 1811,
-      "city": "Doborj\u00e1n",
-      "country": "Hungary"
+      "location": "Doborj\u00e1n, Sopron County, Kingdom of Hungary",
+      "emoji": "\ud83d\udc76\ud83c\udfb9",
+      "fun_version": "Franz Liszt, the musical wizard from Doborj\u00e1n, Sopron County in the Kingdom of Hungary, popped into the world thanks to his loving mom Anna and dad Adam\u2014a land steward who dabbled in music. It's a good thing Adam recognized Liszt's musical talent early; imagine if he thought his son could only be the world's greatest potato peeler instead."
     },
     {
-      "event": "First public concert",
-      "summary": "At the tender age of nine, Liszt made his debut performance in Sopron, which had the audience convinced he was a child prodigy rather than just a remarkable distraction for a Saturday night.",
+      "section": "Life",
+      "title": "First public concert",
+      "summary": "At just nine years old, Liszt gave his first public concert in Sopron. The success of this performance led to further appearances and caught the attention of wealthy sponsors who offered to support his musical education in Vienna.",
       "year": 1820,
-      "city": "Sopron",
-      "country": "Hungary"
+      "location": "Sopron",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "At just nine years old, Liszt decided to perform his first concert in Sopron. While other kids were busy playing hide and seek, he was busy stealing hearts with his piano skills! His fingers danced on the keys like they were racing in a Formula 1 race. The success of this performance led to further appearances, and the wealthy sponsors, like musical fairy godmothers, showed up to offer him a chance to trade his toys for a grand musical education in Vienna!"
     },
     {
-      "event": "Scholarship in Vienna",
-      "summary": "After a successful debut, Liszt attracted a group of wealthy patrons to sponsor his education in Vienna, because what better way to learn music than on someone else's dime?",
+      "section": "Life",
+      "title": "Public debut in Vienna",
+      "summary": "Liszt's public debut in Vienna was held on December 1, 1822, where he received a warm reception from the Austrian and Hungarian aristocracy and met celebrated composers like Beethoven and Schubert.",
       "year": 1822,
-      "city": "Vienna",
-      "country": "Austria"
+      "location": "Vienna",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "On December 1, 1822, a young pianist named Liszt decided to make his big debut in Vienna, receiving a warm reception from the aristocracy of Austria and Hungary, where he got to rub elbows with some bigwigs like Beethoven and Schubert."
     },
     {
-      "event": "Debut concert in Vienna",
-      "summary": "Liszt's debut concert in Vienna on December 1, 1822, made waves as he mingled with the aristocracy and probably left more than a few people wondering if they were in the presence of a future genius or just very bad luck.",
-      "year": 1822,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Opera premiere",
-      "summary": "Liszt staged his only opera, Don Sanche, which was enthusiastically received but ran for a mere four performances, leading him to realize maybe he should stick to the piano.",
-      "year": 1824,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Father's death",
-      "summary": "The tragic passing of Liszt's father in 1827 meant Liszt had to step up, leading him to give lessons all around Paris and also contemplate his life choices over a good bottle of wine\u2014because who needs stability?",
+      "section": "Life",
+      "title": "Death of Adam Liszt",
+      "summary": "Tragedy struck when Adam Liszt, Franz's father, died suddenly of typhoid fever in the summer of 1827. This event led Franz to give up touring and to teach piano and composition in Paris.",
       "year": 1827,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris",
+      "emoji": "\ud83d\ude22",
+      "fun_version": "Tragedy struck when young Franz Liszt\u2019s father, Adam, passed away suddenly in the summer of 1827 due to typhoid fever. This unfortunate event led Franz to give up touring and instead teach piano and composition in Paris."
     },
     {
-      "event": "Beethoven's kiss",
-      "summary": "Rumor has it that Beethoven kissed Liszt on the forehead at a concert\u2014it's a heartwarming story unless you're thinking about how awkward that must have been for the people watching.",
-      "year": 1823,
-      "city": "Vienna",
-      "country": "Austria"
+      "section": "Life",
+      "title": "Falling ill and searching for faith",
+      "summary": "Following the death of his father, Liszt fell gravely ill, experiencing a long period of religious doubts. During this time, he distanced himself from music for a while, focusing on introspection.",
+      "year": 1827,
+      "location": "Paris",
+      "emoji": "\ud83d\ude4f",
+      "fun_version": "After his father's passing, Liszt battled a serious illness and found himself grappling with deep religious doubts. Instead of pouring his heart into music, he took a step back and engaged in profound soul-searching, like wondering if he should get a pet fish! It's amazing how a crisis can unveil a treasure of inner thoughts!"
     },
     {
-      "event": "Romantic relationship",
-      "summary": "Liszt struck up a relationship with the Countess Marie d'Agoult in 1833, because clearly, he was as good at falling in love as he was at playing the piano, resulting in both beautiful music and a couple of children.",
-      "year": 1833,
-      "city": "Geneva",
-      "country": "Switzerland"
-    },
-    {
-      "event": "Lisztomania",
-      "summary": "Following his illustrious career, Liszt was bombarded by fans in a frenzy of 'Lisztomania'\u2014as if he were a rock star, minus the electric guitars and leather pants.",
-      "year": 1841,
-      "city": "Berlin",
-      "country": "Germany"
-    },
-    {
-      "event": "Separation from Countess",
-      "summary": "In 1844, Liszt and Marie d'Agoult decided that maybe living together wasn't as glamorous as it sounded, leading to a split that let Liszt focus more on music and less on melodrama.",
-      "year": 1844,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Invention of the masterclass",
-      "summary": "Throughout his life, Liszt taught piano to hundreds of students, essentially inventing the masterclass format, ensuring that the circle of piano misery continued for generations to come.",
-      "year": 1861,
-      "city": "Weimar",
-      "country": "Germany"
-    },
-    {
-      "event": "Lisztomania Begins",
-      "summary": "After separating from Marie, Liszt embarked on a concert spree that made fans go wild\u2014think rockstar frenzy! His charisma on stage had women in Berlin fighting for his cigar butts and coffee remnants, turning concerts into theatrical battles of affection.",
-      "year": 1841,
-      "city": "Berlin",
-      "country": "Germany"
-    },
-    {
-      "event": "Retires from Concert Stage",
-      "summary": "In a plot twist worthy of a soap opera, Liszt decided to retire at the ripe age of 35 while still dazzling audiences. It was like he left the stage while the crowd was still clamoring for more, keeping his legend untarnished.",
-      "year": 1847,
-      "city": "Elizabetgrad",
-      "country": "Ukraine"
-    },
-    {
-      "event": "Settles in Weimar",
-      "summary": "Liszt moved to Weimar where he transformed into the court's music magician. Imagine him waving a conductor's baton while juggling the duties of a kapellmeister and plotting musical festivals. It was like a musical episode of 'The Office' at the court!",
-      "year": 1848,
-      "city": "Weimar",
-      "country": "Germany"
-    },
-    {
-      "event": "Formation of New German School",
-      "summary": "Liszt unknowingly became the head of a musical clique called the New German School. With flamboyant friends like Wagner and Berlioz, they challenged music norms like teenage rebels, all while exchanging heated debates in essays instead of punches.",
-      "year": 1859,
-      "city": "Weimar",
-      "country": "Germany"
-    },
-    {
-      "event": "Annulment in Rome",
-      "summary": "After a long romantic saga that would make Shakespeare blush, Liszt and Carolyne finally thought they could tie the knot in Rome, only to be blocked by a Vatican official. Turns out love also needed a permission slip!",
-      "year": 1861,
-      "city": "Rome",
-      "country": "Italy"
-    },
-    {
-      "event": "Hungarian Coronation Mass",
-      "summary": "In a grand display of national pride, Liszt composed a special piece for the Hungarian coronation, proving that even in music, he knew how to throw a royal shindig. The church bells must have rung like they were announcing a concert!",
-      "year": 1867,
-      "city": "Budapest",
-      "country": "Hungary"
-    },
-    {
-      "event": "Teaching at the Royal Academy",
-      "summary": "Liszt returned to Budapest as a celebrated professor, teaching young musicians with the same flair he brought to his performances. It was like Hogwarts but for aspiring pianists\u2014complete with magical music lessons!",
-      "year": 1873,
-      "city": "Budapest",
-      "country": "Hungary"
-    },
-    {
-      "event": "Final Days in Bayreuth",
-      "summary": "In a dramatic finale, Liszt spent his last days supporting his daughter's festival. He was a true family man, championing Wagner\u2019s works until the very end. Even illness couldn't overshadow the maestro's spirit as he waved his last baton.",
-      "year": 1886,
-      "city": "Bayreuth",
-      "country": "Germany"
-    },
-    {
-      "event": "Meeting Chopin",
-      "summary": "Liszt and Chopin crossed paths in artistic circles, leading to a memorable first performance by Chopin that Liszt admired greatly. Who knew that admiration could spark a friendship filled with flamboyant personalities and charity concerts?",
-      "year": 1832,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Friendship with Chopin",
-      "summary": "After a stellar introduction, Liszt and Chopin became close friends and performed together multiple times. It was almost a buddy comedy, with one being a piano hero and the other trying to hide from the limelight!",
-      "year": 1833,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Frosty Relationship with Chopin",
-      "summary": "As years rolled on, the friendship cooled, with romantic entanglements and jealousy getting in the way. Who knew that artists could be so dramatic off-stage too?",
-      "year": 1840,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Chopin's Death and Tribute",
-      "summary": "Right after the news of Chopin's passing, Liszt jumped into action with a monument and a biography. Talk about being a friend who wants to be remembered\u2014preferably in a flattering light!",
-      "year": 1849,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Meeting Robert Schumann",
-      "summary": "Liszt's positive review of Schumann's works led to a correspondence and a meeting. Who knew a little praise could spark a friendship, although it was one rife with drama later on?",
-      "year": 1837,
-      "city": "Dresden",
-      "country": "Germany"
-    },
-    {
-      "event": "Performance in Honor of the Schumanns",
-      "summary": "Two hours late to a piano trio performance honoring him, Liszt caused quite the stir. Speaking ill of Mendelssohn at a friendly gathering? That was one way to be uninvited from future events!",
-      "year": 1848,
-      "city": "Schumann's home",
-      "country": "Germany"
-    },
-    {
-      "event": "Sheltering Wagner",
-      "summary": "A heroic moment! Liszt offered Wagner refuge after a failed uprising, complete with a false passport and loan. Let\u2019s call it 'friendship under fire'!",
-      "year": 1849,
-      "city": "Weimar",
-      "country": "Germany"
-    },
-    {
-      "event": "World Premiere of Lohengrin",
-      "summary": "Arranging the premiere of Wagner's Lohengrin, Liszt showed off his dedication to friendship. It's like saying, 'I\u2019ll help you out\u2014even if it draws the ire of critics!'",
-      "year": 1850,
-      "city": "Weimar",
-      "country": "Germany"
-    },
-    {
-      "event": "Financial Support for Wagner",
-      "summary": "Over a decade of supporting Wagner financially, Liszt proved to be the friend who really had your back\u2014at least until the money ran out!",
-      "year": 1850,
-      "city": "Weimar",
-      "country": "Germany"
-    },
-    {
-      "event": "Relationship with Cosima",
-      "summary": "When Liszt found out Wagner was dating his daughter, it was like a plot twist in a soap opera, leaving him miffed and creating a rift\u2014only to patch things up later in typical melodramatic fashion!",
-      "year": 1864,
-      "city": "Bayreuth",
-      "country": "Germany"
-    },
-    {
-      "event": "Death of Liszt",
-      "summary": "Liszt took his final bow during a Bayreuth Festival dedicated to Wagner's work. Talk about leaving the stage while passing the spotlight to his longtime friend\u2014now that\u2019s friendship goals!",
-      "year": 1886,
-      "city": "Bayreuth",
-      "country": "Germany"
-    },
-    {
-      "event": "First Solo Recital",
-      "summary": "Liszt blew everyone's minds in London by giving a solo piano recital, a concept so new that it made other performers feel like mere warm-up acts. The piano was so happy it nearly started singing itself!",
-      "year": 1840,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Commissioned Piano-Organ",
-      "summary": "After an epic brainstorming session in Paris, Liszt had his own 'piano-organ' built which could basically play both piano and harmonium. Because why settle for one when you can confuse the audience with two?",
-      "year": 1854,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Major Organ Works",
-      "summary": "Liszt composed his two most significant organ masterpieces, proving that organ music could be as thrilling as a roller coaster ride, minus the nausea. His works have inspired many organists ever since, who are secretly competing to pull off the most dramatic performances.",
-      "year": 1850,
-      "city": "Weimar",
-      "country": "Germany"
-    },
-    {
-      "event": "Coined Program Music",
-      "summary": "With a cheeky pen stroke, Liszt defined program music, essentially saying, 'Let\u2019s tell a story with music!' This concept made composers rush out to create musical narratives instead of just notes on a page.",
-      "year": 1855,
-      "city": "Weimar",
-      "country": "Germany"
-    },
-    {
-      "event": "Creation of Symphonic Poems",
-      "summary": "Liszt decided that one-movement orchestral works should be a thing, creating what are now known as symphonic poems, allowing orchestras to stretch their storytelling muscles while still keeping their evening suits wrinkle-free.",
-      "year": 1858,
-      "city": "Weimar",
-      "country": "Germany"
-    },
-    {
-      "event": "Final Period Begins",
-      "summary": "Liszt embarked on a journey into more experimental music, writing quirky pieces that seemed to delight in keeping listeners guessing. They might have left scratching their heads, but at least it was never boring!",
-      "year": 1869,
-      "city": "Weimar",
-      "country": "Germany"
-    },
-    {
-      "event": "First public performance",
-      "summary": "Liszt had his first public performance at the tender age of 9. While most kids were playing games, he was busy playing the piano like a seasoned pro, impressing everyone with his extraordinary talents.",
-      "year": 1820,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Study with Czerny",
-      "summary": "Liszt began studying with Carl Czerny, who was not only a virtuoso in his own right but also had the uncanny ability to make years of musical practice feel like a fun roller coaster ride.",
-      "year": 1822,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Popularizing the symphonic poem",
-      "summary": "Liszt had a lightbulb moment when he decided that symphonic poems were the way to go. Suddenly, orchestras everywhere were writing pieces that told stories without any words\u2014just lots of dramatic chords and melodies!",
-      "year": 1848,
-      "city": "Weimar",
-      "country": "Germany"
-    },
-    {
-      "event": "Marriage proposal to Princess Carolyne",
-      "summary": "In a true tale of romance and bureaucracy, Liszt proposed to Princess Carolyne. However, their engagement was as tumultuous as any opera, filled with drama but alas, no wedding bells.",
-      "year": 1852,
-      "city": "Weimar",
-      "country": "Germany"
-    },
-    {
-      "event": "Established masterclasses",
-      "summary": "Liszt introduced the concept of the masterclass, where students learned by watching and listening. It was like a reality show, but with less drama and more piano.",
-      "year": 1861,
-      "city": "Weimar",
-      "country": "Germany"
-    },
-    {
-      "event": "Final concert",
-      "summary": "Liszt gave his last public performance, leaving the audience in awe and disbelief that the music was coming to a close. It was as if the curtains were closing, but the echoes of his notes lingered in the air.",
-      "year": 1886,
-      "city": "Bayreuth",
-      "country": "Germany"
-    },
-    {
-      "event": "Death",
-      "summary": "Liszt departed from this world, leaving behind a legacy of music that would make even the toughest critics soften. His final act might have been leaving the piano, but his music played on in the hearts of many.",
-      "year": 1886,
-      "city": "Bayreuth",
-      "country": "Germany"
-    },
-    {
-      "event": "First Piano Lessons",
-      "summary": "At the tender age of six, little Franz began taking piano lessons from his father. It was a match made in music heaven, complete with relentless practice and occasional foot-stomping when the notes just wouldn't cooperate.",
-      "year": 1817,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "First Public Concert",
-      "summary": "Young Liszt wowed the audience at his first public concert, proving that he was not just another child prodigy but a spectacular one. It's said the audience left wondering if they'd just seen a musical miracle or simply a young boy with a penchant for entertaining.",
-      "year": 1820,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Paris Concerts",
-      "summary": "Liszt took Paris by storm, performing with such flair that he was quickly dubbed a piano superstar. There were tales of ladies fainting and gentlemen swooning, leaving debris of opera glasses and handkerchiefs in his wake.",
+      "section": "Relationships with other composers",
+      "title": "Meeting with Hector Berlioz",
+      "summary": "Liszt and Berlioz first met on 4 December 1830, the day before the premiere of Berlioz's Symphonie fantastique. They developed a close friendship, collaborating on several concerts and working together on the revision of Berlioz's Benvenuto Cellini in Weimar. Liszt organized a \"Berlioz Week\" showcasing Berlioz's works, highlighting their collaborative spirit and influence on each other's compositions.",
       "year": 1830,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Imagine the scene: it's December 4, 1830, just before the premiere of Berlioz's Symphonie fantastique, and two musical powerhouses, Liszt and Berlioz, bump into each other. They hit it off and decided to team up for several concerts, even tackling the revision of Berlioz's opera, Benvenuto Cellini, in Weimar. Liszt organized a 'Berlioz Week', turning concert halls into a Berlioz fan club! We can only hope there were snacks."
     },
     {
-      "event": "Composition of the 'Totentanz'",
-      "summary": "Finding a love for the dramatic, Liszt wrote 'Totentanz'\u2014a piece so intense that it could make a funeral feel like a lively party. Only Liszt could turn the theme of death into a virtuoso performance!",
-      "year": 1839,
-      "city": "Weimar",
-      "country": "Germany"
+      "section": "Relationships with other composers",
+      "title": "First Performance of Chopin in Paris",
+      "summary": "Liszt attended Chopin's first Paris performance at the Salle Pleyel on 26 February 1832, which he greatly admired. By mid-1833, the two had forged a close friendship, performing together frequently for charity, despite Chopin's limited public appearances.",
+      "year": 1832,
+      "location": "Paris",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Liszt attended Chopin's Paris debut at the Salle Pleyel on 26 February 1832, and he was so impressed that he nearly tossed his fancy wig onto the stage! By mid-1833, these two musical maestros became inseparable, performing charity concerts together, despite Chopin's limited public appearances."
     },
     {
-      "event": "Richter's Debut",
-      "summary": "In a move to showcase composers' works beyond his own, Liszt hosted concerts featuring other musicians, proving he wasn\u2019t just a piano hog. His self-sacrificing servant-heartedness was noted while simultaneously outshining everyone at the piano!",
+      "section": "Life",
+      "title": "Meeting Paganini",
+      "summary": "Attending a concert featuring the violinist Niccol\u00f2 Paganini in April 1832 inspired Liszt to aspire to virtuosity on the piano, prompting him to practice intensively and eventually publish works based on Paganini's music.",
+      "year": 1832,
+      "location": "Paris",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "In April 1832, attending a concert featuring violinist Niccol\u00f2 Paganini inspired Liszt to aspire to virtuosity on the piano. He thought, 'If this guy can make a violin sing, I better get my piano to start tapping its foot!' So, he locked himself in a room and practiced intensively, eventually publishing a bunch of works that had people scratching their heads wondering if they should dance or simply stay in awe!"
+    },
+    {
+      "section": "Life",
+      "title": "Relationship with Marie d'Agoult",
+      "summary": "Liszt began a romantic relationship with Countess Marie d'Agoult in 1833. They lived together, traveling through Switzerland and Italy, during which time they had three children together.",
+      "year": 1833,
+      "location": "Geneva",
+      "emoji": "\u2764\ufe0f",
+      "fun_version": "In 1833, Liszt decided to take a break from piano keys and instead hit the romantic keys with Countess Marie d'Agoult. They lived together in harmony (or as much as one can with three kids!) while trotting through the beautiful landscapes of Switzerland and Italy, collecting little Liszt-lets like rare stamps along the way!"
+    },
+    {
+      "section": "Relationships with other composers",
+      "title": "Positive Review of Robert Schumann",
+      "summary": "In 1837, Liszt wrote a positive review of Robert Schumann's Impromptus and his piano sonatas, marking the beginning of their correspondence. Liszt met Clara Wieck, Schumann's fianc\u00e9e, in 1838, dedicating his early version of Grandes \u00e9tudes de Paganini to her.",
+      "year": 1837,
+      "location": "Dresden",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "In 1837, Liszt, being the ultimate music critic, decided to give a thumbs up to Schumann\u2019s Impromptus and piano sonatas, hence kicking off what we can only assume to be the 19th century's most melodious pen pal relationship. Then, in 1838, he bumped into Clara Wieck, Schumann's fianc\u00e9e, and dedicated his early version of 'Grandes \u00e9tudes de Paganini' to her. Nice save, Liszt!"
+    },
+    {
+      "section": "Life",
+      "title": "Lisztomania",
+      "summary": "After separating from Marie d'Agoult, Liszt's concerts from 1841 to 1842 led to immense popularity, highlighted by public enthusiasm often referred to as 'Lisztomania', where fans would fight for items he touched.",
+      "year": 1841,
+      "location": "Berlin",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "After separating from Marie d'Agoult, Liszt's concerts from 1841 to 1842 led to immense popularity, highlighted by public enthusiasm often referred to as 'Lisztomania.' Fans were so obsessed, they fought over his discarded handkerchiefs!"
+    },
+    {
+      "section": "Life",
+      "title": "Retirement from public concerts",
+      "summary": "Liszt decided to retire from the concert stage at the age of 35, allowing his legend as a pianist to remain untarnished while he focused on composition.",
+      "year": 1846,
+      "location": "Weimar",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Liszt decided to retire from the concert stage at the age of 35, allowing his legend as a pianist to remain untarnished while he focused on composing. He figured, why perform when you can be a legendary composer? It\u2019s like retiring from teaching to go full-time on writing textbooks that no one will read. Classic Liszt!"
+    },
+    {
+      "section": "Relationships with other composers",
+      "title": "Liszt's Contribution to Wagner",
+      "summary": "In 1849, Liszt provided shelter and financial assistance to Wagner after the failed May Uprising in Dresden. He arranged a false passport and helped Wagner escape to Switzerland, showcasing his loyalty and support for his fellow composer during troubled times.",
+      "year": 1849,
+      "location": "Dresden",
+      "emoji": "\ud83e\udd1d",
+      "fun_version": "In 1849, Liszt turned into a superhero for Wagner after the May Uprising in Dresden flopped. He whipped up a fake passport and whisked Wagner off to Switzerland, showcasing his loyalty and support for his fellow composer during troubled times, proving that even in the world of music, it\u2019s all about having the right connections!"
+    },
+    {
+      "section": "Relationships with other composers",
+      "title": "Performance of Tannh\u00e4user",
+      "summary": "Liszt staged Tannh\u00e4user in 1849, marking the first performance of the work outside Dresden. He published transcriptions from the opera and expressed his ardent admiration for Wagner, solidifying their collaborative relationship in the realm of music.",
+      "year": 1849,
+      "location": "Weimar",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1849, Liszt staged Tannh\u00e4user, marking the first performance of the work outside Dresden, like it was the hottest ticket in town. Who wouldn't want to be there with Wagner\u2019s fancy tunes? He even published transcriptions from the opera, proving that flattery will get you everywhere, solidifying their collaborative relationship in the realm of music."
+    },
+    {
+      "section": "Relationships with other composers",
+      "title": "Premiere of Lohengrin",
+      "summary": "In 1850, Liszt arranged the premiere of Wagner's opera Lohengrin, which was dedicated to him. This performance represented Liszt's ongoing commitment to promoting Wagner's music and the deepening of their artistic connection.",
       "year": 1850,
-      "city": "Weimar",
-      "country": "Germany"
+      "location": "Weimar",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "In 1850, Liszt decided that if he couldn't become a magician, he'd at least show off his own brand of musical wizardry! So, he arranged the premiere of Wagner's opera Lohengrin, which ironically was dedicated to him. This performance was not just another piano recital; it was Liszt\u2019s way of saying, \u2018Hey Wagner, I got your back!\u2019 and highlighting his ongoing commitment to promoting Wagner's music and their deepening artistic connection."
     },
     {
-      "event": "The 'Hungarian Rhapsodies'",
-      "summary": "Liszt's Hungarian Rhapsodies hit the scene, blending national pride with musical fireworks. Suddenly, everyone wanted to dance their way through Hungary, even if they'd never left their living rooms!",
-      "year": 1851,
-      "city": "Paris",
-      "country": "France"
+      "section": "Relationships with other composers",
+      "title": "Contribution to Bayreuth Festspielhaus",
+      "summary": "In 1871, Liszt contributed financially to the building of the Bayreuth Festspielhaus, supporting the venue that would become central to Wagner's operatic legacy. This act reflected Liszt's reconciliation with Wagner and continued investment in his artistic endeavors.",
+      "year": 1871,
+      "location": "Bayreuth",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "In 1871, Liszt decided to play the role of the ultimate wingman, financially sponsoring the construction of the Bayreuth Festspielhaus, a venue key to Wagner's operatic legacy. This act was Liszt's way of saying, \u2018Hey Wagner, let\u2019s bury the hatchet and keep this operatic dream alive!\u2019"
     },
     {
-      "event": "First Concert",
-      "summary": "At a tender age, Liszt performed his first concert and whisked his audience away on a musical journey so profound, it rivaled the most dramatic soap opera plot twists. Even the critics were left wondering how a child could produce such celestial sounds!",
-      "year": 1820,
-      "city": "Vienna",
-      "country": "Austria"
+      "section": "Life",
+      "title": "Becoming a teacher in Budapest",
+      "summary": "In 1875, Liszt was appointed as president of the Royal Academy of Music in Budapest, where he would teach until his final years, significantly impacting music education.",
+      "year": 1875,
+      "location": "Budapest",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Back in 1875, Liszt strutted into the Royal Academy of Music in Budapest like he owned the place, becoming its president. He must've thought teaching was like a musical game - the kids play, and he gets to conduct the chaos. His tenure significantly transformed music education, making it a much more entertaining affair until his retirement!"
     },
     {
-      "event": "Innovative Techniques",
-      "summary": "Liszt introduced revolutionary playing techniques that had pianists everywhere scrambling to keep up. He practically invented the 'Lisztian' style, making every performance feel like a thrilling rock concert but with more lace and less leather.",
-      "year": 1835,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Piano Concerto No. 1 Premiere",
-      "summary": "The premiere of his Piano Concerto No. 1 was met with such enthusiasm that it felt like a standing ovation was a mandatory response. People were so enchanted, they probably forgot there was a whole world outside the concert hall.",
-      "year": 1855,
-      "city": "Weimar",
-      "country": "Germany"
-    },
-    {
-      "event": "Teaching Legacy",
-      "summary": "Liszt took on a legion of students, imparting his magical touch to the next generation of musicians. If his students weren't careful, they might have inadvertently created a whole new genre\u2014'Liszt's Piano School of Rock'.",
-      "year": 1861,
-      "city": "Weimar",
-      "country": "Germany"
+      "section": "Life",
+      "title": "Final years and death",
+      "summary": "Liszt faced declining health in his final years and died on July 31, 1886, in Bayreuth during a music festival dedicated to Wagner's works, officially from pneumonia.",
+      "year": 1886,
+      "location": "Bayreuth",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Liszt faced declining health in his final years. On July 31, 1886, while surrounded by Wagner's glorious sounds in Bayreuth during a music festival dedicated to Wagner's works, he decided to take a permanent intermission, officially signing off due to pneumonia."
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/%C3%80_la_Chapelle_Sixtine,_S.461_(Liszt,_Franz)",
-      "year": 1862,
-      "title": "\u00c0 la Chapelle Sixtine, S.461"
+      "title": "Variation on a Waltz by Diabelli, S.147",
+      "imslp_url": "https://imslp.org/wiki/Variation_on_a_Waltz_by_Diabelli,_S.147_(Liszt,_Franz)",
+      "year": 1822
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Ab_irato,_S.143_(Liszt,_Franz)",
-      "year": 1840,
-      "title": "Ab irato, S.143"
+      "title": "2 Waltzes, S.126b",
+      "imslp_url": "https://imslp.org/wiki/2_Waltzes,_S.126b_(Liszt,_Franz)",
+      "year": 1823
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Abschied,_S.251_(Liszt,_Franz)",
-      "year": 1885,
-      "title": "Abschied, S.251"
+      "title": "8 Variations, S.148",
+      "imslp_url": "https://imslp.org/wiki/8_Variations,_S.148_(Liszt,_Franz)",
+      "year": 1824
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Les_adieux,_S.409_(Liszt,_Franz)",
-      "year": 1867,
-      "title": "Les adieux, S.409"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Agnus_Dei_della_Messa_da_Requiem_di_Giuseppe_Verdi,_S.437_(Liszt,_Franz)",
-      "year": 1874,
-      "title": "Agnus Dei della Messa da Requiem di Giuseppe Verdi, S.437"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Air_cosaque,_S.249c_(Liszt,_Franz)",
-      "year": 1879,
-      "title": "Air cosaque, S.249c"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album_d%27un_voyageur,_S.156_(Liszt,_Franz)",
-      "year": 1837,
-      "title": "Album d'un voyageur, S.156"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%272nd_Concerto%27,_S.163a/1_(Liszt,_Franz)",
-      "year": 1828,
-      "title": "Album-Leaf '2nd Concerto', S.163a/1"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%2712_Einleitungs_Takten_zur_Harmonie_poetique:_B%C3%A9n%C3%A9diction_de_Dieu_dans_la_solitude%27,_S.166x_(Liszt,_Franz)",
-      "year": 1883,
-      "title": "Album-Leaf '12 Einleitungs Takten zur Harmonie poetique: B\u00e9n\u00e9diction de Dieu dans la solitude', S.166x"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Adagio%27,_S.164l_(Liszt,_Franz)",
-      "year": 1825,
-      "title": "Album-Leaf 'Adagio', S.164l"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Ah,_vous_dirai-je,_maman%27,_S.163b_(Liszt,_Franz)",
-      "year": 1833,
-      "title": "Album-Leaf 'Ah, vous dirai-je, maman', S.163b"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Andante_molto_espressivo%27,_S.165f_(Liszt,_Franz)",
-      "year": 1857,
-      "title": "Album-Leaf 'Andante molto espressivo', S.165f"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Andante_religioso%27,_S.166h_(Liszt,_Franz)",
-      "year": 1846,
-      "title": "Album-Leaf 'Andante religioso', S.166h"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Andante%27,_S.167r_(Liszt,_Franz)",
-      "year": 1850,
-      "title": "Album-Leaf 'Andante', S.167r"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Andantino%27,_S.163a/2_(Liszt,_Franz)",
-      "year": 1828,
-      "title": "Album-Leaf 'Andantino', S.163a/2"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Ave_Maria%27,_S.164q_(Liszt,_Franz)",
-      "year": 1841,
-      "title": "Album-Leaf 'Ave Maria', S.164q"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Berlin_I%27,_S.167n_(Liszt,_Franz)",
-      "year": 1842,
-      "title": "Album-Leaf 'Berlin I', S.167n"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Berlin_II%27,_S.167v_(Liszt,_Franz)",
-      "year": 1842,
-      "title": "Album-Leaf 'Berlin II', S.167v"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Berlin_Preludio%27,_S.164g_(Liszt,_Franz)",
-      "year": 1842,
-      "title": "Album-Leaf 'Berlin Preludio', S.164g"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Cantique_d%27amour%27,_S.167t_(Liszt,_Franz)",
-      "year": 1853,
-      "title": "Album-Leaf 'Cantique d'amour', S.167t"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Consolation_1%27,_S.165a_(Liszt,_Franz)",
-      "year": 1870,
-      "title": "Album-Leaf 'Consolation 1', S.165a"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Dante_fragment%27,_S.701e_(Liszt,_Franz)",
-      "year": 1837,
-      "title": "Album-Leaf 'Dante fragment', S.701e"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Dante-Symphony%27,_S.165e_(Liszt,_Franz)",
-      "year": 1858,
-      "title": "Album-Leaf 'Dante-Symphony', S.165e"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Detmold%27,_S.164d_(Liszt,_Franz)",
-      "year": 1841,
-      "title": "Album-Leaf 'Detmold', S.164d"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Dresden%27,_S.165l_(Liszt,_Franz)",
-      "year": 1840,
-      "title": "Album-Leaf 'Dresden', S.165l"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Fragment_d%27%C3%89tude,_d%27apres_Paganini%27,_S.166u_(Liszt,_Franz)",
-      "year": 1838,
-      "title": "Album-Leaf 'Fragment d'\u00c9tude, d'apres Paganini', S.166u"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Frankfurt%27,_S.163o_(Liszt,_Franz)",
-      "year": 1842,
-      "title": "Album-Leaf 'Frankfurt', S.163o"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Freudvoll_und_leidvoll%27,_S.166n_(Liszt,_Franz)",
-      "year": 1847,
-      "title": "Album-Leaf 'Freudvoll und leidvoll', S.166n"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Fugue_Chromatique%27,_S.167j_(Liszt,_Franz)",
-      "year": 1844,
-      "title": "Album-Leaf 'Fugue Chromatique', S.167j"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27L%C3%A9lio%27,_S.167g_(Liszt,_Franz)",
-      "year": 1835,
-      "title": "Album-Leaf 'L\u00e9lio', S.167g"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Magdeburg%27,_S.163n_(Liszt,_Franz)",
-      "year": 1844,
-      "title": "Album-Leaf 'Magdeburg', S.163n"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Osnabr%C3%BCck%27,_S.165b_(Liszt,_Franz)",
-      "year": 1841,
-      "title": "Album-Leaf 'Osnabr\u00fcck', S.165b"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Paris_Preludio%27,_S.164j_(Liszt,_Franz)",
-      "year": 1842,
-      "title": "Album-Leaf 'Paris Preludio', S.164j"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Paris%27,_S.163h_(Liszt,_Franz)",
-      "year": 1842,
-      "title": "Album-Leaf 'Paris', S.163h"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Portugal%27,_S.166b_(Liszt,_Franz)",
-      "year": 1845,
-      "title": "Album-Leaf 'Portugal', S.166b"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Preludio%27,_S.165c_(Liszt,_Franz)",
-      "year": 1841,
-      "title": "Album-Leaf 'Preludio', S.165c"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Pressburg_I%27,_S.163c_(Liszt,_Franz)",
-      "year": 1839,
-      "title": "Album-Leaf 'Pressburg I', S.163c"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Quasi_Mazurek%27,_S.163e_(Liszt,_Franz)",
-      "year": 1843,
-      "title": "Album-Leaf 'Quasi Mazurek', S.163e"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27R%C3%A1k%C3%B3czi-Marsch%27,_S.164f_(Liszt,_Franz)",
-      "year": 1841,
-      "title": "Album-Leaf 'R\u00e1k\u00f3czi-Marsch', S.164f"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27St._Fran%C3%A7ois_de_Paule%27,_S.165o_(Liszt,_Franz)",
-      "year": 1873,
-      "title": "Album-Leaf 'St. Fran\u00e7ois de Paule', S.165o"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf_%27Weimar_II%27,_S.166c_(Liszt,_Franz)",
-      "year": 1845,
-      "title": "Album-Leaf 'Weimar II', S.166c"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album-Leaf,_S.166a_(Liszt,_Franz)",
-      "year": 1843,
-      "title": "Album-Leaf, S.166a"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Album-Leaves,_S.163f_(Liszt,_Franz)",
-      "year": 1840,
-      "title": "2 Album-Leaves, S.163f"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/8_Album-Leaves,_S.164e_(Liszt,_Franz)",
-      "year": 1840,
-      "title": "8 Album-Leaves, S.164e"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Album-Leaves,_S.164o_(Liszt,_Franz)",
-      "year": 1841,
-      "title": "2 Album-Leaves, S.164o"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Album-Leaves,_S.166f_(Liszt,_Franz)",
-      "year": 1844,
-      "title": "5 Album-Leaves, S.166f"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Album-Leaves,_S.166y_(Liszt,_Franz)",
-      "year": 1884,
-      "title": "2 Album-Leaves, S.166y"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Album-Leaves,_S.167k_(Liszt,_Franz)",
-      "year": 1840,
-      "title": "5 Album-Leaves, S.167k"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Album-Leaves,_S.167l_(Liszt,_Franz)",
-      "year": 1849,
-      "title": "2 Album-Leaves, S.167l"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Albumblatt_in_E_major,_S.164_(Liszt,_Franz)",
-      "year": 1840,
-      "title": "Albumblatt in E major, S.164"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Albumblatt_in_Walzerform,_S.166_(Liszt,_Franz)",
-      "year": 1842,
-      "title": "Albumblatt in Walzerform, S.166"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Albumbl%C3%A4tter_f%C3%BCr_Prinzessin_Marie_von_Sayn-Wittgenstein,_S.166m_(Liszt,_Franz)",
-      "year": 1847,
-      "title": "Albumbl\u00e4tter f\u00fcr Prinzessin Marie von Sayn-Wittgenstein, S.166m"
-    },
-    {
+      "title": "Allegro di bravura, S.151",
       "imslp_url": "https://imslp.org/wiki/Allegro_di_bravura,_S.151_(Liszt,_Franz)",
-      "year": 1824,
-      "title": "Allegro di bravura, S.151"
+      "year": 1824
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Alleluja,_S.183/1_(Liszt,_Franz)",
-      "year": 1862,
-      "title": "Alleluja, S.183/1"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Alte_deutsche_geistliche_Weisen,_S.50_(Liszt,_Franz)",
-      "year": 1878,
-      "title": "Alte deutsche geistliche Weisen, S.50"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Am_Grabe_Richard_Wagners,_S.135_(Liszt,_Franz)",
-      "year": 1883,
-      "title": "Am Grabe Richard Wagners, S.135"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Am_stillen_Herd,_S.448_(Liszt,_Franz)",
-      "year": 1871,
-      "title": "Am stillen Herd, S.448"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/An_den_heiligen_Franziskus_von_Paula,_S.28_(Liszt,_Franz)",
-      "year": 1860,
-      "title": "An den heiligen Franziskus von Paula, S.28"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/An_die_K%C3%BCnstler,_S.70_(Liszt,_Franz)",
-      "year": 1853,
-      "title": "An die K\u00fcnstler, S.70"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/An_Edlitam,_S.333_(Liszt,_Franz)",
-      "year": 1878,
-      "title": "An Edlitam, S.333"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Andante_Finale_und_Marsch_aus_der_Oper_K%C3%B6nig_Alfred,_S.421_(Liszt,_Franz)",
-      "year": 1853,
-      "title": "Andante Finale und Marsch aus der Oper K\u00f6nig Alfred, S.421"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Andante_sensibilissimo,_S.701c_(Liszt,_Franz)",
-      "year": 1880,
-      "title": "Andante sensibilissimo, S.701c"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Anfangs_wollt%27_ich_fast_verzagen,_S.311_(Liszt,_Franz)",
-      "year": 1849,
-      "title": "Anfangs wollt' ich fast verzagen, S.311"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Angiolin_dal_biondo_crin,_S.269_(Liszt,_Franz)",
-      "year": 1839,
-      "title": "Angiolin dal biondo crin, S.269"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Anima_Christi_sanctifica_me,_S.46_(Liszt,_Franz)",
-      "year": 1874,
-      "title": "Anima Christi sanctifica me, S.46"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ann%C3%A9es_de_p%C3%A8lerinage_I,_S.160_(Liszt,_Franz)",
-      "year": 1848,
-      "title": "Ann\u00e9es de p\u00e8lerinage I, S.160"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ann%C3%A9es_de_p%C3%A8lerinage_II,_S.161_(Liszt,_Franz)",
-      "year": 1846,
-      "title": "Ann\u00e9es de p\u00e8lerinage II, S.161"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ann%C3%A9es_de_p%C3%A8lerinage_II,_Suppl%C3%A9ment,_S.162_(Liszt,_Franz)",
-      "year": 1859,
-      "title": "Ann\u00e9es de p\u00e8lerinage II, Suppl\u00e9ment, S.162"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ann%C3%A9es_de_p%C3%A8lerinage_III,_S.163_(Liszt,_Franz)",
-      "year": 1867,
-      "title": "Ann\u00e9es de p\u00e8lerinage III, S.163"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Apparitions,_S.155_(Liszt,_Franz)",
-      "year": 1834,
-      "title": "Apparitions, S.155"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Aus_Lohengrin,_S.446_(Liszt,_Franz)",
-      "year": 1854,
-      "title": "Aus Lohengrin, S.446"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ave_Maria_(Die_Glocken_von_Rom),_S.182_(Liszt,_Franz)",
-      "year": 1862,
-      "title": "Ave Maria"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ave_Maria_d%27Arcadelt,_S.183/2_(Liszt,_Franz)",
-      "year": 1862,
-      "title": "Ave Maria d'Arcadelt, S.183/2"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ave_Maria_I,_S.20_(Liszt,_Franz)",
-      "year": 1846,
-      "title": "Ave Maria I, S.20"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ave_Maria_II,_S.38_(Liszt,_Franz)",
-      "year": 1869,
-      "title": "Ave Maria II, S.38"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ave_Maria_III,_S.60_(Liszt,_Franz)",
-      "year": 1883,
-      "title": "Ave Maria III, S.60"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ave_Maria_IV,_S.341_(Liszt,_Franz)",
-      "year": 1881,
-      "title": "Ave Maria IV, S.341"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ave_maris_stella,_S.34_(Liszt,_Franz)",
-      "year": 1865,
-      "title": "Ave maris stella, S.34"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ave_verum_corpus,_S.44_(Liszt,_Franz)",
-      "year": 1871,
-      "title": "Ave verum corpus, S.44"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Bagatelle_sans_tonalit%C3%A9,_S.216a_(Liszt,_Franz)",
-      "year": 1885,
-      "title": "Bagatelle sans tonalit\u00e9, S.216a"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ballade_aus_dem_Fliegenden_Holl%C3%A4nder,_S.441_(Liszt,_Franz)",
-      "year": 1872,
-      "title": "Ballade aus dem Fliegenden Holl\u00e4nder, S.441"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ballade_No.1,_S.170_(Liszt,_Franz)",
-      "year": 1845,
-      "title": "Ballade No.1, S.170"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ballade_No.2,_S.171_(Liszt,_Franz)",
-      "year": 1853,
-      "title": "Ballade No.2, S.171"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Beethoven_Symphonies,_S.464_(Liszt,_Franz)",
-      "year": 1837,
-      "title": "Beethoven Symphonies, S.464"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/B%C3%A9n%C3%A9diction_et_serment,_S.396_(Liszt,_Franz)",
-      "year": 1852,
-      "title": "B\u00e9n\u00e9diction et serment, S.396"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Berceuse,_S.174_(Liszt,_Franz)",
-      "year": 1854,
-      "title": "Berceuse, S.174"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Bist_du,_S.277_(Liszt,_Franz)",
-      "year": 1844,
-      "title": "Bist du, S.277"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Der_blinde_S%C3%A4nger,_S.350_(Liszt,_Franz)",
-      "year": 1875,
-      "title": "Der blinde S\u00e4nger, S.350"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Blume_und_Duft,_S.324_(Liszt,_Franz)",
-      "year": 1854,
-      "title": "Blume und Duft, S.324"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Buch_der_Lieder_I,_S.531_(Liszt,_Franz)",
-      "year": 1843,
-      "title": "Buch der Lieder I, S.531"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Buch_der_Lieder_II,_S.535%E2%80%93540_(Liszt,_Franz)",
-      "year": 1847,
-      "title": "Buch der Lieder II, S.535\u2013540"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/B%C3%BClow-Marsch,_S.230_(Liszt,_Franz)",
-      "year": 1883,
-      "title": "B\u00fclow-Marsch, S.230"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Cadenza,_S.695f_(Liszt,_Franz)",
-      "year": 1880,
-      "title": "Cadenza, S.695f"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Cantantibus_organis,_S.7_(Liszt,_Franz)",
-      "year": 1879,
-      "title": "Cantantibus organis, S.7"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Cantico_del_sol_di_Francesco_d%27Assisi,_S.4_(Liszt,_Franz)",
-      "year": 1862,
-      "title": "Cantico del sol di Francesco d'Assisi, S.4"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Canzone_Napolitana,_S.248_(Liszt,_Franz)",
-      "year": 1842,
-      "title": "Canzone Napolitana, S.248"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Capriccio_alla_turca_sur_des_motifs_de_Beethoven,_S.388_(Liszt,_Franz)",
-      "year": 1846,
-      "title": "Capriccio alla turca sur des motifs de Beethoven, S.388"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Caprices-Valses,_S.214_(Liszt,_Franz)",
-      "year": 1850,
-      "title": "3 Caprices-Valses, S.214"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Carrousel_de_Madame_Pelet-Narbonne,_S.214a_(Liszt,_Franz)",
-      "year": 1875,
-      "title": "Carrousel de Madame Pelet-Narbonne, S.214a"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ce_qu%27on_entend_sur_la_montagne,_S.95_(Liszt,_Franz)",
-      "year": 1848,
-      "title": "Ce qu'on entend sur la montagne, S.95"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Chanson_boh%C3%A9mienne,_S.250/2_(Liszt,_Franz)",
-      "year": 1853,
-      "title": "Chanson boh\u00e9mienne, S.250/2"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Chanson_du_B%C3%A9arn,_S.236/2_(Liszt,_Franz)",
-      "year": 1844,
-      "title": "Chanson du B\u00e9arn, S.236/2"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Chansons,_S.510a_(Liszt,_Franz)",
-      "year": 1852,
-      "title": "3 Chansons, S.510a"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ch%C3%B6re_zu_Herders_Entfesseltem_Prometheus,_S.69_(Liszt,_Franz)",
-      "year": 1850,
-      "title": "Ch\u00f6re zu Herders Entfesseltem Prometheus, S.69"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Choruses_with_French_texts,_S.18_(Liszt,_Franz)",
-      "year": 1846,
-      "title": "5 Choruses with French texts, S.18"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Christus_ist_geboren,_S.31_(Liszt,_Franz)",
-      "year": 1863,
-      "title": "Christus ist geboren, S.31"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Christus_ist_geboren,_S.32_(Liszt,_Franz)",
-      "year": 1863,
-      "title": "Christus ist geboren, S.32"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Christus,_S.3_(Liszt,_Franz)",
-      "year": 1866,
-      "title": "Christus, S.3"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_cloche_sonne,_S.238_(Liszt,_Franz)",
-      "year": 1850,
-      "title": "La cloche sonne, S.238"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Comment_disaient-ils,_S.276_(Liszt,_Franz)",
-      "year": 1844,
-      "title": "Comment disaient-ils, S.276"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Concert_Paraphrase_on_Mendelssohn%27s_%27Sommernachtstraum%27,_S.410_(Liszt,_Franz)",
-      "year": 1849,
-      "title": "Concert Paraphrase on Mendelssohn's 'Sommernachtstraum', S.410"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Concerto_path%C3%A9tique,_S.258_(Liszt,_Franz)",
-      "year": 1865,
-      "title": "Concerto path\u00e9tique, S.258"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Concerto_sans_orchestre,_S.524a_(Liszt,_Franz)",
-      "year": 1839,
-      "title": "Concerto sans orchestre, S.524a"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Consolations,_S.172_(Liszt,_Franz)",
-      "year": 1844,
-      "title": "Consolations, S.172"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Le_crucifix,_S.342_(Liszt,_Franz)",
-      "year": 1879,
-      "title": "Le crucifix, S.342"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Crux!,_S.35_(Liszt,_Franz)",
-      "year": 1865,
-      "title": "Crux!, S.35"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Cs%C3%A1rd%C3%A1s_macabre,_S.224_(Liszt,_Franz)",
-      "year": 1881,
-      "title": "Cs\u00e1rd\u00e1s macabre, S.224"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Cs%C3%A1rd%C3%A1s,_S.225_(Liszt,_Franz)",
-      "year": 1884,
-      "title": "2 Cs\u00e1rd\u00e1s, S.225"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Danse_Macabre,_S.555_(Liszt,_Franz)",
-      "year": 1874,
-      "title": "Danse Macabre, S.555"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Dante_Symphony,_S.109_(Liszt,_Franz)",
-      "year": 1855,
-      "title": "Dante Symphony, S.109"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Danza_sacra_e_duetto_finale_d%27Aida,_S.436_(Liszt,_Franz)",
-      "year": 1876,
-      "title": "Danza sacra e duetto finale d'Aida, S.436"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Dem_Andenken_Pet%C3%B6fis,_S.195_(Liszt,_Franz)",
-      "year": 1877,
-      "title": "Dem Andenken Pet\u00f6fis, S.195"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Deutsche_Kirchenlieder,_S.669a_(Liszt,_Franz)",
-      "year": 1878,
-      "title": "Deutsche Kirchenlieder, S.669a"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Das_deutsche_Vaterland_II,_S.74/2_(Liszt,_Franz)",
-      "year": 1848,
-      "title": "Das deutsche Vaterland II, S.74/2"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Do_Not_Reproach_Me,_S.340a_(Liszt,_Franz)",
-      "year": 1866,
-      "title": "Do Not Reproach Me, S.340a"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Domine_salvum_fac_regem,_S.23_(Liszt,_Franz)",
-      "year": 1853,
-      "title": "Domine salvum fac regem, S.23"
-    },
-    {
+      "title": "Don Sanche, S.1",
       "imslp_url": "https://imslp.org/wiki/Don_Sanche,_S.1_(Liszt,_Franz)",
-      "year": 1824,
-      "title": "Don Sanche, S.1"
+      "year": 1824
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Die_drei_Zigeuner,_S.320_(Liszt,_Franz)",
-      "year": 1860,
-      "title": "Die drei Zigeuner, S.320"
+      "title": "Impromptu brillant sur des th\u00e8mes de Rossini et Spontini, S.150",
+      "imslp_url": "https://imslp.org/wiki/Impromptu_brillant_sur_des_th\u00e8mes_de_Rossini_et_Spontini,_S.150_(Liszt,_Franz)",
+      "year": 1824
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Die_drei_Zigeuner,_S.383_(Liszt,_Franz)",
-      "year": 1864,
-      "title": "Die drei Zigeuner, S.383"
+      "title": "Rondo di bravura, S.152",
+      "imslp_url": "https://imslp.org/wiki/Rondo_di_bravura,_S.152_(Liszt,_Franz)",
+      "year": 1824
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Du_bist_wie_eine_Blume,_S.287_(Liszt,_Franz)",
-      "year": 1843,
-      "title": "Du bist wie eine Blume, S.287"
+      "title": "Album-Leaf 'Adagio', S.164l",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Adagio',_S.164l_(Liszt,_Franz)",
+      "year": 1825
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Der_du_von_dem_Himmel_bist,_S.279_(Liszt,_Franz)",
-      "year": 1842,
-      "title": "Der du von dem Himmel bist, S.279"
+      "title": "\u00c9tude en douze exercices, S.136",
+      "imslp_url": "https://imslp.org/wiki/\u00c9tude_en_douze_exercices,_S.136_(Liszt,_Franz)",
+      "year": 1826
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Ein_Fichtenbaum_steht_einsam_I,_S.309_(Liszt,_Franz)",
-      "year": 1845,
-      "title": "Ein Fichtenbaum steht einsam I, S.309"
+      "title": "Marche fun\u00e8bre, S.226a",
+      "imslp_url": "https://imslp.org/wiki/Marche_fun\u00e8bre,_S.226a_(Liszt,_Franz)",
+      "year": 1827
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Ein_Fichtenbaum_steht_einsam_II,_S.309bis_(Liszt,_Franz)",
-      "year": 1860,
-      "title": "Ein Fichtenbaum steht einsam II, S.309bis"
+      "title": "Scherzo in G minor, S.153",
+      "imslp_url": "https://imslp.org/wiki/Scherzo_in_G_minor,_S.153_(Liszt,_Franz)",
+      "year": 1827
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Einleitung_und_Coda_zu_Anton_Rubinsteins_Etude,_S.554a_(Liszt,_Franz)",
-      "year": 1880,
-      "title": "Einleitung und Coda zu Anton Rubinsteins Etude, S.554a"
+      "title": "Album-Leaf '2nd Concerto', S.163a/1",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'2nd_Concerto',_S.163a/1_(Liszt,_Franz)",
+      "year": 1828
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Einleitung_und_Fuge_(Liszt,_Franz)",
-      "year": 1860,
-      "title": "Einleitung und Fuge"
+      "title": "Album-Leaf 'Andantino', S.163a/2",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Andantino',_S.163a/2_(Liszt,_Franz)",
+      "year": 1828
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Einsam_bin_ich,_nicht_allein,_S.453_(Liszt,_Franz)",
-      "year": 1848,
-      "title": "Einsam bin ich, nicht allein, S.453"
+      "title": "2 Sketches from 1829, S.692p",
+      "imslp_url": "https://imslp.org/wiki/2_Sketches_from_1829,_S.692p_(Liszt,_Franz)",
+      "year": 1829
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Einst,_S.332_(Liszt,_Franz)",
-      "year": 1878,
-      "title": "Einst, S.332"
+      "title": "Grande fantaisie sur la tyrolienne de l'op\u00e9ra 'La fianc\u00e9e' de Auber, S.385",
+      "imslp_url": "https://imslp.org/wiki/Grande_fantaisie_sur_la_tyrolienne_de_l'op\u00e9ra_'La_fianc\u00e9e'_de_Auber,_S.385_(Liszt,_Franz)",
+      "year": 1829
     },
     {
-      "imslp_url": "https://imslp.org/wiki/%C3%89l%C3%A9gie_sur_des_motifs_du_Prince_Louis_Ferdinand_de_Prusse,_S.168_(Liszt,_Franz)",
-      "year": 1842,
-      "title": "\u00c9l\u00e9gie sur des motifs du Prince Louis Ferdinand de Prusse, S.168"
+      "title": "Tyrolean Melody, S.385a",
+      "imslp_url": "https://imslp.org/wiki/Tyrolean_Melody,_S.385a_(Liszt,_Franz)",
+      "year": 1829
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Elegy_No.1,_S.196_(Liszt,_Franz)",
-      "year": 1874,
-      "title": "Elegy No.1, S.196"
+      "title": "Introduction des Variations sur une marche du Si\u00e8ge de Corinthe, S.421a",
+      "imslp_url": "https://imslp.org/wiki/Introduction_des_Variations_sur_une_marche_du_Si\u00e8ge_de_Corinthe,_S.421a_(Liszt,_Franz)",
+      "year": 1830
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Elegy_No.2,_S.197_(Liszt,_Franz)",
-      "year": 1877,
-      "title": "Elegy No.2, S.197"
+      "title": "Grande fantaisie de bravoure sur La clochette, S.420",
+      "imslp_url": "https://imslp.org/wiki/Grande_fantaisie_de_bravoure_sur_La_clochette,_S.420_(Liszt,_Franz)",
+      "year": 1832
     },
     {
-      "imslp_url": "https://imslp.org/wiki/En_r%C3%AAve,_S.207_(Liszt,_Franz)",
-      "year": 1885,
-      "title": "En r\u00eave, S.207"
+      "title": "Album-Leaf 'Ah, vous dirai-je, maman', S.163b",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Ah,_vous_dirai-je,_maman',_S.163b_(Liszt,_Franz)",
+      "year": 1833
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Enfant,_si_j%27%C3%A9tais_roi,_S.283_(Liszt,_Franz)",
-      "year": 1844,
-      "title": "Enfant, si j'\u00e9tais roi, S.283"
+      "title": "Harmonies po\u00e9tiques et religieuses I, S.154",
+      "imslp_url": "https://imslp.org/wiki/Harmonies_po\u00e9tiques_et_religieuses_I,_S.154_(Liszt,_Franz)",
+      "year": 1833
     },
     {
-      "imslp_url": "https://imslp.org/wiki/2_Episoden_aus_Lenau%27s_Faust,_S.110_(Liszt,_Franz)",
-      "year": 1856,
-      "title": "2 Episoden aus Lenau's Faust, S.110"
+      "title": "L'id\u00e9e fixe, S.470a/1",
+      "imslp_url": "https://imslp.org/wiki/L'id\u00e9e_fixe,_S.470a/1_(Liszt,_Franz)",
+      "year": 1833
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Epithalam,_S.129_(Liszt,_Franz)",
-      "year": 1872,
-      "title": "Epithalam, S.129"
+      "title": "Mal\u00e9diction, S.121",
+      "imslp_url": "https://imslp.org/wiki/Mal\u00e9diction,_S.121_(Liszt,_Franz)",
+      "year": 1833
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Es_muss_ein_Wunderbares_sein,_S.314_(Liszt,_Franz)",
-      "year": 1852,
-      "title": "Es muss ein Wunderbares sein, S.314"
+      "title": "Apparitions, S.155",
+      "imslp_url": "https://imslp.org/wiki/Apparitions,_S.155_(Liszt,_Franz)",
+      "year": 1834
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Es_rauschen_die_Winde,_S.294_(Liszt,_Franz)",
-      "year": 1845,
-      "title": "Es rauschen die Winde, S.294"
+      "title": "Grosse Konzertst\u00fcck \u00fcber Themen aus Mendelssohns Lieder ohne Worte, S.257",
+      "imslp_url": "https://imslp.org/wiki/Grosse_Konzertst\u00fcck_\u00fcber_Themen_aus_Mendelssohns_Lieder_ohne_Worte,_S.257_(Liszt,_Franz)",
+      "year": 1834
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Es_war_ein_K%C3%B6nig_in_Thule,_S.278_(Liszt,_Franz)",
-      "year": 1842,
-      "title": "Es war ein K\u00f6nig in Thule, S.278"
+      "title": "Album-Leaf 'L\u00e9lio', S.167g",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'L\u00e9lio',_S.167g_(Liszt,_Franz)",
+      "year": 1835
     },
     {
-      "imslp_url": "https://imslp.org/wiki/%C3%89tude_en_douze_exercices,_S.136_(Liszt,_Franz)",
-      "year": 1826,
-      "title": "\u00c9tude en douze exercices, S.136"
+      "title": "Fantaisie romantique sur deux m\u00e9lodies suisses, S.157",
+      "imslp_url": "https://imslp.org/wiki/Fantaisie_romantique_sur_deux_m\u00e9lodies_suisses,_S.157_(Liszt,_Franz)",
+      "year": 1835
     },
     {
-      "imslp_url": "https://imslp.org/wiki/%C3%89tudes_d%27ex%C3%A9cution_transcendante_d%27apr%C3%A8s_Paganini,_S.140_(Liszt,_Franz)",
-      "year": 1838,
-      "title": "\u00c9tudes d'ex\u00e9cution transcendante d'apr\u00e8s Paganini, S.140"
+      "title": "Fantaisie sur des motifs de 'Soir\u00e9es musicales', S.423",
+      "imslp_url": "https://imslp.org/wiki/Fantaisie_sur_des_motifs_de_'Soir\u00e9es_musicales',_S.423_(Liszt,_Franz)",
+      "year": 1835
     },
     {
-      "imslp_url": "https://imslp.org/wiki/%C3%89tudes_d%27ex%C3%A9cution_transcendante,_S.139_(Liszt,_Franz)",
-      "year": 1851,
-      "title": "\u00c9tudes d'ex\u00e9cution transcendante, S.139"
+      "title": "Grande fantaisie sur des motifs de La serenata e L'orgia des Soir\u00e9es musicales, S.422",
+      "imslp_url": "https://imslp.org/wiki/Grande_fantaisie_sur_des_motifs_de_La_serenata_e_L'orgia_des_Soir\u00e9es_musicales,_S.422_(Liszt,_Franz)",
+      "year": 1835
     },
     {
-      "imslp_url": "https://imslp.org/wiki/3_%C3%89tudes_de_concert,_S.144_(Liszt,_Franz)",
-      "year": 1845,
-      "title": "3 \u00c9tudes de concert, S.144"
+      "title": "Grande fantaisie sur des motifs de Niobe, S.419",
+      "imslp_url": "https://imslp.org/wiki/Grande_fantaisie_sur_des_motifs_de_Niobe,_S.419_(Liszt,_Franz)",
+      "year": 1835
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Fantaisie_romantique_sur_deux_m%C3%A9lodies_suisses,_S.157_(Liszt,_Franz)",
-      "year": 1835,
-      "title": "Fantaisie romantique sur deux m\u00e9lodies suisses, S.157"
+      "title": "Marche et Cavatine de Lucie de Lammermoor, S.398",
+      "imslp_url": "https://imslp.org/wiki/Marche_et_Cavatine_de_Lucie_de_Lammermoor,_S.398_(Liszt,_Franz)",
+      "year": 1835
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Fantaisie_sur_des_motifs_de_%27Soir%C3%A9es_musicales%27,_S.423_(Liszt,_Franz)",
-      "year": 1835,
-      "title": "Fantaisie sur des motifs de 'Soir\u00e9es musicales', S.423"
+      "title": "Piano Concerto No.1, S.124",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.1,_S.124_(Liszt,_Franz)",
+      "year": 1835
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Fantaisie_sur_des_motifs_favoris_de_%27La_sonnambula%27,_S.393_(Liszt,_Franz)",
-      "year": 1839,
-      "title": "Fantaisie sur des motifs favoris de 'La sonnambula', S.393"
+      "title": "R\u00e9miniscences de La juive, S.409a",
+      "imslp_url": "https://imslp.org/wiki/R\u00e9miniscences_de_La_juive,_S.409a_(Liszt,_Franz)",
+      "year": 1835
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Fantaisie_sur_l%27op%C3%A9ra_hongroise_Sz%C3%A9p_Ilonka,_S.417_(Liszt,_Franz)",
-      "year": 1865,
-      "title": "Fantaisie sur l'op\u00e9ra hongroise Sz\u00e9p Ilonka, S.417"
+      "title": "R\u00e9miniscences de Lucia di Lammermoor, S.397",
+      "imslp_url": "https://imslp.org/wiki/R\u00e9miniscences_de_Lucia_di_Lammermoor,_S.397_(Liszt,_Franz)",
+      "year": 1835
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Fantasie_%C3%BCber_Motive_aus_Beethovens_Ruinen_von_Athen,_S.122_(Liszt,_Franz)",
-      "year": 1852,
-      "title": "Fantasie \u00fcber Motive aus Beethovens Ruinen von Athen, S.122"
+      "title": "Un portrait en musique, S.190",
+      "imslp_url": "https://imslp.org/wiki/Un_portrait_en_musique,_S.190_(Liszt,_Franz)",
+      "year": 1835
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Fantasie_%C3%BCber_Themen_aus_Mozarts_Figaro_und_Don_Giovanni,_S.697_(Liszt,_Franz)",
-      "year": 1842,
-      "title": "Fantasie \u00fcber Themen aus Mozarts Figaro und Don Giovanni, S.697"
+      "title": "Waltz in A major, S.210b",
+      "imslp_url": "https://imslp.org/wiki/Waltz_in_A_major,_S.210b_(Liszt,_Franz)",
+      "year": 1835
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Fantasie_%C3%BCber_ungarische_Volksmelodien,_S.123_(Liszt,_Franz)",
-      "year": 1849,
-      "title": "Fantasie \u00fcber ungarische Volksmelodien, S.123"
+      "title": "Grande valse di bravura, S.209",
+      "imslp_url": "https://imslp.org/wiki/Grande_valse_di_bravura,_S.209_(Liszt,_Franz)",
+      "year": 1836
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Fantasie_und_Fuge_%C3%BCber_den_Choral_Ad_nos,_ad_salutarem_undam,_S.259_(Liszt,_Franz)",
-      "year": 1850,
-      "title": "Fantasie und Fuge \u00fcber den Choral Ad nos, ad salutarem undam, S.259"
+      "title": "Rondeau fantastique sur un th\u00e8me espagnol, S.252",
+      "imslp_url": "https://imslp.org/wiki/Rondeau_fantastique_sur_un_th\u00e8me_espagnol,_S.252_(Liszt,_Franz)",
+      "year": 1836
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Faribolo_Pasteur,_S.236/1_(Liszt,_Franz)",
-      "year": 1844,
-      "title": "Faribolo Pasteur, S.236/1"
+      "title": "R\u00e9miniscences des Huguenots, S.412",
+      "imslp_url": "https://imslp.org/wiki/R\u00e9miniscences_des_Huguenots,_S.412_(Liszt,_Franz)",
+      "year": 1836
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Faust_Symphony,_S.108_(Liszt,_Franz)",
-      "year": 1854,
-      "title": "Faust Symphony, S.108"
+      "title": "R\u00e9miniscences des Puritains de Bellini, S.390",
+      "imslp_url": "https://imslp.org/wiki/R\u00e9miniscences_des_Puritains_de_Bellini,_S.390_(Liszt,_Franz)",
+      "year": 1836
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Feierlicher_Marsch_zum_heiligen_Gral_aus_Parsifal,_S.450_(Liszt,_Franz)",
-      "year": 1882,
-      "title": "Feierlicher Marsch zum heiligen Gral aus Parsifal, S.450"
+      "title": "12 Lieder von Franz Schubert, S.558",
+      "imslp_url": "https://imslp.org/wiki/12_Lieder_von_Franz_Schubert,_S.558_(Liszt,_Franz)",
+      "year": 1837
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Festgesang,_S.26_(Liszt,_Franz)",
-      "year": 1858,
-      "title": "Festgesang, S.26"
+      "title": "Album d'un voyageur, S.156",
+      "imslp_url": "https://imslp.org/wiki/Album_d'un_voyageur,_S.156_(Liszt,_Franz)",
+      "year": 1837
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Festkl%C3%A4nge,_S.101_(Liszt,_Franz)",
-      "year": 1853,
-      "title": "Festkl\u00e4nge, S.101"
+      "title": "Album-Leaf 'Dante fragment', S.701e",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Dante_fragment',_S.701e_(Liszt,_Franz)",
+      "year": 1837
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Festmarsch_nach_Motiven_von_E.H.z.S.-C.-G.,_S.116_(Liszt,_Franz)",
-      "year": 1858,
-      "title": "Festmarsch nach Motiven von E.H.z.S.-C.-G., S.116"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Festmarsch_zur_Goethe-Jubil%C3%A4umfeier,_S.115_(Liszt,_Franz)",
-      "year": 1857,
-      "title": "Festmarsch zur Goethe-Jubil\u00e4umfeier, S.115"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Festmarsch_zur_S%C3%A4cularfeier_von_Goethes_Geburtstag,_S.227_(Liszt,_Franz)",
-      "year": 1849,
-      "title": "Festmarsch zur S\u00e4cularfeier von Goethes Geburtstag, S.227"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Festpolonaise,_S.230a_(Liszt,_Franz)",
-      "year": 1876,
-      "title": "Festpolonaise, S.230a"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Festvorspiel,_S.226_(Liszt,_Franz)",
-      "year": 1856,
-      "title": "Festvorspiel, S.226"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Feuilles_d%27album,_S.165_(Liszt,_Franz)",
-      "year": 1844,
-      "title": "Feuilles d'album, S.165"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Die_Fischerstochter,_S.325_(Liszt,_Franz)",
-      "year": 1871,
-      "title": "Die Fischerstochter, S.325"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Franz_Schuberts_geistliche_Lieder,_S.562_(Liszt,_Franz)",
-      "year": 1840,
-      "title": "Franz Schuberts geistliche Lieder, S.562"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Freudvoll_und_leidvoll_I,_S.280_(Liszt,_Franz)",
-      "year": 1844,
-      "title": "Freudvoll und leidvoll I, S.280"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Freudvoll_und_leidvoll_II,_S.280bis_(Liszt,_Franz)",
-      "year": 1848,
-      "title": "Freudvoll und leidvoll II, S.280bis"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Galop_de_bal,_S.220_(Liszt,_Franz)",
-      "year": 1840,
-      "title": "Galop de bal, S.220"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Galop_in_A_minor,_S.218_(Liszt,_Franz)",
-      "year": 1846,
-      "title": "Galop in A minor, S.218"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Hexam%C3%A9ron,_S.392_(Liszt,_Franz)",
-      "year": 1837,
-      "title": "Hexam\u00e9ron, S.392"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Airs_suisses,_S.155a_(Liszt,_Franz)",
-      "year": 1835,
-      "title": "3 Airs suisses, S.155a"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Dances_for_Piano_Solo_(Liszt,_Franz)",
-      "year": 1839,
-      "title": "Dances for Piano Solo"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Symphonische_Dichtungen_f%C3%BCr_das_Pianoforte_zu_vier_H%C3%A4nden_(Liszt,_Franz)",
-      "year": 1884,
-      "title": "Symphonische Dichtungen f\u00fcr das Pianoforte zu vier H\u00e4nden"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Symphonische_Dichtungen_f%C3%BCr_zwei_Pianoforte_(Liszt,_Franz)",
-      "year": 1884,
-      "title": "Symphonische Dichtungen f\u00fcr zwei Pianoforte"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Aus_der_Ungarischen_Kr%C3%B6nungsmesse,_S.381_(Liszt,_Franz)",
-      "year": 1869,
-      "title": "Aus der Ungarischen Kr\u00f6nungsmesse, S.381"
-    },
-    {
+      "title": "Beethoven Symphonies, S.464",
       "imslp_url": "https://imslp.org/wiki/Beethoven_Symphonies,_S.464_(Liszt,_Franz)",
-      "year": 1837,
-      "title": "Beethoven Symphonies, S.464"
+      "year": 1837
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Beethovens_Lieder_von_Goethe,_S.468_(Liszt,_Franz)",
-      "year": 1849,
-      "title": "Beethovens Lieder von Goethe, S.468"
+      "title": "Grandes \u00e9tudes, S.137",
+      "imslp_url": "https://imslp.org/wiki/Grandes_\u00e9tudes,_S.137_(Liszt,_Franz)",
+      "year": 1837
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Hungarian_Rhapsody_No.12,_S.244/12_(Liszt,_Franz)",
-      "year": 1847,
-      "title": "Hungarian Rhapsody No.12, S.244/12"
+      "title": "Preludio \u2014 Allegro maestoso, S.692c",
+      "imslp_url": "https://imslp.org/wiki/Preludio_\u2014_Allegro_maestoso,_S.692c_(Liszt,_Franz)",
+      "year": 1837
     },
     {
+      "title": "Soir\u00e9es musicales de Rossini, S.424",
+      "imslp_url": "https://imslp.org/wiki/Soir\u00e9es_musicales_de_Rossini,_S.424_(Liszt,_Franz)",
+      "year": 1837
+    },
+    {
+      "title": "Album-Leaf 'Fragment d'\u00c9tude, d'apres Paganini', S.166u",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Fragment_d'\u00c9tude,_d'apres_Paganini',_S.166u_(Liszt,_Franz)",
+      "year": 1838
+    },
+    {
+      "title": "Grand galop chromatique, S.219",
+      "imslp_url": "https://imslp.org/wiki/Grand_galop_chromatique,_S.219_(Liszt,_Franz)",
+      "year": 1838
+    },
+    {
+      "title": "M\u00e9lodies hongroises d'apr\u00e8s Franz Schubert, S.425",
+      "imslp_url": "https://imslp.org/wiki/M\u00e9lodies_hongroises_d'apr\u00e8s_Franz_Schubert,_S.425_(Liszt,_Franz)",
+      "year": 1838
+    },
+    {
+      "title": "Nuits d'\u00e9t\u00e9 \u00e0 Pausilippe, S.399",
+      "imslp_url": "https://imslp.org/wiki/Nuits_d'\u00e9t\u00e9_\u00e0_Pausilippe,_S.399_(Liszt,_Franz)",
+      "year": 1838
+    },
+    {
+      "title": "Soir\u00e9es italiennes, S.411",
+      "imslp_url": "https://imslp.org/wiki/Soir\u00e9es_italiennes,_S.411_(Liszt,_Franz)",
+      "year": 1838
+    },
+    {
+      "title": "Venezia e Napoli, S.159",
+      "imslp_url": "https://imslp.org/wiki/Venezia_e_Napoli,_S.159_(Liszt,_Franz)",
+      "year": 1838
+    },
+    {
+      "title": "\u00c9tudes d'ex\u00e9cution transcendante d'apr\u00e8s Paganini, S.140",
+      "imslp_url": "https://imslp.org/wiki/\u00c9tudes_d'ex\u00e9cution_transcendante_d'apr\u00e8s_Paganini,_S.140_(Liszt,_Franz)",
+      "year": 1838
+    },
+    {
+      "title": "Album-Leaf 'Pressburg I', S.163c",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Pressburg_I',_S.163c_(Liszt,_Franz)",
+      "year": 1839
+    },
+    {
+      "title": "Angiolin dal biondo crin, S.269",
+      "imslp_url": "https://imslp.org/wiki/Angiolin_dal_biondo_crin,_S.269_(Liszt,_Franz)",
+      "year": 1839
+    },
+    {
+      "title": "Concerto sans orchestre, S.524a",
+      "imslp_url": "https://imslp.org/wiki/Concerto_sans_orchestre,_S.524a_(Liszt,_Franz)",
+      "year": 1839
+    },
+    {
+      "title": "Fantaisie sur des motifs favoris de 'La sonnambula', S.393",
+      "imslp_url": "https://imslp.org/wiki/Fantaisie_sur_des_motifs_favoris_de_'La_sonnambula',_S.393_(Liszt,_Franz)",
+      "year": 1839
+    },
+    {
+      "title": "La romanesca, S.252a/b",
+      "imslp_url": "https://imslp.org/wiki/La_romanesca,_S.252a/b_(Liszt,_Franz)",
+      "year": 1839
+    },
+    {
+      "title": "Magyar dalok, S.242",
+      "imslp_url": "https://imslp.org/wiki/Magyar_dalok,_S.242_(Liszt,_Franz)",
+      "year": 1839
+    },
+    {
+      "title": "R\u00e1k\u00f3czi-Marsch, S.692d",
+      "imslp_url": "https://imslp.org/wiki/R\u00e1k\u00f3czi-Marsch,_S.692d_(Liszt,_Franz)",
+      "year": 1839
+    },
+    {
+      "title": "Valse m\u00e9lancolique, S.210",
+      "imslp_url": "https://imslp.org/wiki/Valse_m\u00e9lancolique,_S.210_(Liszt,_Franz)",
+      "year": 1839
+    },
+    {
+      "title": "2 Album-Leaves, S.163f",
+      "imslp_url": "https://imslp.org/wiki/2_Album-Leaves,_S.163f_(Liszt,_Franz)",
+      "year": 1840
+    },
+    {
+      "title": "5 Album-Leaves, S.167k",
+      "imslp_url": "https://imslp.org/wiki/5_Album-Leaves,_S.167k_(Liszt,_Franz)",
+      "year": 1840
+    },
+    {
+      "title": "8 Album-Leaves, S.164e",
+      "imslp_url": "https://imslp.org/wiki/8_Album-Leaves,_S.164e_(Liszt,_Franz)",
+      "year": 1840
+    },
+    {
+      "title": "Ab irato, S.143",
+      "imslp_url": "https://imslp.org/wiki/Ab_irato,_S.143_(Liszt,_Franz)",
+      "year": 1840
+    },
+    {
+      "title": "Album-Leaf 'Dresden', S.165l",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Dresden',_S.165l_(Liszt,_Franz)",
+      "year": 1840
+    },
+    {
+      "title": "Albumblatt in E major, S.164",
+      "imslp_url": "https://imslp.org/wiki/Albumblatt_in_E_major,_S.164_(Liszt,_Franz)",
+      "year": 1840
+    },
+    {
+      "title": "Franz Schuberts geistliche Lieder, S.562",
+      "imslp_url": "https://imslp.org/wiki/Franz_Schuberts_geistliche_Lieder,_S.562_(Liszt,_Franz)",
+      "year": 1840
+    },
+    {
+      "title": "Galop de bal, S.220",
+      "imslp_url": "https://imslp.org/wiki/Galop_de_bal,_S.220_(Liszt,_Franz)",
+      "year": 1840
+    },
+    {
+      "title": "Heroischer Marsch in ungarischem Stil, S.231",
+      "imslp_url": "https://imslp.org/wiki/Heroischer_Marsch_in_ungarischem_Stil,_S.231_(Liszt,_Franz)",
+      "year": 1840
+    },
+    {
+      "title": "Hussitenlied, S.234",
+      "imslp_url": "https://imslp.org/wiki/Hussitenlied,_S.234_(Liszt,_Franz)",
+      "year": 1840
+    },
+    {
+      "title": "Hymne de l'enfant \u00e0 son r\u00e9veil, S.19",
+      "imslp_url": "https://imslp.org/wiki/Hymne_de_l'enfant_\u00e0_son_r\u00e9veil,_S.19_(Liszt,_Franz)",
+      "year": 1840
+    },
+    {
+      "title": "Hymne du matin, S.173a/2",
+      "imslp_url": "https://imslp.org/wiki/Hymne_du_matin,_S.173a/2_(Liszt,_Franz)",
+      "year": 1840
+    },
+    {
+      "title": "Il m'aimait tant, S.271",
+      "imslp_url": "https://imslp.org/wiki/Il_m'aimait_tant,_S.271_(Liszt,_Franz)",
+      "year": 1840
+    },
+    {
+      "title": "Im Rhein, im sch\u00f6nen Strome, S.272",
+      "imslp_url": "https://imslp.org/wiki/Im_Rhein,_im_sch\u00f6nen_Strome,_S.272_(Liszt,_Franz)",
+      "year": 1840
+    },
+    {
+      "title": "Introduction et Polonaise de l'op\u00e9ra 'I puritani', S.391",
+      "imslp_url": "https://imslp.org/wiki/Introduction_et_Polonaise_de_l'op\u00e9ra_'I_puritani',_S.391_(Liszt,_Franz)",
+      "year": 1840
+    },
+    {
+      "title": "Magyar Tempo, S.241b",
+      "imslp_url": "https://imslp.org/wiki/Magyar_Tempo,_S.241b_(Liszt,_Franz)",
+      "year": 1840
+    },
+    {
+      "title": "Mazeppa, S.138",
+      "imslp_url": "https://imslp.org/wiki/Mazeppa,_S.138_(Liszt,_Franz)",
+      "year": 1840
+    },
+    {
+      "title": "Morceau de salon, S.142",
+      "imslp_url": "https://imslp.org/wiki/Morceau_de_salon,_S.142_(Liszt,_Franz)",
+      "year": 1840
+    },
+    {
+      "title": "Pri\u00e8re d'un enfant \u00e0 son r\u00e9veil, S.171c",
+      "imslp_url": "https://imslp.org/wiki/Pri\u00e8re_d'un_enfant_\u00e0_son_r\u00e9veil,_S.171c_(Liszt,_Franz)",
+      "year": 1840
+    },
+    {
+      "title": "Ungarische Nationalmelodien, S.243",
+      "imslp_url": "https://imslp.org/wiki/Ungarische_Nationalmelodien,_S.243_(Liszt,_Franz)",
+      "year": 1840
+    },
+    {
+      "title": "2 Album-Leaves, S.164o",
+      "imslp_url": "https://imslp.org/wiki/2_Album-Leaves,_S.164o_(Liszt,_Franz)",
+      "year": 1841
+    },
+    {
+      "title": "Album-Leaf 'Ave Maria', S.164q",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Ave_Maria',_S.164q_(Liszt,_Franz)",
+      "year": 1841
+    },
+    {
+      "title": "Album-Leaf 'Detmold', S.164d",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Detmold',_S.164d_(Liszt,_Franz)",
+      "year": 1841
+    },
+    {
+      "title": "Album-Leaf 'Osnabr\u00fcck', S.165b",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Osnabr\u00fcck',_S.165b_(Liszt,_Franz)",
+      "year": 1841
+    },
+    {
+      "title": "Album-Leaf 'Preludio', S.165c",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Preludio',_S.165c_(Liszt,_Franz)",
+      "year": 1841
+    },
+    {
+      "title": "Album-Leaf 'R\u00e1k\u00f3czi-Marsch', S.164f",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'R\u00e1k\u00f3czi-Marsch',_S.164f_(Liszt,_Franz)",
+      "year": 1841
+    },
+    {
+      "title": "Die Loreley, S.273",
+      "imslp_url": "https://imslp.org/wiki/Die_Loreley,_S.273_(Liszt,_Franz)",
+      "year": 1841
+    },
+    {
+      "title": "Die Zelle in Nonnenwerth, S.274",
+      "imslp_url": "https://imslp.org/wiki/Die_Zelle_in_Nonnenwerth,_S.274_(Liszt,_Franz)",
+      "year": 1841
+    },
+    {
+      "title": "God Save the Queen, S.235",
+      "imslp_url": "https://imslp.org/wiki/God_Save_the_Queen,_S.235_(Liszt,_Franz)",
+      "year": 1841
+    },
+    {
+      "title": "R\u00e9miniscences de 'Robert le diable', S.413",
+      "imslp_url": "https://imslp.org/wiki/R\u00e9miniscences_de_'Robert_le_diable',_S.413_(Liszt,_Franz)",
+      "year": 1841
+    },
+    {
+      "title": "R\u00e9miniscences de Don Juan, S.418",
+      "imslp_url": "https://imslp.org/wiki/R\u00e9miniscences_de_Don_Juan,_S.418_(Liszt,_Franz)",
+      "year": 1841
+    },
+    {
+      "title": "R\u00e9miniscences de Norma, S.394",
+      "imslp_url": "https://imslp.org/wiki/R\u00e9miniscences_de_Norma,_S.394_(Liszt,_Franz)",
+      "year": 1841
+    },
+    {
+      "title": "3 Sonetti del Petrarca, S.270",
+      "imslp_url": "https://imslp.org/wiki/3_Sonetti_del_Petrarca,_S.270_(Liszt,_Franz)",
+      "year": 1842
+    },
+    {
+      "title": "Album-Leaf 'Berlin I', S.167n",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Berlin_I',_S.167n_(Liszt,_Franz)",
+      "year": 1842
+    },
+    {
+      "title": "Album-Leaf 'Berlin II', S.167v",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Berlin_II',_S.167v_(Liszt,_Franz)",
+      "year": 1842
+    },
+    {
+      "title": "Album-Leaf 'Berlin Preludio', S.164g",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Berlin_Preludio',_S.164g_(Liszt,_Franz)",
+      "year": 1842
+    },
+    {
+      "title": "Album-Leaf 'Frankfurt', S.163o",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Frankfurt',_S.163o_(Liszt,_Franz)",
+      "year": 1842
+    },
+    {
+      "title": "Album-Leaf 'Paris Preludio', S.164j",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Paris_Preludio',_S.164j_(Liszt,_Franz)",
+      "year": 1842
+    },
+    {
+      "title": "Album-Leaf 'Paris', S.163h",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Paris',_S.163h_(Liszt,_Franz)",
+      "year": 1842
+    },
+    {
+      "title": "Albumblatt in Walzerform, S.166",
+      "imslp_url": "https://imslp.org/wiki/Albumblatt_in_Walzerform,_S.166_(Liszt,_Franz)",
+      "year": 1842
+    },
+    {
+      "title": "Canzone Napolitana, S.248",
+      "imslp_url": "https://imslp.org/wiki/Canzone_Napolitana,_S.248_(Liszt,_Franz)",
+      "year": 1842
+    },
+    {
+      "title": "Der du von dem Himmel bist, S.279",
+      "imslp_url": "https://imslp.org/wiki/Der_du_von_dem_Himmel_bist,_S.279_(Liszt,_Franz)",
+      "year": 1842
+    },
+    {
+      "title": "Es war ein K\u00f6nig in Thule, S.278",
+      "imslp_url": "https://imslp.org/wiki/Es_war_ein_K\u00f6nig_in_Thule,_S.278_(Liszt,_Franz)",
+      "year": 1842
+    },
+    {
+      "title": "Fantasie \u00fcber Themen aus Mozarts Figaro und Don Giovanni, S.697",
+      "imslp_url": "https://imslp.org/wiki/Fantasie_\u00fcber_Themen_aus_Mozarts_Figaro_und_Don_Giovanni,_S.697_(Liszt,_Franz)",
+      "year": 1842
+    },
+    {
+      "title": "Le rossignol, S.250/1",
+      "imslp_url": "https://imslp.org/wiki/Le_rossignol,_S.250/1_(Liszt,_Franz)",
+      "year": 1842
+    },
+    {
+      "title": "Mignons Lied, S.275",
+      "imslp_url": "https://imslp.org/wiki/Mignons_Lied,_S.275_(Liszt,_Franz)",
+      "year": 1842
+    },
+    {
+      "title": "Oh! quand je dors, S.282",
+      "imslp_url": "https://imslp.org/wiki/Oh!_quand_je_dors,_S.282_(Liszt,_Franz)",
+      "year": 1842
+    },
+    {
+      "title": "Petite valse favorite, S.212",
+      "imslp_url": "https://imslp.org/wiki/Petite_valse_favorite,_S.212_(Liszt,_Franz)",
+      "year": 1842
+    },
+    {
+      "title": "Valse \u00e0 capriccio sur deux motifs de Lucia et Parisina, S.401",
+      "imslp_url": "https://imslp.org/wiki/Valse_\u00e0_capriccio_sur_deux_motifs_de_Lucia_et_Parisina,_S.401_(Liszt,_Franz)",
+      "year": 1842
+    },
+    {
+      "title": "Valse-Impromptu, S.213",
+      "imslp_url": "https://imslp.org/wiki/Valse-Impromptu,_S.213_(Liszt,_Franz)",
+      "year": 1842
+    },
+    {
+      "title": "Was Liebe sei, S.288",
+      "imslp_url": "https://imslp.org/wiki/Was_Liebe_sei,_S.288_(Liszt,_Franz)",
+      "year": 1842
+    },
+    {
+      "title": "Wir sind nicht Mumien, S.90/3",
+      "imslp_url": "https://imslp.org/wiki/Wir_sind_nicht_Mumien,_S.90/3_(Liszt,_Franz)",
+      "year": 1842
+    },
+    {
+      "title": "\u00c9l\u00e9gie sur des motifs du Prince Louis Ferdinand de Prusse, S.168",
+      "imslp_url": "https://imslp.org/wiki/\u00c9l\u00e9gie_sur_des_motifs_du_Prince_Louis_Ferdinand_de_Prusse,_S.168_(Liszt,_Franz)",
+      "year": 1842
+    },
+    {
+      "title": "Album-Leaf 'Quasi Mazurek', S.163e",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Quasi_Mazurek',_S.163e_(Liszt,_Franz)",
+      "year": 1843
+    },
+    {
+      "title": "Album-Leaf, S.166a",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf,_S.166a_(Liszt,_Franz)",
+      "year": 1843
+    },
+    {
+      "title": "Buch der Lieder I, S.531",
+      "imslp_url": "https://imslp.org/wiki/Buch_der_Lieder_I,_S.531_(Liszt,_Franz)",
+      "year": 1843
+    },
+    {
+      "title": "Die tote Nachtigall, S.291",
+      "imslp_url": "https://imslp.org/wiki/Die_tote_Nachtigall,_S.291_(Liszt,_Franz)",
+      "year": 1843
+    },
+    {
+      "title": "Du bist wie eine Blume, S.287",
+      "imslp_url": "https://imslp.org/wiki/Du_bist_wie_eine_Blume,_S.287_(Liszt,_Franz)",
+      "year": 1843
+    },
+    {
+      "title": "Gaudeamus igitur, S.240",
+      "imslp_url": "https://imslp.org/wiki/Gaudeamus_igitur,_S.240_(Liszt,_Franz)",
+      "year": 1843
+    },
+    {
+      "title": "L\u00e4ndler in A-flat major, S.211",
+      "imslp_url": "https://imslp.org/wiki/L\u00e4ndler_in_A-flat_major,_S.211_(Liszt,_Franz)",
+      "year": 1843
+    },
+    {
+      "title": "Morgens steh ich auf und frage, S.290",
+      "imslp_url": "https://imslp.org/wiki/Morgens_steh_ich_auf_und_frage,_S.290_(Liszt,_Franz)",
+      "year": 1843
+    },
+    {
+      "title": "Nimm einen Strahl der Sonne, S.310",
+      "imslp_url": "https://imslp.org/wiki/Nimm_einen_Strahl_der_Sonne,_S.310_(Liszt,_Franz)",
+      "year": 1843
+    },
+    {
+      "title": "O lieb so lang du lieben kannst, S.298",
+      "imslp_url": "https://imslp.org/wiki/O_lieb_so_lang_du_lieben_kannst,_S.298_(Liszt,_Franz)",
+      "year": 1843
+    },
+    {
+      "title": "Russischer Galop, S.478",
+      "imslp_url": "https://imslp.org/wiki/Russischer_Galop,_S.478_(Liszt,_Franz)",
+      "year": 1843
+    },
+    {
+      "title": "5 Album-Leaves, S.166f",
+      "imslp_url": "https://imslp.org/wiki/5_Album-Leaves,_S.166f_(Liszt,_Franz)",
+      "year": 1844
+    },
+    {
+      "title": "6 Melodien von Franz Schubert, S.563",
+      "imslp_url": "https://imslp.org/wiki/6_Melodien_von_Franz_Schubert,_S.563_(Liszt,_Franz)",
+      "year": 1844
+    },
+    {
+      "title": "Album-Leaf 'Fugue Chromatique', S.167j",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Fugue_Chromatique',_S.167j_(Liszt,_Franz)",
+      "year": 1844
+    },
+    {
+      "title": "Album-Leaf 'Magdeburg', S.163n",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Magdeburg',_S.163n_(Liszt,_Franz)",
+      "year": 1844
+    },
+    {
+      "title": "Bist du, S.277",
+      "imslp_url": "https://imslp.org/wiki/Bist_du,_S.277_(Liszt,_Franz)",
+      "year": 1844
+    },
+    {
+      "title": "Chanson du B\u00e9arn, S.236/2",
+      "imslp_url": "https://imslp.org/wiki/Chanson_du_B\u00e9arn,_S.236/2_(Liszt,_Franz)",
+      "year": 1844
+    },
+    {
+      "title": "Comment disaient-ils, S.276",
+      "imslp_url": "https://imslp.org/wiki/Comment_disaient-ils,_S.276_(Liszt,_Franz)",
+      "year": 1844
+    },
+    {
+      "title": "Consolations, S.172",
+      "imslp_url": "https://imslp.org/wiki/Consolations,_S.172_(Liszt,_Franz)",
+      "year": 1844
+    },
+    {
+      "title": "Die V\u00e4tergruft, S.281",
+      "imslp_url": "https://imslp.org/wiki/Die_V\u00e4tergruft,_S.281_(Liszt,_Franz)",
+      "year": 1844
+    },
+    {
+      "title": "Enfant, si j'\u00e9tais roi, S.283",
+      "imslp_url": "https://imslp.org/wiki/Enfant,_si_j'\u00e9tais_roi,_S.283_(Liszt,_Franz)",
+      "year": 1844
+    },
+    {
+      "title": "Faribolo Pasteur, S.236/1",
+      "imslp_url": "https://imslp.org/wiki/Faribolo_Pasteur,_S.236/1_(Liszt,_Franz)",
+      "year": 1844
+    },
+    {
+      "title": "Feuilles d'album, S.165",
+      "imslp_url": "https://imslp.org/wiki/Feuilles_d'album,_S.165_(Liszt,_Franz)",
+      "year": 1844
+    },
+    {
+      "title": "Freudvoll und leidvoll I, S.280",
+      "imslp_url": "https://imslp.org/wiki/Freudvoll_und_leidvoll_I,_S.280_(Liszt,_Franz)",
+      "year": 1844
+    },
+    {
+      "title": "Gastibelza, S.286",
+      "imslp_url": "https://imslp.org/wiki/Gastibelza,_S.286_(Liszt,_Franz)",
+      "year": 1844
+    },
+    {
+      "title": "Ich m\u00f6chte hingehn, S.296",
+      "imslp_url": "https://imslp.org/wiki/Ich_m\u00f6chte_hingehn,_S.296_(Liszt,_Franz)",
+      "year": 1844
+    },
+    {
+      "title": "La tombe et la rose, S.285",
+      "imslp_url": "https://imslp.org/wiki/La_tombe_et_la_rose,_S.285_(Liszt,_Franz)",
+      "year": 1844
+    },
+    {
+      "title": "Madrigal, S.171b",
+      "imslp_url": "https://imslp.org/wiki/Madrigal,_S.171b_(Liszt,_Franz)",
+      "year": 1844
+    },
+    {
+      "title": "Marche fun\u00e8bre de Dom S\u00e9bastien de Donizetti, S.402",
+      "imslp_url": "https://imslp.org/wiki/Marche_fun\u00e8bre_de_Dom_S\u00e9bastien_de_Donizetti,_S.402_(Liszt,_Franz)",
+      "year": 1844
+    },
+    {
+      "title": "Marche hongroise, S.233b",
+      "imslp_url": "https://imslp.org/wiki/Marche_hongroise,_S.233b_(Liszt,_Franz)",
+      "year": 1844
+    },
+    {
+      "title": "S'il est un charmant gazon, S.284",
+      "imslp_url": "https://imslp.org/wiki/S'il_est_un_charmant_gazon,_S.284_(Liszt,_Franz)",
+      "year": 1844
+    },
+    {
+      "title": "Seconde marche hongroise, S.232",
+      "imslp_url": "https://imslp.org/wiki/Seconde_marche_hongroise,_S.232_(Liszt,_Franz)",
+      "year": 1844
+    },
+    {
+      "title": "Vergiftet sind meine Lieder, S.289",
+      "imslp_url": "https://imslp.org/wiki/Vergiftet_sind_meine_Lieder,_S.289_(Liszt,_Franz)",
+      "year": 1844
+    },
+    {
+      "title": "Wo weilt er?, S.295",
+      "imslp_url": "https://imslp.org/wiki/Wo_weilt_er?,_S.295_(Liszt,_Franz)",
+      "year": 1844
+    },
+    {
+      "title": "3 Lieder aus Schillers \"Wilhelm Tell\", S.292",
+      "imslp_url": "https://imslp.org/wiki/3_Lieder_aus_Schillers_\"Wilhelm_Tell\",_S.292_(Liszt,_Franz)",
+      "year": 1845
+    },
+    {
+      "title": "3 \u00c9tudes de concert, S.144",
+      "imslp_url": "https://imslp.org/wiki/3_\u00c9tudes_de_concert,_S.144_(Liszt,_Franz)",
+      "year": 1845
+    },
+    {
+      "title": "Album-Leaf 'Portugal', S.166b",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Portugal',_S.166b_(Liszt,_Franz)",
+      "year": 1845
+    },
+    {
+      "title": "Album-Leaf 'Weimar II', S.166c",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Weimar_II',_S.166c_(Liszt,_Franz)",
+      "year": 1845
+    },
+    {
+      "title": "Ballade No.1, S.170",
+      "imslp_url": "https://imslp.org/wiki/Ballade_No.1,_S.170_(Liszt,_Franz)",
+      "year": 1845
+    },
+    {
+      "title": "Ein Fichtenbaum steht einsam I, S.309",
+      "imslp_url": "https://imslp.org/wiki/Ein_Fichtenbaum_steht_einsam_I,_S.309_(Liszt,_Franz)",
+      "year": 1845
+    },
+    {
+      "title": "Es rauschen die Winde, S.294",
+      "imslp_url": "https://imslp.org/wiki/Es_rauschen_die_Winde,_S.294_(Liszt,_Franz)",
+      "year": 1845
+    },
+    {
+      "title": "Gestorben war ich, S.308",
+      "imslp_url": "https://imslp.org/wiki/Gestorben_war_ich,_S.308_(Liszt,_Franz)",
+      "year": 1845
+    },
+    {
+      "title": "Grosse Konzertfantasie \u00fcber spanische Weisen, S.253",
+      "imslp_url": "https://imslp.org/wiki/Grosse_Konzertfantasie_\u00fcber_spanische_Weisen,_S.253_(Liszt,_Franz)",
+      "year": 1845
+    },
+    {
+      "title": "Jeanne d'Arc au b\u00fbcher, S.293",
+      "imslp_url": "https://imslp.org/wiki/Jeanne_d'Arc_au_b\u00fbcher,_S.293_(Liszt,_Franz)",
+      "year": 1845
+    },
+    {
+      "title": "Klavierst\u00fccke, S.189a",
+      "imslp_url": "https://imslp.org/wiki/Klavierst\u00fccke,_S.189a_(Liszt,_Franz)",
+      "year": 1845
+    },
+    {
+      "title": "Pens\u00e9es, S.168b",
+      "imslp_url": "https://imslp.org/wiki/Pens\u00e9es,_S.168b_(Liszt,_Franz)",
+      "year": 1845
+    },
+    {
+      "title": "Pr\u00e9ludes et Harmonies po\u00e9tiques et religieuses, S.171d",
+      "imslp_url": "https://imslp.org/wiki/Pr\u00e9ludes_et_Harmonies_po\u00e9tiques_et_religieuses,_S.171d_(Liszt,_Franz)",
+      "year": 1845
+    },
+    {
+      "title": "Romancero espagnol, S.695c",
+      "imslp_url": "https://imslp.org/wiki/Romancero_espagnol,_S.695c_(Liszt,_Franz)",
+      "year": 1845
+    },
+    {
+      "title": "Schwebe, schwebe, blaues Auge, S.305",
+      "imslp_url": "https://imslp.org/wiki/Schwebe,_schwebe,_blaues_Auge,_S.305_(Liszt,_Franz)",
+      "year": 1845
+    },
+    {
+      "title": "Wer nie sein Brot mit Tr\u00e4nen a\u00df, S.297",
+      "imslp_url": "https://imslp.org/wiki/Wer_nie_sein_Brot_mit_Tr\u00e4nen_a\u00df,_S.297_(Liszt,_Franz)",
+      "year": 1845
+    },
+    {
+      "title": "3 M\u00e4rsche von Franz Schubert, S.426",
+      "imslp_url": "https://imslp.org/wiki/3_M\u00e4rsche_von_Franz_Schubert,_S.426_(Liszt,_Franz)",
+      "year": 1846
+    },
+    {
+      "title": "5 Choruses with French texts, S.18",
+      "imslp_url": "https://imslp.org/wiki/5_Choruses_with_French_texts,_S.18_(Liszt,_Franz)",
+      "year": 1846
+    },
+    {
+      "title": "Album-Leaf 'Andante religioso', S.166h",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Andante_religioso',_S.166h_(Liszt,_Franz)",
+      "year": 1846
+    },
+    {
+      "title": "Ann\u00e9es de p\u00e8lerinage II, S.161",
+      "imslp_url": "https://imslp.org/wiki/Ann\u00e9es_de_p\u00e8lerinage_II,_S.161_(Liszt,_Franz)",
+      "year": 1846
+    },
+    {
+      "title": "Ave Maria I, S.20",
+      "imslp_url": "https://imslp.org/wiki/Ave_Maria_I,_S.20_(Liszt,_Franz)",
+      "year": 1846
+    },
+    {
+      "title": "Capriccio alla turca sur des motifs de Beethoven, S.388",
+      "imslp_url": "https://imslp.org/wiki/Capriccio_alla_turca_sur_des_motifs_de_Beethoven,_S.388_(Liszt,_Franz)",
+      "year": 1846
+    },
+    {
+      "title": "Galop in A minor, S.218",
+      "imslp_url": "https://imslp.org/wiki/Galop_in_A_minor,_S.218_(Liszt,_Franz)",
+      "year": 1846
+    },
+    {
+      "title": "Hungarian Rhapsody No.1, S.244/1",
+      "imslp_url": "https://imslp.org/wiki/Hungarian_Rhapsody_No.1,_S.244/1_(Liszt,_Franz)",
+      "year": 1846
+    },
+    {
+      "title": "Hungarian Rhapsody No.14, S.244/14",
       "imslp_url": "https://imslp.org/wiki/Hungarian_Rhapsody_No.14,_S.244/14_(Liszt,_Franz)",
-      "year": 1846,
-      "title": "Hungarian Rhapsody No.14, S.244/14"
+      "year": 1846
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Marche_hongroise_de_Szabady,_S.572_(Liszt,_Franz)",
-      "year": 1879,
-      "title": "Marche hongroise de Szabady, S.572"
+      "title": "Hungarian Rhapsody No.8, S.244/8",
+      "imslp_url": "https://imslp.org/wiki/Hungarian_Rhapsody_No.8,_S.244/8_(Liszt,_Franz)",
+      "year": 1846
     },
     {
-      "imslp_url": "https://imslp.org/wiki/3_M%C3%A4rsche_von_Franz_Schubert,_S.426_(Liszt,_Franz)",
-      "year": 1846,
-      "title": "3 M\u00e4rsche von Franz Schubert, S.426"
+      "title": "Klavierst\u00fcck aus der Bonner Beethoven-Kantate, S.507",
+      "imslp_url": "https://imslp.org/wiki/Klavierst\u00fcck_aus_der_Bonner_Beethoven-Kantate,_S.507_(Liszt,_Franz)",
+      "year": 1846
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Mendelssohns_Lieder,_S.547_(Liszt,_Franz)",
-      "year": 1840,
-      "title": "Mendelssohns Lieder, S.547"
+      "title": "Magyar rapsz\u00f3di\u00e1k, S.242",
+      "imslp_url": "https://imslp.org/wiki/Magyar_rapsz\u00f3di\u00e1k,_S.242_(Liszt,_Franz)",
+      "year": 1846
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Preludes_and_Fugues_by_J.S._Bach,_S.462_(Liszt,_Franz)",
-      "year": 1842,
-      "title": "Preludes and Fugues by J.S. Bach, S.462"
+      "title": "Marche de Prozinsky, S.701v",
+      "imslp_url": "https://imslp.org/wiki/Marche_de_Prozinsky,_S.701v_(Liszt,_Franz)",
+      "year": 1846
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Des_Boh%C3%A9miens_et_de_leur_musique_en_Hongrie_(Liszt,_Franz)",
-      "year": 1859,
-      "title": "Des Boh\u00e9miens et de leur musique en Hongrie"
+      "title": "Missa quattuor vocum ad aequales, S.8",
+      "imslp_url": "https://imslp.org/wiki/Missa_quattuor_vocum_ad_aequales,_S.8_(Liszt,_Franz)",
+      "year": 1846
+    },
+    {
+      "title": "M\u00fcllerlieder von Franz Schubert, S.565",
+      "imslp_url": "https://imslp.org/wiki/M\u00fcllerlieder_von_Franz_Schubert,_S.565_(Liszt,_Franz)",
+      "year": 1846
+    },
+    {
+      "title": "Pater noster I, S.21",
+      "imslp_url": "https://imslp.org/wiki/Pater_noster_I,_S.21_(Liszt,_Franz)",
+      "year": 1846
+    },
+    {
+      "title": "Soir\u00e9es de Vienne, S.427",
+      "imslp_url": "https://imslp.org/wiki/Soir\u00e9es_de_Vienne,_S.427_(Liszt,_Franz)",
+      "year": 1846
+    },
+    {
+      "title": "Tarantelle di bravura d'apr\u00e8s la tarantelle de 'La muette de Portici', S.386",
+      "imslp_url": "https://imslp.org/wiki/Tarantelle_di_bravura_d'apr\u00e8s_la_tarantelle_de_'La_muette_de_Portici',_S.386_(Liszt,_Franz)",
+      "year": 1846
+    },
+    {
+      "title": "2 Transcriptions d'apr\u00e8s Rossini, S.553",
+      "imslp_url": "https://imslp.org/wiki/2_Transcriptions_d'apr\u00e8s_Rossini,_S.553_(Liszt,_Franz)",
+      "year": 1847
+    },
+    {
+      "title": "Album-Leaf 'Freudvoll und leidvoll', S.166n",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Freudvoll_und_leidvoll',_S.166n_(Liszt,_Franz)",
+      "year": 1847
+    },
+    {
+      "title": "Albumbl\u00e4tter f\u00fcr Prinzessin Marie von Sayn-Wittgenstein, S.166m",
+      "imslp_url": "https://imslp.org/wiki/Albumbl\u00e4tter_f\u00fcr_Prinzessin_Marie_von_Sayn-Wittgenstein,_S.166m_(Liszt,_Franz)",
+      "year": 1847
+    },
+    {
+      "title": "Buch der Lieder II, S.535\u2013540",
+      "imslp_url": "https://imslp.org/wiki/Buch_der_Lieder_II,_S.535\u2013540_(Liszt,_Franz)",
+      "year": 1847
+    },
+    {
+      "title": "Glanes de Woronince, S.249",
+      "imslp_url": "https://imslp.org/wiki/Glanes_de_Woronince,_S.249_(Liszt,_Franz)",
+      "year": 1847
+    },
+    {
+      "title": "Grande paraphrase de la Marche pour le Sultan Abdul-Medjid Khan, S.403",
+      "imslp_url": "https://imslp.org/wiki/Grande_paraphrase_de_la_Marche_pour_le_Sultan_Abdul-Medjid_Khan,_S.403_(Liszt,_Franz)",
+      "year": 1847
+    },
+    {
+      "title": "Hungarian Rhapsody No.10, S.244/10",
+      "imslp_url": "https://imslp.org/wiki/Hungarian_Rhapsody_No.10,_S.244/10_(Liszt,_Franz)",
+      "year": 1847
+    },
+    {
+      "title": "Hungarian Rhapsody No.11, S.244/11",
+      "imslp_url": "https://imslp.org/wiki/Hungarian_Rhapsody_No.11,_S.244/11_(Liszt,_Franz)",
+      "year": 1847
+    },
+    {
+      "title": "Hungarian Rhapsody No.12, S.244/12",
+      "imslp_url": "https://imslp.org/wiki/Hungarian_Rhapsody_No.12,_S.244/12_(Liszt,_Franz)",
+      "year": 1847
+    },
+    {
+      "title": "Hungarian Rhapsody No.13, S.244/13",
+      "imslp_url": "https://imslp.org/wiki/Hungarian_Rhapsody_No.13,_S.244/13_(Liszt,_Franz)",
+      "year": 1847
+    },
+    {
+      "title": "Hungarian Rhapsody No.2, S.244/2",
+      "imslp_url": "https://imslp.org/wiki/Hungarian_Rhapsody_No.2,_S.244/2_(Liszt,_Franz)",
+      "year": 1847
+    },
+    {
+      "title": "Hungarian Rhapsody No.3, S.244/3",
+      "imslp_url": "https://imslp.org/wiki/Hungarian_Rhapsody_No.3,_S.244/3_(Liszt,_Franz)",
+      "year": 1847
+    },
+    {
+      "title": "Hungarian Rhapsody No.4, S.244/4",
+      "imslp_url": "https://imslp.org/wiki/Hungarian_Rhapsody_No.4,_S.244/4_(Liszt,_Franz)",
+      "year": 1847
+    },
+    {
+      "title": "Hungarian Rhapsody No.5, S.244/5",
+      "imslp_url": "https://imslp.org/wiki/Hungarian_Rhapsody_No.5,_S.244/5_(Liszt,_Franz)",
+      "year": 1847
+    },
+    {
+      "title": "Hungarian Rhapsody No.6, S.244/6",
+      "imslp_url": "https://imslp.org/wiki/Hungarian_Rhapsody_No.6,_S.244/6_(Liszt,_Franz)",
+      "year": 1847
+    },
+    {
+      "title": "Hungarian Rhapsody No.7, S.244/7",
+      "imslp_url": "https://imslp.org/wiki/Hungarian_Rhapsody_No.7,_S.244/7_(Liszt,_Franz)",
+      "year": 1847
+    },
+    {
+      "title": "Hungarian Rhapsody No.9, S.244/9",
+      "imslp_url": "https://imslp.org/wiki/Hungarian_Rhapsody_No.9,_S.244/9_(Liszt,_Franz)",
+      "year": 1847
+    },
+    {
+      "title": "Invocation, S.172c",
+      "imslp_url": "https://imslp.org/wiki/Invocation,_S.172c_(Liszt,_Franz)",
+      "year": 1847
+    },
+    {
+      "title": "Isten veled, S.299",
+      "imslp_url": "https://imslp.org/wiki/Isten_veled,_S.299_(Liszt,_Franz)",
+      "year": 1847
+    },
+    {
+      "title": "Marche h\u00e9ro\u00efque, S.510",
+      "imslp_url": "https://imslp.org/wiki/Marche_h\u00e9ro\u00efque,_S.510_(Liszt,_Franz)",
+      "year": 1847
+    },
+    {
+      "title": "Ouvert\u00fcre zu Tannh\u00e4user, S.442",
+      "imslp_url": "https://imslp.org/wiki/Ouvert\u00fcre_zu_Tannh\u00e4user,_S.442_(Liszt,_Franz)",
+      "year": 1847
+    },
+    {
+      "title": "Stabat Mater, S.172b",
+      "imslp_url": "https://imslp.org/wiki/Stabat_Mater,_S.172b_(Liszt,_Franz)",
+      "year": 1847
+    },
+    {
+      "title": "Totentanz, S.126",
+      "imslp_url": "https://imslp.org/wiki/Totentanz,_S.126_(Liszt,_Franz)",
+      "year": 1847
+    },
+    {
+      "title": "Ann\u00e9es de p\u00e8lerinage I, S.160",
+      "imslp_url": "https://imslp.org/wiki/Ann\u00e9es_de_p\u00e8lerinage_I,_S.160_(Liszt,_Franz)",
+      "year": 1848
+    },
+    {
+      "title": "Ce qu'on entend sur la montagne, S.95",
+      "imslp_url": "https://imslp.org/wiki/Ce_qu'on_entend_sur_la_montagne,_S.95_(Liszt,_Franz)",
+      "year": 1848
+    },
+    {
+      "title": "Das deutsche Vaterland II, S.74/2",
+      "imslp_url": "https://imslp.org/wiki/Das_deutsche_Vaterland_II,_S.74/2_(Liszt,_Franz)",
+      "year": 1848
+    },
+    {
+      "title": "Die Macht der Musik, S.302",
+      "imslp_url": "https://imslp.org/wiki/Die_Macht_der_Musik,_S.302_(Liszt,_Franz)",
+      "year": 1848
+    },
+    {
+      "title": "Einsam bin ich, nicht allein, S.453",
+      "imslp_url": "https://imslp.org/wiki/Einsam_bin_ich,_nicht_allein,_S.453_(Liszt,_Franz)",
+      "year": 1848
+    },
+    {
+      "title": "Freudvoll und leidvoll II, S.280bis",
+      "imslp_url": "https://imslp.org/wiki/Freudvoll_und_leidvoll_II,_S.280bis_(Liszt,_Franz)",
+      "year": 1848
+    },
+    {
+      "title": "Harmonies po\u00e9tiques et religieuses III, S.173",
+      "imslp_url": "https://imslp.org/wiki/Harmonies_po\u00e9tiques_et_religieuses_III,_S.173_(Liszt,_Franz)",
+      "year": 1848
+    },
+    {
+      "title": "Kling leise, mein Lied, S.301",
+      "imslp_url": "https://imslp.org/wiki/Kling_leise,_mein_Lied,_S.301_(Liszt,_Franz)",
+      "year": 1848
+    },
+    {
+      "title": "Le vieux vagabond, S.304",
+      "imslp_url": "https://imslp.org/wiki/Le_vieux_vagabond,_S.304_(Liszt,_Franz)",
+      "year": 1848
+    },
+    {
+      "title": "Leyer und Schwerdt, S.452",
+      "imslp_url": "https://imslp.org/wiki/Leyer_und_Schwerdt,_S.452_(Liszt,_Franz)",
+      "year": 1848
+    },
+    {
+      "title": "O du mein holder Abendstern, S.444",
+      "imslp_url": "https://imslp.org/wiki/O_du_mein_holder_Abendstern,_S.444_(Liszt,_Franz)",
+      "year": 1848
+    },
+    {
+      "title": "Romance, S.169",
+      "imslp_url": "https://imslp.org/wiki/Romance,_S.169_(Liszt,_Franz)",
+      "year": 1848
+    },
+    {
+      "title": "R\u00e9miniscences de Lucrezia Borgia, S.400",
+      "imslp_url": "https://imslp.org/wiki/R\u00e9miniscences_de_Lucrezia_Borgia,_S.400_(Liszt,_Franz)",
+      "year": 1848
+    },
+    {
+      "title": "Schlummerlied mit Arabesken, S.454",
+      "imslp_url": "https://imslp.org/wiki/Schlummerlied_mit_Arabesken,_S.454_(Liszt,_Franz)",
+      "year": 1848
+    },
+    {
+      "title": "Weimars Toten, S.303",
+      "imslp_url": "https://imslp.org/wiki/Weimars_Toten,_S.303_(Liszt,_Franz)",
+      "year": 1848
+    },
+    {
+      "title": "\u00dcber allen Gipfeln ist Ruh, S.306",
+      "imslp_url": "https://imslp.org/wiki/\u00dcber_allen_Gipfeln_ist_Ruh,_S.306_(Liszt,_Franz)",
+      "year": 1848
+    },
+    {
+      "title": "2 Album-Leaves, S.167l",
+      "imslp_url": "https://imslp.org/wiki/2_Album-Leaves,_S.167l_(Liszt,_Franz)",
+      "year": 1849
+    },
+    {
+      "title": "Anfangs wollt' ich fast verzagen, S.311",
+      "imslp_url": "https://imslp.org/wiki/Anfangs_wollt'_ich_fast_verzagen,_S.311_(Liszt,_Franz)",
+      "year": 1849
+    },
+    {
+      "title": "Concert Paraphrase on Mendelssohn's 'Sommernachtstraum', S.410",
+      "imslp_url": "https://imslp.org/wiki/Concert_Paraphrase_on_Mendelssohn's_'Sommernachtstraum',_S.410_(Liszt,_Franz)",
+      "year": 1849
+    },
+    {
+      "title": "Fantasie \u00fcber ungarische Volksmelodien, S.123",
+      "imslp_url": "https://imslp.org/wiki/Fantasie_\u00fcber_ungarische_Volksmelodien,_S.123_(Liszt,_Franz)",
+      "year": 1849
+    },
+    {
+      "title": "Festmarsch zur S\u00e4cularfeier von Goethes Geburtstag, S.227",
+      "imslp_url": "https://imslp.org/wiki/Festmarsch_zur_S\u00e4cularfeier_von_Goethes_Geburtstag,_S.227_(Liszt,_Franz)",
+      "year": 1849
+    },
+    {
+      "title": "Grand duo concertant sur le 'Le marin', S.128",
+      "imslp_url": "https://imslp.org/wiki/Grand_duo_concertant_sur_le_'Le_marin',_S.128_(Liszt,_Franz)",
+      "year": 1849
+    },
+    {
+      "title": "Grosses Konzertsolo, S.176",
+      "imslp_url": "https://imslp.org/wiki/Grosses_Konzertsolo,_S.176_(Liszt,_Franz)",
+      "year": 1849
+    },
+    {
+      "title": "Halloh!, S.404",
+      "imslp_url": "https://imslp.org/wiki/Halloh!,_S.404_(Liszt,_Franz)",
+      "year": 1849
+    },
+    {
+      "title": "Illustrations du Proph\u00e8te, S.414",
+      "imslp_url": "https://imslp.org/wiki/Illustrations_du_Proph\u00e8te,_S.414_(Liszt,_Franz)",
+      "year": 1849
+    },
+    {
+      "title": "Klavierst\u00fcck, S.692n",
+      "imslp_url": "https://imslp.org/wiki/Klavierst\u00fcck,_S.692n_(Liszt,_Franz)",
+      "year": 1849
+    },
+    {
+      "title": "Notturno, S.698b",
+      "imslp_url": "https://imslp.org/wiki/Notturno,_S.698b_(Liszt,_Franz)",
+      "year": 1849
+    },
+    {
+      "title": "Piano Concerto No.2, S.125",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.2,_S.125_(Liszt,_Franz)",
+      "year": 1849
+    },
+    {
+      "title": "Tasso: Lamento e Trionfo, S.96",
+      "imslp_url": "https://imslp.org/wiki/Tasso:_Lamento_e_Trionfo,_S.96_(Liszt,_Franz)",
+      "year": 1849
+    },
+    {
+      "title": "2 Polonaises, S.223",
+      "imslp_url": "https://imslp.org/wiki/2_Polonaises,_S.223_(Liszt,_Franz)",
+      "year": 1850
+    },
+    {
+      "title": "3 Caprices-Valses, S.214",
+      "imslp_url": "https://imslp.org/wiki/3_Caprices-Valses,_S.214_(Liszt,_Franz)",
+      "year": 1850
+    },
+    {
+      "title": "Album-Leaf 'Andante', S.167r",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Andante',_S.167r_(Liszt,_Franz)",
+      "year": 1850
+    },
+    {
+      "title": "Ch\u00f6re zu Herders Entfesseltem Prometheus, S.69",
+      "imslp_url": "https://imslp.org/wiki/Ch\u00f6re_zu_Herders_Entfesseltem_Prometheus,_S.69_(Liszt,_Franz)",
+      "year": 1850
+    },
+    {
+      "title": "Fantasie und Fuge \u00fcber den Choral Ad nos, ad salutarem undam, S.259",
+      "imslp_url": "https://imslp.org/wiki/Fantasie_und_Fuge_\u00fcber_den_Choral_Ad_nos,_ad_salutarem_undam,_S.259_(Liszt,_Franz)",
+      "year": 1850
+    },
+    {
+      "title": "Hohe Liebe, S.307",
+      "imslp_url": "https://imslp.org/wiki/Hohe_Liebe,_S.307_(Liszt,_Franz)",
+      "year": 1850
+    },
+    {
+      "title": "La cloche sonne, S.238",
+      "imslp_url": "https://imslp.org/wiki/La_cloche_sonne,_S.238_(Liszt,_Franz)",
+      "year": 1850
+    },
+    {
+      "title": "Les pr\u00e9ludes, S.97",
+      "imslp_url": "https://imslp.org/wiki/Les_pr\u00e9ludes,_S.97_(Liszt,_Franz)",
+      "year": 1850
+    },
+    {
+      "title": "Liebestr\u00e4ume, S.541",
+      "imslp_url": "https://imslp.org/wiki/Liebestr\u00e4ume,_S.541_(Liszt,_Franz)",
+      "year": 1850
+    },
+    {
+      "title": "Mazurka brillante, S.221",
+      "imslp_url": "https://imslp.org/wiki/Mazurka_brillante,_S.221_(Liszt,_Franz)",
+      "year": 1850
+    },
+    {
+      "title": "Pater noster IV, S.22",
+      "imslp_url": "https://imslp.org/wiki/Pater_noster_IV,_S.22_(Liszt,_Franz)",
+      "year": 1850
+    },
+    {
+      "title": "Grandes \u00e9tudes de Paganini, S.141",
+      "imslp_url": "https://imslp.org/wiki/Grandes_\u00e9tudes_de_Paganini,_S.141_(Liszt,_Franz)",
+      "year": 1851
+    },
+    {
+      "title": "Hungarian Rhapsody No.15, S.244/15",
+      "imslp_url": "https://imslp.org/wiki/Hungarian_Rhapsody_No.15,_S.244/15_(Liszt,_Franz)",
+      "year": 1851
+    },
+    {
+      "title": "Marche de R\u00e1k\u00f3czy, S.244c",
+      "imslp_url": "https://imslp.org/wiki/Marche_de_R\u00e1k\u00f3czy,_S.244c_(Liszt,_Franz)",
+      "year": 1851
+    },
+    {
+      "title": "Mazeppa, S.100",
+      "imslp_url": "https://imslp.org/wiki/Mazeppa,_S.100_(Liszt,_Franz)",
+      "year": 1851
+    },
+    {
+      "title": "Scherzo und Marsch, S.177",
+      "imslp_url": "https://imslp.org/wiki/Scherzo_und_Marsch,_S.177_(Liszt,_Franz)",
+      "year": 1851
+    },
+    {
+      "title": "Wilde Jagd - Scherzo, S.176a",
+      "imslp_url": "https://imslp.org/wiki/Wilde_Jagd_-_Scherzo,_S.176a_(Liszt,_Franz)",
+      "year": 1851
+    },
+    {
+      "title": "\u00c9tudes d'ex\u00e9cution transcendante, S.139",
+      "imslp_url": "https://imslp.org/wiki/\u00c9tudes_d'ex\u00e9cution_transcendante,_S.139_(Liszt,_Franz)",
+      "year": 1851
+    },
+    {
+      "title": "2 St\u00fccke aus Tannh\u00e4user und Lohengrin, S.445",
+      "imslp_url": "https://imslp.org/wiki/2_St\u00fccke_aus_Tannh\u00e4user_und_Lohengrin,_S.445_(Liszt,_Franz)",
+      "year": 1852
+    },
+    {
+      "title": "3 Chansons, S.510a",
+      "imslp_url": "https://imslp.org/wiki/3_Chansons,_S.510a_(Liszt,_Franz)",
+      "year": 1852
+    },
+    {
+      "title": "B\u00e9n\u00e9diction et serment, S.396",
+      "imslp_url": "https://imslp.org/wiki/B\u00e9n\u00e9diction_et_serment,_S.396_(Liszt,_Franz)",
+      "year": 1852
+    },
+    {
+      "title": "Es muss ein Wunderbares sein, S.314",
+      "imslp_url": "https://imslp.org/wiki/Es_muss_ein_Wunderbares_sein,_S.314_(Liszt,_Franz)",
+      "year": 1852
+    },
+    {
+      "title": "Fantasie \u00fcber Motive aus Beethovens Ruinen von Athen, S.122",
+      "imslp_url": "https://imslp.org/wiki/Fantasie_\u00fcber_Motive_aus_Beethovens_Ruinen_von_Athen,_S.122_(Liszt,_Franz)",
+      "year": 1852
+    },
+    {
+      "title": "Piano Sonata in B minor, S.178",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_in_B_minor,_S.178_(Liszt,_Franz)",
+      "year": 1852
+    },
+    {
+      "title": "Album-Leaf 'Cantique d'amour', S.167t",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Cantique_d'amour',_S.167t_(Liszt,_Franz)",
+      "year": 1853
+    },
+    {
+      "title": "An die K\u00fcnstler, S.70",
+      "imslp_url": "https://imslp.org/wiki/An_die_K\u00fcnstler,_S.70_(Liszt,_Franz)",
+      "year": 1853
+    },
+    {
+      "title": "Andante Finale und Marsch aus der Oper K\u00f6nig Alfred, S.421",
+      "imslp_url": "https://imslp.org/wiki/Andante_Finale_und_Marsch_aus_der_Oper_K\u00f6nig_Alfred,_S.421_(Liszt,_Franz)",
+      "year": 1853
+    },
+    {
+      "title": "Ballade No.2, S.171",
+      "imslp_url": "https://imslp.org/wiki/Ballade_No.2,_S.171_(Liszt,_Franz)",
+      "year": 1853
+    },
+    {
+      "title": "Chanson boh\u00e9mienne, S.250/2",
+      "imslp_url": "https://imslp.org/wiki/Chanson_boh\u00e9mienne,_S.250/2_(Liszt,_Franz)",
+      "year": 1853
+    },
+    {
+      "title": "Domine salvum fac regem, S.23",
+      "imslp_url": "https://imslp.org/wiki/Domine_salvum_fac_regem,_S.23_(Liszt,_Franz)",
+      "year": 1853
+    },
+    {
+      "title": "Festkl\u00e4nge, S.101",
+      "imslp_url": "https://imslp.org/wiki/Festkl\u00e4nge,_S.101_(Liszt,_Franz)",
+      "year": 1853
+    },
+    {
+      "title": "Huldigungsmarsch, S.228",
+      "imslp_url": "https://imslp.org/wiki/Huldigungsmarsch,_S.228_(Liszt,_Franz)",
+      "year": 1853
+    },
+    {
+      "title": "Orpheus, S.98",
+      "imslp_url": "https://imslp.org/wiki/Orpheus,_S.98_(Liszt,_Franz)",
+      "year": 1853
+    },
+    {
+      "title": "Te Deum I, S.24",
+      "imslp_url": "https://imslp.org/wiki/Te_Deum_I,_S.24_(Liszt,_Franz)",
+      "year": 1853
+    },
+    {
+      "title": "Ungarischer Romanzero, S.241a",
+      "imslp_url": "https://imslp.org/wiki/Ungarischer_Romanzero,_S.241a_(Liszt,_Franz)",
+      "year": 1853
+    },
+    {
+      "title": "Vom Fels zum Meer!, S.229",
+      "imslp_url": "https://imslp.org/wiki/Vom_Fels_zum_Meer!,_S.229_(Liszt,_Franz)",
+      "year": 1853
+    },
+    {
+      "title": "Aus Lohengrin, S.446",
+      "imslp_url": "https://imslp.org/wiki/Aus_Lohengrin,_S.446_(Liszt,_Franz)",
+      "year": 1854
+    },
+    {
+      "title": "Berceuse, S.174",
+      "imslp_url": "https://imslp.org/wiki/Berceuse,_S.174_(Liszt,_Franz)",
+      "year": 1854
+    },
+    {
+      "title": "Blume und Duft, S.324",
+      "imslp_url": "https://imslp.org/wiki/Blume_und_Duft,_S.324_(Liszt,_Franz)",
+      "year": 1854
+    },
+    {
+      "title": "Faust Symphony, S.108",
+      "imslp_url": "https://imslp.org/wiki/Faust_Symphony,_S.108_(Liszt,_Franz)",
+      "year": 1854
+    },
+    {
+      "title": "Hungaria, S.103",
+      "imslp_url": "https://imslp.org/wiki/Hungaria,_S.103_(Liszt,_Franz)",
+      "year": 1854
+    },
+    {
+      "title": "H\u00e9ro\u00efde fun\u00e8bre, S.102",
+      "imslp_url": "https://imslp.org/wiki/H\u00e9ro\u00efde_fun\u00e8bre,_S.102_(Liszt,_Franz)",
+      "year": 1854
+    },
+    {
+      "title": "Klavierst\u00fcck, S.193",
+      "imslp_url": "https://imslp.org/wiki/Klavierst\u00fcck,_S.193_(Liszt,_Franz)",
+      "year": 1854
+    },
+    {
+      "title": "Dante Symphony, S.109",
+      "imslp_url": "https://imslp.org/wiki/Dante_Symphony,_S.109_(Liszt,_Franz)",
+      "year": 1855
+    },
+    {
+      "title": "Hunnenschlacht, S.105",
+      "imslp_url": "https://imslp.org/wiki/Hunnenschlacht,_S.105_(Liszt,_Franz)",
+      "year": 1855
+    },
+    {
+      "title": "Missa Solennis, S.9",
+      "imslp_url": "https://imslp.org/wiki/Missa_Solennis,_S.9_(Liszt,_Franz)",
+      "year": 1855
+    },
+    {
+      "title": "Paraphrase de concert sur 'Rigoletto', S.434",
+      "imslp_url": "https://imslp.org/wiki/Paraphrase_de_concert_sur_'Rigoletto',_S.434_(Liszt,_Franz)",
+      "year": 1855
+    },
+    {
+      "title": "Prometheus, S.99",
+      "imslp_url": "https://imslp.org/wiki/Prometheus,_S.99_(Liszt,_Franz)",
+      "year": 1855
+    },
+    {
+      "title": "Pr\u00e4ludium und Fuge \u00fcber den Namen BACH, S.260",
+      "imslp_url": "https://imslp.org/wiki/Pr\u00e4ludium_und_Fuge_\u00fcber_den_Namen_BACH,_S.260_(Liszt,_Franz)",
+      "year": 1855
+    },
+    {
+      "title": "Psalm 13, S.13",
+      "imslp_url": "https://imslp.org/wiki/Psalm_13,_S.13_(Liszt,_Franz)",
+      "year": 1855
+    },
+    {
+      "title": "Vereins-Lied, S.90/1",
+      "imslp_url": "https://imslp.org/wiki/Vereins-Lied,_S.90/1_(Liszt,_Franz)",
+      "year": 1855
+    },
+    {
+      "title": "Wie singt die Lerche sch\u00f6n, S.312",
+      "imslp_url": "https://imslp.org/wiki/Wie_singt_die_Lerche_sch\u00f6n,_S.312_(Liszt,_Franz)",
+      "year": 1855
+    },
+    {
+      "title": "2 Episoden aus Lenau's Faust, S.110",
+      "imslp_url": "https://imslp.org/wiki/2_Episoden_aus_Lenau's_Faust,_S.110_(Liszt,_Franz)",
+      "year": 1856
+    },
+    {
+      "title": "Die Ideale, S.106",
+      "imslp_url": "https://imslp.org/wiki/Die_Ideale,_S.106_(Liszt,_Franz)",
+      "year": 1856
+    },
+    {
+      "title": "Festvorspiel, S.226",
+      "imslp_url": "https://imslp.org/wiki/Festvorspiel,_S.226_(Liszt,_Franz)",
+      "year": 1856
+    },
+    {
+      "title": "Mephisto Waltz No.1, S.514",
+      "imslp_url": "https://imslp.org/wiki/Mephisto_Waltz_No.1,_S.514_(Liszt,_Franz)",
+      "year": 1856
+    },
+    {
+      "title": "6 Polish Songs, S.480",
+      "imslp_url": "https://imslp.org/wiki/6_Polish_Songs,_S.480_(Liszt,_Franz)",
+      "year": 1857
+    },
+    {
+      "title": "Album-Leaf 'Andante molto espressivo', S.165f",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Andante_molto_espressivo',_S.165f_(Liszt,_Franz)",
+      "year": 1857
+    },
+    {
+      "title": "Die Legende von der Heiligen Elisabeth, S.2",
+      "imslp_url": "https://imslp.org/wiki/Die_Legende_von_der_Heiligen_Elisabeth,_S.2_(Liszt,_Franz)",
+      "year": 1857
+    },
+    {
+      "title": "Festmarsch zur Goethe-Jubil\u00e4umfeier, S.115",
+      "imslp_url": "https://imslp.org/wiki/Festmarsch_zur_Goethe-Jubil\u00e4umfeier,_S.115_(Liszt,_Franz)",
+      "year": 1857
+    },
+    {
+      "title": "Ich liebe dich, S.315",
+      "imslp_url": "https://imslp.org/wiki/Ich_liebe_dich,_S.315_(Liszt,_Franz)",
+      "year": 1857
+    },
+    {
+      "title": "K\u00fcnstlerfestzug zur Schillerfeier 1859, S.114",
+      "imslp_url": "https://imslp.org/wiki/K\u00fcnstlerfestzug_zur_Schillerfeier_1859,_S.114_(Liszt,_Franz)",
+      "year": 1857
+    },
+    {
+      "title": "Lenore, S.346",
+      "imslp_url": "https://imslp.org/wiki/Lenore,_S.346_(Liszt,_Franz)",
+      "year": 1857
+    },
+    {
+      "title": "Muttergottes-Str\u00e4usslein zum Mai-Monate, S.316",
+      "imslp_url": "https://imslp.org/wiki/Muttergottes-Str\u00e4usslein_zum_Mai-Monate,_S.316_(Liszt,_Franz)",
+      "year": 1857
+    },
+    {
+      "title": "Weimars Volkslied, S.313",
+      "imslp_url": "https://imslp.org/wiki/Weimars_Volkslied,_S.313_(Liszt,_Franz)",
+      "year": 1857
+    },
+    {
+      "title": "Album-Leaf 'Dante-Symphony', S.165e",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Dante-Symphony',_S.165e_(Liszt,_Franz)",
+      "year": 1858
+    },
+    {
+      "title": "Festgesang, S.26",
+      "imslp_url": "https://imslp.org/wiki/Festgesang,_S.26_(Liszt,_Franz)",
+      "year": 1858
+    },
+    {
+      "title": "Festmarsch nach Motiven von E.H.z.S.-C.-G., S.116",
+      "imslp_url": "https://imslp.org/wiki/Festmarsch_nach_Motiven_von_E.H.z.S.-C.-G.,_S.116_(Liszt,_Franz)",
+      "year": 1858
+    },
+    {
+      "title": "Hamlet, S.104",
+      "imslp_url": "https://imslp.org/wiki/Hamlet,_S.104_(Liszt,_Franz)",
+      "year": 1858
+    },
+    {
+      "title": "In Liebeslust, S.318",
+      "imslp_url": "https://imslp.org/wiki/In_Liebeslust,_S.318_(Liszt,_Franz)",
+      "year": 1858
+    },
+    {
+      "title": "Lasst mich ruhen, S.317",
+      "imslp_url": "https://imslp.org/wiki/Lasst_mich_ruhen,_S.317_(Liszt,_Franz)",
+      "year": 1858
+    },
+    {
+      "title": "Rhapsodie espagnole, S.254",
+      "imslp_url": "https://imslp.org/wiki/Rhapsodie_espagnole,_S.254_(Liszt,_Franz)",
+      "year": 1858
+    },
+    {
+      "title": "Ann\u00e9es de p\u00e8lerinage II, Suppl\u00e9ment, S.162",
+      "imslp_url": "https://imslp.org/wiki/Ann\u00e9es_de_p\u00e8lerinage_II,_Suppl\u00e9ment,_S.162_(Liszt,_Franz)",
+      "year": 1859
+    },
+    {
+      "title": "Die Seligkeiten, S.25",
+      "imslp_url": "https://imslp.org/wiki/Die_Seligkeiten,_S.25_(Liszt,_Franz)",
+      "year": 1859
+    },
+    {
+      "title": "Miserere du Trovatore, S.433",
+      "imslp_url": "https://imslp.org/wiki/Miserere_du_Trovatore,_S.433_(Liszt,_Franz)",
+      "year": 1859
+    },
+    {
+      "title": "Missa choralis, S.10",
+      "imslp_url": "https://imslp.org/wiki/Missa_choralis,_S.10_(Liszt,_Franz)",
+      "year": 1859
+    },
+    {
+      "title": "Paraphrase de concert sur Ernani II, S.432",
+      "imslp_url": "https://imslp.org/wiki/Paraphrase_de_concert_sur_Ernani_II,_S.432_(Liszt,_Franz)",
+      "year": 1859
+    },
+    {
+      "title": "Phantasiest\u00fcck \u00fcber Motive aus 'Rienzi', S.439",
+      "imslp_url": "https://imslp.org/wiki/Phantasiest\u00fcck_\u00fcber_Motive_aus_'Rienzi',_S.439_(Liszt,_Franz)",
+      "year": 1859
+    },
+    {
+      "title": "Te Deum II, S.27",
+      "imslp_url": "https://imslp.org/wiki/Te_Deum_II,_S.27_(Liszt,_Franz)",
+      "year": 1859
+    },
+    {
+      "title": "Weinen, Klagen, Sorgen, Zagen, S.179",
+      "imslp_url": "https://imslp.org/wiki/Weinen,_Klagen,_Sorgen,_Zagen,_S.179_(Liszt,_Franz)",
+      "year": 1859
+    },
+    {
+      "title": "4 Lieder von Franz Schubert, S.375",
+      "imslp_url": "https://imslp.org/wiki/4_Lieder_von_Franz_Schubert,_S.375_(Liszt,_Franz)",
+      "year": 1860
+    },
+    {
+      "title": "An den heiligen Franziskus von Paula, S.28",
+      "imslp_url": "https://imslp.org/wiki/An_den_heiligen_Franziskus_von_Paula,_S.28_(Liszt,_Franz)",
+      "year": 1860
+    },
+    {
+      "title": "Der Herr bewahret die Seelen seiner Heiligen, S.48",
+      "imslp_url": "https://imslp.org/wiki/Der_Herr_bewahret_die_Seelen_seiner_Heiligen,_S.48_(Liszt,_Franz)",
+      "year": 1860
+    },
+    {
+      "title": "Der traurige M\u00f6nch, S.348",
+      "imslp_url": "https://imslp.org/wiki/Der_traurige_M\u00f6nch,_S.348_(Liszt,_Franz)",
+      "year": 1860
+    },
+    {
+      "title": "Die drei Zigeuner, S.320",
+      "imslp_url": "https://imslp.org/wiki/Die_drei_Zigeuner,_S.320_(Liszt,_Franz)",
+      "year": 1860
+    },
+    {
+      "title": "Die stille Wasserrose, S.321",
+      "imslp_url": "https://imslp.org/wiki/Die_stille_Wasserrose,_S.321_(Liszt,_Franz)",
+      "year": 1860
+    },
+    {
+      "title": "Ein Fichtenbaum steht einsam II, S.309bis",
+      "imslp_url": "https://imslp.org/wiki/Ein_Fichtenbaum_steht_einsam_II,_S.309bis_(Liszt,_Franz)",
+      "year": 1860
+    },
+    {
+      "title": "Einleitung und Fuge",
+      "imslp_url": "https://imslp.org/wiki/Einleitung_und_Fuge_(Liszt,_Franz)",
+      "year": 1860
+    },
+    {
+      "title": "Geharnischte Lieder, S.511",
+      "imslp_url": "https://imslp.org/wiki/Geharnischte_Lieder,_S.511_(Liszt,_Franz)",
+      "year": 1860
+    },
+    {
+      "title": "Ich scheide, S.319",
+      "imslp_url": "https://imslp.org/wiki/Ich_scheide,_S.319_(Liszt,_Franz)",
+      "year": 1860
+    },
+    {
+      "title": "Jugendgl\u00fcck, S.323",
+      "imslp_url": "https://imslp.org/wiki/Jugendgl\u00fcck,_S.323_(Liszt,_Franz)",
+      "year": 1860
+    },
+    {
+      "title": "La notte, S.112/2",
+      "imslp_url": "https://imslp.org/wiki/La_notte,_S.112/2_(Liszt,_Franz)",
+      "year": 1860
+    },
+    {
+      "title": "Les morts, S.112/1",
+      "imslp_url": "https://imslp.org/wiki/Les_morts,_S.112/1_(Liszt,_Franz)",
+      "year": 1860
+    },
+    {
+      "title": "Pater noster II, S.29",
+      "imslp_url": "https://imslp.org/wiki/Pater_noster_II,_S.29_(Liszt,_Franz)",
+      "year": 1860
+    },
+    {
+      "title": "Responsorien und Antiphonen, S.30",
+      "imslp_url": "https://imslp.org/wiki/Responsorien_und_Antiphonen,_S.30_(Liszt,_Franz)",
+      "year": 1860
+    },
+    {
+      "title": "Spinnerlied aus dem Fliegenden Holl\u00e4nder, S.440",
+      "imslp_url": "https://imslp.org/wiki/Spinnerlied_aus_dem_Fliegenden_Holl\u00e4nder,_S.440_(Liszt,_Franz)",
+      "year": 1860
+    },
+    {
+      "title": "Wieder m\u00f6cht ich dir begegnen, S.322",
+      "imslp_url": "https://imslp.org/wiki/Wieder_m\u00f6cht_ich_dir_begegnen,_S.322_(Liszt,_Franz)",
+      "year": 1860
+    },
+    {
+      "title": "2 Lieder von Robert Schumann, S.567",
+      "imslp_url": "https://imslp.org/wiki/2_Lieder_von_Robert_Schumann,_S.567_(Liszt,_Franz)",
+      "year": 1861
+    },
+    {
+      "title": "Pilgerchor aus Tannh\u00e4user, S.443",
+      "imslp_url": "https://imslp.org/wiki/Pilgerchor_aus_Tannh\u00e4user,_S.443_(Liszt,_Franz)",
+      "year": 1861
+    },
+    {
+      "title": "Psalm 23, S.15",
+      "imslp_url": "https://imslp.org/wiki/Psalm_23,_S.15_(Liszt,_Franz)",
+      "year": 1861
+    },
+    {
+      "title": "2 Konzertet\u00fcden, S.145",
+      "imslp_url": "https://imslp.org/wiki/2_Konzertet\u00fcden,_S.145_(Liszt,_Franz)",
+      "year": 1862
+    },
+    {
+      "title": "2 L\u00e9gendes, S.175",
+      "imslp_url": "https://imslp.org/wiki/2_L\u00e9gendes,_S.175_(Liszt,_Franz)",
+      "year": 1862
+    },
+    {
+      "title": "Alleluja, S.183/1",
+      "imslp_url": "https://imslp.org/wiki/Alleluja,_S.183/1_(Liszt,_Franz)",
+      "year": 1862
+    },
+    {
+      "title": "Ave Maria (Die Glocken von Rom), S.182",
+      "imslp_url": "https://imslp.org/wiki/Ave_Maria_(Die_Glocken_von_Rom),_S.182_(Liszt,_Franz)",
+      "year": 1862
+    },
+    {
+      "title": "Ave Maria d'Arcadelt, S.183/2",
+      "imslp_url": "https://imslp.org/wiki/Ave_Maria_d'Arcadelt,_S.183/2_(Liszt,_Franz)",
+      "year": 1862
+    },
+    {
+      "title": "Cantico del sol di Francesco d'Assisi, S.4",
+      "imslp_url": "https://imslp.org/wiki/Cantico_del_sol_di_Francesco_d'Assisi,_S.4_(Liszt,_Franz)",
+      "year": 1862
+    },
+    {
+      "title": "Variationen \u00fcber das Motiv von Bach, S.180",
+      "imslp_url": "https://imslp.org/wiki/Variationen_\u00fcber_das_Motiv_von_Bach,_S.180_(Liszt,_Franz)",
+      "year": 1862
+    },
+    {
+      "title": "\u00c0 la Chapelle Sixtine, S.461",
+      "imslp_url": "https://imslp.org/wiki/\u00c0_la_Chapelle_Sixtine,_S.461_(Liszt,_Franz)",
+      "year": 1862
+    },
+    {
+      "title": "Christus ist geboren, S.31",
+      "imslp_url": "https://imslp.org/wiki/Christus_ist_geboren,_S.31_(Liszt,_Franz)",
+      "year": 1863
+    },
+    {
+      "title": "Christus ist geboren, S.32",
+      "imslp_url": "https://imslp.org/wiki/Christus_ist_geboren,_S.32_(Liszt,_Franz)",
+      "year": 1863
+    },
+    {
+      "title": "Pio IX, S.261",
+      "imslp_url": "https://imslp.org/wiki/Pio_IX,_S.261_(Liszt,_Franz)",
+      "year": 1863
+    },
+    {
+      "title": "R\u00e1k\u00f3czi-Marsch, S.117",
+      "imslp_url": "https://imslp.org/wiki/R\u00e1k\u00f3czi-Marsch,_S.117_(Liszt,_Franz)",
+      "year": 1863
+    },
+    {
+      "title": "Slavimo slavno, Slaveni!, S.33",
+      "imslp_url": "https://imslp.org/wiki/Slavimo_slavno,_Slaveni!,_S.33_(Liszt,_Franz)",
+      "year": 1863
+    },
+    {
+      "title": "Die drei Zigeuner, S.383",
+      "imslp_url": "https://imslp.org/wiki/Die_drei_Zigeuner,_S.383_(Liszt,_Franz)",
+      "year": 1864
+    },
+    {
+      "title": "Ora pro nobis, S.262",
+      "imslp_url": "https://imslp.org/wiki/Ora_pro_nobis,_S.262_(Liszt,_Franz)",
+      "year": 1864
+    },
+    {
+      "title": "Psalm 137, S.17",
+      "imslp_url": "https://imslp.org/wiki/Psalm_137,_S.17_(Liszt,_Franz)",
+      "year": 1864
+    },
+    {
+      "title": "Urbi et Orbi, S.184",
+      "imslp_url": "https://imslp.org/wiki/Urbi_et_Orbi,_S.184_(Liszt,_Franz)",
+      "year": 1864
+    },
+    {
+      "title": "Vexilla regis prodeunt, S.185",
+      "imslp_url": "https://imslp.org/wiki/Vexilla_regis_prodeunt,_S.185_(Liszt,_Franz)",
+      "year": 1864
+    },
+    {
+      "title": "5 Klavierst\u00fccke, S.192",
+      "imslp_url": "https://imslp.org/wiki/5_Klavierst\u00fccke,_S.192_(Liszt,_Franz)",
+      "year": 1865
+    },
+    {
+      "title": "Ave maris stella, S.34",
+      "imslp_url": "https://imslp.org/wiki/Ave_maris_stella,_S.34_(Liszt,_Franz)",
+      "year": 1865
+    },
+    {
+      "title": "Concerto path\u00e9tique, S.258",
+      "imslp_url": "https://imslp.org/wiki/Concerto_path\u00e9tique,_S.258_(Liszt,_Franz)",
+      "year": 1865
+    },
+    {
+      "title": "Crux!, S.35",
+      "imslp_url": "https://imslp.org/wiki/Crux!,_S.35_(Liszt,_Franz)",
+      "year": 1865
+    },
+    {
+      "title": "Fantaisie sur l'op\u00e9ra hongroise Sz\u00e9p Ilonka, S.417",
+      "imslp_url": "https://imslp.org/wiki/Fantaisie_sur_l'op\u00e9ra_hongroise_Sz\u00e9p_Ilonka,_S.417_(Liszt,_Franz)",
+      "year": 1865
+    },
+    {
+      "title": "Illustrations de l'op\u00e9ra L'Africaine, S.415",
+      "imslp_url": "https://imslp.org/wiki/Illustrations_de_l'op\u00e9ra_L'Africaine,_S.415_(Liszt,_Franz)",
+      "year": 1865
+    },
+    {
+      "title": "Les Sab\u00e9ennes, S.408",
+      "imslp_url": "https://imslp.org/wiki/Les_Sab\u00e9ennes,_S.408_(Liszt,_Franz)",
+      "year": 1865
+    },
+    {
+      "title": "Christus, S.3",
+      "imslp_url": "https://imslp.org/wiki/Christus,_S.3_(Liszt,_Franz)",
+      "year": 1866
+    },
+    {
+      "title": "Do Not Reproach Me, S.340a",
+      "imslp_url": "https://imslp.org/wiki/Do_Not_Reproach_Me,_S.340a_(Liszt,_Franz)",
+      "year": 1866
+    },
+    {
+      "title": "La Marseillaise, S.237",
+      "imslp_url": "https://imslp.org/wiki/La_Marseillaise,_S.237_(Liszt,_Franz)",
+      "year": 1866
+    },
+    {
+      "title": "Le triomphe fun\u00e8bre du Tasse, S.112/3",
+      "imslp_url": "https://imslp.org/wiki/Le_triomphe_fun\u00e8bre_du_Tasse,_S.112/3_(Liszt,_Franz)",
+      "year": 1866
+    },
+    {
+      "title": "Ungarische Kr\u00f6nungsmesse, S.11",
+      "imslp_url": "https://imslp.org/wiki/Ungarische_Kr\u00f6nungsmesse,_S.11_(Liszt,_Franz)",
+      "year": 1866
+    },
+    {
+      "title": "Ann\u00e9es de p\u00e8lerinage III, S.163",
+      "imslp_url": "https://imslp.org/wiki/Ann\u00e9es_de_p\u00e8lerinage_III,_S.163_(Liszt,_Franz)",
+      "year": 1867
+    },
+    {
+      "title": "Les adieux, S.409",
+      "imslp_url": "https://imslp.org/wiki/Les_adieux,_S.409_(Liszt,_Franz)",
+      "year": 1867
+    },
+    {
+      "title": "Requiem, S.12",
+      "imslp_url": "https://imslp.org/wiki/Requiem,_S.12_(Liszt,_Franz)",
+      "year": 1867
+    },
+    {
+      "title": "Ungarischer Marsch zur Kr\u00f6nungsfeier in Ofen-Pest am 8. Juni 1867, S.118",
+      "imslp_url": "https://imslp.org/wiki/Ungarischer_Marsch_zur_Kr\u00f6nungsfeier_in_Ofen-Pest_am_8._Juni_1867,_S.118_(Liszt,_Franz)",
+      "year": 1867
+    },
+    {
+      "title": "Die Glocken des Strassburger M\u00fcnsters, S.6",
+      "imslp_url": "https://imslp.org/wiki/Die_Glocken_des_Strassburger_M\u00fcnsters,_S.6_(Liszt,_Franz)",
+      "year": 1868
+    },
+    {
+      "title": "Mihi autem adhaerere, S.37",
+      "imslp_url": "https://imslp.org/wiki/Mihi_autem_adhaerere,_S.37_(Liszt,_Franz)",
+      "year": 1868
+    },
+    {
+      "title": "Schubert's Impromptus, S.565b",
+      "imslp_url": "https://imslp.org/wiki/Schubert's_Impromptus,_S.565b_(Liszt,_Franz)",
+      "year": 1868
+    },
+    {
+      "title": "Technische Studien, S.146",
+      "imslp_url": "https://imslp.org/wiki/Technische_Studien,_S.146_(Liszt,_Franz)",
+      "year": 1868
+    },
+    {
+      "title": "Ave Maria II, S.38",
+      "imslp_url": "https://imslp.org/wiki/Ave_Maria_II,_S.38_(Liszt,_Franz)",
+      "year": 1869
+    },
+    {
+      "title": "Gaudeamus igitur, S.71a",
+      "imslp_url": "https://imslp.org/wiki/Gaudeamus_igitur,_S.71a_(Liszt,_Franz)",
+      "year": 1869
+    },
+    {
+      "title": "Inno a Maria Vergine, S.39",
+      "imslp_url": "https://imslp.org/wiki/Inno_a_Maria_Vergine,_S.39_(Liszt,_Franz)",
+      "year": 1869
+    },
+    {
+      "title": "O salutaris hostia I, S.40",
+      "imslp_url": "https://imslp.org/wiki/O_salutaris_hostia_I,_S.40_(Liszt,_Franz)",
+      "year": 1869
+    },
+    {
+      "title": "O salutaris hostia II, S.43",
+      "imslp_url": "https://imslp.org/wiki/O_salutaris_hostia_II,_S.43_(Liszt,_Franz)",
+      "year": 1869
+    },
+    {
+      "title": "Pater noster III, S.41",
+      "imslp_url": "https://imslp.org/wiki/Pater_noster_III,_S.41_(Liszt,_Franz)",
+      "year": 1869
+    },
+    {
+      "title": "Tantum ergo, S.42",
+      "imslp_url": "https://imslp.org/wiki/Tantum_ergo,_S.42_(Liszt,_Franz)",
+      "year": 1869
+    },
+    {
+      "title": "Album-Leaf 'Consolation 1', S.165a",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'Consolation_1',_S.165a_(Liszt,_Franz)",
+      "year": 1870
+    },
+    {
+      "title": "Kavallerie-Geschwindmarsch, S.460",
+      "imslp_url": "https://imslp.org/wiki/Kavallerie-Geschwindmarsch,_S.460_(Liszt,_Franz)",
+      "year": 1870
+    },
+    {
+      "title": "Mosonyis Grabgeleit, S.194",
+      "imslp_url": "https://imslp.org/wiki/Mosonyis_Grabgeleit,_S.194_(Liszt,_Franz)",
+      "year": 1870
+    },
+    {
+      "title": "Ungarischer Geschwindmarsch, S.233",
+      "imslp_url": "https://imslp.org/wiki/Ungarischer_Geschwindmarsch,_S.233_(Liszt,_Franz)",
+      "year": 1870
+    },
+    {
+      "title": "Am stillen Herd, S.448",
+      "imslp_url": "https://imslp.org/wiki/Am_stillen_Herd,_S.448_(Liszt,_Franz)",
+      "year": 1871
+    },
+    {
+      "title": "Ave verum corpus, S.44",
+      "imslp_url": "https://imslp.org/wiki/Ave_verum_corpus,_S.44_(Liszt,_Franz)",
+      "year": 1871
+    },
+    {
+      "title": "Die Fischerstochter, S.325",
+      "imslp_url": "https://imslp.org/wiki/Die_Fischerstochter,_S.325_(Liszt,_Franz)",
+      "year": 1871
+    },
+    {
+      "title": "Und wir dachten der Toten, S.338",
+      "imslp_url": "https://imslp.org/wiki/Und_wir_dachten_der_Toten,_S.338_(Liszt,_Franz)",
+      "year": 1871
+    },
+    {
+      "title": "Ballade aus dem Fliegenden Holl\u00e4nder, S.441",
+      "imslp_url": "https://imslp.org/wiki/Ballade_aus_dem_Fliegenden_Holl\u00e4nder,_S.441_(Liszt,_Franz)",
+      "year": 1872
+    },
+    {
+      "title": "Epithalam, S.129",
+      "imslp_url": "https://imslp.org/wiki/Epithalam,_S.129_(Liszt,_Franz)",
+      "year": 1872
+    },
+    {
+      "title": "Impromptu, S.191",
+      "imslp_url": "https://imslp.org/wiki/Impromptu,_S.191_(Liszt,_Franz)",
+      "year": 1872
+    },
+    {
+      "title": "J'ai perdu ma force et ma vie, S.327",
+      "imslp_url": "https://imslp.org/wiki/J'ai_perdu_ma_force_et_ma_vie,_S.327_(Liszt,_Franz)",
+      "year": 1872
+    },
+    {
+      "title": "La perla, S.326",
+      "imslp_url": "https://imslp.org/wiki/La_perla,_S.326_(Liszt,_Franz)",
+      "year": 1872
+    },
+    {
+      "title": "Sz\u00f3zat und Hymnus, S.353",
+      "imslp_url": "https://imslp.org/wiki/Sz\u00f3zat_und_Hymnus,_S.353_(Liszt,_Franz)",
+      "year": 1872
+    },
+    {
+      "title": "Wartburg-Lieder, S.345",
+      "imslp_url": "https://imslp.org/wiki/Wartburg-Lieder,_S.345_(Liszt,_Franz)",
+      "year": 1872
+    },
+    {
+      "title": "5 Ungarische Volkslieder, S.245",
+      "imslp_url": "https://imslp.org/wiki/5_Ungarische_Volkslieder,_S.245_(Liszt,_Franz)",
+      "year": 1873
+    },
+    {
+      "title": "Album-Leaf 'St. Fran\u00e7ois de Paule', S.165o",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'St._Fran\u00e7ois_de_Paule',_S.165o_(Liszt,_Franz)",
+      "year": 1873
+    },
+    {
+      "title": "Weihnachtsbaum, S.186",
+      "imslp_url": "https://imslp.org/wiki/Weihnachtsbaum,_S.186_(Liszt,_Franz)",
+      "year": 1873
+    },
+    {
+      "title": "Anima Christi sanctifica me, S.46",
+      "imslp_url": "https://imslp.org/wiki/Anima_Christi_sanctifica_me,_S.46_(Liszt,_Franz)",
+      "year": 1874
+    },
+    {
+      "title": "Des toten Dichters Liebe, S.349",
+      "imslp_url": "https://imslp.org/wiki/Des_toten_Dichters_Liebe,_S.349_(Liszt,_Franz)",
+      "year": 1874
+    },
+    {
+      "title": "Die heilige C\u00e4cilia, S.5",
+      "imslp_url": "https://imslp.org/wiki/Die_heilige_C\u00e4cilia,_S.5_(Liszt,_Franz)",
+      "year": 1874
+    },
+    {
+      "title": "Elegy No.1, S.196",
+      "imslp_url": "https://imslp.org/wiki/Elegy_No.1,_S.196_(Liszt,_Franz)",
+      "year": 1874
+    },
+    {
+      "title": "Ihr Glocken von Marling, S.328",
+      "imslp_url": "https://imslp.org/wiki/Ihr_Glocken_von_Marling,_S.328_(Liszt,_Franz)",
+      "year": 1874
+    },
+    {
+      "title": "Lieder von Robert und Clara Schumann, S.569",
+      "imslp_url": "https://imslp.org/wiki/Lieder_von_Robert_und_Clara_Schumann,_S.569_(Liszt,_Franz)",
+      "year": 1874
+    },
+    {
+      "title": "Via Crucis, S.53",
+      "imslp_url": "https://imslp.org/wiki/Via_Crucis,_S.53_(Liszt,_Franz)",
+      "year": 1874
+    },
+    {
+      "title": "Carrousel de Madame Pelet-Narbonne, S.214a",
+      "imslp_url": "https://imslp.org/wiki/Carrousel_de_Madame_Pelet-Narbonne,_S.214a_(Liszt,_Franz)",
+      "year": 1875
+    },
+    {
+      "title": "Der blinde S\u00e4nger, S.350",
+      "imslp_url": "https://imslp.org/wiki/Der_blinde_S\u00e4nger,_S.350_(Liszt,_Franz)",
+      "year": 1875
+    },
+    {
+      "title": "Polonaises de l'oratorio St. Stanislaus, S.519",
+      "imslp_url": "https://imslp.org/wiki/Polonaises_de_l'oratorio_St._Stanislaus,_S.519_(Liszt,_Franz)",
+      "year": 1875
+    },
+    {
+      "title": "Und sprich, S.329",
+      "imslp_url": "https://imslp.org/wiki/Und_sprich,_S.329_(Liszt,_Franz)",
+      "year": 1875
+    },
+    {
+      "title": "Ungarischer Sturmmarsch, S.119",
+      "imslp_url": "https://imslp.org/wiki/Ungarischer_Sturmmarsch,_S.119_(Liszt,_Franz)",
+      "year": 1875
+    },
+    {
+      "title": "Walhall aus Der Ring des Nibelungen, S.449",
+      "imslp_url": "https://imslp.org/wiki/Walhall_aus_Der_Ring_des_Nibelungen,_S.449_(Liszt,_Franz)",
+      "year": 1875
+    },
+    {
+      "title": "Danza sacra e duetto finale d'Aida, S.436",
+      "imslp_url": "https://imslp.org/wiki/Danza_sacra_e_duetto_finale_d'Aida,_S.436_(Liszt,_Franz)",
+      "year": 1876
+    },
+    {
+      "title": "Festpolonaise, S.230a",
+      "imslp_url": "https://imslp.org/wiki/Festpolonaise,_S.230a_(Liszt,_Franz)",
+      "year": 1876
+    },
+    {
+      "title": "2 Kirchenhymnen, S.669",
+      "imslp_url": "https://imslp.org/wiki/2_Kirchenhymnen,_S.669_(Liszt,_Franz)",
+      "year": 1877
+    },
+    {
+      "title": "Dem Andenken Pet\u00f6fis, S.195",
+      "imslp_url": "https://imslp.org/wiki/Dem_Andenken_Pet\u00f6fis,_S.195_(Liszt,_Franz)",
+      "year": 1877
+    },
+    {
+      "title": "Elegy No.2, S.197",
+      "imslp_url": "https://imslp.org/wiki/Elegy_No.2,_S.197_(Liszt,_Franz)",
+      "year": 1877
+    },
+    {
+      "title": "Recueillement, S.204",
+      "imslp_url": "https://imslp.org/wiki/Recueillement,_S.204_(Liszt,_Franz)",
+      "year": 1877
+    },
+    {
+      "title": "Resignazione, S.187a/b",
+      "imslp_url": "https://imslp.org/wiki/Resignazione,_S.187a/b_(Liszt,_Franz)",
+      "year": 1877
+    },
+    {
+      "title": "Sancta Dorothea, S.187",
+      "imslp_url": "https://imslp.org/wiki/Sancta_Dorothea,_S.187_(Liszt,_Franz)",
+      "year": 1877
+    },
+    {
+      "title": "Sei still, S.330",
+      "imslp_url": "https://imslp.org/wiki/Sei_still,_S.330_(Liszt,_Franz)",
+      "year": 1877
+    },
+    {
+      "title": "Alte deutsche geistliche Weisen, S.50",
+      "imslp_url": "https://imslp.org/wiki/Alte_deutsche_geistliche_Weisen,_S.50_(Liszt,_Franz)",
+      "year": 1878
+    },
+    {
+      "title": "An Edlitam, S.333",
+      "imslp_url": "https://imslp.org/wiki/An_Edlitam,_S.333_(Liszt,_Franz)",
+      "year": 1878
+    },
+    {
+      "title": "Der Gl\u00fcckliche, S.334",
+      "imslp_url": "https://imslp.org/wiki/Der_Gl\u00fcckliche,_S.334_(Liszt,_Franz)",
+      "year": 1878
+    },
+    {
+      "title": "Deutsche Kirchenlieder, S.669a",
+      "imslp_url": "https://imslp.org/wiki/Deutsche_Kirchenlieder,_S.669a_(Liszt,_Franz)",
+      "year": 1878
+    },
+    {
+      "title": "Einst, S.332",
+      "imslp_url": "https://imslp.org/wiki/Einst,_S.332_(Liszt,_Franz)",
+      "year": 1878
+    },
+    {
+      "title": "Gebet, S.331",
+      "imslp_url": "https://imslp.org/wiki/Gebet,_S.331_(Liszt,_Franz)",
+      "year": 1878
+    },
+    {
+      "title": "Septem sacramenta, S.52",
+      "imslp_url": "https://imslp.org/wiki/Septem_sacramenta,_S.52_(Liszt,_Franz)",
+      "year": 1878
+    },
+    {
+      "title": "Air cosaque, S.249c",
+      "imslp_url": "https://imslp.org/wiki/Air_cosaque,_S.249c_(Liszt,_Franz)",
+      "year": 1879
+    },
+    {
+      "title": "Cantantibus organis, S.7",
+      "imslp_url": "https://imslp.org/wiki/Cantantibus_organis,_S.7_(Liszt,_Franz)",
+      "year": 1879
+    },
+    {
+      "title": "Gebet, S.265",
+      "imslp_url": "https://imslp.org/wiki/Gebet,_S.265_(Liszt,_Franz)",
+      "year": 1879
+    },
+    {
+      "title": "Go Not, Happy Day, S.335",
+      "imslp_url": "https://imslp.org/wiki/Go_Not,_Happy_Day,_S.335_(Liszt,_Franz)",
+      "year": 1879
+    },
+    {
+      "title": "Le crucifix, S.342",
+      "imslp_url": "https://imslp.org/wiki/Le_crucifix,_S.342_(Liszt,_Franz)",
+      "year": 1879
+    },
+    {
+      "title": "L\u00e4ndler in D major, S.211a",
+      "imslp_url": "https://imslp.org/wiki/L\u00e4ndler_in_D_major,_S.211a_(Liszt,_Franz)",
+      "year": 1879
+    },
+    {
+      "title": "Missa pro organo lectarum celebrationi missarum adjumento inserviens, S.264",
+      "imslp_url": "https://imslp.org/wiki/Missa_pro_organo_lectarum_celebrationi_missarum_adjumento_inserviens,_S.264_(Liszt,_Franz)",
+      "year": 1879
+    },
+    {
+      "title": "O Roma nobilis, S.54",
+      "imslp_url": "https://imslp.org/wiki/O_Roma_nobilis,_S.54_(Liszt,_Franz)",
+      "year": 1879
+    },
+    {
+      "title": "Ossa arida, S.55",
+      "imslp_url": "https://imslp.org/wiki/Ossa_arida,_S.55_(Liszt,_Franz)",
+      "year": 1879
+    },
+    {
+      "title": "Rosario, S.56",
+      "imslp_url": "https://imslp.org/wiki/Rosario,_S.56_(Liszt,_Franz)",
+      "year": 1879
+    },
+    {
+      "title": "Sarabande und Chaconne aus dem Singspiel Almira, S.181",
+      "imslp_url": "https://imslp.org/wiki/Sarabande_und_Chaconne_aus_dem_Singspiel_Almira,_S.181_(Liszt,_Franz)",
+      "year": 1879
+    },
+    {
+      "title": "Toccata, S.197a",
+      "imslp_url": "https://imslp.org/wiki/Toccata,_S.197a_(Liszt,_Franz)",
+      "year": 1879
+    },
+    {
+      "title": "2 Lieder von Anton Rubinstein, S.554",
+      "imslp_url": "https://imslp.org/wiki/2_Lieder_von_Anton_Rubinstein,_S.554_(Liszt,_Franz)",
+      "year": 1880
+    },
+    {
+      "title": "Andante sensibilissimo, S.701c",
+      "imslp_url": "https://imslp.org/wiki/Andante_sensibilissimo,_S.701c_(Liszt,_Franz)",
+      "year": 1880
+    },
+    {
+      "title": "Cadenza, S.695f",
+      "imslp_url": "https://imslp.org/wiki/Cadenza,_S.695f_(Liszt,_Franz)",
+      "year": 1880
+    },
+    {
+      "title": "Des Tages laute Stimmen schweigen, S.337",
+      "imslp_url": "https://imslp.org/wiki/Des_Tages_laute_Stimmen_schweigen,_S.337_(Liszt,_Franz)",
+      "year": 1880
+    },
+    {
+      "title": "Einleitung und Coda zu Anton Rubinsteins Etude, S.554a",
+      "imslp_url": "https://imslp.org/wiki/Einleitung_und_Coda_zu_Anton_Rubinsteins_Etude,_S.554a_(Liszt,_Franz)",
+      "year": 1880
+    },
+    {
+      "title": "In festo transfigurationis Domini nostri Jesu Christi, S.188",
+      "imslp_url": "https://imslp.org/wiki/In_festo_transfigurationis_Domini_nostri_Jesu_Christi,_S.188_(Liszt,_Franz)",
+      "year": 1880
+    },
+    {
+      "title": "Mephisto Waltz No.2, S.515",
+      "imslp_url": "https://imslp.org/wiki/Mephisto_Waltz_No.2,_S.515_(Liszt,_Franz)",
+      "year": 1880
+    },
+    {
+      "title": "O sacrum convivium, S.58",
+      "imslp_url": "https://imslp.org/wiki/O_sacrum_convivium,_S.58_(Liszt,_Franz)",
+      "year": 1880
+    },
+    {
+      "title": "Pro Papa, S.59",
+      "imslp_url": "https://imslp.org/wiki/Pro_Papa,_S.59_(Liszt,_Franz)",
+      "year": 1880
+    },
+    {
+      "title": "Pr\u00e9lude \u00e0 la Polka d'Alexandre Porfiryevitch Borodine, S.207a",
+      "imslp_url": "https://imslp.org/wiki/Pr\u00e9lude_\u00e0_la_Polka_d'Alexandre_Porfiryevitch_Borodine,_S.207a_(Liszt,_Franz)",
+      "year": 1880
+    },
+    {
+      "title": "Romance oubli\u00e9e, S.527",
+      "imslp_url": "https://imslp.org/wiki/Romance_oubli\u00e9e,_S.527_(Liszt,_Franz)",
+      "year": 1880
+    },
+    {
+      "title": "Sancta Caecilia, S.343",
+      "imslp_url": "https://imslp.org/wiki/Sancta_Caecilia,_S.343_(Liszt,_Franz)",
+      "year": 1880
+    },
+    {
+      "title": "Verlassen, S.336",
+      "imslp_url": "https://imslp.org/wiki/Verlassen,_S.336_(Liszt,_Franz)",
+      "year": 1880
+    },
+    {
+      "title": "A magyarok Istene, S.339",
+      "imslp_url": "https://imslp.org/wiki/A_magyarok_Istene,_S.339_(Liszt,_Franz)",
+      "year": 1881
+    },
+    {
+      "title": "Ave Maria IV, S.341",
+      "imslp_url": "https://imslp.org/wiki/Ave_Maria_IV,_S.341_(Liszt,_Franz)",
+      "year": 1881
+    },
+    {
+      "title": "Cs\u00e1rd\u00e1s macabre, S.224",
+      "imslp_url": "https://imslp.org/wiki/Cs\u00e1rd\u00e1s_macabre,_S.224_(Liszt,_Franz)",
+      "year": 1881
+    },
+    {
+      "title": "La mandragore, S.698",
+      "imslp_url": "https://imslp.org/wiki/La_mandragore,_S.698_(Liszt,_Franz)",
+      "year": 1881
+    },
+    {
+      "title": "O Meer im Abendstrahl, S.344",
+      "imslp_url": "https://imslp.org/wiki/O_Meer_im_Abendstrahl,_S.344_(Liszt,_Franz)",
+      "year": 1881
+    },
+    {
+      "title": "O heilige Nacht, S.49",
+      "imslp_url": "https://imslp.org/wiki/O_heilige_Nacht,_S.49_(Liszt,_Franz)",
+      "year": 1881
+    },
+    {
+      "title": "Sankt Christoph, S.47",
+      "imslp_url": "https://imslp.org/wiki/Sankt_Christoph,_S.47_(Liszt,_Franz)",
+      "year": 1881
+    },
+    {
+      "title": "Tr\u00fcbe Wolken, S.199",
+      "imslp_url": "https://imslp.org/wiki/Tr\u00fcbe_Wolken,_S.199_(Liszt,_Franz)",
+      "year": 1881
+    },
+    {
+      "title": "Unstern, S.208",
+      "imslp_url": "https://imslp.org/wiki/Unstern,_S.208_(Liszt,_Franz)",
+      "year": 1881
+    },
+    {
+      "title": "Valses oubli\u00e9es, S.215",
+      "imslp_url": "https://imslp.org/wiki/Valses_oubli\u00e9es,_S.215_(Liszt,_Franz)",
+      "year": 1881
+    },
+    {
+      "title": "Von der Wiege bis zum Grabe, S.107",
+      "imslp_url": "https://imslp.org/wiki/Von_der_Wiege_bis_zum_Grabe,_S.107_(Liszt,_Franz)",
+      "year": 1881
+    },
+    {
+      "title": "Wiegenlied, S.198",
+      "imslp_url": "https://imslp.org/wiki/Wiegenlied,_S.198_(Liszt,_Franz)",
+      "year": 1881
+    },
+    {
+      "title": "Feierlicher Marsch zum heiligen Gral aus Parsifal, S.450",
+      "imslp_url": "https://imslp.org/wiki/Feierlicher_Marsch_zum_heiligen_Gral_aus_Parsifal,_S.450_(Liszt,_Franz)",
+      "year": 1882
+    },
+    {
+      "title": "Hungarian Rhapsody No.16, S.244/16",
+      "imslp_url": "https://imslp.org/wiki/Hungarian_Rhapsody_No.16,_S.244/16_(Liszt,_Franz)",
+      "year": 1882
+    },
+    {
+      "title": "La lugubre gondola, S.200",
+      "imslp_url": "https://imslp.org/wiki/La_lugubre_gondola,_S.200_(Liszt,_Franz)",
+      "year": 1882
+    },
+    {
+      "title": "Mephisto Polka, S.217",
+      "imslp_url": "https://imslp.org/wiki/Mephisto_Polka,_S.217_(Liszt,_Franz)",
+      "year": 1882
+    },
+    {
+      "title": "R\u00e9miniscences de Boccanegra, S.438",
+      "imslp_url": "https://imslp.org/wiki/R\u00e9miniscences_de_Boccanegra,_S.438_(Liszt,_Franz)",
+      "year": 1882
+    },
+    {
+      "title": "Valse de concert, S.430",
+      "imslp_url": "https://imslp.org/wiki/Valse_de_concert,_S.430_(Liszt,_Franz)",
+      "year": 1882
+    },
+    {
+      "title": "Album-Leaf '12 Einleitungs Takten zur Harmonie poetique: B\u00e9n\u00e9diction de Dieu dans la solitude', S.166x",
+      "imslp_url": "https://imslp.org/wiki/Album-Leaf_'12_Einleitungs_Takten_zur_Harmonie_poetique:_B\u00e9n\u00e9diction_de_Dieu_dans_la_solitude',_S.166x_(Liszt,_Franz)",
+      "year": 1883
+    },
+    {
+      "title": "Am Grabe Richard Wagners, S.135",
+      "imslp_url": "https://imslp.org/wiki/Am_Grabe_Richard_Wagners,_S.135_(Liszt,_Franz)",
+      "year": 1883
+    },
+    {
+      "title": "Ave Maria III, S.60",
+      "imslp_url": "https://imslp.org/wiki/Ave_Maria_III,_S.60_(Liszt,_Franz)",
+      "year": 1883
+    },
+    {
+      "title": "B\u00fclow-Marsch, S.230",
+      "imslp_url": "https://imslp.org/wiki/B\u00fclow-Marsch,_S.230_(Liszt,_Franz)",
+      "year": 1883
+    },
+    {
+      "title": "Magyar kir\u00e1ly-dal, S.340",
+      "imslp_url": "https://imslp.org/wiki/Magyar_kir\u00e1ly-dal,_S.340_(Liszt,_Franz)",
+      "year": 1883
+    },
+    {
+      "title": "Mephisto Waltz No.3, S.216",
+      "imslp_url": "https://imslp.org/wiki/Mephisto_Waltz_No.3,_S.216_(Liszt,_Franz)",
+      "year": 1883
+    },
+    {
+      "title": "Nun danket alle Gott, S.61",
+      "imslp_url": "https://imslp.org/wiki/Nun_danket_alle_Gott,_S.61_(Liszt,_Franz)",
+      "year": 1883
+    },
+    {
+      "title": "R.W. - Venezia, S.201",
+      "imslp_url": "https://imslp.org/wiki/R.W._-_Venezia,_S.201_(Liszt,_Franz)",
+      "year": 1883
+    },
+    {
+      "title": "Requiem f\u00fcr die Orgel, S.266",
+      "imslp_url": "https://imslp.org/wiki/Requiem_f\u00fcr_die_Orgel,_S.266_(Liszt,_Franz)",
+      "year": 1883
+    },
+    {
+      "title": "Schlaflos! Frage und Antwort, S.203",
+      "imslp_url": "https://imslp.org/wiki/Schlaflos!_Frage_und_Antwort,_S.203_(Liszt,_Franz)",
+      "year": 1883
+    },
+    {
+      "title": "2 Album-Leaves, S.166y",
+      "imslp_url": "https://imslp.org/wiki/2_Album-Leaves,_S.166y_(Liszt,_Franz)",
+      "year": 1884
+    },
+    {
+      "title": "2 Cs\u00e1rd\u00e1s, S.225",
+      "imslp_url": "https://imslp.org/wiki/2_Cs\u00e1rd\u00e1s,_S.225_(Liszt,_Franz)",
+      "year": 1884
+    },
+    {
+      "title": "2 Vortragsst\u00fccke, S.268",
+      "imslp_url": "https://imslp.org/wiki/2_Vortragsst\u00fccke,_S.268_(Liszt,_Franz)",
+      "year": 1884
+    },
+    {
+      "title": "Hungarian Rhapsody No.17, S.244/17",
+      "imslp_url": "https://imslp.org/wiki/Hungarian_Rhapsody_No.17,_S.244/17_(Liszt,_Franz)",
+      "year": 1884
+    },
+    {
+      "title": "In domum Domini ibimus, S.57",
+      "imslp_url": "https://imslp.org/wiki/In_domum_Domini_ibimus,_S.57_(Liszt,_Franz)",
+      "year": 1884
+    },
+    {
+      "title": "Mariengarten, S.62",
+      "imslp_url": "https://imslp.org/wiki/Mariengarten,_S.62_(Liszt,_Franz)",
+      "year": 1884
+    },
+    {
+      "title": "Petite Valse, S.695e",
+      "imslp_url": "https://imslp.org/wiki/Petite_Valse,_S.695e_(Liszt,_Franz)",
+      "year": 1884
+    },
+    {
+      "title": "Qui seminant in lacrimis, S.63",
+      "imslp_url": "https://imslp.org/wiki/Qui_seminant_in_lacrimis,_S.63_(Liszt,_Franz)",
+      "year": 1884
+    },
+    {
+      "title": "Salve Polonia, S.113/2",
+      "imslp_url": "https://imslp.org/wiki/Salve_Polonia,_S.113/2_(Liszt,_Franz)",
+      "year": 1884
+    },
+    {
+      "title": "Siegesmarsch, S.233a",
+      "imslp_url": "https://imslp.org/wiki/Siegesmarsch,_S.233a_(Liszt,_Franz)",
+      "year": 1884
+    },
+    {
+      "title": "Abschied, S.251",
+      "imslp_url": "https://imslp.org/wiki/Abschied,_S.251_(Liszt,_Franz)",
+      "year": 1885
+    },
+    {
+      "title": "Bagatelle sans tonalit\u00e9, S.216a",
+      "imslp_url": "https://imslp.org/wiki/Bagatelle_sans_tonalit\u00e9,_S.216a_(Liszt,_Franz)",
+      "year": 1885
+    },
+    {
+      "title": "En r\u00eave, S.207",
+      "imslp_url": "https://imslp.org/wiki/En_r\u00eave,_S.207_(Liszt,_Franz)",
+      "year": 1885
+    },
+    {
+      "title": "Historische ungarische Bildnisse, S.205",
+      "imslp_url": "https://imslp.org/wiki/Historische_ungarische_Bildnisse,_S.205_(Liszt,_Franz)",
+      "year": 1885
+    },
+    {
+      "title": "Hungarian Rhapsody No.18, S.244/18",
+      "imslp_url": "https://imslp.org/wiki/Hungarian_Rhapsody_No.18,_S.244/18_(Liszt,_Franz)",
+      "year": 1885
+    },
+    {
+      "title": "Hungarian Rhapsody No.19, S.244/19",
+      "imslp_url": "https://imslp.org/wiki/Hungarian_Rhapsody_No.19,_S.244/19_(Liszt,_Franz)",
+      "year": 1885
+    },
+    {
+      "title": "Mephisto Waltz No.4, S.216b",
+      "imslp_url": "https://imslp.org/wiki/Mephisto_Waltz_No.4,_S.216b_(Liszt,_Franz)",
+      "year": 1885
+    },
+    {
+      "title": "Pax vobiscum!, S.64",
+      "imslp_url": "https://imslp.org/wiki/Pax_vobiscum!,_S.64_(Liszt,_Franz)",
+      "year": 1885
+    },
+    {
+      "title": "Qui Mariam absolvisti, S.65",
+      "imslp_url": "https://imslp.org/wiki/Qui_Mariam_absolvisti,_S.65_(Liszt,_Franz)",
+      "year": 1885
+    },
+    {
+      "title": "Salve Regina, S.66",
+      "imslp_url": "https://imslp.org/wiki/Salve_Regina,_S.66_(Liszt,_Franz)",
+      "year": 1885
+    },
+    {
+      "title": "Trauervorspiel und Trauermarsch, S.206",
+      "imslp_url": "https://imslp.org/wiki/Trauervorspiel_und_Trauermarsch,_S.206_(Liszt,_Franz)",
+      "year": 1885
     }
   ]
 }

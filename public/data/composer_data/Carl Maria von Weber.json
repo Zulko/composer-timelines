@@ -1,558 +1,569 @@
 {
   "full_name": "Carl Maria von Weber",
   "first_names": "Carl Maria",
-  "last_name": "von Weber",
+  "last_name": "Weber",
   "birth_year": 1786,
   "death_year": 1826,
   "wikipedia_url": "https://en.wikipedia.org/wiki/Carl_Maria_von_Weber",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Carl Maria von Weber was born into a less-than-noble family that fancied itself aristocratic in Eutin. His father, convinced he was raising the next Mozart, had hopes for a prodigy, but Weber's first steps were more like a baby deer than a virtuoso. He finally walked at four, all the while impressing grown-ups with his singing and piano skills.",
+      "section": "Life and career",
+      "title": "Birth",
+      "summary": "Carl Maria Friedrich Ernst von Weber was born in Eutin, Bishopric of L\u00fcbeck, as the eldest of three children to Franz Anton von Weber and Genovefa Weber. His early life influenced his musical career, marked by the loss of his siblings and education in music.",
       "year": 1786,
-      "city": "Eutin",
-      "country": "Germany"
+      "location": "Eutin, Bishopric of L\u00fcbeck",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Once upon a time in the land of Eutin, Carl Maria Friedrich Ernst von Weber popped into the world as the highest-ranking sibling\u2014think of him as the 'King of the Children.' His early life influenced his musical career, which took off faster than a cat chasing a laser pointer."
     },
     {
-      "event": "First Opera",
-      "summary": "At just 14, Weber took his first stab at opera with 'Das stumme Waldm\u00e4dchen' \u2014 a title that suggests a gripping tale of silence. It premiered at various theaters, even reaching St. Petersburg, proving that even a quiet forest maiden could travel far!",
+      "section": "Life and career",
+      "title": "Education in Salzburg",
+      "summary": "Weber continued his musical education in Salzburg where he studied under Michael Haydn. This time was marked by personal tragedy, including the death of his mother and one of his sisters.",
+      "year": 1796,
+      "location": "Salzburg",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Weber\u2019s musical education in Salzburg was marked by studying under Michael Haydn. Sadly, there were side orders of personal tragedy, including the death of his mother and one of his sisters."
+    },
+    {
+      "section": "Life and career",
+      "title": "First Opera Performance",
+      "summary": "At the age of 14, Weber wrote his first opera, Das stumme Waldm\u00e4dchen, which saw performances in various cities including Saint Petersburg and Vienna, showcasing his early talent as a composer.",
       "year": 1800,
-      "city": "Freiberg",
-      "country": "Germany"
+      "location": "Freiberg and Chemnitz",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "At the age of 14, Weber wrote his first opera, Das stumme Waldm\u00e4dchen, which had performances in various cities, including Saint Petersburg and Vienna, proving he wasn't just another kid who could barely reach the cookie jar. Talk about early talent!"
     },
     {
-      "event": "Appointment as Director",
-      "summary": "In a twist of fate worthy of an opera, Weber was named Director of the Breslau Opera, where he promptly began shaking things up, like a conductor with too much caffeine. He attempted to reform the orchestra, but his fast tempos probably just made everyone dizzy.",
-      "year": 1804,
-      "city": "Breslau",
-      "country": "Poland"
+      "section": "Life and career",
+      "title": "Musical Criticism",
+      "summary": "At the age of 14, Weber also began publishing articles as a music critic, marking the start of his dual career as both a composer and a music commentator.",
+      "year": 1801,
+      "location": "Augsburg",
+      "emoji": "\ud83c\udfb5",
+      "fun_version": "At the age of 14, Weber kicked off his dual career as both a music critic and a composer. Who knew that writing about music could be a great excuse to avoid practicing the piano? With his dual career, he was basically a teenage superhero\u2014fighting off bad music one article at a time!"
     },
     {
-      "event": "Embarrassing Debt",
-      "summary": "While trying to juggle his duties as a private secretary and composer, Weber fell into a financial fiasco that led to a banishment worthy of a dramatic aria. He danced dangerously close to embezzlement charges, but ultimately tangoed his way out with his reputation largely intact.",
-      "year": 1807,
-      "city": "Stuttgart",
-      "country": "Germany"
-    },
-    {
-      "event": "Marriage",
-      "summary": "Weber, probably hoping to find a muse more than just a roommate, tied the knot with Caroline Brandt, a singer who once wowed crowds in his opera 'Silvana'. Little did they know, their love story would play out more operatically than some of his own works!",
+      "section": "Life and career",
+      "title": "Marriage",
+      "summary": "Weber married Caroline Brandt, a singer who created the title role of his opera Silvana, bringing a personal connection to his professional life as he continued to compose and perform.",
       "year": 1817,
-      "city": "Berlin",
-      "country": "Germany"
+      "location": "Dresden",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "Weber tied the knot with Caroline Brandt, the diva who sang her way into the title role of his opera Silvana, bringing a personal connection to his professional life. I guess you could say Weber\u2019s life just got a little more operatic\u2014he\u2019s now got a conductor for home harmony while he continues to compose and pull off performances that would make even Mozart envious!"
     },
     {
-      "event": "Premiere of Der Freisch\u00fctz",
-      "summary": "In a royal unveiling that launched a thousand performances, Weber\u2019s 'Der Freisch\u00fctz' hit the stage and instantly became the darling of operas. This was the point where he carved his name into the annals of music history, proving there\u2019s nothing like a little magic bullet to capture an audience\u2019s attention.",
+      "section": "Life and career",
+      "title": "Premiere of Der Freisch\u00fctz",
+      "summary": "The successful premiere of Der Freisch\u00fctz in Berlin marked a pivotal moment in Weber's career, significantly contributing to his reputation as a leading composer of the time.",
       "year": 1821,
-      "city": "Berlin",
-      "country": "Germany"
+      "location": "Berlin",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "The premiere of Der Freisch\u00fctz in Berlin wasn't just successful; it was like a souffl\u00e9 that didn't collapse but instead rose to the occasion! This pivotal moment in Weber's career significantly boosted his status as a leading composer of the time, making him feel like the rock star of the classical music world, signing autographs with a quill and demanding the finest snacks backstage!"
     },
     {
-      "event": "Final Move to London",
-      "summary": "Despite battling a rather uncooperative case of tuberculosis, Weber made his way to London to unleash 'Oberon' onto an eager audience. It was a bold move, like diving into a chilly lake, but he braved the stage, conducting his opera amid applauds and his deteriorating health.",
+      "section": "Life and career",
+      "title": "Composition of Oberon",
+      "summary": "Weber accepted an invitation from The Royal Opera in London to compose and produce Oberon, which became his final opera as he battled tuberculosis while completing it.",
       "year": 1826,
-      "city": "London",
-      "country": "UK"
+      "location": "London",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Weber got invited by The Royal Opera in London, which is exciting unless you're battling tuberculosis while trying to compose his last opera, Oberon."
     },
     {
-      "event": "Death",
-      "summary": "Shortly after conducting a series of successful performances, Weber, tired from the stage but still in fine form, decided he needed a long nap. Unfortunately, this one turned out to be permanent, leaving his fans with a lifetime of operatic enjoyment and a lasting legacy.",
+      "section": "Life and career",
+      "title": "Death",
+      "summary": "Weber died in his sleep at the age of 39 in the home of his friend Sir George Smart. His death marked the end of a significant career in the world of music.",
       "year": 1826,
-      "city": "London",
-      "country": "UK"
+      "location": "London",
+      "emoji": "\ud83c\udfb5",
+      "fun_version": "Weber passed away in his sleep at the tender age of 39, at the home of his friend Sir George Smart. His death, however, put the brakes on what was shaping up to be a dazzling career in the music universe."
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/Abu_Hassan,_J.106_(Weber,_Carl_Maria_von)",
-      "year": 1810,
-      "title": "Abu Hassan, J.106"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Adagio_patetico_in_C-sharp_minor_(Weber,_Carl_Maria_von)",
-      "year": 1826,
-      "title": "Adagio patetico in C-sharp minor"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Adagio_und_Rondo,_J.115_(Weber,_Carl_Maria_von)",
-      "year": 1811,
-      "title": "Adagio und Rondo, J.115"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/12_Allemandes,_Op.4_(Weber,_Carl_Maria_von)",
-      "year": 1801,
-      "title": "12 Allemandes, Op.4"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Andante_e_rondo_ongarese,_J.79_(Weber,_Carl_Maria_von)",
-      "year": 1809,
-      "title": "Andante e rondo ongarese, J.79"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Andante_e_rondo_ongarese,_Op.35_(Weber,_Carl_Maria_von)",
-      "year": 1813,
-      "title": "Andante e rondo ongarese, Op.35"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Aufforderung_zum_Tanze,_Op.65_(Weber,_Carl_Maria_von)",
-      "year": 1819,
-      "title": "Aufforderung zum Tanze, Op.65"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Bassoon_Concerto_in_F_major,_Op.75_(Weber,_Carl_Maria_von)",
-      "year": 1811,
-      "title": "Bassoon Concerto in F major, Op.75"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Der_Beherrscher_der_Geister,_Op.27_(Weber,_Carl_Maria_von)",
-      "year": 1811,
-      "title": "Der Beherrscher der Geister, Op.27"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Bei_der_Musik_des_Prinzen_Louis_Ferdinand,_Op.43_(Weber,_Carl_Maria_von)",
-      "year": 1815,
-      "title": "Bei der Musik des Prinzen Louis Ferdinand, Op.43"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Clarinet_Concerto_No.1_in_F_minor,_Op.73_(Weber,_Carl_Maria_von)",
-      "year": 1811,
-      "title": "Clarinet Concerto No.1 in F minor, Op.73"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Clarinet_Concerto_No.2_in_E-flat_major,_Op.74_(Weber,_Carl_Maria_von)",
-      "year": 1811,
-      "title": "Clarinet Concerto No.2 in E-flat major, Op.74"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Clarinet_Quintet,_Op.34_(Weber,_Carl_Maria_von)",
-      "year": 1811,
-      "title": "Clarinet Quintet, Op.34"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Concertino_in_C_major_(Weber,_Carl_Maria_von)",
-      "year": 1809,
-      "title": "Concertino in C major"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Concertino_in_E_minor,_Op.45_(Weber,_Carl_Maria_von)",
-      "year": 1806,
-      "title": "Concertino in E minor, Op.45"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Concertino_in_E-flat_major,_Op.26_(Weber,_Carl_Maria_von)",
-      "year": 1811,
-      "title": "Concertino in E-flat major, Op.26"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Den_Sachsen-Sohn_verm%C3%A4hlet_heute,_J.289_(Weber,_Carl_Maria_von)",
-      "year": 1822,
-      "title": "Den Sachsen-Sohn verm\u00e4hlet heute, J.289"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Deutsche_Lieder,_Op.25_(Weber,_Carl_Maria_von)",
-      "year": 1811,
-      "title": "5 Deutsche Lieder, Op.25"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Deutscher,_J.185_(Weber,_Carl_Maria_von)",
-      "year": 1815,
-      "title": "Deutscher, J.185"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Divertimento_assai_facile,_Op.38_(Weber,_Carl_Maria_von)",
-      "year": 1816,
-      "title": "Divertimento assai facile, Op.38"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Die_drei_Pintos,_J._Anh.5_(Weber,_Carl_Maria_von)",
-      "year": 1820,
-      "title": "Die drei Pintos, J. Anh.5"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Du,_bekr%C3%A4nzend_uns%27re_Laren,_J.283_(Weber,_Carl_Maria_von)",
-      "year": 1821,
-      "title": "Du, bekr\u00e4nzend uns're Laren, J.283"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Duets,_Op.31_(Weber,_Carl_Maria_von)",
-      "year": 1811,
-      "title": "3 Duets, Op.31"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Ecossaises,_J.29-34_(Weber,_Carl_Maria_von)",
-      "year": 1802,
-      "title": "6 Ecossaises, J.29-34"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Der_Erste_Ton,_J.58_(Weber,_Carl_Maria_von)",
-      "year": 1808,
-      "title": "Der Erste Ton, J.58"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Euryanthe,_Op.81_(Weber,_Carl_Maria_von)",
-      "year": 1822,
-      "title": "Euryanthe, Op.81"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Favorit-Walzer_der_Kaiserin_von_Frankreich_Marie_Louise,_J.143-148_(Weber,_Carl_Maria_von)",
-      "year": 1812,
-      "title": "6 Favorit-Walzer der Kaiserin von Frankreich Marie Louise, J.143-148"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Der_Freisch%C3%BCtz,_Op.77_(Weber,_Carl_Maria_von)",
-      "year": 1817,
-      "title": "Der Freisch\u00fctz, Op.77"
-    },
-    {
+      "title": "6 Fughettas, Op.1",
       "imslp_url": "https://imslp.org/wiki/6_Fughettas,_Op.1_(Weber,_Carl_Maria_von)",
-      "year": 1798,
-      "title": "6 Fughettas, Op.1"
+      "year": 1798
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Gloria_et_honore,_J.226_(Weber,_Carl_Maria_von)",
-      "year": 1818,
-      "title": "Gloria et honore, J.226"
+      "title": "6 Variations on 'A Sch\u00fcsserl und a Rein'dl', J.49",
+      "imslp_url": "https://imslp.org/wiki/6_Variations_on_'A_Sch\u00fcsserl_und_a_Rein'dl',_J.49_(Weber,_Carl_Maria_von)",
+      "year": 1800
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Grand_duo_concertant,_Op.48_(Weber,_Carl_Maria_von)",
-      "year": 1815,
-      "title": "Grand duo concertant, Op.48"
+      "title": "6 Variations sur un th\u00e8me original, Op.2",
+      "imslp_url": "https://imslp.org/wiki/6_Variations_sur_un_th\u00e8me_original,_Op.2_(Weber,_Carl_Maria_von)",
+      "year": 1800
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Grand_potpourri,_Op.20_(Weber,_Carl_Maria_von)",
-      "year": 1808,
-      "title": "Grand potpourri, Op.20"
+      "title": "12 Allemandes, Op.4",
+      "imslp_url": "https://imslp.org/wiki/12_Allemandes,_Op.4_(Weber,_Carl_Maria_von)",
+      "year": 1801
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Grande_ouverture,_J.54_(Weber,_Carl_Maria_von)",
-      "year": 1807,
-      "title": "Grande ouverture, J.54"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Grande_polonaise,_Op.21_(Weber,_Carl_Maria_von)",
-      "year": 1808,
-      "title": "Grande polonaise, Op.21"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ha!_Sollte_Edmund_selbst_der_m%C3%B6rder_sein%3F,_Op.52_(Weber,_Carl_Maria_von)",
-      "year": 1815,
-      "title": "Ha! Sollte Edmund selbst der m\u00f6rder sein?, Op.52"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/In_seiner_Ordnung_schafft_der_Herr,_Op.36_(Weber,_Carl_Maria_von)",
-      "year": 1812,
-      "title": "In seiner Ordnung schafft der Herr, Op.36"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ines_de_Castro,_Op.53_(Weber,_Carl_Maria_von)",
-      "year": 1812,
-      "title": "Ines de Castro, Op.53"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Jubel-Ouvert%C3%BCre,_Op.59_(Weber,_Carl_Maria_von)",
-      "year": 1818,
-      "title": "Jubel-Ouvert\u00fcre, Op.59"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Konzertst%C3%BCck_in_F_minor,_Op.79_(Weber,_Carl_Maria_von)",
-      "year": 1821,
-      "title": "Konzertst\u00fcck in F minor, Op.79"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Leyer_und_Schwerdt,_Op.42_(Weber,_Carl_Maria_von)",
-      "year": 1814,
-      "title": "Leyer und Schwerdt, Op.42"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Lieder_und_ein_Kanon,_Op.13_(Weber,_Carl_Maria_von)",
-      "year": 1811,
-      "title": "5 Lieder und ein Kanon, Op.13"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.15_(Weber,_Carl_Maria_von)",
-      "year": 1808,
-      "title": "6 Lieder, Op.15"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.30_(Weber,_Carl_Maria_von)",
-      "year": 1804,
-      "title": "6 Lieder, Op.30"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Lieder,_Op.41_(Weber,_Carl_Maria_von)",
-      "year": 1814,
-      "title": "4 Lieder, Op.41"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Lieder,_Op.46_(Weber,_Carl_Maria_von)",
-      "year": 1816,
-      "title": "4 Lieder, Op.46"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.47_(Weber,_Carl_Maria_von)",
-      "year": 1814,
-      "title": "6 Lieder, Op.47"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.66_(Weber,_Carl_Maria_von)",
-      "year": 1806,
-      "title": "6 Lieder, Op.66"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.71_(Weber,_Carl_Maria_von)",
-      "year": 1810,
-      "title": "6 Lieder, Op.71"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.80_(Weber,_Carl_Maria_von)",
-      "year": 1819,
-      "title": "6 Lieder, Op.80"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Max-Walzer,_J._Anh.81_(Weber,_Carl_Maria_von)",
-      "year": 1825,
-      "title": "Max-Walzer, J. Anh.81"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Misera_me!,_Op.50_(Weber,_Carl_Maria_von)",
-      "year": 1811,
-      "title": "Misera me!, Op.50"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Missa_Sancta_No.1,_Op.75a_(Weber,_Carl_Maria_von)",
-      "year": 1817,
-      "title": "Missa Sancta No.1, Op.75a"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Missa_Sancta_No.2,_Op.76_(Weber,_Carl_Maria_von)",
-      "year": 1818,
-      "title": "Missa Sancta No.2, Op.76"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Momento_capriccioso,_Op.12_(Weber,_Carl_Maria_von)",
-      "year": 1808,
-      "title": "Momento capriccioso, Op.12"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Il_momento_s%27avvicina,_Op.16_(Weber,_Carl_Maria_von)",
-      "year": 1810,
-      "title": "Il momento s'avvicina, Op.16"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Natur_und_Liebe,_Op.61_(Weber,_Carl_Maria_von)",
-      "year": 1818,
-      "title": "Natur und Liebe, Op.61"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Non_paventar_mia_vita,_Op.51_(Weber,_Carl_Maria_von)",
-      "year": 1815,
-      "title": "Non paventar mia vita, Op.51"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Oberon,_J.306_(Weber,_Carl_Maria_von)",
-      "year": 1825,
-      "title": "Oberon, J.306"
-    },
-    {
+      "title": "Peter Schmoll und seine Nachbarn, J.8",
       "imslp_url": "https://imslp.org/wiki/Peter_Schmoll_und_seine_Nachbarn,_J.8_(Weber,_Carl_Maria_von)",
-      "year": 1801,
-      "title": "Peter Schmoll und seine Nachbarn, J.8"
+      "year": 1801
     },
     {
-      "imslp_url": "https://imslp.org/wiki/6_Petites_pi%C3%A8ces_faciles,_Op.3_(Weber,_Carl_Maria_von)",
-      "year": 1802,
-      "title": "6 Petites pi\u00e8ces faciles, Op.3"
+      "title": "6 Ecossaises, J.29-34",
+      "imslp_url": "https://imslp.org/wiki/6_Ecossaises,_J.29-34_(Weber,_Carl_Maria_von)",
+      "year": 1802
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.1_in_C_major,_Op.11_(Weber,_Carl_Maria_von)",
-      "year": 1810,
-      "title": "Piano Concerto No.1 in C major, Op.11"
+      "title": "6 Petites pi\u00e8ces faciles, Op.3",
+      "imslp_url": "https://imslp.org/wiki/6_Petites_pi\u00e8ces_faciles,_Op.3_(Weber,_Carl_Maria_von)",
+      "year": 1802
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.2_in_E-flat_major,_Op.32_(Weber,_Carl_Maria_von)",
-      "year": 1811,
-      "title": "Piano Concerto No.2 in E-flat major, Op.32"
+      "title": "6 Lieder, Op.30",
+      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.30_(Weber,_Carl_Maria_von)",
+      "year": 1804
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Piano_Quartet_in_B-flat_major,_J.76_(Weber,_Carl_Maria_von)",
-      "year": 1806,
-      "title": "Piano Quartet in B-flat major, J.76"
+      "title": "6 Variations sur l'air de Naga de 'Samori', Op.6",
+      "imslp_url": "https://imslp.org/wiki/6_Variations_sur_l'air_de_Naga_de_'Samori',_Op.6_(Weber,_Carl_Maria_von)",
+      "year": 1804
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.1_in_C_major,_Op.24_(Weber,_Carl_Maria_von)",
-      "year": 1812,
-      "title": "Piano Sonata No.1 in C major, Op.24"
+      "title": "8 Variations sur l'air de ballet de 'Castor et Pollux', Op.5",
+      "imslp_url": "https://imslp.org/wiki/8_Variations_sur_l'air_de_ballet_de_'Castor_et_Pollux',_Op.5_(Weber,_Carl_Maria_von)",
+      "year": 1804
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.2_in_A-flat_major,_Op.39_(Weber,_Carl_Maria_von)",
-      "year": 1814,
-      "title": "Piano Sonata No.2 in A-flat major, Op.39"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.3_in_D_minor,_Op.49_(Weber,_Carl_Maria_von)",
-      "year": 1816,
-      "title": "Piano Sonata No.3 in D minor, Op.49"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.4_in_E_minor,_Op.70_(Weber,_Carl_Maria_von)",
-      "year": 1819,
-      "title": "Piano Sonata No.4 in E minor, Op.70"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Pi%C3%A8ces,_Op.10a_(Weber,_Carl_Maria_von)",
-      "year": 1809,
-      "title": "6 Pi\u00e8ces, Op.10a"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/8_Pieces,_Op.60_(Weber,_Carl_Maria_von)",
-      "year": 1818,
-      "title": "8 Pieces, Op.60"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Polacca_brillante,_Op.72_(Weber,_Carl_Maria_von)",
-      "year": 1819,
-      "title": "Polacca brillante, Op.72"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Praise_of_Jehovah,_Op.58_(Weber,_Carl_Maria_von)",
-      "year": 1818,
-      "title": "The Praise of Jehovah, Op.58"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Preciosa,_Op.78_(Weber,_Carl_Maria_von)",
-      "year": 1820,
-      "title": "Preciosa, Op.78"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Romanza_siciliana,_J.47_(Weber,_Carl_Maria_von)",
-      "year": 1805,
-      "title": "Romanza siciliana, J.47"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Rondo_brillante,_Op.62_(Weber,_Carl_Maria_von)",
-      "year": 1819,
-      "title": "Rondo brillante, Op.62"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Serenade,_J.65_(Weber,_Carl_Maria_von)",
-      "year": 1809,
-      "title": "Serenade, J.65"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Silvana,_J.87_(Weber,_Carl_Maria_von)",
-      "year": 1808,
-      "title": "Silvana, J.87"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Sonates_progressives,_Op.10_(Weber,_Carl_Maria_von)",
-      "year": 1810,
-      "title": "6 Sonates progressives, Op.10"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.1_in_C_major,_Op.19_(Weber,_Carl_Maria_von)",
-      "year": 1806,
-      "title": "Symphony No.1 in C major, Op.19"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.2_in_C_major,_J.51_(Weber,_Carl_Maria_von)",
-      "year": 1813,
-      "title": "Symphony No.2 in C major, J.51"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Trio_in_G_minor,_Op.63_(Weber,_Carl_Maria_von)",
-      "year": 1818,
-      "title": "Trio in G minor, Op.63"
-    },
-    {
+      "title": "Turandot, Op.37",
       "imslp_url": "https://imslp.org/wiki/Turandot,_Op.37_(Weber,_Carl_Maria_von)",
-      "year": 1804,
-      "title": "Turandot, Op.37"
+      "year": 1804
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Variationen_%C3%BCber_ein_Thema_aus_Silvana,_Op.33_(Weber,_Carl_Maria_von)",
-      "year": 1811,
-      "title": "Variationen \u00fcber ein Thema aus Silvana, Op.33"
+      "title": "Romanza siciliana, J.47",
+      "imslp_url": "https://imslp.org/wiki/Romanza_siciliana,_J.47_(Weber,_Carl_Maria_von)",
+      "year": 1805
     },
     {
+      "title": "6 Lieder, Op.66",
+      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.66_(Weber,_Carl_Maria_von)",
+      "year": 1806
+    },
+    {
+      "title": "Concertino in E minor, Op.45",
+      "imslp_url": "https://imslp.org/wiki/Concertino_in_E_minor,_Op.45_(Weber,_Carl_Maria_von)",
+      "year": 1806
+    },
+    {
+      "title": "Piano Quartet in B-flat major, J.76",
+      "imslp_url": "https://imslp.org/wiki/Piano_Quartet_in_B-flat_major,_J.76_(Weber,_Carl_Maria_von)",
+      "year": 1806
+    },
+    {
+      "title": "Symphony No.1 in C major, Op.19",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.1_in_C_major,_Op.19_(Weber,_Carl_Maria_von)",
+      "year": 1806
+    },
+    {
+      "title": "7 Variations sur l\u2019air \"Vien qu\u00e0, Dorina bella\", Op.7",
+      "imslp_url": "https://imslp.org/wiki/7_Variations_sur_l\u2019air_\"Vien_qu\u00e0,_Dorina_bella\",_Op.7_(Weber,_Carl_Maria_von)",
+      "year": 1807
+    },
+    {
+      "title": "Grande ouverture, J.54",
+      "imslp_url": "https://imslp.org/wiki/Grande_ouverture,_J.54_(Weber,_Carl_Maria_von)",
+      "year": 1807
+    },
+    {
+      "title": "6 Lieder, Op.15",
+      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.15_(Weber,_Carl_Maria_von)",
+      "year": 1808
+    },
+    {
+      "title": "7 Variations sur un th\u00e8me original, Op.9",
+      "imslp_url": "https://imslp.org/wiki/7_Variations_sur_un_th\u00e8me_original,_Op.9_(Weber,_Carl_Maria_von)",
+      "year": 1808
+    },
+    {
+      "title": "Der Erste Ton, J.58",
+      "imslp_url": "https://imslp.org/wiki/Der_Erste_Ton,_J.58_(Weber,_Carl_Maria_von)",
+      "year": 1808
+    },
+    {
+      "title": "Grand potpourri, Op.20",
+      "imslp_url": "https://imslp.org/wiki/Grand_potpourri,_Op.20_(Weber,_Carl_Maria_von)",
+      "year": 1808
+    },
+    {
+      "title": "Grande polonaise, Op.21",
+      "imslp_url": "https://imslp.org/wiki/Grande_polonaise,_Op.21_(Weber,_Carl_Maria_von)",
+      "year": 1808
+    },
+    {
+      "title": "Momento capriccioso, Op.12",
+      "imslp_url": "https://imslp.org/wiki/Momento_capriccioso,_Op.12_(Weber,_Carl_Maria_von)",
+      "year": 1808
+    },
+    {
+      "title": "Silvana, J.87",
+      "imslp_url": "https://imslp.org/wiki/Silvana,_J.87_(Weber,_Carl_Maria_von)",
+      "year": 1808
+    },
+    {
+      "title": "6 Pi\u00e8ces, Op.10a",
+      "imslp_url": "https://imslp.org/wiki/6_Pi\u00e8ces,_Op.10a_(Weber,_Carl_Maria_von)",
+      "year": 1809
+    },
+    {
+      "title": "Andante e rondo ongarese, J.79",
+      "imslp_url": "https://imslp.org/wiki/Andante_e_rondo_ongarese,_J.79_(Weber,_Carl_Maria_von)",
+      "year": 1809
+    },
+    {
+      "title": "Concertino in C major",
+      "imslp_url": "https://imslp.org/wiki/Concertino_in_C_major_(Weber,_Carl_Maria_von)",
+      "year": 1809
+    },
+    {
+      "title": "Serenade, J.65",
+      "imslp_url": "https://imslp.org/wiki/Serenade,_J.65_(Weber,_Carl_Maria_von)",
+      "year": 1809
+    },
+    {
+      "title": "6 Lieder, Op.71",
+      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.71_(Weber,_Carl_Maria_von)",
+      "year": 1810
+    },
+    {
+      "title": "6 Sonates progressives, Op.10",
+      "imslp_url": "https://imslp.org/wiki/6_Sonates_progressives,_Op.10_(Weber,_Carl_Maria_von)",
+      "year": 1810
+    },
+    {
+      "title": "Abu Hassan, J.106",
+      "imslp_url": "https://imslp.org/wiki/Abu_Hassan,_J.106_(Weber,_Carl_Maria_von)",
+      "year": 1810
+    },
+    {
+      "title": "Il momento s'avvicina, Op.16",
+      "imslp_url": "https://imslp.org/wiki/Il_momento_s'avvicina,_Op.16_(Weber,_Carl_Maria_von)",
+      "year": 1810
+    },
+    {
+      "title": "Piano Concerto No.1 in C major, Op.11",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.1_in_C_major,_Op.11_(Weber,_Carl_Maria_von)",
+      "year": 1810
+    },
+    {
+      "title": "Variations for Cello and Orchestra in D minor, J.94",
       "imslp_url": "https://imslp.org/wiki/Variations_for_Cello_and_Orchestra_in_D_minor,_J.94_(Weber,_Carl_Maria_von)",
-      "year": 1810,
-      "title": "Variations for Cello and Orchestra in D minor, J.94"
+      "year": 1810
     },
     {
-      "imslp_url": "https://imslp.org/wiki/6_Variations_on_%27A_Sch%C3%BCsserl_und_a_Rein%27dl%27,_J.49_(Weber,_Carl_Maria_von)",
-      "year": 1800,
-      "title": "6 Variations on 'A Sch\u00fcsserl und a Rein'dl', J.49"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/8_Variations_sur_l%27air_de_ballet_de_%27Castor_et_Pollux%27,_Op.5_(Weber,_Carl_Maria_von)",
-      "year": 1804,
-      "title": "8 Variations sur l'air de ballet de 'Castor et Pollux', Op.5"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Variations_sur_l%27air_de_Naga_de_%27Samori%27,_Op.6_(Weber,_Carl_Maria_von)",
-      "year": 1804,
-      "title": "6 Variations sur l'air de Naga de 'Samori', Op.6"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/7_Variations_sur_la_romance_%22%C3%80_peine_au_sortir%22,_Op.28_(Weber,_Carl_Maria_von)",
-      "year": 1812,
-      "title": "7 Variations sur la romance \"\u00c0 peine au sortir\", Op.28"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/7_Variations_sur_l%E2%80%99air_%22Vien_qu%C3%A0,_Dorina_bella%22,_Op.7_(Weber,_Carl_Maria_von)",
-      "year": 1807,
-      "title": "7 Variations sur l\u2019air \"Vien qu\u00e0, Dorina bella\", Op.7"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/9_Variations_sur_un_air_russe,_Op.40_(Weber,_Carl_Maria_von)",
-      "year": 1814,
-      "title": "9 Variations sur un air russe, Op.40"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/7_Variations_sur_un_chant_tzigane,_Op.55_(Weber,_Carl_Maria_von)",
-      "year": 1817,
-      "title": "7 Variations sur un chant tzigane, Op.55"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Variations_sur_un_th%C3%A8me_original,_Op.2_(Weber,_Carl_Maria_von)",
-      "year": 1800,
-      "title": "6 Variations sur un th\u00e8me original, Op.2"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/7_Variations_sur_un_th%C3%A8me_original,_Op.9_(Weber,_Carl_Maria_von)",
-      "year": 1808,
-      "title": "7 Variations sur un th\u00e8me original, Op.9"
-    },
-    {
+      "title": "Violin Sonata in D minor, J.101",
       "imslp_url": "https://imslp.org/wiki/Violin_Sonata_in_D_minor,_J.101_(Weber,_Carl_Maria_von)",
-      "year": 1810,
-      "title": "Violin Sonata in D minor, J.101"
+      "year": 1810
     },
     {
+      "title": "Violin Sonata in F major, J.99",
       "imslp_url": "https://imslp.org/wiki/Violin_Sonata_in_F_major,_J.99_(Weber,_Carl_Maria_von)",
-      "year": 1810,
-      "title": "Violin Sonata in F major, J.99"
+      "year": 1810
     },
     {
+      "title": "3 Duets, Op.31",
+      "imslp_url": "https://imslp.org/wiki/3_Duets,_Op.31_(Weber,_Carl_Maria_von)",
+      "year": 1811
+    },
+    {
+      "title": "5 Deutsche Lieder, Op.25",
+      "imslp_url": "https://imslp.org/wiki/5_Deutsche_Lieder,_Op.25_(Weber,_Carl_Maria_von)",
+      "year": 1811
+    },
+    {
+      "title": "5 Lieder und ein Kanon, Op.13",
+      "imslp_url": "https://imslp.org/wiki/5_Lieder_und_ein_Kanon,_Op.13_(Weber,_Carl_Maria_von)",
+      "year": 1811
+    },
+    {
+      "title": "Adagio und Rondo, J.115",
+      "imslp_url": "https://imslp.org/wiki/Adagio_und_Rondo,_J.115_(Weber,_Carl_Maria_von)",
+      "year": 1811
+    },
+    {
+      "title": "Bassoon Concerto in F major, Op.75",
+      "imslp_url": "https://imslp.org/wiki/Bassoon_Concerto_in_F_major,_Op.75_(Weber,_Carl_Maria_von)",
+      "year": 1811
+    },
+    {
+      "title": "Clarinet Concerto No.1 in F minor, Op.73",
+      "imslp_url": "https://imslp.org/wiki/Clarinet_Concerto_No.1_in_F_minor,_Op.73_(Weber,_Carl_Maria_von)",
+      "year": 1811
+    },
+    {
+      "title": "Clarinet Concerto No.2 in E-flat major, Op.74",
+      "imslp_url": "https://imslp.org/wiki/Clarinet_Concerto_No.2_in_E-flat_major,_Op.74_(Weber,_Carl_Maria_von)",
+      "year": 1811
+    },
+    {
+      "title": "Clarinet Quintet, Op.34",
+      "imslp_url": "https://imslp.org/wiki/Clarinet_Quintet,_Op.34_(Weber,_Carl_Maria_von)",
+      "year": 1811
+    },
+    {
+      "title": "Concertino in E-flat major, Op.26",
+      "imslp_url": "https://imslp.org/wiki/Concertino_in_E-flat_major,_Op.26_(Weber,_Carl_Maria_von)",
+      "year": 1811
+    },
+    {
+      "title": "Der Beherrscher der Geister, Op.27",
+      "imslp_url": "https://imslp.org/wiki/Der_Beherrscher_der_Geister,_Op.27_(Weber,_Carl_Maria_von)",
+      "year": 1811
+    },
+    {
+      "title": "Misera me!, Op.50",
+      "imslp_url": "https://imslp.org/wiki/Misera_me!,_Op.50_(Weber,_Carl_Maria_von)",
+      "year": 1811
+    },
+    {
+      "title": "Piano Concerto No.2 in E-flat major, Op.32",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.2_in_E-flat_major,_Op.32_(Weber,_Carl_Maria_von)",
+      "year": 1811
+    },
+    {
+      "title": "Variationen \u00fcber ein Thema aus Silvana, Op.33",
+      "imslp_url": "https://imslp.org/wiki/Variationen_\u00fcber_ein_Thema_aus_Silvana,_Op.33_(Weber,_Carl_Maria_von)",
+      "year": 1811
+    },
+    {
+      "title": "6 Favorit-Walzer der Kaiserin von Frankreich Marie Louise, J.143-148",
+      "imslp_url": "https://imslp.org/wiki/6_Favorit-Walzer_der_Kaiserin_von_Frankreich_Marie_Louise,_J.143-148_(Weber,_Carl_Maria_von)",
+      "year": 1812
+    },
+    {
+      "title": "7 Variations sur la romance \"\u00c0 peine au sortir\", Op.28",
+      "imslp_url": "https://imslp.org/wiki/7_Variations_sur_la_romance_\"\u00c0_peine_au_sortir\",_Op.28_(Weber,_Carl_Maria_von)",
+      "year": 1812
+    },
+    {
+      "title": "In seiner Ordnung schafft der Herr, Op.36",
+      "imslp_url": "https://imslp.org/wiki/In_seiner_Ordnung_schafft_der_Herr,_Op.36_(Weber,_Carl_Maria_von)",
+      "year": 1812
+    },
+    {
+      "title": "Ines de Castro, Op.53",
+      "imslp_url": "https://imslp.org/wiki/Ines_de_Castro,_Op.53_(Weber,_Carl_Maria_von)",
+      "year": 1812
+    },
+    {
+      "title": "Piano Sonata No.1 in C major, Op.24",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.1_in_C_major,_Op.24_(Weber,_Carl_Maria_von)",
+      "year": 1812
+    },
+    {
+      "title": "Andante e rondo ongarese, Op.35",
+      "imslp_url": "https://imslp.org/wiki/Andante_e_rondo_ongarese,_Op.35_(Weber,_Carl_Maria_von)",
+      "year": 1813
+    },
+    {
+      "title": "Symphony No.2 in C major, J.51",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.2_in_C_major,_J.51_(Weber,_Carl_Maria_von)",
+      "year": 1813
+    },
+    {
+      "title": "4 Lieder, Op.41",
+      "imslp_url": "https://imslp.org/wiki/4_Lieder,_Op.41_(Weber,_Carl_Maria_von)",
+      "year": 1814
+    },
+    {
+      "title": "6 Lieder, Op.47",
+      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.47_(Weber,_Carl_Maria_von)",
+      "year": 1814
+    },
+    {
+      "title": "9 Variations sur un air russe, Op.40",
+      "imslp_url": "https://imslp.org/wiki/9_Variations_sur_un_air_russe,_Op.40_(Weber,_Carl_Maria_von)",
+      "year": 1814
+    },
+    {
+      "title": "Leyer und Schwerdt, Op.42",
+      "imslp_url": "https://imslp.org/wiki/Leyer_und_Schwerdt,_Op.42_(Weber,_Carl_Maria_von)",
+      "year": 1814
+    },
+    {
+      "title": "Piano Sonata No.2 in A-flat major, Op.39",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.2_in_A-flat_major,_Op.39_(Weber,_Carl_Maria_von)",
+      "year": 1814
+    },
+    {
+      "title": "Bei der Musik des Prinzen Louis Ferdinand, Op.43",
+      "imslp_url": "https://imslp.org/wiki/Bei_der_Musik_des_Prinzen_Louis_Ferdinand,_Op.43_(Weber,_Carl_Maria_von)",
+      "year": 1815
+    },
+    {
+      "title": "Deutscher, J.185",
+      "imslp_url": "https://imslp.org/wiki/Deutscher,_J.185_(Weber,_Carl_Maria_von)",
+      "year": 1815
+    },
+    {
+      "title": "Grand duo concertant, Op.48",
+      "imslp_url": "https://imslp.org/wiki/Grand_duo_concertant,_Op.48_(Weber,_Carl_Maria_von)",
+      "year": 1815
+    },
+    {
+      "title": "Ha! Sollte Edmund selbst der m\u00f6rder sein?, Op.52",
+      "imslp_url": "https://imslp.org/wiki/Ha!_Sollte_Edmund_selbst_der_m\u00f6rder_sein?,_Op.52_(Weber,_Carl_Maria_von)",
+      "year": 1815
+    },
+    {
+      "title": "Non paventar mia vita, Op.51",
+      "imslp_url": "https://imslp.org/wiki/Non_paventar_mia_vita,_Op.51_(Weber,_Carl_Maria_von)",
+      "year": 1815
+    },
+    {
+      "title": "4 Lieder, Op.46",
+      "imslp_url": "https://imslp.org/wiki/4_Lieder,_Op.46_(Weber,_Carl_Maria_von)",
+      "year": 1816
+    },
+    {
+      "title": "Divertimento assai facile, Op.38",
+      "imslp_url": "https://imslp.org/wiki/Divertimento_assai_facile,_Op.38_(Weber,_Carl_Maria_von)",
+      "year": 1816
+    },
+    {
+      "title": "Piano Sonata No.3 in D minor, Op.49",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.3_in_D_minor,_Op.49_(Weber,_Carl_Maria_von)",
+      "year": 1816
+    },
+    {
+      "title": "7 Variations sur un chant tzigane, Op.55",
+      "imslp_url": "https://imslp.org/wiki/7_Variations_sur_un_chant_tzigane,_Op.55_(Weber,_Carl_Maria_von)",
+      "year": 1817
+    },
+    {
+      "title": "7 Volkslieder, Op.54",
       "imslp_url": "https://imslp.org/wiki/7_Volkslieder,_Op.54_(Weber,_Carl_Maria_von)",
-      "year": 1817,
-      "title": "7 Volkslieder, Op.54"
+      "year": 1817
     },
     {
+      "title": "Der Freisch\u00fctz, Op.77",
+      "imslp_url": "https://imslp.org/wiki/Der_Freisch\u00fctz,_Op.77_(Weber,_Carl_Maria_von)",
+      "year": 1817
+    },
+    {
+      "title": "Missa Sancta No.1, Op.75a",
+      "imslp_url": "https://imslp.org/wiki/Missa_Sancta_No.1,_Op.75a_(Weber,_Carl_Maria_von)",
+      "year": 1817
+    },
+    {
+      "title": "8 Pieces, Op.60",
+      "imslp_url": "https://imslp.org/wiki/8_Pieces,_Op.60_(Weber,_Carl_Maria_von)",
+      "year": 1818
+    },
+    {
+      "title": "8 Volkslieder, Op.64",
       "imslp_url": "https://imslp.org/wiki/8_Volkslieder,_Op.64_(Weber,_Carl_Maria_von)",
-      "year": 1818,
-      "title": "8 Volkslieder, Op.64"
+      "year": 1818
     },
     {
+      "title": "Gloria et honore, J.226",
+      "imslp_url": "https://imslp.org/wiki/Gloria_et_honore,_J.226_(Weber,_Carl_Maria_von)",
+      "year": 1818
+    },
+    {
+      "title": "Jubel-Ouvert\u00fcre, Op.59",
+      "imslp_url": "https://imslp.org/wiki/Jubel-Ouvert\u00fcre,_Op.59_(Weber,_Carl_Maria_von)",
+      "year": 1818
+    },
+    {
+      "title": "Missa Sancta No.2, Op.76",
+      "imslp_url": "https://imslp.org/wiki/Missa_Sancta_No.2,_Op.76_(Weber,_Carl_Maria_von)",
+      "year": 1818
+    },
+    {
+      "title": "Natur und Liebe, Op.61",
+      "imslp_url": "https://imslp.org/wiki/Natur_und_Liebe,_Op.61_(Weber,_Carl_Maria_von)",
+      "year": 1818
+    },
+    {
+      "title": "The Praise of Jehovah, Op.58",
+      "imslp_url": "https://imslp.org/wiki/The_Praise_of_Jehovah,_Op.58_(Weber,_Carl_Maria_von)",
+      "year": 1818
+    },
+    {
+      "title": "Trio in G minor, Op.63",
+      "imslp_url": "https://imslp.org/wiki/Trio_in_G_minor,_Op.63_(Weber,_Carl_Maria_von)",
+      "year": 1818
+    },
+    {
+      "title": "Was sag ich! Schaudern macht mich der Gedanke!, Op.56",
       "imslp_url": "https://imslp.org/wiki/Was_sag_ich!_Schaudern_macht_mich_der_Gedanke!,_Op.56_(Weber,_Carl_Maria_von)",
-      "year": 1818,
-      "title": "Was sag ich! Schaudern macht mich der Gedanke!, Op.56"
+      "year": 1818
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Ouvert%C3%BCren_(Weber,_Carl_Maria_von)",
-      "year": 1807,
-      "title": "Ouvert\u00fcren"
+      "title": "6 Lieder, Op.80",
+      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.80_(Weber,_Carl_Maria_von)",
+      "year": 1819
+    },
+    {
+      "title": "Aufforderung zum Tanze, Op.65",
+      "imslp_url": "https://imslp.org/wiki/Aufforderung_zum_Tanze,_Op.65_(Weber,_Carl_Maria_von)",
+      "year": 1819
+    },
+    {
+      "title": "Piano Sonata No.4 in E minor, Op.70",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.4_in_E_minor,_Op.70_(Weber,_Carl_Maria_von)",
+      "year": 1819
+    },
+    {
+      "title": "Polacca brillante, Op.72",
+      "imslp_url": "https://imslp.org/wiki/Polacca_brillante,_Op.72_(Weber,_Carl_Maria_von)",
+      "year": 1819
+    },
+    {
+      "title": "Rondo brillante, Op.62",
+      "imslp_url": "https://imslp.org/wiki/Rondo_brillante,_Op.62_(Weber,_Carl_Maria_von)",
+      "year": 1819
+    },
+    {
+      "title": "Die drei Pintos, J. Anh.5",
+      "imslp_url": "https://imslp.org/wiki/Die_drei_Pintos,_J._Anh.5_(Weber,_Carl_Maria_von)",
+      "year": 1820
+    },
+    {
+      "title": "Preciosa, Op.78",
+      "imslp_url": "https://imslp.org/wiki/Preciosa,_Op.78_(Weber,_Carl_Maria_von)",
+      "year": 1820
+    },
+    {
+      "title": "Du, bekr\u00e4nzend uns're Laren, J.283",
+      "imslp_url": "https://imslp.org/wiki/Du,_bekr\u00e4nzend_uns're_Laren,_J.283_(Weber,_Carl_Maria_von)",
+      "year": 1821
+    },
+    {
+      "title": "Konzertst\u00fcck in F minor, Op.79",
+      "imslp_url": "https://imslp.org/wiki/Konzertst\u00fcck_in_F_minor,_Op.79_(Weber,_Carl_Maria_von)",
+      "year": 1821
+    },
+    {
+      "title": "Den Sachsen-Sohn verm\u00e4hlet heute, J.289",
+      "imslp_url": "https://imslp.org/wiki/Den_Sachsen-Sohn_verm\u00e4hlet_heute,_J.289_(Weber,_Carl_Maria_von)",
+      "year": 1822
+    },
+    {
+      "title": "Euryanthe, Op.81",
+      "imslp_url": "https://imslp.org/wiki/Euryanthe,_Op.81_(Weber,_Carl_Maria_von)",
+      "year": 1822
+    },
+    {
+      "title": "Max-Walzer, J. Anh.81",
+      "imslp_url": "https://imslp.org/wiki/Max-Walzer,_J._Anh.81_(Weber,_Carl_Maria_von)",
+      "year": 1825
+    },
+    {
+      "title": "Oberon, J.306",
+      "imslp_url": "https://imslp.org/wiki/Oberon,_J.306_(Weber,_Carl_Maria_von)",
+      "year": 1825
+    },
+    {
+      "title": "Adagio patetico in C-sharp minor",
+      "imslp_url": "https://imslp.org/wiki/Adagio_patetico_in_C-sharp_minor_(Weber,_Carl_Maria_von)",
+      "year": 1826
     }
   ]
 }

@@ -1,568 +1,479 @@
 {
   "full_name": "Erik Satie",
-  "first_names": "Erik",
+  "first_names": "Erik Alfred Leslie",
   "last_name": "Satie",
   "birth_year": 1866,
   "death_year": 1925,
   "wikipedia_url": "https://en.wikipedia.org/wiki/Erik_Satie",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Erik Satie burst onto the scene in Honfleur, Normandy, like a melodious scream of joy. The first child born to a shipping broker and an English mother, he was destined for musical greatness before he even knew how to properly tune his toys.",
+      "section": "Life and career",
+      "title": "Birth",
+      "summary": "Satie was born in Honfleur, Normandy, as the first child of Alfred Satie and Jane Leslie. His early family life was marked by a move to Paris after the Franco-Prussian War, where his father became a music publisher.",
       "year": 1866,
-      "city": "Honfleur",
-      "country": "France"
+      "location": "Honfleur, Normandy",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Satie popped into the world in Honfleur, Normandy, as the first child of Alfred Satie and Jane Leslie. After the Franco-Prussian War, the family vacated to Paris, where his father became a music publisher instead of joining the circus."
     },
     {
-      "event": "Move to Paris",
-      "summary": "After the Franco-Prussian War, Satie's family left the countryside and migrated to the urban jungle of Paris, where his father tried his luck as a music publisher. Little did they know their journey would lead to a wild musical odyssey!",
-      "year": 1872,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "First Music Lessons",
-      "summary": "At the age of eight, young Satie decided to take music lessons with local organist Gustave Vinot, sparking a lifelong obsession with Gregorian chant and old church music that would put a mystical twist on his later compositions.",
+      "section": "Life and career",
+      "title": "Music Lessons Begun",
+      "summary": "At a local boarding school, Satie took his first music lessons from Gustave Vinot, which sparked his passion for old church music and Gregorian chant.",
       "year": 1874,
-      "city": "Honfleur",
-      "country": "France"
+      "location": "Paris",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "At a local boarding school, Satie took his first music lessons from Gustave Vinot, which apparently sparked his passion for old church music and Gregorian chant. You\u2019d think his real motivation was to serenade the ghosts in the chapel!"
     },
     {
-      "event": "Expelled from Conservatoire",
-      "summary": "Despite his best efforts to charm them with his indolent genius, Satie was expelled from the Paris Conservatoire for being 'the laziest student in the Conservatoire'. A true underachiever, he turned the art of flunking into a fine art!",
-      "year": 1882,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "First Composition",
-      "summary": "On a peaceful holiday in Honfleur, Satie penned his first known composition, an Allegro for piano. Finally, he transitioned from being merely 'a person with a piano' to officially coining the title 'composer'.",
+      "section": "Life and career",
+      "title": "First Composition",
+      "summary": "While on holiday in Honfleur, Satie composed his first known piece, a short Allegro for piano, marking the beginning of his creative career.",
       "year": 1884,
-      "city": "Honfleur",
-      "country": "France"
+      "location": "Honfleur",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "While on holiday in Honfleur, Satie decided to tickle the ivories for the first time, composing his first known piece, a short Allegro for piano. This was the beginning of his creative career, although at that point, he wasn't sure if he was playing music or just hammering on the keys."
     },
     {
-      "event": "Military Service",
-      "summary": "In search of adventure (or perhaps just to escape the Conservatoire), Satie joined the army. However, he quickly declared it boring and contracted bronchitis, leading to his swift and dramatic dismissal. Talk about taking 'sick leave' to a whole new level!",
+      "section": "Life and career",
+      "title": "Military Service",
+      "summary": "Satie joined the 33rd Infantry Regiment but quickly found military life to be unsatisfactory, leading him to contract bronchitis to be released after three months.",
       "year": 1886,
-      "city": "France",
-      "country": "France"
+      "location": "France",
+      "emoji": "\ud83d\udeab",
+      "fun_version": "Satie enlisted in the 33rd Infantry Regiment, but marching and shouting didn\u2019t tickle his funny bone. He caught bronchitis, which got him out of camp life after just three months!"
     },
     {
-      "event": "Move to Montmartre",
-      "summary": "At the age of 21, Satie decided to fully embrace the bohemian lifestyle in Montmartre, where he donned a frock coat and top hat, proving that sometimes fashion choices can change your entire life. Join us for a celebration of caffeinated creativity!",
-      "year": 1887,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Friendship with Debussy",
-      "summary": "In the exhilarating caf\u00e9 society of Montmartre, Satie formed a close friendship with Claude Debussy, where they shared ideals, dreams, and, most importantly, a cozy space for musical banter about the absurdities of life.",
-      "year": 1890,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "First Love Affair",
-      "summary": "Satie experienced what is believed to be his only love affair with painter Suzanne Valadon, an emotional rollercoaster that inspired him to express his feelings through dance music, proving that love really can make one lose their compositional focus!",
-      "year": 1893,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Move to Arcueil",
-      "summary": "In search of peace and quiet to work on his compositions, Satie moved to Arcueil, where he embraced a respectable bourgeois lifestyle. Dressed to the nines with a bowler hat and umbrella, he became the dignified recluse of the music world \u2013 who could have guessed?",
-      "year": 1898,
-      "city": "Arcueil",
-      "country": "France"
-    },
-    {
-      "event": "Creation of 'Parade'",
-      "summary": "In a vibrant collaboration with Jean Cocteau, Satie composed the score for the ballet Parade, which mixed avant-garde ideas with a surreal flair. It was a wild m\u00e9lange of modern artistry, putting even the most eccentric Parisian artists to shame!",
-      "year": 1917,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Death",
-      "summary": "Satie, with his penchant for whimsical titles and unique persona, passed away at the age of 59, leaving behind a legacy that would influence countless musicians. Who said drinking and creating wasn't a winning combination? Just ask Satie!",
-      "year": 1925,
-      "city": "Arcueil",
-      "country": "France"
-    },
-    {
-      "event": "Premiere of Debussy's Pell\u00e9as et M\u00e9lisande",
-      "summary": "Satie was left in awe after hearing Debussy's opera, leading him to evaluate and improve his own music. It was so astounding, he almost wanted to change his career to opera critic, but thankfully, he stuck to composing.",
-      "year": 1902,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Enrolled at Schola Cantorum",
-      "summary": "After being told by Debussy that he had enough talent, Satie decided to go against the grain and enroll as a mature student, proving that you can teach an old dog new tricks, or at least make him look like he\u2019s trying.",
-      "year": 1905,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Ravel plays Satie's works",
-      "summary": "At a concert by the Soci\u00e9t\u00e9 musicale ind\u00e9pendante, Ravel showcased Satie's earlier compositions, catapulting the composer into the limelight and declaring to the audience, 'Just when you thought it was safe to go back into the concert hall...'.",
-      "year": 1911,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Commission for Parade",
-      "summary": "During the war years, Cocteau saw the potential in Satie and commissioned the ballet 'Parade', which famously included a typewriter as an instrument\u2014just when you thought your office job couldn't get any more artistic!",
-      "year": 1917,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Premiere of Socrate",
-      "summary": "After years of hard work, Satie finally premiered 'Socrate', which he described as a 'return to classical simplicity', a claim that could only mean his furniture was not included in the music this time.",
-      "year": 1918,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Festival of Satie's Music",
-      "summary": "A festival dedicated entirely to Satie's compositions took place, proving once and for all that he was no longer just the weird uncle of music, but the celebrated grandparent!",
-      "year": 1920,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Health Collapse and Hospitalization",
-      "summary": "In a dramatic turn akin to a soap opera cliffhanger, Satie's health took a nosedive, leading to his hospitalization where doctors did not prescribe him more wine or odd foods\u2014smart move!",
-      "year": 1925,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Career Start",
-      "summary": "After possibly confusing music with a slightly glorified noise, Satie began to compose music, quickly establishing himself as an eccentric figure in the Parisian scene, where his nonconformity was met with raised eyebrows and bewildered expressions.",
-      "year": 1884,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Creation of Gymnop\u00e9dies",
-      "summary": "Satie delivered a trio of compositions labeled 'Gymnop\u00e9dies,' which were so soothing that they could calm even the wildest of cats\u2014or at least make them drowsy for a while.",
+      "section": "Works",
+      "title": "Gymnop\u00e9dies Composition",
+      "summary": "Among his earliest compositions were sets of three Gymnop\u00e9dies and his Gnossiennes for piano. They evoke the ancient world, characterized by simplicity, monotonous repetition, and original modal harmonies. This work set the stage for Satie's distinctive compositional voice.",
       "year": 1888,
-      "city": "Paris",
-      "country": "France"
+      "location": "France",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Among his earliest musical escapades were sets of three Gymnop\u00e9dies and his notorious Gnossiennes for piano, which have simplicity, a lot of monotonous boogieing, and harmonies so original they could start a trend on TikTok! This quirky work turned the spotlight on Satie's unique compositional voice, proving that even in the ancient world, rhythm matters."
     },
     {
-      "event": "First Performance",
-      "summary": "Satie's music was finally heard in public, marking the 'Nudge me, I think I have talent' moment he had been waiting for. His unique style was as perplexing as it was refreshing to those in attendance.",
-      "year": 1893,
-      "city": "Paris",
-      "country": "France"
+      "section": "Life and career",
+      "title": "First Public Performance",
+      "summary": "Satie's music gained visibility when he participated in the salons hosted by the mystic sect led by S\u00e2r Jos\u00e9phin P\u00e9ladan, where he had opportunities for public performance.",
+      "year": 1890,
+      "location": "Paris",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Satie's music gained visibility when he participated in the salons hosted by the mystic sect led by S\u00e2r Jos\u00e9phin P\u00e9ladan, where he had opportunities for public performance."
     },
     {
-      "event": "Influence on Surrealism",
-      "summary": "Satie's whimsical and unconventional approach to music became an influential force among the Surrealists, who found his melodies to be the perfect backdrop for their own brand of delightful absurdity.",
-      "year": 1920,
-      "city": "Paris",
-      "country": "France"
+      "section": "Works",
+      "title": "Trois morceaux en forme de poire",
+      "summary": "Satie began to write works with quirky titles, such as the seven-movement suite Trois morceaux en forme de poire for piano four-hands. This composition is described as a r\u00e9sum\u00e9 of his music since 1890, reusing some of his earlier work as well as popular songs of the time.",
+      "year": 1903,
+      "location": "France",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Satie began writing quirky works, like the seven-movement suite *Trois morceaux en forme de poire*, which features piano for four hands\u2014a rather mad idea! This composition serves as a musical r\u00e9sum\u00e9 of his work since 1890, incorporating earlier pieces and popular songs of the time."
+    },
+    {
+      "section": "Life and career",
+      "title": "Commission for Parade",
+      "summary": "Satie composed the music for the ballet Parade, which premiered in 1917, an event that significantly raised his public profile with its innovative and scandalous elements.",
+      "year": 1917,
+      "location": "Paris",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Satie composed the music for the ballet Parade, which premiered in 1917. This performance was so innovative and scandalous that it had both the audience and the critics thinking, 'what were they thinking?!' But hey, it did wonders for Satie's public profile - talk about an artistic glow-up!"
     }
   ],
-  "compositions": [
+  "works": [
     {
+      "title": "Allegro",
       "imslp_url": "https://imslp.org/wiki/Allegro_(Satie,_Erik)",
-      "year": 1884,
-      "title": "Allegro"
+      "year": 1884
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Allons-y_Chochotte_(Satie,_Erik)",
-      "year": 1905,
-      "title": "Allons-y Chochotte"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Aper%C3%A7us_d%C3%A9sagr%C3%A9ables_(Satie,_Erik)",
-      "year": 1908,
-      "title": "Aper\u00e7us d\u00e9sagr\u00e9ables"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Avant-derni%C3%A8res_pens%C3%A9es_(Satie,_Erik)",
-      "year": 1915,
-      "title": "Avant-derni\u00e8res pens\u00e9es"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_belle_excentrique_(Satie,_Erik)",
-      "year": 1920,
-      "title": "La belle excentrique"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Bonjour_Biqui,_Bonjour!_(Satie,_Erik)",
-      "year": 1893,
-      "title": "Bonjour Biqui, Bonjour!"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Chanson_Hongroise_(Satie,_Erik)",
-      "year": 1889,
-      "title": "Chanson Hongroise"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Chapitres_tourn%C3%A9s_en_tous_sens_(Satie,_Erik)",
-      "year": 1913,
-      "title": "Chapitres tourn\u00e9s en tous sens"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Chez_le_docteur_(Satie,_Erik)",
-      "year": 1905,
-      "title": "Chez le docteur"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Choses_vues_%C3%A0_droite_et_%C3%A0_gauche_(Satie,_Erik)",
-      "year": 1914,
-      "title": "Choses vues \u00e0 droite et \u00e0 gauche"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Choses_(Satie,_Erik)",
-      "year": 1909,
-      "title": "2 Choses"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Croquis_et_agaceries_d%27un_gros_bonhomme_en_bois_(Satie,_Erik)",
-      "year": 1913,
-      "title": "Croquis et agaceries d'un gros bonhomme en bois"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Danses_gothiques_(Satie,_Erik)",
-      "year": 1893,
-      "title": "Danses gothiques"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Descriptions_automatiques_(Satie,_Erik)",
-      "year": 1913,
-      "title": "Descriptions automatiques"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/D%C3%A9sespoir_agr%C3%A9able_(Satie,_Erik)",
-      "year": 1908,
-      "title": "D\u00e9sespoir agr\u00e9able"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_diva_de_l%27Empire_(Satie,_Erik)",
-      "year": 1904,
-      "title": "La diva de l'Empire"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Embryons_dess%C3%A9ch%C3%A9s_(Satie,_Erik)",
-      "year": 1913,
-      "title": "Embryons dess\u00e9ch\u00e9s"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/En_habit_de_cheval_(Satie,_Erik)",
-      "year": 1911,
-      "title": "En habit de cheval"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/L%27enfance_de_Ko-Quo_(Satie,_Erik)",
-      "year": 1913,
-      "title": "L'enfance de Ko-Quo"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Enfantillages_pittoresques_(Satie,_Erik)",
-      "year": 1913,
-      "title": "Enfantillages pittoresques"
-    },
-    {
+      "title": "Fantaisie-valse",
       "imslp_url": "https://imslp.org/wiki/Fantaisie-valse_(Satie,_Erik)",
-      "year": 1885,
-      "title": "Fantaisie-valse"
+      "year": 1885
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Le_Fils_des_%C3%A9toiles_(Satie,_Erik)",
-      "year": 1891,
-      "title": "Le Fils des \u00e9toiles"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Genevi%C3%A8ve_de_Brabant_(Satie,_Erik)",
-      "year": 1899,
-      "title": "Genevi\u00e8ve de Brabant"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Gnossiennes_(Satie,_Erik)",
-      "year": 1889,
-      "title": "Gnossiennes"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Grimaces_pour_Le_songe_d%27une_nuit_d%27%C3%A9t%C3%A9_(Satie,_Erik)",
-      "year": 1915,
-      "title": "5 Grimaces pour Le songe d'une nuit d'\u00e9t\u00e9"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Gymnop%C3%A9dies_(Satie,_Erik)",
-      "year": 1888,
-      "title": "3 Gymnop\u00e9dies"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Heures_s%C3%A9culaires_et_Instantan%C3%A9es_(Satie,_Erik)",
-      "year": 1914,
-      "title": "Heures s\u00e9culaires et Instantan\u00e9es"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Jack-in-the-Box_(Satie,_Erik)",
-      "year": 1899,
-      "title": "Jack-in-the-Box"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Je_te_veux_(Satie,_Erik)",
-      "year": 1897,
-      "title": "Je te veux"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ludions_(Satie,_Erik)",
-      "year": 1923,
-      "title": "Ludions"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Marienbad_(Satie,_Erik)",
-      "year": 1907,
-      "title": "Marienbad"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_M%C3%A9lodies,_IES_33_(Satie,_Erik)",
-      "year": 1887,
-      "title": "3 M\u00e9lodies, IES 33"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_M%C3%A9lodies,_IES_34_(Satie,_Erik)",
-      "year": 1916,
-      "title": "3 M\u00e9lodies, IES 34"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Menus_propos_enfantins_(Satie,_Erik)",
-      "year": 1913,
-      "title": "Menus propos enfantins"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Mercure_(Satie,_Erik)",
-      "year": 1924,
-      "title": "Mercure"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Messe_des_pauvres_(Satie,_Erik)",
-      "year": 1893,
-      "title": "Messe des pauvres"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Mod%C3%A9r%C3%A9_(Satie,_Erik)",
-      "year": 1893,
-      "title": "Mod\u00e9r\u00e9"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Morceaux_en_forme_de_poire_(Satie,_Erik)",
-      "year": 1903,
-      "title": "3 Morceaux en forme de poire"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Musique_d%27Ameublement_(Satie,_Erik)",
-      "year": 1917,
-      "title": "Musique d'Ameublement"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Nocturnes_(Satie,_Erik)",
-      "year": 1919,
-      "title": "5 Nocturnes"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Nouvelles_pi%C3%A8ces_froides_(Satie,_Erik)",
-      "year": 1907,
-      "title": "Nouvelles pi\u00e8ces froides"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Ogives_(Satie,_Erik)",
-      "year": 1886,
-      "title": "4 Ogives"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Les_oiseaux_(Satie,_Erik)",
-      "year": 1907,
-      "title": "Les oiseaux"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/L%27omnibus_automobile_(Satie,_Erik)",
-      "year": 1905,
-      "title": "L'omnibus automobile"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Les_pantins_dansent_(Satie,_Erik)",
-      "year": 1913,
-      "title": "Les pantins dansent"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Parade_(Satie,_Erik)",
-      "year": 1917,
-      "title": "Parade"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Passacaille_(Satie,_Erik)",
-      "year": 1906,
-      "title": "Passacaille"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Peccadilles_importunes_(Satie,_Erik)",
-      "year": 1913,
-      "title": "Peccadilles importunes"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Petites_m%C3%A9lodies_(Satie,_Erik)",
-      "year": 1920,
-      "title": "4 Petites m\u00e9lodies"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Petites_pi%C3%A8ces_mont%C3%A9es_(Satie,_Erik)",
-      "year": 1919,
-      "title": "3 Petites pi\u00e8ces mont\u00e9es"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Le_piccadilly_(Satie,_Erik)",
-      "year": 1904,
-      "title": "Le piccadilly"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Pi%C3%A8ces_froides_(Satie,_Erik)",
-      "year": 1897,
-      "title": "Pi\u00e8ces froides"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Le_pi%C3%A8ge_de_M%C3%A9duse_(Satie,_Erik)",
-      "year": 1913,
-      "title": "Le pi\u00e8ge de M\u00e9duse"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Po%C3%A8mes_d%27amour_(Satie,_Erik)",
-      "year": 1914,
-      "title": "3 Po\u00e8mes d'amour"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Poudre_d%27or_(Satie,_Erik)",
-      "year": 1901,
-      "title": "Poudre d'or"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Pr%C3%A9lude_de_la_porte_h%C3%A9ro%C3%AFque_du_ciel_(Satie,_Erik)",
-      "year": 1894,
-      "title": "Pr\u00e9lude de la porte h\u00e9ro\u00efque du ciel"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Pr%C3%A9lude_en_tapisserie_(Satie,_Erik)",
-      "year": 1906,
-      "title": "Pr\u00e9lude en tapisserie"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Pr%C3%A9ludes_flasques_(pour_un_chien)_(Satie,_Erik)",
-      "year": 1912,
-      "title": "Pr\u00e9ludes flasques"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Pr%C3%A9ludes_(Satie,_Erik)",
-      "year": 1892,
-      "title": "4 Pr\u00e9ludes"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Premier_menuet_(Satie,_Erik)",
-      "year": 1920,
-      "title": "Premier menuet"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Premi%C3%A8re_pens%C3%A9e_Rose%2BCroix_(Satie,_Erik)",
-      "year": 1891,
-      "title": "Premi\u00e8re pens\u00e9e Rose+Croix"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Pri%C3%A8re_(Satie,_Erik)",
-      "year": 1893,
-      "title": "Pri\u00e8re"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Profondeur_(Satie,_Erik)",
-      "year": 1909,
-      "title": "Profondeur"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Rambouillet_(Satie,_Erik)",
-      "year": 1907,
-      "title": "Rambouillet"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Rel%C3%A2che_(Satie,_Erik)",
-      "year": 1924,
-      "title": "Rel\u00e2che"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Sarabandes_(Satie,_Erik)",
-      "year": 1887,
-      "title": "3 Sarabandes"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Sc%C3%A8nes_nouvelles_pour_%27Le_m%C3%A9decin_malgr%C3%A9_lui%27_(Satie,_Erik)",
-      "year": 1923,
-      "title": "Sc\u00e8nes nouvelles pour 'Le m\u00e9decin malgr\u00e9 lui'"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Socrate_(Satie,_Erik)",
-      "year": 1917,
-      "title": "Socrate"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Sonatine_bureaucratique_(Satie,_Erik)",
-      "year": 1917,
-      "title": "Sonatine bureaucratique"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Sonnerie_pour_reveiller_le_bon_gros_Roi_des_Singes_(Satie,_Erik)",
-      "year": 1921,
-      "title": "Sonnerie pour reveiller le bon gros Roi des Singes"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Sonneries_de_la_Rose%2BCroix_(Satie,_Erik)",
-      "year": 1892,
-      "title": "3 Sonneries de la Rose+Croix"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Sports_et_divertissements_(Satie,_Erik)",
-      "year": 1914,
-      "title": "Sports et divertissements"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Tendrement_(Satie,_Erik)",
-      "year": 1902,
-      "title": "Tendrement"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Uspud_(Satie,_Erik)",
-      "year": 1892,
-      "title": "Uspud"
-    },
-    {
+      "title": "Valse-ballet",
       "imslp_url": "https://imslp.org/wiki/Valse-ballet_(Satie,_Erik)",
-      "year": 1885,
-      "title": "Valse-ballet"
+      "year": 1885
     },
     {
-      "imslp_url": "https://imslp.org/wiki/3_Valses_distingu%C3%A9es_du_pr%C3%A9cieux_d%C3%A9go%C3%BBt%C3%A9_(Satie,_Erik)",
-      "year": 1914,
-      "title": "3 Valses distingu\u00e9es du pr\u00e9cieux d\u00e9go\u00fbt\u00e9"
+      "title": "4 Ogives",
+      "imslp_url": "https://imslp.org/wiki/4_Ogives_(Satie,_Erik)",
+      "year": 1886
     },
     {
-      "imslp_url": "https://imslp.org/wiki/3_V%C3%A9ritables_pr%C3%A9ludes_flasques_(pour_un_chien)_(Satie,_Erik)",
-      "year": 1912,
-      "title": "3 V\u00e9ritables pr\u00e9ludes flasques"
+      "title": "3 M\u00e9lodies, IES 33",
+      "imslp_url": "https://imslp.org/wiki/3_M\u00e9lodies,_IES_33_(Satie,_Erik)",
+      "year": 1887
     },
     {
+      "title": "3 Sarabandes",
+      "imslp_url": "https://imslp.org/wiki/3_Sarabandes_(Satie,_Erik)",
+      "year": 1887
+    },
+    {
+      "title": "3 Gymnop\u00e9dies",
+      "imslp_url": "https://imslp.org/wiki/3_Gymnop\u00e9dies_(Satie,_Erik)",
+      "year": 1888
+    },
+    {
+      "title": "Chanson Hongroise",
+      "imslp_url": "https://imslp.org/wiki/Chanson_Hongroise_(Satie,_Erik)",
+      "year": 1889
+    },
+    {
+      "title": "Gnossiennes",
+      "imslp_url": "https://imslp.org/wiki/Gnossiennes_(Satie,_Erik)",
+      "year": 1889
+    },
+    {
+      "title": "Le Fils des \u00e9toiles",
+      "imslp_url": "https://imslp.org/wiki/Le_Fils_des_\u00e9toiles_(Satie,_Erik)",
+      "year": 1891
+    },
+    {
+      "title": "Premi\u00e8re pens\u00e9e Rose+Croix",
+      "imslp_url": "https://imslp.org/wiki/Premi\u00e8re_pens\u00e9e_Rose+Croix_(Satie,_Erik)",
+      "year": 1891
+    },
+    {
+      "title": "3 Sonneries de la Rose+Croix",
+      "imslp_url": "https://imslp.org/wiki/3_Sonneries_de_la_Rose+Croix_(Satie,_Erik)",
+      "year": 1892
+    },
+    {
+      "title": "4 Pr\u00e9ludes",
+      "imslp_url": "https://imslp.org/wiki/4_Pr\u00e9ludes_(Satie,_Erik)",
+      "year": 1892
+    },
+    {
+      "title": "Uspud",
+      "imslp_url": "https://imslp.org/wiki/Uspud_(Satie,_Erik)",
+      "year": 1892
+    },
+    {
+      "title": "Bonjour Biqui, Bonjour!",
+      "imslp_url": "https://imslp.org/wiki/Bonjour_Biqui,_Bonjour!_(Satie,_Erik)",
+      "year": 1893
+    },
+    {
+      "title": "Danses gothiques",
+      "imslp_url": "https://imslp.org/wiki/Danses_gothiques_(Satie,_Erik)",
+      "year": 1893
+    },
+    {
+      "title": "Messe des pauvres",
+      "imslp_url": "https://imslp.org/wiki/Messe_des_pauvres_(Satie,_Erik)",
+      "year": 1893
+    },
+    {
+      "title": "Mod\u00e9r\u00e9",
+      "imslp_url": "https://imslp.org/wiki/Mod\u00e9r\u00e9_(Satie,_Erik)",
+      "year": 1893
+    },
+    {
+      "title": "Pri\u00e8re",
+      "imslp_url": "https://imslp.org/wiki/Pri\u00e8re_(Satie,_Erik)",
+      "year": 1893
+    },
+    {
+      "title": "Vexations",
       "imslp_url": "https://imslp.org/wiki/Vexations_(Satie,_Erik)",
-      "year": 1893,
-      "title": "Vexations"
+      "year": 1893
     },
     {
+      "title": "Pr\u00e9lude de la porte h\u00e9ro\u00efque du ciel",
+      "imslp_url": "https://imslp.org/wiki/Pr\u00e9lude_de_la_porte_h\u00e9ro\u00efque_du_ciel_(Satie,_Erik)",
+      "year": 1894
+    },
+    {
+      "title": "Je te veux",
+      "imslp_url": "https://imslp.org/wiki/Je_te_veux_(Satie,_Erik)",
+      "year": 1897
+    },
+    {
+      "title": "Pi\u00e8ces froides",
+      "imslp_url": "https://imslp.org/wiki/Pi\u00e8ces_froides_(Satie,_Erik)",
+      "year": 1897
+    },
+    {
+      "title": "Genevi\u00e8ve de Brabant",
+      "imslp_url": "https://imslp.org/wiki/Genevi\u00e8ve_de_Brabant_(Satie,_Erik)",
+      "year": 1899
+    },
+    {
+      "title": "Jack-in-the-Box",
+      "imslp_url": "https://imslp.org/wiki/Jack-in-the-Box_(Satie,_Erik)",
+      "year": 1899
+    },
+    {
+      "title": "Poudre d'or",
+      "imslp_url": "https://imslp.org/wiki/Poudre_d'or_(Satie,_Erik)",
+      "year": 1901
+    },
+    {
+      "title": "Tendrement",
+      "imslp_url": "https://imslp.org/wiki/Tendrement_(Satie,_Erik)",
+      "year": 1902
+    },
+    {
+      "title": "3 Morceaux en forme de poire",
+      "imslp_url": "https://imslp.org/wiki/3_Morceaux_en_forme_de_poire_(Satie,_Erik)",
+      "year": 1903
+    },
+    {
+      "title": "La diva de l'Empire",
+      "imslp_url": "https://imslp.org/wiki/La_diva_de_l'Empire_(Satie,_Erik)",
+      "year": 1904
+    },
+    {
+      "title": "Le piccadilly",
+      "imslp_url": "https://imslp.org/wiki/Le_piccadilly_(Satie,_Erik)",
+      "year": 1904
+    },
+    {
+      "title": "Allons-y Chochotte",
+      "imslp_url": "https://imslp.org/wiki/Allons-y_Chochotte_(Satie,_Erik)",
+      "year": 1905
+    },
+    {
+      "title": "Chez le docteur",
+      "imslp_url": "https://imslp.org/wiki/Chez_le_docteur_(Satie,_Erik)",
+      "year": 1905
+    },
+    {
+      "title": "L'omnibus automobile",
+      "imslp_url": "https://imslp.org/wiki/L'omnibus_automobile_(Satie,_Erik)",
+      "year": 1905
+    },
+    {
+      "title": "Passacaille",
+      "imslp_url": "https://imslp.org/wiki/Passacaille_(Satie,_Erik)",
+      "year": 1906
+    },
+    {
+      "title": "Pr\u00e9lude en tapisserie",
+      "imslp_url": "https://imslp.org/wiki/Pr\u00e9lude_en_tapisserie_(Satie,_Erik)",
+      "year": 1906
+    },
+    {
+      "title": "Les oiseaux",
+      "imslp_url": "https://imslp.org/wiki/Les_oiseaux_(Satie,_Erik)",
+      "year": 1907
+    },
+    {
+      "title": "Marienbad",
+      "imslp_url": "https://imslp.org/wiki/Marienbad_(Satie,_Erik)",
+      "year": 1907
+    },
+    {
+      "title": "Nouvelles pi\u00e8ces froides",
+      "imslp_url": "https://imslp.org/wiki/Nouvelles_pi\u00e8ces_froides_(Satie,_Erik)",
+      "year": 1907
+    },
+    {
+      "title": "Rambouillet",
+      "imslp_url": "https://imslp.org/wiki/Rambouillet_(Satie,_Erik)",
+      "year": 1907
+    },
+    {
+      "title": "Aper\u00e7us d\u00e9sagr\u00e9ables",
+      "imslp_url": "https://imslp.org/wiki/Aper\u00e7us_d\u00e9sagr\u00e9ables_(Satie,_Erik)",
+      "year": 1908
+    },
+    {
+      "title": "D\u00e9sespoir agr\u00e9able",
+      "imslp_url": "https://imslp.org/wiki/D\u00e9sespoir_agr\u00e9able_(Satie,_Erik)",
+      "year": 1908
+    },
+    {
+      "title": "2 Choses",
+      "imslp_url": "https://imslp.org/wiki/2_Choses_(Satie,_Erik)",
+      "year": 1909
+    },
+    {
+      "title": "Profondeur",
+      "imslp_url": "https://imslp.org/wiki/Profondeur_(Satie,_Erik)",
+      "year": 1909
+    },
+    {
+      "title": "En habit de cheval",
+      "imslp_url": "https://imslp.org/wiki/En_habit_de_cheval_(Satie,_Erik)",
+      "year": 1911
+    },
+    {
+      "title": "3 V\u00e9ritables pr\u00e9ludes flasques (pour un chien)",
+      "imslp_url": "https://imslp.org/wiki/3_V\u00e9ritables_pr\u00e9ludes_flasques_(pour_un_chien)_(Satie,_Erik)",
+      "year": 1912
+    },
+    {
+      "title": "Pr\u00e9ludes flasques (pour un chien)",
+      "imslp_url": "https://imslp.org/wiki/Pr\u00e9ludes_flasques_(pour_un_chien)_(Satie,_Erik)",
+      "year": 1912
+    },
+    {
+      "title": "Chapitres tourn\u00e9s en tous sens",
+      "imslp_url": "https://imslp.org/wiki/Chapitres_tourn\u00e9s_en_tous_sens_(Satie,_Erik)",
+      "year": 1913
+    },
+    {
+      "title": "Croquis et agaceries d'un gros bonhomme en bois",
+      "imslp_url": "https://imslp.org/wiki/Croquis_et_agaceries_d'un_gros_bonhomme_en_bois_(Satie,_Erik)",
+      "year": 1913
+    },
+    {
+      "title": "Descriptions automatiques",
+      "imslp_url": "https://imslp.org/wiki/Descriptions_automatiques_(Satie,_Erik)",
+      "year": 1913
+    },
+    {
+      "title": "Embryons dess\u00e9ch\u00e9s",
+      "imslp_url": "https://imslp.org/wiki/Embryons_dess\u00e9ch\u00e9s_(Satie,_Erik)",
+      "year": 1913
+    },
+    {
+      "title": "Enfantillages pittoresques",
+      "imslp_url": "https://imslp.org/wiki/Enfantillages_pittoresques_(Satie,_Erik)",
+      "year": 1913
+    },
+    {
+      "title": "L'enfance de Ko-Quo",
+      "imslp_url": "https://imslp.org/wiki/L'enfance_de_Ko-Quo_(Satie,_Erik)",
+      "year": 1913
+    },
+    {
+      "title": "Le pi\u00e8ge de M\u00e9duse",
+      "imslp_url": "https://imslp.org/wiki/Le_pi\u00e8ge_de_M\u00e9duse_(Satie,_Erik)",
+      "year": 1913
+    },
+    {
+      "title": "Les pantins dansent",
+      "imslp_url": "https://imslp.org/wiki/Les_pantins_dansent_(Satie,_Erik)",
+      "year": 1913
+    },
+    {
+      "title": "Menus propos enfantins",
+      "imslp_url": "https://imslp.org/wiki/Menus_propos_enfantins_(Satie,_Erik)",
+      "year": 1913
+    },
+    {
+      "title": "Peccadilles importunes",
+      "imslp_url": "https://imslp.org/wiki/Peccadilles_importunes_(Satie,_Erik)",
+      "year": 1913
+    },
+    {
+      "title": "Vieux sequins et vieilles cuirasses",
       "imslp_url": "https://imslp.org/wiki/Vieux_sequins_et_vieilles_cuirasses_(Satie,_Erik)",
-      "year": 1913,
-      "title": "Vieux sequins et vieilles cuirasses"
+      "year": 1913
+    },
+    {
+      "title": "3 Po\u00e8mes d'amour",
+      "imslp_url": "https://imslp.org/wiki/3_Po\u00e8mes_d'amour_(Satie,_Erik)",
+      "year": 1914
+    },
+    {
+      "title": "3 Valses distingu\u00e9es du pr\u00e9cieux d\u00e9go\u00fbt\u00e9",
+      "imslp_url": "https://imslp.org/wiki/3_Valses_distingu\u00e9es_du_pr\u00e9cieux_d\u00e9go\u00fbt\u00e9_(Satie,_Erik)",
+      "year": 1914
+    },
+    {
+      "title": "Choses vues \u00e0 droite et \u00e0 gauche",
+      "imslp_url": "https://imslp.org/wiki/Choses_vues_\u00e0_droite_et_\u00e0_gauche_(Satie,_Erik)",
+      "year": 1914
+    },
+    {
+      "title": "Heures s\u00e9culaires et Instantan\u00e9es",
+      "imslp_url": "https://imslp.org/wiki/Heures_s\u00e9culaires_et_Instantan\u00e9es_(Satie,_Erik)",
+      "year": 1914
+    },
+    {
+      "title": "Sports et divertissements",
+      "imslp_url": "https://imslp.org/wiki/Sports_et_divertissements_(Satie,_Erik)",
+      "year": 1914
+    },
+    {
+      "title": "5 Grimaces pour Le songe d'une nuit d'\u00e9t\u00e9",
+      "imslp_url": "https://imslp.org/wiki/5_Grimaces_pour_Le_songe_d'une_nuit_d'\u00e9t\u00e9_(Satie,_Erik)",
+      "year": 1915
+    },
+    {
+      "title": "Avant-derni\u00e8res pens\u00e9es",
+      "imslp_url": "https://imslp.org/wiki/Avant-derni\u00e8res_pens\u00e9es_(Satie,_Erik)",
+      "year": 1915
+    },
+    {
+      "title": "3 M\u00e9lodies, IES 34",
+      "imslp_url": "https://imslp.org/wiki/3_M\u00e9lodies,_IES_34_(Satie,_Erik)",
+      "year": 1916
+    },
+    {
+      "title": "Musique d'Ameublement",
+      "imslp_url": "https://imslp.org/wiki/Musique_d'Ameublement_(Satie,_Erik)",
+      "year": 1917
+    },
+    {
+      "title": "Parade",
+      "imslp_url": "https://imslp.org/wiki/Parade_(Satie,_Erik)",
+      "year": 1917
+    },
+    {
+      "title": "Socrate",
+      "imslp_url": "https://imslp.org/wiki/Socrate_(Satie,_Erik)",
+      "year": 1917
+    },
+    {
+      "title": "Sonatine bureaucratique",
+      "imslp_url": "https://imslp.org/wiki/Sonatine_bureaucratique_(Satie,_Erik)",
+      "year": 1917
+    },
+    {
+      "title": "3 Petites pi\u00e8ces mont\u00e9es",
+      "imslp_url": "https://imslp.org/wiki/3_Petites_pi\u00e8ces_mont\u00e9es_(Satie,_Erik)",
+      "year": 1919
+    },
+    {
+      "title": "5 Nocturnes",
+      "imslp_url": "https://imslp.org/wiki/5_Nocturnes_(Satie,_Erik)",
+      "year": 1919
+    },
+    {
+      "title": "4 Petites m\u00e9lodies",
+      "imslp_url": "https://imslp.org/wiki/4_Petites_m\u00e9lodies_(Satie,_Erik)",
+      "year": 1920
+    },
+    {
+      "title": "La belle excentrique",
+      "imslp_url": "https://imslp.org/wiki/La_belle_excentrique_(Satie,_Erik)",
+      "year": 1920
+    },
+    {
+      "title": "Premier menuet",
+      "imslp_url": "https://imslp.org/wiki/Premier_menuet_(Satie,_Erik)",
+      "year": 1920
+    },
+    {
+      "title": "Sonnerie pour reveiller le bon gros Roi des Singes",
+      "imslp_url": "https://imslp.org/wiki/Sonnerie_pour_reveiller_le_bon_gros_Roi_des_Singes_(Satie,_Erik)",
+      "year": 1921
+    },
+    {
+      "title": "Ludions",
+      "imslp_url": "https://imslp.org/wiki/Ludions_(Satie,_Erik)",
+      "year": 1923
+    },
+    {
+      "title": "Sc\u00e8nes nouvelles pour 'Le m\u00e9decin malgr\u00e9 lui'",
+      "imslp_url": "https://imslp.org/wiki/Sc\u00e8nes_nouvelles_pour_'Le_m\u00e9decin_malgr\u00e9_lui'_(Satie,_Erik)",
+      "year": 1923
+    },
+    {
+      "title": "Mercure",
+      "imslp_url": "https://imslp.org/wiki/Mercure_(Satie,_Erik)",
+      "year": 1924
+    },
+    {
+      "title": "Rel\u00e2che",
+      "imslp_url": "https://imslp.org/wiki/Rel\u00e2che_(Satie,_Erik)",
+      "year": 1924
     }
   ]
 }

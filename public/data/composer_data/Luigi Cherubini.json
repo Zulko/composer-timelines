@@ -1,0 +1,648 @@
+{
+  "full_name": "Luigi Cherubini",
+  "first_names": "Luigi",
+  "last_name": "Cherubini",
+  "birth_year": 1760,
+  "death_year": 1842,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Luigi_Cherubini",
+  "events": [
+    {
+      "section": "Early years",
+      "title": "Birth of Luigi Cherubini",
+      "summary": "Luigi Cherubini, originally named Maria Luigi Carlo Zenobio Salvatore Cherubini, was born in Florence, with some uncertainty surrounding his exact birth date. The 8th of September is often considered correct due to the tradition associated with his first name, Maria, linked to the feast-day of the Nativity of the Virgin.",
+      "year": 1760,
+      "location": "Florence",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Luigi Cherubini, who sounds like he should be a contestant on a cooking show, has a name longer than some novels: Maria Luigi Carlo Zenobio Salvatore Cherubini. Born in Florence, there\u2019s some uncertainty surrounding his exact birth date. While September 8th is often considered correct due to the tradition associated with his first name, Maria, linked to the feast-day of the Nativity of the Virgin, isn't it just peachy that the exact date of his birth is shrouded in mystery?"
+    },
+    {
+      "section": "Early years",
+      "title": "Early Musical Instruction",
+      "summary": "Cherubini received his first music lessons from his father, Bartolomeo, who was a master harpsichordist. His early instruction began at the age of six, which laid the foundation for his future career in music.",
+      "year": 1766,
+      "location": "Florence",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Hear ye! Little Cherubini, just six years old, sat at the harpsichord like it was a magic flying carpet! With his dad, Bartolomeo, the grand wizard of harpsichordism, teaching him how to unleash musical spells, this legendary saga of notes and giggles laid the foundation for his future career, with dreams of symphonies dancing in his head!"
+    },
+    {
+      "section": "Early years",
+      "title": "Child Prodigy",
+      "summary": "Recognized as a child prodigy, Cherubini showed remarkable talent in music composition at a very young age. By the age of thirteen, he had already composed several religious works, showcasing his exceptional abilities in counterpoint and dramatic style.",
+      "year": 1773,
+      "location": "Florence",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Cherubini was so talented as a kid that by the age of thirteen, he had already composed several religious works that made angels reconsider their career choices. While most teens were busy figuring out which video game to play next, he was showcasing his exceptional abilities in counterpoint and dramatic style!"
+    },
+    {
+      "section": "Adulthood and first operas",
+      "title": "Scholarship Award",
+      "summary": "In 1780, he was awarded a scholarship by the Grand Duke of Tuscany to study music in Bologna and Milan. This opportunity allowed him to develop his skills and career as a composer in a flourishing musical environment.",
+      "year": 1780,
+      "location": "Bologna and Milan",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "In 1780, he snagged a fancy scholarship from the Grand Duke of Tuscany. They probably thought, \"Why send this guy to study music in Bologna and Milan?\" This opportunity allowed him to develop his skills and career as a composer in a musical environment that was spicier than a plate of ravioli at an all-you-can-eat pasta party!"
+    },
+    {
+      "section": "Adulthood and first operas",
+      "title": "Premiere of Comic Work",
+      "summary": "The first of his two comic works, Lo sposo di tre e marito di nessuna, premiered at a Venetian theater in November 1783. This marked an important milestone in his compositional journey as he ventured into different genres of opera.",
+      "year": 1783,
+      "location": "Venice",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "With a daring spirit, the composer decided to marry not once, not twice, but three times in his first comic opera! 'Lo sposo di tre e marito di nessuna' made its grand entrance on the Venetian stage in November 1783, leaving the audience in stitches. This show marked the start of his wild journey exploring opera genres, where every note might just come with a laugh!"
+    },
+    {
+      "section": "Adulthood and first operas",
+      "title": "Masonic Lodge Initiation",
+      "summary": "In 1784, Cherubini was initiated into the Grand Orient de France 'Saint-Jean de Palestine' Masonic Lodge, a notable event in his life that may have influenced his later works and social interactions.",
+      "year": 1784,
+      "location": "France",
+      "emoji": "\ud83e\uddd9\u200d\u2642\ufe0f",
+      "fun_version": "In 1784, Cherubini decided to join the Grand Orient de France 'Saint-Jean de Palestine' Masonic Lodge. It was a notable event in his life that was possibly an excuse for some serious cookie-dough tasting! This choice may have influenced his later works and social interactions."
+    },
+    {
+      "section": "Adulthood and first operas",
+      "title": "London and Paris Excursion",
+      "summary": "In 1785, Cherubini traveled to London where he produced two opere serie and an opera buffa for the King's Theatre. Later in the same year, he visited Paris, where his encounter with Marie Antoinette garnered him significant attention in Parisian society.",
+      "year": 1785,
+      "location": "London and Paris",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "In 1785, Cherubini packed his bags and hopped on a carriage to London, where he whipped up two serious operas to impress the snooty folks at the King's Theatre. But that was just the opening act! Later that year, he made a pitstop in Paris, where his dazzling personality and a chance meeting with Marie Antoinette turned him into the hottest topic of tea time gossip in Parisian high society!"
+    },
+    {
+      "section": "French assimilation",
+      "title": "Appointment as Director of Th\u00e9\u00e2tre de Monsieur",
+      "summary": "With Viotti's help, Cherubini was appointed as the director of the Th\u00e9\u00e2tre de Monsieur in the Tuileries, providing him the opportunity to read numerous libretti and choose one that best suited his temperament.",
+      "year": 1789,
+      "location": "Tuileries, France",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Thanks to Viotti's magical intervention, Cherubini snagged the director's gig at the fancy Th\u00eaatre de Monsieur in the Tuileries! He can peruse tons of libretti and choose one that best suits his temperament, like a kid in a candy store picking their favorite treat."
+    },
+    {
+      "section": "French assimilation",
+      "title": "Adoption of French Name",
+      "summary": "Cherubini adopted the French version of his name, Marie-Louis-Charles-Z\u00e9nobi-Salvador Cherubini, and this appears in all extant documents showing his full name after 1790, although his Italian name is favored nowadays.",
+      "year": 1790,
+      "location": "France",
+      "emoji": "\ud83c\uddeb\ud83c\uddf7",
+      "fun_version": "So, Cherubini decided to go all fancy and adopted the French version of his name: Marie-Louis-Charles-Z\u00e9nobi-Salvador Cherubini. This name pops up in every important document post-1790, although his Italian name is favored nowadays and is put on the back burner\u2014probably with a nice tomato sauce."
+    },
+    {
+      "section": "French assimilation",
+      "title": "Success of Lodo\u00efska",
+      "summary": "Cherubini achieved his first major success with the opera Lodo\u00efska, which was admired for its realistic heroism, marking a significant moment in his career.",
+      "year": 1791,
+      "location": "France",
+      "emoji": "\ud83c\udf89",
+      "fun_version": "Ever heard of Cherubini? No, not the angelic choir type, but the guy who gave us the opera Lodo\u00efska! His musical creation was so realistic in its heroism that it made that heroism shine like it just won an Oscar. Seriously, this was a major win for him, marking a significant moment in his career! If IMDb had a page for operas, Lodo\u00efska would definitely have been a blockbuster hit!"
+    },
+    {
+      "section": "French assimilation",
+      "title": "Marriage to Anne C\u00e9cile Tourette",
+      "summary": "Cherubini married Anne C\u00e9cile Tourette, which marked the beginning of his family, growing to have three children together.",
+      "year": 1794,
+      "location": "France",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "Cherubini tied the knot with Anne C\u00e9cile Tourette, marking the official start of their family, which eventually became a three-ring circus\u2014featuring three little clowns, er, children!"
+    },
+    {
+      "section": "French assimilation",
+      "title": "Appointment as Napoleon's Director of Music",
+      "summary": "Cherubini was appointed as Napoleon's director of music in Vienna, during which he conducted several of his works in the city, indicating his prominence in the music scene under Napoleon.",
+      "year": 1805,
+      "location": "Vienna, Austria",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Cherubini was appointed as Napoleon's music director in Vienna! Imagine him waving his baton while Napoleon perfected the art of giving orders! Conducting several of his own works, it's no wonder he was the go-to guy in the music scene under Napoleon, indicating his prominence."
+    },
+    {
+      "section": "Works",
+      "title": "Messe solennelle br\u00e8ve in B-flat",
+      "summary": "This work, with a dubious date of 1805, is considered one of Cherubini's contributions to sacred music, showcasing his melodic and harmonic sensibilities.",
+      "year": 1805,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "This piece, which is trying to convince us it was written in 1805 (we're onto you, Cherubini!), showcases his melodic and harmonic sensibilities as one of his shiniest contributions to sacred music \u2014 you know, the kind that makes you think, 'Why wasn\u2019t I born in the 1800s to really appreciate this melodic rollercoaster?'"
+    },
+    {
+      "section": "Works",
+      "title": "Credo a capella for eight voices and organ",
+      "summary": "Written in 1806, this sacred piece is an example of Cherubini's skill in vocal writing, creating intricate textures that highlight the beauty of choral music.",
+      "year": 1806,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Written in 1806, this divine melody is proof that Cherubini was the original vocal maestro, crafting such intricate textures that highlight the beauty of choral music and even the angels might need a score to keep up!"
+    },
+    {
+      "section": "From opera to church music",
+      "title": "Faniska",
+      "summary": "Produced in 1806, Faniska received an enthusiastic response from audiences, particularly noted by prominent composers Haydn and Beethoven.",
+      "year": 1806,
+      "location": "Paris",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Produced in 1806, Faniska received an enthusiastic response from audiences, particularly noted by prominent composers Haydn and Beethoven\u2014mostly because they thought it might be the original text message saying, 'Hey, check out our latest production; it\u2019s more dramatic than a cat video!'"
+    },
+    {
+      "section": "French assimilation",
+      "title": "Election as Associated Member",
+      "summary": "In 1808, Cherubini was elected as an associated member of the Royal Institute of the Netherlands, which shows his recognition and respect in the music community.",
+      "year": 1808,
+      "location": "Netherlands",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1808, Cherubini got himself elected as an associated member of the Royal Institute of the Netherlands, proving that even in the 19th century, the way to a musician's heart was through membership applications and fancy titles! Who knew that being a 'Royal' could be earned with just a pen and ink?"
+    },
+    {
+      "section": "Works",
+      "title": "Messe de Chimay in F",
+      "summary": "Composed in 1809, this mass is part of Cherubini's exploration of liturgical music, demonstrating a blend of tradition and his unique compositional voice.",
+      "year": 1809,
+      "location": "",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Composed way back in 1809, this mass is Cherubini throwing a liturgical music party, mixing the old-school vibes with his own special blend\u2014like a fancy coffee shop, but with more organ music and fewer baristas! This piece showcases Cherubini's exploration of traditional liturgical music and his unique compositional voice."
+    },
+    {
+      "section": "Works",
+      "title": "Missa solemnis in D minor",
+      "summary": "Composed in 1811 for Prince Esterh\u00e1zy, this work reflects Cherubini's profound understanding of mass composition, with emotional and structural complexities.",
+      "year": 1811,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1811, Prince Esterh\u00e1zy was on the lookout for some entertainment. He commissioned Cherubini, who delivered a mass composition so profound and emotionally complex that even the stoniest of hearts (or bricks!) were left in awe!"
+    },
+    {
+      "section": "From opera to church music",
+      "title": "Les Abenc\u00e9rages",
+      "summary": "This heroic drama, set in Spain during the last days of the Moorish kingdom of Granada, was Cherubini's attempt to compete with Spontini's La vestale, receiving critical praise but few performances.",
+      "year": 1813,
+      "location": "Spain",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Picture this: a heroic drama in sunny Spain, where everyone thought 'Moor, please!' Cherubini, attempting to outshine Spontini's La vestale, received critical praise that didn't lead to many performances. Unfortunately, the audience ghosted him faster than a bad Tinder date!"
+    },
+    {
+      "section": "Works",
+      "title": "String Quartet No. 1 in E-flat",
+      "summary": "Cherubini's String Quartet No. 1 in E-flat, written in 1814, marks his contributions to chamber music, demonstrating intricate counterpoint and melodious lines between instruments.",
+      "year": 1814,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Cherubini's String Quartet No. 1 in E-flat, written in 1814, is like the music version of an exquisite fine cheese \u2014 it ages beautifully! It demonstrates intricate counterpoint and melodious lines between instruments, making them seem like they're having delightful arguments about who plays the sweetest notes!"
+    },
+    {
+      "section": "Works",
+      "title": "Overture in G",
+      "summary": "The Overture in G is one of Cherubini's orchestral works, composed in 1815. It showcases his ability to create engaging and dynamic orchestral music that sets the tone for future compositions.",
+      "year": 1815,
+      "location": "",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Did you know that Cherubini composed the Overture in G back in 1815? It was so good that even the violins couldn't help but dance! This piece is like the musical version of a rollercoaster, showcasing his ability to create engaging and dynamic orchestral music while taking us through all the ups and downs of orchestral highs and lows, setting the stage for his future masterpieces."
+    },
+    {
+      "section": "Works",
+      "title": "Symphony in D major",
+      "summary": "The Symphony in D major, completed in 1815, reflects Cherubini's exploration of symphonic form and orchestration during this period of his career.",
+      "year": 1815,
+      "location": "",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "The Symphony in D major, completed in 1815, is essentially Cherubini's way of saying, 'Look, I can do this symphony thing too!' It reflects his exploration of symphonic form and orchestration during this period of his career."
+    },
+    {
+      "section": "Works",
+      "title": "Mass (4th messe solennelle) in C",
+      "summary": "The mass in C, completed in 1816, showcases Cherubini's ability to create engaging liturgical music that is both respectful and innovative.",
+      "year": 1816,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "The mass in C, finished in 1816, is like Cherubini\u2019s little secret: a liturgical jam session that showcases his ability to create engaging music that is both respectful and innovative! More engaging than a cat video, and no cats were harmed in the making!"
+    },
+    {
+      "section": "From opera to church music",
+      "title": "Requiem in C minor",
+      "summary": "Commemorating the anniversary of the execution of King Louis XVI of France, this work achieved huge success and was greatly admired by Beethoven, Schumann, and Brahms.",
+      "year": 1816,
+      "location": "France",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Gather 'round everyone! We're throwing a party to commemorate the anniversary of the execution of King Louis XVI\u2014who made a stylish exit from the throne\u2014literally! This shindig was such a hit that even Beethoven, Schumann, and Brahms were nodding their heads in musical agreement!"
+    },
+    {
+      "section": "Works",
+      "title": "Mass in G for the Coronation of Louis XVIII",
+      "summary": "This mass, composed in 1819, was written for a significant state occasion, highlighting Cherubini's role within the political context of his time through music.",
+      "year": 1819,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Picture this: Cherubini couldn\u2019t resist throwing a musical party in 1819 because who doesn't love a good state occasion? He\u2019s like the DJ of political events, spinning the tunes that make the politicians groove and dance! This mass, however, was not just a bash; it highlighted Cherubini's crucial role in the political landscape of his time through his music."
+    },
+    {
+      "section": "Works",
+      "title": "Marche fun\u00e8bre",
+      "summary": "Composed in 1820, the Marche fun\u00e8bre is a solemn piece that exemplifies Cherubini's mastery in creating music with emotional depth and the appropriate gravitas for memorial contexts.",
+      "year": 1820,
+      "location": "",
+      "emoji": "\ud83d\udd6f\ufe0f",
+      "fun_version": "Composed in 1820, the Marche fun\u00e8bre is a solemn piece that exemplifies Cherubini's mastery in creating music with emotional depth, making it the perfect soundtrack for memorial contexts!"
+    },
+    {
+      "section": "Later years and legacy",
+      "title": "Director of the Conservatoire",
+      "summary": "In 1822, Cherubini became the director of the Conservatoire, where he had a significant influence on music education in France. His leadership role at the Conservatoire was marked by conflicts, particularly with Hector Berlioz, highlighting differing artistic views during that era.",
+      "year": 1822,
+      "location": "Paris, France",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1822, Cherubini became the director of the Conservatoire, taking charge like a conductor who insists on waving their baton at unsuspecting musicians. His significant influence on music education in France was remarkable\u2014though some might argue his leadership style involved more drama than a Mozart opera! But what really stole the show were the creative clashes with Hector Berlioz, highlighting differing artistic views during that era, leading to quite the artistic tug-of-war!"
+    },
+    {
+      "section": "Works",
+      "title": "Messe solennelle in A for the Coronation of Charles X",
+      "summary": "Composed in 1825, this solemn mass reflects Cherubini's continued prominence in sacred music during the French monarchy period.",
+      "year": 1825,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Composed in 1825, this solemn mass reflects Cherubini\u2019s prominence in sacred music during the French monarchy period\u2014back when politicians wore wigs big enough to house a small family of mice!"
+    },
+    {
+      "section": "Works",
+      "title": "String Quartet No. 2 in C",
+      "summary": "This string quartet, completed in 1829, is a transcription of an earlier symphony with a new second movement, showcasing Cherubini's adaptability in his compositions.",
+      "year": 1829,
+      "location": "",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "This string quartet, completed in 1829, is like Cherubini playing musical hide and seek. He took an earlier symphony, added a shiny new second movement, and poof! Adaptability at its finest, because who doesn\u2019t love a good remix?"
+    },
+    {
+      "section": "Works",
+      "title": "String Quartet No. 3 in D minor",
+      "summary": "Written in 1834, this string quartet reveals Cherubini's continued evolution in chamber music, characterized by its expressive depth and innovative structure.",
+      "year": 1834,
+      "location": "",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "Written in 1834, this string quartet by Cherubini is like the fine wine of chamber music\u2014it's been aging gracefully, proving that good things get better with time! With more expressive depth than a soap opera and a structure so innovative that even modern architects are taking notes. This quartet reveals Cherubini's continued evolution in chamber music."
+    },
+    {
+      "section": "Later years and legacy",
+      "title": "Completion of Textbook",
+      "summary": "Cherubini completed his influential textbook, Cours de contrepoint et de fugue, in 1835. This work contributed to the education of musicians and the understanding of counterpoint and fugue, cementing his legacy as an educator and composer.",
+      "year": 1835,
+      "location": "France",
+      "emoji": "\ud83d\udcda",
+      "fun_version": "Cherubini wrapped up his legendary textbook, Cours de contrepoint et de fugue, in 1835! This influential work didn\u2019t just throw some notes around; it whipped musicians into shape, enlightening their understanding of the delicate dance of counterpoint and fugue \u2014 ensuring Cherubini\u2019s esteemed legacy as an educator and composer sticks in the musical hall of fame."
+    },
+    {
+      "section": "Works",
+      "title": "String Quartet No. 4 in E",
+      "summary": "The String Quartet No. 4 in E, composed in 1835, is noted for its lyrical qualities and sophisticated interplay between instruments, reflecting Cherubini's artistic maturity.",
+      "year": 1835,
+      "location": "",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "The String Quartet No. 4 in E, composed in 1835, is like a musical version of a perfectly baked souffl\u00e9. It rises to the occasion with lyrical qualities so smooth that the instruments engage in sophisticated banter, reflecting Cherubini\u2019s artistic maturity."
+    },
+    {
+      "section": "Works",
+      "title": "String Quartet No. 5 in F",
+      "summary": "Also composed in 1835, this quartet incorporates rich harmonic textures and conversation-like exchanges among instruments, exemplifying Cherubini's command of the form.",
+      "year": 1835,
+      "location": "",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "Composed in 1835, this quartet is like a dinner party for instruments, where the violins gossip and the cellos serve dessert. Cherubini's command of the form shines through with rich harmonic textures and conversational exchanges that rival the chattiest of friends!"
+    },
+    {
+      "section": "From opera to church music",
+      "title": "Requiem in D minor",
+      "summary": "Written in 1836 to be performed at his own funeral, this piece was notable for its use of a male choir only, following religious criticism of his earlier work's use of female voices.",
+      "year": 1836,
+      "location": "France",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Written in 1836 to be performed at his own funeral, this piece is famous for having a male choir only. I guess he thought the females would steal the spotlight or maybe they just couldn\u2019t hit those choir notes. This followed some serious religious criticism of his earlier work's use of female voices."
+    },
+    {
+      "section": "Works",
+      "title": "String Quartet No. 6 in A minor",
+      "summary": "Completed in 1837, this work continues Cherubini's exploration of the string quartet format, offering emotional contrasts and complex thematic development.",
+      "year": 1837,
+      "location": "",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "Completed back in 1837, this piece has Cherubini juggling a string quartet format like a cat with yarn. Expect emotional rollercoasters, dramatic twists, and complex thematic development!"
+    },
+    {
+      "section": "Works",
+      "title": "String Quintet in E minor",
+      "summary": "The String Quintet, written in 1837, utilizes a rich palette of string textures and is a testament to Cherubini's innovative use of ensemble forces in chamber music.",
+      "year": 1837,
+      "location": "",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "The String Quintet, composed in 1837 before people knew what binge-watching was, showcases a delightful m\u00e9lange of string textures that could make even the most stoic instrument break out into a jig! It's a testament to Cherubini's knack for ensemble forces in chamber music."
+    },
+    {
+      "section": "Later years and legacy",
+      "title": "Honorary Titles",
+      "summary": "During his lifetime, Cherubini received several prestigious honors, including the Chevalier de la L\u00e9gion d'honneur in 1814 and he was the first musician to be made Commandeur de la L\u00e9gion d'honneur in 1841, recognizing his substantial contributions to French music.",
+      "year": 1841,
+      "location": "France",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Once upon a time in a land full of berets and baguettes, a guy named Cherubini decided to collect honors like some people collect stamps. He scored the Chevalier de la L\u00e9gion d'honneur in 1814 \u2013 that's fancy French for 'You're doing great!' \u2013 and then became the first musician to snag the Commandeur de la L\u00e9gion d'honneur in 1841, recognizing his substantial contributions to French music."
+    },
+    {
+      "section": "Later years and legacy",
+      "title": "Portrait by Ingres",
+      "summary": "In 1841, the renowned artist Ingres created the most celebrated portrait of Cherubini, showcasing the composer's stature and contributions to music. This portrait reflects the mutual respect between Cherubini and contemporary artists, blending their artistic pursuits.",
+      "year": 1841,
+      "location": "France",
+      "emoji": "\ud83c\udfa8",
+      "fun_version": "In 1841, the famous artist Ingres created a celebrated portrait of Cherubini. This masterpiece demonstrates the profound respect artists have for one another and showcases Cherubini\u2019s stature and contributions to music."
+    },
+    {
+      "section": "Later years and legacy",
+      "title": "Death and Burial",
+      "summary": "Cherubini passed away in Paris in 1842 at age 81. He was buried at P\u00e8re Lachaise Cemetery, close to his friend Chopin, with a tomb designed by architect Achille Lecl\u00e8re, reflecting the impact of his life and work in music.",
+      "year": 1842,
+      "location": "P\u00e8re Lachaise Cemetery, Paris, France",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Cherubini passed away in Paris at the age of 81 in 1842. He was buried at P\u00e8 re Lachaise Cemetery, close to his friend Chopin. His tomb, designed by Achille Lecl\u00e8re, reflects his significant impact on music throughout his life."
+    }
+  ],
+  "works": [
+    {
+      "title": "Credo a 8 voci",
+      "imslp_url": "https://imslp.org/wiki/Credo_a_8_voci_(Cherubini,_Luigi)",
+      "year": 1778
+    },
+    {
+      "title": "Ninfa crudel",
+      "imslp_url": "https://imslp.org/wiki/Ninfa_crudel_(Cherubini,_Luigi)",
+      "year": 1783
+    },
+    {
+      "title": "D\u00e9mophoon",
+      "imslp_url": "https://imslp.org/wiki/D\u00e9mophoon_(Cherubini,_Luigi)",
+      "year": 1788
+    },
+    {
+      "title": "Capriccio in C major",
+      "imslp_url": "https://imslp.org/wiki/Capriccio_in_C_major_(Cherubini,_Luigi)",
+      "year": 1789
+    },
+    {
+      "title": "Lodo\u00efska",
+      "imslp_url": "https://imslp.org/wiki/Lodo\u00efska_(Cherubini,_Luigi)",
+      "year": 1791
+    },
+    {
+      "title": "Eliza",
+      "imslp_url": "https://imslp.org/wiki/Eliza_(Cherubini,_Luigi)",
+      "year": 1794
+    },
+    {
+      "title": "Hymne \u00e0 la Fraternit\u00e9",
+      "imslp_url": "https://imslp.org/wiki/Hymne_\u00e0_la_Fraternit\u00e9_(Cherubini,_Luigi)",
+      "year": 1794
+    },
+    {
+      "title": "Chant r\u00e9publicain pour la f\u00eate du 10 ao\u00fbt",
+      "imslp_url": "https://imslp.org/wiki/Chant_r\u00e9publicain_pour_la_f\u00eate_du_10_ao\u00fbt_(Cherubini,_Luigi)",
+      "year": 1795
+    },
+    {
+      "title": "M\u00e9d\u00e9e",
+      "imslp_url": "https://imslp.org/wiki/M\u00e9d\u00e9e_(Cherubini,_Luigi)",
+      "year": 1796
+    },
+    {
+      "title": "L'h\u00f4tellerie portugaise",
+      "imslp_url": "https://imslp.org/wiki/L'h\u00f4tellerie_portugaise_(Cherubini,_Luigi)",
+      "year": 1798
+    },
+    {
+      "title": "Les deux journ\u00e9es",
+      "imslp_url": "https://imslp.org/wiki/Les_deux_journ\u00e9es_(Cherubini,_Luigi)",
+      "year": 1799
+    },
+    {
+      "title": "Anacr\u00e9on",
+      "imslp_url": "https://imslp.org/wiki/Anacr\u00e9on_(Cherubini,_Luigi)",
+      "year": 1803
+    },
+    {
+      "title": "Chant sur la mort de Haydn",
+      "imslp_url": "https://imslp.org/wiki/Chant_sur_la_mort_de_Haydn_(Cherubini,_Luigi)",
+      "year": 1805
+    },
+    {
+      "title": "Mass in F major",
+      "imslp_url": "https://imslp.org/wiki/Mass_in_F_major_(Cherubini,_Luigi)",
+      "year": 1808
+    },
+    {
+      "title": "Missa solemnis No.2",
+      "imslp_url": "https://imslp.org/wiki/Missa_solemnis_No.2_(Cherubini,_Luigi)",
+      "year": 1811
+    },
+    {
+      "title": "Udite lacrimosi spiriti d'averno",
+      "imslp_url": "https://imslp.org/wiki/Udite_lacrimosi_spiriti_d'averno_(Cherubini,_Luigi)",
+      "year": 1811
+    },
+    {
+      "title": "Les Abenc\u00e9rages",
+      "imslp_url": "https://imslp.org/wiki/Les_Abenc\u00e9rages_(Cherubini,_Luigi)",
+      "year": 1813
+    },
+    {
+      "title": "Movement for String Quartet",
+      "imslp_url": "https://imslp.org/wiki/Movement_for_String_Quartet_(Cherubini,_Luigi)",
+      "year": 1814
+    },
+    {
+      "title": "String Quartet No.1",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1_(Cherubini,_Luigi)",
+      "year": 1814
+    },
+    {
+      "title": "Concert Overture",
+      "imslp_url": "https://imslp.org/wiki/Concert_Overture_(Cherubini,_Luigi)",
+      "year": 1815
+    },
+    {
+      "title": "Symphony in D major",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_D_major_(Cherubini,_Luigi)",
+      "year": 1815
+    },
+    {
+      "title": "Ecce panis angelorum",
+      "imslp_url": "https://imslp.org/wiki/Ecce_panis_angelorum_(Cherubini,_Luigi)",
+      "year": 1816
+    },
+    {
+      "title": "Iste die observabilis est Domini",
+      "imslp_url": "https://imslp.org/wiki/Iste_die_observabilis_est_Domini_(Cherubini,_Luigi)",
+      "year": 1816
+    },
+    {
+      "title": "Le mariage de Salomon",
+      "imslp_url": "https://imslp.org/wiki/Le_mariage_de_Salomon_(Cherubini,_Luigi)",
+      "year": 1816
+    },
+    {
+      "title": "Mass in C major",
+      "imslp_url": "https://imslp.org/wiki/Mass_in_C_major_(Cherubini,_Luigi)",
+      "year": 1816
+    },
+    {
+      "title": "O salutaris hostia in E-flat major",
+      "imslp_url": "https://imslp.org/wiki/O_salutaris_hostia_in_E-flat_major_(Cherubini,_Luigi)",
+      "year": 1816
+    },
+    {
+      "title": "Pater noster",
+      "imslp_url": "https://imslp.org/wiki/Pater_noster_(Cherubini,_Luigi)",
+      "year": 1816
+    },
+    {
+      "title": "Requiem in C minor",
+      "imslp_url": "https://imslp.org/wiki/Requiem_in_C_minor_(Cherubini,_Luigi)",
+      "year": 1816
+    },
+    {
+      "title": "Tantum ergo in A minor",
+      "imslp_url": "https://imslp.org/wiki/Tantum_ergo_in_A_minor_(Cherubini,_Luigi)",
+      "year": 1817
+    },
+    {
+      "title": "Tantum ergo in B-flat major",
+      "imslp_url": "https://imslp.org/wiki/Tantum_ergo_in_B-flat_major_(Cherubini,_Luigi)",
+      "year": 1817
+    },
+    {
+      "title": "Adjutor in opportunitatibus",
+      "imslp_url": "https://imslp.org/wiki/Adjutor_in_opportunitatibus_(Cherubini,_Luigi)",
+      "year": 1818
+    },
+    {
+      "title": "Alleluia O filii et filiae",
+      "imslp_url": "https://imslp.org/wiki/Alleluia_O_filii_et_filiae_(Cherubini,_Luigi)",
+      "year": 1818
+    },
+    {
+      "title": "O salutaris hostia No.1 in G major",
+      "imslp_url": "https://imslp.org/wiki/O_salutaris_hostia_No.1_in_G_major_(Cherubini,_Luigi)",
+      "year": 1818
+    },
+    {
+      "title": "Regina coeli",
+      "imslp_url": "https://imslp.org/wiki/Regina_coeli_(Cherubini,_Luigi)",
+      "year": 1818
+    },
+    {
+      "title": "Domine Dominus noster",
+      "imslp_url": "https://imslp.org/wiki/Domine_Dominus_noster_(Cherubini,_Luigi)",
+      "year": 1820
+    },
+    {
+      "title": "In paradisum deducant te angeli",
+      "imslp_url": "https://imslp.org/wiki/In_paradisum_deducant_te_angeli_(Cherubini,_Luigi)",
+      "year": 1820
+    },
+    {
+      "title": "O salutaris hostia in D major",
+      "imslp_url": "https://imslp.org/wiki/O_salutaris_hostia_in_D_major_(Cherubini,_Luigi)",
+      "year": 1821
+    },
+    {
+      "title": "O fons amoris",
+      "imslp_url": "https://imslp.org/wiki/O_fons_amoris_(Cherubini,_Luigi)",
+      "year": 1822
+    },
+    {
+      "title": "Inclina Domine",
+      "imslp_url": "https://imslp.org/wiki/Inclina_Domine_(Cherubini,_Luigi)",
+      "year": 1823
+    },
+    {
+      "title": "Adjutor et susceptor meus",
+      "imslp_url": "https://imslp.org/wiki/Adjutor_et_susceptor_meus_(Cherubini,_Luigi)",
+      "year": 1824
+    },
+    {
+      "title": "Adoremus in aeternum",
+      "imslp_url": "https://imslp.org/wiki/Adoremus_in_aeternum_(Cherubini,_Luigi)",
+      "year": 1824
+    },
+    {
+      "title": "Mass for the Coronation of Charles X",
+      "imslp_url": "https://imslp.org/wiki/Mass_for_the_Coronation_of_Charles_X_(Cherubini,_Luigi)",
+      "year": 1825
+    },
+    {
+      "title": "Missa solemnis No.3",
+      "imslp_url": "https://imslp.org/wiki/Missa_solemnis_No.3_(Cherubini,_Luigi)",
+      "year": 1825
+    },
+    {
+      "title": "Solo for Horn",
+      "imslp_url": "https://imslp.org/wiki/Solo_for_Horn_(Cherubini,_Luigi)",
+      "year": 1825
+    },
+    {
+      "title": "String Quartet No.5",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.5_(Cherubini,_Luigi)",
+      "year": 1825
+    },
+    {
+      "title": "O salutaris hostia in B-flat major",
+      "imslp_url": "https://imslp.org/wiki/O_salutaris_hostia_in_B-flat_major_(Cherubini,_Luigi)",
+      "year": 1826
+    },
+    {
+      "title": "O salutaris hostia No.2 in G major",
+      "imslp_url": "https://imslp.org/wiki/O_salutaris_hostia_No.2_in_G_major_(Cherubini,_Luigi)",
+      "year": 1827
+    },
+    {
+      "title": "Souvenir",
+      "imslp_url": "https://imslp.org/wiki/Souvenir_(Cherubini,_Luigi)",
+      "year": 1828
+    },
+    {
+      "title": "Esto mihi in Deum protectorem",
+      "imslp_url": "https://imslp.org/wiki/Esto_mihi_in_Deum_protectorem_(Cherubini,_Luigi)",
+      "year": 1829
+    },
+    {
+      "title": "String Quartet No.2",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2_(Cherubini,_Luigi)",
+      "year": 1829
+    },
+    {
+      "title": "Ali Baba",
+      "imslp_url": "https://imslp.org/wiki/Ali_Baba_(Cherubini,_Luigi)",
+      "year": 1834
+    },
+    {
+      "title": "String Quartet No.3",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.3_(Cherubini,_Luigi)",
+      "year": 1834
+    },
+    {
+      "title": "String Quartet No.4",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.4_(Cherubini,_Luigi)",
+      "year": 1834
+    },
+    {
+      "title": "String Quartet No.6",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.6_(Cherubini,_Luigi)",
+      "year": 1835
+    },
+    {
+      "title": "Requiem in D minor",
+      "imslp_url": "https://imslp.org/wiki/Requiem_in_D_minor_(Cherubini,_Luigi)",
+      "year": 1836
+    },
+    {
+      "title": "String Quintet in E minor",
+      "imslp_url": "https://imslp.org/wiki/String_Quintet_in_E_minor_(Cherubini,_Luigi)",
+      "year": 1837
+    },
+    {
+      "title": "Morceau de Basson pour lire \u00e0 livre ouvert",
+      "imslp_url": "https://imslp.org/wiki/Morceau_de_Basson_pour_lire_\u00e0_livre_ouvert_(Cherubini,_Luigi)",
+      "year": 1838
+    }
+  ]
+}

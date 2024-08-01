@@ -1,0 +1,425 @@
+{
+  "full_name": "Louis Moreau Gottschalk",
+  "first_names": "Louis Moreau",
+  "last_name": "Gottschalk",
+  "birth_year": 1829,
+  "death_year": 1869,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_Moreau_Gottschalk",
+  "events": [
+    {
+      "section": "Life and career",
+      "title": "Birth",
+      "summary": "Louis Moreau Gottschalk was born in New Orleans, Louisiana, into a family of mixed heritage that introduced him to various musical traditions at a young age. His environment played a significant role in shaping his musical abilities as he was recognized as a prodigy by the local bourgeois establishment.",
+      "year": 1829,
+      "location": "New Orleans, Louisiana",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Louis Moreau Gottschalk was born in New Orleans, Louisiana, into a family of mixed heritage, which sounds fancy, but really just means his relatives were a bit of a musical smorgasbord! His environment played a significant role in shaping his musical abilities as he was recognized as a prodigy by the local bourgeois establishment. It was like his family threw a musical potluck, and he was the kid who nailed the piano solo while everyone else was trying to figure out the tambourine. His environment was so musical that he practically had a concert hall for a backyard."
+    },
+    {
+      "section": "Life and career",
+      "title": "Public Debut",
+      "summary": "At the age of 11, Gottschalk made his informal public debut at the St. Charles Hotel, showcasing his talent to the New Orleans audience.",
+      "year": 1840,
+      "location": "New Orleans, Louisiana",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "At the age of 11, Gottschalk was so talented that he made his not-so-official public debut at the St. Charles Hotel, dazzling the New Orleans audience. Who knew this young prodigy could steal the show without a cape?"
+    },
+    {
+      "section": "Life and career",
+      "title": "Europe",
+      "summary": "Gottschalk left the United States at the age of 13, seeking classical training in Europe to fulfill his musical ambitions. He faced rejection from the Paris Conservatoire due to his nationality but eventually accessed the musical establishment through influential friends.",
+      "year": 1841,
+      "location": "Europe",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Gottschalk, at the age of 13, sought classical training in Europe to fulfill his musical ambitions. He faced rejection from the Paris Conservatoire due to his nationality but eventually managed to wiggle his way into the elite music club thanks to some well-placed friends."
+    },
+    {
+      "section": "Life and career",
+      "title": "Cuba and South America Tours",
+      "summary": "After returning to the U.S., Gottschalk embarked on extensive travels, including a significant sojourn in Cuba which began his exploration of Central and South America, profoundly influencing his compositions.",
+      "year": 1853,
+      "location": "Cuba",
+      "emoji": "\ud83c\udf0e",
+      "fun_version": "After making a grand return to the U.S., Gottschalk decided wandering was his new hobby. He took a very important vacation in Cuba, thinking it would be a blast. This magical trip led him on an adventurous quest across Central and South America, profoundly influencing his compositions with all the spicy salsa vibes and rhythmic tango moves he could handle!"
+    },
+    {
+      "section": "Life and career",
+      "title": "Composition of Souvenir de Porto Rico",
+      "summary": "During his travels, Gottschalk composed 'Souvenir de Porto Rico,' inspired by the music he encountered in Puerto Rico, reflecting his integration of local musical forms.",
+      "year": 1857,
+      "location": "Puerto Rico",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "During his travels, Gottschalk composed 'Souvenir de Porto Rico,' inspired by the music he encountered in Puerto Rico\u2014essentially, he was taking musical souvenirs. Who knew that music could pack so much luggage? His works really reflect his clever integration of local musical forms."
+    },
+    {
+      "section": "Life and career",
+      "title": "Collapse from Illness",
+      "summary": "In a concert at the Teatro Lyrico Fluminense in Rio de Janeiro, Gottschalk collapsed due to yellow fever shortly after performing his work, Morte!, illustrating the tragic end of his performing career.",
+      "year": 1869,
+      "location": "Rio de Janeiro, Brazil",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "In a surprising twist at the glamorous Teatro Lyrico Fluminense in Rio de Janeiro, after delivering a performance so riveting it could raise the dead, Gottschalk suddenly decided to take an unplanned nap due to a misunderstanding with yellow fever. Who knew his work \u2018Morte!\u2019 would become an instruction manual instead of a concert piece, illustrating the unpredictable nature of a performer's life?"
+    },
+    {
+      "section": "Life and career",
+      "title": "Death",
+      "summary": "Gottschalk died at the age of 40 in his hotel in Tijuca, likely from complications related to his illness, marking the end of a prolific musical career.",
+      "year": 1869,
+      "location": "Tijuca, Rio de Janeiro",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Gottschalk died at the age of 40 in his hotel in Tijuca, concluding a prolific musical career."
+    }
+  ],
+  "works": [
+    {
+      "title": "Bamboula, Op.2",
+      "imslp_url": "https://imslp.org/wiki/Bamboula,_Op.2_(Gottschalk,_Louis_Moreau)",
+      "year": 1844
+    },
+    {
+      "title": "La Savane, Op.3",
+      "imslp_url": "https://imslp.org/wiki/La_Savane,_Op.3_(Gottschalk,_Louis_Moreau)",
+      "year": 1845
+    },
+    {
+      "title": "Le bananier, Op.5",
+      "imslp_url": "https://imslp.org/wiki/Le_bananier,_Op.5_(Gottschalk,_Louis_Moreau)",
+      "year": 1845
+    },
+    {
+      "title": "Souvenir des Ardennes",
+      "imslp_url": "https://imslp.org/wiki/Souvenir_des_Ardennes_(Gottschalk,_Louis_Moreau)",
+      "year": 1846
+    },
+    {
+      "title": "Le mancenillier, Op.11",
+      "imslp_url": "https://imslp.org/wiki/Le_mancenillier,_Op.11_(Gottschalk,_Louis_Moreau)",
+      "year": 1848
+    },
+    {
+      "title": "Danse ossianique, Op.12",
+      "imslp_url": "https://imslp.org/wiki/Danse_ossianique,_Op.12_(Gottschalk,_Louis_Moreau)",
+      "year": 1850
+    },
+    {
+      "title": "Grand caprice et variations sur 'Le carnaval de Venise', Op.89",
+      "imslp_url": "https://imslp.org/wiki/Grand_caprice_et_variations_sur_'Le_carnaval_de_Venise',_Op.89_(Gottschalk,_Louis_Moreau)",
+      "year": 1850
+    },
+    {
+      "title": "Morceau de concert sur 'La chasse du jeune Henri', Op.10",
+      "imslp_url": "https://imslp.org/wiki/Morceau_de_concert_sur_'La_chasse_du_jeune_Henri',_Op.10_(Gottschalk,_Louis_Moreau)",
+      "year": 1850
+    },
+    {
+      "title": "Ossian, Op.4",
+      "imslp_url": "https://imslp.org/wiki/Ossian,_Op.4_(Gottschalk,_Louis_Moreau)",
+      "year": 1850
+    },
+    {
+      "title": "Capricho espa\u00f1ol",
+      "imslp_url": "https://imslp.org/wiki/Capricho_espa\u00f1ol_(Gottschalk,_Louis_Moreau)",
+      "year": 1851
+    },
+    {
+      "title": "Scherzo romantique, Op.73",
+      "imslp_url": "https://imslp.org/wiki/Scherzo_romantique,_Op.73_(Gottschalk,_Louis_Moreau)",
+      "year": 1851
+    },
+    {
+      "title": "Souvenirs d'Andalousie, Op.22",
+      "imslp_url": "https://imslp.org/wiki/Souvenirs_d'Andalousie,_Op.22_(Gottschalk,_Louis_Moreau)",
+      "year": 1851
+    },
+    {
+      "title": "La jota aragonesa, Op.14",
+      "imslp_url": "https://imslp.org/wiki/La_jota_aragonesa,_Op.14_(Gottschalk,_Louis_Moreau)",
+      "year": 1852
+    },
+    {
+      "title": "Minuit \u00e0 S\u00e9ville, Op.30",
+      "imslp_url": "https://imslp.org/wiki/Minuit_\u00e0_S\u00e9ville,_Op.30_(Gottschalk,_Louis_Moreau)",
+      "year": 1852
+    },
+    {
+      "title": "Banjo No.2, Op.82",
+      "imslp_url": "https://imslp.org/wiki/Banjo_No.2,_Op.82_(Gottschalk,_Louis_Moreau)",
+      "year": 1853
+    },
+    {
+      "title": "El cocoy\u00e9, Op.80",
+      "imslp_url": "https://imslp.org/wiki/El_cocoy\u00e9,_Op.80_(Gottschalk,_Louis_Moreau)",
+      "year": 1853
+    },
+    {
+      "title": "Manchega, Op.38",
+      "imslp_url": "https://imslp.org/wiki/Manchega,_Op.38_(Gottschalk,_Louis_Moreau)",
+      "year": 1853
+    },
+    {
+      "title": "Marche fun\u00e8bre, Op.61",
+      "imslp_url": "https://imslp.org/wiki/Marche_fun\u00e8bre,_Op.61_(Gottschalk,_Louis_Moreau)",
+      "year": 1853
+    },
+    {
+      "title": "The Water Sprite, Op.27",
+      "imslp_url": "https://imslp.org/wiki/The_Water_Sprite,_Op.27_(Gottschalk,_Louis_Moreau)",
+      "year": 1853
+    },
+    {
+      "title": "Le banjo, Op.15",
+      "imslp_url": "https://imslp.org/wiki/Le_banjo,_Op.15_(Gottschalk,_Louis_Moreau)",
+      "year": 1854
+    },
+    {
+      "title": "Tournament Galop",
+      "imslp_url": "https://imslp.org/wiki/Tournament_Galop_(Gottschalk,_Louis_Moreau)",
+      "year": 1854
+    },
+    {
+      "title": "Printemps d'amour, Op.40",
+      "imslp_url": "https://imslp.org/wiki/Printemps_d'amour,_Op.40_(Gottschalk,_Louis_Moreau)",
+      "year": 1855
+    },
+    {
+      "title": "Solitude, Op.65",
+      "imslp_url": "https://imslp.org/wiki/Solitude,_Op.65_(Gottschalk,_Louis_Moreau)",
+      "year": 1855
+    },
+    {
+      "title": "Caprice-polka, Op.79",
+      "imslp_url": "https://imslp.org/wiki/Caprice-polka,_Op.79_(Gottschalk,_Louis_Moreau)",
+      "year": 1856
+    },
+    {
+      "title": "Miserere du 'Trovatore', Op.52",
+      "imslp_url": "https://imslp.org/wiki/Miserere_du_'Trovatore',_Op.52_(Gottschalk,_Louis_Moreau)",
+      "year": 1856
+    },
+    {
+      "title": "Pens\u00e9e po\u00e9tique, Op.62",
+      "imslp_url": "https://imslp.org/wiki/Pens\u00e9e_po\u00e9tique,_Op.62_(Gottschalk,_Louis_Moreau)",
+      "year": 1856
+    },
+    {
+      "title": "Danza, Op.33",
+      "imslp_url": "https://imslp.org/wiki/Danza,_Op.33_(Gottschalk,_Louis_Moreau)",
+      "year": 1857
+    },
+    {
+      "title": "Souvenir de Porto Rico, Op.31",
+      "imslp_url": "https://imslp.org/wiki/Souvenir_de_Porto_Rico,_Op.31_(Gottschalk,_Louis_Moreau)",
+      "year": 1857
+    },
+    {
+      "title": "Apoth\u00e9ose, Op.29",
+      "imslp_url": "https://imslp.org/wiki/Apoth\u00e9ose,_Op.29_(Gottschalk,_Louis_Moreau)",
+      "year": 1858
+    },
+    {
+      "title": "Grande tarantelle, Op.67",
+      "imslp_url": "https://imslp.org/wiki/Grande_tarantelle,_Op.67_(Gottschalk,_Louis_Moreau)",
+      "year": 1858
+    },
+    {
+      "title": "Symphony No.1, RO255",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.1,_RO255_(Gottschalk,_Louis_Moreau)",
+      "year": 1858
+    },
+    {
+      "title": "Chant de guerre, Op.78",
+      "imslp_url": "https://imslp.org/wiki/Chant_de_guerre,_Op.78_(Gottschalk,_Louis_Moreau)",
+      "year": 1859
+    },
+    {
+      "title": "Columbia, Op.34",
+      "imslp_url": "https://imslp.org/wiki/Columbia,_Op.34_(Gottschalk,_Louis_Moreau)",
+      "year": 1859
+    },
+    {
+      "title": "Fairy Land",
+      "imslp_url": "https://imslp.org/wiki/Fairy_Land_(Gottschalk,_Louis_Moreau)",
+      "year": 1859
+    },
+    {
+      "title": "Fant\u00f4me de bonheur, Op.36",
+      "imslp_url": "https://imslp.org/wiki/Fant\u00f4me_de_bonheur,_Op.36_(Gottschalk,_Louis_Moreau)",
+      "year": 1859
+    },
+    {
+      "title": "Hurrah Galop",
+      "imslp_url": "https://imslp.org/wiki/Hurrah_Galop_(Gottschalk,_Louis_Moreau)",
+      "year": 1859
+    },
+    {
+      "title": "Jeunesse, Op.70",
+      "imslp_url": "https://imslp.org/wiki/Jeunesse,_Op.70_(Gottschalk,_Louis_Moreau)",
+      "year": 1859
+    },
+    {
+      "title": "La favorita, Op.68",
+      "imslp_url": "https://imslp.org/wiki/La_favorita,_Op.68_(Gottschalk,_Louis_Moreau)",
+      "year": 1859
+    },
+    {
+      "title": "La gallina, Op.53",
+      "imslp_url": "https://imslp.org/wiki/La_gallina,_Op.53_(Gottschalk,_Louis_Moreau)",
+      "year": 1859
+    },
+    {
+      "title": "Love and Chivalry, Op.97",
+      "imslp_url": "https://imslp.org/wiki/Love_and_Chivalry,_Op.97_(Gottschalk,_Louis_Moreau)",
+      "year": 1859
+    },
+    {
+      "title": "Ojos criollos, Op.37",
+      "imslp_url": "https://imslp.org/wiki/Ojos_criollos,_Op.37_(Gottschalk,_Louis_Moreau)",
+      "year": 1859
+    },
+    {
+      "title": "Pastorella e cavalliere, Op.32",
+      "imslp_url": "https://imslp.org/wiki/Pastorella_e_cavalliere,_Op.32_(Gottschalk,_Louis_Moreau)",
+      "year": 1859
+    },
+    {
+      "title": "R\u00e9ponds-moi, Op.50",
+      "imslp_url": "https://imslp.org/wiki/R\u00e9ponds-moi,_Op.50_(Gottschalk,_Louis_Moreau)",
+      "year": 1859
+    },
+    {
+      "title": "Souvenir de la Havane, Op.39",
+      "imslp_url": "https://imslp.org/wiki/Souvenir_de_la_Havane,_Op.39_(Gottschalk,_Louis_Moreau)",
+      "year": 1859
+    },
+    {
+      "title": "Berceuse, Op.47",
+      "imslp_url": "https://imslp.org/wiki/Berceuse,_Op.47_(Gottschalk,_Louis_Moreau)",
+      "year": 1860
+    },
+    {
+      "title": "Drums and Cannon, RO74",
+      "imslp_url": "https://imslp.org/wiki/Drums_and_Cannon,_RO74_(Gottschalk,_Louis_Moreau)",
+      "year": 1861
+    },
+    {
+      "title": "Polonia, Op.43",
+      "imslp_url": "https://imslp.org/wiki/Polonia,_Op.43_(Gottschalk,_Louis_Moreau)",
+      "year": 1861
+    },
+    {
+      "title": "Slumber on Baby, Dear",
+      "imslp_url": "https://imslp.org/wiki/Slumber_on_Baby,_Dear_(Gottschalk,_Louis_Moreau)",
+      "year": 1861
+    },
+    {
+      "title": "Suis moi!, Op.45",
+      "imslp_url": "https://imslp.org/wiki/Suis_moi!,_Op.45_(Gottschalk,_Louis_Moreau)",
+      "year": 1861
+    },
+    {
+      "title": "\u00d4 ma charmante, \u00e9pargnez moi!, Op.44",
+      "imslp_url": "https://imslp.org/wiki/\u00d4_ma_charmante,_\u00e9pargnez_moi!,_Op.44_(Gottschalk,_Louis_Moreau)",
+      "year": 1861
+    },
+    {
+      "title": "Illusions perdues",
+      "imslp_url": "https://imslp.org/wiki/Illusions_perdues_(Gottschalk,_Louis_Moreau)",
+      "year": 1862
+    },
+    {
+      "title": "Pensive, Op.68",
+      "imslp_url": "https://imslp.org/wiki/Pensive,_Op.68_(Gottschalk,_Louis_Moreau)",
+      "year": 1862
+    },
+    {
+      "title": "Union, Op.48",
+      "imslp_url": "https://imslp.org/wiki/Union,_Op.48_(Gottschalk,_Louis_Moreau)",
+      "year": 1862
+    },
+    {
+      "title": "Battle Cry of Freedom, Op.55",
+      "imslp_url": "https://imslp.org/wiki/Battle_Cry_of_Freedom,_Op.55_(Gottschalk,_Louis_Moreau)",
+      "year": 1863
+    },
+    {
+      "title": "O Loving Heart, Trust On",
+      "imslp_url": "https://imslp.org/wiki/O_Loving_Heart,_Trust_On_(Gottschalk,_Louis_Moreau)",
+      "year": 1863
+    },
+    {
+      "title": "La colombe, Op.49",
+      "imslp_url": "https://imslp.org/wiki/La_colombe,_Op.49_(Gottschalk,_Louis_Moreau)",
+      "year": 1864
+    },
+    {
+      "title": "Orfa, Op.71",
+      "imslp_url": "https://imslp.org/wiki/Orfa,_Op.71_(Gottschalk,_Louis_Moreau)",
+      "year": 1864
+    },
+    {
+      "title": "The Dying Poet, Op.110",
+      "imslp_url": "https://imslp.org/wiki/The_Dying_Poet,_Op.110_(Gottschalk,_Louis_Moreau)",
+      "year": 1864
+    },
+    {
+      "title": "Ses yeux, Op.66",
+      "imslp_url": "https://imslp.org/wiki/Ses_yeux,_Op.66_(Gottschalk,_Louis_Moreau)",
+      "year": 1865
+    },
+    {
+      "title": "Marche solennelle, RO154",
+      "imslp_url": "https://imslp.org/wiki/Marche_solennelle,_RO154_(Gottschalk,_Louis_Moreau)",
+      "year": 1866
+    },
+    {
+      "title": "Mazurka rustique, Op.81",
+      "imslp_url": "https://imslp.org/wiki/Mazurka_rustique,_Op.81_(Gottschalk,_Louis_Moreau)",
+      "year": 1867
+    },
+    {
+      "title": "Dernier amour, Op.63",
+      "imslp_url": "https://imslp.org/wiki/Dernier_amour,_Op.63_(Gottschalk,_Louis_Moreau)",
+      "year": 1868
+    },
+    {
+      "title": "Morte!!, Op.60",
+      "imslp_url": "https://imslp.org/wiki/Morte!!,_Op.60_(Gottschalk,_Louis_Moreau)",
+      "year": 1868
+    },
+    {
+      "title": "Tremolo, Op.58",
+      "imslp_url": "https://imslp.org/wiki/Tremolo,_Op.58_(Gottschalk,_Louis_Moreau)",
+      "year": 1868
+    },
+    {
+      "title": "Forget Me Not",
+      "imslp_url": "https://imslp.org/wiki/Forget_Me_Not_(Gottschalk,_Louis_Moreau)",
+      "year": 1869
+    },
+    {
+      "title": "Grand scherzo, Op.57",
+      "imslp_url": "https://imslp.org/wiki/Grand_scherzo,_Op.57_(Gottschalk,_Louis_Moreau)",
+      "year": 1869
+    },
+    {
+      "title": "Grande fantaisie triomphale sur l'hymne national br\u00e9silien, Op.69",
+      "imslp_url": "https://imslp.org/wiki/Grande_fantaisie_triomphale_sur_l'hymne_national_br\u00e9silien,_Op.69_(Gottschalk,_Louis_Moreau)",
+      "year": 1869
+    },
+    {
+      "title": "Impromptu, Op.54",
+      "imslp_url": "https://imslp.org/wiki/Impromptu,_Op.54_(Gottschalk,_Louis_Moreau)",
+      "year": 1869
+    },
+    {
+      "title": "Pasquinade, Op.59",
+      "imslp_url": "https://imslp.org/wiki/Pasquinade,_Op.59_(Gottschalk,_Louis_Moreau)",
+      "year": 1869
+    },
+    {
+      "title": "Variations de concert sur l\u2019hymne portugais, Op.91",
+      "imslp_url": "https://imslp.org/wiki/Variations_de_concert_sur_l\u2019hymne_portugais,_Op.91_(Gottschalk,_Louis_Moreau)",
+      "year": 1869
+    }
+  ]
+}

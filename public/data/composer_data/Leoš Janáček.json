@@ -7,430 +7,439 @@
   "wikipedia_url": "https://en.wikipedia.org/wiki/Leo\u0161_Jan\u00e1\u010dek",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Leo\u0161 Jan\u00e1\u010dek entered the world in Hukvaldy with a grand entrance on 3 July, 1854, proving from the start that he was destined to create music that would echo across centuries, even if his early life was filled with the usual sibling squabbling.",
+      "section": "Biography",
+      "title": "Birth",
+      "summary": "Leo\u0161 Jan\u00e1\u010dek was born in Hukvaldy, Moravia, as the son of schoolmaster Ji\u0159\u00ed Jan\u00e1\u010dek and Amalie Jan\u00e1\u010dkov\u00e1. He was born into a family of limited means but showed early musical talent in choral singing.",
       "year": 1854,
-      "city": "Hukvaldy",
-      "country": "Austria"
+      "location": "Hukvaldy, Moravia",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Leo\u0161 Jan\u00e1\u010dek was born in Hukvaldy, Moravia, to a schoolmaster and his understanding wife, Amalie. Born into limited means, Leo\u0161 showed early musical talent in choral singing and took to music like a duck to water!"
     },
     {
-      "event": "Marriage",
-      "summary": "In a romantic twist befitting an opera, Jan\u00e1\u010dek tied the knot with his music pupil Zdenka Schulzov\u00e1 on 13 July, 1881, perhaps thinking it would inspire more love songs - spoiler alert: it did, but not without drama!",
+      "section": "Biography",
+      "title": "Graduation from Prague Organ School",
+      "summary": "Despite a challenging academic journey, Jan\u00e1\u010dek graduated with the best results in his class from the Prague organ school, marking a key milestone in his education and early career.",
+      "year": 1875,
+      "location": "Prague",
+      "emoji": "\ud83c\udf93",
+      "fun_version": "After a rollercoaster ride through academia that involved late-night coffee binges and intense organ practice sessions, Jan\u00e1\u010dek proudly strutted out of the Prague organ school with the best results in his class, marking a key milestone in his education. I guess the only thing more surprising than his graduation is how long it took him to hit all the right keys!"
+    },
+    {
+      "section": "Inspiration",
+      "title": "Composition of Death",
+      "summary": "At the age of twenty-two, Jan\u00e1\u010dek composed a melodrama named Death, inspired by the poem of Lermontov, marking an early use of Russian themes in his work.",
       "year": 1881,
-      "city": "Brno",
-      "country": "Czech Republic"
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "At the age of twenty-two, Jan\u00e1\u010dek composed a melodrama titled 'Death'\u2014you know, just your average teenage angst but with more dramatic flair and less social media. Inspired by Lermontov's poetry, it was an early instance of Russian themes crashing the party in the Czech lands, marking an early use of Russian vibes in his works!"
     },
     {
-      "event": "Director of Organ School",
-      "summary": "Jan\u00e1\u010dek took the helm as the director of the Brno organ school in 1881, proving that he wasn't just a composer but also a big cheese in the educational world - move over, teachers, there\u2019s a new maestro in town!",
+      "section": "Biography",
+      "title": "Establishment of the Organ School",
+      "summary": "Jan\u00e1\u010dek founded and became the director of the organ school in Brno, a position he held until 1919, contributing to the music education landscape in the region.",
       "year": 1881,
-      "city": "Brno",
-      "country": "Czech Republic"
+      "location": "Brno",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Jan\u00e1\u010dek decided he wanted to be the grand poobah of organ music in Brno, so he opened an organ school, contributing to the music education landscape in the region for a solid 19 years until 1919, constantly battling the powerful forces of silence in the music education jungle!"
     },
     {
-      "event": "Jen\u016ffa Premiere",
-      "summary": "After much anticipation, his opera Jen\u016ffa hit the stage in 1904. Despite earlier rejections, this time it made waves, proving that good things come to those who wait... and maybe whine a little.",
-      "year": 1904,
-      "city": "Brno",
-      "country": "Czech Republic"
+      "section": "Biography",
+      "title": "Marriage",
+      "summary": "Jan\u00e1\u010dek married his young pupil, Zdenka Schulzov\u00e1, marking a significant personal event in his life.",
+      "year": 1881,
+      "location": "Brno",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "Jan\u00e1\u010dek decided to tie the knot with his much younger pupil, Zdenka Schulzov\u00e1, marking a significant personal event in his life and proving that age is just a number\u2014especially when it's a really big one!"
     },
     {
-      "event": "Prague Premiere of Jen\u016ffa",
-      "summary": "Finally, in a triumphant moment, a revised edition of Jen\u016ffa was accepted in 1916 at the National Theatre in Prague, giving Jan\u00e1\u010dek the green light to waltz onto the global opera scene with flair!",
-      "year": 1916,
-      "city": "Prague",
-      "country": "Czech Republic"
+      "section": "Personality",
+      "title": "Resignation from Beseda brn\u011bnsk\u00e1",
+      "summary": "In 1881, Jan\u00e1\u010dek decided to give up his leading role with Beseda brn\u011bnsk\u00e1 in response to criticism he faced. However, the decline in the quality of performances at Beseda led to his recall in 1882. This event highlights his tumultuous relationship with the organization and the pressures he faced as a leader.",
+      "year": 1881,
+      "location": "Brno",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "In 1881, Jan\u00e1\u010dek decided to take a dramatic exit from his leading role with Beseda brn\u011bnsk\u00e1 in response to the criticism he faced\u2014who could blame him? But then the performances at Beseda started spiraling downwards. So, in 1882, they called him back, highlighting his tumultuous relationship with the organization, proving that when it comes to musical theaters, you can\u2019t just ditch your band; they\u2019ll just play out of tune until you return!"
     },
     {
-      "event": "Retirement from Directorship",
-      "summary": "In 1920, Jan\u00e1\u010dek hung up his hat as director of the Brno Conservatory, probably to focus on composing directly, as well as taking a well-deserved break from grading music papers!",
-      "year": 1920,
-      "city": "Brno",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Honorary Doctorate",
-      "summary": "In 1925, he was awarded the first honorary doctorate by Masaryk University, solidifying his status as a musical genius while also providing him a reason to wear a fancy hat at ceremonies.",
-      "year": 1925,
-      "city": "Brno",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Sinfonietta Composition",
-      "summary": "Jan\u00e1\u010dek composed his magnificent Sinfonietta in 1926, a work that quickly became the belle of the ball in orchestral music; who knew a few notes could create such a stir?",
-      "year": 1926,
-      "city": "Brno",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "First London Performance",
-      "summary": "Jan\u00e1\u010dek made a splash in London, and it was as if his music said, 'Greetings from Moravia!' with a windy sextet and a string quartet that had everyone tapping their toes and asking, 'What\u2019s next?'",
-      "year": 1926,
-      "city": "London",
-      "country": "England"
-    },
-    {
-      "event": "Concertino Premi\u00e8re",
-      "summary": "The world finally got to hear Jan\u00e1\u010dek's Concertino, and the musical chatter was all about how it was a delightful mix of instruments, just like a potluck dinner with surprisingly good results!",
-      "year": 1926,
-      "city": "Brno",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Capriccio Premiere",
-      "summary": "Jan\u00e1\u010dek premiered his Capriccio, a piece so unusual that one might think it was written for an orchestra of circus performers\u2014minus the elephants, of course!",
-      "year": 1928,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Sinfonietta's International Fame",
-      "summary": "The Sinfonietta saw its first performances in New York and Berlin, making Jan\u00e1\u010dek an international sensation, though he still wondered if they served good coffee at intermission!",
-      "year": 1927,
-      "city": "Multiple Cities",
-      "country": "Various"
-    },
-    {
-      "event": "Intimate Letters Composition",
-      "summary": "Jan\u00e1\u010dek dove into composing his 'Intimate Letters', a string quartet that doubled as a love letter\u2014he must have really liked string instruments!",
-      "year": 1928,
-      "city": "Brno",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Fateful Excursion",
-      "summary": "While on a seemingly innocent excursion to \u0160tramberk with Kamila, Jan\u00e1\u010dek caught a chill. One could say that he took the 'chill' part a bit too seriously!",
-      "year": 1928,
-      "city": "\u0160tramberk",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Death",
-      "summary": "Jan\u00e1\u010dek took his final bow in Ostrava, and one could almost hear his music echoing behind him as he departed the stage of life\u2014perhaps a dramatic exit was his way of saying 'Stay tuned!'",
-      "year": 1928,
-      "city": "Ostrava",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Folk Music Research",
-      "summary": "Jan\u00e1\u010dek took a plunge into the folk music world, collecting songs like a kid collecting candy. He became quite the anthropologist, gathering everything from Lachian melodies to sultry Slovakian tunes, showcasing a talent for transcribing speech intonations that would put even the best linguists to shame.",
-      "year": 1906,
-      "city": "Str\u00e1n\u00ed",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Establishing a School of Composition",
-      "summary": "In Brno, Jan\u00e1\u010dek decided it was time to share his genius\u2014like a chef excited to share a secret recipe. He educated a bevy of eager musicians, though it turns out many didn't bother following his unique sound, perhaps preferring to cook up their own!",
-      "year": 1920,
-      "city": "Brno",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Becoming President of the Working Committee for Czech National Folksong",
-      "summary": "In a bold power move, Jan\u00e1\u010dek assumed the presidency of the folksong committee, making him the big cheese in the world of Czech melodies. It was kind of like becoming the CEO of the Czech music industry with a flair for the dramatic and authentic.",
-      "year": 1905,
-      "city": "",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Phonograph Acquisition",
-      "summary": "When Jan\u00e1\u010dek acquired an Edison phonograph, he transformed into a true tech enthusiast of his time. He started recording folk songs, becoming one of the coolest ethnographers around and perhaps the first to say, 'Hey, let me just hit record on that catchy tune!'",
-      "year": 1909,
-      "city": "",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Publishing Theoretical Works",
-      "summary": "Jan\u00e1\u010dek dove into the world of music theory, publishing various works that might resemble a scholarly version of 'how to be a musical genius.' His writings became a treasure trove of wisdom, potentially helping others avoid hitting wrong notes in life and music!",
-      "year": 1885,
-      "city": "",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Operatic Breakthrough",
-      "summary": "With the debut of 'Jen\u016ffa', Jan\u00e1\u010dek burst onto the opera scene like a star should. The combination of dramatic music and themes made audiences gasp\u2014and his peers wonder how he pulled it off without a wand!",
-      "year": 1904,
-      "city": "",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Legacy of Chamber Music",
-      "summary": "Though not a musical hoarder, Jan\u00e1\u010dek contributed a few gems to the chamber music scene that have stood the test of time. His string quartets remain classics, proving that sometimes less is indeed more (unless you're talking about cookies, then more is more!).",
-      "year": 1924,
-      "city": "",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "First Public Performance",
-      "summary": "As a budding composer, Jan\u00e1\u010dek had his first public performance, likely surprising everyone by not just playing the piano, but doing so with the flair of a man who had just discovered the joy of creative expression \u2013 and coffee!",
-      "year": 1873,
-      "city": "Brno",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Founding the Czech Philharmonic",
-      "summary": "In a moment that can be described as both brave and remarkably optimistic, Jan\u00e1\u010dek co-founded the Czech Philharmonic, proving that even in music, if you build it, they might just come \u2013 with instruments!",
+      "section": "Inspiration",
+      "title": "Foundation of Russian Circle in Brno",
+      "summary": "In 1896, after his first visit to Russia, Jan\u00e1\u010dek founded a Russian Circle in Brno, showcasing his engagement with Russian culture and music.",
       "year": 1896,
-      "city": "Prague",
-      "country": "Czech Republic"
+      "location": "Brno",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1896, after his first visit to Russia, Jan\u00e1\u010dek founded a Russian Circle in Brno, showcasing his vibrant engagement with Russian culture and music, making waves that would forever change the cultural scene."
     },
     {
-      "event": "Premiere of Jen\u016ffa",
-      "summary": "Finally, his patience paid off when his opera 'Jen\u016ffa' premiered. It was a hit, leaving audiences wondering if it was the music or just Jan\u00e1\u010dek's charm that captivated them \u2013 spoiler alert: it was both!",
+      "section": "Personality",
+      "title": "Death of his daughter",
+      "summary": "The death of Jan\u00e1\u010dek's daughter, Olga, in 1903 caused a significant shift in his married life, which had previously been calm. This tragedy created increasing tension and difficulty for Jan\u00e1\u010dek and his wife, Zdenka, affecting both their personal and professional lives.",
+      "year": 1903,
+      "location": "",
+      "emoji": "\ud83d\ude22",
+      "fun_version": "In 1903, the tragic death of Jan\u00e1\u010dek's daughter, Olga, caused a significant shift in his married life, which had previously been calm. This event left the couple navigating an emotional rollercoaster, affecting both their personal and professional lives significantly."
+    },
+    {
+      "section": "Biography",
+      "title": "First Performance of Jen\u016ffa",
+      "summary": "The opera Jen\u016ffa, dedicated to his daughter, was performed in Brno, marking a significant achievement in Jan\u00e1\u010dek's compositional career despite his wish for broader recognition.",
       "year": 1904,
-      "city": "Brno",
-      "country": "Czech Republic"
+      "location": "Brno",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "So Jan\u00e1\u010dek, getting all sentimental, decided to dedicate his opera 'Jen\u016ffa' to his daughter. Not a sweet card or a pair of socks, but a whole opera! Performed in Brno, because why not? This was his way of saying, 'Look at me! I\u2019m a serious composer'. It was a significant achievement in his career, just before he realized he just wanted more fans!"
     },
     {
-      "event": "International Recognition",
-      "summary": "Jan\u00e1\u010dek's fame spread internationally, as he became a darling of the music world, securing invitations from Europe\u2019s finest. They say he wasn\u2019t just invited for his music; his wit and convivial nature were hard to resist as well!",
-      "year": 1914,
-      "city": "Prague",
-      "country": "Czech Republic"
+      "section": "Folk music research",
+      "title": "Working Committee for Czech National Folksong",
+      "summary": "In 1905, Jan\u00e1\u010dek was appointed President of the newly established Working Committee for Czech National Folksong in Moravia and Silesia, emphasizing his dedication to the collection and preservation of national folk music. This organization was a part of the Austrian institute Das Volkslied in \u00d6sterreich, which aimed to document and promote folk traditions in the region.",
+      "year": 1905,
+      "location": "Moravia and Silesia",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1905, Jan\u00e1\u010dek was appointed President of the newly established Working Committee for Czech National Folksong in Moravia and Silesia, emphasizing his dedication to the collection and preservation of national folk music. This organization was like the 'Austrian institute Das Volkslied in \u00d6sterreich'\u2014it aimed to document and promote folk traditions in the region."
     },
     {
-      "event": "Last Major Work",
-      "summary": "As he reached the twilight of his career, Jan\u00e1\u010dek produced his last major work, showing that he could still whip up musical masterpieces faster than a chef can whip up a souffl\u00e9 \u2013 but with arguably more emotional depth!",
-      "year": 1926,
-      "city": "Brno",
-      "country": "Czech Republic"
+      "section": "Folk music research",
+      "title": "Collecting Folksongs",
+      "summary": "On 19 August 1906, Leo\u0161 Jan\u00e1\u010dek was actively collecting folk songs in Str\u00e1n\u00ed, originating from a region known for its rich folk culture. This endeavor was sparked by his early influences, including his studies under Pavel K\u0159\u00ed\u017ekovsk\u00fd and a formative meeting with folklorist Franti\u0161ek Barto\u0161. The collaboration led to systematic collections.",
+      "year": 1906,
+      "location": "Str\u00e1n\u00ed",
+      "emoji": "\ud83c\udfb5",
+      "fun_version": "On 19 August 1906, Leo\u0161 Jan\u00e1\u010dek was happily collecting folk songs in Str\u00e1n\u00ed, a place well-known for its rich folk culture. This quirky adventure started from his early studies under Pavel K\u0159\u00ed\u017eovsk\u00fd and a formative meeting with folklorist Franti\u0161ek Barto\u0161. The pair\u2019s antics led to a systematic collection of tunes that would intrigue even Tchaikovsky."
+    },
+    {
+      "section": "Folk music research",
+      "title": "Use of Phonographic Recording",
+      "summary": "In October 1909, Jan\u00e1\u010dek acquired an Edison phonograph, marking a pioneering moment as he became one of the first individuals to utilize phonographic recording for folklore research. This groundbreaking approach allowed for the preservation and later reissue of several recording sessions.",
+      "year": 1909,
+      "location": null,
+      "emoji": "\ud83c\udfa4",
+      "fun_version": "In October 1909, Jan\u00e1\u010dek got his hands on an Edison phonograph, which is like giving a caveman a smartphone! He became one of the first individuals to utilize phonographic recording for folklore research, ensuring that the sounds of the past wouldn\u2019t just fade away. This groundbreaking approach allowed for the preservation and later reissue of several recording sessions."
+    },
+    {
+      "section": "Inspiration",
+      "title": "Composition of Fairy Tale for Cello and Piano",
+      "summary": "In 1910, Jan\u00e1\u010dek was inspired by Zhukovsky's Tale of Tsar Berendei to write the Fairy Tale for Cello and Piano, highlighting the influence of Russian literature on his compositions.",
+      "year": 1910,
+      "location": "",
+      "emoji": "\ud83d\udcd6",
+      "fun_version": "In 1910, Jan\u00e1\u010dek was inspired by Zhukovsky's Tale of Tsar Berendei to add some cello and piano magic to his music. It turns out Russian literature was like the fairy godmother of his compositions, sprinkling influence everywhere!"
+    },
+    {
+      "section": "Biography",
+      "title": "Major international recognition",
+      "summary": "Jan\u00e1\u010dek received widespread acclaim for the Prague premi\u00e9re of his opera Jen\u016ffa, which was revised and accepted by the National Theatre, significantly raising his profile as a composer.",
+      "year": 1916,
+      "location": "Prague",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Jan\u00e1\u010dek threw a big musical party in Prague for the premiere of his opera Jen\u016ffa, and let\u2019s just say it was such a hit that even the National Theatre grabbed it faster than a musician after a bottle of fine wine! His profile as a composer skyrocketed faster than a cat chased by a dog!"
+    },
+    {
+      "section": "Personality",
+      "title": "Success of Jen\u016ffa",
+      "summary": "In 1916, Jan\u00e1\u010dek achieved significant success when Karel Kova\u0159ovic decided to perform his opera Jen\u016ffa in Prague. This marked a turning point in Jan\u00e1\u010dek's career, introducing him to the Prague music scene and the attention of soprano Gabriela Horv\u00e1tov\u00e1.",
+      "year": 1916,
+      "location": "Prague",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "In 1916, Jan\u00e1\u010dek hit the jackpot when Karel Kova\u0159ovic decided to rock the opera world by putting on Jen\u016ffa in Prague! This marked a turning point in Jan\u00e1\u010dek's career. Suddenly, he found himself in the spotlight, mingling with the elite of the Prague music scene, and even caught the attention of the fabulous soprano Gabriela Horv\u00e1thov\u00e1."
+    },
+    {
+      "section": "Personality",
+      "title": "Passion for Kamila St\u00f6sslova",
+      "summary": "In 1917, Jan\u00e1\u010dek embarked on a lifelong and unrequited passion for Kamila St\u00f6sslova. Despite the lack of reciprocation, Jan\u00e1\u010dek's devotion was profound, and their correspondence reflected his longing. This relationship profoundly impacted his life and work.",
+      "year": 1917,
+      "location": "",
+      "emoji": "\u2764\ufe0f",
+      "fun_version": "Back in 1917, Jan\u00e1\u010dek fell head over heels for Kamila St\u00f6sslova \u2013 so much so that he probably tripped over his own heart! His letters to her were like love notes mixed with an emotional rollercoaster ride \u2013 full of ups and downs! This one-sided love story profoundly shaped his life and work, like a clay sculpture gone mysteriously wrong!"
+    },
+    {
+      "section": "Inspiration",
+      "title": "Composition of Taras Bulba",
+      "summary": "In 1918, Jan\u00e1\u010dek composed Taras Bulba, rhapsody based on Gogol's short story, reflecting his interest in Russian cultural themes.",
+      "year": 1918,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1918, Jan\u00e1\u010dek decided to compose 'Taras Bulba,' a rhapsody based on Gogol's short story. Why? Because who doesn\u2019t want to base their music on a guy named Taras? Just a regular Tuesday for a composer who found Russian culture fascinating!"
+    },
+    {
+      "section": "Inspiration",
+      "title": "Composition of K\u00e1\u0165a Kabanov\u00e1",
+      "summary": "In 1921, he composed the opera K\u00e1\u0165a Kabanov\u00e1, based on Alexander Ostrovsky's play The Storm, showcasing how Russian themes permeated his operatic works.",
+      "year": 1921,
+      "location": "",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "In 1921, he composed the opera K\u00e1\u0165a Kabanov\u00e1, which was so dramatic that even the curtains had an emotional breakdown! This masterpiece, based on Alexander Ostrovsky's play The Storm, brilliantly showcased how rich Russian themes permeated his operatic works."
+    },
+    {
+      "section": "Inspiration",
+      "title": "Completion of First String Quartet",
+      "summary": "In 1923, Jan\u00e1\u010dek completed his first string quartet, which was inspired by Tolstoy's Kreutzer Sonata, further emphasizing his connection to Russian literary works.",
+      "year": 1923,
+      "location": "",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "In 1923, Jan\u00e1\u010dek finally got fed up with silence and decided to give the world his first string quartet, inspired by Tolstoy's Kreutzer Sonata. It's like he read Tolstoy and thought, 'You know what would spice this up? A quartet!' It\u2019s a reminder of not just his musical genius but also his deep connection to Russian literary works!"
+    },
+    {
+      "section": "Personality",
+      "title": "Quarrel with Zdenka over Kamila",
+      "summary": "In 1927, a revelation about Jan\u00e1\u010dek's feelings for Kamila St\u00f6sslova led to a furious fight between him and Zdenka. Their living arrangements remained unchanged, as he persuaded her to stay despite the emotional turmoil.",
+      "year": 1927,
+      "location": "",
+      "emoji": "\ud83d\ude21",
+      "fun_version": "Despite the emotional turmoil of the knock-down, drag-out brawl, Jan\u00e1\u010dek persuaded Zdenka to keep living together after accidentally revealing his crush on Kamila St\u00f6sslova in 1927."
+    },
+    {
+      "section": "Inspiration",
+      "title": "Composition of From the House of the Dead",
+      "summary": "His final work, From the House of the Dead, was based on Dostoevsky's vision, transforming it into an exciting collective drama.",
+      "year": 1928,
+      "location": "",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "His last masterpiece, From the House of the Dead, is like Dostoevsky threw a party for all his sad characters. It's a thrilling collective drama where even the ghosts are having a great time!"
+    },
+    {
+      "section": "Biography",
+      "title": "Death",
+      "summary": "Jan\u00e1\u010dek died from pneumonia at the age of 74, after a brief illness, leading to a large public funeral reflecting his status as a celebrated composer.",
+      "year": 1928,
+      "location": "Ostrava",
+      "emoji": "\ud83c\udfb5",
+      "fun_version": "Jan\u00e1\u010dek passed away from pneumonia at the age of 74 after a brief illness. His public funeral was incredibly large, reflecting his status as a celebrated composer."
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/Adagio,_JW_6/5_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1891,
-      "title": "Adagio, JW 6/5"
+      "title": "Chor\u00e1ln\u00ed fantasie, JW 8/4",
+      "imslp_url": "https://imslp.org/wiki/Chor\u00e1ln\u00ed_fantasie,_JW_8/4_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1875
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Amarus,_JW_3/6_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1897,
-      "title": "Amarus, JW 3/6"
+      "title": "P\u0159edehra, JW 8/2",
+      "imslp_url": "https://imslp.org/wiki/P\u0159edehra,_JW_8/2_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1875
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Balada_Blanick%C3%A1,_JW_6/16_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1919,
-      "title": "Balada Blanick\u00e1, JW 6/16"
+      "title": "Varyto",
+      "imslp_url": "https://imslp.org/wiki/Varyto_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1875
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Capriccio_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1926,
-      "title": "Capriccio"
+      "title": "Idyla",
+      "imslp_url": "https://imslp.org/wiki/Idyla_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1878
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Chor%C3%A1ln%C3%AD_fantasie,_JW_8/4_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1875,
-      "title": "Chor\u00e1ln\u00ed fantasie, JW 8/4"
+      "title": "Romance for Violin and Piano",
+      "imslp_url": "https://imslp.org/wiki/Romance_for_Violin_and_Piano_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1879
     },
     {
-      "imslp_url": "https://imslp.org/wiki/2_Compositions,_JW_8/7_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1884,
-      "title": "2 Compositions, JW 8/7"
+      "title": "Dumka",
+      "imslp_url": "https://imslp.org/wiki/Dumka_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1880
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Concertino_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1925,
-      "title": "Concertino"
+      "title": "Zdenka Variations, JW 8/6",
+      "imslp_url": "https://imslp.org/wiki/Zdenka_Variations,_JW_8/6_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1880
     },
     {
-      "imslp_url": "https://imslp.org/wiki/2_Dances_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1899,
-      "title": "2 Dances"
+      "title": "2 Compositions, JW 8/7",
+      "imslp_url": "https://imslp.org/wiki/2_Compositions,_JW_8/7_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1884
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Dumka_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1880,
-      "title": "Dumka"
+      "title": "La\u0161sk\u00e9 Tance",
+      "imslp_url": "https://imslp.org/wiki/La\u0161sk\u00e9_Tance_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1888
     },
     {
-      "imslp_url": "https://imslp.org/wiki/6_Folk_Songs,_JW_5/9_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1909,
-      "title": "6 Folk Songs, JW 5/9"
+      "title": "Suite, JW 6/6",
+      "imslp_url": "https://imslp.org/wiki/Suite,_JW_6/6_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1889
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Hrad%C4%8Dansk%C3%A9_p%C3%ADsni%C4%8Dky,_JW_4/40_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1916,
-      "title": "Hrad\u010dansk\u00e9 p\u00edsni\u010dky, JW 4/40"
+      "title": "Adagio, JW 6/5",
+      "imslp_url": "https://imslp.org/wiki/Adagio,_JW_6/5_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1891
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Hudba_ke_krou%C5%BEen%C3%AD_ku%C5%BEely,_JW_8/13_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1893,
-      "title": "Hudba ke krou\u017een\u00ed ku\u017eely, JW 8/13"
+      "title": "Hudba ke krou\u017een\u00ed ku\u017eely, JW 8/13",
+      "imslp_url": "https://imslp.org/wiki/Hudba_ke_krou\u017een\u00ed_ku\u017eely,_JW_8/13_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1893
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Idyla_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1878,
-      "title": "Idyla"
+      "title": "Jen\u016ffa",
+      "imslp_url": "https://imslp.org/wiki/Jen\u016ffa_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1894
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Jen%C5%AFfa_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1894,
-      "title": "Jen\u016ffa"
+      "title": "Amarus, JW 3/6",
+      "imslp_url": "https://imslp.org/wiki/Amarus,_JW_3/6_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1897
     },
     {
-      "imslp_url": "https://imslp.org/wiki/K%C3%A1%C5%A5a_Kabanov%C3%A1_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1920,
-      "title": "K\u00e1\u0165a Kabanov\u00e1"
+      "title": "2 Dances",
+      "imslp_url": "https://imslp.org/wiki/2_Dances_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1899
     },
     {
-      "imslp_url": "https://imslp.org/wiki/La%C5%A1sk%C3%A9_Tance_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1888,
-      "title": "La\u0161sk\u00e9 Tance"
+      "title": "Po zarostl\u00e9m chodn\u00ed\u010dku",
+      "imslp_url": "https://imslp.org/wiki/Po_zarostl\u00e9m_chodn\u00ed\u010dku_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1900
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Lidov%C3%A1_nokturna,_JW_4/32_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1906,
-      "title": "Lidov\u00e1 nokturna, JW 4/32"
+      "title": "Ot\u010de n\u00e1\u0161, JW 4/29",
+      "imslp_url": "https://imslp.org/wiki/Ot\u010de_n\u00e1\u0161,_JW_4/29_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1901
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Ml%C3%A1d%C3%AD_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1924,
-      "title": "Ml\u00e1d\u00ed"
+      "title": "Veni Sancte Spiritus, JW 2/13",
+      "imslp_url": "https://imslp.org/wiki/Veni_Sancte_Spiritus,_JW_2/13_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1903
     },
     {
-      "imslp_url": "https://imslp.org/wiki/15_Moravian_Folksongs_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1921,
-      "title": "15 Moravian Folksongs"
+      "title": "Moravsk\u00e9 tance, JW 6/7",
+      "imslp_url": "https://imslp.org/wiki/Moravsk\u00e9_tance,_JW_6/7_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1904
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Moravsk%C3%A9_tance,_JW_6/7_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1904,
-      "title": "Moravsk\u00e9 tance, JW 6/7"
+      "title": "1.X.1905",
+      "imslp_url": "https://imslp.org/wiki/1.X.1905_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1905
     },
     {
-      "imslp_url": "https://imslp.org/wiki/M%C5%A1a_glagolskaja_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1926,
-      "title": "M\u0161a glagolskaja"
+      "title": "Lidov\u00e1 nokturna, JW 4/32",
+      "imslp_url": "https://imslp.org/wiki/Lidov\u00e1_nokturna,_JW_4/32_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1906
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Ot%C4%8De_n%C3%A1%C5%A1,_JW_4/29_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1901,
-      "title": "Ot\u010de n\u00e1\u0161, JW 4/29"
+      "title": "V\u00fdlety p\u00e1n\u011b Brou\u010dkovy",
+      "imslp_url": "https://imslp.org/wiki/V\u00fdlety_p\u00e1n\u011b_Brou\u010dkovy_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1908
     },
     {
-      "imslp_url": "https://imslp.org/wiki/1.X.1905_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1905,
-      "title": "1.X.1905"
+      "title": "6 Folk Songs, JW 5/9",
+      "imslp_url": "https://imslp.org/wiki/6_Folk_Songs,_JW_5/9_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1909
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Po_zarostl%C3%A9m_chodn%C3%AD%C4%8Dku_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1900,
-      "title": "Po zarostl\u00e9m chodn\u00ed\u010dku"
+      "title": "Poh\u00e1dka",
+      "imslp_url": "https://imslp.org/wiki/Poh\u00e1dka_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1910
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Poh%C3%A1dka_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1910,
-      "title": "Poh\u00e1dka"
+      "title": "\u0160uma\u0159ovo d\u00edt\u011b, JW 6/14",
+      "imslp_url": "https://imslp.org/wiki/\u0160uma\u0159ovo_d\u00edt\u011b,_JW_6/14_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1912
     },
     {
-      "imslp_url": "https://imslp.org/wiki/P%C5%99edehra,_JW_8/2_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1875,
-      "title": "P\u0159edehra, JW 8/2"
+      "title": "V mlh\u00e1ch",
+      "imslp_url": "https://imslp.org/wiki/V_mlh\u00e1ch_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1913
     },
     {
-      "imslp_url": "https://imslp.org/wiki/P%C5%99%C3%ADhody_li%C5%A1ky_Bystrou%C5%A1ky_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1922,
-      "title": "P\u0159\u00edhody li\u0161ky Bystrou\u0161ky"
+      "title": "Violin Sonata",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1914
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Romance_for_Violin_and_Piano_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1879,
-      "title": "Romance for Violin and Piano"
+      "title": "Taras Bulba",
+      "imslp_url": "https://imslp.org/wiki/Taras_Bulba_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1915
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Sinfonietta_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1926,
-      "title": "Sinfonietta"
+      "title": "Hrad\u010dansk\u00e9 p\u00edsni\u010dky, JW 4/40",
+      "imslp_url": "https://imslp.org/wiki/Hrad\u010dansk\u00e9_p\u00edsni\u010dky,_JW_4/40_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1916
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Slezsk%C3%A9_p%C3%ADsn%C4%9B,_JW_5/13_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1918,
-      "title": "Slezsk\u00e9 p\u00edsn\u011b, JW 5/13"
+      "title": "Z\u00e1pisn\u00edk zmizel\u00e9ho",
+      "imslp_url": "https://imslp.org/wiki/Z\u00e1pisn\u00edk_zmizel\u00e9ho_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1917
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1923,
-      "title": "String Quartet No.1"
+      "title": "Slezsk\u00e9 p\u00edsn\u011b, JW 5/13",
+      "imslp_url": "https://imslp.org/wiki/Slezsk\u00e9_p\u00edsn\u011b,_JW_5/13_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1918
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2_%27Listy_d%C5%AFv%C4%9Brn%C3%A9%27_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1928,
-      "title": "String Quartet No.2 'Listy d\u016fv\u011brn\u00e9'"
+      "title": "Balada Blanick\u00e1, JW 6/16",
+      "imslp_url": "https://imslp.org/wiki/Balada_Blanick\u00e1,_JW_6/16_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1919
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Suite_for_Strings_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1926,
-      "title": "Suite for Strings"
+      "title": "K\u00e1\u0165a Kabanov\u00e1",
+      "imslp_url": "https://imslp.org/wiki/K\u00e1\u0165a_Kabanov\u00e1_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1920
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Suite,_JW_6/6_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1889,
-      "title": "Suite, JW 6/6"
+      "title": "15 Moravian Folksongs",
+      "imslp_url": "https://imslp.org/wiki/15_Moravian_Folksongs_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1921
     },
     {
-      "imslp_url": "https://imslp.org/wiki/%C5%A0uma%C5%99ovo_d%C3%ADt%C4%9B,_JW_6/14_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1912,
-      "title": "\u0160uma\u0159ovo d\u00edt\u011b, JW 6/14"
+      "title": "P\u0159\u00edhody li\u0161ky Bystrou\u0161ky",
+      "imslp_url": "https://imslp.org/wiki/P\u0159\u00edhody_li\u0161ky_Bystrou\u0161ky_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1922
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Taras_Bulba_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1915,
-      "title": "Taras Bulba"
+      "title": "String Quartet No.1",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1923
     },
     {
-      "imslp_url": "https://imslp.org/wiki/V_mlh%C3%A1ch_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1913,
-      "title": "V mlh\u00e1ch"
+      "title": "V\u011bc Makropulos, JW 1/10",
+      "imslp_url": "https://imslp.org/wiki/V\u011bc_Makropulos,_JW_1/10_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1923
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Varyto_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1875,
-      "title": "Varyto"
+      "title": "Ml\u00e1d\u00ed",
+      "imslp_url": "https://imslp.org/wiki/Ml\u00e1d\u00ed_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1924
     },
     {
-      "imslp_url": "https://imslp.org/wiki/V%C4%9Bc_Makropulos,_JW_1/10_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1923,
-      "title": "V\u011bc Makropulos, JW 1/10"
+      "title": "Concertino",
+      "imslp_url": "https://imslp.org/wiki/Concertino_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1925
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Veni_Sancte_Spiritus,_JW_2/13_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1903,
-      "title": "Veni Sancte Spiritus, JW 2/13"
+      "title": "Capriccio",
+      "imslp_url": "https://imslp.org/wiki/Capriccio_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1926
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1914,
-      "title": "Violin Sonata"
+      "title": "M\u0161a glagolskaja",
+      "imslp_url": "https://imslp.org/wiki/M\u0161a_glagolskaja_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1926
     },
     {
-      "imslp_url": "https://imslp.org/wiki/V%C3%BDlety_p%C3%A1n%C4%9B_Brou%C4%8Dkovy_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1908,
-      "title": "V\u00fdlety p\u00e1n\u011b Brou\u010dkovy"
+      "title": "Sinfonietta",
+      "imslp_url": "https://imslp.org/wiki/Sinfonietta_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1926
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Vzpom%C3%ADnka_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1928,
-      "title": "Vzpom\u00ednka"
+      "title": "Suite for Strings",
+      "imslp_url": "https://imslp.org/wiki/Suite_for_Strings_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1926
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Z_mrtv%C3%A9ho_domu,_JW_1/11_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1927,
-      "title": "Z mrtv\u00e9ho domu, JW 1/11"
+      "title": "\u0158ikadla pro komorn\u00ed sbor a 10 n\u00e1stroj\u016f",
+      "imslp_url": "https://imslp.org/wiki/\u0158ikadla_pro_komorn\u00ed_sbor_a_10_n\u00e1stroj\u016f_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1926
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Z%C3%A1pisn%C3%ADk_zmizel%C3%A9ho_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1917,
-      "title": "Z\u00e1pisn\u00edk zmizel\u00e9ho"
+      "title": "Z mrtv\u00e9ho domu, JW 1/11",
+      "imslp_url": "https://imslp.org/wiki/Z_mrtv\u00e9ho_domu,_JW_1/11_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1927
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Zdenka_Variations,_JW_8/6_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1880,
-      "title": "Zdenka Variations, JW 8/6"
+      "title": "String Quartet No.2 'Listy d\u016fv\u011brn\u00e9'",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2_'Listy_d\u016fv\u011brn\u00e9'_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1928
     },
     {
-      "imslp_url": "https://imslp.org/wiki/%C5%98ikadla_pro_komorn%C3%AD_sbor_a_10_n%C3%A1stroj%C5%AF_(Jan%C3%A1%C4%8Dek,_Leo%C5%A1)",
-      "year": 1926,
-      "title": "\u0158ikadla pro komorn\u00ed sbor a 10 n\u00e1stroj\u016f"
+      "title": "Vzpom\u00ednka",
+      "imslp_url": "https://imslp.org/wiki/Vzpom\u00ednka_(Jan\u00e1\u010dek,_Leo\u0161)",
+      "year": 1928
     }
   ]
 }

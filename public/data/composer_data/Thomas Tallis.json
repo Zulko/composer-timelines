@@ -1,0 +1,239 @@
+{
+  "full_name": "Thomas Tallis",
+  "first_names": "Thomas",
+  "last_name": "Tallis",
+  "birth_year": 1505,
+  "death_year": 1585,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Tallis",
+  "events": [
+    {
+      "section": "Life",
+      "title": "Employment at Dover Priory",
+      "summary": "In 1531, Tallis is noted as the organist at Dover Priory, where he directed chants from the organ. His annual payment for this position was recorded at two pounds.",
+      "year": 1531,
+      "location": "Dover Priory",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "In 1531, Tallis, the organist at Dover Priory, directed chants from the organ, and for his musical wizardry, he was paid a whopping two pounds per year. Talk about making music for the love!"
+    },
+    {
+      "section": "Life",
+      "title": "Service at Waltham Abbey",
+      "summary": "Around 1538, Tallis was appointed to serve at Waltham Abbey in Essex, rising to a senior member position until the abbey's dissolution in March 1540.",
+      "year": 1538,
+      "location": "Waltham Abbey, Essex",
+      "emoji": "\u26ea",
+      "fun_version": "In 1538, Tallis decided to pick up a new gig at Waltham Abbey in Essex, rising to a senior member position. It was like being hired to fix a leaky faucet, but he ended up as the head plumber! He climbed the ranks until the abbey's dissolution in March 1540."
+    },
+    {
+      "section": "Life",
+      "title": "Employment at Canterbury Cathedral",
+      "summary": "By the summer of 1540, Tallis moved to Canterbury Cathedral, where he was a prominent singer in an expanded choir that included both boys and men.",
+      "year": 1540,
+      "location": "Canterbury Cathedral",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In the sunny summer of 1540, Tallis packed his bags and headed to Canterbury Cathedral, where he became a prominent singer in an expanded choir that included both boys and men, so much so that it could probably tame a wild pack of cats!"
+    },
+    {
+      "section": "Life",
+      "title": "Employment at the Chapel Royal",
+      "summary": "Tallis likely began his employment at the Chapel Royal in 1543, as indicated by documents from the time, marking the start of his long association with the royal court.",
+      "year": 1543,
+      "location": "Chapel Royal",
+      "emoji": "\ud83d\udc51",
+      "fun_version": "Tallis kicked off his royal gig at the Chapel Royal back in 1543, marking the start of his long association with the royal court, probably because he was really good at playing with notes and a bit too stubborn to follow the king\u2019s off-key singing!"
+    },
+    {
+      "section": "Life",
+      "title": "Marriage to Joan",
+      "summary": "Around 1552, Tallis married Joan, the widow of a gentleman from the Chapel Royal. They lived in Greenwich but had no children together.",
+      "year": 1552,
+      "location": "Greenwich",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "In 1552, Tallis married Joan, the widow of a gentleman from the Chapel Royal. They resided in Greenwich, just the two of them, living the child-free dream."
+    },
+    {
+      "section": "Life",
+      "title": "Grant from Queen Mary I",
+      "summary": "Queen Mary I granted Tallis a lease on a manor in Kent, providing him with a comfortable income. He was present at her funeral on 13 December 1558 and at the coronation of Elizabeth I in January 1559.",
+      "year": 1558,
+      "location": "Kent",
+      "emoji": "\ud83d\udc51",
+      "fun_version": "Queen Mary I granted Tallis a lease on a manor in Kent, providing him with a comfortable income. He showed up at Mary\u2019s funeral on December 13, 1558, and less than a month later was back again for Elizabeth I\u2019s coronation in January 1559."
+    },
+    {
+      "section": "Life",
+      "title": "Monopoly on Music",
+      "summary": "In 1575, Tallis and his pupil William Byrd were granted a 21-year monopoly for polyphonic music in England, allowing them exclusive rights to print and publish their works, despite facing challenges as Catholics.",
+      "year": 1575,
+      "location": "England",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1575, Tallis and his student, William Byrd, were granted a 21-year monopoly on polyphonic music in England, allowing them exclusive rights to print and publish their works. It was like being given the keys to the only radio station\u2014except this station only played 'flutes gone wild' and required a secret handshake due to their challenges as Catholics."
+    },
+    {
+      "section": "Life",
+      "title": "Final Years and Death",
+      "summary": "In his later years, Tallis lived in Greenwich until his death on either 20 or 23 November 1585. He was buried in St Alfege Church, Greenwich, with a memorial plaque that has since been lost.",
+      "year": 1585,
+      "location": "Greenwich",
+      "emoji": "\ud83d\udd4a\ufe0f",
+      "fun_version": "He passed away on either the 20th or the 23rd of November 1585. He was buried in St Alfege Church, Greenwich, with a memorial plaque that has since been lost."
+    }
+  ],
+  "works": [
+    {
+      "title": "Missa Puer natus",
+      "imslp_url": "https://imslp.org/wiki/Missa_Puer_natus_(Tallis,_Thomas)",
+      "year": 1554
+    },
+    {
+      "title": "Suscipe quaeso Domine",
+      "imslp_url": "https://imslp.org/wiki/Suscipe_quaeso_Domine_(Tallis,_Thomas)",
+      "year": 1554
+    },
+    {
+      "title": "9 Tunes for Archbishop Parker\u2019s Psalter",
+      "imslp_url": "https://imslp.org/wiki/9_Tunes_for_Archbishop_Parker\u2019s_Psalter_(Tallis,_Thomas)",
+      "year": 1560
+    },
+    {
+      "title": "Christ Rising Again",
+      "imslp_url": "https://imslp.org/wiki/Christ_Rising_Again_(Tallis,_Thomas)",
+      "year": 1560
+    },
+    {
+      "title": "Hear the Voice and Prayer",
+      "imslp_url": "https://imslp.org/wiki/Hear_the_Voice_and_Prayer_(Tallis,_Thomas)",
+      "year": 1560
+    },
+    {
+      "title": "If Ye Love Me",
+      "imslp_url": "https://imslp.org/wiki/If_Ye_Love_Me_(Tallis,_Thomas)",
+      "year": 1560
+    },
+    {
+      "title": "Laudate Dominum",
+      "imslp_url": "https://imslp.org/wiki/Laudate_Dominum_(Tallis,_Thomas)",
+      "year": 1560
+    },
+    {
+      "title": "Felix Namque I, FVB 109",
+      "imslp_url": "https://imslp.org/wiki/Felix_Namque_I,_FVB_109_(Tallis,_Thomas)",
+      "year": 1562
+    },
+    {
+      "title": "Felix Namque II, FVB 110",
+      "imslp_url": "https://imslp.org/wiki/Felix_Namque_II,_FVB_110_(Tallis,_Thomas)",
+      "year": 1564
+    },
+    {
+      "title": "God grant with grace",
+      "imslp_url": "https://imslp.org/wiki/God_grant_with_grace_(Tallis,_Thomas)",
+      "year": 1567
+    },
+    {
+      "title": "Why fumeth in sight",
+      "imslp_url": "https://imslp.org/wiki/Why_fumeth_in_sight_(Tallis,_Thomas)",
+      "year": 1567
+    },
+    {
+      "title": "Like as the Doleful Dove",
+      "imslp_url": "https://imslp.org/wiki/Like_as_the_Doleful_Dove_(Tallis,_Thomas)",
+      "year": 1570
+    },
+    {
+      "title": "O Lord, Give Thy Holy Spirit",
+      "imslp_url": "https://imslp.org/wiki/O_Lord,_Give_Thy_Holy_Spirit_(Tallis,_Thomas)",
+      "year": 1570
+    },
+    {
+      "title": "Spem in alium nunquam habui",
+      "imslp_url": "https://imslp.org/wiki/Spem_in_alium_nunquam_habui_(Tallis,_Thomas)",
+      "year": 1570
+    },
+    {
+      "title": "Absterge Domine",
+      "imslp_url": "https://imslp.org/wiki/Absterge_Domine_(Tallis,_Thomas)",
+      "year": 1575
+    },
+    {
+      "title": "Candidi facti sunt Nazarei",
+      "imslp_url": "https://imslp.org/wiki/Candidi_facti_sunt_Nazarei_(Tallis,_Thomas)",
+      "year": 1575
+    },
+    {
+      "title": "Derelinquit impius",
+      "imslp_url": "https://imslp.org/wiki/Derelinquit_impius_(Tallis,_Thomas)",
+      "year": 1575
+    },
+    {
+      "title": "Dum transisset Sabbatum",
+      "imslp_url": "https://imslp.org/wiki/Dum_transisset_Sabbatum_(Tallis,_Thomas)",
+      "year": 1575
+    },
+    {
+      "title": "Honor, Virtus et potestas",
+      "imslp_url": "https://imslp.org/wiki/Honor,_Virtus_et_potestas_(Tallis,_Thomas)",
+      "year": 1575
+    },
+    {
+      "title": "In jejunio et fletu",
+      "imslp_url": "https://imslp.org/wiki/In_jejunio_et_fletu_(Tallis,_Thomas)",
+      "year": 1575
+    },
+    {
+      "title": "In manus tuas, Domine",
+      "imslp_url": "https://imslp.org/wiki/In_manus_tuas,_Domine_(Tallis,_Thomas)",
+      "year": 1575
+    },
+    {
+      "title": "Mihi autem nimis",
+      "imslp_url": "https://imslp.org/wiki/Mihi_autem_nimis_(Tallis,_Thomas)",
+      "year": 1575
+    },
+    {
+      "title": "Miserere nostri",
+      "imslp_url": "https://imslp.org/wiki/Miserere_nostri_(Tallis,_Thomas)",
+      "year": 1575
+    },
+    {
+      "title": "O nata lux",
+      "imslp_url": "https://imslp.org/wiki/O_nata_lux_(Tallis,_Thomas)",
+      "year": 1575
+    },
+    {
+      "title": "O sacrum convivium",
+      "imslp_url": "https://imslp.org/wiki/O_sacrum_convivium_(Tallis,_Thomas)",
+      "year": 1575
+    },
+    {
+      "title": "Salvator mundi, ITT 20",
+      "imslp_url": "https://imslp.org/wiki/Salvator_mundi,_ITT_20_(Tallis,_Thomas)",
+      "year": 1575
+    },
+    {
+      "title": "Salvator mundi, ITT 31",
+      "imslp_url": "https://imslp.org/wiki/Salvator_mundi,_ITT_31_(Tallis,_Thomas)",
+      "year": 1575
+    },
+    {
+      "title": "Sermone blando angelus",
+      "imslp_url": "https://imslp.org/wiki/Sermone_blando_angelus_(Tallis,_Thomas)",
+      "year": 1575
+    },
+    {
+      "title": "A Solfinge Song",
+      "imslp_url": "https://imslp.org/wiki/A_Solfinge_Song_(Tallis,_Thomas)",
+      "year": 1578
+    },
+    {
+      "title": "In Nomine II",
+      "imslp_url": "https://imslp.org/wiki/In_Nomine_II_(Tallis,_Thomas)",
+      "year": 1578
+    },
+    {
+      "title": "In nomine I \u00e0 4",
+      "imslp_url": "https://imslp.org/wiki/In_nomine_I_\u00e0_4_(Tallis,_Thomas)",
+      "year": 1585
+    }
+  ]
+}

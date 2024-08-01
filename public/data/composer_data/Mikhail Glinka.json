@@ -1,123 +1,399 @@
 {
   "full_name": "Mikhail Glinka",
-  "first_names": "Mikhail",
+  "first_names": "Mikhail Ivanovich",
   "last_name": "Glinka",
   "birth_year": 1804,
   "death_year": 1857,
   "wikipedia_url": "https://en.wikipedia.org/wiki/Mikhail_Glinka",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Mikhail Glinka was born in a rural village, where he was indulged by his grandmother, leading to an interesting mix of pampering and hypochondria. All this worry made his ears finely attuned to dissonant chords\u2014thank you, village bells.",
-      "year": 1804,
-      "city": "Novospasskoye",
-      "country": "Russia"
-    },
-    {
-      "event": "Move to Uncle's Estate",
-      "summary": "After losing his grandmother, he moved to his uncle's estate where he heard orchestras play the classics. This was a pivotal moment, inspiring him to declare, \"Music is my soul!\" as he contemplated his future as a composer.",
-      "year": 1814,
-      "city": "Unknown",
-      "country": "Russia"
-    },
-    {
-      "event": "School in Saint Petersburg",
-      "summary": "At 13, Glinka left for Saint Petersburg, where he learned everything from Latin to zoology, which is handy in music if you ever need to identify a \u2018musical animal\u2019 or two.",
-      "year": 1817,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "First Job at Foreign Office",
-      "summary": "Glinka found himself appointed to a bureaucratic role as assistant secretary, which he might have taken as a sign the universe wanted him to attend more drawing-room social gatherings.",
-      "year": 1824,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Travel to Italy",
-      "summary": "Glinka embarked on a grand tour to Italy, where amidst charming landscapes and beautiful sopranos, he struggled with counterpoint and fell for the local culture\u2014cue romance and disillusionment.",
+      "section": "Early life and education",
+      "title": "Travel to Italy",
+      "summary": "In 1830, on a physician's recommendation, Glinka traveled to Italy with tenor Nikolai Kuzmich Ivanov, where he studied at a conservatory, met prominent composers, and ultimately realized his mission to contribute to Russian music.",
       "year": 1830,
-      "city": "Milan",
-      "country": "Italy"
+      "location": "Italy",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Glinka decided to take a little vacay to Italy in 1830, not because he was chasing gelato (although who can blame him?), but on his physician's orders! Traveling with the tenor Nikolai Kuzmich Ivanov, they hit the conservatory where Glinka rubbed elbows with the music elite, met prominent composers, and realized his mission to contribute to Russian music, one opera at a time!"
     },
     {
-      "event": "Return to Russia",
-      "summary": "Disenchanted by his Italian escapades, Glinka decided it was time to bring his newfound ideas back to the Motherland, which is a classic \u2018return to roots\u2019 story\u2014only with more mountains.",
-      "year": 1833,
-      "city": "Unknown",
-      "country": "Russia"
+      "section": "Early life and education",
+      "title": "Return after Father's Death",
+      "summary": "In 1834, after receiving news of his father's death, Glinka left Berlin and returned to his birthplace of Novospasskoye, marking a personal turning point in his life.",
+      "year": 1834,
+      "location": "Novospasskoye",
+      "emoji": "\ud83d\ude22",
+      "fun_version": "In 1834, Glinka heard some dramatic family news about his father and promptly left Berlin like fleeing a boring party to return to his childhood haunts of Novospasskoye. Who knew family dramas could turn into a homecoming adventure?"
     },
     {
-      "event": "Marriage",
-      "summary": "Glinka married Maria Petrovna Ivanova after a brief courtship, but it wasn\u2019t a match made in musical heaven as things turned sour, leaving him more inspired than ever to compose melancholic melodies.",
-      "year": 1835,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "A Life for the Tsar Premiere",
-      "summary": "His first major opera, originally called Ivan Susanin, was a hit with the Tsar himself. Glinka celebrated his success with a nice ring reward, proving that music really does pay off \u2013 at least in jewelry.",
+      "section": "Career",
+      "title": "A Life for the Tsar Premiere",
+      "summary": "Glinka's opera, originally titled Ivan Susanin, premiered successfully on 9 December 1836. The story follows the peasant Ivan Susanin, who sacrifices his life for the Tsar. Tsar Nicholas I took a personal interest in the opera's development.",
       "year": 1836,
-      "city": "Saint Petersburg",
-      "country": "Russia"
+      "location": "Saint Petersburg",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Glinka\u2019s opera, originally titled Ivan Susanin, premiered successfully on 9 December 1836. The story follows Ivan Susanin, a peasant who decides to sacrifice his life for the Tsar. Tsar Nicholas I took a personal interest in the opera's development\u2026probably because he needed a new hobby during his downtime from being a Tsar!"
     },
     {
-      "event": "Beginning of Ruslan and Lyudmila",
-      "summary": "Glinka started his ambitious second opera after listening to a drunken poet. The mix of high-brow art and low-brow inspiration should typify his creative process\u2014never underestimate a tavern tale.",
+      "section": "Career",
+      "title": "Marriage to Maria Petrovna Ivanova",
+      "summary": "Glinka married Maria Petrovna Ivanova after a brief courtship. However, their marriage was short-lived due to her disinterest in his music and constant criticism, which eventually coarsened Glinka's sweet disposition.",
+      "year": 1836,
+      "location": "Saint Petersburg",
+      "emoji": "\ud83d\udc94",
+      "fun_version": "Glinka married Maria Petrovna Ivanova, but it turns out her idea of romance didn\u2019t include his serenades. She was all about the critiquing, which went right to his head! They eventually parted ways, leaving his sweet disposition to fend for itself in a world where no one wants to hear a sad piano."
+    },
+    {
+      "section": "Career",
+      "title": "Instructor at the Imperial Chapel Choir",
+      "summary": "In 1837, Glinka became the instructor of the Imperial Chapel Choir, earning a yearly salary of 25,000 rubles. The following year, he traveled to Ukraine to recruit new voices for the choir.",
       "year": 1837,
-      "city": "Unknown",
-      "country": "Russia"
+      "location": "Ukraine",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Back in 1837, Glinka snagged the title of 'Instructor of the Imperial Chapel Choir,' which sounds fancy but really just meant he was paid 25,000 rubles a year to crack a whip at tone-deaf singers! The following year, he packed his bags for Ukraine to recruit new voices for the choir, looking for talent that could actually carry a tune."
     },
     {
-      "event": "Ruslan and Lyudmila Premiere",
-      "summary": "Despite a cool initial reception, Glinka's Ruslan eventually found its audience, much like a fine wine that only gets better with age\u2014or perhaps just needs the right listener.",
+      "section": "Career",
+      "title": "Ruslan and Lyudmila Premiere",
+      "summary": "Glinka's second opera, Ruslan and Lyudmila, debuted on 9 December 1842. Though initially received poorly, it eventually gained popularity. The opera was adapted from a tale by Alexander Pushkin and featured Glinka's significant use of folk melodies.",
       "year": 1842,
-      "city": "Saint Petersburg",
-      "country": "Russia"
+      "location": "Saint Petersburg",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Glinka's second opera, Ruslan and Lyudmila, premiered on 9 December 1842, and though it took the audience a bit to warm up, it eventually became a hit. Adapted from a tale by Alexander Pushkin and featuring Glinka\u2019s significant use of folk melodies, it surely transformed into quite the performance!"
     },
     {
-      "event": "Time in Paris",
-      "summary": "Glinka spent time in Paris where he was praised by Hector Berlioz and developed fantasies pittoresques. One could say he was living the composer\u2019s dream: eating pastries and attending concerts.",
+      "section": "Career",
+      "title": "Travel to Paris and Spain",
+      "summary": "After the disappointing response to Ruslan and Lyudmila, Glinka traveled to Paris and Spain, where he met his companion Don Pedro Fern\u00e1ndez. In Paris, Hector Berlioz conducted excerpts of Glinka's operas, further exposing Glinka's work to the European audience.",
       "year": 1852,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris and Spain",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "After the not-so-exciting reception of Ruslan and Lyudmila, Glinka decided Paris and Spain were calling his name louder than his critics. There, he met his companion Don Pedro Fern\u00e1ndez. In Paris, Hector Berlioz conducted excerpts of Glinka\u2019s operas, likely hoping this would get Glinka the European fanbase he dreamt of."
     },
     {
-      "event": "Death",
-      "summary": "Glinka's life came to an unexpected end due to a cold in Berlin, right after indulging his love for botanical gardens. Perhaps he had just found the perfect flower and was struck by its beauty\u2014forever a romantic.",
+      "section": "Career",
+      "title": "Death in Berlin",
+      "summary": "Glinka died suddenly on 15 February 1857, in Berlin following a cold. He was buried in Berlin, but later his remains were transferred to Saint Petersburg.",
       "year": 1857,
-      "city": "Berlin",
-      "country": "Germany"
-    },
-    {
-      "event": "First Composition",
-      "summary": "Glinka wrote his first composition, thus joining the ranks of fledgling composers everywhere, and proving that even musical prodigies have to start somewhere\u2014like significantly baffling their families with odd noises.",
-      "year": 1817,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Study in Europe",
-      "summary": "Glinka embarked on a musical journey through Europe, where he absorbed influences that would later make his music a delightful mix of Russian flavor and European finesse. It was like going to a buffet and mixing borscht with spaghetti!",
-      "year": 1822,
-      "city": "Berlin",
-      "country": "Germany"
-    },
-    {
-      "event": "Opera 'A Life for the Tsar'",
-      "summary": "He premiered 'A Life for the Tsar', making a bold statement in the opera world and essentially shouting, \"I can do this and be Russian at the same time!\" It was a major hit\u2014because who doesn\u2019t love a good tsar story?",
-      "year": 1836,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Completion of 'Ruslan and Lyudmila'",
-      "summary": "After years of toil and musical wizardry, Glinka completed his opera 'Ruslan and Lyudmila', which would go on to confuse some audiences and enchant others with its captivating tales and melodies\u2014because who wouldn't want a little magic in their night out?",
-      "year": 1842,
-      "city": "Moscow",
-      "country": "Russia"
+      "location": "Berlin",
+      "emoji": "\ud83d\udd4a\ufe0f",
+      "fun_version": "Glinka passed away on 15 February 1857, in Berlin after a cold. He was buried in Berlin, but later his remains were transferred to Saint Petersburg."
     }
   ],
-  "compositions": []
+  "works": [
+    {
+      "title": "Variations on a Theme from 'Die Zauberfl\u00f6te'",
+      "imslp_url": "https://imslp.org/wiki/Variations_on_a_Theme_from_'Die_Zauberfl\u00f6te'_(Glinka,_Mikhail)",
+      "year": 1822
+    },
+    {
+      "title": "Variations on an Original Theme",
+      "imslp_url": "https://imslp.org/wiki/Variations_on_an_Original_Theme_(Glinka,_Mikhail)",
+      "year": 1822
+    },
+    {
+      "title": "String Quartet No.1",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1_(Glinka,_Mikhail)",
+      "year": 1823
+    },
+    {
+      "title": "Do not tempt me",
+      "imslp_url": "https://imslp.org/wiki/Do_not_tempt_me_(Glinka,_Mikhail)",
+      "year": 1825
+    },
+    {
+      "title": "Viola Sonata",
+      "imslp_url": "https://imslp.org/wiki/Viola_Sonata_(Glinka,_Mikhail)",
+      "year": 1825
+    },
+    {
+      "title": "5 French Contradanses",
+      "imslp_url": "https://imslp.org/wiki/5_French_Contradanses_(Glinka,_Mikhail)",
+      "year": 1826
+    },
+    {
+      "title": "Cantata in Memory of Alexander I",
+      "imslp_url": "https://imslp.org/wiki/Cantata_in_Memory_of_Alexander_I_(Glinka,_Mikhail)",
+      "year": 1826
+    },
+    {
+      "title": "Variations on Romance 'Benedetta sia la madre'",
+      "imslp_url": "https://imslp.org/wiki/Variations_on_Romance_'Benedetta_sia_la_madre'_(Glinka,_Mikhail)",
+      "year": 1826
+    },
+    {
+      "title": "Variations on a Russian Song",
+      "imslp_url": "https://imslp.org/wiki/Variations_on_a_Russian_Song_(Glinka,_Mikhail)",
+      "year": 1826
+    },
+    {
+      "title": "Variations on a Theme from 'Faniska'",
+      "imslp_url": "https://imslp.org/wiki/Variations_on_a_Theme_from_'Faniska'_(Glinka,_Mikhail)",
+      "year": 1827
+    },
+    {
+      "title": "Cotillon",
+      "imslp_url": "https://imslp.org/wiki/Cotillon_(Glinka,_Mikhail)",
+      "year": 1828
+    },
+    {
+      "title": "Mazurka in G major (1828)",
+      "imslp_url": "https://imslp.org/wiki/Mazurka_in_G_major_(1828)_(Glinka,_Mikhail)",
+      "year": 1828
+    },
+    {
+      "title": "Nocturne",
+      "imslp_url": "https://imslp.org/wiki/Nocturne_(Glinka,_Mikhail)",
+      "year": 1828
+    },
+    {
+      "title": "Quartet for Voices and Piano 'Hear from Heaven'",
+      "imslp_url": "https://imslp.org/wiki/Quartet_for_Voices_and_Piano_'Hear_from_Heaven'_(Glinka,_Mikhail)",
+      "year": 1828
+    },
+    {
+      "title": "Finnish Song",
+      "imslp_url": "https://imslp.org/wiki/Finnish_Song_(Glinka,_Mikhail)",
+      "year": 1829
+    },
+    {
+      "title": "String Quartet",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_(Glinka,_Mikhail)",
+      "year": 1830
+    },
+    {
+      "title": "Farewell Waltz",
+      "imslp_url": "https://imslp.org/wiki/Farewell_Waltz_(Glinka,_Mikhail)",
+      "year": 1831
+    },
+    {
+      "title": "Rondo brillante",
+      "imslp_url": "https://imslp.org/wiki/Rondo_brillante_(Glinka,_Mikhail)",
+      "year": 1831
+    },
+    {
+      "title": "Variations on Themes from the Ballet 'Chao Kang'",
+      "imslp_url": "https://imslp.org/wiki/Variations_on_Themes_from_the_Ballet_'Chao_Kang'_(Glinka,_Mikhail)",
+      "year": 1831
+    },
+    {
+      "title": "Variations on a Theme from 'Anna Bolena'",
+      "imslp_url": "https://imslp.org/wiki/Variations_on_a_Theme_from_'Anna_Bolena'_(Glinka,_Mikhail)",
+      "year": 1831
+    },
+    {
+      "title": "Divertimento brilliante",
+      "imslp_url": "https://imslp.org/wiki/Divertimento_brilliante_(Glinka,_Mikhail)",
+      "year": 1832
+    },
+    {
+      "title": "Grand Sextet",
+      "imslp_url": "https://imslp.org/wiki/Grand_Sextet_(Glinka,_Mikhail)",
+      "year": 1832
+    },
+    {
+      "title": "Trio path\u00e9tique",
+      "imslp_url": "https://imslp.org/wiki/Trio_path\u00e9tique_(Glinka,_Mikhail)",
+      "year": 1832
+    },
+    {
+      "title": "3 Fugues",
+      "imslp_url": "https://imslp.org/wiki/3_Fugues_(Glinka,_Mikhail)",
+      "year": 1833
+    },
+    {
+      "title": "Variations on Alyabyev's Romance 'The Nightingale'",
+      "imslp_url": "https://imslp.org/wiki/Variations_on_Alyabyev's_Romance_'The_Nightingale'_(Glinka,_Mikhail)",
+      "year": 1833
+    },
+    {
+      "title": "Capriccio on Russian Themes",
+      "imslp_url": "https://imslp.org/wiki/Capriccio_on_Russian_Themes_(Glinka,_Mikhail)",
+      "year": 1834
+    },
+    {
+      "title": "Do Not Say",
+      "imslp_url": "https://imslp.org/wiki/Do_Not_Say_(Glinka,_Mikhail)",
+      "year": 1834
+    },
+    {
+      "title": "Mazurka in A-flat major",
+      "imslp_url": "https://imslp.org/wiki/Mazurka_in_A-flat_major_(Glinka,_Mikhail)",
+      "year": 1834
+    },
+    {
+      "title": "Mazurka in F major",
+      "imslp_url": "https://imslp.org/wiki/Mazurka_in_F_major_(Glinka,_Mikhail)",
+      "year": 1834
+    },
+    {
+      "title": "Sounds of the Grove",
+      "imslp_url": "https://imslp.org/wiki/Sounds_of_the_Grove_(Glinka,_Mikhail)",
+      "year": 1834
+    },
+    {
+      "title": "Symphony on 2 Russian Themes",
+      "imslp_url": "https://imslp.org/wiki/Symphony_on_2_Russian_Themes_(Glinka,_Mikhail)",
+      "year": 1834
+    },
+    {
+      "title": "Mazurka in F major (1835)",
+      "imslp_url": "https://imslp.org/wiki/Mazurka_in_F_major_(1835)_(Glinka,_Mikhail)",
+      "year": 1835
+    },
+    {
+      "title": "Variations on a Theme from 'I Capuletti ed i Montecchi '",
+      "imslp_url": "https://imslp.org/wiki/Variations_on_a_Theme_from_'I_Capuletti_ed_i_Montecchi_'_(Glinka,_Mikhail)",
+      "year": 1835
+    },
+    {
+      "title": "A Life for the Tsar",
+      "imslp_url": "https://imslp.org/wiki/A_Life_for_the_Tsar_(Glinka,_Mikhail)",
+      "year": 1836
+    },
+    {
+      "title": "Ruslan and Lyudmila",
+      "imslp_url": "https://imslp.org/wiki/Ruslan_and_Lyudmila_(Glinka,_Mikhail)",
+      "year": 1837
+    },
+    {
+      "title": "2 Waltzes",
+      "imslp_url": "https://imslp.org/wiki/2_Waltzes_(Glinka,_Mikhail)",
+      "year": 1838
+    },
+    {
+      "title": "Doubt",
+      "imslp_url": "https://imslp.org/wiki/Doubt_(Glinka,_Mikhail)",
+      "year": 1838
+    },
+    {
+      "title": "Galop",
+      "imslp_url": "https://imslp.org/wiki/Galop_(Glinka,_Mikhail)",
+      "year": 1838
+    },
+    {
+      "title": "5 Contradanses",
+      "imslp_url": "https://imslp.org/wiki/5_Contradanses_(Glinka,_Mikhail)",
+      "year": 1839
+    },
+    {
+      "title": "La conventine",
+      "imslp_url": "https://imslp.org/wiki/La_conventine_(Glinka,_Mikhail)",
+      "year": 1839
+    },
+    {
+      "title": "La s\u00e9paration",
+      "imslp_url": "https://imslp.org/wiki/La_s\u00e9paration_(Glinka,_Mikhail)",
+      "year": 1839
+    },
+    {
+      "title": "Polonaise",
+      "imslp_url": "https://imslp.org/wiki/Polonaise_(Glinka,_Mikhail)",
+      "year": 1839
+    },
+    {
+      "title": "Valse-fantasie",
+      "imslp_url": "https://imslp.org/wiki/Valse-fantasie_(Glinka,_Mikhail)",
+      "year": 1839
+    },
+    {
+      "title": "Waltz in G major",
+      "imslp_url": "https://imslp.org/wiki/Waltz_in_G_major_(Glinka,_Mikhail)",
+      "year": 1839
+    },
+    {
+      "title": "A Farewell to Saint Petersburg",
+      "imslp_url": "https://imslp.org/wiki/A_Farewell_to_Saint_Petersburg_(Glinka,_Mikhail)",
+      "year": 1840
+    },
+    {
+      "title": "Bolero 'Oh my lovely maiden'",
+      "imslp_url": "https://imslp.org/wiki/Bolero_'Oh_my_lovely_maiden'_(Glinka,_Mikhail)",
+      "year": 1840
+    },
+    {
+      "title": "I Recall a Wonderful Moment",
+      "imslp_url": "https://imslp.org/wiki/I_Recall_a_Wonderful_Moment_(Glinka,_Mikhail)",
+      "year": 1840
+    },
+    {
+      "title": "Initial Polka",
+      "imslp_url": "https://imslp.org/wiki/Initial_Polka_(Glinka,_Mikhail)",
+      "year": 1840
+    },
+    {
+      "title": "Prince Kholmsky",
+      "imslp_url": "https://imslp.org/wiki/Prince_Kholmsky_(Glinka,_Mikhail)",
+      "year": 1840
+    },
+    {
+      "title": "Mazurka in C minor",
+      "imslp_url": "https://imslp.org/wiki/Mazurka_in_C_minor_(Glinka,_Mikhail)",
+      "year": 1843
+    },
+    {
+      "title": "Tarantella on a Russian Folksong",
+      "imslp_url": "https://imslp.org/wiki/Tarantella_on_a_Russian_Folksong_(Glinka,_Mikhail)",
+      "year": 1843
+    },
+    {
+      "title": "Jota Aragonesa",
+      "imslp_url": "https://imslp.org/wiki/Jota_Aragonesa_(Glinka,_Mikhail)",
+      "year": 1845
+    },
+    {
+      "title": "A Greeting to My Homeland",
+      "imslp_url": "https://imslp.org/wiki/A_Greeting_to_My_Homeland_(Glinka,_Mikhail)",
+      "year": 1847
+    },
+    {
+      "title": "Barcarolle in G major",
+      "imslp_url": "https://imslp.org/wiki/Barcarolle_in_G_major_(Glinka,_Mikhail)",
+      "year": 1847
+    },
+    {
+      "title": "Souvenir d'une mazurka",
+      "imslp_url": "https://imslp.org/wiki/Souvenir_d'une_mazurka_(Glinka,_Mikhail)",
+      "year": 1847
+    },
+    {
+      "title": "Variations on a Scottish Theme",
+      "imslp_url": "https://imslp.org/wiki/Variations_on_a_Scottish_Theme_(Glinka,_Mikhail)",
+      "year": 1847
+    },
+    {
+      "title": "Kamarinskaya",
+      "imslp_url": "https://imslp.org/wiki/Kamarinskaya_(Glinka,_Mikhail)",
+      "year": 1848
+    },
+    {
+      "title": "Margaret's Song",
+      "imslp_url": "https://imslp.org/wiki/Margaret's_Song_(Glinka,_Mikhail)",
+      "year": 1848
+    },
+    {
+      "title": "Polka",
+      "imslp_url": "https://imslp.org/wiki/Polka_(Glinka,_Mikhail)",
+      "year": 1849
+    },
+    {
+      "title": "Souvenir d\u2019une nuit d\u2019\u00e9t\u00e9 \u00e0 Madrid",
+      "imslp_url": "https://imslp.org/wiki/Souvenir_d\u2019une_nuit_d\u2019\u00e9t\u00e9_\u00e0_Madrid_(Glinka,_Mikhail)",
+      "year": 1851
+    },
+    {
+      "title": "Mazurka in C major",
+      "imslp_url": "https://imslp.org/wiki/Mazurka_in_C_major_(Glinka,_Mikhail)",
+      "year": 1852
+    },
+    {
+      "title": "Polka enfantine",
+      "imslp_url": "https://imslp.org/wiki/Polka_enfantine_(Glinka,_Mikhail)",
+      "year": 1854
+    },
+    {
+      "title": "Las Mollares",
+      "imslp_url": "https://imslp.org/wiki/Las_Mollares_(Glinka,_Mikhail)",
+      "year": 1855
+    }
+  ]
 }

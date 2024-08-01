@@ -7,539 +7,439 @@
   "wikipedia_url": "https://en.wikipedia.org/wiki/Ottorino_Respighi",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Respighi popped into the world in a musical family in Bologna. His dad, a postal worker by day and pianist by night, probably had a son who could tune a piano by ear before he could even walk.",
+      "section": "Biography",
+      "title": "Birth of Ottorino Respighi",
+      "summary": "Respighi was born in Bologna to a middle-class family with musical influences. His father's encouragement, despite Respighi's initial disinterest in music, shaped his early years.",
       "year": 1879,
-      "city": "Bologna",
-      "country": "Italy"
+      "location": "Bologna, Italy",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Born in Bologna to a middle-class family with musical influences, Respighi entered the world like a musical superhero, fame-bound but initially ghosting the whole music scene. But fear not! His dad, the ultimate musical cheerleader, turned that baby disinterest into melodic mayhem \u2013 talk about a plot twist!"
     },
     {
-      "event": "Formal Music Education",
-      "summary": "At the tender age of 12, Respighi decided that music was cooler than just playing with his toys, enrolling at the Liceo Musicale di Bologna where he dabbled in violin and composition. After a not-so-friendly encounter with a ruler, he found more patient tutors.",
-      "year": 1891,
-      "city": "Bologna",
-      "country": "Italy"
-    },
-    {
-      "event": "Professional Career Begins",
-      "summary": "Respighi joined the orchestra at the Teatro Comunale, showing off his violin skills and leaving audiences wondering if they\u2019d ever see a violinist so talented who could also snooze through a performance.",
+      "section": "Biography",
+      "title": "Diploma in Violin Performance",
+      "summary": "In June 1899, Respighi received his diploma in violin performance, successfully performing a piece by Paganini during his examination.",
       "year": 1899,
-      "city": "Bologna",
-      "country": "Italy"
+      "location": "Bologna, Italy",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "In June 1899, Respighi proudly received his diploma in violin performance, taking the stage and mastering a Paganini piece like a boss, surprising everyone, including himself, who thought he\u2019d just come to play the washboard!"
     },
     {
-      "event": "Meeting Rimsky-Korsakov",
-      "summary": "He went to Russia and ended up rubbing shoulders with his idol, Rimsky-Korsakov, who must have thought \u2018This kid has potential,\u2019 teaching Respighi orchestration and probably sharing snacks during study sessions.",
+      "section": "Biography",
+      "title": "Principal Violist in Saint Petersburg",
+      "summary": "In the winter of 1900, Respighi accepted the role of principal violist in the orchestra at the Russian Imperial Theatre, where he met the composer Rimsky-Korsakov, who provided him with composition lessons.",
       "year": 1900,
-      "city": "Saint Petersburg",
-      "country": "Russia"
+      "location": "Saint Petersburg, Russia",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "So there was Respighi, braving the winter of 1900 like a true hero, signing up as the principal violist at the Russian Imperial Theatre. Little did he know, he'd meet the legendary Rimsky-Korsakov there\u2014basically his musical Yoda, who provided him with invaluable composition lessons!"
     },
     {
-      "event": "Completion of First Opera",
-      "summary": "Respighi finally finished his first opera, Re Enzo. This comedy left people laughing harder than they had any right to, probably forgetting that Respighi still had a day job as a violist.",
-      "year": 1905,
-      "city": "Bologna",
-      "country": "Italy"
+      "section": "Biography",
+      "title": "Final Exam Successful Performance",
+      "summary": "Respighi performed his composition 'Preludio, corale e fuga' in June 1901 as part of his final exam at the Liceo Musicale, which received a resounding success and acclaim from his instructors.",
+      "year": 1901,
+      "location": "Bologna, Italy",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In June 1901, Respighi debuted his composition 'Preludio, corale e fuga' during his final exam at the Liceo Musicale. His performance not only earned a round of applause but also received resounding success and acclaim, with instructors even considering giving him extra credit for not using a kazoo!"
     },
     {
-      "event": "International Success",
-      "summary": "His transcription of Monteverdi\u2019s 'Lamento d'Arianna' made waves during a performance in Berlin, and he came to the realization that history was not just dusty old books but profitable!",
+      "section": "Biography",
+      "title": "First International Success",
+      "summary": "Respighi's transcription of Monteverdi's 'Lamento d'Arianna' premiered in Berlin in 1908, marking his first significant success on an international stage.",
       "year": 1908,
-      "city": "Berlin",
-      "country": "Germany"
+      "location": "Berlin, Germany",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "So, Respighi walks into a Berlin auditorium in 1908 with a transcription of Monteverdi's 'Lamento d'Arianna,' and the crowd goes wild! BOOM! He's an international superstar\u2014his first significant success on an international stage and a stellar attempt at making the classics trendy!"
     },
     {
-      "event": "Teaching Position in Rome",
-      "summary": "Respighi found his way to Rome and took up a teaching post at the Liceo Musicale di Santa Cecilia, where he became a mentor to future music legends\u2014because what else do you do when you're a musical genius?",
-      "year": 1913,
-      "city": "Rome",
-      "country": "Italy"
+      "section": "Biography",
+      "title": "Premier of the Opera Semir\u00e2ma",
+      "summary": "Respighi's second opera, Semir\u00e2ma, premiered at the Teatro Comunale in November 1910, receiving critical acclaim and marking a notable shift in his musical style.",
+      "year": 1910,
+      "location": "Bologna, Italy",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Respighi's second opera, Semir\u00e2ma, hit the stage at the Teatro Comunale in November 1910, receiving critical acclaim and marking a notable shift in his musical style, much to the delight of critics who finally realized that opera is just an extremely long way to deliver a message!"
     },
     {
-      "event": "Marriage to Elsa",
-      "summary": "In a classic tale of student-teacher romance, Respighi married his pupil Elsa. Their level of harmony was so good even a choir would be jealous\u2014if only they could sing in eleven languages!",
+      "section": "Biography",
+      "title": "Premiere of Fountains of Rome",
+      "summary": "In March 1917, Respighi's first orchestral tone poem, 'Fountains of Rome,' premiered in Rome, setting the stage for his rising fame in the classical music world.",
+      "year": 1917,
+      "location": "Rome, Italy",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In March 1917, Respighi\u2019s first orchestral tone poem, 'Fountains of Rome,' premiered in Rome. It was such a hit that the fountains have been overflowing ever since, probably wondering why no one brought them along for the concert! This marked the beginning of Respighi's rising fame in the classical music world."
+    },
+    {
+      "section": "Biography",
+      "title": "Marriage to Elsa Olivieri-Sangiacomo",
+      "summary": "Respighi married 19-year-old Elsa Olivieri-Sangiacomo in January 1919, marking the beginning of a deeply harmonious relationship shared through their love of music.",
       "year": 1919,
-      "city": "Rome",
-      "country": "Italy"
+      "location": "Rome, Italy",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "Respighi tied the knot with the 19-year-old Elsa Olivieri-Sangiacomo in January 1919, marking the start of a deeply harmonious relationship, a symphony of love that was so harmonious it could make even the grumpiest cat tap its paws in rhythm!"
     },
     {
-      "event": "Premier of Fountains of Rome",
-      "summary": "His first orchestral tone poem, Fountains of Rome, premiered to a crowd so grumpy it made winter frozen roads look pleasant. But despite the rocky reception, Respighi got a taste of the fame that would soon flow his way.",
-      "year": 1917,
-      "city": "Rome",
-      "country": "Italy"
+      "section": "Biography",
+      "title": "Debut at Carnegie Hall",
+      "summary": "In December 1925, Respighi made his American debut at Carnegie Hall, conducting and performing his own works, which propelled his recognition internationally.",
+      "year": 1925,
+      "location": "New York City, USA",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In December 1925, Respighi made his American debut at Carnegie Hall, conducting and performing his own works, which propelled his recognition internationally faster than your uncle at a family gathering can tell a bad joke!"
     },
     {
-      "event": "Composing at Eremo di Tizzano",
-      "summary": "After a rough patch following his mother\u2019s passing, Respighi found solace writing music in the peaceful hills of Eremo di Tizzano, where he probably took more naps than usual, using a dreamy melody for inspiration.",
-      "year": 1917,
-      "city": "Casalecchio di Reno",
-      "country": "Italy"
-    },
-    {
-      "event": "Death",
-      "summary": "Respighi, while knee-deep in composing his opera Lucrezia, met his match with illness. It was a sad farewell, but one can imagine him leaving behind melodies that still wander the streets of Rome, refusing to become mere notes on a page.",
-      "year": 1936,
-      "city": "Rome",
-      "country": "Italy"
-    },
-    {
-      "event": "Rise to Fame",
-      "summary": "In a dramatic twist that could rival opera plots, Respighi reluctantly picked 'Fountains of Rome' for a series of concerts in Milan, thrusting him into the spotlight. The success of these concerts turned him into an Italian musical powerhouse, and he started a tumultuous partnership with the legendary conductor Arturo Toscanini. This was the moment he realized that picking favorites could pay off handsomely!",
-      "year": 1918,
-      "city": "Milan",
-      "country": "Italy"
-    },
-    {
-      "event": "Successful Ballet Commission",
-      "summary": "Respighi\u2019s summer was quite productive as he accepted a commission from Diaghilev for the Ballets Russes. He created a revised version of an Italian opera that concluded with Russian-themed dances. The ballet premiered in Paris, proving that mixing cultures in the art world was not just a modern concept but a fabulous hit!",
-      "year": 1920,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Concert Tour with Elsa",
-      "summary": "In a delightful duo venture for the ages, Respighi and his wife Elsa embarked on their first concert tour, marking her debut as a live performer. Their journey took them across Italy and to Prague and Vienna, showcasing that musical talent runs in the family\u2014even if it meant a stern letter from his employers about why he was away so long!",
-      "year": 1921,
-      "city": "Prague",
-      "country": "Czechoslovakia"
-    },
-    {
-      "event": "First Opera in a Decade",
-      "summary": "Respighi struck a creative chord with his friend Claudio Guastalla, resulting in the completion of 'Belfagor', his first opera in ten years. The opera's premiere was welcomed, marking a joy-filled return to the operatic scene without the gloom that typically followed his compositions. A true testament to the power of friendships in the arts!",
-      "year": 1923,
-      "city": "Milan",
-      "country": "Italy"
-    },
-    {
-      "event": "Director of Conservatorio di Santa Cecilia",
-      "summary": "Respighi found himself in a prestigious position as the first director of the state-funded Conservatorio di Santa Cecilia. Despite the title sounding impressive, he quickly grew weary of the red tape and administrative duties, deciding by 1926 that teaching was far more pleasant than paperwork\u2014an artist's lament for the ages!",
-      "year": 1923,
-      "city": "Rome",
-      "country": "Italy"
-    },
-    {
-      "event": "Toccata Premiere at Carnegie Hall",
-      "summary": "In a celebratory return to America, Respighi premiered 'Toccata per pianoforte e orchestra' at Carnegie Hall, much to the excitement of the audience. Sharing the stage with the New York Philharmonic, he showcased that every big city loves a good musical event\u2014even if it means a fierce battle for the best piano bench!",
-      "year": 1928,
-      "city": "New York",
-      "country": "USA"
-    },
-    {
-      "event": "Creation of Roman Festivals",
-      "summary": "Respighi completed his third Roman tone poem, 'Roman Festivals', in record time\u2014just nine days! It premiered with Arturo Toscanini at Carnegie Hall, where Respighi claimed he had squeezed every bit of orchestral brilliance imaginable, marking a proud moment for anyone who ever rushed to meet a deadline and nailed it!",
+      "section": "Biography",
+      "title": "Premiere of Roman Festivals",
+      "summary": "'Roman Festivals,' Respighi's third Roman tone poem, was premiered at Carnegie Hall in February 1929, solidifying his status as a leading composer of his time.",
       "year": 1929,
-      "city": "New York",
-      "country": "USA"
+      "location": "New York City, USA",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Roman Festivals, Respighi's third Roman tone poem, had its grand premiere at Carnegie Hall in February 1929. They say it was so good that even the statues in Rome stopped photobombing and started clapping!"
     },
     {
-      "event": "Membership of the Reale Accademia d'Italia",
-      "summary": "In a rather flattering twist, Respighi was formally honored with a prestigious membership in the Reale Accademia d'Italia. It felt a bit like receiving a lifetime achievement award at the Oscars\u2014except without the golden statue and all the flashy speeches, just pure Italian pride!",
-      "year": 1932,
-      "city": "Rome",
-      "country": "Italy"
-    },
-    {
-      "event": "Opera La fiamma Premieres",
-      "summary": "Respighi conducted his opera 'La fiamma' at the Teatro dell'Opera di Roma, marking a significant moment in his directorial career. This event showed that theatrics and composition could wonderfully coexist, even if it was a bit stressful (imagine placing a bedazzled crown on a fantastical character while conducting simultaneously).",
-      "year": 1934,
-      "city": "Rome",
-      "country": "Italy"
-    },
-    {
-      "event": "Declining Health and Final Works",
-      "summary": "As Respighi tried to finish his next opera 'Lucrezia', health troubles crept in like an uninvited guest. Despite his attempts to continue composing, his body had other plans, leading to the sad but relatable reality of artists battling the inevitable\u2014proving that creativity doesn\u2019t always cooperate with health!",
+      "section": "Biography",
+      "title": "Final Work on Opera Lucrezia",
+      "summary": "Respighi fell ill while working on his opera Lucrezia at the end of 1935. Though he had made significant progress, he was unable to complete it due to health issues.",
       "year": 1935,
-      "city": "Rome",
-      "country": "Italy"
+      "location": "Rome, Italy",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Respighi was so committed to finishing his opera, Lucrezia, that he decided to fall ill halfway through\u2014because what better way to create tension than by starring in a real-life opera of his own? It seems like his health decided to go on an unexpected solo! Unfortunately, despite making significant progress, he was unable to complete it due to these health issues."
     },
     {
-      "event": "Born",
-      "summary": "Ottorino Respighi made his grand entrance into the world, ensuring that his mother would remember that day for the rest of her life\u2014after all, it came with quite a bit of noise!.",
-      "year": 1879,
-      "city": "Bologna",
-      "country": "Italy"
-    },
-    {
-      "event": "First Opera Production",
-      "summary": "With 'Re Enzo' hitting the stage, Respighi decided it was time to take the opera world by storm, proving that even royal figures could become dramatic stars.",
-      "year": 1905,
-      "city": "Rome",
-      "country": "Italy"
-    },
-    {
-      "event": "Completed 'Semir\u00e2ma'",
-      "summary": "'Semir\u00e2ma' was like Respighi's personal audition piece for the operatic legacy, showcasing his talent and determination to make his mark.",
-      "year": 1909,
-      "city": "Rome",
-      "country": "Italy"
-    },
-    {
-      "event": "Premiered 'Fountains of Rome'",
-      "summary": "The 'Fountains of Rome' debuted, leaving audiences wondering if there was a second composer hiding behind Respighi, because this piece was simply on another level.",
-      "year": 1916,
-      "city": "Rome",
-      "country": "Italy"
-    },
-    {
-      "event": "Premiered 'Pines of Rome'",
-      "summary": "When 'Pines of Rome' premiered, listeners might have thought they heard the trees whispering Respighi\u2019s name, as nature itself became the ultimate fan of his work.",
-      "year": 1924,
-      "city": "Rome",
-      "country": "Italy"
-    },
-    {
-      "event": "Released 'The Birds'",
-      "summary": "Respighi's 'The Birds' flapped its wings into the repertoire, turning concerts into a delightful aviary, and giving every birdwatcher a reason to celebrate.",
-      "year": 1928,
-      "city": "Rome",
-      "country": "Italy"
-    },
-    {
-      "event": "Last Year of Composition",
-      "summary": "In his final year, Respighi was still composing away, proving that great artists never put down their pens, not even to take a quick coffee break!",
+      "section": "Biography",
+      "title": "Death of Ottorino Respighi",
+      "summary": "Respighi passed away on April 18, 1936, in Rome after a prolonged illness that led to complications, marking the end of a significant era in classical music.",
       "year": 1936,
-      "city": "Rome",
-      "country": "Italy"
-    },
-    {
-      "event": "Died",
-      "summary": "Respighi left the stage of life, but his music ensured that the show would go on, with many still marveling at his artistic brilliance.",
-      "year": 1936,
-      "city": "Rome",
-      "country": "Italy"
+      "location": "Rome, Italy",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Respighi checked out of this world on April 18, 1936, in Rome, but not without a dramatic farewell with complications! Although we have lost a composer, Respighi's legacy marked the end of a significant era in classical music, and his encore still echoes in the concert halls!"
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/Adagio_con_variazioni_(Respighi,_Ottorino)",
-      "year": 1902,
-      "title": "Adagio con variazioni"
+      "title": "L'ultima ebberezza",
+      "imslp_url": "https://imslp.org/wiki/L'ultima_ebberezza_(Respighi,_Ottorino)",
+      "year": 1896
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Antiche_danze_et_arie_per_liuto,_Suite_No.1_(Respighi,_Ottorino)",
-      "year": 1917,
-      "title": "Antiche danze et arie per liuto, Suite No.1"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Antiche_danze_et_arie_per_liuto,_Suite_No.2_(Respighi,_Ottorino)",
-      "year": 1923,
-      "title": "Antiche danze et arie per liuto, Suite No.2"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Antiche_danze_et_arie_per_liuto,_Suite_No.3_(Respighi,_Ottorino)",
-      "year": 1932,
-      "title": "Antiche danze et arie per liuto, Suite No.3"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Aretusa_(Respighi,_Ottorino)",
-      "year": 1911,
-      "title": "Aretusa"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ballata_delle_gnomidi_(Respighi,_Ottorino)",
-      "year": 1920,
-      "title": "Ballata delle gnomidi"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Belfagor_Overture_(Respighi,_Ottorino)",
-      "year": 1925,
-      "title": "Belfagor Overture"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Belfagor_(Respighi,_Ottorino)",
-      "year": 1923,
-      "title": "Belfagor"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Belkis,_regina_di_Saba_(Respighi,_Ottorino)",
-      "year": 1930,
-      "title": "Belkis, regina di Saba"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_boutique_fantasque_(Respighi,_Ottorino)",
-      "year": 1918,
-      "title": "La boutique fantasque"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_campana_sommersa_(Respighi,_Ottorino)",
-      "year": 1927,
-      "title": "La campana sommersa"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Canti_all%27antica_(Respighi,_Ottorino)",
-      "year": 1906,
-      "title": "5 Canti all'antica"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Concerto_a_cinque,_P.174_(Respighi,_Ottorino)",
-      "year": 1933,
-      "title": "Concerto a cinque, P.174"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Concerto_all%27antica_(Respighi,_Ottorino)",
-      "year": 1908,
-      "title": "Concerto all'antica"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Concerto_gregoriano_(Respighi,_Ottorino)",
-      "year": 1921,
-      "title": "Concerto gregoriano"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Concerto_in_modo_misolidio_(Respighi,_Ottorino)",
-      "year": 1924,
-      "title": "Concerto in modo misolidio"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Contrasto_(Respighi,_Ottorino)",
-      "year": 1906,
-      "title": "Contrasto"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Deit%C3%A0_silvane_(Respighi,_Ottorino)",
-      "year": 1917,
-      "title": "Deit\u00e0 silvane"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fantasia_slava_(Respighi,_Ottorino)",
-      "year": 1903,
-      "title": "Fantasia slava"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Feste_romane_(Respighi,_Ottorino)",
-      "year": 1928,
-      "title": "Feste romane"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fontane_di_Roma_(Respighi,_Ottorino)",
-      "year": 1916,
-      "title": "Fontane di Roma"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Impressioni_brasiliane_(Respighi,_Ottorino)",
-      "year": 1928,
-      "title": "Impressioni brasiliane"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Invito_alla_danza_(Respighi,_Ottorino)",
-      "year": 1906,
-      "title": "Invito alla danza"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Liriche_su_parole_di_poeti_armeni_(Respighi,_Ottorino)",
-      "year": 1921,
-      "title": "4 Liriche su parole di poeti armeni"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Liriche_(Respighi,_Ottorino)",
-      "year": 1920,
-      "title": "4 Liriche"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Liriche,_Series_1_(Respighi,_Ottorino)",
-      "year": 1909,
-      "title": "6 Liriche, Series 1"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Liriche,_Series_2_(Respighi,_Ottorino)",
-      "year": 1912,
-      "title": "6 Liriche, Series 2"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Little_Pieces_(Respighi,_Ottorino)",
-      "year": 1925,
-      "title": "6 Little Pieces"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Maria_egiziaca_(Respighi,_Ottorino)",
-      "year": 1931,
-      "title": "Maria egiziaca"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Marie_Victoire,_P.100_(Respighi,_Ottorino)",
-      "year": 1912,
-      "title": "Marie Victoire, P.100"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Melodie_(Respighi,_Ottorino)",
-      "year": 1906,
-      "title": "6 Melodie"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Metamorphoseon_(Respighi,_Ottorino)",
-      "year": 1930,
-      "title": "Metamorphoseon"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Nebbie_(Respighi,_Ottorino)",
-      "year": 1906,
-      "title": "Nebbie"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Nevicata_(Respighi,_Ottorino)",
-      "year": 1906,
-      "title": "Nevicata"
-    },
-    {
+      "title": "Notturno",
       "imslp_url": "https://imslp.org/wiki/Notturno_(Respighi,_Ottorino)",
-      "year": 1896,
-      "title": "Notturno"
+      "year": 1896
     },
     {
-      "imslp_url": "https://imslp.org/wiki/La_pentola_magica_(Respighi,_Ottorino)",
-      "year": 1920,
-      "title": "La pentola magica"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_in_A_minor_(Respighi,_Ottorino)",
-      "year": 1902,
-      "title": "Piano Concerto in A minor"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Quintet_in_F_minor_(Respighi,_Ottorino)",
-      "year": 1902,
-      "title": "Piano Quintet in F minor"
-    },
-    {
+      "title": "Piano Sonata",
       "imslp_url": "https://imslp.org/wiki/Piano_Sonata_(Respighi,_Ottorino)",
-      "year": 1897,
-      "title": "Piano Sonata"
+      "year": 1897
     },
     {
-      "imslp_url": "https://imslp.org/wiki/3_Pieces_for_Organ_(Respighi,_Ottorino)",
-      "year": 1910,
-      "title": "3 Pieces for Organ"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Pieces_for_Piano_(Respighi,_Ottorino)",
-      "year": 1903,
-      "title": "6 Pieces for Piano"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Pieces_for_Violin_and_Piano_(Respighi,_Ottorino)",
-      "year": 1906,
-      "title": "5 Pieces for Violin and Piano"
-    },
-    {
+      "title": "6 Pieces for Violin and Piano",
       "imslp_url": "https://imslp.org/wiki/6_Pieces_for_Violin_and_Piano_(Respighi,_Ottorino)",
-      "year": 1901,
-      "title": "6 Pieces for Violin and Piano"
+      "year": 1901
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Pini_di_Roma_(Respighi,_Ottorino)",
-      "year": 1924,
-      "title": "Pini di Roma"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Poema_autunnale_(Respighi,_Ottorino)",
-      "year": 1925,
-      "title": "Poema autunnale"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Preludes_on_Gregorian_Melodies_(Respighi,_Ottorino)",
-      "year": 1919,
-      "title": "3 Preludes on Gregorian Melodies"
-    },
-    {
+      "title": "Preludio, corale e fuga",
       "imslp_url": "https://imslp.org/wiki/Preludio,_corale_e_fuga_(Respighi,_Ottorino)",
-      "year": 1901,
-      "title": "Preludio, corale e fuga"
+      "year": 1901
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Quartetto_dorico_(Respighi,_Ottorino)",
-      "year": 1924,
-      "title": "Quartetto dorico"
+      "title": "Adagio con variazioni",
+      "imslp_url": "https://imslp.org/wiki/Adagio_con_variazioni_(Respighi,_Ottorino)",
+      "year": 1902
     },
     {
-      "imslp_url": "https://imslp.org/wiki/4_Rispetti_toscani_(Respighi,_Ottorino)",
-      "year": 1915,
-      "title": "4 Rispetti toscani"
+      "title": "Piano Concerto in A minor",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_in_A_minor_(Respighi,_Ottorino)",
+      "year": 1902
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Rossiniana_Suite_(Respighi,_Ottorino)",
-      "year": 1925,
-      "title": "Rossiniana Suite"
+      "title": "Piano Quintet in F minor",
+      "imslp_url": "https://imslp.org/wiki/Piano_Quintet_in_F_minor_(Respighi,_Ottorino)",
+      "year": 1902
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Scherzo_(Respighi,_Ottorino)",
-      "year": 1906,
-      "title": "Scherzo"
+      "title": "6 Pieces for Piano",
+      "imslp_url": "https://imslp.org/wiki/6_Pieces_for_Piano_(Respighi,_Ottorino)",
+      "year": 1903
     },
     {
-      "imslp_url": "https://imslp.org/wiki/4_Scottish_Songs_(Respighi,_Ottorino)",
-      "year": 1924,
-      "title": "4 Scottish Songs"
+      "title": "Fantasia slava",
+      "imslp_url": "https://imslp.org/wiki/Fantasia_slava_(Respighi,_Ottorino)",
+      "year": 1903
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Sinfonia_drammatica_(Respighi,_Ottorino)",
-      "year": 1914,
-      "title": "Sinfonia drammatica"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Stornellatrice_(Respighi,_Ottorino)",
-      "year": 1906,
-      "title": "Stornellatrice"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Stornello_dall%27opera_Re_Enzo_(Respighi,_Ottorino)",
-      "year": 1906,
-      "title": "Stornello dall'opera Re Enzo"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_D_minor,_P.91_(Respighi,_Ottorino)",
-      "year": 1909,
-      "title": "String Quartet in D minor, P.91"
-    },
-    {
+      "title": "String Quartet No.3, P.53",
       "imslp_url": "https://imslp.org/wiki/String_Quartet_No.3,_P.53_(Respighi,_Ottorino)",
-      "year": 1904,
-      "title": "String Quartet No.3, P.53"
+      "year": 1904
     },
     {
+      "title": "Suite in G major, P.58",
       "imslp_url": "https://imslp.org/wiki/Suite_in_G_major,_P.58_(Respighi,_Ottorino)",
-      "year": 1905,
-      "title": "Suite in G major, P.58"
+      "year": 1905
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Toccata_(Respighi,_Ottorino)",
-      "year": 1928,
-      "title": "Toccata"
+      "title": "5 Canti all'antica",
+      "imslp_url": "https://imslp.org/wiki/5_Canti_all'antica_(Respighi,_Ottorino)",
+      "year": 1906
     },
     {
+      "title": "5 Pieces for Violin and Piano",
+      "imslp_url": "https://imslp.org/wiki/5_Pieces_for_Violin_and_Piano_(Respighi,_Ottorino)",
+      "year": 1906
+    },
+    {
+      "title": "6 Melodie",
+      "imslp_url": "https://imslp.org/wiki/6_Melodie_(Respighi,_Ottorino)",
+      "year": 1906
+    },
+    {
+      "title": "Contrasto",
+      "imslp_url": "https://imslp.org/wiki/Contrasto_(Respighi,_Ottorino)",
+      "year": 1906
+    },
+    {
+      "title": "Invito alla danza",
+      "imslp_url": "https://imslp.org/wiki/Invito_alla_danza_(Respighi,_Ottorino)",
+      "year": 1906
+    },
+    {
+      "title": "Nebbie",
+      "imslp_url": "https://imslp.org/wiki/Nebbie_(Respighi,_Ottorino)",
+      "year": 1906
+    },
+    {
+      "title": "Nevicata",
+      "imslp_url": "https://imslp.org/wiki/Nevicata_(Respighi,_Ottorino)",
+      "year": 1906
+    },
+    {
+      "title": "Scherzo",
+      "imslp_url": "https://imslp.org/wiki/Scherzo_(Respighi,_Ottorino)",
+      "year": 1906
+    },
+    {
+      "title": "Stornellatrice",
+      "imslp_url": "https://imslp.org/wiki/Stornellatrice_(Respighi,_Ottorino)",
+      "year": 1906
+    },
+    {
+      "title": "Stornello dall'opera Re Enzo",
+      "imslp_url": "https://imslp.org/wiki/Stornello_dall'opera_Re_Enzo_(Respighi,_Ottorino)",
+      "year": 1906
+    },
+    {
+      "title": "Concerto all'antica",
+      "imslp_url": "https://imslp.org/wiki/Concerto_all'antica_(Respighi,_Ottorino)",
+      "year": 1908
+    },
+    {
+      "title": "6 Liriche, Series 1",
+      "imslp_url": "https://imslp.org/wiki/6_Liriche,_Series_1_(Respighi,_Ottorino)",
+      "year": 1909
+    },
+    {
+      "title": "String Quartet in D minor, P.91",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_D_minor,_P.91_(Respighi,_Ottorino)",
+      "year": 1909
+    },
+    {
+      "title": "3 Pieces for Organ",
+      "imslp_url": "https://imslp.org/wiki/3_Pieces_for_Organ_(Respighi,_Ottorino)",
+      "year": 1910
+    },
+    {
+      "title": "Aretusa",
+      "imslp_url": "https://imslp.org/wiki/Aretusa_(Respighi,_Ottorino)",
+      "year": 1911
+    },
+    {
+      "title": "6 Liriche, Series 2",
+      "imslp_url": "https://imslp.org/wiki/6_Liriche,_Series_2_(Respighi,_Ottorino)",
+      "year": 1912
+    },
+    {
+      "title": "Marie Victoire, P.100",
+      "imslp_url": "https://imslp.org/wiki/Marie_Victoire,_P.100_(Respighi,_Ottorino)",
+      "year": 1912
+    },
+    {
+      "title": "Il tramonto",
       "imslp_url": "https://imslp.org/wiki/Il_tramonto_(Respighi,_Ottorino)",
-      "year": 1914,
-      "title": "Il tramonto"
+      "year": 1914
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Trittico_botticelliano_(Respighi,_Ottorino)",
-      "year": 1927,
-      "title": "Trittico botticelliano"
+      "title": "Sinfonia drammatica",
+      "imslp_url": "https://imslp.org/wiki/Sinfonia_drammatica_(Respighi,_Ottorino)",
+      "year": 1914
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Gli_uccelli_(Respighi,_Ottorino)",
-      "year": 1928,
-      "title": "Gli uccelli"
+      "title": "4 Rispetti toscani",
+      "imslp_url": "https://imslp.org/wiki/4_Rispetti_toscani_(Respighi,_Ottorino)",
+      "year": 1915
     },
     {
-      "imslp_url": "https://imslp.org/wiki/L%27ultima_ebberezza_(Respighi,_Ottorino)",
-      "year": 1896,
-      "title": "L'ultima ebberezza"
+      "title": "Fontane di Roma",
+      "imslp_url": "https://imslp.org/wiki/Fontane_di_Roma_(Respighi,_Ottorino)",
+      "year": 1916
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Vetrate_di_chiesa_(Respighi,_Ottorino)",
-      "year": 1925,
-      "title": "Vetrate di chiesa"
-    },
-    {
+      "title": "Violin Sonata in B minor",
       "imslp_url": "https://imslp.org/wiki/Violin_Sonata_in_B_minor_(Respighi,_Ottorino)",
-      "year": 1916,
-      "title": "Violin Sonata in B minor"
+      "year": 1916
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Toccata_and_Fugue_in_A_minor_(Respighi,_Ottorino)",
-      "year": 1917,
-      "title": "Toccata and Fugue in A minor"
+      "title": "Antiche danze et arie per liuto, Suite No.1",
+      "imslp_url": "https://imslp.org/wiki/Antiche_danze_et_arie_per_liuto,_Suite_No.1_(Respighi,_Ottorino)",
+      "year": 1917
+    },
+    {
+      "title": "Deit\u00e0 silvane",
+      "imslp_url": "https://imslp.org/wiki/Deit\u00e0_silvane_(Respighi,_Ottorino)",
+      "year": 1917
+    },
+    {
+      "title": "La boutique fantasque",
+      "imslp_url": "https://imslp.org/wiki/La_boutique_fantasque_(Respighi,_Ottorino)",
+      "year": 1918
+    },
+    {
+      "title": "3 Preludes on Gregorian Melodies",
+      "imslp_url": "https://imslp.org/wiki/3_Preludes_on_Gregorian_Melodies_(Respighi,_Ottorino)",
+      "year": 1919
+    },
+    {
+      "title": "4 Liriche",
+      "imslp_url": "https://imslp.org/wiki/4_Liriche_(Respighi,_Ottorino)",
+      "year": 1920
+    },
+    {
+      "title": "Ballata delle gnomidi",
+      "imslp_url": "https://imslp.org/wiki/Ballata_delle_gnomidi_(Respighi,_Ottorino)",
+      "year": 1920
+    },
+    {
+      "title": "La pentola magica",
+      "imslp_url": "https://imslp.org/wiki/La_pentola_magica_(Respighi,_Ottorino)",
+      "year": 1920
+    },
+    {
+      "title": "4 Liriche su parole di poeti armeni",
+      "imslp_url": "https://imslp.org/wiki/4_Liriche_su_parole_di_poeti_armeni_(Respighi,_Ottorino)",
+      "year": 1921
+    },
+    {
+      "title": "Concerto gregoriano",
+      "imslp_url": "https://imslp.org/wiki/Concerto_gregoriano_(Respighi,_Ottorino)",
+      "year": 1921
+    },
+    {
+      "title": "Antiche danze et arie per liuto, Suite No.2",
+      "imslp_url": "https://imslp.org/wiki/Antiche_danze_et_arie_per_liuto,_Suite_No.2_(Respighi,_Ottorino)",
+      "year": 1923
+    },
+    {
+      "title": "Belfagor",
+      "imslp_url": "https://imslp.org/wiki/Belfagor_(Respighi,_Ottorino)",
+      "year": 1923
+    },
+    {
+      "title": "4 Scottish Songs",
+      "imslp_url": "https://imslp.org/wiki/4_Scottish_Songs_(Respighi,_Ottorino)",
+      "year": 1924
+    },
+    {
+      "title": "Concerto in modo misolidio",
+      "imslp_url": "https://imslp.org/wiki/Concerto_in_modo_misolidio_(Respighi,_Ottorino)",
+      "year": 1924
+    },
+    {
+      "title": "Pini di Roma",
+      "imslp_url": "https://imslp.org/wiki/Pini_di_Roma_(Respighi,_Ottorino)",
+      "year": 1924
+    },
+    {
+      "title": "Quartetto dorico",
+      "imslp_url": "https://imslp.org/wiki/Quartetto_dorico_(Respighi,_Ottorino)",
+      "year": 1924
+    },
+    {
+      "title": "6 Little Pieces",
+      "imslp_url": "https://imslp.org/wiki/6_Little_Pieces_(Respighi,_Ottorino)",
+      "year": 1925
+    },
+    {
+      "title": "Belfagor Overture",
+      "imslp_url": "https://imslp.org/wiki/Belfagor_Overture_(Respighi,_Ottorino)",
+      "year": 1925
+    },
+    {
+      "title": "Poema autunnale",
+      "imslp_url": "https://imslp.org/wiki/Poema_autunnale_(Respighi,_Ottorino)",
+      "year": 1925
+    },
+    {
+      "title": "Rossiniana Suite",
+      "imslp_url": "https://imslp.org/wiki/Rossiniana_Suite_(Respighi,_Ottorino)",
+      "year": 1925
+    },
+    {
+      "title": "Vetrate di chiesa",
+      "imslp_url": "https://imslp.org/wiki/Vetrate_di_chiesa_(Respighi,_Ottorino)",
+      "year": 1925
+    },
+    {
+      "title": "La campana sommersa",
+      "imslp_url": "https://imslp.org/wiki/La_campana_sommersa_(Respighi,_Ottorino)",
+      "year": 1927
+    },
+    {
+      "title": "Trittico botticelliano",
+      "imslp_url": "https://imslp.org/wiki/Trittico_botticelliano_(Respighi,_Ottorino)",
+      "year": 1927
+    },
+    {
+      "title": "Feste romane",
+      "imslp_url": "https://imslp.org/wiki/Feste_romane_(Respighi,_Ottorino)",
+      "year": 1928
+    },
+    {
+      "title": "Gli uccelli",
+      "imslp_url": "https://imslp.org/wiki/Gli_uccelli_(Respighi,_Ottorino)",
+      "year": 1928
+    },
+    {
+      "title": "Impressioni brasiliane",
+      "imslp_url": "https://imslp.org/wiki/Impressioni_brasiliane_(Respighi,_Ottorino)",
+      "year": 1928
+    },
+    {
+      "title": "Toccata",
+      "imslp_url": "https://imslp.org/wiki/Toccata_(Respighi,_Ottorino)",
+      "year": 1928
+    },
+    {
+      "title": "Belkis, regina di Saba",
+      "imslp_url": "https://imslp.org/wiki/Belkis,_regina_di_Saba_(Respighi,_Ottorino)",
+      "year": 1930
+    },
+    {
+      "title": "Metamorphoseon",
+      "imslp_url": "https://imslp.org/wiki/Metamorphoseon_(Respighi,_Ottorino)",
+      "year": 1930
+    },
+    {
+      "title": "Maria egiziaca",
+      "imslp_url": "https://imslp.org/wiki/Maria_egiziaca_(Respighi,_Ottorino)",
+      "year": 1931
+    },
+    {
+      "title": "Antiche danze et arie per liuto, Suite No.3",
+      "imslp_url": "https://imslp.org/wiki/Antiche_danze_et_arie_per_liuto,_Suite_No.3_(Respighi,_Ottorino)",
+      "year": 1932
+    },
+    {
+      "title": "Concerto a cinque, P.174",
+      "imslp_url": "https://imslp.org/wiki/Concerto_a_cinque,_P.174_(Respighi,_Ottorino)",
+      "year": 1933
     }
   ]
 }

@@ -7,68 +7,508 @@
   "wikipedia_url": "https://en.wikipedia.org/wiki/Luigi_Boccherini",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Luigi Boccherini burst into the world as the third child in a musical family, ensuring that his family's jam sessions had a guaranteed cellist from day one!",
+      "section": "Biography",
+      "title": "Birth",
+      "summary": "Luigi Boccherini was born into a musical family in Lucca, Italy. His family background greatly influenced his early life and career in music.",
       "year": 1743,
-      "city": "Lucca",
-      "country": "Italy"
+      "location": "Lucca, Italy",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Luigi Boccherini popped into the world surrounded by more music than a karaoke bar on disco night! Born in Lucca, Italy, his family was so musical that even the spaghetti sang opera while simmering! This lively upbringing greatly influenced his early life and career in music."
     },
     {
-      "event": "First Music Lessons",
-      "summary": "At the tender age of five, Boccherini picked up his first lessons on the cello, likely providing his father with an eager student who asked 'Are we there yet?' for the entirety of the session.",
+      "section": "Biography",
+      "title": "First Music Lessons",
+      "summary": "At the age of five, Luigi received his first music lessons from his father, who was a cellist and double-bass player. This early training laid the foundation for his future endeavors in music.",
       "year": 1748,
-      "city": "Lucca",
-      "country": "Italy"
+      "location": "Lucca, Italy",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "At the tender age of five, Luigi received his first music lessons from his father, who moonlighted as both a cellist and a double-bass player. This early training laid the foundation for his future endeavors in music. Talk about starting at the deep end! I mean, not many kids get a symphony of strings to learn from, but hey, Luigi was just picking up the bass clef while other kids were picking their noses!"
     },
     {
-      "event": "Study in Rome",
-      "summary": "Sending his son off to Rome at thirteen, Boccherini's father surely thought he was off to be the next great musician, while Luigi was probably daydreaming of playing music with the squirrels in the park instead.",
+      "section": "Biography",
+      "title": "Study in Rome",
+      "summary": "At thirteen, Boccherini was sent to study in Rome with Giovanni Battista Costanzi, a move that would enhance his musical education and career.",
       "year": 1756,
-      "city": "Rome",
-      "country": "Italy"
+      "location": "Rome, Italy",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Boccherini was sent to study in Rome at thirteen with Giovanni Battista Costanzi, a move which surely enhanced his musical education and career. After all, you can't learn to compose symphonies while just hanging out with other teenagers!"
     },
     {
-      "event": "Vienna Employment",
-      "summary": "Upon moving to Vienna, Boccherini and his father both became court musicians, ensuring they had front row seats to all the aristocratic drama while serenading them with sweet melodies.",
+      "section": "Biography",
+      "title": "Employment in Vienna",
+      "summary": "In 1757, Boccherini and his father were employed as musicians in the Burgtheater in Vienna, marking an important step in his career.",
       "year": 1757,
-      "city": "Vienna",
-      "country": "Austria"
+      "location": "Vienna, Austria",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "In 1757, Boccherini and his father were employed as musicians in the Burgtheater in Vienna, marking an important step in Boccherini's career. This was the moment Boccherini's career soared!"
     },
     {
-      "event": "Move to Madrid",
-      "summary": "Embarking on an adventure to Madrid, Boccherini entered royal employment, ready to sprinkle his musical charm on the Spanish court, despite a king who wasn\u2019t shy about expressing his 'constructive criticism'.",
+      "section": "Biography",
+      "title": "Move to Madrid",
+      "summary": "In 1768, Boccherini moved to Madrid, where his career flourished under royal patronage. This marked a significant turn in his musical journey.",
       "year": 1768,
-      "city": "Madrid",
-      "country": "Spain"
+      "location": "Madrid, Spain",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "In 1768, Boccherini strutted into Madrid like he owned the place, where his flourishing career under royal thumbs marked a significant turn in his musical journey\u2014who knew being a composer could be this glamorous?"
     },
     {
-      "event": "Dismissal from Royal Patronage",
-      "summary": "After an amusing miscommunication involving a trio passage, Boccherini doubled down - and got fired! Who knew royal feedback would lead to such an unexpected career pivot?",
+      "section": "Biography",
+      "title": "Dismissal from Royal Service",
+      "summary": "After a disagreement with King Charles III over a musical passage, Boccherini was dismissed from his position, a turning point that led him to create many famous works in nearby towns.",
       "year": 1770,
-      "city": "Madrid",
-      "country": "Spain"
+      "location": "Arenas de San Pedro, Spain",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "After a rather 'note-worthy' disagreement with King Charles III over a musical passage, Boccherini got the boot! This 'firing' would lead him to create many famous works and spark a musical frenzy in nearby towns that had everyone dancing like no one was watching!"
     },
     {
-      "event": "Famous Compositions",
-      "summary": "In the picturesque mountains, with an occasional visit from the friendly neighborhood goat, Boccherini penned many of his famed works, creating music that was both splendid and possibly inspired by him yodeling at goats.",
-      "year": 1770,
-      "city": "Arenas de San Pedro",
-      "country": "Spain"
-    },
-    {
-      "event": "Later Patronage",
-      "summary": "While artistically wandering, Boccherini caught the eyes of fancy patrons including royalty and a Bonaparte. I suppose a French ambassador was a bit of a change from the usual Spanish fiesta vibes he was used to.",
+      "section": "Biography",
+      "title": "Patronage after Royal Dismissal",
+      "summary": "Following his dismissal, Boccherini found patronage with notable figures such as the French ambassador to Spain and King Friedrich Wilhelm II of Prussia.",
       "year": 1785,
-      "city": "Madrid",
-      "country": "Spain"
+      "location": "Spain",
+      "emoji": "\ud83e\udd1d",
+      "fun_version": "After being shown the door, Boccherini decided to schmooze with some high-profile pals, including the French ambassador to Spain\u2014who probably had a very fancy hat\u2014and King Friedrich Wilhelm II of Prussia, who I assume liked his music as much as he liked his schnitzels!"
     },
     {
-      "event": "Death",
-      "summary": "After a life filled with musical triumphs and a few too many dramatic exits from patronage, Boccherini finally took his final bow, leaving behind a legacy that had people humming his tunes long after he left the stage.",
+      "section": "Biography",
+      "title": "Death",
+      "summary": "Luigi Boccherini died in Madrid, following a series of personal tragedies including the deaths of his patrons and family members. His passing marked the end of a notable musical life.",
       "year": 1805,
-      "city": "Madrid",
-      "country": "Spain"
+      "location": "Madrid, Spain",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "Luigi Boccherini shuffled off this mortal coil in Madrid, dodging his patrons and family! His exit from the world marked not just the end of a notable musical life, but also the beginning of a very awkward farewell party among the ghosts of his audience!"
     }
   ],
-  "compositions": []
+  "works": [
+    {
+      "title": "String Quartet in B-flat major, G.160",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_B-flat_major,_G.160_(Boccherini,_Luigi)",
+      "year": 1761
+    },
+    {
+      "title": "String Quartet in C major, G.164",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_C_major,_G.164_(Boccherini,_Luigi)",
+      "year": 1761
+    },
+    {
+      "title": "String Quartet in C minor, G.159",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_C_minor,_G.159_(Boccherini,_Luigi)",
+      "year": 1761
+    },
+    {
+      "title": "String Quartet in D major, G.161",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_D_major,_G.161_(Boccherini,_Luigi)",
+      "year": 1761
+    },
+    {
+      "title": "String Quartet in E major, G.163",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_E_major,_G.163_(Boccherini,_Luigi)",
+      "year": 1761
+    },
+    {
+      "title": "String Quartet in E-flat major, G.162",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_E-flat_major,_G.162_(Boccherini,_Luigi)",
+      "year": 1761
+    },
+    {
+      "title": "Cello Sonata in F major, G.1",
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata_in_F_major,_G.1_(Boccherini,_Luigi)",
+      "year": 1764
+    },
+    {
+      "title": "Symphony in D major, G.490",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_D_major,_G.490_(Boccherini,_Luigi)",
+      "year": 1765
+    },
+    {
+      "title": "Cello Sonata in G major, G.5",
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata_in_G_major,_G.5_(Boccherini,_Luigi)",
+      "year": 1766
+    },
+    {
+      "title": "Symphony in D major, G.500",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_D_major,_G.500_(Boccherini,_Luigi)",
+      "year": 1767
+    },
+    {
+      "title": "Cello Sonata in C major, G.6",
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata_in_C_major,_G.6_(Boccherini,_Luigi)",
+      "year": 1768
+    },
+    {
+      "title": "Concerto grande a pi\u00f9 stromenti obbligati, G.491",
+      "imslp_url": "https://imslp.org/wiki/Concerto_grande_a_pi\u00f9_stromenti_obbligati,_G.491_(Boccherini,_Luigi)",
+      "year": 1769
+    },
+    {
+      "title": "String Quartet in A major, G.170",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_A_major,_G.170_(Boccherini,_Luigi)",
+      "year": 1769
+    },
+    {
+      "title": "String Quartet in C minor, G.166",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_C_minor,_G.166_(Boccherini,_Luigi)",
+      "year": 1769
+    },
+    {
+      "title": "String Quartet in D major, G.165",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_D_major,_G.165_(Boccherini,_Luigi)",
+      "year": 1769
+    },
+    {
+      "title": "String Quartet in E-flat major, G.167",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_E-flat_major,_G.167_(Boccherini,_Luigi)",
+      "year": 1769
+    },
+    {
+      "title": "String Quartet in F major, G.169",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_F_major,_G.169_(Boccherini,_Luigi)",
+      "year": 1769
+    },
+    {
+      "title": "String Quartet in G minor, G.168",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_G_minor,_G.168_(Boccherini,_Luigi)",
+      "year": 1769
+    },
+    {
+      "title": "Cello Concerto in D major, G.479",
+      "imslp_url": "https://imslp.org/wiki/Cello_Concerto_in_D_major,_G.479_(Boccherini,_Luigi)",
+      "year": 1770
+    },
+    {
+      "title": "Cello Concerto in E-flat major, G.474",
+      "imslp_url": "https://imslp.org/wiki/Cello_Concerto_in_E-flat_major,_G.474_(Boccherini,_Luigi)",
+      "year": 1770
+    },
+    {
+      "title": "String Quartet in C minor, G.171",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_C_minor,_G.171_(Boccherini,_Luigi)",
+      "year": 1770
+    },
+    {
+      "title": "String Quartet in D major, G.175",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_D_major,_G.175_(Boccherini,_Luigi)",
+      "year": 1770
+    },
+    {
+      "title": "String Quartet in D minor, G.172",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_D_minor,_G.172_(Boccherini,_Luigi)",
+      "year": 1770
+    },
+    {
+      "title": "String Quartet in E major, G.176",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_E_major,_G.176_(Boccherini,_Luigi)",
+      "year": 1770
+    },
+    {
+      "title": "String Quartet in E-flat major, G.174",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_E-flat_major,_G.174_(Boccherini,_Luigi)",
+      "year": 1770
+    },
+    {
+      "title": "String Quartet in F major, G.173",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_F_major,_G.173_(Boccherini,_Luigi)",
+      "year": 1770
+    },
+    {
+      "title": "Cello Sonata in A major, G.4",
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata_in_A_major,_G.4_(Boccherini,_Luigi)",
+      "year": 1771
+    },
+    {
+      "title": "String Quintet in E major, G.275",
+      "imslp_url": "https://imslp.org/wiki/String_Quintet_in_E_major,_G.275_(Boccherini,_Luigi)",
+      "year": 1771
+    },
+    {
+      "title": "String Quartet in C minor, G.182",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_C_minor,_G.182_(Boccherini,_Luigi)",
+      "year": 1772
+    },
+    {
+      "title": "String Quartet in D major, G.177",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_D_major,_G.177_(Boccherini,_Luigi)",
+      "year": 1772
+    },
+    {
+      "title": "String Quartet in E major, G.179",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_E_major,_G.179_(Boccherini,_Luigi)",
+      "year": 1772
+    },
+    {
+      "title": "String Quartet in E-flat major, G.181",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_E-flat_major,_G.181_(Boccherini,_Luigi)",
+      "year": 1772
+    },
+    {
+      "title": "String Quartet in F major, G.178",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_F_major,_G.178_(Boccherini,_Luigi)",
+      "year": 1772
+    },
+    {
+      "title": "String Quartet in F major, G.180",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_F_major,_G.180_(Boccherini,_Luigi)",
+      "year": 1772
+    },
+    {
+      "title": "Flute Quintet in E-flat major, G.424",
+      "imslp_url": "https://imslp.org/wiki/Flute_Quintet_in_E-flat_major,_G.424_(Boccherini,_Luigi)",
+      "year": 1773
+    },
+    {
+      "title": "String Quartet in A minor, G.187",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_A_minor,_G.187_(Boccherini,_Luigi)",
+      "year": 1775
+    },
+    {
+      "title": "String Quartet in B-flat major, G.186",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_B-flat_major,_G.186_(Boccherini,_Luigi)",
+      "year": 1775
+    },
+    {
+      "title": "String Quartet in C major, G.183",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_C_major,_G.183_(Boccherini,_Luigi)",
+      "year": 1775
+    },
+    {
+      "title": "String Quartet in C major, G.188",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_C_major,_G.188_(Boccherini,_Luigi)",
+      "year": 1775
+    },
+    {
+      "title": "String Quartet in D major, G.184",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_D_major,_G.184_(Boccherini,_Luigi)",
+      "year": 1775
+    },
+    {
+      "title": "String Quartet in E-flat major, G.185",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_E-flat_major,_G.185_(Boccherini,_Luigi)",
+      "year": 1775
+    },
+    {
+      "title": "String Quartet in A major, G.190",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_A_major,_G.190_(Boccherini,_Luigi)",
+      "year": 1777
+    },
+    {
+      "title": "String Quartet in C major, G.192",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_C_major,_G.192_(Boccherini,_Luigi)",
+      "year": 1777
+    },
+    {
+      "title": "String Quartet in C minor, G.193",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_C_minor,_G.193_(Boccherini,_Luigi)",
+      "year": 1777
+    },
+    {
+      "title": "String Quartet in D major, G.189",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_D_major,_G.189_(Boccherini,_Luigi)",
+      "year": 1777
+    },
+    {
+      "title": "String Quartet in E-flat major, G.191",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_E-flat_major,_G.191_(Boccherini,_Luigi)",
+      "year": 1777
+    },
+    {
+      "title": "String Quartet in G minor, G.194",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_G_minor,_G.194_(Boccherini,_Luigi)",
+      "year": 1777
+    },
+    {
+      "title": "String Quartet in A major, G.198",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_A_major,_G.198_(Boccherini,_Luigi)",
+      "year": 1778
+    },
+    {
+      "title": "String Quartet in A major, G.206",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_A_major,_G.206_(Boccherini,_Luigi)",
+      "year": 1778
+    },
+    {
+      "title": "String Quartet in B-flat major, G.195",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_B-flat_major,_G.195_(Boccherini,_Luigi)",
+      "year": 1778
+    },
+    {
+      "title": "String Quartet in C major, G.204",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_C_major,_G.204_(Boccherini,_Luigi)",
+      "year": 1778
+    },
+    {
+      "title": "String Quartet in D major, G.203",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_D_major,_G.203_(Boccherini,_Luigi)",
+      "year": 1778
+    },
+    {
+      "title": "String Quartet in E minor, G.202",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_E_minor,_G.202_(Boccherini,_Luigi)",
+      "year": 1778
+    },
+    {
+      "title": "String Quartet in E-flat major, G.197",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_E-flat_major,_G.197_(Boccherini,_Luigi)",
+      "year": 1778
+    },
+    {
+      "title": "String Quartet in E-flat major, G.201",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_E-flat_major,_G.201_(Boccherini,_Luigi)",
+      "year": 1778
+    },
+    {
+      "title": "String Quartet in F major, G.199",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_F_major,_G.199_(Boccherini,_Luigi)",
+      "year": 1778
+    },
+    {
+      "title": "String Quartet in F minor, G.200",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_F_minor,_G.200_(Boccherini,_Luigi)",
+      "year": 1778
+    },
+    {
+      "title": "String Quartet in G minor, G.196",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_G_minor,_G.196_(Boccherini,_Luigi)",
+      "year": 1778
+    },
+    {
+      "title": "String Quartet in G minor, G.205",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_G_minor,_G.205_(Boccherini,_Luigi)",
+      "year": 1778
+    },
+    {
+      "title": "String Quintet in C major, G.298",
+      "imslp_url": "https://imslp.org/wiki/String_Quintet_in_C_major,_G.298_(Boccherini,_Luigi)",
+      "year": 1778
+    },
+    {
+      "title": "String Quintet in D minor, G.295",
+      "imslp_url": "https://imslp.org/wiki/String_Quintet_in_D_minor,_G.295_(Boccherini,_Luigi)",
+      "year": 1778
+    },
+    {
+      "title": "Stabat Mater, G.532",
+      "imslp_url": "https://imslp.org/wiki/Stabat_Mater,_G.532_(Boccherini,_Luigi)",
+      "year": 1781
+    },
+    {
+      "title": "String Quartet in B-flat major, G210",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_B-flat_major,_G210_(Boccherini,_Luigi)",
+      "year": 1781
+    },
+    {
+      "title": "String Quartet in C major, G208",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_C_major,_G208_(Boccherini,_Luigi)",
+      "year": 1781
+    },
+    {
+      "title": "String Quartet in E major, G207",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_E_major,_G207_(Boccherini,_Luigi)",
+      "year": 1781
+    },
+    {
+      "title": "String Quartet in E minor, G211",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_E_minor,_G211_(Boccherini,_Luigi)",
+      "year": 1781
+    },
+    {
+      "title": "String Quartet in E-flat major, G212",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_E-flat_major,_G212_(Boccherini,_Luigi)",
+      "year": 1781
+    },
+    {
+      "title": "String Quartet in G major, G209",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_G_major,_G209_(Boccherini,_Luigi)",
+      "year": 1781
+    },
+    {
+      "title": "Symphony in A major, G.511",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_A_major,_G.511_(Boccherini,_Luigi)",
+      "year": 1782
+    },
+    {
+      "title": "Symphony in B-flat major, G.514",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_B-flat_major,_G.514_(Boccherini,_Luigi)",
+      "year": 1782
+    },
+    {
+      "title": "Sextet in E-flat major, G.471",
+      "imslp_url": "https://imslp.org/wiki/Sextet_in_E-flat_major,_G.471_(Boccherini,_Luigi)",
+      "year": 1787
+    },
+    {
+      "title": "String Quartet in A major, G.213",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_A_major,_G.213_(Boccherini,_Luigi)",
+      "year": 1787
+    },
+    {
+      "title": "Symphony in D minor, G.517",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_D_minor,_G.517_(Boccherini,_Luigi)",
+      "year": 1787
+    },
+    {
+      "title": "Symphony in D major, G.521",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_D_major,_G.521_(Boccherini,_Luigi)",
+      "year": 1790
+    },
+    {
+      "title": "String Quartet in D major, G.224",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_D_major,_G.224_(Boccherini,_Luigi)",
+      "year": 1792
+    },
+    {
+      "title": "String Quartet in G major, G.223 'La Tiranna'",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_G_major,_G.223_'La_Tiranna'_(Boccherini,_Luigi)",
+      "year": 1792
+    },
+    {
+      "title": "Guitar Quintet in E minor, G.451",
+      "imslp_url": "https://imslp.org/wiki/Guitar_Quintet_in_E_minor,_G.451_(Boccherini,_Luigi)",
+      "year": 1797
+    },
+    {
+      "title": "Guitar Quintet in B-flat major, G.447",
+      "imslp_url": "https://imslp.org/wiki/Guitar_Quintet_in_B-flat_major,_G.447_(Boccherini,_Luigi)",
+      "year": 1798
+    },
+    {
+      "title": "Guitar Quintet in D major, G.448",
+      "imslp_url": "https://imslp.org/wiki/Guitar_Quintet_in_D_major,_G.448_(Boccherini,_Luigi)",
+      "year": 1798
+    },
+    {
+      "title": "String Quartet in A major, G.239",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_A_major,_G.239_(Boccherini,_Luigi)",
+      "year": 1798
+    },
+    {
+      "title": "String Quartet in C major, G.238",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_C_major,_G.238_(Boccherini,_Luigi)",
+      "year": 1798
+    },
+    {
+      "title": "String Quartet in C major, G.240",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_C_major,_G.240_(Boccherini,_Luigi)",
+      "year": 1798
+    },
+    {
+      "title": "String Quartet in D major, G.237",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_D_major,_G.237_(Boccherini,_Luigi)",
+      "year": 1798
+    },
+    {
+      "title": "String Quartet in E-flat major, G.236",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_E-flat_major,_G.236_(Boccherini,_Luigi)",
+      "year": 1798
+    },
+    {
+      "title": "String Quartet in E-flat major, G.241",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_E-flat_major,_G.241_(Boccherini,_Luigi)",
+      "year": 1798
+    },
+    {
+      "title": "Guitar Quintet in C major, G.453",
+      "imslp_url": "https://imslp.org/wiki/Guitar_Quintet_in_C_major,_G.453_(Boccherini,_Luigi)",
+      "year": 1799
+    }
+  ]
 }

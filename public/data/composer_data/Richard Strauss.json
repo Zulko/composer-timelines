@@ -1,0 +1,831 @@
+{
+  "full_name": "Richard Strauss",
+  "first_names": "Richard Georg",
+  "last_name": "Strauss",
+  "birth_year": 1864,
+  "death_year": 1949,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_Strauss",
+  "events": [
+    {
+      "section": "Life",
+      "title": "Birth",
+      "summary": "Richard Strauss was born on 11 June 1864 in Munich, as the son of Josef and Franz Strauss. His family was musically influential, particularly his father, who was a prominent horn player and teacher.",
+      "year": 1864,
+      "location": "Munich",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Richard Strauss was born on 11 June 1864 in Munich to a family that must have thought playing instruments was a serious business. His father, Josef, wasn\u2019t just any dad; he was a prominent horn player and teacher, which meant teaching Richard the \u2018do re mi\u2019 of blowing horns from the get-go!"
+    },
+    {
+      "section": "Life",
+      "title": "First Composition",
+      "summary": "At the age of six, Strauss wrote his first composition, marking the beginning of a lifelong journey in music creation and composition.",
+      "year": 1870,
+      "location": "Munich",
+      "emoji": "\ud83c\udfb5",
+      "fun_version": "At the age of six, Strauss wrote his first composition. I mean, most kids are trying to figure out how to tie their shoelaces, but this prodigy was composing symphonies instead! This was just the start of a lifelong journey in music composition. Talk about getting a head start on that 'Great Composer' resume!"
+    },
+    {
+      "section": "Life",
+      "title": "First Major Appearance as Concert Pianist",
+      "summary": "Strauss made his first major appearance as a concert pianist under the baton of conductor Hans von B\u00fclow, performing Mozart's Piano Concerto No. 24, showcasing his dual talent as a composer and pianist.",
+      "year": 1882,
+      "location": "Meiningen",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Strauss made his first major appearance as a concert pianist, joined by conductor Hans von B\u00fclow, performing Mozart's Piano Concerto No. 24, showcasing his dual talent as a composer and pianist in this musical duel."
+    },
+    {
+      "section": "Life",
+      "title": "First Performance of Violin Concerto",
+      "summary": "In early 1882, Strauss gave the first performance of his Violin Concerto in D minor in Vienna, playing the piano reduction himself, signifying a pivotal moment in his early performing career.",
+      "year": 1882,
+      "location": "Vienna",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "Strauss gave the first performance of his Violin Concerto in D minor in Vienna, playing the piano reduction himself in early 1882. This marked a pivotal moment in his early performing career."
+    },
+    {
+      "section": "Life",
+      "title": "Graduation from Ludwigsgymnasium",
+      "summary": "In 1882, Strauss graduated from the Ludwigsgymnasium, a significant stepping stone in his educational journey as a composer.",
+      "year": 1882,
+      "location": "Munich",
+      "emoji": "\ud83c\udf93",
+      "fun_version": "In 1882, Strauss graduated from Ludwigsgymnasium, which was basically the Hogwarts of composers, minus the magic\u2014just some intense studying and a lot of practicing on the piano instead of charms!"
+    },
+    {
+      "section": "Music",
+      "title": "Meeting with Alexander Ritter",
+      "summary": "In 1885, Strauss met Alexander Ritter, a noted composer and violinist who significantly influenced his compositional direction. This meeting led Strauss to move away from the conservative style of his earlier works, exploring new ideas inspired by Ritter's suggestions and the writings of Wagner and Schopenhauer.",
+      "year": 1885,
+      "location": "",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "In 1885, Strauss met Alexander Ritter, a noted composer and violinist who significantly influenced his compositional direction. This meeting led Strauss to ditch his old conservative style, which was about as fun as watching paint dry, as he explored new musical ideas inspired by Ritter's brilliant insights and the philosophical writings of Wagner and Schopenhauer."
+    },
+    {
+      "section": "Music",
+      "title": "Composition of Don Juan",
+      "summary": "Following his new influences, Strauss composed Don Juan in 1888, which is regarded as his first major piece showcasing his mature musical personality. This tone poem displayed a bold virtuosity and a distinctive orchestral style, marking a pivotal evolution in his work.",
+      "year": 1888,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1888, Strauss decided it was time to impress everyone, so he whipped up Don Juan, which is regarded as his first major piece showcasing his mature musical personality. With a flamboyant virtuosity and an orchestral style so distinct it could wear a neon sign, this tone poem became the 'look at me' moment of his career, marking a giant leap in his musical evolution!"
+    },
+    {
+      "section": "Life",
+      "title": "Premiere of Don Juan",
+      "summary": "The premiere of Strauss's tone poem Don Juan in Weimar on 11 November 1889 received tremendous critical acclaim, establishing him as a leading modernist composer.",
+      "year": 1889,
+      "location": "Weimar",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "The premiere of Strauss's tone poem Don Juan in Weimar on 11 November 1889 was so well-received that it could have made even the most stoic critics crack a smile! It was utterly acclaimed and established Strauss as a leading figure in the modernist composer bash."
+    },
+    {
+      "section": "Life",
+      "title": "Conducting at the Bayreuth Festival",
+      "summary": "In the summer of 1894, Strauss made his conducting debut at the prestigious Bayreuth Festival, conducting Wagner's Tannh\u00e4user, further intertwining his career with Wagner's legacy.",
+      "year": 1894,
+      "location": "Bayreuth",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In the summer of 1894, Strauss, thinking he\u2019s the next big thing since sliced bread, made his conducting debut at the prestigious Bayreuth Festival, waving his stick while trying to wrangle Wagner's Tannh\u00e4user like it\u2019s a wild stallion! And just like that, his career is now forever intertwined with Wagner\u2019s legacy."
+    },
+    {
+      "section": "Life",
+      "title": "First Opera Guntram",
+      "summary": "Strauss's first opera, Guntram, premiered in 1894 in Weimar, although it received mixed reviews, marking his entry into the opera world as a composer.",
+      "year": 1894,
+      "location": "Weimar",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Strauss's first opera, Guntram, premiered in 1894 in Weimar, a year so delightful that not even the mixed reviews could ruin its debut!"
+    },
+    {
+      "section": "Life",
+      "title": "Birth of Son",
+      "summary": "In 1897, Strauss and his wife welcomed their only child, a son named Franz, significantly marking their family life during his flourishing career.",
+      "year": 1897,
+      "location": "Weimar",
+      "emoji": "\ud83d\udc76",
+      "fun_version": "In 1897, Strauss and his wife got a surprise package in the form of their only son, Franz. Imagine their joy! Finally, someone to carry on their legacy, significantly marking their family life during his flourishing career."
+    },
+    {
+      "section": "Honors",
+      "title": "Honorary Doctorate, Heidelberg University",
+      "summary": "In 1903, Richard Strauss was awarded an honorary doctorate by Heidelberg University, recognizing his contributions to music and the arts.",
+      "year": 1903,
+      "location": "Heidelberg, Germany",
+      "emoji": "\ud83c\udf93",
+      "fun_version": "In 1903, Richard Strauss received an honorary doctorate from Heidelberg University, proving that you can indeed get a degree just for being fantastic at music \u2014 no late-night cramming, just pure talent! They probably even issued him a diploma that said 'You're a genius, no test required!'"
+    },
+    {
+      "section": "Honors",
+      "title": "Ordre national de la L\u00e9gion d'honneur, Croix de Chevalier",
+      "summary": "In 1907, Strauss received the Croix de Chevalier of the Ordre national de la L\u00e9gion d'honneur in Paris, France, marking a significant official recognition of his artistic achievements.",
+      "year": 1907,
+      "location": "Paris, France",
+      "emoji": "\ud83c\udfc5",
+      "fun_version": "In 1907, Strauss snagged the Croix de Chevalier of the Ordre national de la L\u00e9gion d'honneur in Paris, France, marking a significant official recognition of his artistic achievements."
+    },
+    {
+      "section": "Music",
+      "title": "Composing Elektra",
+      "summary": "In 1909, Strauss created Elektra, an opera that pushed the boundaries of dissonance further than his previous works. This marked the beginning of a fruitful collaboration with librettist Hugo von Hofmannsthal and noted a significant evolution in Strauss's compositional voice and style.",
+      "year": 1909,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1909, Strauss created 'Elektra,' an opera that treated dissonance like a rebellious teenager. This marked the beginning of a fruitful collaboration with librettist Hugo von Hofmannsthal and noted a significant evolution in Strauss's compositional voice and style, helping him craft music that could make both hearts and eardrums ache!"
+    },
+    {
+      "section": "Honors",
+      "title": "Bavarian Maximilian Order for Science and Art",
+      "summary": "In 1910, Strauss was honored with the Bavarian Maximilian Order for Science and Art, a prestigious award that highlights his impact on culture.",
+      "year": 1910,
+      "location": "Bavaria, Germany",
+      "emoji": "\ud83c\udfc6",
+      "fun_version": "Back in 1910, Strauss was bestowed the Bavarian Maximilian Order for Science and Art. You know you\u2019re doing something right when your name sounds more regal than the King\u2019s! They must have looked at his contributions to culture and said, 'Let\u2019s make this guy a royal - he\u2019s clearly a big deal!'"
+    },
+    {
+      "section": "Music",
+      "title": "Collaboration with Hofmannsthal",
+      "summary": "Strauss and Hofmannsthal worked together multiple times, notably on operatic works post-Elektra. Their partnership led to a refined harmonic language and a lush orchestral texture in operas like Der Rosenkavalier, which premiered in 1911, deepening Strauss's success in the operatic realm.",
+      "year": 1911,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "You know, Strauss and Hofmannsthal had more collaborations than my buddy has excuses for being late. Their operatic escapades post-Elektra were so harmonious that they could make even a cat fight sound like a symphony! Their partnership led to a refined harmonic language and a lush orchestral texture. Have you heard 'Der Rosenkavalier'? It\u2019s like they sprinkled fairy dust on it\u2014premiered in 1911 and still sounding fresher!"
+    },
+    {
+      "section": "Honors",
+      "title": "Honorary Doctorate, Oxford University",
+      "summary": "In 1914, he received an honorary doctorate from Oxford University, adding to his accolades and international recognition as a composer.",
+      "year": 1914,
+      "location": "Oxford, England",
+      "emoji": "\ud83c\udf93",
+      "fun_version": "Back in 1914, he snagged an honorary doctorate from Oxford University. Apparently, they ran out of real doctors and decided this composer was the best option! Who knew making music could qualify you for such prestigious accolades? Must have played a note so good, it made the professors question their life choices!"
+    },
+    {
+      "section": "Honors",
+      "title": "Honorary Doctorate, University of Music and Performing Arts, Vienna",
+      "summary": "Also in 1924, he was honored with an honorary doctorate from the University of Music and Performing Arts in Vienna, acknowledging his significant influence in the field of music.",
+      "year": 1924,
+      "location": "Vienna, Austria",
+      "emoji": "\ud83c\udf93",
+      "fun_version": "In 1924, this fella was honored with a fancy honorary doctorate bestowed by the University of Music and Performing Arts in Vienna, recognizing his colossal influence in the musical landscape\u2014because let's face it, serenading his neighbor's cat just doesn\u2019t cut it!"
+    },
+    {
+      "section": "Honors",
+      "title": "Pour le M\u00e9rite for Sciences and Art",
+      "summary": "In 1924, Strauss was awarded the Pour le M\u00e9rite for Sciences and Art, a high honor that celebrates excellence in the fields of arts and sciences in Germany.",
+      "year": 1924,
+      "location": "Germany",
+      "emoji": "\ud83c\udfc5",
+      "fun_version": "In 1924, Strauss received the Pour le M\u00e9rite for Sciences and Art, a high honor that celebrates excellence in the fields of arts and sciences in Germany. It\u2019s like winning the Olympic gold medal in arts and sciences, but without the heavy lifting or spandex suits!"
+    },
+    {
+      "section": "Honors",
+      "title": "New York College of Music Medal",
+      "summary": "In 1932, Strauss received the New York College of Music Medal, which recognized his outstanding contributions to the musical landscape.",
+      "year": 1932,
+      "location": "New York, USA",
+      "emoji": "\ud83c\udfc5",
+      "fun_version": "In 1932, Strauss received the New York College of Music Medal, a shiny prize that recognized his outstanding contributions to the musical landscape. It's like being crowned the king of karaoke\u2014everyone knows you're the best!"
+    },
+    {
+      "section": "Honors",
+      "title": "Royal Philharmonic Society's Gold Medal",
+      "summary": "In 1936, he was awarded the Royal Philharmonic Society's gold medal, an accolade reserved for musicians of extraordinary talent and impact.",
+      "year": 1936,
+      "location": "England",
+      "emoji": "\ud83c\udfc5",
+      "fun_version": "Back in 1936, our pal won the Royal Philharmonic Society's gold medal, an accolade for musicians so talented that even the universe felt a little jealous! It\u2019s similar to a Grammy, only no one\u2019s wearing sparkly outfits, and the actual treasure is just bragging rights."
+    },
+    {
+      "section": "Honors",
+      "title": "Commandeur de L'Ordre de la Couronne",
+      "summary": "In 1939, Strauss was presented with the Commandeur de L'Ordre de la Couronne by Leopold III of Belgium, reflecting his international acclaim.",
+      "year": 1939,
+      "location": "Belgium",
+      "emoji": "\ud83c\udfc5",
+      "fun_version": "In 1939, Strauss was honored with the Commandeur de L'Ordre de la Couronne by Leopold III of Belgium. I guess Leopold was just a fan of good music and had some extra crowns lying around!"
+    },
+    {
+      "section": "Life",
+      "title": "Last International Tour",
+      "summary": "In 1947, Strauss embarked on his last international tour to London, conducting several of his tone poems and excerpts from his operas, contributing to his legacy as a renowned composer.",
+      "year": 1947,
+      "location": "London",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "In 1947, Strauss packed his bags for one last international tango to London! With a baton in one hand, he conducted several of his tone poems and excerpts from his operas, leaving everyone humming his tunes like they were pop hits, thus contributing to his legacy as a renowned composer!"
+    },
+    {
+      "section": "Music",
+      "title": "Brentano Lieder and Later Works",
+      "summary": "Between 1918 and 1948, Strauss composed a series of renowned lieder, including the Brentano Lieder and his final songs, the Four Last Songs. These works reflected his lyrical style and intimate musical expression, which had been inspired by his wife's voice.",
+      "year": 1948,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Between 1918 and 1948, Strauss composed a series of renowned lieder, including the Brentano Lieder and his final songs, the Four Last Songs. These works were incredibly expressive and reflected his lyrical style, intimately inspired by his wife's voice."
+    },
+    {
+      "section": "Life",
+      "title": "Death",
+      "summary": "Richard Strauss died quietly in his sleep on 8 September 1949 in Garmisch-Partenkirchen, marking the end of an illustrious musical life and career.",
+      "year": 1949,
+      "location": "Garmisch-Partenkirchen",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Richard Strauss decided to take a permanent nap (and by that, I mean he quietly passed away) on 8 September 1949, right in picturesque Garmisch-Partenkirchen, marking the end of his illustrious musical career. Guess he hit the snooze button one too many times!"
+    },
+    {
+      "section": "Honors",
+      "title": "Honorary Doctorate, University of Munich",
+      "summary": "In 1949, Strauss was awarded another honorary doctorate by the University of Munich, reinforcing his status in the world of music even later in his life.",
+      "year": 1949,
+      "location": "Munich, Germany",
+      "emoji": "\ud83c\udf93",
+      "fun_version": "In 1949, Strauss was awarded another honorary doctorate by the University of Munich, reinforcing his status in the world of music even later in his life. I guess they ran out of real musicians and decided to give degrees to people who could make a good soup while conducting!"
+    }
+  ],
+  "works": [
+    {
+      "title": "Festmarsch, Op.1",
+      "imslp_url": "https://imslp.org/wiki/Festmarsch,_Op.1_(Strauss,_Richard)",
+      "year": 1876
+    },
+    {
+      "title": "Alphorn, TrV 64",
+      "imslp_url": "https://imslp.org/wiki/Alphorn,_TrV_64_(Strauss,_Richard)",
+      "year": 1878
+    },
+    {
+      "title": "Romanze for Clarinet and Orchestra, TrV 80",
+      "imslp_url": "https://imslp.org/wiki/Romanze_for_Clarinet_and_Orchestra,_TrV_80_(Strauss,_Richard)",
+      "year": 1879
+    },
+    {
+      "title": "Piano Sonata, Op.5",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata,_Op.5_(Strauss,_Richard)",
+      "year": 1880
+    },
+    {
+      "title": "Symphony No.1, TrV 94",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.1,_TrV_94_(Strauss,_Richard)",
+      "year": 1880
+    },
+    {
+      "title": "Violin Concerto, Op.8",
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto,_Op.8_(Strauss,_Richard)",
+      "year": 1880
+    },
+    {
+      "title": "5 Klavierst\u00fccke, Op.3",
+      "imslp_url": "https://imslp.org/wiki/5_Klavierst\u00fccke,_Op.3_(Strauss,_Richard)",
+      "year": 1881
+    },
+    {
+      "title": "Cello Sonata, Op.6",
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata,_Op.6_(Strauss,_Richard)",
+      "year": 1881
+    },
+    {
+      "title": "Serenade in E-flat major, Op.7",
+      "imslp_url": "https://imslp.org/wiki/Serenade_in_E-flat_major,_Op.7_(Strauss,_Richard)",
+      "year": 1881
+    },
+    {
+      "title": "String Quartet in A major, Op.2",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_A_major,_Op.2_(Strauss,_Richard)",
+      "year": 1881
+    },
+    {
+      "title": "Horn Concerto No.1, Op.11",
+      "imslp_url": "https://imslp.org/wiki/Horn_Concerto_No.1,_Op.11_(Strauss,_Richard)",
+      "year": 1882
+    },
+    {
+      "title": "Concert Overture in C minor, TrV 125",
+      "imslp_url": "https://imslp.org/wiki/Concert_Overture_in_C_minor,_TrV_125_(Strauss,_Richard)",
+      "year": 1883
+    },
+    {
+      "title": "Romanze for Cello and Orchestra, TrV 118",
+      "imslp_url": "https://imslp.org/wiki/Romanze_for_Cello_and_Orchestra,_TrV_118_(Strauss,_Richard)",
+      "year": 1883
+    },
+    {
+      "title": "Symphony No.2, Op.12",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.2,_Op.12_(Strauss,_Richard)",
+      "year": 1883
+    },
+    {
+      "title": "Piano Quartet, Op.13",
+      "imslp_url": "https://imslp.org/wiki/Piano_Quartet,_Op.13_(Strauss,_Richard)",
+      "year": 1884
+    },
+    {
+      "title": "Stimmungsbilder, Op.9",
+      "imslp_url": "https://imslp.org/wiki/Stimmungsbilder,_Op.9_(Strauss,_Richard)",
+      "year": 1884
+    },
+    {
+      "title": "Suite in B-flat major, Op.4",
+      "imslp_url": "https://imslp.org/wiki/Suite_in_B-flat_major,_Op.4_(Strauss,_Richard)",
+      "year": 1884
+    },
+    {
+      "title": "Thema und 15 Improvisationen mit Fuge, TrV 130",
+      "imslp_url": "https://imslp.org/wiki/Thema_und_15_Improvisationen_mit_Fuge,_TrV_130_(Strauss,_Richard)",
+      "year": 1884
+    },
+    {
+      "title": "8 Gedichte aus 'Letzte Bl\u00e4tter', Op.10",
+      "imslp_url": "https://imslp.org/wiki/8_Gedichte_aus_'Letzte_Bl\u00e4tter',_Op.10_(Strauss,_Richard)",
+      "year": 1885
+    },
+    {
+      "title": "Burleske, TrV 145",
+      "imslp_url": "https://imslp.org/wiki/Burleske,_TrV_145_(Strauss,_Richard)",
+      "year": 1885
+    },
+    {
+      "title": "Wandrers Sturmlied, Op.14",
+      "imslp_url": "https://imslp.org/wiki/Wandrers_Sturmlied,_Op.14_(Strauss,_Richard)",
+      "year": 1885
+    },
+    {
+      "title": "5 Lieder, Op.15",
+      "imslp_url": "https://imslp.org/wiki/5_Lieder,_Op.15_(Strauss,_Richard)",
+      "year": 1886
+    },
+    {
+      "title": "Aus Italien, Op.16",
+      "imslp_url": "https://imslp.org/wiki/Aus_Italien,_Op.16_(Strauss,_Richard)",
+      "year": 1886
+    },
+    {
+      "title": "Macbeth, Op.23",
+      "imslp_url": "https://imslp.org/wiki/Macbeth,_Op.23_(Strauss,_Richard)",
+      "year": 1886
+    },
+    {
+      "title": "Violin Sonata, Op.18",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata,_Op.18_(Strauss,_Richard)",
+      "year": 1887
+    },
+    {
+      "title": "6 Lieder aus 'Lotosbl\u00e4tter', Op.19",
+      "imslp_url": "https://imslp.org/wiki/6_Lieder_aus_'Lotosbl\u00e4tter',_Op.19_(Strauss,_Richard)",
+      "year": 1888
+    },
+    {
+      "title": "6 Lieder, Op.17",
+      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.17_(Strauss,_Richard)",
+      "year": 1888
+    },
+    {
+      "title": "Andante in C major, TrV 155",
+      "imslp_url": "https://imslp.org/wiki/Andante_in_C_major,_TrV_155_(Strauss,_Richard)",
+      "year": 1888
+    },
+    {
+      "title": "Guntram, Op.25",
+      "imslp_url": "https://imslp.org/wiki/Guntram,_Op.25_(Strauss,_Richard)",
+      "year": 1888
+    },
+    {
+      "title": "Tod und Verkl\u00e4rung, Op.24",
+      "imslp_url": "https://imslp.org/wiki/Tod_und_Verkl\u00e4rung,_Op.24_(Strauss,_Richard)",
+      "year": 1888
+    },
+    {
+      "title": "Don Juan, Op.20",
+      "imslp_url": "https://imslp.org/wiki/Don_Juan,_Op.20_(Strauss,_Richard)",
+      "year": 1889
+    },
+    {
+      "title": "Schlichte Weisen, Op.21",
+      "imslp_url": "https://imslp.org/wiki/Schlichte_Weisen,_Op.21_(Strauss,_Richard)",
+      "year": 1890
+    },
+    {
+      "title": "4 Lieder, Op.27",
+      "imslp_url": "https://imslp.org/wiki/4_Lieder,_Op.27_(Strauss,_Richard)",
+      "year": 1894
+    },
+    {
+      "title": "2 Lieder, Op.26",
+      "imslp_url": "https://imslp.org/wiki/2_Lieder,_Op.26_(Strauss,_Richard)",
+      "year": 1895
+    },
+    {
+      "title": "Till Eulenspiegels lustige Streiche, Op.28",
+      "imslp_url": "https://imslp.org/wiki/Till_Eulenspiegels_lustige_Streiche,_Op.28_(Strauss,_Richard)",
+      "year": 1895
+    },
+    {
+      "title": "5 Lieder, Op.32",
+      "imslp_url": "https://imslp.org/wiki/5_Lieder,_Op.32_(Strauss,_Richard)",
+      "year": 1896
+    },
+    {
+      "title": "Also sprach Zarathustra, Op.30",
+      "imslp_url": "https://imslp.org/wiki/Also_sprach_Zarathustra,_Op.30_(Strauss,_Richard)",
+      "year": 1896
+    },
+    {
+      "title": "2 Ges\u00e4nge, Op.34",
+      "imslp_url": "https://imslp.org/wiki/2_Ges\u00e4nge,_Op.34_(Strauss,_Richard)",
+      "year": 1897
+    },
+    {
+      "title": "4 Ges\u00e4nge, Op.33",
+      "imslp_url": "https://imslp.org/wiki/4_Ges\u00e4nge,_Op.33_(Strauss,_Richard)",
+      "year": 1897
+    },
+    {
+      "title": "4 Lieder, Op.36",
+      "imslp_url": "https://imslp.org/wiki/4_Lieder,_Op.36_(Strauss,_Richard)",
+      "year": 1897
+    },
+    {
+      "title": "5 Lieder, Op.39",
+      "imslp_url": "https://imslp.org/wiki/5_Lieder,_Op.39_(Strauss,_Richard)",
+      "year": 1897
+    },
+    {
+      "title": "6 Lieder, Op.37",
+      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.37_(Strauss,_Richard)",
+      "year": 1897
+    },
+    {
+      "title": "Don Quixote, Op.35",
+      "imslp_url": "https://imslp.org/wiki/Don_Quixote,_Op.35_(Strauss,_Richard)",
+      "year": 1897
+    },
+    {
+      "title": "Ein Heldenleben, Op.40",
+      "imslp_url": "https://imslp.org/wiki/Ein_Heldenleben,_Op.40_(Strauss,_Richard)",
+      "year": 1898
+    },
+    {
+      "title": "Enoch Arden, Op.38",
+      "imslp_url": "https://imslp.org/wiki/Enoch_Arden,_Op.38_(Strauss,_Richard)",
+      "year": 1898
+    },
+    {
+      "title": "2 Gr\u00f6\u00dfere Ges\u00e4nge, Op.44",
+      "imslp_url": "https://imslp.org/wiki/2_Gr\u00f6\u00dfere_Ges\u00e4nge,_Op.44_(Strauss,_Richard)",
+      "year": 1899
+    },
+    {
+      "title": "2 M\u00e4nnerch\u00f6re, Op.42",
+      "imslp_url": "https://imslp.org/wiki/2_M\u00e4nnerch\u00f6re,_Op.42_(Strauss,_Richard)",
+      "year": 1899
+    },
+    {
+      "title": "3 Ges\u00e4nge \u00e4lterer deutscher Dichter, Op.43",
+      "imslp_url": "https://imslp.org/wiki/3_Ges\u00e4nge_\u00e4lterer_deutscher_Dichter,_Op.43_(Strauss,_Richard)",
+      "year": 1899
+    },
+    {
+      "title": "3 M\u00e4nnerch\u00f6re, Op.45",
+      "imslp_url": "https://imslp.org/wiki/3_M\u00e4nnerch\u00f6re,_Op.45_(Strauss,_Richard)",
+      "year": 1899
+    },
+    {
+      "title": "5 Lieder, Op.41",
+      "imslp_url": "https://imslp.org/wiki/5_Lieder,_Op.41_(Strauss,_Richard)",
+      "year": 1899
+    },
+    {
+      "title": "Das Schloss am Meere, TrV 191",
+      "imslp_url": "https://imslp.org/wiki/Das_Schloss_am_Meere,_TrV_191_(Strauss,_Richard)",
+      "year": 1899
+    },
+    {
+      "title": "5 Gedichte von Friedrich R\u00fcckert, Op.46",
+      "imslp_url": "https://imslp.org/wiki/5_Gedichte_von_Friedrich_R\u00fcckert,_Op.46_(Strauss,_Richard)",
+      "year": 1900
+    },
+    {
+      "title": "5 Lieder, Op.47",
+      "imslp_url": "https://imslp.org/wiki/5_Lieder,_Op.47_(Strauss,_Richard)",
+      "year": 1900
+    },
+    {
+      "title": "5 Lieder, Op.48",
+      "imslp_url": "https://imslp.org/wiki/5_Lieder,_Op.48_(Strauss,_Richard)",
+      "year": 1900
+    },
+    {
+      "title": "8 Lieder, Op.49",
+      "imslp_url": "https://imslp.org/wiki/8_Lieder,_Op.49_(Strauss,_Richard)",
+      "year": 1900
+    },
+    {
+      "title": "Feuersnot, Op.50",
+      "imslp_url": "https://imslp.org/wiki/Feuersnot,_Op.50_(Strauss,_Richard)",
+      "year": 1900
+    },
+    {
+      "title": "Sinfonia Domestica, Op.53",
+      "imslp_url": "https://imslp.org/wiki/Sinfonia_Domestica,_Op.53_(Strauss,_Richard)",
+      "year": 1902
+    },
+    {
+      "title": "6 Lieder, Op.56",
+      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.56_(Strauss,_Richard)",
+      "year": 1903
+    },
+    {
+      "title": "Salome, Op.54",
+      "imslp_url": "https://imslp.org/wiki/Salome,_Op.54_(Strauss,_Richard)",
+      "year": 1903
+    },
+    {
+      "title": "Taillefer, Op.52",
+      "imslp_url": "https://imslp.org/wiki/Taillefer,_Op.52_(Strauss,_Richard)",
+      "year": 1903
+    },
+    {
+      "title": "6 Volksliedbearbeitung, TrV 216",
+      "imslp_url": "https://imslp.org/wiki/6_Volksliedbearbeitung,_TrV_216_(Strauss,_Richard)",
+      "year": 1905
+    },
+    {
+      "title": "Parade-Marsch No.1, TrV 213",
+      "imslp_url": "https://imslp.org/wiki/Parade-Marsch_No.1,_TrV_213_(Strauss,_Richard)",
+      "year": 1905
+    },
+    {
+      "title": "2 Milit\u00e4rm\u00e4rsche, Op.57",
+      "imslp_url": "https://imslp.org/wiki/2_Milit\u00e4rm\u00e4rsche,_Op.57_(Strauss,_Richard)",
+      "year": 1906
+    },
+    {
+      "title": "Bardengesang, Op.55",
+      "imslp_url": "https://imslp.org/wiki/Bardengesang,_Op.55_(Strauss,_Richard)",
+      "year": 1906
+    },
+    {
+      "title": "Elektra, Op.58",
+      "imslp_url": "https://imslp.org/wiki/Elektra,_Op.58_(Strauss,_Richard)",
+      "year": 1906
+    },
+    {
+      "title": "K\u00f6nigsmarsch, TrV 217",
+      "imslp_url": "https://imslp.org/wiki/K\u00f6nigsmarsch,_TrV_217_(Strauss,_Richard)",
+      "year": 1906
+    },
+    {
+      "title": "Der Rosenkavalier, Op.59",
+      "imslp_url": "https://imslp.org/wiki/Der_Rosenkavalier,_Op.59_(Strauss,_Richard)",
+      "year": 1909
+    },
+    {
+      "title": "Feierlicher Einzug, TrV 224",
+      "imslp_url": "https://imslp.org/wiki/Feierlicher_Einzug,_TrV_224_(Strauss,_Richard)",
+      "year": 1909
+    },
+    {
+      "title": "Walzerfolge No.2 aus 'Der Rosenkavalier', TrV 227a",
+      "imslp_url": "https://imslp.org/wiki/Walzerfolge_No.2_aus_'Der_Rosenkavalier',_TrV_227a_(Strauss,_Richard)",
+      "year": 1910
+    },
+    {
+      "title": "Eine Alpensinfonie, Op.64",
+      "imslp_url": "https://imslp.org/wiki/Eine_Alpensinfonie,_Op.64_(Strauss,_Richard)",
+      "year": 1911
+    },
+    {
+      "title": "Ariadne auf Naxos, Op.60",
+      "imslp_url": "https://imslp.org/wiki/Ariadne_auf_Naxos,_Op.60_(Strauss,_Richard)",
+      "year": 1912
+    },
+    {
+      "title": "Der B\u00fcrger als Edelmann, TrV 228b",
+      "imslp_url": "https://imslp.org/wiki/Der_B\u00fcrger_als_Edelmann,_TrV_228b_(Strauss,_Richard)",
+      "year": 1912
+    },
+    {
+      "title": "Josephs-Legende, Op.63",
+      "imslp_url": "https://imslp.org/wiki/Josephs-Legende,_Op.63_(Strauss,_Richard)",
+      "year": 1912
+    },
+    {
+      "title": "Deutsche Motette, Op.62",
+      "imslp_url": "https://imslp.org/wiki/Deutsche_Motette,_Op.62_(Strauss,_Richard)",
+      "year": 1913
+    },
+    {
+      "title": "Festliches Pr\u00e4ludium, Op.61",
+      "imslp_url": "https://imslp.org/wiki/Festliches_Pr\u00e4ludium,_Op.61_(Strauss,_Richard)",
+      "year": 1913
+    },
+    {
+      "title": "Die Frau ohne Schatten, Op.65",
+      "imslp_url": "https://imslp.org/wiki/Die_Frau_ohne_Schatten,_Op.65_(Strauss,_Richard)",
+      "year": 1914
+    },
+    {
+      "title": "Symphonisches Fragment aus 'Josephs-Legende', TrV 231a",
+      "imslp_url": "https://imslp.org/wiki/Symphonisches_Fragment_aus_'Josephs-Legende',_TrV_231a_(Strauss,_Richard)",
+      "year": 1914
+    },
+    {
+      "title": "Der B\u00fcrger als Edelmann Suite, TrV 228c",
+      "imslp_url": "https://imslp.org/wiki/Der_B\u00fcrger_als_Edelmann_Suite,_TrV_228c_(Strauss,_Richard)",
+      "year": 1915
+    },
+    {
+      "title": "5 Kleine Lieder, Op.69",
+      "imslp_url": "https://imslp.org/wiki/5_Kleine_Lieder,_Op.69_(Strauss,_Richard)",
+      "year": 1918
+    },
+    {
+      "title": "6 Lieder, Op.67",
+      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.67_(Strauss,_Richard)",
+      "year": 1918
+    },
+    {
+      "title": "Intermezzo, Op.72",
+      "imslp_url": "https://imslp.org/wiki/Intermezzo,_Op.72_(Strauss,_Richard)",
+      "year": 1919
+    },
+    {
+      "title": "Sinnspruch, TrV 239",
+      "imslp_url": "https://imslp.org/wiki/Sinnspruch,_TrV_239_(Strauss,_Richard)",
+      "year": 1919
+    },
+    {
+      "title": "3 Hymnen von Friedrich H\u00f6lderlin, Op.71",
+      "imslp_url": "https://imslp.org/wiki/3_Hymnen_von_Friedrich_H\u00f6lderlin,_Op.71_(Strauss,_Richard)",
+      "year": 1921
+    },
+    {
+      "title": "Kr\u00e4merspiegel, Op.66",
+      "imslp_url": "https://imslp.org/wiki/Kr\u00e4merspiegel,_Op.66_(Strauss,_Richard)",
+      "year": 1921
+    },
+    {
+      "title": "Schlagobers, Op.70",
+      "imslp_url": "https://imslp.org/wiki/Schlagobers,_Op.70_(Strauss,_Richard)",
+      "year": 1922
+    },
+    {
+      "title": "Suite from 'Schlagobers', TrV 243a",
+      "imslp_url": "https://imslp.org/wiki/Suite_from_'Schlagobers',_TrV_243a_(Strauss,_Richard)",
+      "year": 1923
+    },
+    {
+      "title": "Tanzsuite aus Klavierst\u00fccken von Fran\u00e7ois Couperin, TrV 245",
+      "imslp_url": "https://imslp.org/wiki/Tanzsuite_aus_Klavierst\u00fccken_von_Fran\u00e7ois_Couperin,_TrV_245_(Strauss,_Richard)",
+      "year": 1923
+    },
+    {
+      "title": "4 Sinfonische Zwischenspiele aus Intermezzo, TrV 246a",
+      "imslp_url": "https://imslp.org/wiki/4_Sinfonische_Zwischenspiele_aus_Intermezzo,_TrV_246a_(Strauss,_Richard)",
+      "year": 1924
+    },
+    {
+      "title": "Die \u00e4gyptische Helena, Op.75",
+      "imslp_url": "https://imslp.org/wiki/Die_\u00e4gyptische_Helena,_Op.75_(Strauss,_Richard)",
+      "year": 1924
+    },
+    {
+      "title": "Wiener Philharmoniker Fanfare, TrV 248",
+      "imslp_url": "https://imslp.org/wiki/Wiener_Philharmoniker_Fanfare,_TrV_248_(Strauss,_Richard)",
+      "year": 1924
+    },
+    {
+      "title": "Parergon, Op.73",
+      "imslp_url": "https://imslp.org/wiki/Parergon,_Op.73_(Strauss,_Richard)",
+      "year": 1925
+    },
+    {
+      "title": "Panathen\u00e4enzug, Op.74",
+      "imslp_url": "https://imslp.org/wiki/Panathen\u00e4enzug,_Op.74_(Strauss,_Richard)",
+      "year": 1927
+    },
+    {
+      "title": "Die Tageszeiten, Op.76",
+      "imslp_url": "https://imslp.org/wiki/Die_Tageszeiten,_Op.76_(Strauss,_Richard)",
+      "year": 1928
+    },
+    {
+      "title": "Ges\u00e4nge des Orients, Op.77",
+      "imslp_url": "https://imslp.org/wiki/Ges\u00e4nge_des_Orients,_Op.77_(Strauss,_Richard)",
+      "year": 1928
+    },
+    {
+      "title": "Arabella, Op.79",
+      "imslp_url": "https://imslp.org/wiki/Arabella,_Op.79_(Strauss,_Richard)",
+      "year": 1930
+    },
+    {
+      "title": "Die schweigsame Frau, Op.80",
+      "imslp_url": "https://imslp.org/wiki/Die_schweigsame_Frau,_Op.80_(Strauss,_Richard)",
+      "year": 1932
+    },
+    {
+      "title": "3 M\u00e4nnerch\u00f6re, TrV 270",
+      "imslp_url": "https://imslp.org/wiki/3_M\u00e4nnerch\u00f6re,_TrV_270_(Strauss,_Richard)",
+      "year": 1935
+    },
+    {
+      "title": "Die G\u00f6ttin im Putzzimmer, TrV 267",
+      "imslp_url": "https://imslp.org/wiki/Die_G\u00f6ttin_im_Putzzimmer,_TrV_267_(Strauss,_Richard)",
+      "year": 1935
+    },
+    {
+      "title": "Friedenstag, Op.81",
+      "imslp_url": "https://imslp.org/wiki/Friedenstag,_Op.81_(Strauss,_Richard)",
+      "year": 1935
+    },
+    {
+      "title": "Daphne, Op.82",
+      "imslp_url": "https://imslp.org/wiki/Daphne,_Op.82_(Strauss,_Richard)",
+      "year": 1936
+    },
+    {
+      "title": "Die Liebe der Danae, Op.83",
+      "imslp_url": "https://imslp.org/wiki/Die_Liebe_der_Danae,_Op.83_(Strauss,_Richard)",
+      "year": 1938
+    },
+    {
+      "title": "M\u00fcnchen, TrV 274",
+      "imslp_url": "https://imslp.org/wiki/M\u00fcnchen,_TrV_274_(Strauss,_Richard)",
+      "year": 1939
+    },
+    {
+      "title": "Capriccio, Op.85",
+      "imslp_url": "https://imslp.org/wiki/Capriccio,_Op.85_(Strauss,_Richard)",
+      "year": 1940
+    },
+    {
+      "title": "Japanische Festmusik, Op.84",
+      "imslp_url": "https://imslp.org/wiki/Japanische_Festmusik,_Op.84_(Strauss,_Richard)",
+      "year": 1940
+    },
+    {
+      "title": "Divertimento aus Klavierst\u00fccke von Fran\u00e7ois Couperin, Op.86",
+      "imslp_url": "https://imslp.org/wiki/Divertimento_aus_Klavierst\u00fccke_von_Fran\u00e7ois_Couperin,_Op.86_(Strauss,_Richard)",
+      "year": 1941
+    },
+    {
+      "title": "Festmusik der Stadt Wien, TrV 286",
+      "imslp_url": "https://imslp.org/wiki/Festmusik_der_Stadt_Wien,_TrV_286_(Strauss,_Richard)",
+      "year": 1942
+    },
+    {
+      "title": "Horn Concerto No.2, TrV 283",
+      "imslp_url": "https://imslp.org/wiki/Horn_Concerto_No.2,_TrV_283_(Strauss,_Richard)",
+      "year": 1942
+    },
+    {
+      "title": "Sonatine No.1, TrV 288",
+      "imslp_url": "https://imslp.org/wiki/Sonatine_No.1,_TrV_288_(Strauss,_Richard)",
+      "year": 1943
+    },
+    {
+      "title": "Sonatine No.2, TrV 291",
+      "imslp_url": "https://imslp.org/wiki/Sonatine_No.2,_TrV_291_(Strauss,_Richard)",
+      "year": 1944
+    },
+    {
+      "title": "Walzerfolge No.1 aus 'Der Rosenkavalier', TrV 227c",
+      "imslp_url": "https://imslp.org/wiki/Walzerfolge_No.1_aus_'Der_Rosenkavalier',_TrV_227c_(Strauss,_Richard)",
+      "year": 1944
+    },
+    {
+      "title": "Daphne-Etude, TrV 272b",
+      "imslp_url": "https://imslp.org/wiki/Daphne-Etude,_TrV_272b_(Strauss,_Richard)",
+      "year": 1945
+    },
+    {
+      "title": "Der Rosenkavalier, suite, TrV 227d",
+      "imslp_url": "https://imslp.org/wiki/Der_Rosenkavalier,_suite,_TrV_227d_(Strauss,_Richard)",
+      "year": 1945
+    },
+    {
+      "title": "Metamorphosen, TrV 290",
+      "imslp_url": "https://imslp.org/wiki/Metamorphosen,_TrV_290_(Strauss,_Richard)",
+      "year": 1945
+    },
+    {
+      "title": "Oboe Concerto, TrV 292",
+      "imslp_url": "https://imslp.org/wiki/Oboe_Concerto,_TrV_292_(Strauss,_Richard)",
+      "year": 1945
+    },
+    {
+      "title": "4 Letzte Lieder, TrV 296",
+      "imslp_url": "https://imslp.org/wiki/4_Letzte_Lieder,_TrV_296_(Strauss,_Richard)",
+      "year": 1947
+    },
+    {
+      "title": "Duett-Concertino, TrV 293",
+      "imslp_url": "https://imslp.org/wiki/Duett-Concertino,_TrV_293_(Strauss,_Richard)",
+      "year": 1947
+    },
+    {
+      "title": "Allegretto in E major, TrV 295",
+      "imslp_url": "https://imslp.org/wiki/Allegretto_in_E_major,_TrV_295_(Strauss,_Richard)",
+      "year": 1948
+    }
+  ]
+}

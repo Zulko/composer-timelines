@@ -1,586 +1,564 @@
 {
   "full_name": "Edvard Grieg",
-  "first_names": "Edvard",
+  "first_names": "Edvard Hagerup",
   "last_name": "Grieg",
   "birth_year": 1843,
   "death_year": 1907,
   "wikipedia_url": "https://en.wikipedia.org/wiki/Edvard_Grieg",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Edvard Grieg made his grand entrance into the world in Bergen, Norway, where he would later become its most celebrated native. Let's just say, he didn\u2019t just 'pop' into life, he came equipped with musical talent!",
+      "section": "Background",
+      "title": "Birth",
+      "summary": "Edvard Grieg was born in Bergen, Norway, into a family with a rich musical background. His mother was a music teacher, and it was she who first taught him to play the piano at the age of six, fostering his early interest in music.",
       "year": 1843,
-      "city": "Bergen",
-      "country": "Norway"
+      "location": "Bergen, Norway",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Edvard Grieg was born in Bergen, Norway, into a family with a rich musical background. His mother, a music teacher, began teaching him to play the piano at the age of six, cultivating his early interest in music\u2014who knew that a six-year-old could create such charming melodies?"
     },
     {
-      "event": "Piano Lessons",
-      "summary": "At the tender age of six, Grieg started piano lessons with his mother. You could say she was the ultimate 'piano mom' without the annoying pageant pressure; her aims were a little more cultured!",
-      "year": 1849,
-      "city": "Bergen",
-      "country": "Norway"
-    },
-    {
-      "event": "Study at Leipzig Conservatory",
-      "summary": "Grieg enrolled at the Leipzig Conservatory but found the strict environment to be less than inspiring. It\u2019s like trying to be a wild, free-spirited artist while shackled to a desk \u2013 not exactly a recipe for creative genius!",
+      "section": "Background",
+      "title": "Study at Leipzig Conservatory",
+      "summary": "At the age of fifteen, Grieg met the renowned violinist Ole Bull, who recognized his talent and encouraged his parents to send him to the Leipzig Conservatory. While there, Grieg focused on piano and experienced the vibrant musical scene of Leipzig, although he struggled with the conservatory's discipline.",
       "year": 1858,
-      "city": "Leipzig",
-      "country": "Germany"
+      "location": "Leipzig, Germany",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "At the age of fifteen, Grieg met the renowned violinist Ole Bull, who told his parents, \"Don't let this talent go to waste!\" So off he went to the Leipzig Conservatory, where he dove into piano lessons and experienced the vibrant musical scene of Leipzig. However, he struggled with the conservatory's discipline, which felt like swimming with weights tied to his feet!"
     },
     {
-      "event": "Dealing with Illness",
-      "summary": "Grieg spent part of his early life battling lung ailments, though you\u2019d think he was a daredevil with all the concerts he still managed to pull off. His 'sick leave' sounds a lot more exciting than most people's!",
+      "section": "Background",
+      "title": "Health Struggles",
+      "summary": "In the spring of 1860, Grieg faced serious health challenges, surviving two life-threatening lung diseases: pleurisy and tuberculosis. These health issues would plague him throughout his life, significantly affecting his respiratory system and overall health.",
       "year": 1860,
-      "city": "Unknown",
-      "country": "Unknown"
+      "location": "Norway",
+      "emoji": "\ud83d\udc94",
+      "fun_version": "In the spring of 1860, Grieg found himself in quite the pickle, wrestling with not just one but two lung diseases: pleurisy and tuberculosis. These pesky ailments decided to stick around longer than a bad house guest, significantly impacting his respiratory system and overall health."
     },
     {
-      "event": "Debut as concert pianist",
-      "summary": "Grieg finally made a splash as a concert pianist in Karlshamn, Sweden. Nothing says 'I'm here' quite like hitting the keys in front of an audience, especially after battling through illness!",
+      "section": "Career",
+      "title": "Debut as a Concert Pianist",
+      "summary": "In 1861, Grieg made his debut as a concert pianist in Karlshamn, Sweden, marking the start of his performing career.",
       "year": 1861,
-      "city": "Karlshamn",
-      "country": "Sweden"
+      "location": "Karlshamn, Sweden",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "In 1861, Grieg strutted onto the stage in Karlshamn, Sweden, like a peacock in a tuxedo, marking the start of his performing career. Who knew a guy could tickle the ivories and the funny bone at the same time?"
     },
     {
-      "event": "Marriage",
-      "summary": "Grieg tied the knot with his first cousin, Nina Hagerup, proving that sometimes the best 'matches' are right under your nose... or in your family tree!",
+      "section": "Career",
+      "title": "Marriage to Nina Hagerup",
+      "summary": "On 11 June 1867, Grieg married his first cousin, Nina Hagerup, who was a lyric soprano, establishing a significant partnership in his life and career.",
       "year": 1867,
-      "city": "Bergen",
-      "country": "Norway"
+      "location": "",
+      "emoji": "\u2764\ufe0f",
+      "fun_version": "On 11 June 1867, Grieg, the famous composer, married his first cousin, Nina Hagerup, who was a lyric soprano. Turns out, Grieg took 'keeping it in the family' quite literally while hitting all the right notes in life and in love."
     },
     {
-      "event": "Piano Concerto Composition",
-      "summary": "While vacationing in Denmark, Grieg composed his famous Piano Concerto in A minor. Talk about a productive holiday \u2013 most people only come back with a sunburn and some trinkets!",
+      "section": "Career",
+      "title": "Birth of Alexandra",
+      "summary": "In 1868, Grieg and Nina welcomed their only child, Alexandra, into the world, though this joy was followed by heartache.",
       "year": 1868,
-      "city": "Copenhagen",
-      "country": "Denmark"
+      "location": "",
+      "emoji": "\ud83d\udc76",
+      "fun_version": "In 1868, Grieg and Nina were over the moon to welcome their only child, Alexandra, into a world where diapers replaced symphonies. Just when they thought they had the perfect melody, reality hit them with a sour note\u2014parenthood does come with a few off-key moments!"
     },
     {
-      "event": "Friendship with Tchaikovsky",
-      "summary": "After a rendezvous in Leipzig, Grieg found himself both impressed and flattered by the attention from Tchaikovsky, who adored his music. It was the 19th-century version of mutual fandom!",
+      "section": "Career",
+      "title": "Death of Alexandra",
+      "summary": "Tragically, their daughter Alexandra died in 1869 from meningitis, which brought immense sorrow to Grieg and Nina.",
+      "year": 1869,
+      "location": "",
+      "emoji": "\ud83d\ude22",
+      "fun_version": "Back in 1869, Grieg and Nina found themselves in a pickle after their daughter Alexandra had a case of meningitis, which brought them immense sorrow."
+    },
+    {
+      "section": "Career",
+      "title": "Piano Concerto Premiere",
+      "summary": "During the summer of 1868, Grieg composed his Piano Concerto in A minor, which premiered on 3 April 1869 at the Casino Theatre in Copenhagen, showcasing his talent to a wider audience.",
+      "year": 1869,
+      "location": "Copenhagen",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Once upon a time in the hot summer of 1868, a fellow named Grieg decided his piano needed some company. So, he composed the Piano Concerto in A minor, which premiered on 3 April 1869 at the Casino Theatre in Copenhagen, showcasing his musical talent to an eager audience."
+    },
+    {
+      "section": "Career",
+      "title": "Friendship with Bj\u00f8rnstjerne Bj\u00f8rnson",
+      "summary": "In the 1870s, Grieg formed a friendship with the poet Bj\u00f8rnstjerne Bj\u00f8rnson, leading to collaborative efforts in music and a shared interest in Norwegian culture.",
+      "year": 1870,
+      "location": "",
+      "emoji": "\ud83c\uddf3\ud83c\uddf4",
+      "fun_version": "In the 1870s, Grieg and Bj\u00f8rnstjerne Bj\u00f8rnson became the best of pals, bonding over music and Norwegian culture. You could say they were the original duet partners, minus the synchronized dance moves!"
+    },
+    {
+      "section": "Career",
+      "title": "Meeting Tchaikovsky",
+      "summary": "In 1888, Grieg met Tchaikovsky in Leipzig, where they shared mutual respect and admiration for each other's music, deepening Grieg's influence in European musical circles.",
       "year": 1888,
-      "city": "Leipzig",
-      "country": "Germany"
+      "location": "Leipzig",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "Once upon a time in 1888, Grieg and Tchaikovsky bumped into each other in Leipzig, where they shared mutual respect and admiration for each other's music, which deepened Grieg's influence in European musical circles. They thought, 'Wow, someone else who can play the piano without using it as a coffee table!' Their music sheets probably got jealous!"
     },
     {
-      "event": "Private Concert at Windsor Castle",
-      "summary": "Grieg and Nina performed for Queen Victoria at Windsor Castle. Nothing quite like playing for royalty \u2013 it must have felt like a royal endorsement of his talent!",
+      "section": "Career",
+      "title": "Honorary Doctorate from Cambridge",
+      "summary": "In 1894, Grieg was awarded an honorary doctorate by the University of Cambridge, recognizing his contributions to music and culture.",
+      "year": 1894,
+      "location": "Cambridge",
+      "emoji": "\ud83c\udf93",
+      "fun_version": "In 1894, Grieg snagged an honorary doctorate from the University of Cambridge, recognizing his contributions to music and culture. They must have thought, 'This guy plays piano better than we play hide and seek!' It's just their way of saying they couldn't find anyone else with a better hairdo!"
+    },
+    {
+      "section": "Career",
+      "title": "Private Concert at Windsor Castle",
+      "summary": "On 6 December 1897, Grieg and his wife performed for Queen Victoria at Windsor Castle, an event highlighting his standing in the music community.",
       "year": 1897,
-      "city": "Windsor",
-      "country": "United Kingdom"
+      "location": "Windsor Castle",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "On December 6, 1897, Edvard Grieg and his wife performed for Queen Victoria at Windsor Castle, an event highlighting his standing in the music community. It was a royal affair where the Queen may have accidentally clapped when she meant to put on her crown \u2013 but hey, who doesn\u2019t love a good music show, right?"
     },
     {
-      "event": "Gramophone Recordings",
-      "summary": "Grieg made a series of recordings of his piano music in Paris, capturing his genius for future generations. Think of it as an early version of the 'Greatest Hits' album \u2013 minus the flashy hair and dance moves.",
-      "year": 1903,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Meeting Percy Grainger",
-      "summary": "In London, Grieg met the young Australian composer and pianist Percy Grainger, quickly establishing a mutual admiration that made an instant buddy movie plot \u2013 composer friends conquering the world!",
-      "year": 1906,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Death",
-      "summary": "Grieg passed away in Bergen after a long battle with illness, leaving behind a legacy of delightful music. His last words might not have been a grand opera finale, but they surely contained a fair bit of humor!",
+      "section": "Career",
+      "title": "Death of Edvard Grieg",
+      "summary": "Grieg died at the Municipal Hospital in Bergen, Norway on 4 September 1907, concluding a life filled with significant artistic contributions and personal struggles.",
       "year": 1907,
-      "city": "Bergen",
-      "country": "Norway"
-    },
-    {
-      "event": "Leipzig Conservatory",
-      "summary": "Grieg decided that learning from the best was essential, so he packed his bags for Leipzig, where he presumably discovered that not all music teachers were as fun as his mother.",
-      "year": 1863,
-      "city": "Leipzig",
-      "country": "Germany"
-    },
-    {
-      "event": "First major composition",
-      "summary": "Grieg completed his first significant work, leaving his mark on the music world, while probably still trying to figure out how to impress the ladies at concerts.",
-      "year": 1867,
-      "city": "Bergen",
-      "country": "Norway"
-    },
-    {
-      "event": "Peer Gynt",
-      "summary": "Edvard Grieg composed the incidental music for Ibsen's play 'Peer Gynt', showing a knack for dramatic flair that was rivaled only by his personal performances.",
-      "year": 1875,
-      "city": "Oslo",
-      "country": "Norway"
-    },
-    {
-      "event": "Piano Concerto in A minor",
-      "summary": "Grieg composed his famous Piano Concerto, which was so popular, it probably gave him more invitations to parties than he could handle.",
-      "year": 1868,
-      "city": "Copenhagen",
-      "country": "Denmark"
-    },
-    {
-      "event": "Foundation of Troldhaugen",
-      "summary": "Grieg built his home at Troldhaugen, where he could compose in peace and occasionally yell at passing trolls to keep the noise level down.",
-      "year": 1885,
-      "city": "Bergen",
-      "country": "Norway"
+      "location": "Bergen, Norway",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "Grieg kicked the bucket at the Municipal Hospital in Bergen, Norway, on 4 September 1907. It was a grand finale to a life filled with significant artistic contributions and personal struggles."
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/Agitato,_EG_106_(Grieg,_Edvard)",
-      "year": 1865,
-      "title": "Agitato, EG 106"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Album_Leaves,_Op.28_(Grieg,_Edvard)",
-      "year": 1878,
-      "title": "4 Album Leaves, Op.28"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Albumblad,_EG_109_(Grieg,_Edvard)",
-      "year": 1878,
-      "title": "Albumblad, EG 109"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Andante_con_moto,_EG_116_(Grieg,_Edvard)",
-      "year": 1878,
-      "title": "Andante con moto, EG 116"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/At_Halfdans_Kjerulfs_Statue,_EG_167_(Grieg,_Edvard)",
-      "year": 1874,
-      "title": "At Halfdans Kjerulfs Statue, EG 167"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ave_maris_stella,_EG_150_(Grieg,_Edvard)",
-      "year": 1893,
-      "title": "Ave maris stella, EG 150"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Cello_Sonata,_Op.36_(Grieg,_Edvard)",
-      "year": 1882,
-      "title": "Cello Sonata, Op.36"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Du_retter_tidt_dit_%C3%B8jepar,_EG_148_(Grieg,_Edvard)",
-      "year": 1889,
-      "title": "Du retter tidt dit \u00f8jepar, EG 148"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Elegiac_Melodies,_Op.34_(Grieg,_Edvard)",
-      "year": 1880,
-      "title": "2 Elegiac Melodies, Op.34"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fugue_in_F_minor_for_String_Quartet,_EG_114_(Grieg,_Edvard)",
-      "year": 1861,
-      "title": "Fugue in F minor for String Quartet, EG 114"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/7_Fugues,_EG_184_(Grieg,_Edvard)",
-      "year": 1861,
-      "title": "7 Fugues, EG 184"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Haugtussa,_Op.67_(Grieg,_Edvard)",
-      "year": 1895,
-      "title": "Haugtussa, Op.67"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Holberg_Cantata,_EG_171_(Grieg,_Edvard)",
-      "year": 1884,
-      "title": "Holberg Cantata, EG 171"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Holberg_Suite,_Op.40_(Grieg,_Edvard)",
-      "year": 1884,
-      "title": "Holberg Suite, Op.40"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Humoresques,_Op.6_(Grieg,_Edvard)",
-      "year": 1864,
-      "title": "4 Humoresques, Op.6"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/In_Autumn,_Op.11_(Grieg,_Edvard)",
-      "year": 1865,
-      "title": "In Autumn, Op.11"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Inga_Litamor,_EG_168_(Grieg,_Edvard)",
-      "year": 1878,
-      "title": "Inga Litamor, EG 168"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Intermezzo,_EG_115_(Grieg,_Edvard)",
-      "year": 1866,
-      "title": "Intermezzo, EG 115"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Kristianiensernes_sangerhilsen,_EG_173_(Grieg,_Edvard)",
-      "year": 1895,
-      "title": "Kristianiensernes sangerhilsen, EG 173"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Lyric_Pieces,_Op.12_(Grieg,_Edvard)",
-      "year": 1866,
-      "title": "Lyric Pieces, Op.12"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Lyric_Pieces,_Op.38_(Grieg,_Edvard)",
-      "year": 1866,
-      "title": "Lyric Pieces, Op.38"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Lyric_Pieces,_Op.71_(Grieg,_Edvard)",
-      "year": 1901,
-      "title": "Lyric Pieces, Op.71"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Melodies_of_the_Heart,_Op.5_(Grieg,_Edvard)",
-      "year": 1864,
-      "title": "Melodies of the Heart, Op.5"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Mountain_Thrall,_Op.32_(Grieg,_Edvard)",
-      "year": 1878,
-      "title": "Mountain Thrall, Op.32"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Nordic_Melodies,_Op.63_(Grieg,_Edvard)",
-      "year": 1895,
-      "title": "2 Nordic Melodies, Op.63"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Norwegian_Dances,_Op.35_(Grieg,_Edvard)",
-      "year": 1880,
-      "title": "4 Norwegian Dances, Op.35"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/19_Norwegian_Folk_Tunes,_Op.66_(Grieg,_Edvard)",
-      "year": 1896,
-      "title": "19 Norwegian Folk Tunes, Op.66"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Norwegian_Mountain_Melodies_(Grieg,_Edvard)",
-      "year": 1874,
-      "title": "6 Norwegian Mountain Melodies"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Olav_Trygvason,_Op.50_(Grieg,_Edvard)",
-      "year": 1873,
-      "title": "Olav Trygvason, Op.50"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Old_Norwegian_Melody_with_Variations,_Op.51_(Grieg,_Edvard)",
-      "year": 1890,
-      "title": "Old Norwegian Melody with Variations, Op.51"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Opsang_for_Frihedsfolket_i_Norden,_EG_166_(Grieg,_Edvard)",
-      "year": 1874,
-      "title": "Opsang for Frihedsfolket i Norden, EG 166"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Peer_Gynt_Suite_No.1,_Op.46_(Grieg,_Edvard)",
-      "year": 1874,
-      "title": "Peer Gynt Suite No.1, Op.46"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Peer_Gynt_Suite_No.2,_Op.55_(Grieg,_Edvard)",
-      "year": 1891,
-      "title": "Peer Gynt Suite No.2, Op.55"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Peer_Gynt,_Op.23_(Grieg,_Edvard)",
-      "year": 1874,
-      "title": "Peer Gynt, Op.23"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_in_B_minor,_EG_120_(Grieg,_Edvard)",
-      "year": 1882,
-      "title": "Piano Concerto in B minor, EG 120"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Concerto,_Op.16_(Grieg,_Edvard)",
-      "year": 1868,
-      "title": "Piano Concerto, Op.16"
-    },
-    {
+      "title": "3 Piano Pieces, EG 105",
       "imslp_url": "https://imslp.org/wiki/3_Piano_Pieces,_EG_105_(Grieg,_Edvard)",
-      "year": 1860,
-      "title": "3 Piano Pieces, EG 105"
+      "year": 1860
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Piano_Quintet_in_B-flat_major,_EG_118_(Grieg,_Edvard)",
-      "year": 1883,
-      "title": "Piano Quintet in B-flat major, EG 118"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Sonata,_Op.7_(Grieg,_Edvard)",
-      "year": 1865,
-      "title": "Piano Sonata, Op.7"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Transcriptions_of_Songs,_Op.41_(Grieg,_Edvard)",
-      "year": 1884,
-      "title": "Piano Transcriptions of Songs, Op.41"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Poetic_Tone-Pictures,_Op.3_(Grieg,_Edvard)",
-      "year": 1864,
-      "title": "Poetic Tone-Pictures, Op.3"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Prinsessen,_EG_133_(Grieg,_Edvard)",
-      "year": 1871,
-      "title": "Prinsessen, EG 133"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Psalms,_Op.74_(Grieg,_Edvard)",
-      "year": 1906,
-      "title": "4 Psalms, Op.74"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Romances,_Op.39_(Grieg,_Edvard)",
-      "year": 1869,
-      "title": "6 Romances, Op.39"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Sangerhilsen,_EG_170_(Grieg,_Edvard)",
-      "year": 1883,
-      "title": "Sangerhilsen, EG 170"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Scenes_of_Country_Life,_Op.19_(Grieg,_Edvard)",
-      "year": 1869,
-      "title": "Scenes of Country Life, Op.19"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Sigurd_Jorsalfar_(incidental_music),_Op.22_(Grieg,_Edvard)",
-      "year": 1872,
-      "title": "Sigurd Jorsalfar"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Sigurd_Jorsalfar_(suite),_Op.56_(Grieg,_Edvard)",
-      "year": 1872,
-      "title": "Sigurd Jorsalfar"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Simpel_Sang,_EG_147_(Grieg,_Edvard)",
-      "year": 1889,
-      "title": "Simpel Sang, EG 147"
-    },
-    {
+      "title": "The Singing Congregation, EG 122",
       "imslp_url": "https://imslp.org/wiki/The_Singing_Congregation,_EG_122_(Grieg,_Edvard)",
-      "year": 1860,
-      "title": "The Singing Congregation, EG 122"
+      "year": 1860
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Soldaten,_EG_125_(Grieg,_Edvard)",
-      "year": 1865,
-      "title": "Soldaten, EG 125"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Songs_after_J%C3%B8rgen_Moe,_EG_162_(Grieg,_Edvard)",
-      "year": 1867,
-      "title": "2 Songs after J\u00f8rgen Moe, EG 162"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Songs_and_Ballades,_Op.9_(Grieg,_Edvard)",
-      "year": 1863,
-      "title": "4 Songs and Ballades, Op.9"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Songs_of_Norway,_Op.58_(Grieg,_Edvard)",
-      "year": 1893,
-      "title": "5 Songs of Norway, Op.58"
-    },
-    {
+      "title": "4 Songs, Op.2",
       "imslp_url": "https://imslp.org/wiki/4_Songs,_Op.2_(Grieg,_Edvard)",
-      "year": 1861,
-      "title": "4 Songs, Op.2"
+      "year": 1861
     },
     {
+      "title": "7 Fugues, EG 184",
+      "imslp_url": "https://imslp.org/wiki/7_Fugues,_EG_184_(Grieg,_Edvard)",
+      "year": 1861
+    },
+    {
+      "title": "Fugue in F minor for String Quartet, EG 114",
+      "imslp_url": "https://imslp.org/wiki/Fugue_in_F_minor_for_String_Quartet,_EG_114_(Grieg,_Edvard)",
+      "year": 1861
+    },
+    {
+      "title": "4 Songs and Ballades, Op.9",
+      "imslp_url": "https://imslp.org/wiki/4_Songs_and_Ballades,_Op.9_(Grieg,_Edvard)",
+      "year": 1863
+    },
+    {
+      "title": "6 Songs, Op.4",
       "imslp_url": "https://imslp.org/wiki/6_Songs,_Op.4_(Grieg,_Edvard)",
-      "year": 1863,
-      "title": "6 Songs, Op.4"
+      "year": 1863
     },
     {
-      "imslp_url": "https://imslp.org/wiki/4_Songs,_Op.10_(Grieg,_Edvard)",
-      "year": 1864,
-      "title": "4 Songs, Op.10"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Songs,_Op.15_(Grieg,_Edvard)",
-      "year": 1864,
-      "title": "4 Songs, Op.15"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/9_Songs,_Op.18_(Grieg,_Edvard)",
-      "year": 1865,
-      "title": "9 Songs, Op.18"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Songs,_Op.21_(Grieg,_Edvard)",
-      "year": 1870,
-      "title": "4 Songs, Op.21"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Songs,_Op.25_(Grieg,_Edvard)",
-      "year": 1876,
-      "title": "6 Songs, Op.25"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Songs,_Op.26_(Grieg,_Edvard)",
-      "year": 1876,
-      "title": "5 Songs, Op.26"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/12_Songs,_Op.33_(Grieg,_Edvard)",
-      "year": 1873,
-      "title": "12 Songs, Op.33"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Songs,_Op.48_(Grieg,_Edvard)",
-      "year": 1884,
-      "title": "6 Songs, Op.48"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Songs,_Op.49_(Grieg,_Edvard)",
-      "year": 1886,
-      "title": "6 Songs, Op.49"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Songs,_Op.60_(Grieg,_Edvard)",
-      "year": 1893,
-      "title": "5 Songs, Op.60"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Songs,_Op.69_(Grieg,_Edvard)",
-      "year": 1900,
-      "title": "5 Songs, Op.69"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Songs,_Op.70_(Grieg,_Edvard)",
-      "year": 1900,
-      "title": "5 Songs, Op.70"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/S%C3%B8rgemarsch_over_Rikard_Nordr%C3%A5k,_EG_107_(Grieg,_Edvard)",
-      "year": 1866,
-      "title": "S\u00f8rgemarsch over Rikard Nordr\u00e5k, EG 107"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Sporven,_EG_152d_(Grieg,_Edvard)",
-      "year": 1895,
-      "title": "Sporven, EG 152d"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1,_Op.27_(Grieg,_Edvard)",
-      "year": 1877,
-      "title": "String Quartet No.1, Op.27"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2,_EG_117_(Grieg,_Edvard)",
-      "year": 1891,
-      "title": "String Quartet No.2, EG 117"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Suk,_EG_134_(Grieg,_Edvard)",
-      "year": 1873,
-      "title": "Suk, EG 134"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Symphonic_Dances,_Op.64_(Grieg,_Edvard)",
-      "year": 1896,
-      "title": "Symphonic Dances, Op.64"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Symphonic_Pieces,_Op.14_(Grieg,_Edvard)",
-      "year": 1875,
-      "title": "2 Symphonic Pieces, Op.14"
-    },
-    {
+      "title": "Symphony in C minor, EG 119",
       "imslp_url": "https://imslp.org/wiki/Symphony_in_C_minor,_EG_119_(Grieg,_Edvard)",
-      "year": 1863,
-      "title": "Symphony in C minor, EG 119"
+      "year": 1863
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Taaren,_EG_128_(Grieg,_Edvard)",
-      "year": 1865,
-      "title": "Taaren, EG 128"
+      "title": "4 Humoresques, Op.6",
+      "imslp_url": "https://imslp.org/wiki/4_Humoresques,_Op.6_(Grieg,_Edvard)",
+      "year": 1864
     },
     {
+      "title": "4 Songs, Op.10",
+      "imslp_url": "https://imslp.org/wiki/4_Songs,_Op.10_(Grieg,_Edvard)",
+      "year": 1864
+    },
+    {
+      "title": "4 Songs, Op.15",
+      "imslp_url": "https://imslp.org/wiki/4_Songs,_Op.15_(Grieg,_Edvard)",
+      "year": 1864
+    },
+    {
+      "title": "Melodies of the Heart, Op.5",
+      "imslp_url": "https://imslp.org/wiki/Melodies_of_the_Heart,_Op.5_(Grieg,_Edvard)",
+      "year": 1864
+    },
+    {
+      "title": "Poetic Tone-Pictures, Op.3",
+      "imslp_url": "https://imslp.org/wiki/Poetic_Tone-Pictures,_Op.3_(Grieg,_Edvard)",
+      "year": 1864
+    },
+    {
+      "title": "Til kirken hun vandrer, EG 123",
       "imslp_url": "https://imslp.org/wiki/Til_kirken_hun_vandrer,_EG_123_(Grieg,_Edvard)",
-      "year": 1864,
-      "title": "Til kirken hun vandrer, EG 123"
+      "year": 1864
     },
     {
-      "imslp_url": "https://imslp.org/wiki/To_a_Devil,_EG_154_(Grieg,_Edvard)",
-      "year": 1900,
-      "title": "To a Devil, EG 154"
+      "title": "9 Songs, Op.18",
+      "imslp_url": "https://imslp.org/wiki/9_Songs,_Op.18_(Grieg,_Edvard)",
+      "year": 1865
     },
     {
-      "imslp_url": "https://imslp.org/wiki/To_Generalkonsul_Chr._T%C3%B8nsberg,_EG_136_(Grieg,_Edvard)",
-      "year": 1873,
-      "title": "To Generalkonsul Chr. T\u00f8nsberg, EG 136"
+      "title": "Agitato, EG 106",
+      "imslp_url": "https://imslp.org/wiki/Agitato,_EG_106_(Grieg,_Edvard)",
+      "year": 1865
     },
     {
-      "imslp_url": "https://imslp.org/wiki/To_Ole_Bull,_EG_176_(Grieg,_Edvard)",
-      "year": 1901,
-      "title": "To Ole Bull, EG 176"
+      "title": "In Autumn, Op.11",
+      "imslp_url": "https://imslp.org/wiki/In_Autumn,_Op.11_(Grieg,_Edvard)",
+      "year": 1865
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Valgsang,_EG_149_(Grieg,_Edvard)",
-      "year": 1893,
-      "title": "Valgsang, EG 149"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.1,_Op.8_(Grieg,_Edvard)",
-      "year": 1865,
-      "title": "Violin Sonata No.1, Op.8"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.2,_Op.13_(Grieg,_Edvard)",
-      "year": 1867,
-      "title": "Violin Sonata No.2, Op.13"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.3,_Op.45_(Grieg,_Edvard)",
-      "year": 1887,
-      "title": "Violin Sonata No.3, Op.45"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Walzer-Capricen,_Op.37_(Grieg,_Edvard)",
-      "year": 1883,
-      "title": "2 Walzer-Capricen, Op.37"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_White_and_the_Red_Rose,_EG_137_(Grieg,_Edvard)",
-      "year": 1873,
-      "title": "The White and the Red Rose, EG 137"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Klavierwerke_(Grieg,_Edvard)",
-      "year": 1902,
-      "title": "Klavierwerke"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/36_Selected_Songs_for_Low_Voice_(Grieg,_Edvard)",
-      "year": 1863,
-      "title": "36 Selected Songs for Low Voice"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Lyric_Pieces,_Op.71_(Grieg,_Edvard)",
-      "year": 1901,
-      "title": "Lyric Pieces, Op.71"
-    },
-    {
+      "title": "Piano Sonata, Op.7",
       "imslp_url": "https://imslp.org/wiki/Piano_Sonata,_Op.7_(Grieg,_Edvard)",
-      "year": 1865,
-      "title": "Piano Sonata, Op.7"
+      "year": 1865
+    },
+    {
+      "title": "Soldaten, EG 125",
+      "imslp_url": "https://imslp.org/wiki/Soldaten,_EG_125_(Grieg,_Edvard)",
+      "year": 1865
+    },
+    {
+      "title": "Taaren, EG 128",
+      "imslp_url": "https://imslp.org/wiki/Taaren,_EG_128_(Grieg,_Edvard)",
+      "year": 1865
+    },
+    {
+      "title": "Violin Sonata No.1, Op.8",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.1,_Op.8_(Grieg,_Edvard)",
+      "year": 1865
+    },
+    {
+      "title": "Intermezzo, EG 115",
+      "imslp_url": "https://imslp.org/wiki/Intermezzo,_EG_115_(Grieg,_Edvard)",
+      "year": 1866
+    },
+    {
+      "title": "Lyric Pieces, Op.12",
+      "imslp_url": "https://imslp.org/wiki/Lyric_Pieces,_Op.12_(Grieg,_Edvard)",
+      "year": 1866
+    },
+    {
+      "title": "Lyric Pieces, Op.38",
+      "imslp_url": "https://imslp.org/wiki/Lyric_Pieces,_Op.38_(Grieg,_Edvard)",
+      "year": 1866
+    },
+    {
+      "title": "S\u00f8rgemarsch over Rikard Nordr\u00e5k, EG 107",
+      "imslp_url": "https://imslp.org/wiki/S\u00f8rgemarsch_over_Rikard_Nordr\u00e5k,_EG_107_(Grieg,_Edvard)",
+      "year": 1866
+    },
+    {
+      "title": "2 Songs after J\u00f8rgen Moe, EG 162",
+      "imslp_url": "https://imslp.org/wiki/2_Songs_after_J\u00f8rgen_Moe,_EG_162_(Grieg,_Edvard)",
+      "year": 1867
+    },
+    {
+      "title": "Violin Sonata No.2, Op.13",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.2,_Op.13_(Grieg,_Edvard)",
+      "year": 1867
+    },
+    {
+      "title": "Piano Concerto, Op.16",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto,_Op.16_(Grieg,_Edvard)",
+      "year": 1868
+    },
+    {
+      "title": "6 Romances, Op.39",
+      "imslp_url": "https://imslp.org/wiki/6_Romances,_Op.39_(Grieg,_Edvard)",
+      "year": 1869
+    },
+    {
+      "title": "Scenes of Country Life, Op.19",
+      "imslp_url": "https://imslp.org/wiki/Scenes_of_Country_Life,_Op.19_(Grieg,_Edvard)",
+      "year": 1869
+    },
+    {
+      "title": "4 Songs, Op.21",
+      "imslp_url": "https://imslp.org/wiki/4_Songs,_Op.21_(Grieg,_Edvard)",
+      "year": 1870
+    },
+    {
+      "title": "Prinsessen, EG 133",
+      "imslp_url": "https://imslp.org/wiki/Prinsessen,_EG_133_(Grieg,_Edvard)",
+      "year": 1871
+    },
+    {
+      "title": "Sigurd Jorsalfar (incidental music), Op.22",
+      "imslp_url": "https://imslp.org/wiki/Sigurd_Jorsalfar_(incidental_music),_Op.22_(Grieg,_Edvard)",
+      "year": 1872
+    },
+    {
+      "title": "Sigurd Jorsalfar (suite), Op.56",
+      "imslp_url": "https://imslp.org/wiki/Sigurd_Jorsalfar_(suite),_Op.56_(Grieg,_Edvard)",
+      "year": 1872
+    },
+    {
+      "title": "12 Songs, Op.33",
+      "imslp_url": "https://imslp.org/wiki/12_Songs,_Op.33_(Grieg,_Edvard)",
+      "year": 1873
+    },
+    {
+      "title": "Olav Trygvason, Op.50",
+      "imslp_url": "https://imslp.org/wiki/Olav_Trygvason,_Op.50_(Grieg,_Edvard)",
+      "year": 1873
+    },
+    {
+      "title": "Suk, EG 134",
+      "imslp_url": "https://imslp.org/wiki/Suk,_EG_134_(Grieg,_Edvard)",
+      "year": 1873
+    },
+    {
+      "title": "The White and the Red Rose, EG 137",
+      "imslp_url": "https://imslp.org/wiki/The_White_and_the_Red_Rose,_EG_137_(Grieg,_Edvard)",
+      "year": 1873
+    },
+    {
+      "title": "To Generalkonsul Chr. T\u00f8nsberg, EG 136",
+      "imslp_url": "https://imslp.org/wiki/To_Generalkonsul_Chr._T\u00f8nsberg,_EG_136_(Grieg,_Edvard)",
+      "year": 1873
+    },
+    {
+      "title": "6 Norwegian Mountain Melodies",
+      "imslp_url": "https://imslp.org/wiki/6_Norwegian_Mountain_Melodies_(Grieg,_Edvard)",
+      "year": 1874
+    },
+    {
+      "title": "At Halfdans Kjerulfs Statue, EG 167",
+      "imslp_url": "https://imslp.org/wiki/At_Halfdans_Kjerulfs_Statue,_EG_167_(Grieg,_Edvard)",
+      "year": 1874
+    },
+    {
+      "title": "Opsang for Frihedsfolket i Norden, EG 166",
+      "imslp_url": "https://imslp.org/wiki/Opsang_for_Frihedsfolket_i_Norden,_EG_166_(Grieg,_Edvard)",
+      "year": 1874
+    },
+    {
+      "title": "Peer Gynt Suite No.1, Op.46",
+      "imslp_url": "https://imslp.org/wiki/Peer_Gynt_Suite_No.1,_Op.46_(Grieg,_Edvard)",
+      "year": 1874
+    },
+    {
+      "title": "Peer Gynt, Op.23",
+      "imslp_url": "https://imslp.org/wiki/Peer_Gynt,_Op.23_(Grieg,_Edvard)",
+      "year": 1874
+    },
+    {
+      "title": "2 Symphonic Pieces, Op.14",
+      "imslp_url": "https://imslp.org/wiki/2_Symphonic_Pieces,_Op.14_(Grieg,_Edvard)",
+      "year": 1875
+    },
+    {
+      "title": "5 Songs, Op.26",
+      "imslp_url": "https://imslp.org/wiki/5_Songs,_Op.26_(Grieg,_Edvard)",
+      "year": 1876
+    },
+    {
+      "title": "6 Songs, Op.25",
+      "imslp_url": "https://imslp.org/wiki/6_Songs,_Op.25_(Grieg,_Edvard)",
+      "year": 1876
+    },
+    {
+      "title": "String Quartet No.1, Op.27",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1,_Op.27_(Grieg,_Edvard)",
+      "year": 1877
+    },
+    {
+      "title": "4 Album Leaves, Op.28",
+      "imslp_url": "https://imslp.org/wiki/4_Album_Leaves,_Op.28_(Grieg,_Edvard)",
+      "year": 1878
+    },
+    {
+      "title": "Albumblad, EG 109",
+      "imslp_url": "https://imslp.org/wiki/Albumblad,_EG_109_(Grieg,_Edvard)",
+      "year": 1878
+    },
+    {
+      "title": "Andante con moto, EG 116",
+      "imslp_url": "https://imslp.org/wiki/Andante_con_moto,_EG_116_(Grieg,_Edvard)",
+      "year": 1878
+    },
+    {
+      "title": "Inga Litamor, EG 168",
+      "imslp_url": "https://imslp.org/wiki/Inga_Litamor,_EG_168_(Grieg,_Edvard)",
+      "year": 1878
+    },
+    {
+      "title": "Mountain Thrall, Op.32",
+      "imslp_url": "https://imslp.org/wiki/Mountain_Thrall,_Op.32_(Grieg,_Edvard)",
+      "year": 1878
+    },
+    {
+      "title": "2 Elegiac Melodies, Op.34",
+      "imslp_url": "https://imslp.org/wiki/2_Elegiac_Melodies,_Op.34_(Grieg,_Edvard)",
+      "year": 1880
+    },
+    {
+      "title": "4 Norwegian Dances, Op.35",
+      "imslp_url": "https://imslp.org/wiki/4_Norwegian_Dances,_Op.35_(Grieg,_Edvard)",
+      "year": 1880
+    },
+    {
+      "title": "Cello Sonata, Op.36",
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata,_Op.36_(Grieg,_Edvard)",
+      "year": 1882
+    },
+    {
+      "title": "Piano Concerto in B minor, EG 120",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_in_B_minor,_EG_120_(Grieg,_Edvard)",
+      "year": 1882
+    },
+    {
+      "title": "2 Walzer-Capricen, Op.37",
+      "imslp_url": "https://imslp.org/wiki/2_Walzer-Capricen,_Op.37_(Grieg,_Edvard)",
+      "year": 1883
+    },
+    {
+      "title": "Piano Quintet in B-flat major, EG 118",
+      "imslp_url": "https://imslp.org/wiki/Piano_Quintet_in_B-flat_major,_EG_118_(Grieg,_Edvard)",
+      "year": 1883
+    },
+    {
+      "title": "Sangerhilsen, EG 170",
+      "imslp_url": "https://imslp.org/wiki/Sangerhilsen,_EG_170_(Grieg,_Edvard)",
+      "year": 1883
+    },
+    {
+      "title": "6 Songs, Op.48",
+      "imslp_url": "https://imslp.org/wiki/6_Songs,_Op.48_(Grieg,_Edvard)",
+      "year": 1884
+    },
+    {
+      "title": "Holberg Cantata, EG 171",
+      "imslp_url": "https://imslp.org/wiki/Holberg_Cantata,_EG_171_(Grieg,_Edvard)",
+      "year": 1884
+    },
+    {
+      "title": "Holberg Suite, Op.40",
+      "imslp_url": "https://imslp.org/wiki/Holberg_Suite,_Op.40_(Grieg,_Edvard)",
+      "year": 1884
+    },
+    {
+      "title": "Piano Transcriptions of Songs, Op.41",
+      "imslp_url": "https://imslp.org/wiki/Piano_Transcriptions_of_Songs,_Op.41_(Grieg,_Edvard)",
+      "year": 1884
+    },
+    {
+      "title": "6 Songs, Op.49",
+      "imslp_url": "https://imslp.org/wiki/6_Songs,_Op.49_(Grieg,_Edvard)",
+      "year": 1886
+    },
+    {
+      "title": "Violin Sonata No.3, Op.45",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.3,_Op.45_(Grieg,_Edvard)",
+      "year": 1887
+    },
+    {
+      "title": "Du retter tidt dit \u00f8jepar, EG 148",
+      "imslp_url": "https://imslp.org/wiki/Du_retter_tidt_dit_\u00f8jepar,_EG_148_(Grieg,_Edvard)",
+      "year": 1889
+    },
+    {
+      "title": "Simpel Sang, EG 147",
+      "imslp_url": "https://imslp.org/wiki/Simpel_Sang,_EG_147_(Grieg,_Edvard)",
+      "year": 1889
+    },
+    {
+      "title": "Old Norwegian Melody with Variations, Op.51",
+      "imslp_url": "https://imslp.org/wiki/Old_Norwegian_Melody_with_Variations,_Op.51_(Grieg,_Edvard)",
+      "year": 1890
+    },
+    {
+      "title": "Peer Gynt Suite No.2, Op.55",
+      "imslp_url": "https://imslp.org/wiki/Peer_Gynt_Suite_No.2,_Op.55_(Grieg,_Edvard)",
+      "year": 1891
+    },
+    {
+      "title": "String Quartet No.2, EG 117",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2,_EG_117_(Grieg,_Edvard)",
+      "year": 1891
+    },
+    {
+      "title": "5 Songs of Norway, Op.58",
+      "imslp_url": "https://imslp.org/wiki/5_Songs_of_Norway,_Op.58_(Grieg,_Edvard)",
+      "year": 1893
+    },
+    {
+      "title": "5 Songs, Op.60",
+      "imslp_url": "https://imslp.org/wiki/5_Songs,_Op.60_(Grieg,_Edvard)",
+      "year": 1893
+    },
+    {
+      "title": "Ave maris stella, EG 150",
+      "imslp_url": "https://imslp.org/wiki/Ave_maris_stella,_EG_150_(Grieg,_Edvard)",
+      "year": 1893
+    },
+    {
+      "title": "Valgsang, EG 149",
+      "imslp_url": "https://imslp.org/wiki/Valgsang,_EG_149_(Grieg,_Edvard)",
+      "year": 1893
+    },
+    {
+      "title": "2 Nordic Melodies, Op.63",
+      "imslp_url": "https://imslp.org/wiki/2_Nordic_Melodies,_Op.63_(Grieg,_Edvard)",
+      "year": 1895
+    },
+    {
+      "title": "Haugtussa, Op.67",
+      "imslp_url": "https://imslp.org/wiki/Haugtussa,_Op.67_(Grieg,_Edvard)",
+      "year": 1895
+    },
+    {
+      "title": "Kristianiensernes sangerhilsen, EG 173",
+      "imslp_url": "https://imslp.org/wiki/Kristianiensernes_sangerhilsen,_EG_173_(Grieg,_Edvard)",
+      "year": 1895
+    },
+    {
+      "title": "Sporven, EG 152d",
+      "imslp_url": "https://imslp.org/wiki/Sporven,_EG_152d_(Grieg,_Edvard)",
+      "year": 1895
+    },
+    {
+      "title": "19 Norwegian Folk Tunes, Op.66",
+      "imslp_url": "https://imslp.org/wiki/19_Norwegian_Folk_Tunes,_Op.66_(Grieg,_Edvard)",
+      "year": 1896
+    },
+    {
+      "title": "Symphonic Dances, Op.64",
+      "imslp_url": "https://imslp.org/wiki/Symphonic_Dances,_Op.64_(Grieg,_Edvard)",
+      "year": 1896
+    },
+    {
+      "title": "5 Songs, Op.69",
+      "imslp_url": "https://imslp.org/wiki/5_Songs,_Op.69_(Grieg,_Edvard)",
+      "year": 1900
+    },
+    {
+      "title": "5 Songs, Op.70",
+      "imslp_url": "https://imslp.org/wiki/5_Songs,_Op.70_(Grieg,_Edvard)",
+      "year": 1900
+    },
+    {
+      "title": "To a Devil, EG 154",
+      "imslp_url": "https://imslp.org/wiki/To_a_Devil,_EG_154_(Grieg,_Edvard)",
+      "year": 1900
+    },
+    {
+      "title": "Lyric Pieces, Op.71",
+      "imslp_url": "https://imslp.org/wiki/Lyric_Pieces,_Op.71_(Grieg,_Edvard)",
+      "year": 1901
+    },
+    {
+      "title": "To Ole Bull, EG 176",
+      "imslp_url": "https://imslp.org/wiki/To_Ole_Bull,_EG_176_(Grieg,_Edvard)",
+      "year": 1901
+    },
+    {
+      "title": "4 Psalms, Op.74",
+      "imslp_url": "https://imslp.org/wiki/4_Psalms,_Op.74_(Grieg,_Edvard)",
+      "year": 1906
     }
   ]
 }

@@ -1,0 +1,191 @@
+{
+  "full_name": "Virgil Thomson",
+  "first_names": "Virgil",
+  "last_name": "Thomson",
+  "birth_year": 1896,
+  "death_year": 1989,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Virgil_Thomson",
+  "events": [
+    {
+      "section": "Biography",
+      "title": "Birth",
+      "summary": "Thomson was born in Kansas City, Missouri. He later befriended Alice Smith, a notable descendant of Joseph Smith, indicating an early social engagement that shaped his formative years.",
+      "year": 1896,
+      "location": "Kansas City, Missouri",
+      "emoji": "\ud83d\udc76",
+      "fun_version": "Thomson hails from Kansas City, Missouri, a place known for barbecue and people who think they can dance. It was here that he struck up a friendship with Alice Smith, a well-known descendant of Joseph Smith. This friendship was so influential that it shaped his formative years. But hey, at least Alice didn't try to sell him any snake oil!"
+    },
+    {
+      "section": "Biography",
+      "title": "Education at Harvard University",
+      "summary": "After World War I, Thomson entered Harvard University, where he studied music and developed his passion for European music, especially the piano works of Erik Satie. His time at Harvard marked the beginning of his significant artistic growth.",
+      "year": 1919,
+      "location": "Harvard University",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "After World War I, when the world was trying to find its way back to normalcy, Thomson decided it was time to hit the books at Harvard University. There, he didn't just study music; he became a full-blown European music fanatic, especially enamored with the piano works of Erik Satie! Harvard marked the beginning of his significant artistic growth, like an overzealous flower in a spring garden!"
+    },
+    {
+      "section": "Biography",
+      "title": "Move to Paris",
+      "summary": "Upon graduating, Thomson moved to Paris, where he lived from 1925 until 1940, immersing himself in the vibrant artistic community and forming lasting relationships with influential composers while studying with Nadia Boulanger.",
+      "year": 1925,
+      "location": "Paris, France",
+      "emoji": "\ud83c\uddeb\ud83c\uddf7",
+      "fun_version": "After donning a cap and gown, Thomson decided to escape to Paris like a scene from a cheesy romance movie, where he spent 15 years from 1925 to 1940 rubbing elbows with artists and composers. Instead of getting into serious trouble, he just made some quite impressive friends while learning from the legendary Nadia Boulanger."
+    },
+    {
+      "section": "Works",
+      "title": "Four Saints in Three Acts",
+      "summary": "This opera features a libretto by Gertrude Stein and was composed in 1928. It is known for its innovative structure and blending of music with Stein's distinctive poetic language.",
+      "year": 1928,
+      "location": "",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "This opera features a libretto by Gertrude Stein\u2014a gal so ahead of her time that she probably had a smartphone in 1928. It was composed in the \u2018Roaring Twenties\u2019 and is known for its innovative structure and blending of music with Stein's distinctive poetic language!"
+    },
+    {
+      "section": "Biography",
+      "title": "First collaboration with Gertrude Stein",
+      "summary": "Thomson met Gertrude Stein in Paris and invited her to create a libretto for his opera. This collaboration culminated in the successful premiere of \u2018Four Saints in Three Acts\u2019 in 1934, demonstrating his innovative approach to opera.",
+      "year": 1934,
+      "location": "Paris, France",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Thomson met Gertrude Stein in Paris and invited her to create a libretto for his opera. Their teamwork resulted in \u2018Four Saints in Three Acts\u2019 in 1934, proving that a good collaboration is like a fine wine: it gets better with age!"
+    },
+    {
+      "section": "Works",
+      "title": "The Plow That Broke the Plains",
+      "summary": "This film score was created for a film directed by Pare Lorentz in 1936 and highlights the struggles of American farmers during the Great Depression.",
+      "year": 1936,
+      "location": "",
+      "emoji": "\ud83c\udf3e",
+      "fun_version": "This film score was created for a film directed by Pare Lorentz in 1936, highlighting the struggles of American farmers during the Great Depression while showcasing their skills in growing crops. Who knew farming could be so dramatic?"
+    },
+    {
+      "section": "Works",
+      "title": "Filling Station",
+      "summary": "This ballet was choreographed by Lew Christensen in 1937 and showcases a blend of different dance styles as it tells a story centered around a gas station motif.",
+      "year": 1937,
+      "location": "",
+      "emoji": "\ud83c\udfea",
+      "fun_version": "This ballet, which you can thank Lew Christensen for in 1937, is like a dance party at a gas station\u2014where the dancers fuel up on moves instead of unleaded! Witness a dazzling mashup of all dance styles featuring a story that\u2019s almost as riveting as filling up your tank!"
+    },
+    {
+      "section": "Works",
+      "title": "The River",
+      "summary": "Composed for the 1937 film directed by Pare Lorentz, this score reflects the beauty and significance of rivers in American life and nature.",
+      "year": 1937,
+      "location": "",
+      "emoji": "\ud83c\udf0a",
+      "fun_version": "In 1937, a film directed by Pare Lorentz featured a score that captures the beauty and significance of rivers in American life, proving that even rivers have a vital role in our 'current' affairs!"
+    },
+    {
+      "section": "Works",
+      "title": "Tuesday in November",
+      "summary": "This film score created for a U.S. Office of War Information film in 1945 captures the spirit and atmosphere of a crucial time during World War II.",
+      "year": 1945,
+      "location": "",
+      "emoji": "\ud83c\udfba",
+      "fun_version": "This film score, created for a U.S. Office of War Information film in 1945, captures the dramatic spirit of a crucial time during World War II while dropping catchy tunes to lift everyone's spirits!"
+    },
+    {
+      "section": "Works",
+      "title": "The Mother of Us All",
+      "summary": "Another opera with a libretto by Gertrude Stein, composed in 1947. It reflects themes of American history and highlights the life and work of Susan B. Anthony.",
+      "year": 1947,
+      "location": "",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Another opera with a libretto by Gertrude Stein, composed in 1947. This musical masterpiece dives into American history while giving a standing ovation to Susan B. Anthony, the woman who said, \u2018I\u2019ll have a ballot, please - I don\u2019t care if it comes with a side of patriarchy!\u2019"
+    },
+    {
+      "section": "Works",
+      "title": "Louisiana Story",
+      "summary": "Composed for Robert Flaherty's film in 1948, this film score beautifully depicts the life and culture in Louisiana, emphasizing its natural landscapes.",
+      "year": 1948,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "So, in 1948, Robert Flaherty decided that the best way to showcase Louisiana's life and culture was through film. This film score beautifully depicts Louisiana's natural landscapes, showing us what happened when a guy tried to have a fish-fry picnic and nature just couldn\u2019t resist jumping in front of the camera."
+    },
+    {
+      "section": "Biography",
+      "title": "Pulitzer Prize for Louisiana Story",
+      "summary": "Thomson composed the score for \u2018Louisiana Story\u2019, which earned him the Pulitzer Prize for Music in 1949, recognizing his contributions to film music and marking a significant career accolade.",
+      "year": 1949,
+      "location": "United States",
+      "emoji": "\ud83c\udfc6",
+      "fun_version": "Thomson composed the score for \u2018Louisiana Story\u2019\u2014a film so good they rewarded him with the Pulitzer Prize for Music in 1949, which recognizes not only his genius in film music but also marks a bright and shiny trophy in his career!"
+    },
+    {
+      "section": "Biography",
+      "title": "Publication of The State of Music",
+      "summary": "Following the publication of his influential book \u2018The State of Music\u2019, Thomson established himself in New York City, where he became a prominent critic and rival to Aaron Copland, influencing the music scene in the city.",
+      "year": 1950,
+      "location": "New York City",
+      "emoji": "\ud83d\udcd6",
+      "fun_version": "After launching his best seller \u2018The State of Music\u2019, Thomson plopped himself down in New York City. Here, he turned into a music critic\u2014the kind that can rival Aaron Copland and maybe even steal his lunch. He really shook up the music scene, influencing it in ways that even a Broadway musical would envy, proving that critiques can be more melodic than some compositions!"
+    },
+    {
+      "section": "Works",
+      "title": "The Goddess La Deesse",
+      "summary": "This film, directed by John Cromwell and written by Paddy Chayevsky in 1957, features a score by Thomson, integrating thematic elements of myth and religion.",
+      "year": 1957,
+      "location": "",
+      "emoji": "\ud83c\udfa5",
+      "fun_version": "This film, directed by John Cromwell and penned by Paddy Chayevsky in the dazzling year of 1957, features a score by Thomson, integrating thematic elements of myth and religion."
+    },
+    {
+      "section": "Works",
+      "title": "Power Among Men",
+      "summary": "A film produced by the United Nations film unit in 1958, this score reflects themes of human relationships and governance, emphasizing unity and cooperation.",
+      "year": 1958,
+      "location": "",
+      "emoji": "\ud83e\udd1d",
+      "fun_version": "A film produced by the United Nations film unit in 1958? It\u2019s like a gathering of world leaders, except it lasts longer and has fewer snack breaks! This score reflects themes of human relationships and governance, emphasizing unity and cooperation. Think of it as a musical therapy session for countries, where they sing about coming together."
+    },
+    {
+      "section": "Works",
+      "title": "Journey to America",
+      "summary": "This film made for the New York World's Fair in 1964 showcases the cultural narratives of America through music and visuals, created by Thomson and directed by John Houseman.",
+      "year": 1964,
+      "location": "",
+      "emoji": "\ud83c\uddfa\ud83c\uddf8",
+      "fun_version": "In a towering achievement of the 1960s, this film, crafted for the New York World's Fair (because nothing screams \"fun\" like a World's Fair), brings you a rollercoaster of American cultural narratives. Picture Thomson waving his artistic wand while John Houseman directs like he\u2019s creating the next blockbuster, complete with music and visuals."
+    },
+    {
+      "section": "Biography",
+      "title": "Composed Metropolitan Museum Fanfare",
+      "summary": "In 1969, Thomson composed the \u2018Metropolitan Museum Fanfare: Portrait Of An American Artist\u2019 for a major art exhibition, showcasing his continuing relevance and influence in American cultural life.",
+      "year": 1969,
+      "location": "New York City",
+      "emoji": "\ud83c\udfa8",
+      "fun_version": "Back in 1969, when bell-bottoms were still in fashion, Thomson decided that the world needed a 'Metropolitan Museum Fanfare: Portrait Of An American Artist' for a major art exhibition, showcasing his lasting influence and relevance in American cultural life. It was so epic, maybe it was just trying to drown out the sound of disco music!"
+    },
+    {
+      "section": "Works",
+      "title": "The Baby Maker",
+      "summary": "In 1970, Thomson composed the score for this film by James Bridges, which dives into themes surrounding relationships and societal expectations.",
+      "year": 1970,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1970, when bell-bottoms were a fashion statement, Thomson composed the score for James Bridges\u2019 film that dives deep into the tangled themes of relationships and societal expectations."
+    },
+    {
+      "section": "Works",
+      "title": "Suddenly an Eagle",
+      "summary": "This 1975 ABC News film features music by Thomson, focusing on significant moments and narratives within American aviation and exploration.",
+      "year": 1975,
+      "location": "",
+      "emoji": "\u2708\ufe0f",
+      "fun_version": "Watch out, folks! This 1975 ABC News film, featuring music by Thomson, serves up some musical goodness while aiming to make American aviation as fascinating as possible. If you've ever wondered how to spice up significant moments in aviation and exploration, this film is like adding ketchup to your fries - it might not be essential, but boy, does it make things more interesting!"
+    },
+    {
+      "section": "Biography",
+      "title": "Death",
+      "summary": "Thomson passed away on September 30, 1989, at the Hotel Chelsea in Manhattan after a notable life as a composer and critic, leaving behind a significant legacy in the world of music.",
+      "year": 1989,
+      "location": "Hotel Chelsea, Manhattan",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Thomson passed away on September 30, 1989, at the Hotel Chelsea in Manhattan. After a notable life as a composer and critic, he left a significant legacy in the world of music."
+    }
+  ],
+  "works": []
+}

@@ -1,0 +1,313 @@
+{
+  "full_name": "Charles Ives",
+  "first_names": "Charles Edward",
+  "last_name": "Ives",
+  "birth_year": 1874,
+  "death_year": 1954,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Ives",
+  "events": [
+    {
+      "section": "Biography",
+      "title": "Birth",
+      "summary": "Charles Ives was born in Danbury, Connecticut, to George Ives, a US Army bandleader, and Mary Elizabeth Ives. His family was prominent in the local community and involved in progressive social movements.",
+      "year": 1874,
+      "location": "Danbury, Connecticut",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Charles Ives popped into the world in Danbury, Connecticut, with his father George Ives as a US Army bandleader. His mother, Mary Elizabeth, really made a mark, inspiring her son to create wild music. The Ives family was prominent in the local community and was involved in progressive social movements, practically having their own fan club which was pretty progressive for the times!"
+    },
+    {
+      "section": "Biography",
+      "title": "First Church Organist",
+      "summary": "Ives became a church organist at the age of 14 and wrote various hymns and songs for church services, highlighting his early musical engagement.",
+      "year": 1888,
+      "location": "Danbury, Connecticut",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Ives jumped onto the church organ at the tender age of 14, becoming a maestro of the hymnal! While most kids were busy perfecting their snack schedules and mastering the art of the swing set, he was busy composing tunes that could make even the grumpiest saint crack a smile, all the while showcasing his early passion for music."
+    },
+    {
+      "section": "Musical career",
+      "title": "Variations on \"America\" Premiere",
+      "summary": "His work as an organist led him to write Variations on 'America' in 1891, which he premiered at a recital celebrating the Fourth of July.",
+      "year": 1891,
+      "location": null,
+      "emoji": "\ud83c\uddfa\ud83c\uddf8",
+      "fun_version": "His days as an organist involved quite a load of keys\u2014literally! In 1891, he premiered 'Variations on America' at a recital to celebrate the Fourth of July."
+    },
+    {
+      "section": "Biography",
+      "title": "Graduation from Yale University",
+      "summary": "After his education, Ives graduated from Yale University, where he was active in choral music and created a campaign song for William McKinley.",
+      "year": 1898,
+      "location": "Yale University",
+      "emoji": "\ud83c\udf93",
+      "fun_version": "After attending Yale University, Ives graduated with a degree in 'Why didn't I join the choir sooner?' and even whipped up a catchy campaign song for William McKinley. I guess that made him the real 'McKingly' of graduation performances!"
+    },
+    {
+      "section": "Biography",
+      "title": "Formation of Ives & Co.",
+      "summary": "Ives co-founded the insurance agency Ives & Co. with Julian Myrick after the failure of Charles H. Raymond & Co., marking a new chapter in his career.",
+      "year": 1907,
+      "location": "New York",
+      "emoji": "\ud83c\udfe2",
+      "fun_version": "Ives co-founded the insurance agency Ives & Co. with Julian Myrick after Charles H. Raymond & Co. decided to take an early retirement, marking a new chapter in his career! Who knew paperwork could be so thrilling?"
+    },
+    {
+      "section": "Biography",
+      "title": "Marriage",
+      "summary": "Ives married Harmony Twichell, the daughter of a minister, and they moved into their own apartment in New York, marking a personal milestone.",
+      "year": 1908,
+      "location": "New York",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "Ives tied the knot with Harmony Twichell, the daughter of a minister. As they moved into their own apartment in New York, I bet the walls were echoing with the sweet sound of \u201cHe said, 'I do,' and she said, 'Finally, I can hide the remote!'"
+    },
+    {
+      "section": "Musical career",
+      "title": "Composing the Concord Sonata",
+      "summary": "Ives started work on the Concord Sonata in 1911 and completed most of it in 1915, with its publication occurring in 1920. The piece showcases his experimentation and incorporates quotations from Beethoven.",
+      "year": 1911,
+      "location": "Concord, Massachusetts",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Ives started working on the Concord Sonata in 1911 and finished the bulk of it in 1915. The piece showcases his experimentation and incorporates various Beethoven references, with its publication occurring in 1920."
+    },
+    {
+      "section": "Musical career",
+      "title": "Completion of Symphony No. 4",
+      "summary": "Ives worked on Symphony No. 4 from 1910 to 1916, completing it after extensive revisions in the 1920s. It remains notable for its complexity and vast orchestration, with a complete performance not realized until 1965.",
+      "year": 1916,
+      "location": null,
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Ives began herculean work on Symphony No. 4 from 1910 to 1916. That\u2019s right, folks, he spent longer on this symphony than some folks spend on their taxes! After numerous revisions in the 1920s, it became known for its complexity and vast orchestration. But don\u2019t worry; it took a full 55 years before anyone figured out how to perform the masterpiece, finally realized in 1965!"
+    },
+    {
+      "section": "Politics",
+      "title": "Argument with Franklin D. Roosevelt",
+      "summary": "Ives experienced one of his major heart attacks during an argument with Franklin D. Roosevelt regarding the issuance of war bonds. At the time, Ives supported the idea of bonds with lower amounts, but Roosevelt dismissed the concept as unimportant. This exchange marked a notable moment in Ives's life, reflecting his commitment to innovative ideas in finance during wartime.",
+      "year": 1917,
+      "location": "United States",
+      "emoji": "\ud83d\udc94",
+      "fun_version": "So there Ives was, having an intense moment of debate, all while arguing with FDR about the best way to issue war bonds. Ives, Mr. Low-Ball, thought we should go for smaller amounts, while Roosevelt, thinking strategically for wartime finance and probably with a cigar in one hand and a cocktail in the other, waved him off like a pesky fly, saying, 'Who cares about small change when we've got a war to fund?' This heated exchange marked a notable moment in Ives's life, showcasing his wild passion for innovative ideas in finance during wartime."
+    },
+    {
+      "section": "Politics",
+      "title": "Proposed 20th Amendment to U.S. Constitution",
+      "summary": "In 1920, Ives proposed a significant constitutional amendment allowing citizens to submit legislative proposals to Congress. He took the initiative to print pamphlets advocating for the amendment, emphasizing the need to reduce political influence in democracy. Unfortunately, the pamphlets arrived too late for distribution at the Republican National Convention.",
+      "year": 1920,
+      "location": "United States",
+      "emoji": "\ud83d\udcdc",
+      "fun_version": "In 1920, Ives proposed a significant constitutional amendment allowing citizens to submit legislative proposals to Congress. He even printed pamphlets advocating for the amendment, emphasizing the need to reduce political influence in democracy. Unfortunately, the pamphlets arrived late for distribution at the Republican National Convention!"
+    },
+    {
+      "section": "Biography",
+      "title": "Publication of 114 Songs",
+      "summary": "In 1922, Ives published his 114 Songs, which showcased his extensive body of work as a composer, including various styles and periods of his life.",
+      "year": 1922,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1922, Ives decided that 114 Songs was the right number \u2013 because who wouldn't want to release a musical buffet for folks who couldn't decide what to snack on? It's like a shopaholic composer showcasing his wardrobe from every period of his life, proving that composers, much like fashionistas, have their own sense of style!"
+    },
+    {
+      "section": "Reception",
+      "title": "Ives's Recognition during 1930s",
+      "summary": "During the 1930s, Ives began to gain public recognition with performances of a chamber orchestra version of his Three Places in New England, conducted by Nicolas Slonimsky. This period marked an important shift in how audiences perceived Ives's work, contributing to his eventual acclaim as a significant composer.",
+      "year": 1930,
+      "location": "United States",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "In the 1930s, Ives finally got the spotlight! A chamber orchestra tried to juggle 'Three Places in New England,' conducted by the energetic Nicolas Slonimsky. This period marked a significant shift in how audiences perceived Ives's work, proving music can be both a treat and a trick!"
+    },
+    {
+      "section": "Reception",
+      "title": "World Premiere of Symphony No. 2 by Leonard Bernstein",
+      "summary": "In 1951, Leonard Bernstein conducted the world premiere of Ives's Symphony No. 2 in a broadcast concert by the New York Philharmonic. The performance was a remarkable moment for Ives's music, revealing its appeal to audiences and showcasing the evolution of his reputation even during his later years.",
+      "year": 1951,
+      "location": "New York City",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1951, Leonard Bernstein conducted the world premiere of Ives's Symphony No. 2 in a broadcast concert by the New York Philharmonic. This was a remarkable moment for Ives's music, revealing its appeal to audiences and showcasing the evolution of his reputation, even during his later years."
+    },
+    {
+      "section": "Biography",
+      "title": "Death",
+      "summary": "Charles Ives passed away due to a stroke, concluding a life filled with significant contributions to both music and the insurance industry.",
+      "year": 1954,
+      "location": "New York City",
+      "emoji": "\ud83c\udfb5",
+      "fun_version": "Charles Ives passed away due to a stroke. He had a life filled with significant contributions to both music and the insurance industry."
+    }
+  ],
+  "works": [
+    {
+      "title": "2 Organ Pieces",
+      "imslp_url": "https://imslp.org/wiki/2_Organ_Pieces_(Ives,_Charles)",
+      "year": 1891
+    },
+    {
+      "title": "Circus Band",
+      "imslp_url": "https://imslp.org/wiki/Circus_Band_(Ives,_Charles)",
+      "year": 1894
+    },
+    {
+      "title": "String Quartet No.1",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1_(Ives,_Charles)",
+      "year": 1896
+    },
+    {
+      "title": "Symphony No.2",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.2_(Ives,_Charles)",
+      "year": 1897
+    },
+    {
+      "title": "Symphony No.1",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.1_(Ives,_Charles)",
+      "year": 1898
+    },
+    {
+      "title": "Violin Sonata No.4",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.4_(Ives,_Charles)",
+      "year": 1900
+    },
+    {
+      "title": "Largo for Violin, Clarinet and Piano",
+      "imslp_url": "https://imslp.org/wiki/Largo_for_Violin,_Clarinet_and_Piano_(Ives,_Charles)",
+      "year": 1901
+    },
+    {
+      "title": "Symphony No.3",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.3_(Ives,_Charles)",
+      "year": 1901
+    },
+    {
+      "title": "Piano Sonata No.1",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.1_(Ives,_Charles)",
+      "year": 1902
+    },
+    {
+      "title": "Scherzo for String Quartet",
+      "imslp_url": "https://imslp.org/wiki/Scherzo_for_String_Quartet_(Ives,_Charles)",
+      "year": 1903
+    },
+    {
+      "title": "Three Places in New England",
+      "imslp_url": "https://imslp.org/wiki/Three_Places_in_New_England_(Ives,_Charles)",
+      "year": 1903
+    },
+    {
+      "title": "A Set of 3 Short Pieces, S.84",
+      "imslp_url": "https://imslp.org/wiki/A_Set_of_3_Short_Pieces,_S.84_(Ives,_Charles)",
+      "year": 1904
+    },
+    {
+      "title": "Piano Trio",
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio_(Ives,_Charles)",
+      "year": 1904
+    },
+    {
+      "title": "Central Park in the Dark",
+      "imslp_url": "https://imslp.org/wiki/Central_Park_in_the_Dark_(Ives,_Charles)",
+      "year": 1906
+    },
+    {
+      "title": "Over the Pavements",
+      "imslp_url": "https://imslp.org/wiki/Over_the_Pavements_(Ives,_Charles)",
+      "year": 1906
+    },
+    {
+      "title": "String Quartet No.2",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2_(Ives,_Charles)",
+      "year": 1907
+    },
+    {
+      "title": "Robert Browning Overture",
+      "imslp_url": "https://imslp.org/wiki/Robert_Browning_Overture_(Ives,_Charles)",
+      "year": 1908
+    },
+    {
+      "title": "The Unanswered Question",
+      "imslp_url": "https://imslp.org/wiki/The_Unanswered_Question_(Ives,_Charles)",
+      "year": 1908
+    },
+    {
+      "title": "Piano Sonata No.2",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.2_(Ives,_Charles)",
+      "year": 1909
+    },
+    {
+      "title": "Allegretto sombreoso",
+      "imslp_url": "https://imslp.org/wiki/Allegretto_sombreoso_(Ives,_Charles)",
+      "year": 1910
+    },
+    {
+      "title": "Symphony No.4",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.4_(Ives,_Charles)",
+      "year": 1910
+    },
+    {
+      "title": "Tone Roads No.1",
+      "imslp_url": "https://imslp.org/wiki/Tone_Roads_No.1_(Ives,_Charles)",
+      "year": 1911
+    },
+    {
+      "title": "Adagio sostenuto",
+      "imslp_url": "https://imslp.org/wiki/Adagio_sostenuto_(Ives,_Charles)",
+      "year": 1912
+    },
+    {
+      "title": "New River",
+      "imslp_url": "https://imslp.org/wiki/New_River_(Ives,_Charles)",
+      "year": 1912
+    },
+    {
+      "title": "General William Booth Enters into Heaven",
+      "imslp_url": "https://imslp.org/wiki/General_William_Booth_Enters_into_Heaven_(Ives,_Charles)",
+      "year": 1913
+    },
+    {
+      "title": "Violin Sonata No.1",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.1_(Ives,_Charles)",
+      "year": 1914
+    },
+    {
+      "title": "Violin Sonata No.2",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.2_(Ives,_Charles)",
+      "year": 1914
+    },
+    {
+      "title": "Violin Sonata No.3",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.3_(Ives,_Charles)",
+      "year": 1914
+    },
+    {
+      "title": "Tone Roads No.3",
+      "imslp_url": "https://imslp.org/wiki/Tone_Roads_No.3_(Ives,_Charles)",
+      "year": 1915
+    },
+    {
+      "title": "Essays Before a Sonata",
+      "imslp_url": "https://imslp.org/wiki/Essays_Before_a_Sonata_(Ives,_Charles)",
+      "year": 1920
+    },
+    {
+      "title": "Lincoln, The Great Commoner",
+      "imslp_url": "https://imslp.org/wiki/Lincoln,_The_Great_Commoner_(Ives,_Charles)",
+      "year": 1920
+    },
+    {
+      "title": "A Set of Pieces for Theatre or Chamber Orchestra",
+      "imslp_url": "https://imslp.org/wiki/A_Set_of_Pieces_for_Theatre_or_Chamber_Orchestra_(Ives,_Charles)",
+      "year": 1932
+    },
+    {
+      "title": "They Are There!",
+      "imslp_url": "https://imslp.org/wiki/They_Are_There!_(Ives,_Charles)",
+      "year": 1942
+    },
+    {
+      "title": "Some South-Paw Pitching",
+      "imslp_url": "https://imslp.org/wiki/Some_South-Paw_Pitching_(Ives,_Charles)",
+      "year": 1949
+    },
+    {
+      "title": "Three-Page Sonata",
+      "imslp_url": "https://imslp.org/wiki/Three-Page_Sonata_(Ives,_Charles)",
+      "year": 1949
+    }
+  ]
+}

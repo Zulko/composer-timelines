@@ -1,263 +1,721 @@
 {
   "full_name": "Sergei Prokofiev",
-  "first_names": "Sergei",
+  "first_names": "Sergei Sergeevich",
   "last_name": "Prokofiev",
   "birth_year": 1891,
   "death_year": 1953,
   "wikipedia_url": "https://en.wikipedia.org/wiki/Sergei_Prokofiev",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Sergei Prokofiev graced the world with his presence in a rural estate in Ukraine, where he was destined to become a musical powerhouse. His mother, a determined music lover, likely thought she was giving birth to the next Chopin, instead she got a curious boy who wrote his first piano piece at the tender age of five\u2014an 'Indian Gallop'\u2014long before he learned that native music requires more than just galloping rhythm.",
+      "section": "Life and career",
+      "title": "Birth",
+      "summary": "Prokofiev was born in a rural estate in Sontsovka, Bakhmut uezd, Yekaterinoslav Governorate, Russian Empire. His birth marked the beginning of a significant musical journey inspired by his mother's dedication to music.",
       "year": 1891,
-      "city": "Sontsovka",
-      "country": "Russian Empire"
+      "location": "Sontsovka, Bakhmut uezd, Yekaterinoslav Governorate, Russian Empire",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Prokofiev was born on a farm in Sontsovka, which sounds like a sneeze but is actually in the Russian Empire. I bet his first cry was a symphony\u2014his mom, a music enthusiast, probably thought, 'Great, I will have a musical genius or at least a son who will play the piano when he\u2019s supposed to be doing chores!'"
     },
     {
-      "event": "First Composition",
-      "summary": "At the ripe age of five, young Prokofiev penned his very first composition, which apparently indicated that his future was going to be a cacophony of creativity. This piece probably sounded like a wild horse running away from home, a precursor to his many orchestral wild rides yet to come!",
+      "section": "Life and career",
+      "title": "First Piano Composition",
+      "summary": "At the age of five, Prokofiev wrote his first piano composition titled \"Indian Gallop\", influenced by hearing his mother practice piano in the evenings.",
       "year": 1896,
-      "city": "Sontsovka",
-      "country": "Russian Empire"
+      "location": "",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "At just five years old, Prokofiev decided he was done playing with toys and composed his first piano masterpiece called 'Indian Gallop'. I guess listening to Mom practice the piano every night inspired him \u2013 or maybe he just wanted a good excuse to skip bedtime!"
     },
     {
-      "event": "Education at Conservatory",
-      "summary": "Prokofiev, in a musical twist of fate, secured admission to the prestigious Saint Petersburg Conservatory. There, he earned a degree in composition\u2014hopefully, completed without detentions for being too avant-garde among traditionalists!",
+      "section": "Life and career",
+      "title": "First Opera",
+      "summary": "By the age of nine, Prokofiev composed his first opera, The Giant, as well as an overture and various other pieces, indicating his early promise as a composer.",
+      "year": 1900,
+      "location": "",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "By the age of nine, Prokofiev was so musically gifted that he composed his first opera, The Giant, along with an overture and various other pieces, effectively planting the seeds of his future as a musical genius."
+    },
+    {
+      "section": "Life and career",
+      "title": "Study at the Moscow Conservatory",
+      "summary": "In 1904, Prokofiev enrolled at the Moscow Conservatory, where he studied composition under several influential teachers and developed a reputation as a musical rebel.",
       "year": 1904,
-      "city": "Saint Petersburg",
-      "country": "Russian Empire"
+      "location": "Moscow Conservatory",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1904, Prokofiev decided sitting behind a desk wasn\u2019t for him, so he enrolled at the Moscow Conservatory. There, he studied composition under influential teachers who wondered why he was so insistent on making music sound unique. Prokofiev quickly developed a reputation as a 'musical rebel,' which made him far cooler than just another kid with a piano."
     },
     {
-      "event": "Completion of First Symphony",
-      "summary": "In a surprising turn of self-inspired creativity, Prokofiev completed his first symphony, cheekily named the 'Classical.' Legend has it he imagined that Haydn was peeking through the keyhole, raising an eyebrow at the deviation from tradition while secretly cheering him on from the afterlife.",
-      "year": 1917,
-      "city": "Saint Petersburg",
-      "country": "Russian Empire"
+      "section": "Life and career",
+      "title": "Winning 'Battle of the Pianos'",
+      "summary": "Prokofiev won the 'battle of the pianos' competition in 1914, performing his own Piano Concerto No. 1, which marked a significant achievement in his career.",
+      "year": 1914,
+      "location": "London",
+      "emoji": "\ud83c\udfc6",
+      "fun_version": "Prokofiev stormed into the 'battle of the pianos' competition in 1914, unleashing his own Piano Concerto No. 1 and dramatically slaying the competition! This moment marked a significant achievement in his career, showing that even in the world of classical music, a little flair can go a long way."
     },
     {
-      "event": "Return to Russia",
-      "summary": "After years trajectory of ups and downs spanning continents, Prokofiev made the long-awaited and mood-boosting decision to return to his homeland. It was the ultimate 'you can't go home again' story, except this time he really could and brought his family, proving you can go home even when the revolution is brewing!",
+      "section": "Life and career",
+      "title": "First Ballet Commission",
+      "summary": "In 1915, Prokofiev received his first ballet commission from impresario Sergei Diaghilev for the ballet Chout, showcasing his involvement in prominent artistic circles.",
+      "year": 1915,
+      "location": "Italy",
+      "emoji": "\ud83d\udc83",
+      "fun_version": "In 1915, Prokofiev received his first ballet commission from the famous impresario Sergei Diaghilev for the ballet Chout, showcasing his involvement in prominent artistic circles."
+    },
+    {
+      "section": "Life and career",
+      "title": "Debut Concert in New York",
+      "summary": "Prokofiev's debut solo concert in New York solidified his reputation as a composer and pianist in the United States, leading to several further engagements.",
+      "year": 1919,
+      "location": "New York",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Prokofiev's debut solo concert in New York solidified his reputation as a composer and pianist in the United States! Following this legendary performance, he was booked for more engagements than you can shake a tambourine at!"
+    },
+    {
+      "section": "Life and career",
+      "title": "Composition of 'Peter and the Wolf'",
+      "summary": "Prokofiev composed 'Peter and the Wolf' for Natalya Sats' Central Children's Theatre in 1936, a work that became one of his most famous compositions for children.",
       "year": 1936,
-      "city": "Moscow",
-      "country": "Soviet Union"
+      "location": "",
+      "emoji": "\ud83d\udc3a",
+      "fun_version": "In 1936, Prokofiev was trying to entertain kids at Natalya Sats' Central Children's Theatre and ended up composing 'Peter and the Wolf', one of his most famous compositions for children\u2014a musical adventure where animals take on roles much better than most adults."
     },
     {
-      "event": "Composition of War and Peace",
-      "summary": "Amidst WWII chaos, Prokofiev snagged attention by composing an audacious adaptation of Tolstoy's 'War and Peace.' Just imagine him trying to sell the original libretto while dodging tank shells \u2013 now that's dedication to art!",
-      "year": 1941,
-      "city": "Moscow",
-      "country": "Soviet Union"
-    },
-    {
-      "event": "Final Years",
-      "summary": "The final act of Prokofiev\u2019s dramatic life came to fruition in Moscow, where he continued to compose music until he couldn't anymore. Imagine the maestro, now past his prime, refusing to let his musical genius be eclipsed by age; he was composing like a true rockstar till the grand finale!",
-      "year": 1953,
-      "city": "Moscow",
-      "country": "Soviet Union"
-    },
-    {
-      "event": "Departure to America",
-      "summary": "Prokofiev found himself unoccupied and decided that Russia needed music about as much as a fish needs a bicycle. So, he grabbed his passport and set off for the U.S. with blessings from a revolutionary education minister, after all, revolutionary musicians ought to stick together!",
-      "year": 1918,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Arrival in San Francisco",
-      "summary": "Prokofiev arrived in San Francisco after a rather awkward tango with immigration officials on Angel Island. He was soon dubbed a sensation like Rachmaninoff, though he probably thought, 'I don't even have a sweater vest!'",
-      "year": 1918,
-      "city": "San Francisco",
-      "country": "United States"
-    },
-    {
-      "event": "Premiere of The Love for Three Oranges",
-      "summary": "After a rollercoaster ride of operatic misfortune, Prokofiev finally conducted the premiere of his opera The Love for Three Oranges. One can only imagine the oranges rolling around on stage in delight!",
-      "year": 1921,
-      "city": "Chicago",
-      "country": "United States"
-    },
-    {
-      "event": "Move to Ettal",
-      "summary": "Prokofiev decided to relocate to Ettal in the Bavarian Alps, perhaps thinking the mountains would inspire him to create something more melodious than the noise of urban life. He took his mother along for moral support and the occasional laundry day!",
-      "year": 1922,
-      "city": "Ettal",
-      "country": "Germany"
-    },
-    {
-      "event": "Completion of The Prodigal Son",
-      "summary": "In 1929, Prokofiev completed The Prodigal Son, much to the audience's astonishment. The final scene had the son crawling back on stage to his father\u2014talk about family therapy of the ballet kind!",
-      "year": 1929,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Permanent Move to Moscow",
-      "summary": "After years of shuttling between two grand cities, Prokofiev finally decided to plant his flag in Moscow. Talk about a commitment issue resolved, he must have felt like a historical artifact by then!",
+      "section": "Life and career",
+      "title": "Permanent Move to Moscow",
+      "summary": "In 1936, Prokofiev and his family settled permanently in Moscow after shifting between Moscow and Paris for four years, reaffirming his ties to his homeland.",
       "year": 1936,
-      "city": "Moscow",
-      "country": "Russia"
+      "location": "Moscow",
+      "emoji": "\ud83c\udfd9\ufe0f",
+      "fun_version": "In 1936, Prokofiev and his family finally decided to stop playing the travel game between Moscow and Paris. After four years of packing bags and dealing with overly friendly customs agents, they thought, 'Why not just stay in Moscow? It\u2019s less embarrassing to admit we lost our way in the city we were born in!' By doing this, they reaffirmed their ties to their homeland."
     },
     {
-      "event": "Composition of Peter and the Wolf",
-      "summary": "In a stroke of genius, Prokofiev composed Peter and the Wolf for children, probably figuring if he had to teach them about complex music, it might as well involve talking animals and a few sly morals thrown in!",
-      "year": 1936,
-      "city": "Moscow",
-      "country": "Russia"
+      "section": "Honours and awards",
+      "title": "Stalin Prize for Piano Sonata No. 7",
+      "summary": "Prokofiev was awarded the 2nd degree Stalin Prize for his Piano Sonata No. 7, which highlighted his exceptional compositional skills and creativity during a tumultuous period in Soviet history.",
+      "year": 1943,
+      "location": "Soviet Union",
+      "emoji": "\ud83c\udfc6",
+      "fun_version": "Prokofiev was awarded the 2nd degree Stalin Prize for his Piano Sonata No. 7, which showcased his exceptional compositional skills and creativity, impressing even Stalin himself, who couldn\u2019t help but tap his feet, even if it felt like a boot camp session!"
     },
     {
-      "event": "Composition of the War Sonatas",
-      "summary": "Prokofiev plunged into the creation of his 'War Sonatas', channeling darker feelings into music as his cheerful piece for Stalin faded into the background. He clearly understood that sometimes, you just have to let the pain out!",
-      "year": 1939,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Romeo and Juliet ballet staging",
-      "summary": "To the surprise of the dancers, who almost boycotted the performance, Romeo and Juliet was staged and turned into a success, proving that sometimes chaos can lead to brilliance, even if you're trying to dance to Prokofiev's syncopated melodies.",
-      "year": 1940,
-      "city": "Leningrad",
-      "country": "Russia"
-    },
-    {
-      "event": "Evacuation to Georgian SSR",
-      "summary": "Amidst the chaos of war, Prokofiev was evacuated to the Georgian SSR where he managed to write the original version of War and Peace\u2014because who wouldn\u2019t want to compose during a war?",
-      "year": 1941,
-      "city": "Tbilisi",
-      "country": "Georgian SSR"
-    },
-    {
-      "event": "Fifth Symphony premiere",
-      "summary": "Prokofiev conducted the premiere of his Fifth Symphony, making a grand statement by pairing it with Peter and the Wolf\u2014a fine example of 'let's celebrate with more music, even amidst the rubble.'",
-      "year": 1945,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Concussion incident",
-      "summary": "Prokofiev fainted due to chronic hypertension, leading to a visit from Dmitry Kabalevsky who thought it might be the end\u2014little did they know he\u2019d keep writing and surprising audiences for years to come!",
-      "year": 1945,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Marriage with Mira Mendelson",
-      "summary": "After some complicated relationship gymnastics, Prokofiev married Mira, proving that when life throws you curveballs, there\u2019s always time for love... even in a courtroom.",
-      "year": 1948,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Zhdanov Doctrine criticism",
-      "summary": "Prokofiev found himself called out for 'formalism' while casually wearing baggy-kneed trousers\u2014a fashion statement for a composer not too worried about what others think.",
-      "year": 1948,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Stroke and composing limits",
-      "summary": "Post-stroke, Prokofiev\u2019s doctors advised limiting his composing to just an hour a day\u2014proving that genius doesn\u2019t always need multiple hours to shine, just a good hour\u2019s work!",
-      "year": 1949,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Last public performance attendance",
-      "summary": "Prokofiev attended the premi\u00e8re of his Seventh Symphony, his last completed work\u2014talk about a solid farewell note to leave on before taking a permanent break!",
-      "year": 1952,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Death",
-      "summary": "Prokofiev's passing on the same day as Stalin turned his funeral into a minor event compared to the dictator's, proving once again that timing is everything\u2014even in life and death.",
-      "year": 1953,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Study at the Saint Petersburg Conservatory",
-      "summary": "Prokofiev enrolled at the Saint Petersburg Conservatory, where he was undoubtedly the star of the show, dazzling both peers and professors with his talents and possibly annoying them with his non-stop piano practice.",
-      "year": 1904,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "First Major Work",
-      "summary": "He completed his work, the 'Violin Concerto No. 1', which was so groundbreaking it made his mentors question whether they were still on the right path or if they needed to start exploring the realm of rock and roll instead.",
-      "year": 1917,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Exile to America",
-      "summary": "Due to the tumultuous political climate back home, Prokofiev embarked on a journey to America, where he embraced a new life that included learning to navigate subway systems and still manage to compose music that would leave everyone wondering how he did it.",
-      "year": 1918,
-      "city": "New York",
-      "country": "USA"
-    },
-    {
-      "event": "Return to the Soviet Union",
-      "summary": "After years of exploring the West, Prokofiev returned to the USSR, perhaps feeling it was time to add a little more 'motherland' flavor to his music\u2014after all, he missed the local cuisine and the occasional state-sponsored concert.",
-      "year": 1936,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Creation of War and Peace",
-      "summary": "Prokofiev commenced work on the opera 'War and Peace', a massive undertaking that likely involved more caffeine than any human should consume and enough musical notes to score a full season of a soap opera.",
-      "year": 1941,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Becoming a People's Artist",
-      "summary": "He was officially named a 'People's Artist of the RSFSR', which meant he was now one of the artistic elite\u2014kind of like becoming the honorary mayor of the musical community, but with fewer parades and more sheet music.",
-      "year": 1947,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Final Composition",
-      "summary": "He completed his final work, Symphony No. 7, a grand tribute that seemed to say, 'I might be leaving, but my music will haunt your concert halls forever!'\u2014and indeed, it did.",
-      "year": 1952,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Study in Saint Petersburg",
-      "summary": "Prokofiev packed his bags and headed to the big city to study at the Saint Petersburg Conservatory, where he refined his craft, probably while wondering if anyone else could hear the amazing music playing in his head.",
-      "year": 1904,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "First major success with 'Sarcasms'",
-      "summary": "Prokofiev's piece 'Sarcasms' was a clear hit, reflecting his brilliance and perhaps a little sarcasm of his own about the seriousness of the music scene at the time.",
-      "year": 1912,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Exile to the West",
-      "summary": "In the wake of the Russian Revolution, Prokofiev decided to play a game of musical hide-and-seek and exiled himself to the West, where he found himself amidst all the modernist chaos.",
-      "year": 1918,
-      "city": "New York",
-      "country": "USA"
-    },
-    {
-      "event": "Completion of 'War and Peace'",
-      "summary": "Prokofiev finished his epic opera 'War and Peace', tackling the complex themes of love and battle. Because nothing says 'comeback' like a good old-fashioned war opera!",
+      "section": "Honours and awards",
+      "title": "Stalin Prize for 'Ivan the Terrible' Part 1",
+      "summary": "For his compelling score for the film 'Ivan the Terrible' Part 1, Prokofiev was honored with the 1st degree Stalin Prize, reflecting his ability to enhance the cinematic experience through music.",
       "year": 1946,
-      "city": "Moscow",
-      "country": "Russia"
+      "location": "Soviet Union",
+      "emoji": "\ud83c\udfc6",
+      "fun_version": "Did you hear about Prokofiev's score for 'Ivan the Terrible'? Apparently, it was so good that he won the 1st degree Stalin Prize! I mean, who wouldn't want to win an award named after a historic figure? His music reportedly makes watching the film feel like a rollercoaster at an amusement park!"
     },
     {
-      "event": "Establishment as a major composer",
-      "summary": "By the end of his life, Prokofiev had established himself as a titan in the world of classical music, and like the fine wine he enjoyed, his works only became more celebrated with time.",
+      "section": "Honours and awards",
+      "title": "Stalin Prize for Symphony No. 5 and Piano Sonata No. 8",
+      "summary": "He received the 1st degree Stalin Prize for both Symphony No. 5 and Piano Sonata No. 8, showcasing his prolific output and desire to craft works that resonated profoundly with audiences and critics alike.",
+      "year": 1946,
+      "location": "Soviet Union",
+      "emoji": "\ud83c\udfc6",
+      "fun_version": "He clinched the 1st degree Stalin Prize for his Symphony No. 5 and Piano Sonata No. 8\u2014apparently impressing the judges! Who knew crafting profound music that resonates with audiences and critics alike could overshadow a bad case of tone-deafness while showcasing his prolific output?"
+    },
+    {
+      "section": "Honours and awards",
+      "title": "Stalin Prize for ballet 'Cinderella'",
+      "summary": "Prokofiev was awarded the 1st degree Stalin Prize for his music for the ballet 'Cinderella', which became one of his most famous and beloved works, admired for its lyrical melodies and rich orchestration.",
+      "year": 1946,
+      "location": "Soviet Union",
+      "emoji": "\ud83c\udfc6",
+      "fun_version": "Prokofiev won the 1st degree Stalin Prize for his music for the ballet 'Cinderella,' proving that even fairytale mice can't resist a catchy tune. His melodies were so lyrical, and rich in orchestration, they're probably still singing in their little mouse-sized homes!"
+    },
+    {
+      "section": "Honours and awards",
+      "title": "Stalin Prize for Violin Sonata No. 1",
+      "summary": "He received the 1st degree Stalin Prize for his Violin Sonata No. 1, further establishing his reputation as a master composer in various musical forms.",
+      "year": 1947,
+      "location": "Soviet Union",
+      "emoji": "\ud83c\udfc6",
+      "fun_version": "He snagged the prestigious 1st degree Stalin Prize for his Violin Sonata No. 1, further establishing his reputation as a master composer in various musical forms\u2014all while composing like it was as easy as pie!"
+    },
+    {
+      "section": "Honours and awards",
+      "title": "Stalin Prize for Winter Bonfire and Oratorio 'On Guard for Peace'",
+      "summary": "Prokofiev was awarded the 2nd degree Stalin Prize for his vocal-symphonic suite Winter Bonfire and the oratorio On Guard for Peace, works that echoed the political and social sentiments of the time.",
+      "year": 1951,
+      "location": "Soviet Union",
+      "emoji": "\ud83c\udfc6",
+      "fun_version": "Prokofiev won the 2nd degree Stalin Prize for his vocal-symphonic suite \"Winter Bonfire\" and the oratorio \"On Guard for Peace,\" which captured the political and social sentiments of the time, and sparked political debates!"
+    },
+    {
+      "section": "Life and career",
+      "title": "Death",
+      "summary": "Prokofiev died on the same day as Joseph Stalin on March 5, 1953, at the age of 61, amidst widespread public mourning for Stalin.",
       "year": 1953,
-      "city": "Moscow",
-      "country": "Russia"
+      "location": "Moscow",
+      "emoji": "\ud83d\udd4a\ufe0f",
+      "fun_version": "Prokofiev checked out on the very day Stalin threw his farewell party on March 5, 1953. At 61 years old, it seems Prokofiev decided to join in on Stalin's grand exit, amidst widespread public mourning for Stalin!"
     }
   ],
-  "compositions": []
+  "works": [
+    {
+      "title": "10 Pieces for Piano, Op.12",
+      "imslp_url": "https://imslp.org/wiki/10_Pieces_for_Piano,_Op.12_(Prokofiev,_Sergey)",
+      "year": 1906
+    },
+    {
+      "title": "4 Pieces for Piano, Op.3",
+      "imslp_url": "https://imslp.org/wiki/4_Pieces_for_Piano,_Op.3_(Prokofiev,_Sergey)",
+      "year": 1907
+    },
+    {
+      "title": "Piano Sonata No.1, Op.1",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.1,_Op.1_(Prokofiev,_Sergey)",
+      "year": 1907
+    },
+    {
+      "title": "Piano Sonata No.3, Op.28",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.3,_Op.28_(Prokofiev,_Sergey)",
+      "year": 1907
+    },
+    {
+      "title": "4 Pieces for Piano, Op.4",
+      "imslp_url": "https://imslp.org/wiki/4_Pieces_for_Piano,_Op.4_(Prokofiev,_Sergey)",
+      "year": 1908
+    },
+    {
+      "title": "Piano Sonata No.4, Op.29",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.4,_Op.29_(Prokofiev,_Sergey)",
+      "year": 1908
+    },
+    {
+      "title": "4 Etudes, Op.2",
+      "imslp_url": "https://imslp.org/wiki/4_Etudes,_Op.2_(Prokofiev,_Sergey)",
+      "year": 1909
+    },
+    {
+      "title": "Sinfonietta, Op.5/48",
+      "imslp_url": "https://imslp.org/wiki/Sinfonietta,_Op.5/48_(Prokofiev,_Sergey)",
+      "year": 1909
+    },
+    {
+      "title": "2 Poems, Op.9",
+      "imslp_url": "https://imslp.org/wiki/2_Poems,_Op.9_(Prokofiev,_Sergey)",
+      "year": 1910
+    },
+    {
+      "title": "Autumnal, Op.8",
+      "imslp_url": "https://imslp.org/wiki/Autumnal,_Op.8_(Prokofiev,_Sergey)",
+      "year": 1910
+    },
+    {
+      "title": "Piano Concerto No.1, Op.10",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.1,_Op.10_(Prokofiev,_Sergey)",
+      "year": 1911
+    },
+    {
+      "title": "Ballade, Op.15",
+      "imslp_url": "https://imslp.org/wiki/Ballade,_Op.15_(Prokofiev,_Sergey)",
+      "year": 1912
+    },
+    {
+      "title": "Piano Concerto No.2, Op.16",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.2,_Op.16_(Prokofiev,_Sergey)",
+      "year": 1912
+    },
+    {
+      "title": "Piano Sonata No.2, Op.14",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.2,_Op.14_(Prokofiev,_Sergey)",
+      "year": 1912
+    },
+    {
+      "title": "Sarcasms, Op.17",
+      "imslp_url": "https://imslp.org/wiki/Sarcasms,_Op.17_(Prokofiev,_Sergey)",
+      "year": 1912
+    },
+    {
+      "title": "Toccata, Op.11",
+      "imslp_url": "https://imslp.org/wiki/Toccata,_Op.11_(Prokofiev,_Sergey)",
+      "year": 1912
+    },
+    {
+      "title": "Scythian Suite, Op.20",
+      "imslp_url": "https://imslp.org/wiki/Scythian_Suite,_Op.20_(Prokofiev,_Sergey)",
+      "year": 1914
+    },
+    {
+      "title": "The Ugly Duckling, Op.18",
+      "imslp_url": "https://imslp.org/wiki/The_Ugly_Duckling,_Op.18_(Prokofiev,_Sergey)",
+      "year": 1914
+    },
+    {
+      "title": "5 Poems, Op.23",
+      "imslp_url": "https://imslp.org/wiki/5_Poems,_Op.23_(Prokofiev,_Sergey)",
+      "year": 1915
+    },
+    {
+      "title": "Chout, Op.21",
+      "imslp_url": "https://imslp.org/wiki/Chout,_Op.21_(Prokofiev,_Sergey)",
+      "year": 1915
+    },
+    {
+      "title": "The Gambler, Op.24",
+      "imslp_url": "https://imslp.org/wiki/The_Gambler,_Op.24_(Prokofiev,_Sergey)",
+      "year": 1915
+    },
+    {
+      "title": "Visions fugitives, Op.22",
+      "imslp_url": "https://imslp.org/wiki/Visions_fugitives,_Op.22_(Prokofiev,_Sergey)",
+      "year": 1915
+    },
+    {
+      "title": "Symphony No.1, Op.25",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.1,_Op.25_(Prokofiev,_Sergey)",
+      "year": 1916
+    },
+    {
+      "title": "Violin Concerto No.1, Op.19",
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto_No.1,_Op.19_(Prokofiev,_Sergey)",
+      "year": 1916
+    },
+    {
+      "title": "5 Poems, Op.27",
+      "imslp_url": "https://imslp.org/wiki/5_Poems,_Op.27_(Prokofiev,_Sergey)",
+      "year": 1917
+    },
+    {
+      "title": "Piano Concerto No.3, Op.26",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.3,_Op.26_(Prokofiev,_Sergey)",
+      "year": 1917
+    },
+    {
+      "title": "Seven, They Are Seven, Op.30",
+      "imslp_url": "https://imslp.org/wiki/Seven,_They_Are_Seven,_Op.30_(Prokofiev,_Sergey)",
+      "year": 1917
+    },
+    {
+      "title": "4 Pieces for Piano, Op.32",
+      "imslp_url": "https://imslp.org/wiki/4_Pieces_for_Piano,_Op.32_(Prokofiev,_Sergey)",
+      "year": 1918
+    },
+    {
+      "title": "Tales of an Old Grandmother, Op.31",
+      "imslp_url": "https://imslp.org/wiki/Tales_of_an_Old_Grandmother,_Op.31_(Prokofiev,_Sergey)",
+      "year": 1918
+    },
+    {
+      "title": "Overture on Hebrew Themes, Op.34",
+      "imslp_url": "https://imslp.org/wiki/Overture_on_Hebrew_Themes,_Op.34_(Prokofiev,_Sergey)",
+      "year": 1919
+    },
+    {
+      "title": "The Fiery Angel, Op.37",
+      "imslp_url": "https://imslp.org/wiki/The_Fiery_Angel,_Op.37_(Prokofiev,_Sergey)",
+      "year": 1919
+    },
+    {
+      "title": "The Love for Three Oranges (opera), Op.33",
+      "imslp_url": "https://imslp.org/wiki/The_Love_for_Three_Oranges_(opera),_Op.33_(Prokofiev,_Sergey)",
+      "year": 1919
+    },
+    {
+      "title": "The Love for Three Oranges (suite), Op.33bis",
+      "imslp_url": "https://imslp.org/wiki/The_Love_for_Three_Oranges_(suite),_Op.33bis_(Prokofiev,_Sergey)",
+      "year": 1919
+    },
+    {
+      "title": "5 M\u00e9lodies, Op.35",
+      "imslp_url": "https://imslp.org/wiki/5_M\u00e9lodies,_Op.35_(Prokofiev,_Sergey)",
+      "year": 1920
+    },
+    {
+      "title": "Chout Suite, Op.21bis",
+      "imslp_url": "https://imslp.org/wiki/Chout_Suite,_Op.21bis_(Prokofiev,_Sergey)",
+      "year": 1920
+    },
+    {
+      "title": "5 Poems by Balmont, Op.36",
+      "imslp_url": "https://imslp.org/wiki/5_Poems_by_Balmont,_Op.36_(Prokofiev,_Sergey)",
+      "year": 1921
+    },
+    {
+      "title": "Piano Sonata No.5, Op.38/135",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.5,_Op.38/135_(Prokofiev,_Sergey)",
+      "year": 1923
+    },
+    {
+      "title": "Quintet, Op.39",
+      "imslp_url": "https://imslp.org/wiki/Quintet,_Op.39_(Prokofiev,_Sergey)",
+      "year": 1924
+    },
+    {
+      "title": "Symphony No.2, Op.40",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.2,_Op.40_(Prokofiev,_Sergey)",
+      "year": 1924
+    },
+    {
+      "title": "Divertissement, Op.43",
+      "imslp_url": "https://imslp.org/wiki/Divertissement,_Op.43_(Prokofiev,_Sergey)",
+      "year": 1925
+    },
+    {
+      "title": "Le pas d'acier, Op.41",
+      "imslp_url": "https://imslp.org/wiki/Le_pas_d'acier,_Op.41_(Prokofiev,_Sergey)",
+      "year": 1925
+    },
+    {
+      "title": "L'enfant prodigue, Op.46",
+      "imslp_url": "https://imslp.org/wiki/L'enfant_prodigue,_Op.46_(Prokofiev,_Sergey)",
+      "year": 1928
+    },
+    {
+      "title": "Symphony No.3, Op.44",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.3,_Op.44_(Prokofiev,_Sergey)",
+      "year": 1928
+    },
+    {
+      "title": "Things in Themselves, Op.45",
+      "imslp_url": "https://imslp.org/wiki/Things_in_Themselves,_Op.45_(Prokofiev,_Sergey)",
+      "year": 1928
+    },
+    {
+      "title": "Symphony No.4, Op.47/112",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.4,_Op.47/112_(Prokofiev,_Sergey)",
+      "year": 1929
+    },
+    {
+      "title": "6 Pieces for Piano, Op.52",
+      "imslp_url": "https://imslp.org/wiki/6_Pieces_for_Piano,_Op.52_(Prokofiev,_Sergey)",
+      "year": 1930
+    },
+    {
+      "title": "String Quartet No.1, Op.50",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1,_Op.50_(Prokofiev,_Sergey)",
+      "year": 1930
+    },
+    {
+      "title": "Sur le Borysth\u00e8ne, Op.51",
+      "imslp_url": "https://imslp.org/wiki/Sur_le_Borysth\u00e8ne,_Op.51_(Prokofiev,_Sergey)",
+      "year": 1930
+    },
+    {
+      "title": "2 Sonatinas, Op.54",
+      "imslp_url": "https://imslp.org/wiki/2_Sonatinas,_Op.54_(Prokofiev,_Sergey)",
+      "year": 1931
+    },
+    {
+      "title": "Piano Concerto No.4, Op.53",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.4,_Op.53_(Prokofiev,_Sergey)",
+      "year": 1931
+    },
+    {
+      "title": "4 Portraits, Op.49",
+      "imslp_url": "https://imslp.org/wiki/4_Portraits,_Op.49_(Prokofiev,_Sergey)",
+      "year": 1932
+    },
+    {
+      "title": "Piano Concerto No.5, Op.55",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.5,_Op.55_(Prokofiev,_Sergey)",
+      "year": 1932
+    },
+    {
+      "title": "Sonata for 2 Violins, Op.56",
+      "imslp_url": "https://imslp.org/wiki/Sonata_for_2_Violins,_Op.56_(Prokofiev,_Sergey)",
+      "year": 1932
+    },
+    {
+      "title": "3 Pieces for Piano, Op.59",
+      "imslp_url": "https://imslp.org/wiki/3_Pieces_for_Piano,_Op.59_(Prokofiev,_Sergey)",
+      "year": 1933
+    },
+    {
+      "title": "Cello Concerto, Op.58",
+      "imslp_url": "https://imslp.org/wiki/Cello_Concerto,_Op.58_(Prokofiev,_Sergey)",
+      "year": 1933
+    },
+    {
+      "title": "Egyptian Nights, Op.61",
+      "imslp_url": "https://imslp.org/wiki/Egyptian_Nights,_Op.61_(Prokofiev,_Sergey)",
+      "year": 1933
+    },
+    {
+      "title": "Pens\u00e9es, Op.62",
+      "imslp_url": "https://imslp.org/wiki/Pens\u00e9es,_Op.62_(Prokofiev,_Sergey)",
+      "year": 1933
+    },
+    {
+      "title": "Sur le Borysth\u00e8ne (suite), Op.51bis",
+      "imslp_url": "https://imslp.org/wiki/Sur_le_Borysth\u00e8ne_(suite),_Op.51bis_(Prokofiev,_Sergey)",
+      "year": 1933
+    },
+    {
+      "title": "Lieutenant Kij\u00e9 (suite), Op.60",
+      "imslp_url": "https://imslp.org/wiki/Lieutenant_Kij\u00e9_(suite),_Op.60_(Prokofiev,_Sergey)",
+      "year": 1934
+    },
+    {
+      "title": "2 Choral Songs, Op.66a",
+      "imslp_url": "https://imslp.org/wiki/2_Choral_Songs,_Op.66a_(Prokofiev,_Sergey)",
+      "year": 1935
+    },
+    {
+      "title": "4 Songs, Op.66b",
+      "imslp_url": "https://imslp.org/wiki/4_Songs,_Op.66b_(Prokofiev,_Sergey)",
+      "year": 1935
+    },
+    {
+      "title": "Music for Children, Op.65",
+      "imslp_url": "https://imslp.org/wiki/Music_for_Children,_Op.65_(Prokofiev,_Sergey)",
+      "year": 1935
+    },
+    {
+      "title": "Romeo and Juliet (ballet), Op.64",
+      "imslp_url": "https://imslp.org/wiki/Romeo_and_Juliet_(ballet),_Op.64_(Prokofiev,_Sergey)",
+      "year": 1935
+    },
+    {
+      "title": "Violin Concerto No.2, Op.63",
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto_No.2,_Op.63_(Prokofiev,_Sergey)",
+      "year": 1935
+    },
+    {
+      "title": "3 Romances after Pushkin, Op.73",
+      "imslp_url": "https://imslp.org/wiki/3_Romances_after_Pushkin,_Op.73_(Prokofiev,_Sergey)",
+      "year": 1936
+    },
+    {
+      "title": "Boris Godunov, Op.70bis",
+      "imslp_url": "https://imslp.org/wiki/Boris_Godunov,_Op.70bis_(Prokofiev,_Sergey)",
+      "year": 1936
+    },
+    {
+      "title": "Cantata for the 20th Anniversary of the October Revolution, Op.74",
+      "imslp_url": "https://imslp.org/wiki/Cantata_for_the_20th_Anniversary_of_the_October_Revolution,_Op.74_(Prokofiev,_Sergey)",
+      "year": 1936
+    },
+    {
+      "title": "Ouverture russe, Op.72",
+      "imslp_url": "https://imslp.org/wiki/Ouverture_russe,_Op.72_(Prokofiev,_Sergey)",
+      "year": 1936
+    },
+    {
+      "title": "Peter and the Wolf, Op.67",
+      "imslp_url": "https://imslp.org/wiki/Peter_and_the_Wolf,_Op.67_(Prokofiev,_Sergey)",
+      "year": 1936
+    },
+    {
+      "title": "Romeo and Juliet (1st suite), Op.64bis",
+      "imslp_url": "https://imslp.org/wiki/Romeo_and_Juliet_(1st_suite),_Op.64bis_(Prokofiev,_Sergey)",
+      "year": 1936
+    },
+    {
+      "title": "Romeo and Juliet (2nd suite), Op.64ter",
+      "imslp_url": "https://imslp.org/wiki/Romeo_and_Juliet_(2nd_suite),_Op.64ter_(Prokofiev,_Sergey)",
+      "year": 1936
+    },
+    {
+      "title": "10 Pieces from Romeo and Juliet, Op.75",
+      "imslp_url": "https://imslp.org/wiki/10_Pieces_from_Romeo_and_Juliet,_Op.75_(Prokofiev,_Sergey)",
+      "year": 1937
+    },
+    {
+      "title": "Hamlet, Op.77",
+      "imslp_url": "https://imslp.org/wiki/Hamlet,_Op.77_(Prokofiev,_Sergey)",
+      "year": 1937
+    },
+    {
+      "title": "Alexander Nevsky (cantata), Op.78",
+      "imslp_url": "https://imslp.org/wiki/Alexander_Nevsky_(cantata),_Op.78_(Prokofiev,_Sergey)",
+      "year": 1938
+    },
+    {
+      "title": "Violin Sonata No.1, Op.80",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.1,_Op.80_(Prokofiev,_Sergey)",
+      "year": 1938
+    },
+    {
+      "title": "7 Songs, Op.79",
+      "imslp_url": "https://imslp.org/wiki/7_Songs,_Op.79_(Prokofiev,_Sergey)",
+      "year": 1939
+    },
+    {
+      "title": "Piano Sonata No.6, Op.82",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.6,_Op.82_(Prokofiev,_Sergey)",
+      "year": 1939
+    },
+    {
+      "title": "Piano Sonata No.7, Op.83",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.7,_Op.83_(Prokofiev,_Sergey)",
+      "year": 1939
+    },
+    {
+      "title": "Piano Sonata No.8, Op.84",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.8,_Op.84_(Prokofiev,_Sergey)",
+      "year": 1939
+    },
+    {
+      "title": "Zdravitsa, Op.85",
+      "imslp_url": "https://imslp.org/wiki/Zdravitsa,_Op.85_(Prokofiev,_Sergey)",
+      "year": 1939
+    },
+    {
+      "title": "Betrothal in a Monastery, Op.86",
+      "imslp_url": "https://imslp.org/wiki/Betrothal_in_a_Monastery,_Op.86_(Prokofiev,_Sergey)",
+      "year": 1940
+    },
+    {
+      "title": "3 Pieces for Piano, Op.96",
+      "imslp_url": "https://imslp.org/wiki/3_Pieces_for_Piano,_Op.96_(Prokofiev,_Sergey)",
+      "year": 1941
+    },
+    {
+      "title": "A Summer Day, Op.65bis",
+      "imslp_url": "https://imslp.org/wiki/A_Summer_Day,_Op.65bis_(Prokofiev,_Sergey)",
+      "year": 1941
+    },
+    {
+      "title": "String Quartet No.2, Op.92",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2,_Op.92_(Prokofiev,_Sergey)",
+      "year": 1941
+    },
+    {
+      "title": "3 Pieces from Cinderella, Op.95",
+      "imslp_url": "https://imslp.org/wiki/3_Pieces_from_Cinderella,_Op.95_(Prokofiev,_Sergey)",
+      "year": 1942
+    },
+    {
+      "title": "Ivan the Terrible, Op.116",
+      "imslp_url": "https://imslp.org/wiki/Ivan_the_Terrible,_Op.116_(Prokofiev,_Sergey)",
+      "year": 1942
+    },
+    {
+      "title": "War and Peace, Op.91",
+      "imslp_url": "https://imslp.org/wiki/War_and_Peace,_Op.91_(Prokofiev,_Sergey)",
+      "year": 1942
+    },
+    {
+      "title": "10 Pieces from Cinderella, Op.97",
+      "imslp_url": "https://imslp.org/wiki/10_Pieces_from_Cinderella,_Op.97_(Prokofiev,_Sergey)",
+      "year": 1943
+    },
+    {
+      "title": "Flute Sonata, Op.94",
+      "imslp_url": "https://imslp.org/wiki/Flute_Sonata,_Op.94_(Prokofiev,_Sergey)",
+      "year": 1943
+    },
+    {
+      "title": "March, Op.99",
+      "imslp_url": "https://imslp.org/wiki/March,_Op.99_(Prokofiev,_Sergey)",
+      "year": 1943
+    },
+    {
+      "title": "Violin Sonata No.2, Op.94bis",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.2,_Op.94bis_(Prokofiev,_Sergey)",
+      "year": 1943
+    },
+    {
+      "title": "12 Russian Folksongs, Op.104",
+      "imslp_url": "https://imslp.org/wiki/12_Russian_Folksongs,_Op.104_(Prokofiev,_Sergey)",
+      "year": 1944
+    },
+    {
+      "title": "6 Pieces from Cinderella, Op.102",
+      "imslp_url": "https://imslp.org/wiki/6_Pieces_from_Cinderella,_Op.102_(Prokofiev,_Sergey)",
+      "year": 1944
+    },
+    {
+      "title": "Cinderella, Op.87",
+      "imslp_url": "https://imslp.org/wiki/Cinderella,_Op.87_(Prokofiev,_Sergey)",
+      "year": 1944
+    },
+    {
+      "title": "Symphony No.5, Op.100",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.5,_Op.100_(Prokofiev,_Sergey)",
+      "year": 1944
+    },
+    {
+      "title": "2 Duets, Op.106",
+      "imslp_url": "https://imslp.org/wiki/2_Duets,_Op.106_(Prokofiev,_Sergey)",
+      "year": 1945
+    },
+    {
+      "title": "Symphony No.6, Op.111",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.6,_Op.111_(Prokofiev,_Sergey)",
+      "year": 1945
+    },
+    {
+      "title": "Cinderella (1st suite), Op.107",
+      "imslp_url": "https://imslp.org/wiki/Cinderella_(1st_suite),_Op.107_(Prokofiev,_Sergey)",
+      "year": 1946
+    },
+    {
+      "title": "Cinderella (3rd suite), Op.109",
+      "imslp_url": "https://imslp.org/wiki/Cinderella_(3rd_suite),_Op.109_(Prokofiev,_Sergey)",
+      "year": 1946
+    },
+    {
+      "title": "Romeo and Juliet (3rd suite), Op.101",
+      "imslp_url": "https://imslp.org/wiki/Romeo_and_Juliet_(3rd_suite),_Op.101_(Prokofiev,_Sergey)",
+      "year": 1946
+    },
+    {
+      "title": "Festive Poem, Op.113",
+      "imslp_url": "https://imslp.org/wiki/Festive_Poem,_Op.113_(Prokofiev,_Sergey)",
+      "year": 1947
+    },
+    {
+      "title": "Piano Sonata No.9, Op.103",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.9,_Op.103_(Prokofiev,_Sergey)",
+      "year": 1947
+    },
+    {
+      "title": "Prosper, Our Mighty Land!, Op.114",
+      "imslp_url": "https://imslp.org/wiki/Prosper,_Our_Mighty_Land!,_Op.114_(Prokofiev,_Sergey)",
+      "year": 1947
+    },
+    {
+      "title": "Sonata for Solo Violin, Op.115",
+      "imslp_url": "https://imslp.org/wiki/Sonata_for_Solo_Violin,_Op.115_(Prokofiev,_Sergey)",
+      "year": 1947
+    },
+    {
+      "title": "The Tale of the Stone Flower, Op.118",
+      "imslp_url": "https://imslp.org/wiki/The_Tale_of_the_Stone_Flower,_Op.118_(Prokofiev,_Sergey)",
+      "year": 1948
+    },
+    {
+      "title": "2 Pushkin Waltzes, Op.120",
+      "imslp_url": "https://imslp.org/wiki/2_Pushkin_Waltzes,_Op.120_(Prokofiev,_Sergey)",
+      "year": 1949
+    },
+    {
+      "title": "Cello Sonata, Op.119",
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata,_Op.119_(Prokofiev,_Sergey)",
+      "year": 1949
+    },
+    {
+      "title": "On Guard for Peace, Op.124",
+      "imslp_url": "https://imslp.org/wiki/On_Guard_for_Peace,_Op.124_(Prokofiev,_Sergey)",
+      "year": 1949
+    },
+    {
+      "title": "Winter Bonfire, Op.122",
+      "imslp_url": "https://imslp.org/wiki/Winter_Bonfire,_Op.122_(Prokofiev,_Sergey)",
+      "year": 1949
+    },
+    {
+      "title": "Sinfonia concertante, Op.125",
+      "imslp_url": "https://imslp.org/wiki/Sinfonia_concertante,_Op.125_(Prokofiev,_Sergey)",
+      "year": 1950
+    },
+    {
+      "title": "Soldiers' Marching Song, Op.121",
+      "imslp_url": "https://imslp.org/wiki/Soldiers'_Marching_Song,_Op.121_(Prokofiev,_Sergey)",
+      "year": 1950
+    },
+    {
+      "title": "Symphony No.7, Op.131",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.7,_Op.131_(Prokofiev,_Sergey)",
+      "year": 1951
+    },
+    {
+      "title": "Piano Sonata No.10, Op.137",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.10,_Op.137_(Prokofiev,_Sergey)",
+      "year": 1952
+    }
+  ]
 }

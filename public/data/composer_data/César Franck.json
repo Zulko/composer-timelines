@@ -7,592 +7,555 @@
   "wikipedia_url": "https://en.wikipedia.org/wiki/C\u00e9sar_Franck",
   "events": [
     {
-      "event": "Birth",
-      "summary": "C\u00e9sar Franck was born in Li\u00e8ge, a bustling city brimming with musical potential, to a family hoping he'd become the next musical prodigy. They must have had high hopes since they dreamed he'd rival Liszt while doodling on the piano!",
+      "section": "Biography",
+      "title": "Birth",
+      "summary": "C\u00e9sar Franck was born in Li\u00e8ge to Nicolas-Joseph Franck and Marie-Catherine-Barbe Franck. His early life showed a proclivity for both drawing and music, prompting his father to engage him in musical studies.",
       "year": 1822,
-      "city": "Li\u00e8ge",
-      "country": "United Kingdom of the Netherlands"
+      "location": "Li\u00e8ge, Belgium",
+      "emoji": "\ud83c\udfb5",
+      "fun_version": "C\u00e9sar Franck was born in Li\u00e8ge to Nicolas-Joseph Franck and Marie-Catherine-Barbe Franck. Famous for its cheese, Li\u00e8ge produced a musical prodigy! His early life showed a talent for both drawing and music, prompting his father to think, \u201cLet\u2019s focus on the music and draw a crowd instead!\u201d"
     },
     {
-      "event": "First Concerts",
-      "summary": "At the tender age of 12, young Franck took to the stage, performing concerts that would make even the bravest of preteens envious, catching the eye of King Leopold I himself.",
+      "section": "Biography",
+      "title": "First Concerts",
+      "summary": "Young Franck gave his first concerts in 1834, one of which was performed before Leopold I of Belgium, showcasing his early musical talent.",
       "year": 1834,
-      "city": "Li\u00e8ge",
-      "country": "United Kingdom of the Netherlands"
+      "location": "Belgium",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1834, young Franck was busy showcasing his early musical talents with his first concerts! One performance even featured the royal Leopold I of Belgium, because nothing says 'great music' like a royal thumbs up!"
     },
     {
-      "event": "Move to Paris",
-      "summary": "Chasing wider fame, Franck and his father relocated to Paris, perhaps hoping a change of scenery would shift from 'occasional prodigy' to 'celebrated maestro'. Spoiler alert: it wasn't all smooth sailing!",
-      "year": 1835,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Entry to Paris Conservatoire",
-      "summary": "Franck finally became a bona fide student at the prestigious Paris Conservatoire, entering with dreams of grandeur and a fierce rivalry with the competition. He\u2019d better shine bright!",
+      "section": "Biography",
+      "title": "Citizenship",
+      "summary": "In 1837, Franck's father sought French citizenship for his sons to allow them to enter the Paris Conservatoire, which was granted, thus changing the family's nationality.",
       "year": 1837,
-      "city": "Paris",
-      "country": "France"
+      "location": "France",
+      "emoji": "\ud83c\uddeb\ud83c\uddf7",
+      "fun_version": "In 1837, Franck's dad decided that being French was cooler than being any other nationality, so he rolled up his sleeves and got his sons French citizenship, which allowed them to attend the Paris Conservatoire!"
     },
     {
-      "event": "First Prize in Piano",
-      "summary": "Oh l\u00e0 l\u00e0! Franck won first prize in piano during his first year at the Conservatoire, proving that all those hours of practice really paid off \u2013 or at least gave him bragging rights!",
+      "section": "Biography",
+      "title": "First Prize in Piano",
+      "summary": "Franck took the first prize in piano at the Conservatoire after his first year of study in 1838, establishing his performance credentials early on.",
       "year": 1838,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris, France",
+      "emoji": "\ud83c\udfc6",
+      "fun_version": "In 1838, Franck took the first prize in piano at the Conservatoire after just one year of study, brilliantly establishing his performance credentials and setting a high bar for the rest of the students!"
     },
     {
-      "event": "Voluntary Retirement",
-      "summary": "In a shocking twist, young Franck voluntarily pulled the plug on his time at the Conservatoire. Had he had enough of the academic grind or just wanted to find himself? Who knows!",
+      "section": "Biography",
+      "title": "Voluntary Retirement from Conservatoire",
+      "summary": "Franck made a 'voluntary' retirement from the Conservatoire on April 22, 1842, a decision possibly influenced by his father amid a rigorous artistic upbringing.",
       "year": 1842,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris, France",
+      "emoji": "\ud83c\udfa8",
+      "fun_version": "Franck decided to retire from the Conservatoire on April 22, 1842. It was a 'voluntary' decision, which means he drew the short straw at the family dinner table. With a dad pushing him through a rigorous artistic upbringing, Franck thought, 'If I don't retire now, I might end up composing a symphony for vacuum cleaners!'"
     },
     {
-      "event": "Marriage",
-      "summary": "C\u00e9sar finally tied the knot with his beloved Eug\u00e9nie, navigating a romantic obstacle course complete with barricades amidst a revolution. Love truly knows no boundaries \u2013 or barricades!",
-      "year": 1848,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Appointment as Organist",
-      "summary": "Franck secured his dream organist position at Notre-Dame-de-Lorette, which turned out to be a jackpot of opportunities while gaining him some serious street cred in the music world.",
+      "section": "Biography",
+      "title": "Appointment as Assistant Organist",
+      "summary": "In 1847, Franck was appointed as an assistant organist at Notre-Dame-de-Lorette, marking a significant turn in his musical career.",
       "year": 1847,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris, France",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "In 1847, Franck was appointed as the assistant organist at Notre-Dame-de-Lorette, marking a significant turn in his musical career! Talk about striking a chord! It was like winning the musical lottery\u2014\u2018Congratulations, you get to boss around a bunch of pipes!\u2019"
     },
     {
-      "event": "Organist at Basilica of St. Clotilde",
-      "summary": "Franck became the organist at the Basilica of St. Clotilde, a role he\u2019d cherish like his favorite hat for the rest of his life \u2013 it fit him perfectly!",
+      "section": "Biography",
+      "title": "Marriage",
+      "summary": "Franck married Eug\u00e9nie-F\u00e9licit\u00e9-Caroline Saillot on February 22, 1848. The wedding coincided with a tumultuous period in Paris, marked by a revolution.",
+      "year": 1848,
+      "location": "Paris, France",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "On February 22, 1848, Franck married Eug\u00e9nie-F\u00e9licit\u00e9e-Caroline Saillot during a period in Paris bustling with more revolutions than receptions\u2014definitely not the ideal wedding backdrop!"
+    },
+    {
+      "section": "Biography",
+      "title": "Titulaire of Sainte-Clotilde",
+      "summary": "Franck became the organist and ma\u00eetre de chapelle at Sainte-Clotilde on January 22, 1858, where he remained until his death, shaping his legacy in organ music.",
       "year": 1858,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris, France",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Franck became the organist and ma\u00eetre de chapelle at Sainte-Clotilde on January 22, 1858, and he played the organ so well that even the ghosts in the cathedral started tapping their feet! He stayed there until his death, shaping his legacy in organ music, and the organ started developing a fan club!"
     },
     {
-      "event": "Professor at Paris Conservatoire",
-      "summary": "Franck, now all grown up, returned to the Conservatoire as a professor, stepping into the shoes of his former teachers and preparing the next wave of musical talent. Talk about a plot twist!",
-      "year": 1872,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Joining Sainte-Clotilde",
-      "summary": "Franck became the organist and ma\u00eetre de chapelle at the newly consecrated Sainte-Clotilde in Paris. Little did he know, he was not just joining a church, but signing up for a lifelong organ workout with an amazing new instrument that he would fall head over heels for, calling it 'so supple beneath my fingers.'",
-      "year": 1858,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Publication of Six Pi\u00e8ces for Organ",
-      "summary": "Franck's Six Pi\u00e8ces for organ were completed and published after spending a few years in composition purgatory. These pieces became the talk of the town and reshaped French organ literature, proving to be a delicious buffet of sound for future organists to feast upon.",
-      "year": 1868,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "First Performance of Les B\u00e9atitudes",
-      "summary": "After toying with the idea for a decade, Franck finally unveiled his major choral work, Les B\u00e9atitudes. Sadly, the performance didn't go quite as planned\u2014let's just say that the audience seemed more interested in piecing it together than enjoying it whole.",
+      "section": "Legacy",
+      "title": "Piano Quintet in F minor",
+      "summary": "This 1879 composition is one of Franck's key chamber works and is integral to the chamber music repertoire, showcasing his innovative musical ideas.",
       "year": 1879,
-      "city": "Paris",
-      "country": "France"
+      "location": "",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Imagine Franck sitting in 1879, surrounded by chambermates, trying to prove that sharing is caring! This key chamber work isn't just a composition; it's like the Avengers of chamber music, uniting innovative ideas and integral to the repertoire!"
     },
     {
-      "event": "Naturalization as French Citizen",
-      "summary": "Caught in a comedy of errors, Franck realized he was technically Belgian due to a misunderstanding about citizenship. In a twist worthy of a sitcom, he promptly became a French citizen, allowing him to finally take his rightful place as Paris Conservatoire's organ professor.",
-      "year": 1873,
-      "city": "Paris",
-      "country": "France"
+      "section": "Legacy",
+      "title": "Le Chasseur maudit",
+      "summary": "This symphonic poem, written in 1883, illustrates Franck\u2019s ability to convey emotion and narrative through orchestral music, further solidifying his impact on the symphonic landscape.",
+      "year": 1883,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "This symphonic poem, written in 1883, showcases Franck's ability to convey emotion and narrative through orchestral music. Franck ensures the symphonic world isn't just a snooze-fest full of stuffy suits!"
     },
     {
-      "event": "Composition of the Violin Sonata",
-      "summary": "Frank whipped up a charming little gift for his friend Eug\u00e8ne Ysa\u00ffe\u2014a Violin Sonata that turned out to be quite the wedding present. The piece became a hit, showing everyone that a heartfelt gesture could create soul-stirring music.",
-      "year": 1886,
-      "city": "Paris",
-      "country": "France"
+      "section": "Legacy",
+      "title": "Prelude, Chorale and Fugue for piano solo",
+      "summary": "Written in 1884, this piece showcases Franck's brilliance in composition and highlights his mastery of the piano.",
+      "year": 1884,
+      "location": "",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Composed way back in 1884, this piece is like finding a vintage wine that still tastes good! It showcases Franck's genius in composition and highlights his mastery of the piano, making you wonder if he had a pet piano to practice on!"
     },
     {
-      "event": "Awarded Chevalier of the French L\u00e9gion d'honneur",
-      "summary": "In a twist of irony, Franck finally received an award that his friends thought he deserved ages ago, but the honor was mainly due to his day job as a 'professor of organ'\u2014as if that could overshadow his composition genius! It sounds like quite the consolation prize!",
+      "section": "Biography",
+      "title": "Chevalier of the French L\u00e9gion d'honneur",
+      "summary": "On August 4, 1885, Franck was made a Chevalier of the French L\u00e9gion d'honneur, a recognition for his service as a professor of organ.",
       "year": 1885,
-      "city": "Paris",
-      "country": "France"
+      "location": "France",
+      "emoji": "\ud83c\udf96\ufe0f",
+      "fun_version": "On August 4, 1885, Franck scored himself a shiny new medal as a Chevalier of the French L\u00e9gion d'honneur for his service as a professor of organ. No, not the 'organ' you find in a body, but the musical kind! Imagine all those students trying to play like Mozart."
     },
     {
-      "event": "Publication of Psych\u00e9",
-      "summary": "Franck dipped into Greek mythology with Psych\u00e9, stirring the pot with overzealous debates about its content. While his family thought it was a bit too spicy, d'Indy defended it like a knight in shining armor, claiming it was oozing with moral virtue. Move over, reality TV drama!",
-      "year": 1888,
-      "city": "Paris",
-      "country": "France"
+      "section": "Legacy",
+      "title": "Symphonic Variations for piano and orchestra",
+      "summary": "Composed in 1885, this work is part of Franck's small number of late compositions that contributed to his lasting fame and reputation.",
+      "year": 1885,
+      "location": "",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Written in 1885, this masterpiece by Franck, a tiny collection of his late compositions, has contributed significantly to his lasting fame and reputation in the world of classical music. It\u2019s impressive, like making a souffl\u00e9 without it collapsing!"
     },
     {
-      "event": "Completion of Symphony in D minor",
-      "summary": "Franck's Symphony in D minor premiered to a reception that was all kinds of frosty\u2014imagine a crowd at a Serbian wedding trying to do the Macarena. Critics couldn't decide whether to cheer or boo; Franck, in a classic display of nonchalance, just shrugged it off as 'pure music, nothing but pure music.'",
-      "year": 1888,
-      "city": "Paris",
-      "country": "France"
+      "section": "Legacy",
+      "title": "Sonata for Violin and Piano in A major",
+      "summary": "Composed in 1886, this sonata is celebrated for its lyrical beauty and intricate structure, reflecting Franck's evolution as a composer during his later years.",
+      "year": 1886,
+      "location": "",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "Composed in 1886, this sonata, celebrated for its lyrical beauty and intricate structure, is as lyrical as a cat serenading a moonlit night and as intricate as a Rube Goldberg machine designed by a caffeinated squirrel, showcasing Franck's evolution from a mere composer to a music wizard in his later years!"
     },
     {
-      "event": "Completion of Trois Chorals",
-      "summary": "Franck's health might have been dwindling, but not his creativity! He whipped up the Trois Chorals, which, much to everyone's surprise, became like the crown jewels of organ literature. Talk about leaving behind a musical legacy while signing off with a dramatic flourish!",
-      "year": 1890,
-      "city": "Nemours",
-      "country": "France"
-    },
-    {
-      "event": "Death",
-      "summary": "Franck's life came to a bittersweet end, marking the conclusion of an era for music lovers. Despite the theatrics around his health, the man left behind a treasure trove of compositions that would keep musical scholars debate-diving into his genius for centuries!",
-      "year": 1890,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "First Composition",
-      "summary": "At a young age, Franck decided to put pen to paper and compose his first piece, leading adults to wonder if they were witnessing the birth of a genius or merely an overactive imagination.",
-      "year": 1835,
-      "city": "Liege",
-      "country": "Belgium"
-    },
-    {
-      "event": "Becomes Organsit",
-      "summary": "After a few years of practicing, Franck became the organist at the Basilica of Sainte-Clotilde, where he probably had the best seat in the house to hear his own improvisations!",
-      "year": 1859,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Premiere of Symphony in D minor",
-      "summary": "When the curtain finally lifted on his Symphony, Franck was met with a mixture of awe and confusion from the audience, who were no doubt wondering what this new sound was and where they could get tickets for the next performance!",
+      "section": "Legacy",
+      "title": "Symphony in D minor",
+      "summary": "This symphony, composed between 1886 and 1888, is noted for its powerful influence on the younger generation of French composers. It marked a significant revival of the French symphonic tradition and was first performed at the Paris Conservatoire in February of 1889.",
       "year": 1889,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris Conservatoire",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "This symphony, composed between 1886 and 1888, is noted for its powerful influence on the younger generation of French composers who started thinking about music like it was their morning coffee \u2013 a non-negotiable essential. It marked a significant revival of the French symphonic tradition and first performed its dazzling routine at the Paris Conservatoire in February of 1889."
+    },
+    {
+      "section": "Biography",
+      "title": "Death",
+      "summary": "Franck died on November 8, 1890, after a rapid decline in health following an injury, leading to his significant contributions to organ literature being revered posthumously.",
+      "year": 1890,
+      "location": "Paris, France",
+      "emoji": "\ud83d\udd4a\ufe0f",
+      "fun_version": "Franck had what you might call a 'faster than light' health decline after an injury, resulting in him becoming the most popular ghost in organ literature, with his significant contributions being revered posthumously!"
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/Aimer_(Franck,_C%C3%A9sar)",
-      "year": 1849,
-      "title": "Aimer"
+      "title": "Piano Trio, CFF 108",
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio,_CFF_108_(Franck,_C\u00e9sar)",
+      "year": 1834
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Andantino_in_G_minor,_CFF_54_(Franck,_C%C3%A9sar)",
-      "year": 1856,
-      "title": "Andantino in G minor, CFF 54"
+      "title": "Variations brillantes sur 'Gustave III', CFF 133",
+      "imslp_url": "https://imslp.org/wiki/Variations_brillantes_sur_'Gustave_III',_CFF_133_(Franck,_C\u00e9sar)",
+      "year": 1834
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Andantino_quietoso,_Op.6_(Franck,_C%C3%A9sar)",
-      "year": 1843,
-      "title": "Andantino quietoso, Op.6"
+      "title": "Variations brillantes sur 'Le pr\u00e9 aux clercs', CFF 132",
+      "imslp_url": "https://imslp.org/wiki/Variations_brillantes_sur_'Le_pr\u00e9_aux_clercs',_CFF_132_(Franck,_C\u00e9sar)",
+      "year": 1834
     },
     {
-      "imslp_url": "https://imslp.org/wiki/L%27ange_et_l%27enfant,_FWV_75_(Franck,_C%C3%A9sar)",
-      "year": 1846,
-      "title": "L'ange et l'enfant, FWV 75"
+      "title": "Variations brillantes sur un th\u00e8me original, CFF 131",
+      "imslp_url": "https://imslp.org/wiki/Variations_brillantes_sur_un_th\u00e8me_original,_CFF_131_(Franck,_C\u00e9sar)",
+      "year": 1834
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Ave_Maria,_FWV_57_(Franck,_C%C3%A9sar)",
-      "year": 1865,
-      "title": "Ave Maria, FWV 57"
+      "title": "Piano Concerto No.2, Op.11",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.2,_Op.11_(Franck,_C\u00e9sar)",
+      "year": 1835
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Ave_Maria,_FWV_62_(Franck,_C%C3%A9sar)",
-      "year": 1863,
-      "title": "Ave Maria, FWV 62"
+      "title": "Piano Sonata No.1, CFF 2",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.1,_CFF_2_(Franck,_C\u00e9sar)",
+      "year": 1835
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Ballade,_Op.9_(Franck,_C%C3%A9sar)",
-      "year": 1844,
-      "title": "Ballade, Op.9"
+      "title": "Piano Trio, Op.1 No.2",
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio,_Op.1_No.2_(Franck,_C\u00e9sar)",
+      "year": 1837
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Les_B%C3%A9atitudes_(Franck,_C%C3%A9sar)",
-      "year": 1869,
-      "title": "Les B\u00e9atitudes"
+      "title": "Piano Trio, Op.1 No.1",
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio,_Op.1_No.1_(Franck,_C\u00e9sar)",
+      "year": 1839
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Le_chasseur_maudit_(Franck,_C%C3%A9sar)",
-      "year": 1882,
-      "title": "Le chasseur maudit"
+      "title": "Fugue vocale en r\u00e9 mineur",
+      "imslp_url": "https://imslp.org/wiki/Fugue_vocale_en_r\u00e9_mineur_(Franck,_C\u00e9sar)",
+      "year": 1840
     },
     {
-      "imslp_url": "https://imslp.org/wiki/3_Chorals_for_Organ_(Franck,_C%C3%A9sar)",
-      "year": 1890,
-      "title": "3 Chorals for Organ"
+      "title": "Piano Trio, Op.2",
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio,_Op.2_(Franck,_C\u00e9sar)",
+      "year": 1841
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Les_cloches_du_soir,_FWV_87_(Franck,_C%C3%A9sar)",
-      "year": 1888,
-      "title": "Les cloches du soir, FWV 87"
+      "title": "Stradella, CFF 229",
+      "imslp_url": "https://imslp.org/wiki/Stradella,_CFF_229_(Franck,_C\u00e9sar)",
+      "year": 1841
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Danse_lente_(Franck,_C%C3%A9sar)",
-      "year": 1885,
-      "title": "Danse lente"
+      "title": "L'\u00e9mir de Bengador",
+      "imslp_url": "https://imslp.org/wiki/L'\u00e9mir_de_Bengador_(Franck,_C\u00e9sar)",
+      "year": 1842
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Dextera_Domini,_FWV_65_(Franck,_C%C3%A9sar)",
-      "year": 1871,
-      "title": "Dextera Domini, FWV 65"
+      "title": "Le sylphe",
+      "imslp_url": "https://imslp.org/wiki/Le_sylphe_(Franck,_C\u00e9sar)",
+      "year": 1842
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Les_Djinns_(Franck,_C%C3%A9sar)",
-      "year": 1884,
-      "title": "Les Djinns"
+      "title": "Piano Trio, Op.1 No.3",
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio,_Op.1_No.3_(Franck,_C\u00e9sar)",
+      "year": 1842
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Domine_Deus_in_simplicitate_(Franck,_C%C3%A9sar)",
-      "year": 1861,
-      "title": "Domine Deus in simplicitate"
+      "title": "Robin Gray",
+      "imslp_url": "https://imslp.org/wiki/Robin_Gray_(Franck,_C\u00e9sar)",
+      "year": 1842
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Domine_non_secundum,_FWV_66_(Franck,_C%C3%A9sar)",
-      "year": 1871,
-      "title": "Domine non secundum, FWV 66"
+      "title": "Souvenance",
+      "imslp_url": "https://imslp.org/wiki/Souvenance_(Franck,_C\u00e9sar)",
+      "year": 1842
     },
     {
-      "imslp_url": "https://imslp.org/wiki/6_Duos_(Franck,_C%C3%A9sar)",
-      "year": 1888,
-      "title": "6 Duos"
+      "title": "Andantino quietoso, Op.6",
+      "imslp_url": "https://imslp.org/wiki/Andantino_quietoso,_Op.6_(Franck,_C\u00e9sar)",
+      "year": 1843
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Eglogue,_Op.3_(Franck,_C%C3%A9sar)",
-      "year": 1844,
-      "title": "Eglogue, Op.3"
+      "title": "Ruth",
+      "imslp_url": "https://imslp.org/wiki/Ruth_(Franck,_C\u00e9sar)",
+      "year": 1843
     },
     {
-      "imslp_url": "https://imslp.org/wiki/L%27%C3%A9mir_de_Bengador_(Franck,_C%C3%A9sar)",
-      "year": 1842,
-      "title": "L'\u00e9mir de Bengador"
+      "title": "Ballade, Op.9",
+      "imslp_url": "https://imslp.org/wiki/Ballade,_Op.9_(Franck,_C\u00e9sar)",
+      "year": 1844
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Les_%C3%89olides_(Franck,_C%C3%A9sar)",
-      "year": 1875,
-      "title": "Les \u00c9olides"
+      "title": "Eglogue, Op.3",
+      "imslp_url": "https://imslp.org/wiki/Eglogue,_Op.3_(Franck,_C\u00e9sar)",
+      "year": 1844
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Fantaisie,_Op.16_(Franck,_C%C3%A9sar)",
-      "year": 1856,
-      "title": "Fantaisie, Op.16"
+      "title": "Premier grand caprice, Op.5",
+      "imslp_url": "https://imslp.org/wiki/Premier_grand_caprice,_Op.5_(Franck,_C\u00e9sar)",
+      "year": 1845
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Final,_Op.21_(Franck,_C%C3%A9sar)",
-      "year": 1860,
-      "title": "Final, Op.21"
+      "title": "L'ange et l'enfant, FWV 75",
+      "imslp_url": "https://imslp.org/wiki/L'ange_et_l'enfant,_FWV_75_(Franck,_C\u00e9sar)",
+      "year": 1846
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Fugue_vocale_en_r%C3%A9_mineur_(Franck,_C%C3%A9sar)",
-      "year": 1840,
-      "title": "Fugue vocale en r\u00e9 mineur"
+      "title": "Aimer",
+      "imslp_url": "https://imslp.org/wiki/Aimer_(Franck,_C\u00e9sar)",
+      "year": 1849
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Ghiselle_(Franck,_C%C3%A9sar)",
-      "year": 1888,
-      "title": "Ghiselle"
+      "title": "Ninon",
+      "imslp_url": "https://imslp.org/wiki/Ninon_(Franck,_C\u00e9sar)",
+      "year": 1851
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Grande_pi%C3%A8ce_symphonique,_Op.17_(Franck,_C%C3%A9sar)",
-      "year": 1860,
-      "title": "Grande pi\u00e8ce symphonique, Op.17"
+      "title": "Andantino in G minor, CFF 54",
+      "imslp_url": "https://imslp.org/wiki/Andantino_in_G_minor,_CFF_54_(Franck,_C\u00e9sar)",
+      "year": 1856
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Hulda_(Franck,_C%C3%A9sar)",
-      "year": 1879,
-      "title": "Hulda"
+      "title": "Fantaisie, Op.16",
+      "imslp_url": "https://imslp.org/wiki/Fantaisie,_Op.16_(Franck,_C\u00e9sar)",
+      "year": 1856
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Hymne_(Franck,_C%C3%A9sar)",
-      "year": 1888,
-      "title": "Hymne"
+      "title": "Les sept paroles du Christ sur la croix",
+      "imslp_url": "https://imslp.org/wiki/Les_sept_paroles_du_Christ_sur_la_croix_(Franck,_C\u00e9sar)",
+      "year": 1859
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Lied_(Franck,_C%C3%A9sar)",
-      "year": 1873,
-      "title": "Lied"
+      "title": "Final, Op.21",
+      "imslp_url": "https://imslp.org/wiki/Final,_Op.21_(Franck,_C\u00e9sar)",
+      "year": 1860
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Litanies_de_la_Sainte_Vierge_(Franck,_C%C3%A9sar)",
-      "year": 1888,
-      "title": "Litanies de la Sainte Vierge"
+      "title": "Grande pi\u00e8ce symphonique, Op.17",
+      "imslp_url": "https://imslp.org/wiki/Grande_pi\u00e8ce_symphonique,_Op.17_(Franck,_C\u00e9sar)",
+      "year": 1860
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Le_mariage_des_roses_(Franck,_C%C3%A9sar)",
-      "year": 1871,
-      "title": "Le mariage des roses"
+      "title": "Mass, Op.12",
+      "imslp_url": "https://imslp.org/wiki/Mass,_Op.12_(Franck,_C\u00e9sar)",
+      "year": 1860
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Mass,_Op.12_(Franck,_C%C3%A9sar)",
-      "year": 1860,
-      "title": "Mass, Op.12"
+      "title": "Passez, passez toujours",
+      "imslp_url": "https://imslp.org/wiki/Passez,_passez_toujours_(Franck,_C\u00e9sar)",
+      "year": 1860
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Ninon_(Franck,_C%C3%A9sar)",
-      "year": 1851,
-      "title": "Ninon"
+      "title": "Pastorale, Op.19",
+      "imslp_url": "https://imslp.org/wiki/Pastorale,_Op.19_(Franck,_C\u00e9sar)",
+      "year": 1860
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Nocturne_(Franck,_C%C3%A9sar)",
-      "year": 1884,
-      "title": "Nocturne"
+      "title": "Pri\u00e8re, Op.20",
+      "imslp_url": "https://imslp.org/wiki/Pri\u00e8re,_Op.20_(Franck,_C\u00e9sar)",
+      "year": 1860
     },
     {
-      "imslp_url": "https://imslp.org/wiki/O_salutaris,_CFF_208_(Franck,_C%C3%A9sar)",
-      "year": 1862,
-      "title": "O salutaris, CFF 208"
+      "title": "Pr\u00e9lude, fugue et variation, Op.18",
+      "imslp_url": "https://imslp.org/wiki/Pr\u00e9lude,_fugue_et_variation,_Op.18_(Franck,_C\u00e9sar)",
+      "year": 1860
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Offertoire_sur_un_no%C3%ABl_breton,_CFF_34_(Franck,_C%C3%A9sar)",
-      "year": 1865,
-      "title": "Offertoire sur un no\u00ebl breton, CFF 34"
+      "title": "Roses et papillons",
+      "imslp_url": "https://imslp.org/wiki/Roses_et_papillons_(Franck,_C\u00e9sar)",
+      "year": 1860
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Panis_angelicus_(Franck,_C%C3%A9sar)",
-      "year": 1860,
-      "title": "Panis angelicus"
+      "title": "Domine Deus in simplicitate",
+      "imslp_url": "https://imslp.org/wiki/Domine_Deus_in_simplicitate_(Franck,_C\u00e9sar)",
+      "year": 1861
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Paris_(Franck,_C%C3%A9sar)",
-      "year": 1870,
-      "title": "Paris"
+      "title": "O salutaris, CFF 208",
+      "imslp_url": "https://imslp.org/wiki/O_salutaris,_CFF_208_(Franck,_C\u00e9sar)",
+      "year": 1862
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Passez,_passez_toujours_(Franck,_C%C3%A9sar)",
-      "year": 1860,
-      "title": "Passez, passez toujours"
+      "title": "Quasi marcia, Op.22",
+      "imslp_url": "https://imslp.org/wiki/Quasi_marcia,_Op.22_(Franck,_C\u00e9sar)",
+      "year": 1862
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Pastorale,_Op.19_(Franck,_C%C3%A9sar)",
-      "year": 1860,
-      "title": "Pastorale, Op.19"
+      "title": "Ave Maria, FWV 62",
+      "imslp_url": "https://imslp.org/wiki/Ave_Maria,_FWV_62_(Franck,_C\u00e9sar)",
+      "year": 1863
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Petit_offertoire,_CFF_38_(Franck,_C%C3%A9sar)",
-      "year": 1885,
-      "title": "Petit offertoire, CFF 38"
+      "title": "5 Pi\u00e8ces pour harmonium",
+      "imslp_url": "https://imslp.org/wiki/5_Pi\u00e8ces_pour_harmonium_(Franck,_C\u00e9sar)",
+      "year": 1864
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.2,_Op.11_(Franck,_C%C3%A9sar)",
-      "year": 1835,
-      "title": "Piano Concerto No.2, Op.11"
+      "title": "Ave Maria, FWV 57",
+      "imslp_url": "https://imslp.org/wiki/Ave_Maria,_FWV_57_(Franck,_C\u00e9sar)",
+      "year": 1865
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Piano_Quintet_(Franck,_C%C3%A9sar)",
-      "year": 1880,
-      "title": "Piano Quintet"
+      "title": "Les plaintes d'une poup\u00e9e",
+      "imslp_url": "https://imslp.org/wiki/Les_plaintes_d'une_poup\u00e9e_(Franck,_C\u00e9sar)",
+      "year": 1865
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.1,_CFF_2_(Franck,_C%C3%A9sar)",
-      "year": 1835,
-      "title": "Piano Sonata No.1, CFF 2"
+      "title": "Offertoire sur un no\u00ebl breton, CFF 34",
+      "imslp_url": "https://imslp.org/wiki/Offertoire_sur_un_no\u00ebl_breton,_CFF_34_(Franck,_C\u00e9sar)",
+      "year": 1865
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Piano_Trio,_CFF_108_(Franck,_C%C3%A9sar)",
-      "year": 1834,
-      "title": "Piano Trio, CFF 108"
+      "title": "Quare fremuerunt gentes",
+      "imslp_url": "https://imslp.org/wiki/Quare_fremuerunt_gentes_(Franck,_C\u00e9sar)",
+      "year": 1865
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Piano_Trio,_Op.1_No.1_(Franck,_C%C3%A9sar)",
-      "year": 1839,
-      "title": "Piano Trio, Op.1 No.1"
+      "title": "Tantum ergo",
+      "imslp_url": "https://imslp.org/wiki/Tantum_ergo_(Franck,_C\u00e9sar)",
+      "year": 1865
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Piano_Trio,_Op.1_No.2_(Franck,_C%C3%A9sar)",
-      "year": 1837,
-      "title": "Piano Trio, Op.1 No.2"
+      "title": "Les B\u00e9atitudes",
+      "imslp_url": "https://imslp.org/wiki/Les_B\u00e9atitudes_(Franck,_C\u00e9sar)",
+      "year": 1869
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Piano_Trio,_Op.1_No.3_(Franck,_C%C3%A9sar)",
-      "year": 1842,
-      "title": "Piano Trio, Op.1 No.3"
+      "title": "Paris",
+      "imslp_url": "https://imslp.org/wiki/Paris_(Franck,_C\u00e9sar)",
+      "year": 1870
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Piano_Trio,_Op.2_(Franck,_C%C3%A9sar)",
-      "year": 1841,
-      "title": "Piano Trio, Op.2"
+      "title": "Dextera Domini, FWV 65",
+      "imslp_url": "https://imslp.org/wiki/Dextera_Domini,_FWV_65_(Franck,_C\u00e9sar)",
+      "year": 1871
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Pi%C3%A8ce_in_C_minor,_CFF_39_(Franck,_C%C3%A9sar)",
-      "year": 1880,
-      "title": "Pi\u00e8ce in C minor, CFF 39"
+      "title": "Domine non secundum, FWV 66",
+      "imslp_url": "https://imslp.org/wiki/Domine_non_secundum,_FWV_66_(Franck,_C\u00e9sar)",
+      "year": 1871
     },
     {
-      "imslp_url": "https://imslp.org/wiki/3_Pi%C3%A8ces_pour_grand_orgue_(Franck,_C%C3%A9sar)",
-      "year": 1878,
-      "title": "3 Pi\u00e8ces pour grand orgue"
+      "title": "Le mariage des roses",
+      "imslp_url": "https://imslp.org/wiki/Le_mariage_des_roses_(Franck,_C\u00e9sar)",
+      "year": 1871
     },
     {
-      "imslp_url": "https://imslp.org/wiki/5_Pi%C3%A8ces_pour_harmonium_(Franck,_C%C3%A9sar)",
-      "year": 1864,
-      "title": "5 Pi\u00e8ces pour harmonium"
+      "title": "Quae est ista, FWV 63",
+      "imslp_url": "https://imslp.org/wiki/Quae_est_ista,_FWV_63_(Franck,_C\u00e9sar)",
+      "year": 1871
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Les_plaintes_d%27une_poup%C3%A9e_(Franck,_C%C3%A9sar)",
-      "year": 1865,
-      "title": "Les plaintes d'une poup\u00e9e"
+      "title": "R\u00e9demption",
+      "imslp_url": "https://imslp.org/wiki/R\u00e9demption_(Franck,_C\u00e9sar)",
+      "year": 1871
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Pr%C3%A9lude,_aria_et_final_(Franck,_C%C3%A9sar)",
-      "year": 1887,
-      "title": "Pr\u00e9lude, aria et final"
+      "title": "Veni creator",
+      "imslp_url": "https://imslp.org/wiki/Veni_creator_(Franck,_C\u00e9sar)",
+      "year": 1872
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Pr%C3%A9lude,_choral_et_fugue_(Franck,_C%C3%A9sar)",
-      "year": 1884,
-      "title": "Pr\u00e9lude, choral et fugue"
+      "title": "Lied",
+      "imslp_url": "https://imslp.org/wiki/Lied_(Franck,_C\u00e9sar)",
+      "year": 1873
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Pr%C3%A9lude,_fugue_et_variation,_Op.18_(Franck,_C%C3%A9sar)",
-      "year": 1860,
-      "title": "Pr\u00e9lude, fugue et variation, Op.18"
+      "title": "Les \u00c9olides",
+      "imslp_url": "https://imslp.org/wiki/Les_\u00c9olides_(Franck,_C\u00e9sar)",
+      "year": 1875
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Premier_grand_caprice,_Op.5_(Franck,_C%C3%A9sar)",
-      "year": 1845,
-      "title": "Premier grand caprice, Op.5"
+      "title": "3 Pi\u00e8ces pour grand orgue",
+      "imslp_url": "https://imslp.org/wiki/3_Pi\u00e8ces_pour_grand_orgue_(Franck,_C\u00e9sar)",
+      "year": 1878
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Pri%C3%A8re,_Op.20_(Franck,_C%C3%A9sar)",
-      "year": 1860,
-      "title": "Pri\u00e8re, Op.20"
+      "title": "Hulda",
+      "imslp_url": "https://imslp.org/wiki/Hulda_(Franck,_C\u00e9sar)",
+      "year": 1879
     },
     {
-      "imslp_url": "https://imslp.org/wiki/La_procession_(Franck,_C%C3%A9sar)",
-      "year": 1888,
-      "title": "La procession"
+      "title": "Le vase bris\u00e9",
+      "imslp_url": "https://imslp.org/wiki/Le_vase_bris\u00e9_(Franck,_C\u00e9sar)",
+      "year": 1879
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Psaume_150_(Franck,_C%C3%A9sar)",
-      "year": 1883,
-      "title": "Psaume 150"
+      "title": "Piano Quintet",
+      "imslp_url": "https://imslp.org/wiki/Piano_Quintet_(Franck,_C\u00e9sar)",
+      "year": 1880
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Psych%C3%A9_(Franck,_C%C3%A9sar)",
-      "year": 1886,
-      "title": "Psych\u00e9"
+      "title": "Pi\u00e8ce in C minor, CFF 39",
+      "imslp_url": "https://imslp.org/wiki/Pi\u00e8ce_in_C_minor,_CFF_39_(Franck,_C\u00e9sar)",
+      "year": 1880
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Quae_est_ista,_FWV_63_(Franck,_C%C3%A9sar)",
-      "year": 1871,
-      "title": "Quae est ista, FWV 63"
+      "title": "R\u00e9becca",
+      "imslp_url": "https://imslp.org/wiki/R\u00e9becca_(Franck,_C\u00e9sar)",
+      "year": 1880
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Quare_fremuerunt_gentes_(Franck,_C%C3%A9sar)",
-      "year": 1865,
-      "title": "Quare fremuerunt gentes"
+      "title": "Le chasseur maudit",
+      "imslp_url": "https://imslp.org/wiki/Le_chasseur_maudit_(Franck,_C\u00e9sar)",
+      "year": 1882
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Quasi_marcia,_Op.22_(Franck,_C%C3%A9sar)",
-      "year": 1862,
-      "title": "Quasi marcia, Op.22"
+      "title": "Psaume 150",
+      "imslp_url": "https://imslp.org/wiki/Psaume_150_(Franck,_C\u00e9sar)",
+      "year": 1883
     },
     {
-      "imslp_url": "https://imslp.org/wiki/R%C3%A9becca_(Franck,_C%C3%A9sar)",
-      "year": 1880,
-      "title": "R\u00e9becca"
+      "title": "Les Djinns",
+      "imslp_url": "https://imslp.org/wiki/Les_Djinns_(Franck,_C\u00e9sar)",
+      "year": 1884
     },
     {
-      "imslp_url": "https://imslp.org/wiki/R%C3%A9demption_(Franck,_C%C3%A9sar)",
-      "year": 1871,
-      "title": "R\u00e9demption"
+      "title": "Nocturne",
+      "imslp_url": "https://imslp.org/wiki/Nocturne_(Franck,_C\u00e9sar)",
+      "year": 1884
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Robin_Gray_(Franck,_C%C3%A9sar)",
-      "year": 1842,
-      "title": "Robin Gray"
+      "title": "Pr\u00e9lude, choral et fugue",
+      "imslp_url": "https://imslp.org/wiki/Pr\u00e9lude,_choral_et_fugue_(Franck,_C\u00e9sar)",
+      "year": 1884
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Roses_et_papillons_(Franck,_C%C3%A9sar)",
-      "year": 1860,
-      "title": "Roses et papillons"
+      "title": "Danse lente",
+      "imslp_url": "https://imslp.org/wiki/Danse_lente_(Franck,_C\u00e9sar)",
+      "year": 1885
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Ruth_(Franck,_C%C3%A9sar)",
-      "year": 1843,
-      "title": "Ruth"
+      "title": "Petit offertoire, CFF 38",
+      "imslp_url": "https://imslp.org/wiki/Petit_offertoire,_CFF_38_(Franck,_C\u00e9sar)",
+      "year": 1885
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Les_sept_paroles_du_Christ_sur_la_croix_(Franck,_C%C3%A9sar)",
-      "year": 1859,
-      "title": "Les sept paroles du Christ sur la croix"
+      "title": "Variations symphoniques",
+      "imslp_url": "https://imslp.org/wiki/Variations_symphoniques_(Franck,_C\u00e9sar)",
+      "year": 1885
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Souvenance_(Franck,_C%C3%A9sar)",
-      "year": 1842,
-      "title": "Souvenance"
+      "title": "Psych\u00e9",
+      "imslp_url": "https://imslp.org/wiki/Psych\u00e9_(Franck,_C\u00e9sar)",
+      "year": 1886
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Stradella,_CFF_229_(Franck,_C%C3%A9sar)",
-      "year": 1841,
-      "title": "Stradella, CFF 229"
+      "title": "Symphony in D minor",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_D_minor_(Franck,_C\u00e9sar)",
+      "year": 1886
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_(Franck,_C%C3%A9sar)",
-      "year": 1889,
-      "title": "String Quartet"
+      "title": "Violin Sonata",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_(Franck,_C\u00e9sar)",
+      "year": 1886
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Le_sylphe_(Franck,_C%C3%A9sar)",
-      "year": 1842,
-      "title": "Le sylphe"
+      "title": "Pr\u00e9lude, aria et final",
+      "imslp_url": "https://imslp.org/wiki/Pr\u00e9lude,_aria_et_final_(Franck,_C\u00e9sar)",
+      "year": 1887
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Symphony_in_D_minor_(Franck,_C%C3%A9sar)",
-      "year": 1886,
-      "title": "Symphony in D minor"
+      "title": "6 Duos",
+      "imslp_url": "https://imslp.org/wiki/6_Duos_(Franck,_C\u00e9sar)",
+      "year": 1888
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Tantum_ergo_(Franck,_C%C3%A9sar)",
-      "year": 1865,
-      "title": "Tantum ergo"
+      "title": "Ghiselle",
+      "imslp_url": "https://imslp.org/wiki/Ghiselle_(Franck,_C\u00e9sar)",
+      "year": 1888
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Variations_brillantes_sur_%27Gustave_III%27,_CFF_133_(Franck,_C%C3%A9sar)",
-      "year": 1834,
-      "title": "Variations brillantes sur 'Gustave III', CFF 133"
+      "title": "Hymne",
+      "imslp_url": "https://imslp.org/wiki/Hymne_(Franck,_C\u00e9sar)",
+      "year": 1888
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Variations_brillantes_sur_%27Le_pr%C3%A9_aux_clercs%27,_CFF_132_(Franck,_C%C3%A9sar)",
-      "year": 1834,
-      "title": "Variations brillantes sur 'Le pr\u00e9 aux clercs', CFF 132"
+      "title": "La procession",
+      "imslp_url": "https://imslp.org/wiki/La_procession_(Franck,_C\u00e9sar)",
+      "year": 1888
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Variations_brillantes_sur_un_th%C3%A8me_original,_CFF_131_(Franck,_C%C3%A9sar)",
-      "year": 1834,
-      "title": "Variations brillantes sur un th\u00e8me original, CFF 131"
+      "title": "Les cloches du soir, FWV 87",
+      "imslp_url": "https://imslp.org/wiki/Les_cloches_du_soir,_FWV_87_(Franck,_C\u00e9sar)",
+      "year": 1888
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Variations_symphoniques_(Franck,_C%C3%A9sar)",
-      "year": 1885,
-      "title": "Variations symphoniques"
+      "title": "Litanies de la Sainte Vierge",
+      "imslp_url": "https://imslp.org/wiki/Litanies_de_la_Sainte_Vierge_(Franck,_C\u00e9sar)",
+      "year": 1888
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Le_vase_bris%C3%A9_(Franck,_C%C3%A9sar)",
-      "year": 1879,
-      "title": "Le vase bris\u00e9"
+      "title": "String Quartet",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_(Franck,_C\u00e9sar)",
+      "year": 1889
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Veni_creator_(Franck,_C%C3%A9sar)",
-      "year": 1872,
-      "title": "Veni creator"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_(Franck,_C%C3%A9sar)",
-      "year": 1886,
-      "title": "Violin Sonata"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/L%27organiste_(Franck,_C%C3%A9sar)",
-      "year": 1889,
-      "title": "L'organiste"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Pi%C3%A8ces_posthumes_(Franck,_C%C3%A9sar)",
-      "year": 1858,
-      "title": "Pi\u00e8ces posthumes"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Mass,_Op.12_(Franck,_C%C3%A9sar)",
-      "year": 1860,
-      "title": "Mass, Op.12"
+      "title": "3 Chorals for Organ",
+      "imslp_url": "https://imslp.org/wiki/3_Chorals_for_Organ_(Franck,_C\u00e9sar)",
+      "year": 1890
     }
   ]
 }

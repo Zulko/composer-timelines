@@ -25,6 +25,7 @@ dist-ssr
 
 /public/build/
 /data_collection/data/
+/data_collection/web-cache.sqlite
 /data_collection/.ipynb_checkpoints
 
 .DS_Store

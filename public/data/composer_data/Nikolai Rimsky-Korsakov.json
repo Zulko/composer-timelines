@@ -1,720 +1,543 @@
 {
   "full_name": "Nikolai Rimsky-Korsakov",
-  "first_names": "Nikolai",
+  "first_names": "Nikolai Andreyevich",
   "last_name": "Rimsky-Korsakov",
   "birth_year": 1844,
   "death_year": 1908,
   "wikipedia_url": "https://en.wikipedia.org/wiki/Nikolai_Rimsky-Korsakov",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Nikolai Andreyevich Rimsky-Korsakov made his grand entrance into the world in Tikhvin, starting his lifelong love affair with music and naval adventures. It\u2019s safe to say he was destined to be a big fish in a small pond, or rather a maritime maestro!",
+      "section": "Biography",
+      "title": "Birth",
+      "summary": "Nikolai Rimsky-Korsakov was born into a Russian noble family in Tikhvin, a town 200 kilometers east of Saint Petersburg. His family has a history of serving in various governmental positions and his birthplace has significant historical ties.",
       "year": 1844,
-      "city": "Tikhvin",
-      "country": "Russia"
+      "location": "Tikhvin, Russia",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Nikolai Rimsky-Korsakov was born into a Russian noble family in Tikhvin, a town that\u2019s about 200 kilometers east of Saint Petersburg. His family must have had quite the entertaining family tree because they were all in the government! And Tikhvin has significant historical ties!"
     },
     {
-      "event": "Navy Education",
-      "summary": "With a childhood fantasy of ocean exploits fueled by his older brother's adventures, he decided to trade piano scales for naval maps. He attended the School for Mathematical and Navigational Sciences, proving that even composers can navigate complex waters\u2014just not always in rhythm!",
-      "year": 1862,
-      "city": "Saint Petersburg",
-      "country": "Russia"
+      "section": "Biography",
+      "title": "Early Musical Education",
+      "summary": "At the age of six, Rimsky-Korsakov began taking piano lessons, although he initially showed a lack of interest in them. He developed a talent for aural skills and later composed music, all while preferring literature over music at this early age.",
+      "year": 1850,
+      "location": "Saint Petersburg, Russia",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "At the age of six, Rimsky-Korsakov began taking piano lessons, although he initially showed a lack of interest in them. He became an aural skills wizard and later composed music, all while preferring literature over music at this early age."
     },
     {
-      "event": "First Public Performance",
-      "summary": "After enduring the rigorous tutelage of Balakirev and a two-year ocean cruise devoid of any musical stimulation, Rimsky-Korsakov finally took center stage with his symphony's debut performance under Balakirev's watchful eye, proving that the sea didn't drown his talent after all!",
-      "year": 1865,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Becoming a Professor",
-      "summary": "In a plot twist where the student becomes the master, Rimsky-Korsakov took on the role of a professor at the Saint Petersburg Conservatory. Who knew that teaching harmony would prove to be as satisfying as composing it? Think of it as conducting a classroom symphony!",
-      "year": 1871,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Completion of Scheherazade",
-      "summary": "Rimsky-Korsakov wrapped up his magnum opus, Scheherazade, weaving in tales and exotic harmonies. It was like his own personal storytelling concert where you didn\u2019t even need a ticket to dream of Arabian nights!",
-      "year": 1888,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Publication of Orchestration Textbook",
-      "summary": "Not content with simply composing, Rimsky-Korsakov decided to immortalize his orchestration wisdom in a textbook, demonstrating that he was not just a composer but also a certified 'orchestra whisperer'. Talk about leaving a musical legacy!",
-      "year": 1905,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Friendship with The Five",
-      "summary": "Rimsky-Korsakov became thick as thieves with the members of The Five, where they critiqued each other's works with the intensity of old friends arguing over the best borscht recipe. He even had a duet-piano moment with Mussorgsky\u2014they would play music, Mussorgsky would sing, and they shared opinions that mismatched the tastes of established composers like a pair of mismatched socks.",
-      "year": 1868,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Professor at the Saint Petersburg Conservatory",
-      "summary": "Rimsky-Korsakov secured a cushy teaching gig as Professor of Practical Composition and Instrumentation, leading the Orchestra Class while decked out in full naval uniform\u2014as if he could compose with a side of authority! His knowledge of musical theory was like a sailor navigating with a map of the stars and a can of beans; yet he still managed to give his students quite the show!",
-      "year": 1871,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Marriage to Nadezhda",
-      "summary": "In a delightful twist of life, Rimsky-Korsakov married Nadezhda Purgold, who had a sharp musical mind to match her beauty and charm. Their union was the kind that had Mussorgsky serving as the best man, proving that even composers have friends willing to witness their big day. Together, they raised seven kids, which must have sounded like a full orchestra of their own!",
-      "year": 1872,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Becoming Inspector of Naval Bands",
-      "summary": "Rimsky-Korsakov jumped ship to become the Inspector of Naval Bands, a role that had him strutting around as a civilian while still on the navy's payroll. Goodbye, military uniform! Hello, music! He mixed inspections with musical exploration, proving that even bandmasters could use a good dose of orchestration wisdom.",
-      "year": 1873,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Publication of Textbook on Orchestration",
-      "summary": "Amidst the chaos of band inspections, Rimsky-Korsakov decided it was time to put pen to paper and write a textbook on orchestration. His studies made their way into the book, ensuring that future generations wouldn\u2019t have to decipher the mysteries of orchestral music with a magic 8-ball. Talk about leaving a legacy!",
-      "year": 1884,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Editing Glinka's Scores",
-      "summary": "Resurrecting the works of Mikhail Glinka became a purposeful hobby for Rimsky-Korsakov, who helped ensure Glinka's music saw the light of day again. It was part musical rehab, part homage\u2014like dusting off a classic vintage vinyl and hoping your friends won\u2019t judge your taste in music. This project shaped the future of Russian music and showcased Rimsky-Korsakov's commitment to honoring the greats!",
-      "year": 1884,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Started writing May Night",
-      "summary": "Rimsky-Korsakov decided it was high time to add 'opera composer' to his r\u00e9sum\u00e9, influenced by a delightful short story by Nikolai Gogol. Thanks to his supportive wife, Nadezhda, who insisted he'd better get on with it, he dove headfirst into the musical depths and emerged with a completed opera in a matter of months.",
-      "year": 1878,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Established Russian Symphony Concerts",
-      "summary": "Rimsky-Korsakov took the genius of Russian music to the masses, co-founding concerts with Mitrofan Belyayev and dragging along some illustrious friends. He cheekily used these events to showcase his own works while simultaneously coaxing himself out of a creative slump. It was like winning a game of musical poker and revealing his own winning cards.",
-      "year": 1886,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Bonded with Tchaikovsky",
-      "summary": "The great Tchaikovsky waltzed into Rimsky-Korsakov's life, and instead of a standard handshake, they exchanged letters and engaged in a captivating musical love fest. Despite some jealous feels about Tchaikovsky's rising star, they became fast friends, which made for quite the lively social scene!",
-      "year": 1887,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Attended Wagner's Der Ring des Nibelungen",
-      "summary": "Rimsky-Korsakov found himself utterly bewitched by Wagner's orchestral wizardry during a performance of The Ring in Saint Petersburg, leading him to ditch his previous writing style like last season's fashion. Henceforth, he decided that composing operas was his newfound calling, much to the delight of his audience!",
-      "year": 1889,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Suffered creative drought",
-      "summary": "After a series of unfortunate events, including family health crises that would make a soap opera writer weep, Rimsky-Korsakov hit a rocky patch in his composition career. But fear not! This was just a dramatic build-up before a grand comeback that would put all his previous works to shame!",
-      "year": 1892,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Composed the opera Christmas Eve",
-      "summary": "After Tchaikovsky's timely demise (what a party that could have been!), Rimsky-Korsakov seized the opportunity to write an opera based on Gogol's Christmas Eve. This spark ignited a flurry of creativity, and he soon found himself metaphorically juggling eleven new operas as the clock ticked towards his retirement!",
-      "year": 1893,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Engaged in 1905 Revolution",
-      "summary": "During the revolutionary fervor at the Conservatory, Rimsky-Korsakov donned his superhero cape as he bravely stood up for student rights. Despite the chaotic mess, he sought to mediate and decided to add 'student protector' to his long list of roles. Who knew he'd swap composing for negotiating for a moment?",
-      "year": 1905,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Dismissal from Conservatory",
-      "summary": "In an eyebrow-raising twist, Rimsky-Korsakov was dismissed from the Conservatory amid student unrest but decided to teach from home. Clearly, once a teacher, always a teacher, or maybe he just couldn't resist sharing his musical wisdom, even if it meant defying authority!",
-      "year": 1906,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Political Demonstration After Opera Production",
-      "summary": "After his opera 'Kashchey the Immortal' was performed, the audience decided it was a better time for a political demonstration than a concert. This shindig led to an official ban on Rimsky-Korsakov's work, much to the dismay and amusement of many who sent him sympathetic letters, including donations from peasants who probably just wanted to join the fun!",
-      "year": 1905,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Reinstatement as Director",
-      "summary": "Following a wave of support that saw over 300 students walk out in protest and a plethora of sympathy letters, Rimsky-Korsakov was reinstated with a shiny new director at the helm\u2014clearly, being popular goes a long way in the world of music and academic drama!",
-      "year": 1905,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Retirement from Conservatory",
-      "summary": "After decades of teaching and inspiring students, Rimsky-Korsakov finally decided to retire from the Conservatory, likely to enjoy some peace and quiet\u2014or perhaps to focus on his next big composition without the distractions of student queries like 'But why is it called music?'!",
-      "year": 1906,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Concerts in Paris",
-      "summary": "In a grand display of musical camaraderie, Rimsky-Korsakov conducted concerts in Paris that highlighted Russian nationalist music. The success of these concerts didn't just make him popular; it was like giving Russian classical music a significant upgrade in the European scene, almost like a musical rebranding!",
-      "year": 1907,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Death",
-      "summary": "Rimsky-Korsakov's long battle with angina took a final bow in 1908, leaving behind an impressive catalog of musical wonders. He passed away at his estate, likely dreaming of orchestral harmonies and knowing he left a legacy that would make future composers raise their eyebrows and pen their own symphonies!",
-      "year": 1908,
-      "city": "Luga",
-      "country": "Russia"
-    },
-    {
-      "event": "Teaching Tenure at Conservatory",
-      "summary": "Rimsky-Korsakov taught theory and composition to 250 students, turning them into a veritable army of composers. His teaching style involved a strategic blend of wisdom and the occasional theatrical pause, ensuring that by the end of the term, students were fluent in melody and tired of his voice.",
-      "year": 1867,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Editing Works of The Five",
-      "summary": "In a move that would make him a magical editor of sorts, Rimsky-Korsakov undertook the task of refining works by The Five after their authors were no longer able to hold their pens. Think of him as a literary fairy godmother, transforming \u2018rough drafts\u2019 into full-on orchestral pieces.",
-      "year": 1869,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Interest in Russian Folklore",
-      "summary": "Rimsky-Korsakov dived deep into Russian folklore, merging music with the ancient pagan vibes of sun worship. He discovered that folk songs were like the artisanal bread of music \u2013 each one layered with history, flavor, and an irresistible charm.",
-      "year": 1880,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Publication of Autobiography",
-      "summary": "In an effort to immortalize his musical saga, Rimsky-Korsakov penned his autobiography, detailing his creative adventures and insights. It\u2019s as if he wanted to leave behind a treasure map for future composers, marked with \u2018X\u2019 for extra genius.",
-      "year": 1903,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Composed 'Sheherazade'",
-      "summary": "He whipped up a fantastical symphonic suite inspired by 'One Thousand and One Nights', proving that storytelling could happen without a single book in sight.",
-      "year": 1888,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Joined the Russian Navy",
-      "summary": "Rimsky-Korsakov decided to be a sailor. Little did he know it was merely a plot twist in his opera of life; he had a flair for music not for sea shanties.",
+      "section": "Biography",
+      "title": "Naval Career Begins",
+      "summary": "At the age of twelve, encouraged by his brother, Rimsky-Korsakov decided to join the Imperial Russian Navy, leading to a formal education at the School for Mathematical and Navigational Sciences in Saint Petersburg.",
       "year": 1856,
-      "city": "Saint Petersburg",
-      "country": "Russia"
+      "location": "Saint Petersburg, Russia",
+      "emoji": "\u2693",
+      "fun_version": "At the sprightly age of twelve, encouraged by his brother and his own bold ambition, Rimsky-Korsakov thought it was a brilliant idea to trade crayons for a sailor's hat and embark on a journey into the Imperial Russian Navy. He headed off to the prestigious School for Mathematical and Navigational Sciences in Saint Petersburg, where he likely spent too much time navigating through his feelings instead of the actual math!"
     },
     {
-      "event": "Involved in The Five",
-      "summary": "He teamed up with four other Russian composers to form 'The Five', aiming to make a homegrown style of music, probably while arguing over who gets to wear the coolest hat.",
-      "year": 1860,
-      "city": "Saint Petersburg",
-      "country": "Russia"
+      "section": "Biography",
+      "title": "Influence of Balakirev",
+      "summary": "In November 1861, Rimsky-Korsakov was introduced to Mily Balakirev, who played a significant role in encouraging him to compose music and helped him develop his musical skills further.",
+      "year": 1861,
+      "location": "Saint Petersburg, Russia",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "In November 1861, Rimsky-Korsakov met Mily Balakirev, a music guru who played a significant role in encouraging him to compose and helped him develop his skills, turning him from a novice into a tinkling genius."
     },
     {
-      "event": "Wrote the opera 'The Snow Maiden'",
-      "summary": "Rimsky-Korsakov brought winter wonderlands to the opera house, proving that frozen princesses sing just as beautifully as sunbaked ones.",
-      "year": 1882,
-      "city": "Saint Petersburg",
-      "country": "Russia"
+      "section": "Biography",
+      "title": "First Symphony Performance",
+      "summary": "Rimsky-Korsakov's symphony, initially begun earlier, saw its first public performance in December 1865 under the direction of Balakirev, marking his emergence as a composer.",
+      "year": 1865,
+      "location": "Saint Petersburg, Russia",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Rimsky-Korsakov\u2019s symphony finally strutted its stuff on stage in December 1865! Conducted by Balakirev\u2014who probably wore more than one hat that night\u2014this performance was like the symphonic version of a double rainbow, marking his emergence as a composer!"
     },
     {
-      "event": "Taught at the Conservatory",
-      "summary": "He turned from composing to educating, perhaps hoping to turn his students into the next great Russian composers without the use of magic spells.",
-      "year": 1874,
-      "city": "Saint Petersburg",
-      "country": "Russia"
+      "section": "Biography",
+      "title": "Professor at the Conservatory",
+      "summary": "By 1871, Rimsky-Korsakov had secured the position of Professor of Practical Composition and Instrumentation at the Saint Petersburg Conservatory, a role that greatly bolstered his reputation.",
+      "year": 1871,
+      "location": "Saint Petersburg, Russia",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "By 1871, Rimsky-Korsakov had snagged the prestigious title of Professor of Practical Composition and Instrumentation at the Saint Petersburg Conservatory, a position that not only had him feeling like a musical rock star but also greatly bolstered his reputation! It's like getting a gold star\u2014except the star is a symphony and the teachers are dressed like they just wandered off a Tchaikovsky set!"
+    },
+    {
+      "section": "Biography",
+      "title": "Marriage to Nadezhda Purgold",
+      "summary": "In July 1872, Rimsky-Korsakov married Nadezhda Purgold, who would become an essential partner in his life and career, influencing his musical works and supporting his endeavors.",
+      "year": 1872,
+      "location": "Saint Petersburg, Russia",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "In July 1872, Rimsky-Korsakov married Nadezhda Purgold, who would become an essential partner in his life and career, influencing his musical works and supporting his endeavors. Little did he know that marrying her would be like bringing a second conductor onto the stage of his life\u2014complete with cue cards! Nadezhda became not just the love of his life, but also the ultimate fan club president."
+    },
+    {
+      "section": "Biography",
+      "title": "Conductor at Russian Symphony Concerts",
+      "summary": "In the late 1880s, Rimsky-Korsakov began conducting at the Russian Symphony Concerts, a platform that allowed him to promote Russian compositions, including his own notable works.",
+      "year": 1886,
+      "location": "Saint Petersburg, Russia",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "In the late 1880s, Rimsky-Korsakov began conducting at the Russian Symphony Concerts, where he could wave his baton and highlight Russian compositions, including his own notable works, without anyone asking to see his conductor's license."
+    },
+    {
+      "section": "Biography",
+      "title": "Death",
+      "summary": "Rimsky-Korsakov passed away in 1908, with his legacy living on through his music and influence in the realm of Russian classical music, as he was buried in Tikhvin Cemetery.",
+      "year": 1908,
+      "location": "Lubensk estate near Luga, Russia",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Rimsky-Korsakov passed away in 1908, but don\u2019t worry \u2013 his music is still partying on in the classic Russian music scene. He was buried in Tikhvin Cemetery, where his melodies are out there making friends!"
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/Allegretto_in_C_major_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1895,
-      "title": "Allegretto in C major"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/At_the_Grave,_Op.61_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1904,
-      "title": "At the Grave, Op.61"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/At_the_Monastery_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1878,
-      "title": "At the Monastery"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/By_the_Sea,_Op.46_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1897,
-      "title": "By the Sea, Op.46"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Canzonetta_and_Tarantella_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1883,
-      "title": "Canzonetta and Tarantella"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Capriccio_espagnol,_Op.34_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1887,
-      "title": "Capriccio espagnol, Op.34"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Chanson_russe,_Op.62_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1905,
-      "title": "Chanson russe, Op.62"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Choruses,_Op.13_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1874,
-      "title": "2 Choruses, Op.13"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Choruses,_Op.23_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1876,
-      "title": "4 Choruses, Op.23"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Christmas_Eve_(opera)_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1894,
-      "title": "Christmas Eve"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Christmas_Eve_(suite)_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1903,
-      "title": "Christmas Eve"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Clarinet_Concerto_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1878,
-      "title": "Clarinet Concerto"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Concert_Fantasia_on_Russian_Themes,_Op.33_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1886,
-      "title": "Concert Fantasia on Russian Themes, Op.33"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Dragonflies,_Op.53_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1897,
-      "title": "Dragonflies, Op.53"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Duets,_Op.52_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1897,
-      "title": "2 Duets, Op.52"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fairy_Tale,_Op.29_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1879,
-      "title": "Fairy Tale, Op.29"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fantasia_on_Serbian_Themes,_Op.6_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1867,
-      "title": "Fantasia on Serbian Themes, Op.6"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Flight_of_the_Bumblebee_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1899,
-      "title": "Flight of the Bumblebee"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fugue_in_G_minor_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1875,
-      "title": "Fugue in G minor"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Fugues,_Op.17_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1875,
-      "title": "6 Fugues, Op.17"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Golden_Cockerel_(opera)_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1906,
-      "title": "The Golden Cockerel"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/In_Spring,_Op.43_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1897,
-      "title": "In Spring, Op.43"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Introduction_to_%27The_Stone_Guest%27_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1903,
-      "title": "Introduction to 'The Stone Guest'"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Invisible_City_of_Kitezh_(opera)_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1903,
-      "title": "The Invisible City of Kitezh"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Invisible_City_of_Kitezh_(suite)_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1907,
-      "title": "The Invisible City of Kitezh"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Kashchey_the_Immortal_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1901,
-      "title": "Kashchey the Immortal"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Little_Song_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1901,
-      "title": "Little Song"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Liturgy_of_St._John_Chrysostom,_Op.22_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1883,
-      "title": "Liturgy of St. John Chrysostom, Op.22"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Maid_of_Pskov_(incidental_music)_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1877,
-      "title": "The Maid of Pskov"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Maid_of_Pskov_(opera)_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1868,
-      "title": "The Maid of Pskov"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/May_Night_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1878,
-      "title": "May Night"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Mazurka_on_Polish_Themes_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1888,
-      "title": "Mazurka on Polish Themes"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Mlada_(opera-ballet)_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1889,
-      "title": "Mlada"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Mlada_(suite)_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1894,
-      "title": "Mlada"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Morceaux,_Op.11_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1876,
-      "title": "4 Morceaux, Op.11"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Morceaux,_Op.15_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1875,
-      "title": "3 Morceaux, Op.15"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Mozart_and_Salieri,_Op.48_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1897,
-      "title": "Mozart and Salieri, Op.48"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Night_on_Mount_Triglav_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1899,
-      "title": "Night on Mount Triglav"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Noblewoman_Vera_Sheloga,_Op.54_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1898,
-      "title": "The Noblewoman Vera Sheloga, Op.54"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Overture_on_Russian_Themes,_Op.28_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1866,
-      "title": "Overture on Russian Themes, Op.28"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/A_Page_from_Homer,_Op.60_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1901,
-      "title": "A Page from Homer, Op.60"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Pan_Voyevoda_(opera)_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1902,
-      "title": "Pan Voyevoda"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Pan_Voyevoda_(suite),_Op.59_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1903,
-      "title": "Pan Voyevoda"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Concerto,_Op.30_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1882,
-      "title": "Piano Concerto, Op.30"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Piano_Pieces,_Op.38_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1894,
-      "title": "2 Piano Pieces, Op.38"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Trio_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1897,
-      "title": "Piano Trio"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Prelude_in_G_major_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1896,
-      "title": "Prelude in G major"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Quintet_in_B-flat_major_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1876,
-      "title": "Quintet in B-flat major"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Romances,_Op.2_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1865,
-      "title": "4 Romances, Op.2"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Romances,_Op.3_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1866,
-      "title": "4 Romances, Op.3"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Romances,_Op.4_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1866,
-      "title": "4 Romances, Op.4"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Romances,_Op.7_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1867,
-      "title": "4 Romances, Op.7"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Romances,_Op.8_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1868,
-      "title": "6 Romances, Op.8"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Romances,_Op.25_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1870,
-      "title": "2 Romances, Op.25"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Romances,_Op.26_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1882,
-      "title": "4 Romances, Op.26"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Romances,_Op.27_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1882,
-      "title": "4 Romances, Op.27"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Romances,_Op.39_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1897,
-      "title": "4 Romances, Op.39"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Romances,_Op.40_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1897,
-      "title": "4 Romances, Op.40"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Romances,_Op.41_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1897,
-      "title": "4 Romances, Op.41"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Romances,_Op.42_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1897,
-      "title": "4 Romances, Op.42"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Romances,_Op.49_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1882,
-      "title": "2 Romances, Op.49"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Romances,_Op.50_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1897,
-      "title": "4 Romances, Op.50"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Romances,_Op.51_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1897,
-      "title": "5 Romances, Op.51"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Romances,_Op.55_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1897,
-      "title": "4 Romances, Op.55"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Romances,_Op.56_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1898,
-      "title": "2 Romances, Op.56"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Russian_Easter_Festival,_Op.36_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1888,
-      "title": "Russian Easter Festival, Op.36"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/15_Russian_Folksongs,_Op.19_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1879,
-      "title": "15 Russian Folksongs, Op.19"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Sadko_(musical_tableau),_Op.5_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1867,
-      "title": "Sadko"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Sadko_(opera)_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1896,
-      "title": "Sadko"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Scheherazade,_Op.35_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1888,
-      "title": "Scheherazade, Op.35"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Serenade,_Op.37_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1893,
-      "title": "Serenade, Op.37"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Servilia_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1900,
-      "title": "Servilia"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Sinfonietta_on_Russian_Themes,_Op.31_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1879,
-      "title": "Sinfonietta on Russian Themes, Op.31"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Slava!,_Op.21_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1879,
-      "title": "Slava!, Op.21"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Snow_Maiden_(opera)_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1880,
-      "title": "The Snow Maiden"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Snow_Maiden_(suite)_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1895,
-      "title": "The Snow Maiden"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_F_major,_Op.12_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1875,
-      "title": "String Quartet in F major, Op.12"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_G_major_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1897,
-      "title": "String Quartet in G major"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Sextet_in_A_major_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1876,
-      "title": "String Sextet in A major"
-    },
-    {
+      "title": "Symphony No.1, Op.1",
       "imslp_url": "https://imslp.org/wiki/Symphony_No.1,_Op.1_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1861,
-      "title": "Symphony No.1, Op.1"
+      "year": 1861
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.2,_Op.9_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1868,
-      "title": "Symphony No.2, Op.9"
+      "title": "4 Romances, Op.2",
+      "imslp_url": "https://imslp.org/wiki/4_Romances,_Op.2_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1865
     },
     {
+      "title": "4 Romances, Op.3",
+      "imslp_url": "https://imslp.org/wiki/4_Romances,_Op.3_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1866
+    },
+    {
+      "title": "4 Romances, Op.4",
+      "imslp_url": "https://imslp.org/wiki/4_Romances,_Op.4_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1866
+    },
+    {
+      "title": "Overture on Russian Themes, Op.28",
+      "imslp_url": "https://imslp.org/wiki/Overture_on_Russian_Themes,_Op.28_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1866
+    },
+    {
+      "title": "Symphony No.3, Op.32",
       "imslp_url": "https://imslp.org/wiki/Symphony_No.3,_Op.32_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1866,
-      "title": "Symphony No.3, Op.32"
+      "year": 1866
     },
     {
-      "imslp_url": "https://imslp.org/wiki/The_Tale_of_Tsar_Saltan_(opera)_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1899,
-      "title": "The Tale of Tsar Saltan"
+      "title": "4 Romances, Op.7",
+      "imslp_url": "https://imslp.org/wiki/4_Romances,_Op.7_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1867
     },
     {
-      "imslp_url": "https://imslp.org/wiki/The_Tale_of_Tsar_Saltan_(suite),_Op.57_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1901,
-      "title": "The Tale of Tsar Saltan"
+      "title": "Fantasia on Serbian Themes, Op.6",
+      "imslp_url": "https://imslp.org/wiki/Fantasia_on_Serbian_Themes,_Op.6_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1867
     },
     {
-      "imslp_url": "https://imslp.org/wiki/To_the_Poet,_Op.45_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1897,
-      "title": "To the Poet, Op.45"
+      "title": "Sadko (musical tableau), Op.5",
+      "imslp_url": "https://imslp.org/wiki/Sadko_(musical_tableau),_Op.5_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1867
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Trombone_Concerto_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1877,
-      "title": "Trombone Concerto"
+      "title": "6 Romances, Op.8",
+      "imslp_url": "https://imslp.org/wiki/6_Romances,_Op.8_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1868
     },
     {
-      "imslp_url": "https://imslp.org/wiki/The_Tsar%27s_Bride_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1898,
-      "title": "The Tsar's Bride"
+      "title": "Symphony No.2, Op.9",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.2,_Op.9_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1868
     },
     {
+      "title": "The Maid of Pskov (opera)",
+      "imslp_url": "https://imslp.org/wiki/The_Maid_of_Pskov_(opera)_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1868
+    },
+    {
+      "title": "2 Romances, Op.25",
+      "imslp_url": "https://imslp.org/wiki/2_Romances,_Op.25_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1870
+    },
+    {
+      "title": "2 Choruses, Op.13",
+      "imslp_url": "https://imslp.org/wiki/2_Choruses,_Op.13_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1874
+    },
+    {
+      "title": "3 Morceaux, Op.15",
+      "imslp_url": "https://imslp.org/wiki/3_Morceaux,_Op.15_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1875
+    },
+    {
+      "title": "4 Variations and Fughetta, Op.14",
       "imslp_url": "https://imslp.org/wiki/4_Variations_and_Fughetta,_Op.14_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1875,
-      "title": "4 Variations and Fughetta, Op.14"
+      "year": 1875
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Variations_on_a_Theme_by_Glinka_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1878,
-      "title": "Variations on a Theme by Glinka"
+      "title": "6 Fugues, Op.17",
+      "imslp_url": "https://imslp.org/wiki/6_Fugues,_Op.17_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1875
     },
     {
+      "title": "Fugue in G minor",
+      "imslp_url": "https://imslp.org/wiki/Fugue_in_G_minor_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1875
+    },
+    {
+      "title": "String Quartet in F major, Op.12",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_F_major,_Op.12_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1875
+    },
+    {
+      "title": "4 Choruses, Op.23",
+      "imslp_url": "https://imslp.org/wiki/4_Choruses,_Op.23_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1876
+    },
+    {
+      "title": "4 Morceaux, Op.11",
+      "imslp_url": "https://imslp.org/wiki/4_Morceaux,_Op.11_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1876
+    },
+    {
+      "title": "Quintet in B-flat major",
+      "imslp_url": "https://imslp.org/wiki/Quintet_in_B-flat_major_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1876
+    },
+    {
+      "title": "String Sextet in A major",
+      "imslp_url": "https://imslp.org/wiki/String_Sextet_in_A_major_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1876
+    },
+    {
+      "title": "The Maid of Pskov (incidental music)",
+      "imslp_url": "https://imslp.org/wiki/The_Maid_of_Pskov_(incidental_music)_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1877
+    },
+    {
+      "title": "Trombone Concerto",
+      "imslp_url": "https://imslp.org/wiki/Trombone_Concerto_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1877
+    },
+    {
+      "title": "6 Variations on the Theme B-A-C-H, Op.10",
       "imslp_url": "https://imslp.org/wiki/6_Variations_on_the_Theme_B-A-C-H,_Op.10_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1878,
-      "title": "6 Variations on the Theme B-A-C-H, Op.10"
+      "year": 1878
     },
     {
+      "title": "At the Monastery",
+      "imslp_url": "https://imslp.org/wiki/At_the_Monastery_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1878
+    },
+    {
+      "title": "Clarinet Concerto",
+      "imslp_url": "https://imslp.org/wiki/Clarinet_Concerto_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1878
+    },
+    {
+      "title": "May Night",
+      "imslp_url": "https://imslp.org/wiki/May_Night_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1878
+    },
+    {
+      "title": "Variations on a Theme by Glinka",
+      "imslp_url": "https://imslp.org/wiki/Variations_on_a_Theme_by_Glinka_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1878
+    },
+    {
+      "title": "15 Russian Folksongs, Op.19",
+      "imslp_url": "https://imslp.org/wiki/15_Russian_Folksongs,_Op.19_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1879
+    },
+    {
+      "title": "Fairy Tale, Op.29",
+      "imslp_url": "https://imslp.org/wiki/Fairy_Tale,_Op.29_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1879
+    },
+    {
+      "title": "Sinfonietta on Russian Themes, Op.31",
+      "imslp_url": "https://imslp.org/wiki/Sinfonietta_on_Russian_Themes,_Op.31_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1879
+    },
+    {
+      "title": "Slava!, Op.21",
+      "imslp_url": "https://imslp.org/wiki/Slava!,_Op.21_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1879
+    },
+    {
+      "title": "The Snow Maiden (opera)",
+      "imslp_url": "https://imslp.org/wiki/The_Snow_Maiden_(opera)_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1880
+    },
+    {
+      "title": "2 Romances, Op.49",
+      "imslp_url": "https://imslp.org/wiki/2_Romances,_Op.49_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1882
+    },
+    {
+      "title": "4 Romances, Op.26",
+      "imslp_url": "https://imslp.org/wiki/4_Romances,_Op.26_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1882
+    },
+    {
+      "title": "4 Romances, Op.27",
+      "imslp_url": "https://imslp.org/wiki/4_Romances,_Op.27_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1882
+    },
+    {
+      "title": "Piano Concerto, Op.30",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto,_Op.30_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1882
+    },
+    {
+      "title": "Canzonetta and Tarantella",
+      "imslp_url": "https://imslp.org/wiki/Canzonetta_and_Tarantella_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1883
+    },
+    {
+      "title": "Liturgy of St. John Chrysostom, Op.22",
+      "imslp_url": "https://imslp.org/wiki/Liturgy_of_St._John_Chrysostom,_Op.22_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1883
+    },
+    {
+      "title": "We Praise Thee, O God",
       "imslp_url": "https://imslp.org/wiki/We_Praise_Thee,_O_God_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1883,
-      "title": "We Praise Thee, O God"
+      "year": 1883
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Collection_of_100_Russian_Folksongs,_Op.24_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1875,
-      "title": "Collection of 100 Russian Folksongs, Op.24"
+      "title": "Concert Fantasia on Russian Themes, Op.33",
+      "imslp_url": "https://imslp.org/wiki/Concert_Fantasia_on_Russian_Themes,_Op.33_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1886
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Practical_Manual_of_Harmony_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1886,
-      "title": "Practical Manual of Harmony"
+      "title": "Capriccio espagnol, Op.34",
+      "imslp_url": "https://imslp.org/wiki/Capriccio_espagnol,_Op.34_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1887
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Principles_of_Orchestration_(Rimsky-Korsakov,_Nikolay)",
-      "year": 1873,
-      "title": "Principles of Orchestration"
+      "title": "Mazurka on Polish Themes",
+      "imslp_url": "https://imslp.org/wiki/Mazurka_on_Polish_Themes_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1888
+    },
+    {
+      "title": "Russian Easter Festival, Op.36",
+      "imslp_url": "https://imslp.org/wiki/Russian_Easter_Festival,_Op.36_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1888
+    },
+    {
+      "title": "Scheherazade, Op.35",
+      "imslp_url": "https://imslp.org/wiki/Scheherazade,_Op.35_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1888
+    },
+    {
+      "title": "Mlada (opera-ballet)",
+      "imslp_url": "https://imslp.org/wiki/Mlada_(opera-ballet)_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1889
+    },
+    {
+      "title": "Serenade, Op.37",
+      "imslp_url": "https://imslp.org/wiki/Serenade,_Op.37_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1893
+    },
+    {
+      "title": "2 Piano Pieces, Op.38",
+      "imslp_url": "https://imslp.org/wiki/2_Piano_Pieces,_Op.38_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1894
+    },
+    {
+      "title": "Christmas Eve (opera)",
+      "imslp_url": "https://imslp.org/wiki/Christmas_Eve_(opera)_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1894
+    },
+    {
+      "title": "Mlada (suite)",
+      "imslp_url": "https://imslp.org/wiki/Mlada_(suite)_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1894
+    },
+    {
+      "title": "Allegretto in C major",
+      "imslp_url": "https://imslp.org/wiki/Allegretto_in_C_major_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1895
+    },
+    {
+      "title": "The Snow Maiden (suite)",
+      "imslp_url": "https://imslp.org/wiki/The_Snow_Maiden_(suite)_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1895
+    },
+    {
+      "title": "Prelude in G major",
+      "imslp_url": "https://imslp.org/wiki/Prelude_in_G_major_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1896
+    },
+    {
+      "title": "Sadko (opera)",
+      "imslp_url": "https://imslp.org/wiki/Sadko_(opera)_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1896
+    },
+    {
+      "title": "2 Duets, Op.52",
+      "imslp_url": "https://imslp.org/wiki/2_Duets,_Op.52_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1897
+    },
+    {
+      "title": "4 Romances, Op.39",
+      "imslp_url": "https://imslp.org/wiki/4_Romances,_Op.39_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1897
+    },
+    {
+      "title": "4 Romances, Op.40",
+      "imslp_url": "https://imslp.org/wiki/4_Romances,_Op.40_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1897
+    },
+    {
+      "title": "4 Romances, Op.41",
+      "imslp_url": "https://imslp.org/wiki/4_Romances,_Op.41_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1897
+    },
+    {
+      "title": "4 Romances, Op.42",
+      "imslp_url": "https://imslp.org/wiki/4_Romances,_Op.42_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1897
+    },
+    {
+      "title": "4 Romances, Op.50",
+      "imslp_url": "https://imslp.org/wiki/4_Romances,_Op.50_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1897
+    },
+    {
+      "title": "4 Romances, Op.55",
+      "imslp_url": "https://imslp.org/wiki/4_Romances,_Op.55_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1897
+    },
+    {
+      "title": "5 Romances, Op.51",
+      "imslp_url": "https://imslp.org/wiki/5_Romances,_Op.51_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1897
+    },
+    {
+      "title": "By the Sea, Op.46",
+      "imslp_url": "https://imslp.org/wiki/By_the_Sea,_Op.46_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1897
+    },
+    {
+      "title": "Dragonflies, Op.53",
+      "imslp_url": "https://imslp.org/wiki/Dragonflies,_Op.53_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1897
+    },
+    {
+      "title": "In Spring, Op.43",
+      "imslp_url": "https://imslp.org/wiki/In_Spring,_Op.43_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1897
+    },
+    {
+      "title": "Mozart and Salieri, Op.48",
+      "imslp_url": "https://imslp.org/wiki/Mozart_and_Salieri,_Op.48_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1897
+    },
+    {
+      "title": "Piano Trio",
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1897
+    },
+    {
+      "title": "String Quartet in G major",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_G_major_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1897
+    },
+    {
+      "title": "To the Poet, Op.45",
+      "imslp_url": "https://imslp.org/wiki/To_the_Poet,_Op.45_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1897
+    },
+    {
+      "title": "2 Romances, Op.56",
+      "imslp_url": "https://imslp.org/wiki/2_Romances,_Op.56_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1898
+    },
+    {
+      "title": "The Noblewoman Vera Sheloga, Op.54",
+      "imslp_url": "https://imslp.org/wiki/The_Noblewoman_Vera_Sheloga,_Op.54_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1898
+    },
+    {
+      "title": "The Tsar's Bride",
+      "imslp_url": "https://imslp.org/wiki/The_Tsar's_Bride_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1898
+    },
+    {
+      "title": "Night on Mount Triglav",
+      "imslp_url": "https://imslp.org/wiki/Night_on_Mount_Triglav_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1899
+    },
+    {
+      "title": "The Tale of Tsar Saltan (opera)",
+      "imslp_url": "https://imslp.org/wiki/The_Tale_of_Tsar_Saltan_(opera)_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1899
+    },
+    {
+      "title": "Servilia",
+      "imslp_url": "https://imslp.org/wiki/Servilia_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1900
+    },
+    {
+      "title": "A Page from Homer, Op.60",
+      "imslp_url": "https://imslp.org/wiki/A_Page_from_Homer,_Op.60_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1901
+    },
+    {
+      "title": "Kashchey the Immortal",
+      "imslp_url": "https://imslp.org/wiki/Kashchey_the_Immortal_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1901
+    },
+    {
+      "title": "Little Song",
+      "imslp_url": "https://imslp.org/wiki/Little_Song_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1901
+    },
+    {
+      "title": "The Tale of Tsar Saltan (suite), Op.57",
+      "imslp_url": "https://imslp.org/wiki/The_Tale_of_Tsar_Saltan_(suite),_Op.57_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1901
+    },
+    {
+      "title": "Pan Voyevoda (opera)",
+      "imslp_url": "https://imslp.org/wiki/Pan_Voyevoda_(opera)_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1902
+    },
+    {
+      "title": "Christmas Eve (suite)",
+      "imslp_url": "https://imslp.org/wiki/Christmas_Eve_(suite)_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1903
+    },
+    {
+      "title": "Introduction to 'The Stone Guest'",
+      "imslp_url": "https://imslp.org/wiki/Introduction_to_'The_Stone_Guest'_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1903
+    },
+    {
+      "title": "Pan Voyevoda (suite), Op.59",
+      "imslp_url": "https://imslp.org/wiki/Pan_Voyevoda_(suite),_Op.59_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1903
+    },
+    {
+      "title": "The Invisible City of Kitezh (opera)",
+      "imslp_url": "https://imslp.org/wiki/The_Invisible_City_of_Kitezh_(opera)_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1903
+    },
+    {
+      "title": "At the Grave, Op.61",
+      "imslp_url": "https://imslp.org/wiki/At_the_Grave,_Op.61_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1904
+    },
+    {
+      "title": "Chanson russe, Op.62",
+      "imslp_url": "https://imslp.org/wiki/Chanson_russe,_Op.62_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1905
+    },
+    {
+      "title": "The Golden Cockerel (opera)",
+      "imslp_url": "https://imslp.org/wiki/The_Golden_Cockerel_(opera)_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1906
+    },
+    {
+      "title": "The Invisible City of Kitezh (suite)",
+      "imslp_url": "https://imslp.org/wiki/The_Invisible_City_of_Kitezh_(suite)_(Rimsky-Korsakov,_Nikolay)",
+      "year": 1907
     }
   ]
 }

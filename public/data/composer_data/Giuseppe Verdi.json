@@ -1,510 +1,292 @@
 {
   "full_name": "Giuseppe Verdi",
-  "first_names": "Giuseppe",
+  "first_names": "Giuseppe Fortunino Francesco",
   "last_name": "Verdi",
   "birth_year": 1813,
   "death_year": 1901,
   "wikipedia_url": "https://en.wikipedia.org/wiki/Giuseppe_Verdi",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Giuseppe Verdi was welcomed into the world in a small village, with his parents marking him as a 'born yesterday' child. This charming mix-up between the sunset clock and a birthday led to the grand confusion over his actual birth date, with Verdi proudly claiming October 9th as his special day.",
+      "section": "Life",
+      "title": "Birth",
+      "summary": "Giuseppe Verdi was born in Le Roncole, a village near Busseto, to Carlo Giuseppe Verdi and Luigia Uttini. His parents were innkeeper and spinner respectively, and Verdi was baptized a day after his birth, although he celebrated his birthday on the 9th of October, the day he believed he was born.",
       "year": 1813,
-      "city": "Le Roncole",
-      "country": "Italy"
+      "location": "Le Roncole, Italy",
+      "emoji": "\ud83c\udf89",
+      "fun_version": "Giuseppe Verdi was born in Le Roncole, a village near Busseto, to Carlo Giuseppe Verdi and Luigia Uttini. His parents were innkeeper and spinner. Verdi was baptized a day after his birth to ensure he could start singing his own praises by the 9th of October, which he proudly celebrates as his birthday."
     },
     {
-      "event": "First public performance",
-      "summary": "Verdi, at the tender age of 13, took to the public stage and blew everyone away with his own compositions. Imagine the astonishment when the little boy who used to play in church turned out to be a musical genius right in front of their eyes!",
+      "section": "Life",
+      "title": "Early Education",
+      "summary": "At the age of 4, Verdi began private lessons in Latin and Italian. He soon joined a local school, eventually becoming the official paid organist of the local church by age 8, showcasing his early talent in music.",
+      "year": 1820,
+      "location": "Busseto, Italy",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "When Verdi was just a wee lad of four, he opted for private lessons in Latin and Italian instead. By the time he hit eight, not only was he a local school star, but he had also become the official paid organist of the local church, showcasing his early talent in music. Watch out world, we've got a pint-sized maestro with a flair for music and a penchant for languages!"
+    },
+    {
+      "section": "Life",
+      "title": "First Public Performance",
+      "summary": "Verdi was asked to replace a musician at a public event in his hometown, marking his first public performance at the age of 13, which was well-received and established him in the local music community.",
       "year": 1827,
-      "city": "Busseto",
-      "country": "Italy"
+      "location": "Busseto, Italy",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "Verdi was asked to jump in for a musician at a public event in his hometown, marking his first public performance at the age of 13. His performance was so well-received that it basically secured him an honorary membership in the \"I Rock at 13\" club of the local music community."
     },
     {
-      "event": "First opera debut",
-      "summary": "Our dear Verdi transformed into a maestro! His reworked opera Oberto had its premiere, receiving quite the applause\u2014a modest 13 performances that made him the talk of the town and even scored him future contracts. A true 'Oberto' level success!",
-      "year": 1839,
-      "city": "Milan",
-      "country": "Italy"
+      "section": "Life",
+      "title": "Marriage to Margherita Barezzi",
+      "summary": "Verdi married Margherita Barezzi, the daughter of his patron Antonio Barezzi. This partnership not only marked a personal union but also was significant for Verdi's career as he gained further support in music.",
+      "year": 1836,
+      "location": "Busseto, Italy",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "Verdi married Margherita Barezzi, the daughter of his fan club president, Antonio Barezzi. They say behind every great composer is a supportive wife and a hefty slice of patronage \u2013 but in this case, it was more like a duet of love and side gigs!"
     },
     {
-      "event": "Loss of his first wife",
-      "summary": "Tragedy struck when Margherita, Verdi's beloved wife and mother of his children, passed away. Though he was devastated, he humorously vowed to never compose again\u2014only to break that vow with his next big hit (proving once more that composers have a penchant for dramatic flair).",
-      "year": 1840,
-      "city": "Milan",
-      "country": "Italy"
+      "section": "Life",
+      "title": "Birth of First Child",
+      "summary": "Verdi and Margherita welcomed their first child, Virginia Maria Luigia, into their family. This event filled their lives with joy, but it was soon followed by tragedy.",
+      "year": 1837,
+      "location": "Busseto, Italy",
+      "emoji": "\ud83d\udc76\ud83d\udc94",
+      "fun_version": "Verdi and Margherita just got promoted to 'parents' with their first bundle of joy, Virginia Maria Luigia! Their lives are now filled with joy - and a bit more noise than usual, which is ironic given the tragic twist that unexpectedly followed."
     },
     {
-      "event": "Nabucco success",
-      "summary": "Verdi\u2019s opera Nabucco debuted and was an instant legend, to the point that people might say it was the musical equivalent of a double-layered chocolate cake at a birthday party. It was a massive hit, and the famous chorus 'Va, pensiero' became the unofficial anthem for Italy\u2019s unification.",
+      "section": "Life",
+      "title": "Premiere of Nabucco",
+      "summary": "Nabucco, which Verdi had composed after a period of personal grief, premiered successfully, marking a turning point in his career and solidifying his reputation as a significant composer.",
       "year": 1842,
-      "city": "Milan",
-      "country": "Italy"
+      "location": "Milan, Italy",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Nabucco, which Verdi composed after a period of personal grief, premiered successfully, marking a turning point in his career and solidifying his reputation as a significant composer, all while making audiences laugh."
     },
     {
-      "event": "Acquisition of land",
-      "summary": "With his newfound fame and prosperity, Verdi decided to trade in his composing quill for a shovel, investing in farmland near his childhood home. Who knew the great composer had dreams of being a farmer? Talk about a plot twist!",
-      "year": 1844,
-      "city": "Busseto",
-      "country": "Italy"
-    },
-    {
-      "event": "Creation of late masterpieces",
-      "summary": "After a long, successful career, Verdi shocked everyone by returning to the stage with not one, not two, but three glorious pieces: a Requiem and the operas Otello and Falstaff. Much like a phoenix rising, he proved that good things come to those who wait\u2014and he certainly waited!",
-      "year": 1874,
-      "city": "Milan",
-      "country": "Italy"
-    },
-    {
-      "event": "Construction of Villa Verdi",
-      "summary": "Verdi decided that living in a house was more appealing than being a nomad, so he built the Villa Verdi in Busseto, completing it in 1880. It's the only place where he could ensure his piano had the company of his own curtains and not just another hotel lobby.",
-      "year": 1880,
-      "city": "Busseto",
-      "country": "Italy"
-    },
-    {
-      "event": "Success of Nabucco",
-      "summary": "Verdi hit the jackpot with his opera Nabucco, which was performed twenty-five times in Venice during the 1842/43 season. It's like he was the fashion designer of the operatic world; suddenly everyone wanted to wear his creations\u2014and then promptly snag them on something!",
-      "year": 1843,
-      "city": "Venice",
-      "country": "Italy"
-    },
-    {
-      "event": "Marriage with Giuseppina Strepponi",
-      "summary": "Despite the drama and gossip surrounding their relationship, Verdi and Strepponi finally decided to tie the knot. After all, nothing screams commitment like a couple making it official after many public whispers and an illegitimate child or two!",
+      "section": "Life",
+      "title": "Marriage to Giuseppina Strepponi",
+      "summary": "After a long relationship that faced social challenges, Verdi married Giuseppina Strepponi, an opera singer, making their partnership a central part of his personal life.",
       "year": 1859,
-      "city": "Paris",
-      "country": "France"
+      "location": "Collonges-sous-Sal\u00e8ve, France",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "Verdi finally put a ring on it! After navigating the wild roller coaster of love, social challenges included, he decided to marry Giuseppina Strepponi\u2014a real-life diva who can hit notes higher than his stress levels after a bad performance! Their partnership became a central part of his personal life, and it seems that their duet wasn't just for the stage but also for life!"
     },
     {
-      "event": "Premiere of Ernani",
-      "summary": "Verdi premiered Ernani in 1844, and within six months it caused a sensation, spreading like wildfire to twenty other theaters. It's hard to say whether the opera was a masterpiece or just incredibly catchy, but audiences couldn't get enough!",
-      "year": 1844,
-      "city": "Venice",
-      "country": "Italy"
-    },
-    {
-      "event": "Creation of Rigoletto",
-      "summary": "In a moment of brilliance (and defiance), Verdi crafted Rigoletto, which had a Duke who sang and schemed amidst a backdrop of royal murder. He didn\u2019t just write an opera; he wrote a melodrama worthy of the worst soap operas, yet people loved it!",
-      "year": 1851,
-      "city": "Venice",
-      "country": "Italy"
-    },
-    {
-      "event": "Completion of Il trovatore",
-      "summary": "Verdi finally concluded Il trovatore, arguably after a good cry over losing his mother. The opera did more than play to the audience's emotions; it revolutionized the operatic world, proving that even familial loss could lead to art that transcends tragedy!",
-      "year": 1853,
-      "city": "Unknown",
-      "country": "Italy"
-    },
-    {
-      "event": "Award of the Order of Chevalier",
-      "summary": "After impressing the Parisians, Verdi received the prestigious Order of Chevalier of the Legion of Honour. It was more than just a fancy title; it proved he could charm even the most cultured snobs of the time, all while composing his heart out!",
-      "year": 1847,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Creation of La traviata",
-      "summary": "Verdi unveiled La traviata, an opera that scandalized some and enchanted others. It was the kind of drama that made audiences gasp\u2014who knew that being a courtesan in love could be so delightful and tragic at the same time?",
-      "year": 1853,
-      "city": "Venice",
-      "country": "Italy"
-    },
-    {
-      "event": "Decision to go to Paris",
-      "summary": "In the winter of the early 1850s, Verdi thought, 'Why not head to Paris with my partner and write some epic opera?' Thus, he ventured to the artistic capital, where the Op\u00e9ra signed him up to create Les v\u00eapres siciliennes, a grand opera that even his neighbor\u2019s cat would eventually appreciate.",
-      "year": 1852,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Completion and premiere of La traviata",
-      "summary": "Verdi, convinced that his latest opera was about as popular as a skunk at a garden party, completed La traviata amidst doubts about his cast. The premiere turned into a flop, leading him to ponder if the fault lay with him or the singers\u2014definitely a head-scratcher for the ages!",
-      "year": 1853,
-      "city": "Venice",
-      "country": "Italy"
-    },
-    {
-      "event": "Marriage to Giuseppina Strepponi",
-      "summary": "Amidst a backdrop of military occupation and national upheaval, Verdi and Strepponi decided to tie the knot in a village with minimal witnesses\u2014essentially just their driver and the bell-ringer. A wedding fit for a composer, indeed!",
-      "year": 1859,
-      "city": "Collonges-sous-Sal\u00e8ve",
-      "country": "France"
-    },
-    {
-      "event": "Adoption of Filomena Maria Verdi",
-      "summary": "Verdi and Giuseppina, likely inspired by their grand adventures in parenthood, decided to adopt young Filomena. Not only did they gain a daughter, but they also ensured their estate had a proper heir without making a TV show out of it!",
-      "year": 1867,
-      "city": "Busseto",
-      "country": "Italy"
-    },
-    {
-      "event": "The commissioning and premiere of Aida",
-      "summary": "Commissioned by Egypt for a fancy opera house to celebrate the Suez Canal, Aida became the talk of the town\u2014even if Verdi secretly thought Ancient Egypt was overrated. The opera made a splash in Cairo, and suddenly everyone was an expert on pyramids!",
-      "year": 1871,
-      "city": "Cairo",
-      "country": "Egypt"
-    },
-    {
-      "event": "Supervision of Italian productions of Aida",
-      "summary": "Once Aida took off like a rocket, Verdi became the ultimate control freak, overseeing productions in Milan, Parma, and Naples, making sure they were all up to his high standards. Nothing less than perfection\u2014hardly a 'meh' performance would be tolerated!",
-      "year": 1872,
-      "city": "Milan",
-      "country": "Italy"
-    },
-    {
-      "event": "Completion of the Requiem",
-      "summary": "Verdi decided to honor the late poet Manzoni by completing his own Requiem, after previously working on a tribute to Rossini that sadly never saw the light of day. Now, that's the kind of project that just wouldn't die, even if it took nearly a decade and a different inspiration!",
-      "year": 1874,
-      "city": "Milan",
-      "country": "Italy"
-    },
-    {
-      "event": "Premiere of Otello",
-      "summary": "After a short retirement in the 'retirement home' of his mind, Verdi decided to burst back onto the scene with Otello! It premiered to great acclaim, proving that even grandmasters can still keep their fans on the edge of their seats. Like a prolonged game of peek-a-boo, it took a bit longer than expected, but the wait was worth it!",
-      "year": 1887,
-      "city": "Milan",
-      "country": "Italy"
-    },
-    {
-      "event": "First performance of Falstaff",
-      "summary": "Falstaff premiered to such raucous applause that it made Verdi wonder if he had actually turned back time and was a rocking teenager again. The ticket prices soared, and the evening was filled with so much cheers that some speculated that even the walls of La Scala were enjoying the show!",
-      "year": 1893,
-      "city": "Milan",
-      "country": "Italy"
-    },
-    {
-      "event": "Foundation of Casa di Riposo per Musicisti",
-      "summary": "In a touching gesture that showcased his softer side, Verdi built a home for retired musicians, proving that not all composers are just about the standing ovations. He basically said, 'When I'm done being fabulous, some musicians need a cozy place to kick back and reminisce about the glory days!' ",
-      "year": 1895,
-      "city": "Milan",
-      "country": "Italy"
-    },
-    {
-      "event": "Last major composition - Four Sacred Pieces",
-      "summary": "Verdi graced the world with his last major work, a reflection on the sacred, before telling Italy that he was off to the ultimate retirement party. Like an artist sealing their canvas, he left us with four pieces that said, 'Well, I did what I came to do, and boy, was that fun!\u2019",
-      "year": 1898,
-      "city": "Milan",
-      "country": "Italy"
-    },
-    {
-      "event": "Stroke and Death",
-      "summary": "In a twist that no one saw coming, Verdi suffered a stroke during a stay at the Grand Hotel, just when everything seemed to be going well. He decided that enough was enough and exited stage left, finishing the longest encore of life at the ripe age of 87. Who wants to live forever when you're Giuseppe Verdi?",
-      "year": 1901,
-      "city": "Milan",
-      "country": "Italy"
-    },
-    {
-      "event": "Creation of major operas",
-      "summary": "Verdi dives into the world of opera, crafting eight new masterpieces with a sprinkle of personal flair and a dash of theatrics, while saying goodbye to a productivity treadmill that made him feel like a hamster on a wheel.",
-      "year": 1850,
-      "city": "Busseto",
-      "country": "Italy"
-    },
-    {
-      "event": "The premiere of Rigoletto",
-      "summary": "At the age of 38, Verdi opens his doors to the middle period of his career with Rigoletto, ending the ottocento era like a grand magician revealing a new trick, showcasing individual action and drama that would make any soap opera proud.",
-      "year": 1851,
-      "city": "Venice",
-      "country": "Italy"
-    },
-    {
-      "event": "Political involvement",
-      "summary": "Caught up in the fervor of the Risorgimento, Verdi steps into the political arena, endearing himself to the public as he trades his conductor's baton for a politician's quill and ink, becoming a representative in the first Italian parliament.",
+      "section": "Legacy",
+      "title": "Cultural Impact of Operas",
+      "summary": "Verdi's operas like Nabucco were used as anthems, inspiring Italian patriots seeking unity and independence.",
       "year": 1861,
-      "city": "Rome",
-      "country": "Italy"
+      "location": "Italy",
+      "emoji": "\ud83c\uddee\ud83c\uddf9",
+      "fun_version": "Verdi\u2019s operas, like Nabucco, didn't just sit in dusty old theaters; they were the karaoke anthems of Italian patriots dreaming of unity and independence\u2014singing so passionately that even their cat probably rolled its eyes!"
     },
     {
-      "event": "Composition of Aida",
-      "summary": "Verdi responds to a commission with Aida, a spectacular opera that shouts 'look at me!' with grandiosity and drama, all while he jots down a cheeky string quartet in rehearsal like the ultimate multitasker.",
-      "year": 1871,
-      "city": "Cairo",
-      "country": "Egypt"
+      "section": "Legacy",
+      "title": "Political Participation",
+      "summary": "Verdi was personally active in the political events of the Risorgimento and was elected to the first Italian parliament.",
+      "year": 1861,
+      "location": "Italy",
+      "emoji": "\ud83c\uddee\ud83c\uddf9",
+      "fun_version": "Verdi was personally active in the political events of the Risorgimento; he also composed a pretty nifty political career\u2014so much so that they decided he needed to sit in the first Italian parliament!"
     },
     {
-      "event": "Premiering Otello",
-      "summary": "With Otello making its debut, Verdi proves he's still got game, as he creates musical mayhem amid the stormiest of openings\u2014showing even at his age, he could still steal the spotlight from Wagner's shadow.",
-      "year": 1887,
-      "city": "Milan",
-      "country": "Italy"
-    },
-    {
-      "event": "Final work, Falstaff",
-      "summary": "In a delightful twist, Verdi wraps up his illustrious career with Falstaff, where he miniaturizes his previous operatic forms into quick-witted, rhythmic chaos, much like trying to pack an opera into a single punchline.",
-      "year": 1893,
-      "city": "Milan",
-      "country": "Italy"
-    },
-    {
-      "event": "First Opera Premiere",
-      "summary": "Verdi's first opera premiered and surprisingly, it didn't star a singing cow or a knife-wielding chef but rather became a stepping stone to his illustrious future, proving he wasn't just all talk and no action.",
-      "year": 1839,
-      "city": "Milan",
-      "country": "Italy"
-    },
-    {
-      "event": "Aida Premiere",
-      "summary": "Aida, the opera with a plot so twisty it could give a spaghetti noodle a run for its money, premiered in Paris, cementing Verdi's reputation as the maestro of drama and intricate love triangles.",
-      "year": 1871,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Falstaff Premiere",
-      "summary": "He concluded his opera-writing career with Falstaff, a comedic masterpiece. Verdi, who had left audiences in tears before, now had them rolling on the floor laughing, proving he still had some tricks up his sleeve.",
-      "year": 1893,
-      "city": "Milan",
-      "country": "Italy"
-    },
-    {
-      "event": "Political Honors",
-      "summary": "He was honored with a Grand Officer's title after Aida's Paris premiere, which was nice, but not quite the 'Best Opera Composer' award, as that probably didn't exist yet and would have seemed suspiciously biased.",
-      "year": 1880,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Death",
-      "summary": "Verdi passed away, leaving behind a legacy of music that made audiences cheer, cry, and occasionally get a bit confused \u2014 a true testament to his genius, even if he didn\u2019t leave a map for those operatic plots.",
+      "section": "Life",
+      "title": "Death of Verdi",
+      "summary": "Giuseppe Verdi passed away at the age of 87, after an illustrious career as a composer. He left behind a legacy that transformed Italian opera and music globally.",
       "year": 1901,
-      "city": "Milan",
-      "country": "Italy"
-    },
-    {
-      "event": "First Opera",
-      "summary": "Verdi wrote his first opera, which probably made his parents wish he had chosen a simpler hobby like stamp collecting instead.",
-      "year": 1839,
-      "city": "Milan",
-      "country": "Italy"
-    },
-    {
-      "event": "Nabucco Premiered",
-      "summary": "The premiere of Nabucco took place, leading to the famous chorus 'Va, pensiero', which had audiences humming and realizing they should have taken singing lessons.",
-      "year": 1842,
-      "city": "Milan",
-      "country": "Italy"
-    },
-    {
-      "event": "Rigoletto's Launch",
-      "summary": "Rigoletto was unleashed upon the public, and it was such a hit that people likely forgot their lines on their own karaoke nights.",
-      "year": 1851,
-      "city": "Venice",
-      "country": "Italy"
-    },
-    {
-      "event": "La Traviata Debut",
-      "summary": "La Traviata debuted, stirring up emotions and causing patrons to consider dramatic exits during their own awkward gatherings.",
-      "year": 1853,
-      "city": "Venice",
-      "country": "Italy"
-    },
-    {
-      "event": "Aida's Premiere",
-      "summary": "Aida was introduced to the world, complete with elaborate sets and costumes that made even the best dressers in the audience take notes.",
-      "year": 1871,
-      "city": "Cairo",
-      "country": "Egypt"
-    },
-    {
-      "event": "Last Opera: Falstaff",
-      "summary": "Verdi composed his final opera, Falstaff, which left audiences chuckling and grateful that he went out with a comedic bang instead of a tragic whimper.",
-      "year": 1893,
-      "city": "Milan",
-      "country": "Italy"
+      "location": "Milan, Italy",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Giuseppe Verdi, who never met an opera he didn't like, took his final bow at the age of 87 after an illustrious career as a composer. He left behind a legacy that reshaped Italian opera and music globally, proving that a little drama is indeed good for the soul!"
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/A%C3%AFda_(Verdi,_Giuseppe)",
-      "year": 1870,
-      "title": "A\u00efda"
+      "title": "L'esule",
+      "imslp_url": "https://imslp.org/wiki/L'esule_(Verdi,_Giuseppe)",
+      "year": 1839
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Album_di_Sei_Romanze_(Verdi,_Giuseppe)",
-      "year": 1845,
-      "title": "Album di Sei Romanze"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Alzira_(Verdi,_Giuseppe)",
-      "year": 1845,
-      "title": "Alzira"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Aroldo_(Verdi,_Giuseppe)",
-      "year": 1856,
-      "title": "Aroldo"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Attila_(Verdi,_Giuseppe)",
-      "year": 1846,
-      "title": "Attila"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_battaglia_di_Legnano_(Verdi,_Giuseppe)",
-      "year": 1849,
-      "title": "La battaglia di Legnano"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Il_corsaro_(Verdi,_Giuseppe)",
-      "year": 1848,
-      "title": "Il corsaro"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Don_Carlos_(Verdi,_Giuseppe)",
-      "year": 1867,
-      "title": "Don Carlos"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/I_due_Foscari_(Verdi,_Giuseppe)",
-      "year": 1844,
-      "title": "I due Foscari"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ernani_(Verdi,_Giuseppe)",
-      "year": 1844,
-      "title": "Ernani"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/L%27esule_(Verdi,_Giuseppe)",
-      "year": 1839,
-      "title": "L'esule"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Falstaff_(Verdi,_Giuseppe)",
-      "year": 1893,
-      "title": "Falstaff"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_forza_del_destino_(Verdi,_Giuseppe)",
-      "year": 1862,
-      "title": "La forza del destino"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Giovanna_d%27Arco_(Verdi,_Giuseppe)",
-      "year": 1845,
-      "title": "Giovanna d'Arco"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Inno_delle_nazioni_(Verdi,_Giuseppe)",
-      "year": 1862,
-      "title": "Inno delle nazioni"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/J%C3%A9rusalem_(Verdi,_Giuseppe)",
-      "year": 1847,
-      "title": "J\u00e9rusalem"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/I_Lombardi_alla_prima_crociata_(Verdi,_Giuseppe)",
-      "year": 1843,
-      "title": "I Lombardi alla prima crociata"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Luisa_Miller_(Verdi,_Giuseppe)",
-      "year": 1849,
-      "title": "Luisa Miller"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Macbeth_(Verdi,_Giuseppe)",
-      "year": 1847,
-      "title": "Macbeth"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/I_masnadieri_(Verdi,_Giuseppe)",
-      "year": 1847,
-      "title": "I masnadieri"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Nabucco_(Verdi,_Giuseppe)",
-      "year": 1841,
-      "title": "Nabucco"
-    },
-    {
+      "title": "Oberto",
       "imslp_url": "https://imslp.org/wiki/Oberto_(Verdi,_Giuseppe)",
-      "year": 1839,
-      "title": "Oberto"
+      "year": 1839
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Otello_(Verdi,_Giuseppe)",
-      "year": 1885,
-      "title": "Otello"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Pater_noster_(Verdi,_Giuseppe)",
-      "year": 1873,
-      "title": "Pater noster"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Pezzi_sacri_(Verdi,_Giuseppe)",
-      "year": 1898,
-      "title": "4 Pezzi sacri"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Il_Poveretto_(Verdi,_Giuseppe)",
-      "year": 1843,
-      "title": "Il Poveretto"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Requiem_(Verdi,_Giuseppe)",
-      "year": 1874,
-      "title": "Requiem"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Rigoletto_(Verdi,_Giuseppe)",
-      "year": 1851,
-      "title": "Rigoletto"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Romanza_(Verdi,_Giuseppe)",
-      "year": 1865,
-      "title": "Romanza"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Simon_Boccanegra_(Verdi,_Giuseppe)",
-      "year": 1857,
-      "title": "Simon Boccanegra"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Stiffelio_(Verdi,_Giuseppe)",
-      "year": 1850,
-      "title": "Stiffelio"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_(Verdi,_Giuseppe)",
-      "year": 1873,
-      "title": "String Quartet"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_traviata_(Verdi,_Giuseppe)",
-      "year": 1853,
-      "title": "La traviata"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Il_trovatore_(Verdi,_Giuseppe)",
-      "year": 1852,
-      "title": "Il trovatore"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Un_ballo_in_maschera_(Verdi,_Giuseppe)",
-      "year": 1859,
-      "title": "Un ballo in maschera"
-    },
-    {
+      "title": "Un giorno di regno",
       "imslp_url": "https://imslp.org/wiki/Un_giorno_di_regno_(Verdi,_Giuseppe)",
-      "year": 1840,
-      "title": "Un giorno di regno"
+      "year": 1840
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Les_v%C3%AApres_siciliennes_(Verdi,_Giuseppe)",
-      "year": 1852,
-      "title": "Les v\u00eapres siciliennes"
+      "title": "Nabucco",
+      "imslp_url": "https://imslp.org/wiki/Nabucco_(Verdi,_Giuseppe)",
+      "year": 1841
     },
     {
+      "title": "I Lombardi alla prima crociata",
+      "imslp_url": "https://imslp.org/wiki/I_Lombardi_alla_prima_crociata_(Verdi,_Giuseppe)",
+      "year": 1843
+    },
+    {
+      "title": "Il Poveretto",
+      "imslp_url": "https://imslp.org/wiki/Il_Poveretto_(Verdi,_Giuseppe)",
+      "year": 1843
+    },
+    {
+      "title": "Ernani",
+      "imslp_url": "https://imslp.org/wiki/Ernani_(Verdi,_Giuseppe)",
+      "year": 1844
+    },
+    {
+      "title": "I due Foscari",
+      "imslp_url": "https://imslp.org/wiki/I_due_Foscari_(Verdi,_Giuseppe)",
+      "year": 1844
+    },
+    {
+      "title": "Album di Sei Romanze",
+      "imslp_url": "https://imslp.org/wiki/Album_di_Sei_Romanze_(Verdi,_Giuseppe)",
+      "year": 1845
+    },
+    {
+      "title": "Alzira",
+      "imslp_url": "https://imslp.org/wiki/Alzira_(Verdi,_Giuseppe)",
+      "year": 1845
+    },
+    {
+      "title": "Giovanna d'Arco",
+      "imslp_url": "https://imslp.org/wiki/Giovanna_d'Arco_(Verdi,_Giuseppe)",
+      "year": 1845
+    },
+    {
+      "title": "Attila",
+      "imslp_url": "https://imslp.org/wiki/Attila_(Verdi,_Giuseppe)",
+      "year": 1846
+    },
+    {
+      "title": "I masnadieri",
+      "imslp_url": "https://imslp.org/wiki/I_masnadieri_(Verdi,_Giuseppe)",
+      "year": 1847
+    },
+    {
+      "title": "J\u00e9rusalem",
+      "imslp_url": "https://imslp.org/wiki/J\u00e9rusalem_(Verdi,_Giuseppe)",
+      "year": 1847
+    },
+    {
+      "title": "Macbeth",
+      "imslp_url": "https://imslp.org/wiki/Macbeth_(Verdi,_Giuseppe)",
+      "year": 1847
+    },
+    {
+      "title": "Il corsaro",
+      "imslp_url": "https://imslp.org/wiki/Il_corsaro_(Verdi,_Giuseppe)",
+      "year": 1848
+    },
+    {
+      "title": "La battaglia di Legnano",
+      "imslp_url": "https://imslp.org/wiki/La_battaglia_di_Legnano_(Verdi,_Giuseppe)",
+      "year": 1849
+    },
+    {
+      "title": "Luisa Miller",
+      "imslp_url": "https://imslp.org/wiki/Luisa_Miller_(Verdi,_Giuseppe)",
+      "year": 1849
+    },
+    {
+      "title": "Stiffelio",
+      "imslp_url": "https://imslp.org/wiki/Stiffelio_(Verdi,_Giuseppe)",
+      "year": 1850
+    },
+    {
+      "title": "Rigoletto",
+      "imslp_url": "https://imslp.org/wiki/Rigoletto_(Verdi,_Giuseppe)",
+      "year": 1851
+    },
+    {
+      "title": "Il trovatore",
+      "imslp_url": "https://imslp.org/wiki/Il_trovatore_(Verdi,_Giuseppe)",
+      "year": 1852
+    },
+    {
+      "title": "Les v\u00eapres siciliennes",
+      "imslp_url": "https://imslp.org/wiki/Les_v\u00eapres_siciliennes_(Verdi,_Giuseppe)",
+      "year": 1852
+    },
+    {
+      "title": "La traviata",
+      "imslp_url": "https://imslp.org/wiki/La_traviata_(Verdi,_Giuseppe)",
+      "year": 1853
+    },
+    {
+      "title": "Aroldo",
+      "imslp_url": "https://imslp.org/wiki/Aroldo_(Verdi,_Giuseppe)",
+      "year": 1856
+    },
+    {
+      "title": "Simon Boccanegra",
+      "imslp_url": "https://imslp.org/wiki/Simon_Boccanegra_(Verdi,_Giuseppe)",
+      "year": 1857
+    },
+    {
+      "title": "Un ballo in maschera",
+      "imslp_url": "https://imslp.org/wiki/Un_ballo_in_maschera_(Verdi,_Giuseppe)",
+      "year": 1859
+    },
+    {
+      "title": "Waltz in F major",
       "imslp_url": "https://imslp.org/wiki/Waltz_in_F_major_(Verdi,_Giuseppe)",
-      "year": 1859,
-      "title": "Waltz in F major"
+      "year": 1859
+    },
+    {
+      "title": "Inno delle nazioni",
+      "imslp_url": "https://imslp.org/wiki/Inno_delle_nazioni_(Verdi,_Giuseppe)",
+      "year": 1862
+    },
+    {
+      "title": "La forza del destino",
+      "imslp_url": "https://imslp.org/wiki/La_forza_del_destino_(Verdi,_Giuseppe)",
+      "year": 1862
+    },
+    {
+      "title": "Romanza",
+      "imslp_url": "https://imslp.org/wiki/Romanza_(Verdi,_Giuseppe)",
+      "year": 1865
+    },
+    {
+      "title": "Don Carlos",
+      "imslp_url": "https://imslp.org/wiki/Don_Carlos_(Verdi,_Giuseppe)",
+      "year": 1867
+    },
+    {
+      "title": "A\u00efda",
+      "imslp_url": "https://imslp.org/wiki/A\u00efda_(Verdi,_Giuseppe)",
+      "year": 1870
+    },
+    {
+      "title": "Pater noster",
+      "imslp_url": "https://imslp.org/wiki/Pater_noster_(Verdi,_Giuseppe)",
+      "year": 1873
+    },
+    {
+      "title": "String Quartet",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_(Verdi,_Giuseppe)",
+      "year": 1873
+    },
+    {
+      "title": "Requiem",
+      "imslp_url": "https://imslp.org/wiki/Requiem_(Verdi,_Giuseppe)",
+      "year": 1874
+    },
+    {
+      "title": "Otello",
+      "imslp_url": "https://imslp.org/wiki/Otello_(Verdi,_Giuseppe)",
+      "year": 1885
+    },
+    {
+      "title": "Falstaff",
+      "imslp_url": "https://imslp.org/wiki/Falstaff_(Verdi,_Giuseppe)",
+      "year": 1893
+    },
+    {
+      "title": "4 Pezzi sacri",
+      "imslp_url": "https://imslp.org/wiki/4_Pezzi_sacri_(Verdi,_Giuseppe)",
+      "year": 1898
     }
   ]
 }

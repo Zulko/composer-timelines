@@ -7,609 +7,522 @@
   "wikipedia_url": "https://en.wikipedia.org/wiki/Bed\u0159ich_Smetana",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Bed\u0159ich Smetana was born, marking the entry of a future musical genius onto the stage of life, much to the relief of his parents who were quite busy after having ten children already. His arrival was likely celebrated with music, even if it was just his father fiddling around.",
+      "section": "Biography",
+      "title": "Birth",
+      "summary": "Bed\u0159ich Smetana was born in Litomy\u0161l, east of Prague, as the first son of Franti\u0161ek Smetana and his third wife Barbora Linkov\u00e1. He was introduced to music by his father at a young age.",
       "year": 1824,
-      "city": "Litomy\u0161l",
-      "country": "Czech Republic"
+      "location": "Litomy\u0161l",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Once upon a time in a little place called Litomy\u0161l, which is east of Prague\u2014not to be confused with 'Somewhere I Left My Keys'\u2014a little musical genius named Bed\u0159ich Smetana came into the world. He was the first son of Franti\u0161ek Smetana and Barbora Linkov\u00e1, who was actually his dad's third wife. Bed\u0159ich's dad introduced him to music at such a young age that by the time he could walk, he was already dancing to the sound of his own piano!"
     },
     {
-      "event": "First Performance",
-      "summary": "At the tender age of six, Smetana's miniature fingers danced over the piano keys for the first time in public, captivating the audience. Clearly, he didn't suffer from stage fright; he might have been practicing for this moment since birth!",
+      "section": "Biography",
+      "title": "First Public Performance",
+      "summary": "At the age of six, Smetana gave his first public performance at the Philosophical Academy in Litomy\u0161l, impressing the audience with a piano arrangement of Auber's overture to La muette de Portici.",
       "year": 1830,
-      "city": "Litomy\u0161l",
-      "country": "Czech Republic"
+      "location": "Litomy\u0161l",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "At the grand old age of six, Smetana decided it was time to impress the socks off everyone at the Philosophical Academy in Litomy\u0161l with his piano skills. He played Auber's overture to La muette de Portici, and I heard even the chairs were tapping their legs!"
     },
     {
-      "event": "Revolutionary Participation",
-      "summary": "In a burst of youthful idealism, Smetana decided to wear a revolutionary hat for a change and joined the barricades during the Prague uprising. He waved flags, wrote patriotic music, and probably thought he was composing the next hit single while dodging Austrian soldiers.",
-      "year": 1848,
-      "city": "Prague",
-      "country": "Czech Republic"
+      "section": "Biography",
+      "title": "Move to Jind\u0159ich\u016fv Hradec",
+      "summary": "In 1831, Smetana and his family moved to Jind\u0159ich\u016fv Hradec in southern Bohemia, where he attended elementary school and began studying violin and piano.",
+      "year": 1831,
+      "location": "Jind\u0159ich\u016fv Hradec",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "In 1831, Smetana and his family moved to Jind\u0159ich\u016fv Hradec in southern Bohemia, where he attended elementary school and began studying violin and piano. Elementary school must have felt like an audition for \"The Voice,\" where your talent gets you a front-row seat to the musical concert."
     },
     {
-      "event": "Marriage",
-      "summary": "Smetana tied the knot with his beloved Kate\u0159ina Kol\u00e1\u0159ov\u00e1, proving that his heart was as passionate as his music. Four daughters followed, suggesting that balancing parenting and composing was a symphony of its own kind.",
+      "section": "Biography",
+      "title": "Enrolment at Academic Grammar School",
+      "summary": "In 1839, Smetana enrolled at Prague's Academic Grammar School under Josef Jungmann, hoping to further his musical career despite feeling out of place among his peers.",
+      "year": 1839,
+      "location": "Prague",
+      "emoji": "\ud83c\udf93",
+      "fun_version": "Back in 1839, our buddy Smetana decided to crash the Academic Grammar School in Prague under Josef Jungmann, hoping to dazzle everyone with his musical genius\u2014because nothing screams 'fitting in' like having your hair turned into a musical instrument while awkwardly humming!"
+    },
+    {
+      "section": "Biography",
+      "title": "Romantic Involvement with Louisa",
+      "summary": "While staying with his uncle in Nov\u00e9 M\u011bsto, Smetana enjoyed a brief romance with his cousin Louisa. This relationship inspired his earliest complete composition, Louisa's Polka.",
+      "year": 1840,
+      "location": "Nov\u00e9 M\u011bsto",
+      "emoji": "\ud83d\udc98",
+      "fun_version": "During a stay with his uncle in the exotic land of Nov\u00e9 M\u011bsto, Smetana found himself in a whirlwind romance with his cousin Louisa! Who knew family reunions could lead to musical masterpieces? Their love story was so electrifying it inspired his very first complete tune\u2014Louisa's Polka!"
+    },
+    {
+      "section": "Biography",
+      "title": "Appointment as Music Teacher",
+      "summary": "Smetana secured a position as music teacher to the family of Count Thun, allowing him to support his studies in composition while teaching his pupils.",
+      "year": 1844,
+      "location": "Prague",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Imagine Smetana, the ultimate music teacher, stepping into the grand house of Count Thun, where the kids are as wild as a symphony gone rogue! He secured his position as their music teacher, allowing him to support his studies in composition while secretly plotting his next great composition like a musical ninja!"
+    },
+    {
+      "section": "Music",
+      "title": "Piano Works Development",
+      "summary": "Smetana focused primarily on piano compositions early in his career. His notable works include the G minor Sonata and E-flat Polka, which showcased his evolution under the guidance of Proksch. The set of Six Characteristic Pieces gained recognition from Liszt for its artistic merit. Smetana's early compositions demonstrate his transition towards more polished and intricate piano work, aligning with the stylistic influences of prominent composers of his time.",
+      "year": 1846,
+      "location": "",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Smetana started off his career focusing primarily on piano compositions. His notable works included the G minor Sonata and the E-flat Polka. Under the guidance of Proksch, Smetana's compositions began to evolve significantly. The set of Six Characteristic Pieces gained recognition from Liszt for its artistic merit. Smetana's early compositions demonstrate his transition towards more polished and intricate piano work, trying to impress all the prominent composers of his time."
+    },
+    {
+      "section": "Biography",
+      "title": "Marriage to Kate\u0159ina Kol\u00e1\u0159ov\u00e1",
+      "summary": "Smetana married Kate\u0159ina Kol\u00e1\u0159ov\u00e1 on 27 August 1849, marking a significant personal milestone amid his advancing musical career.",
       "year": 1849,
-      "city": "Prague",
-      "country": "Czech Republic"
+      "location": "Prague",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "In a plot twist no one saw coming, Smetana decided to tie the knot with Kate\u0159ina Kol\u00e1\u0159ov\u00e1 on August 27, 1849! Who knew that marriage would be his greatest composition yet, right alongside the rhythm of his musical career?"
     },
     {
-      "event": "Principal Conductor",
-      "summary": "He became the principal conductor at Prague's Provisional Theatre, stepping into the spotlight only to find himself dodging controversies like a matador with musical talent. His experience was like conducting a circus where everyone else was juggling opinions!",
-      "year": 1866,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Loss of Hearing",
-      "summary": "Ironically, Smetana, already enveloped in his musical world, became completely deaf by the end of 1874. He approached this challenge heroically, apparently composing some of his most amazing works while literally tuning out all the noise around him.",
-      "year": 1874,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Increased Recognition",
-      "summary": "Post-deafness, while others might wallow in silence, Smetana was busy composing at an astonishing pace, securing his status as a pivotal figure in Czech music. Who needs eardrums when you have creativity flowing through your veins?",
-      "year": 1884,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Mental Health Struggle",
-      "summary": "A mental collapse led to an unfortunate stint in an asylum, marking a tragic yet ultimately human slice of life for this prolific composer. We can only imagine the soundtrack to his internal struggles; a somber symphony in the key of grief.",
-      "year": 1884,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Death",
-      "summary": "Bed\u0159ich Smetana passed away, leaving behind a legacy that would ensure he was forever remembered as the 'father of Czech music'. His music continues to bridge generations, providing a joyful echo of his ambition and talent long after his final curtain call.",
-      "year": 1884,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Composed Triumphal Symphony",
-      "summary": "Smetana created a piece to celebrate the wedding of Emperor Franz Joseph, which was rejected by the Imperial Court for not being 'Austrian' enough. He then went on to finance a performance himself, only to discover that getting noticed in Prague wasn't an easy task, especially when your own orchestra doesn't quite agree with your nationalistic flair.",
+      "section": "Music",
+      "title": "Chamber Music Composition",
+      "summary": "Later in his career, Smetana composed a limited number of chamber works, each carrying deep personal significance. The Piano Trio in G minor was inspired by the death of his daughter and features a style reminiscent of Robert Schumann. This marked Smetana's return to chamber music after two decades, culminating in works that reflect his emotional experiences and musical evolution.",
       "year": 1855,
-      "city": "Prague",
-      "country": "Czech Republic"
+      "location": "",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Smetana was like a musical phoenix, rising from the ashes of chamber music after two decades! He decided to compose a limited number of chamber works, each carrying deep personal significance and packed with emotion. His Piano Trio in G minor, inspired by the death of his daughter, has a style that winks at Robert Schumann, as if saying, 'Hey, I\u2019m bringing the drama back!' This marked Smetana's evolution and return to the chamber music scene."
     },
     {
-      "event": "Piano Trio in G minor performed",
-      "summary": "After several personal losses, including his daughter's death, Smetana poured his feelings into a piano trio that critics described as 'harsh', although Liszt praised it. Apparently, not even the great composer could dodge a bad review these days!",
-      "year": 1855,
-      "city": "Prague",
-      "country": "Czech Republic"
+      "section": "Biography",
+      "title": "Birth of Daughter",
+      "summary": "Smetana's first daughter, Zde\u0148ka, was born in September 1861, coinciding with a period of growing recognition for his contributions to music.",
+      "year": 1861,
+      "location": "Prague",
+      "emoji": "\ud83d\udc76",
+      "fun_version": "Smetana's first daughter, Zde\u0148ka, popped into the world in September 1861\u2014just in time to celebrate her dad's musical genius like a tiny diva at a concert! I can just picture her saying, \u201cI\u2019m not just any baby, I\u2019m the daughter of the famous composer! Can I get a little violin solo while you change my diaper?\u201d This was also a period of growing recognition for Smetana\u2019s contributions to music, making it an even more exciting time for the family!"
     },
     {
-      "event": "Departed for Gothenburg",
-      "summary": "Feeling unappreciated back home, Smetana decided it was time to search for greener pastures, stating 'Prague did not wish to acknowledge me, so I left it.' Talk about a dramatic exit! Off to Sweden he went, ready to show them what they were missing!",
-      "year": 1856,
-      "city": "Gothenburg",
-      "country": "Sweden"
-    },
-    {
-      "event": "Opened music school in Gothenburg",
-      "summary": "Smetana was surprised to find the music scene in Gothenburg rather 'unsophisticated'. Rather than complain, he opened a music school, only to be bombarded with students. Who knew he'd be a teacher before he became a celebrated composer?",
-      "year": 1857,
-      "city": "Gothenburg",
-      "country": "Sweden"
-    },
-    {
-      "event": "Married Barbora Ferdinandiov\u00e1",
-      "summary": "After some time of soul-searching and heartbreak, Smetana fell in love with his sister-in-law, Barbora. They tied the knot and he thought, maybe I\u2019ll inspire some music while we\u2019re at it! They settled back into Sweden, where the couple began their own family.",
-      "year": 1860,
-      "city": "Gothenburg",
-      "country": "Sweden"
-    },
-    {
-      "event": "First performance of The Brandenburgers",
-      "summary": "Smetana finally got his big break with The Brandenburgers, premiering at the Provisional Theatre. The hype was unreal\u2014he was called on stage nine times! Though, in later years, they might forget your birthdate; they never forget a repeat performance!",
+      "section": "Music",
+      "title": "Opera Establishment in Czech Music",
+      "summary": "In pursuing a new canon for Czech opera, Smetana diverged from traditional folk songs, infusing popular dance music into his operatic works. His notable operas, including The Bartered Bride, established a lasting impact on the genre, notably through their integration of Czech vernacular and folk elements, which resonate with the national spirit.",
       "year": 1866,
-      "city": "Prague",
-      "country": "Czech Republic"
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Once upon a time in the magical land of Czech opera, Smetana embarked on a quest to create a new canon, mixing things up by throwing in some popular dance music into his operas. It's like if you served goulash at a wedding but with a side of disco! His masterpiece, The Bartered Bride, rocked the opera world, showcasing his lasting impact on the genre through Czech vernacular and folk elements, resonating with the national spirit\u2014so much that even his grandma would tap her feet in approval, saying, \u2018Now that\u2019s my spirit coming to life!\u2019"
     },
     {
-      "event": "Premiered The Bartered Bride",
-      "summary": "The initial performance of Smetana's most famous opera started on a hot night before the Austro-Prussian War, and it flopped worse than a pancake! However, it hit the sweet spot when restaged years later, capturing the audience's heart, and potentially their air-conditioning!",
-      "year": 1866,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Became principal conductor of the Provisional Theatre",
-      "summary": "With a turning tide in his career and some clever maneuvering, Smetana landed the role of principal conductor at the Provisional Theatre. There, he could serve up some standard works while sneakily slipping in his own, reminding everyone that he was still the star of the show!",
-      "year": 1866,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Foundation of National Theatre",
-      "summary": "Smetana helped kick off a cultural revolution by laying the foundation stone for the National Theatre. He even penned a Festive Overture for the occasion, proving that he could both dig and create music that plays in the background while you dig!",
-      "year": 1868,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Premiere of Dalibor",
-      "summary": "On the same night of the National Theatre's foundation, Smetana's third opera, Dalibor, premiered. Initially, the reception was warmer than a fresh loaf of bread, but the reviews were colder than the Czech winter, leading him to sigh with resignation.",
-      "year": 1868,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Reappointment as conductor",
-      "summary": "After facing pressures and petitions to resign, Smetana was reappointed as conductor of the Provisional Theatre with a bigger salary. It was a classic 'they can't fire me, I quit!' scenario, but with more music and less drama.",
-      "year": 1873,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Completion of Libu\u0161e",
-      "summary": "Smetana completed his grand opera Libu\u0161e but decided to hold off on its premiere until the National Theatre opened. It's like baking a cake but waiting for the perfect occasion to serve it, only to find out the bakery caught fire!",
-      "year": 1872,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Premiere of The Two Widows",
-      "summary": "Smetana's fifth opera, The Two Widows, premiered at the Provisional Theatre. Supported by his loyal fans, he received a decorative baton similar to those given to rebellious children who've just silenced their toys!",
-      "year": 1874,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Premiere of M\u00e1 vlast",
-      "summary": "Smetana premiered the completed cycle of symphonic poems, M\u00e1 vlast, showcasing his journey through Czech identity. It marked the composer getting intimately comfortable with his heritage, like a cozy blanket on a chilly day.",
-      "year": 1882,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Opening of the National Theatre",
-      "summary": "Finally, the grand premiere of Libu\u0161e at the National Theatre took place. Despite earlier ticket drama, the audience loved it and he basked in applause, feeling more like a celebrity than a conductor that night.",
+      "section": "Biography",
+      "title": "Conducting the National Theatre's Opening",
+      "summary": "Smetana conducted the premiere of his opera Libu\u0161e at the opening of the National Theatre on 11 June 1881, receiving an enthusiastic reception from the audience.",
       "year": 1881,
-      "city": "Prague",
-      "country": "Czech Republic"
+      "location": "Prague",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Smetana kicked off the premiere of his opera 'Libu\u0161e' at the opening of the National Theatre on 11 June 1881 like it was the hottest concert in 1881, and let\u2019s just say the audience was more excited than a cat with a ball of yarn!"
     },
     {
-      "event": "60th birthday celebration",
-      "summary": "For his 60th birthday, a gala concert was organized but Smetana, much to everyone's chagrin, was too ill to attend. It was the thought that counted, much like sending a birthday card to someone who prefers cash!",
-      "year": 1884,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Wrote M\u00e1 vlast",
-      "summary": "In a determined bid to prove that he could pen something jolly about his homeland, Smetana created M\u00e1 vlast, an exuberant cycle of symphonic poetry. Most assuredly, it would eventually leave audiences practically dancing through the streets\u2014at least until they remembered they still had to pay their taxes!",
-      "year": 1872,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "First performance of The Bartered Bride",
-      "summary": "Despite a little mishap with the opening night timing, The Bartered Bride waltzed its way into audience's hearts and became a staple in opera houses everywhere. Smetana might have quipped it was 'merely child's play,' but boy, did that child's play grow up to have quite the international impact!",
-      "year": 1866,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Acclaimed performance of M\u00e1 vlast",
-      "summary": "After a tumultuous life, Smetana finally experienced the sweet triumph of a thunderous ovation for the complete performance of M\u00e1 vlast, proving once and for all that his musical scribbles were more than just enthusiastic doodles.",
+      "section": "Music",
+      "title": "Recognition and Acclaim",
+      "summary": "Smetana experienced a resurgence of recognition during his later years, achieving national acclaim for works such as The Kiss and the ceremonial opera Libu\u0161e, leading to public honors recognizing him as the founder of Czech music. His composition M\u00e0 vlast received overwhelming praise at its premiere, demonstrating the artists' acceptance and celebration of his contributions to the Czech musical landscape.",
       "year": 1882,
-      "city": "Prague",
-      "country": "Czech Republic"
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Smetana's later years were like a musical reality show where he began to steal the spotlight. With works like The Kiss and Libu\u0161e, he won national acclaim and the hearts of a nation! His composition M\u00e0 vlast received a standing ovation that shattered the applause record, demonstrating artists' acceptance and celebrating his contributions. Clearly, he was the 'founding father' of Czech music, earning public honors in the process."
     },
     {
-      "event": "Completed Our Song",
-      "summary": "In a last burst of creativity, Smetana whipped up Our Song, a cheerful piece despite a few hiccups with health. It sat around like an awkward relative for years before becoming an unexpected guest at the musical party in 1924!",
-      "year": 1883,
-      "city": "Prague",
-      "country": "Czech Republic"
+      "section": "Biography",
+      "title": "Death",
+      "summary": "Smetana died on 12 May 1884 in a lunatic asylum, with his family believing that his deterioration was due to syphilis, although officially it was registered as senile dementia.",
+      "year": 1884,
+      "location": "Prague",
+      "emoji": "\ud83e\udea6",
+      "fun_version": "Smetana died on 12 May 1884 in a lunatic asylum, where his family believed that his deterioration was due to syphilis; however, officially it was registered as senile dementia."
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/Album_Leaf_in_B_major,_JB_1:20_(Smetana,_Bed%C5%99ich)",
-      "year": 1844,
-      "title": "Album Leaf in B major, JB 1:20"
+      "title": "Galopp di bravoura, JB 1:3",
+      "imslp_url": "https://imslp.org/wiki/Galopp_di_bravoura,_JB_1:3_(Smetana,_Bed\u0159ich)",
+      "year": 1840
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Album_Leaf_in_B_minor,_JB_1:43_(Smetana,_Bed%C5%99ich)",
-      "year": 1848,
-      "title": "Album Leaf in B minor, JB 1:43"
+      "title": "Georgina Polka, JB 1:2",
+      "imslp_url": "https://imslp.org/wiki/Georgina_Polka,_JB_1:2_(Smetana,_Bed\u0159ich)",
+      "year": 1840
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Album_Leaf_in_B-flat_major,_JB_1:46_(Smetana,_Bed%C5%99ich)",
-      "year": 1849,
-      "title": "Album Leaf in B-flat major, JB 1:46"
+      "title": "Louisina Polka, JB 1:1",
+      "imslp_url": "https://imslp.org/wiki/Louisina_Polka,_JB_1:1_(Smetana,_Bed\u0159ich)",
+      "year": 1840
     },
     {
-      "imslp_url": "https://imslp.org/wiki/6_Album_Leaves,_Op.2_(Smetana,_Bed%C5%99ich)",
-      "year": 1849,
-      "title": "6 Album Leaves, Op.2"
+      "title": "Vzpom\u00ednka na Plze\u0148, JB 1:17",
+      "imslp_url": "https://imslp.org/wiki/Vzpom\u00ednka_na_Plze\u0148,_JB_1:17_(Smetana,_Bed\u0159ich)",
+      "year": 1843
     },
     {
-      "imslp_url": "https://imslp.org/wiki/3_Album_Leaves,_Op.3_(Smetana,_Bed%C5%99ich)",
-      "year": 1848,
-      "title": "3 Album Leaves, Op.3"
+      "title": "5 Waltzes, JB 1:18",
+      "imslp_url": "https://imslp.org/wiki/5_Waltzes,_JB_1:18_(Smetana,_Bed\u0159ich)",
+      "year": 1844
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Allegro_capriccioso,_JB_1:32_(Smetana,_Bed%C5%99ich)",
-      "year": 1849,
-      "title": "Allegro capriccioso, JB 1:32"
+      "title": "Album Leaf in B major, JB 1:20",
+      "imslp_url": "https://imslp.org/wiki/Album_Leaf_in_B_major,_JB_1:20_(Smetana,_Bed\u0159ich)",
+      "year": 1844
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Bagatelles_et_impromptus,_JB_1:19_(Smetana,_Bed%C5%99ich)",
-      "year": 1844,
-      "title": "Bagatelles et impromptus, JB 1:19"
+      "title": "Bagatelles et impromptus, JB 1:19",
+      "imslp_url": "https://imslp.org/wiki/Bagatelles_et_impromptus,_JB_1:19_(Smetana,_Bed\u0159ich)",
+      "year": 1844
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Ballade_in_E_minor,_JB_2:43_(Smetana,_Bed%C5%99ich)",
-      "year": 1858,
-      "title": "Ballade in E minor, JB 2:43"
+      "title": "Fugue in A major",
+      "imslp_url": "https://imslp.org/wiki/Fugue_in_A_major_(Smetana,_Bed\u0159ich)",
+      "year": 1844
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Bettina_Polka,_JB_1:74_(Smetana,_Bed%C5%99ich)",
-      "year": 1859,
-      "title": "Bettina Polka, JB 1:74"
+      "title": "6 Preludes, JB 1:30",
+      "imslp_url": "https://imslp.org/wiki/6_Preludes,_JB_1:30_(Smetana,_Bed\u0159ich)",
+      "year": 1846
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Blan%C3%ADk,_JB_1:112/6_(Smetana,_Bed%C5%99ich)",
-      "year": 1879,
-      "title": "Blan\u00edk, JB 1:112/6"
+      "title": "Piano Sonata in G minor, JB 3:24",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_in_G_minor,_JB_3:24_(Smetana,_Bed\u0159ich)",
+      "year": 1846
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Branibo%C5%99i_v_%C4%8Cech%C3%A1ch,_JB_1:87_(Smetana,_Bed%C5%99ich)",
-      "year": 1862,
-      "title": "Branibo\u0159i v \u010cech\u00e1ch, JB 1:87"
+      "title": "Polka in E-flat major, JB 1:28",
+      "imslp_url": "https://imslp.org/wiki/Polka_in_E-flat_major,_JB_1:28_(Smetana,_Bed\u0159ich)",
+      "year": 1846
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Caprice,_JB.2:17_(Smetana,_Bed%C5%99ich)",
-      "year": 1848,
-      "title": "Caprice, JB.2:17"
+      "title": "6 Characteristic Pieces, Op.1",
+      "imslp_url": "https://imslp.org/wiki/6_Characteristic_Pieces,_Op.1_(Smetana,_Bed\u0159ich)",
+      "year": 1847
     },
     {
-      "imslp_url": "https://imslp.org/wiki/%C4%8Certova_st%C4%95na,_JB_1:122_(Smetana,_Bed%C5%99ich)",
-      "year": 1879,
-      "title": "\u010certova st\u0115na, JB 1:122"
+      "title": "3 Album Leaves, Op.3",
+      "imslp_url": "https://imslp.org/wiki/3_Album_Leaves,_Op.3_(Smetana,_Bed\u0159ich)",
+      "year": 1848
     },
     {
-      "imslp_url": "https://imslp.org/wiki/%C4%8Cesk%C3%A9_tance_I,_JB_1:107_(Smetana,_Bed%C5%99ich)",
-      "year": 1877,
-      "title": "\u010cesk\u00e9 tance I, JB 1:107"
+      "title": "3 Polkas de salon, Op.7",
+      "imslp_url": "https://imslp.org/wiki/3_Polkas_de_salon,_Op.7_(Smetana,_Bed\u0159ich)",
+      "year": 1848
     },
     {
-      "imslp_url": "https://imslp.org/wiki/%C4%8Cesk%C3%A9_tance_II,_JB_1:114_(Smetana,_Bed%C5%99ich)",
-      "year": 1879,
-      "title": "\u010cesk\u00e9 tance II, JB 1:114"
+      "title": "3 Polkas po\u00e9tiques, Op.8",
+      "imslp_url": "https://imslp.org/wiki/3_Polkas_po\u00e9tiques,_Op.8_(Smetana,_Bed\u0159ich)",
+      "year": 1848
     },
     {
-      "imslp_url": "https://imslp.org/wiki/6_Characteristic_Pieces,_Op.1_(Smetana,_Bed%C5%99ich)",
-      "year": 1847,
-      "title": "6 Characteristic Pieces, Op.1"
+      "title": "4 Sketches, Op.4",
+      "imslp_url": "https://imslp.org/wiki/4_Sketches,_Op.4_(Smetana,_Bed\u0159ich)",
+      "year": 1848
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Cid,_JB_2:42_(Smetana,_Bed%C5%99ich)",
-      "year": 1857,
-      "title": "Cid, JB 2:42"
+      "title": "4 Sketches, Op.5",
+      "imslp_url": "https://imslp.org/wiki/4_Sketches,_Op.5_(Smetana,_Bed\u0159ich)",
+      "year": 1848
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Concert_Etude_in_C_major,_JB_1:73_(Smetana,_Bed%C5%99ich)",
-      "year": 1858,
-      "title": "Concert Etude in C major, JB 1:73"
+      "title": "Album Leaf in B minor, JB 1:43",
+      "imslp_url": "https://imslp.org/wiki/Album_Leaf_in_B_minor,_JB_1:43_(Smetana,_Bed\u0159ich)",
+      "year": 1848
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Dalibor,_JB_1:101_(Smetana,_Bed%C5%99ich)",
-      "year": 1865,
-      "title": "Dalibor, JB 1:101"
+      "title": "Caprice, JB.2:17",
+      "imslp_url": "https://imslp.org/wiki/Caprice,_JB.2:17_(Smetana,_Bed\u0159ich)",
+      "year": 1848
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Doktor_Faust,_JB_1:85_(Smetana,_Bed%C5%99ich)",
-      "year": 1862,
-      "title": "Doktor Faust, JB 1:85"
+      "title": "Pochod N\u00e1rodn\u00ed Gardy, JB 1:37",
+      "imslp_url": "https://imslp.org/wiki/Pochod_N\u00e1rodn\u00ed_Gardy,_JB_1:37_(Smetana,_Bed\u0159ich)",
+      "year": 1848
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Dv%C4%9B_vdovy,_JB_1:108_(Smetana,_Bed%C5%99ich)",
-      "year": 1873,
-      "title": "Dv\u011b vdovy, JB 1:108"
+      "title": "Pochod pra\u017esk\u00e9 studentsk\u00e9 legie, JB 1:36",
+      "imslp_url": "https://imslp.org/wiki/Pochod_pra\u017esk\u00e9_studentsk\u00e9_legie,_JB_1:36_(Smetana,_Bed\u0159ich)",
+      "year": 1848
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Fanf%C3%A1ry_k_Shakespearovu_dramatu_Richard_III,_JB_1:92_(Smetana,_Bed%C5%99ich)",
-      "year": 1867,
-      "title": "Fanf\u00e1ry k Shakespearovu dramatu Richard III, JB 1:92"
+      "title": "6 Album Leaves, Op.2",
+      "imslp_url": "https://imslp.org/wiki/6_Album_Leaves,_Op.2_(Smetana,_Bed\u0159ich)",
+      "year": 1849
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Fantasie_na_%C4%8Desk%C3%A9_n%C3%A1rodn%C3%AD_p%C3%ADsn%C4%9B,_JB_1:83_(Smetana,_Bed%C5%99ich)",
-      "year": 1862,
-      "title": "Fantasie na \u010desk\u00e9 n\u00e1rodn\u00ed p\u00edsn\u011b, JB 1:83"
+      "title": "Album Leaf in B-flat major, JB 1:46",
+      "imslp_url": "https://imslp.org/wiki/Album_Leaf_in_B-flat_major,_JB_1:46_(Smetana,_Bed\u0159ich)",
+      "year": 1849
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Fugue_in_A_major_(Smetana,_Bed%C5%99ich)",
-      "year": 1844,
-      "title": "Fugue in A major"
+      "title": "Allegro capriccioso, JB 1:32",
+      "imslp_url": "https://imslp.org/wiki/Allegro_capriccioso,_JB_1:32_(Smetana,_Bed\u0159ich)",
+      "year": 1849
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Galopp_di_bravoura,_JB_1:3_(Smetana,_Bed%C5%99ich)",
-      "year": 1840,
-      "title": "Galopp di bravoura, JB 1:3"
+      "title": "Na\u0161im d\u011bv\u00e1m, JB 1:86",
+      "imslp_url": "https://imslp.org/wiki/Na\u0161im_d\u011bv\u00e1m,_JB_1:86_(Smetana,_Bed\u0159ich)",
+      "year": 1849
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Georgina_Polka,_JB_1:2_(Smetana,_Bed%C5%99ich)",
-      "year": 1840,
-      "title": "Georgina Polka, JB 1:2"
+      "title": "Poklad melodi\u00ed, JB 1:49",
+      "imslp_url": "https://imslp.org/wiki/Poklad_melodi\u00ed,_JB_1:49_(Smetana,_Bed\u0159ich)",
+      "year": 1849
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Hakon_Jarl,_Op.16_(Smetana,_Bed%C5%99ich)",
-      "year": 1860,
-      "title": "Hakon Jarl, Op.16"
+      "title": "Sonata for 2 Pianos, JB 1:47",
+      "imslp_url": "https://imslp.org/wiki/Sonata_for_2_Pianos,_JB_1:47_(Smetana,_Bed\u0159ich)",
+      "year": 1849
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Hubi%C4%8Dka,_JB_1:104_(Smetana,_Bed%C5%99ich)",
-      "year": 1875,
-      "title": "Hubi\u010dka, JB 1:104"
+      "title": "Svatebn\u00ed sc\u00e9ny, JB 1:44",
+      "imslp_url": "https://imslp.org/wiki/Svatebn\u00ed_sc\u00e9ny,_JB_1:44_(Smetana,_Bed\u0159ich)",
+      "year": 1849
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Libu%C5%A1e,_JB_1:102_(Smetana,_Bed%C5%99ich)",
-      "year": 1869,
-      "title": "Libu\u0161e, JB 1:102"
+      "title": "Polka in A major, JB 1:57",
+      "imslp_url": "https://imslp.org/wiki/Polka_in_A_major,_JB_1:57_(Smetana,_Bed\u0159ich)",
+      "year": 1852
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Libu%C5%A1in_soud,_JB_1:98_(Smetana,_Bed%C5%99ich)",
-      "year": 1869,
-      "title": "Libu\u0161in soud, JB 1:98"
+      "title": "Polka in E major, JB 1:55",
+      "imslp_url": "https://imslp.org/wiki/Polka_in_E_major,_JB_1:55_(Smetana,_Bed\u0159ich)",
+      "year": 1852
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Louisina_Polka,_JB_1:1_(Smetana,_Bed%C5%99ich)",
-      "year": 1840,
-      "title": "Louisina Polka, JB 1:1"
+      "title": "Polka in G minor, JB 1:56",
+      "imslp_url": "https://imslp.org/wiki/Polka_in_G_minor,_JB_1:56_(Smetana,_Bed\u0159ich)",
+      "year": 1852
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Macbeth_a_%C4%8Darod%C4%9Bjnice,_JB_1:75_(Smetana,_Bed%C5%99ich)",
-      "year": 1859,
-      "title": "Macbeth a \u010darod\u011bjnice, JB 1:75"
+      "title": "Polka in F minor, JB 1:63",
+      "imslp_url": "https://imslp.org/wiki/Polka_in_F_minor,_JB_1:63_(Smetana,_Bed\u0159ich)",
+      "year": 1853
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Na_b%C5%99ehu_mo%C5%99sk%C3%A9m,_JB_1:80_(Smetana,_Bed%C5%99ich)",
-      "year": 1861,
-      "title": "Na b\u0159ehu mo\u0159sk\u00e9m, JB 1:80"
+      "title": "Piano Trio, Op.15",
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio,_Op.15_(Smetana,_Bed\u0159ich)",
+      "year": 1854
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Na%C5%A1im_d%C4%9Bv%C3%A1m,_JB_1:86_(Smetana,_Bed%C5%99ich)",
-      "year": 1849,
-      "title": "Na\u0161im d\u011bv\u00e1m, JB 1:86"
+      "title": "Cid, JB 2:42",
+      "imslp_url": "https://imslp.org/wiki/Cid,_JB_2:42_(Smetana,_Bed\u0159ich)",
+      "year": 1857
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Old%C5%99ich_and_Bo%C5%BEena,_JB_1:88_(Smetana,_Bed%C5%99ich)",
-      "year": 1863,
-      "title": "Old\u0159ich and Bo\u017eena, JB 1:88"
+      "title": "Richard III, Op.11",
+      "imslp_url": "https://imslp.org/wiki/Richard_III,_Op.11_(Smetana,_Bed\u0159ich)",
+      "year": 1857
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_in_G_minor,_JB_3:24_(Smetana,_Bed%C5%99ich)",
-      "year": 1846,
-      "title": "Piano Sonata in G minor, JB 3:24"
+      "title": "Ballade in E minor, JB 2:43",
+      "imslp_url": "https://imslp.org/wiki/Ballade_in_E_minor,_JB_2:43_(Smetana,_Bed\u0159ich)",
+      "year": 1858
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Piano_Trio,_Op.15_(Smetana,_Bed%C5%99ich)",
-      "year": 1854,
-      "title": "Piano Trio, Op.15"
+      "title": "Concert Etude in C major, JB 1:73",
+      "imslp_url": "https://imslp.org/wiki/Concert_Etude_in_C_major,_JB_1:73_(Smetana,_Bed\u0159ich)",
+      "year": 1858
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Piece_in_A_minor,_JB_2:45_(Smetana,_Bed%C5%99ich)",
-      "year": 1862,
-      "title": "Piece in A minor, JB 2:45"
+      "title": "Vid\u011bn\u00ed na plese, JB 1:71a",
+      "imslp_url": "https://imslp.org/wiki/Vid\u011bn\u00ed_na_plese,_JB_1:71a_(Smetana,_Bed\u0159ich)",
+      "year": 1858
     },
     {
-      "imslp_url": "https://imslp.org/wiki/P%C3%ADse%C5%88_%C4%8Desk%C3%A1,_JB_1:78_(Smetana,_Bed%C5%99ich)",
-      "year": 1860,
-      "title": "P\u00edse\u0148 \u010desk\u00e1, JB 1:78"
+      "title": "Wallensteins Lager, Op.14",
+      "imslp_url": "https://imslp.org/wiki/Wallensteins_Lager,_Op.14_(Smetana,_Bed\u0159ich)",
+      "year": 1858
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Pochod_k_slavnosti_Shakespearov%C4%9B,_JB_1:90_(Smetana,_Bed%C5%99ich)",
-      "year": 1864,
-      "title": "Pochod k slavnosti Shakespearov\u011b, JB 1:90"
+      "title": "Bettina Polka, JB 1:74",
+      "imslp_url": "https://imslp.org/wiki/Bettina_Polka,_JB_1:74_(Smetana,_Bed\u0159ich)",
+      "year": 1859
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Pochod_N%C3%A1rodn%C3%AD_Gardy,_JB_1:37_(Smetana,_Bed%C5%99ich)",
-      "year": 1848,
-      "title": "Pochod N\u00e1rodn\u00ed Gardy, JB 1:37"
+      "title": "Macbeth a \u010darod\u011bjnice, JB 1:75",
+      "imslp_url": "https://imslp.org/wiki/Macbeth_a_\u010darod\u011bjnice,_JB_1:75_(Smetana,_Bed\u0159ich)",
+      "year": 1859
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Pochod_pra%C5%BEsk%C3%A9_studentsk%C3%A9_legie,_JB_1:36_(Smetana,_Bed%C5%99ich)",
-      "year": 1848,
-      "title": "Pochod pra\u017esk\u00e9 studentsk\u00e9 legie, JB 1:36"
+      "title": "Souvenir de Boh\u00eame en forme de Polkas, Op.12",
+      "imslp_url": "https://imslp.org/wiki/Souvenir_de_Boh\u00eame_en_forme_de_Polkas,_Op.12_(Smetana,_Bed\u0159ich)",
+      "year": 1859
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Poklad_melodi%C3%AD,_JB_1:49_(Smetana,_Bed%C5%99ich)",
-      "year": 1849,
-      "title": "Poklad melodi\u00ed, JB 1:49"
+      "title": "Souvenir de Boh\u00eame en forme de Polkas, Op.13",
+      "imslp_url": "https://imslp.org/wiki/Souvenir_de_Boh\u00eame_en_forme_de_Polkas,_Op.13_(Smetana,_Bed\u0159ich)",
+      "year": 1859
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Polka_in_A_major,_JB_1:57_(Smetana,_Bed%C5%99ich)",
-      "year": 1852,
-      "title": "Polka in A major, JB 1:57"
+      "title": "Hakon Jarl, Op.16",
+      "imslp_url": "https://imslp.org/wiki/Hakon_Jarl,_Op.16_(Smetana,_Bed\u0159ich)",
+      "year": 1860
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Polka_in_E_major,_JB_1:55_(Smetana,_Bed%C5%99ich)",
-      "year": 1852,
-      "title": "Polka in E major, JB 1:55"
+      "title": "P\u00edse\u0148 \u010desk\u00e1, JB 1:78",
+      "imslp_url": "https://imslp.org/wiki/P\u00edse\u0148_\u010desk\u00e1,_JB_1:78_(Smetana,_Bed\u0159ich)",
+      "year": 1860
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Polka_in_E-flat_major,_JB_1:28_(Smetana,_Bed%C5%99ich)",
-      "year": 1846,
-      "title": "Polka in E-flat major, JB 1:28"
+      "title": "Na b\u0159ehu mo\u0159sk\u00e9m, JB 1:80",
+      "imslp_url": "https://imslp.org/wiki/Na_b\u0159ehu_mo\u0159sk\u00e9m,_JB_1:80_(Smetana,_Bed\u0159ich)",
+      "year": 1861
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Polka_in_F_minor,_JB_1:63_(Smetana,_Bed%C5%99ich)",
-      "year": 1853,
-      "title": "Polka in F minor, JB 1:63"
+      "title": "Branibo\u0159i v \u010cech\u00e1ch, JB 1:87",
+      "imslp_url": "https://imslp.org/wiki/Branibo\u0159i_v_\u010cech\u00e1ch,_JB_1:87_(Smetana,_Bed\u0159ich)",
+      "year": 1862
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Polka_in_G_minor,_JB_1:56_(Smetana,_Bed%C5%99ich)",
-      "year": 1852,
-      "title": "Polka in G minor, JB 1:56"
+      "title": "Doktor Faust, JB 1:85",
+      "imslp_url": "https://imslp.org/wiki/Doktor_Faust,_JB_1:85_(Smetana,_Bed\u0159ich)",
+      "year": 1862
     },
     {
-      "imslp_url": "https://imslp.org/wiki/3_Polkas_de_salon,_Op.7_(Smetana,_Bed%C5%99ich)",
-      "year": 1848,
-      "title": "3 Polkas de salon, Op.7"
+      "title": "Fantasie na \u010desk\u00e9 n\u00e1rodn\u00ed p\u00edsn\u011b, JB 1:83",
+      "imslp_url": "https://imslp.org/wiki/Fantasie_na_\u010desk\u00e9_n\u00e1rodn\u00ed_p\u00edsn\u011b,_JB_1:83_(Smetana,_Bed\u0159ich)",
+      "year": 1862
     },
     {
-      "imslp_url": "https://imslp.org/wiki/3_Polkas_po%C3%A9tiques,_Op.8_(Smetana,_Bed%C5%99ich)",
-      "year": 1848,
-      "title": "3 Polkas po\u00e9tiques, Op.8"
+      "title": "Piece in A minor, JB 2:45",
+      "imslp_url": "https://imslp.org/wiki/Piece_in_A_minor,_JB_2:45_(Smetana,_Bed\u0159ich)",
+      "year": 1862
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Prague_Carnival,_JB_1:126_(Smetana,_Bed%C5%99ich)",
-      "year": 1883,
-      "title": "Prague Carnival, JB 1:126"
+      "title": "Old\u0159ich and Bo\u017eena, JB 1:88",
+      "imslp_url": "https://imslp.org/wiki/Old\u0159ich_and_Bo\u017eena,_JB_1:88_(Smetana,_Bed\u0159ich)",
+      "year": 1863
     },
     {
-      "imslp_url": "https://imslp.org/wiki/6_Preludes,_JB_1:30_(Smetana,_Bed%C5%99ich)",
-      "year": 1846,
-      "title": "6 Preludes, JB 1:30"
+      "title": "Prodan\u00e1 nev\u011bsta, JB 1:100",
+      "imslp_url": "https://imslp.org/wiki/Prodan\u00e1_nev\u011bsta,_JB_1:100_(Smetana,_Bed\u0159ich)",
+      "year": 1863
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Prodan%C3%A1_nev%C4%9Bsta,_JB_1:100_(Smetana,_Bed%C5%99ich)",
-      "year": 1863,
-      "title": "Prodan\u00e1 nev\u011bsta, JB 1:100"
+      "title": "Pochod k slavnosti Shakespearov\u011b, JB 1:90",
+      "imslp_url": "https://imslp.org/wiki/Pochod_k_slavnosti_Shakespearov\u011b,_JB_1:90_(Smetana,_Bed\u0159ich)",
+      "year": 1864
     },
     {
-      "imslp_url": "https://imslp.org/wiki/R%C3%AAves,_JB_1:103_(Smetana,_Bed%C5%99ich)",
-      "year": 1875,
-      "title": "R\u00eaves, JB 1:103"
+      "title": "Dalibor, JB 1:101",
+      "imslp_url": "https://imslp.org/wiki/Dalibor,_JB_1:101_(Smetana,_Bed\u0159ich)",
+      "year": 1865
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Richard_III,_Op.11_(Smetana,_Bed%C5%99ich)",
-      "year": 1857,
-      "title": "Richard III, Op.11"
+      "title": "Fanf\u00e1ry k Shakespearovu dramatu Richard III, JB 1:92",
+      "imslp_url": "https://imslp.org/wiki/Fanf\u00e1ry_k_Shakespearovu_dramatu_Richard_III,_JB_1:92_(Smetana,_Bed\u0159ich)",
+      "year": 1867
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Ryb%C3%A1%C5%99,_JB_1:97_(Smetana,_Bed%C5%99ich)",
-      "year": 1869,
-      "title": "Ryb\u00e1\u0159, JB 1:97"
+      "title": "Slavnostn\u00ed p\u0159edehra, JB 1:95",
+      "imslp_url": "https://imslp.org/wiki/Slavnostn\u00ed_p\u0159edehra,_JB_1:95_(Smetana,_Bed\u0159ich)",
+      "year": 1868
     },
     {
-      "imslp_url": "https://imslp.org/wiki/%C5%A0%C3%A1rka,_JB_1:112/3_(Smetana,_Bed%C5%99ich)",
-      "year": 1875,
-      "title": "\u0160\u00e1rka, JB 1:112/3"
+      "title": "Libu\u0161e, JB 1:102",
+      "imslp_url": "https://imslp.org/wiki/Libu\u0161e,_JB_1:102_(Smetana,_Bed\u0159ich)",
+      "year": 1869
     },
     {
-      "imslp_url": "https://imslp.org/wiki/4_Sketches,_Op.4_(Smetana,_Bed%C5%99ich)",
-      "year": 1848,
-      "title": "4 Sketches, Op.4"
+      "title": "Libu\u0161in soud, JB 1:98",
+      "imslp_url": "https://imslp.org/wiki/Libu\u0161in_soud,_JB_1:98_(Smetana,_Bed\u0159ich)",
+      "year": 1869
     },
     {
-      "imslp_url": "https://imslp.org/wiki/4_Sketches,_Op.5_(Smetana,_Bed%C5%99ich)",
-      "year": 1848,
-      "title": "4 Sketches, Op.5"
+      "title": "Ryb\u00e1\u0159, JB 1:97",
+      "imslp_url": "https://imslp.org/wiki/Ryb\u00e1\u0159,_JB_1:97_(Smetana,_Bed\u0159ich)",
+      "year": 1869
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Slavnostn%C3%AD_p%C5%99edehra,_JB_1:95_(Smetana,_Bed%C5%99ich)",
-      "year": 1868,
-      "title": "Slavnostn\u00ed p\u0159edehra, JB 1:95"
+      "title": "Vy\u0161ehrad, JB 1:112/1",
+      "imslp_url": "https://imslp.org/wiki/Vy\u0161ehrad,_JB_1:112/1_(Smetana,_Bed\u0159ich)",
+      "year": 1872
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Sonata_for_2_Pianos,_JB_1:47_(Smetana,_Bed%C5%99ich)",
-      "year": 1849,
-      "title": "Sonata for 2 Pianos, JB 1:47"
+      "title": "Dv\u011b vdovy, JB 1:108",
+      "imslp_url": "https://imslp.org/wiki/Dv\u011b_vdovy,_JB_1:108_(Smetana,_Bed\u0159ich)",
+      "year": 1873
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Souvenir_de_Boh%C3%AAme_en_forme_de_Polkas,_Op.12_(Smetana,_Bed%C5%99ich)",
-      "year": 1859,
-      "title": "Souvenir de Boh\u00eame en forme de Polkas, Op.12"
+      "title": "Viola, JB 2:48",
+      "imslp_url": "https://imslp.org/wiki/Viola,_JB_2:48_(Smetana,_Bed\u0159ich)",
+      "year": 1874
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Souvenir_de_Boh%C3%AAme_en_forme_de_Polkas,_Op.13_(Smetana,_Bed%C5%99ich)",
-      "year": 1859,
-      "title": "Souvenir de Boh\u00eame en forme de Polkas, Op.13"
+      "title": "Vltava, JB 1:112/2",
+      "imslp_url": "https://imslp.org/wiki/Vltava,_JB_1:112/2_(Smetana,_Bed\u0159ich)",
+      "year": 1874
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1,_JB_1:105_(Smetana,_Bed%C5%99ich)",
-      "year": 1876,
-      "title": "String Quartet No.1, JB 1:105"
+      "title": "Hubi\u010dka, JB 1:104",
+      "imslp_url": "https://imslp.org/wiki/Hubi\u010dka,_JB_1:104_(Smetana,_Bed\u0159ich)",
+      "year": 1875
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2,_JB_1:124_(Smetana,_Bed%C5%99ich)",
-      "year": 1882,
-      "title": "String Quartet No.2, JB 1:124"
+      "title": "R\u00eaves, JB 1:103",
+      "imslp_url": "https://imslp.org/wiki/R\u00eaves,_JB_1:103_(Smetana,_Bed\u0159ich)",
+      "year": 1875
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Svatebn%C3%AD_sc%C3%A9ny,_JB_1:44_(Smetana,_Bed%C5%99ich)",
-      "year": 1849,
-      "title": "Svatebn\u00ed sc\u00e9ny, JB 1:44"
+      "title": "Z \u010desk\u00fdch luh\u016f a h\u00e1j\u016f, JB 1:112/4",
+      "imslp_url": "https://imslp.org/wiki/Z_\u010desk\u00fdch_luh\u016f_a_h\u00e1j\u016f,_JB_1:112/4_(Smetana,_Bed\u0159ich)",
+      "year": 1875
     },
     {
-      "imslp_url": "https://imslp.org/wiki/T%C3%A1bor,_JB_1:112/5_(Smetana,_Bed%C5%99ich)",
-      "year": 1878,
-      "title": "T\u00e1bor, JB 1:112/5"
+      "title": "\u0160\u00e1rka, JB 1:112/3",
+      "imslp_url": "https://imslp.org/wiki/\u0160\u00e1rka,_JB_1:112/3_(Smetana,_Bed\u0159ich)",
+      "year": 1875
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Tajemstv%C3%AD,_JB_1:110_(Smetana,_Bed%C5%99ich)",
-      "year": 1877,
-      "title": "Tajemstv\u00ed, JB 1:110"
+      "title": "String Quartet No.1, JB 1:105",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1,_JB_1:105_(Smetana,_Bed\u0159ich)",
+      "year": 1876
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Venkovanka,_JB_1:115_(Smetana,_Bed%C5%99ich)",
-      "year": 1879,
-      "title": "Venkovanka, JB 1:115"
+      "title": "Tajemstv\u00ed, JB 1:110",
+      "imslp_url": "https://imslp.org/wiki/Tajemstv\u00ed,_JB_1:110_(Smetana,_Bed\u0159ich)",
+      "year": 1877
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Vid%C4%9Bn%C3%AD_na_plese,_JB_1:71a_(Smetana,_Bed%C5%99ich)",
-      "year": 1858,
-      "title": "Vid\u011bn\u00ed na plese, JB 1:71a"
+      "title": "\u010cesk\u00e9 tance I, JB 1:107",
+      "imslp_url": "https://imslp.org/wiki/\u010cesk\u00e9_tance_I,_JB_1:107_(Smetana,_Bed\u0159ich)",
+      "year": 1877
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Viola,_JB_2:48_(Smetana,_Bed%C5%99ich)",
-      "year": 1874,
-      "title": "Viola, JB 2:48"
+      "title": "T\u00e1bor, JB 1:112/5",
+      "imslp_url": "https://imslp.org/wiki/T\u00e1bor,_JB_1:112/5_(Smetana,_Bed\u0159ich)",
+      "year": 1878
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Vltava,_JB_1:112/2_(Smetana,_Bed%C5%99ich)",
-      "year": 1874,
-      "title": "Vltava, JB 1:112/2"
+      "title": "Blan\u00edk, JB 1:112/6",
+      "imslp_url": "https://imslp.org/wiki/Blan\u00edk,_JB_1:112/6_(Smetana,_Bed\u0159ich)",
+      "year": 1879
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Vy%C5%A1ehrad,_JB_1:112/1_(Smetana,_Bed%C5%99ich)",
-      "year": 1872,
-      "title": "Vy\u0161ehrad, JB 1:112/1"
+      "title": "Venkovanka, JB 1:115",
+      "imslp_url": "https://imslp.org/wiki/Venkovanka,_JB_1:115_(Smetana,_Bed\u0159ich)",
+      "year": 1879
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Vzpom%C3%ADnka_na_Plze%C5%88,_JB_1:17_(Smetana,_Bed%C5%99ich)",
-      "year": 1843,
-      "title": "Vzpom\u00ednka na Plze\u0148, JB 1:17"
+      "title": "\u010certova st\u0115na, JB 1:122",
+      "imslp_url": "https://imslp.org/wiki/\u010certova_st\u0115na,_JB_1:122_(Smetana,_Bed\u0159ich)",
+      "year": 1879
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Wallensteins_Lager,_Op.14_(Smetana,_Bed%C5%99ich)",
-      "year": 1858,
-      "title": "Wallensteins Lager, Op.14"
+      "title": "\u010cesk\u00e9 tance II, JB 1:114",
+      "imslp_url": "https://imslp.org/wiki/\u010cesk\u00e9_tance_II,_JB_1:114_(Smetana,_Bed\u0159ich)",
+      "year": 1879
     },
     {
-      "imslp_url": "https://imslp.org/wiki/5_Waltzes,_JB_1:18_(Smetana,_Bed%C5%99ich)",
-      "year": 1844,
-      "title": "5 Waltzes, JB 1:18"
+      "title": "Z domoviny, JB 1:118",
+      "imslp_url": "https://imslp.org/wiki/Z_domoviny,_JB_1:118_(Smetana,_Bed\u0159ich)",
+      "year": 1880
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Z_%C4%8Desk%C3%BDch_luh%C5%AF_a_h%C3%A1j%C5%AF,_JB_1:112/4_(Smetana,_Bed%C5%99ich)",
-      "year": 1875,
-      "title": "Z \u010desk\u00fdch luh\u016f a h\u00e1j\u016f, JB 1:112/4"
+      "title": "String Quartet No.2, JB 1:124",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2,_JB_1:124_(Smetana,_Bed\u0159ich)",
+      "year": 1882
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Z_domoviny,_JB_1:118_(Smetana,_Bed%C5%99ich)",
-      "year": 1880,
-      "title": "Z domoviny, JB 1:118"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Cadenzas_for_Piano_Concertos_by_Beethoven_and_Mozart_(Smetana,_Bed%C5%99ich)",
-      "year": 1857,
-      "title": "Cadenzas for Piano Concertos by Beethoven and Mozart"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/M%C3%A1_Vlast,_JB_1:112_(Smetana,_Bed%C5%99ich)",
-      "year": 1872,
-      "title": "M\u00e1 Vlast, JB 1:112"
+      "title": "Prague Carnival, JB 1:126",
+      "imslp_url": "https://imslp.org/wiki/Prague_Carnival,_JB_1:126_(Smetana,_Bed\u0159ich)",
+      "year": 1883
     }
   ]
 }

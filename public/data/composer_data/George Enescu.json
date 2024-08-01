@@ -1,0 +1,344 @@
+{
+  "full_name": "George Enescu",
+  "first_names": "George",
+  "last_name": "Enescu",
+  "birth_year": 1881,
+  "death_year": 1955,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/George_Enescu",
+  "events": [
+    {
+      "section": "Biography",
+      "title": "Birth",
+      "summary": "George Enescu was born in Romania, in the village of Liveni, later renamed \"George Enescu\". He was the eighth child of Costache and Maria Enescu, born after the previous siblings died in infancy.",
+      "year": 1881,
+      "location": "Liveni, Romania",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "George Enescu was born in Romania, in a little village that was subsequently renamed 'George Enescu'\u2014because when you're that impressive, why not name an entire village after yourself? He was the eighth child of Costache and Maria Enescu, born after the previous siblings tragically didn't make it past the infancy stage. After seven practice runs, they finally got it right!"
+    },
+    {
+      "section": "Biography",
+      "title": "First Composition",
+      "summary": "As a child prodigy, Enescu began composing at an early age, with his first significant work titled P\u0103minte rom\u00e2nesc created when he was just five years old.",
+      "year": 1886,
+      "location": "Romania",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "As a child prodigy, Enescu started composing at such a young age that he likely had to negotiate nap time with his first piano. His debut work, P\u0103minte rom\u00e2nesc, was crafted when he was just five years old."
+    },
+    {
+      "section": "Biography",
+      "title": "Admission to the Vienna Conservatory",
+      "summary": "At the age of seven, Enescu was admitted to the Vienna Conservatory, making him the youngest student ever at that institution.",
+      "year": 1888,
+      "location": "Vienna, Austria",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "At the age of seven, Enescu was admitted to the Vienna Conservatory, making him the youngest student ever \u2014 I mean, most kids are just perfecting the art of making noise at that age!"
+    },
+    {
+      "section": "Biography",
+      "title": "Private Concert at the Court of Vienna",
+      "summary": "Enescu gave a private concert at the Court of Vienna in the presence of Emperor Franz Joseph when he was ten years old.",
+      "year": 1891,
+      "location": "Vienna, Austria",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "At the tender age of ten, Enescu nervously gave a private concert at the Court of Vienna, standing before Emperor Franz Joseph, likely wondering if he could get ice cream after his performance. But hey, he pulled it off! The Emperor was probably so impressed he forgot to check his royal watch!"
+    },
+    {
+      "section": "Biography",
+      "title": "First Mature Work Presentation",
+      "summary": "At 16, Enescu presented his first mature work, Poema Rom\u00e2n\u0103, at the prestigious Colonne Orchestra in Paris.",
+      "year": 1898,
+      "location": "Paris, France",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "At 16, Enescu pulled a musical rabbit out of his hat with his first mature work, Poema Rom\u00e2n\u0103, at the prestigious Colonne Orchestra in Paris. Who knew a teenager could stir up so much classical drama?"
+    },
+    {
+      "section": "Commemorations",
+      "title": "Enescu Prize",
+      "summary": "George Enescu founded the Enescu Prize in composition, which recognized outstanding work in the field. The prize was awarded from 1913 to 1946. Afterward, it continued to be awarded by the National University of Music Bucharest.",
+      "year": 1913,
+      "location": "Bucharest",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "George Enescu founded the Enescu Prize in composition, which recognized outstanding work in the field from 1913 to 1946. Afterward, the National University of Music Bucharest continued to award it. It's like the Oscars, but for composers with a lot more violins!"
+    },
+    {
+      "section": "Biography",
+      "title": "American Conductor Debut",
+      "summary": "Enescu made his American debut as a conductor with the Philadelphia Orchestra at Carnegie Hall in New York City.",
+      "year": 1923,
+      "location": "New York City, USA",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Enescu waltzed into America like a kid in a candy store, conducting the Philadelphia Orchestra at Carnegie Hall\u2014where the music is as sweet as the candy and the hall is WAY less sticky!"
+    },
+    {
+      "section": "Commemorations",
+      "title": "Homage Violin Sonata",
+      "summary": "Eug\u00e8ne Ysa\u00ffe composed his Violin Sonata No. 3 in D minor, subtitled 'Ballade,' as a tribute to George Enescu. This dedication highlights Enescu's significance in the world of music and violin playing.",
+      "year": 1923,
+      "location": "Bucharest",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "Eug\u00e8ne Ysa\u00ffe composed his Violin Sonata No. 3 in D minor, subtitled 'Ballade,' as a tribute to the legendary George Enescu, highlighting his significant contributions to the world of music and violin playing. Just imagine Enescu's face when he heard it\u2014probably contemplating how to get a bigger hat to fit all that musical genius!"
+    },
+    {
+      "section": "Biography",
+      "title": "Marriage",
+      "summary": "In 1939, Enescu married Maria Tescanu Rosetti, a relationship that intertwined with notable Romanian social circles.",
+      "year": 1939,
+      "location": "Romania",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "In 1939, Enescu tied the knot with Maria Tescanu Rosetti, because who wouldn't want to join the family tree of notable Romanian social circles \u2014 even if the branches are a bit twisted?"
+    },
+    {
+      "section": "Commemorations",
+      "title": "Donation of the Mansion",
+      "summary": "In 1947, Maruca donated the mansion in Moine\u0219ti, where Enescu lived and completed his opera Oedipe, to the state. This donation came with the condition that a cultural center be established there, promoting music and culture.",
+      "year": 1947,
+      "location": "Moine\u0219ti",
+      "emoji": "\ud83c\udfdb\ufe0f",
+      "fun_version": "In 1947, Maruca donated the mansion in Moine\u0219ti, where Enescu lived and completed his opera Oedipe, to the state. She ensured that a cultural center be established on site, dedicated to promoting music and culture, honoring the legacy of Enescu."
+    },
+    {
+      "section": "Commemorations",
+      "title": "Relocation to Paris",
+      "summary": "After the Communist takeover in Romania, George Enescu and his wife moved to Paris in 1947, where they spent the remainder of their lives. This move marked a significant change in their cultural and social landscape.",
+      "year": 1947,
+      "location": "Paris",
+      "emoji": "\u2708\ufe0f",
+      "fun_version": "George Enescu and his wife moved to Paris in 1947 after the Communist takeover in Romania, which marked a significant change in their cultural and social landscape. They decided that baguettes and croissants beat cabbage any day of the week. Little did they know, they\u2019d be living the rest of their lives with more cheese than you could find in a Romanian dairy farm."
+    },
+    {
+      "section": "Biography",
+      "title": "Death",
+      "summary": "George Enescu passed away on 4 May 1955, concluding a significant life in music and education.",
+      "year": 1955,
+      "location": "Paris, France",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "George Enescu passed away on 4 May 1955, after a significant life in music and education."
+    },
+    {
+      "section": "Commemorations",
+      "title": "Donation of the Palace",
+      "summary": "Following George Enescu's death, his wife Maruca donated the Cantacuzino Palace to the Romanian state. This act was intended to create a museum in memory of the composer, preserving his legacy for future generations.",
+      "year": 1955,
+      "location": "Bucharest",
+      "emoji": "\ud83c\udfdb\ufe0f",
+      "fun_version": "After George Enescu checked out from this world, his wife Maruca decided to donate the Cantacuzino Palace to the Romanian state, saying, 'Here, make a museum or something!' This act was intended to create a museum in memory of the composer, allowing future generations to admire Enescu's genius."
+    }
+  ],
+  "works": [
+    {
+      "title": "Prelude",
+      "imslp_url": "https://imslp.org/wiki/Prelude_(Enescu,_George)",
+      "year": 1896
+    },
+    {
+      "title": "Scherzo",
+      "imslp_url": "https://imslp.org/wiki/Scherzo_(Enescu,_George)",
+      "year": 1896
+    },
+    {
+      "title": "Po\u00e8me roumain, Op.1",
+      "imslp_url": "https://imslp.org/wiki/Po\u00e8me_roumain,_Op.1_(Enescu,_George)",
+      "year": 1897
+    },
+    {
+      "title": "Suite No.1 for Piano, Op.3",
+      "imslp_url": "https://imslp.org/wiki/Suite_No.1_for_Piano,_Op.3_(Enescu,_George)",
+      "year": 1897
+    },
+    {
+      "title": "Violin Sonata No.1, Op.2",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.1,_Op.2_(Enescu,_George)",
+      "year": 1897
+    },
+    {
+      "title": "3 M\u00e9lodies, Op.4",
+      "imslp_url": "https://imslp.org/wiki/3_M\u00e9lodies,_Op.4_(Enescu,_George)",
+      "year": 1898
+    },
+    {
+      "title": "Cello Sonata No.1, Op.26 No.1",
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata_No.1,_Op.26_No.1_(Enescu,_George)",
+      "year": 1898
+    },
+    {
+      "title": "Variations, Op.5",
+      "imslp_url": "https://imslp.org/wiki/Variations,_Op.5_(Enescu,_George)",
+      "year": 1898
+    },
+    {
+      "title": "Aubade",
+      "imslp_url": "https://imslp.org/wiki/Aubade_(Enescu,_George)",
+      "year": 1899
+    },
+    {
+      "title": "Violin Sonata No.2, Op.6",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.2,_Op.6_(Enescu,_George)",
+      "year": 1899
+    },
+    {
+      "title": "Octet, Op.7",
+      "imslp_url": "https://imslp.org/wiki/Octet,_Op.7_(Enescu,_George)",
+      "year": 1900
+    },
+    {
+      "title": "2 Romanian Rhapsodies, Op.11",
+      "imslp_url": "https://imslp.org/wiki/2_Romanian_Rhapsodies,_Op.11_(Enescu,_George)",
+      "year": 1901
+    },
+    {
+      "title": "Suite No.2 for Piano, Op.10",
+      "imslp_url": "https://imslp.org/wiki/Suite_No.2_for_Piano,_Op.10_(Enescu,_George)",
+      "year": 1901
+    },
+    {
+      "title": "Symphonie concertante, Op.8",
+      "imslp_url": "https://imslp.org/wiki/Symphonie_concertante,_Op.8_(Enescu,_George)",
+      "year": 1901
+    },
+    {
+      "title": "Impromptu concertant",
+      "imslp_url": "https://imslp.org/wiki/Impromptu_concertant_(Enescu,_George)",
+      "year": 1903
+    },
+    {
+      "title": "Suite No.1 for Orchestra, Op.9",
+      "imslp_url": "https://imslp.org/wiki/Suite_No.1_for_Orchestra,_Op.9_(Enescu,_George)",
+      "year": 1903
+    },
+    {
+      "title": "Cantabile et presto",
+      "imslp_url": "https://imslp.org/wiki/Cantabile_et_presto_(Enescu,_George)",
+      "year": 1904
+    },
+    {
+      "title": "Symphony No.1, Op.13",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.1,_Op.13_(Enescu,_George)",
+      "year": 1905
+    },
+    {
+      "title": "Concertst\u00fcck",
+      "imslp_url": "https://imslp.org/wiki/Concertst\u00fcck_(Enescu,_George)",
+      "year": 1906
+    },
+    {
+      "title": "Decet for Winds, Op.14",
+      "imslp_url": "https://imslp.org/wiki/Decet_for_Winds,_Op.14_(Enescu,_George)",
+      "year": 1906
+    },
+    {
+      "title": "L\u00e9gende",
+      "imslp_url": "https://imslp.org/wiki/L\u00e9gende_(Enescu,_George)",
+      "year": 1906
+    },
+    {
+      "title": "7 Chansons de Cl\u00e9ment Marot, Op.15",
+      "imslp_url": "https://imslp.org/wiki/7_Chansons_de_Cl\u00e9ment_Marot,_Op.15_(Enescu,_George)",
+      "year": 1908
+    },
+    {
+      "title": "Morceau de d\u00e9chiffrer pour cor et piano",
+      "imslp_url": "https://imslp.org/wiki/Morceau_de_d\u00e9chiffrer_pour_cor_et_piano_(Enescu,_George)",
+      "year": 1908
+    },
+    {
+      "title": "Piano Quartet No.1, Op.16",
+      "imslp_url": "https://imslp.org/wiki/Piano_Quartet_No.1,_Op.16_(Enescu,_George)",
+      "year": 1909
+    },
+    {
+      "title": "Piano Sonata No.1, Op.24 No.1",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.1,_Op.24_No.1_(Enescu,_George)",
+      "year": 1912
+    },
+    {
+      "title": "Symphony No.2, Op.17",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.2,_Op.17_(Enescu,_George)",
+      "year": 1912
+    },
+    {
+      "title": "Suite No.3 for Piano, Op.18",
+      "imslp_url": "https://imslp.org/wiki/Suite_No.3_for_Piano,_Op.18_(Enescu,_George)",
+      "year": 1913
+    },
+    {
+      "title": "3 M\u00e9lodies sur po\u00e8mes de Fernand Gregh, Op.19",
+      "imslp_url": "https://imslp.org/wiki/3_M\u00e9lodies_sur_po\u00e8mes_de_Fernand_Gregh,_Op.19_(Enescu,_George)",
+      "year": 1915
+    },
+    {
+      "title": "Suite No.2 for Orchestra, Op.20",
+      "imslp_url": "https://imslp.org/wiki/Suite_No.2_for_Orchestra,_Op.20_(Enescu,_George)",
+      "year": 1915
+    },
+    {
+      "title": "Symphony No.3, Op.21",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.3,_Op.21_(Enescu,_George)",
+      "year": 1916
+    },
+    {
+      "title": "String Quartet No.1, Op.22 No.1",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1,_Op.22_No.1_(Enescu,_George)",
+      "year": 1920
+    },
+    {
+      "title": "Pi\u00e8ce pour piano sur le nom de Faur\u00e9",
+      "imslp_url": "https://imslp.org/wiki/Pi\u00e8ce_pour_piano_sur_le_nom_de_Faur\u00e9_(Enescu,_George)",
+      "year": 1922
+    },
+    {
+      "title": "Violin Sonata No.3, Op.25",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.3,_Op.25_(Enescu,_George)",
+      "year": 1926
+    },
+    {
+      "title": "Oedipe, Op.23",
+      "imslp_url": "https://imslp.org/wiki/Oedipe,_Op.23_(Enescu,_George)",
+      "year": 1931
+    },
+    {
+      "title": "Piano Sonata No.3, Op.24 No.3",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.3,_Op.24_No.3_(Enescu,_George)",
+      "year": 1933
+    },
+    {
+      "title": "Cello Sonata No.2, Op.26 No.2",
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata_No.2,_Op.26_No.2_(Enescu,_George)",
+      "year": 1935
+    },
+    {
+      "title": "Impressions d'enfance, Op.28",
+      "imslp_url": "https://imslp.org/wiki/Impressions_d'enfance,_Op.28_(Enescu,_George)",
+      "year": 1940
+    },
+    {
+      "title": "Piano Quintet, Op.29",
+      "imslp_url": "https://imslp.org/wiki/Piano_Quintet,_Op.29_(Enescu,_George)",
+      "year": 1940
+    },
+    {
+      "title": "Piano Quartet No.2, Op.30",
+      "imslp_url": "https://imslp.org/wiki/Piano_Quartet_No.2,_Op.30_(Enescu,_George)",
+      "year": 1943
+    },
+    {
+      "title": "Ouverture de concert, Op.32",
+      "imslp_url": "https://imslp.org/wiki/Ouverture_de_concert,_Op.32_(Enescu,_George)",
+      "year": 1948
+    },
+    {
+      "title": "String Quartet No.2, Op.22 No.2",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2,_Op.22_No.2_(Enescu,_George)",
+      "year": 1950
+    },
+    {
+      "title": "Chamber Symphony, Op.33",
+      "imslp_url": "https://imslp.org/wiki/Chamber_Symphony,_Op.33_(Enescu,_George)",
+      "year": 1954
+    },
+    {
+      "title": "Vox Maris, Op.31",
+      "imslp_url": "https://imslp.org/wiki/Vox_Maris,_Op.31_(Enescu,_George)",
+      "year": 1954
+    }
+  ]
+}

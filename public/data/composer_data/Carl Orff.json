@@ -1,312 +1,119 @@
 {
   "full_name": "Carl Orff",
-  "first_names": "Carl",
+  "first_names": "Carl Heinrich Maria",
   "last_name": "Orff",
   "birth_year": 1895,
   "death_year": 1982,
   "wikipedia_url": "https://en.wikipedia.org/wiki/Carl_Orff",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Carl Orff made his grand entrance into the world, emerging into a musical and military family in Munich, where he probably hummed before he even cried.",
+      "section": "Life",
+      "title": "Birth",
+      "summary": "Carl Heinrich Maria Orff was born in Munich, into a Bavarian family with military ties, where music played a significant role in his upbringing.",
       "year": 1895,
-      "city": "Munich",
-      "country": "Germany"
+      "location": "Munich",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Carl Heinrich Maria Orff was born in the musical wonderland of Munich to a Bavarian family with military ties, where instead of military parades, they had symphonies marching down the street. His family was so into music, they probably had musical chairs at every family gathering, and the winner got to conduct the orchestra!"
     },
     {
-      "event": "First Music Lessons",
-      "summary": "At the tender age of five, Orff started tickling the ivories on the piano, sparking a lifelong love affair with music that would later include composing for puppet plays, because who doesn't love a good puppet show?",
+      "section": "Life",
+      "title": "Early Music Education",
+      "summary": "At age five, Orff began learning piano and later studied cello and organ. He composed songs for puppet plays and attended various concerts during his early life.",
       "year": 1900,
-      "city": "Munich",
-      "country": "Germany"
+      "location": "Munich",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "At age five, Orff began learning piano and later studied cello and organ. He composed songs for puppet plays and attended various concerts during his early life. He spent more time at concerts than most kids spent at birthday parties!"
     },
     {
-      "event": "First Concert Experience",
-      "summary": "Orff's ears were treated to his first opera, Wagner's The Flying Dutchman, making him question if he should stick to composing or audition for the role of a lifetime in the opera.",
+      "section": "Life",
+      "title": "First Opera Experience",
+      "summary": "He experienced his first opera, Richard Wagner's The Flying Dutchman, at the age of 14, which significantly influenced his musical development.",
       "year": 1909,
-      "city": "Munich",
-      "country": "Germany"
+      "location": "Munich",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "At the tender age of 14, he stumbled into the wild world of opera with Richard Wagner's The Flying Dutchman, thinking it was a magical boat ride. Little did he know, this unforgettable experience would not just float his boat but also steer his musical development!"
     },
     {
-      "event": "Composed Lieder",
-      "summary": "Orff started churning out Lieder faster than a bakery makes bread, with texts from German poets, and the poetry club surely couldn't keep up with his creative flow!",
-      "year": 1910,
-      "city": "Munich",
-      "country": "Germany"
+      "section": "Life",
+      "title": "Composition of Lieder",
+      "summary": "During 1910-1912, Orff wrote several dozen songs (Lieder) based on texts by German poets, marking his initial foray into serious composition.",
+      "year": 1912,
+      "location": "Munich",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Between 1910 and 1912, Orff cranked out a ton of songs like a musical vending machine from several dozen compositions, using German poets\u2019 texts as his snacks! It marked his first serious foray into composition."
     },
     {
-      "event": "World War I Draft",
-      "summary": "In a plot twist, the military service called, and Orff found himself in the German Army, trading his composing pen for a rifle, much to his dismay.",
+      "section": "Life",
+      "title": "World War I Service",
+      "summary": "Orff was conscripted into the German Army during World War I, facing significant personal turmoil and involvement in battle.",
       "year": 1917,
-      "city": "Germany",
-      "country": "Germany"
+      "location": "Germany",
+      "emoji": "\u2694\ufe0f",
+      "fun_version": "Orff was conscripted into the German Army during World War I, facing significant personal turmoil and involvement in battle, proving that even composers can\u2019t dodge the draft!"
     },
     {
-      "event": "Severe Injuries",
-      "summary": "After a rather dramatic trench accident that sounds like a tragic scene from a novel, Orff faced life-altering injuries, leaving him to wonder if he should really just stick to writing music.",
-      "year": 1917,
-      "city": "Germany",
-      "country": "Germany"
-    },
-    {
-      "event": "Post-War Career Begins",
-      "summary": "As the dust of war settled, Orff found his footing in the music world, taking up positions at opera houses where he was likely an equal mix of a taskmaster and idealistic dreamer.",
-      "year": 1920,
-      "city": "Mannheim/Darmstadt",
-      "country": "Germany"
-    },
-    {
-      "event": "Founded G\u00fcnther-Schule",
-      "summary": "In a triumphant return to creativity, Orff teamed up with Dorothee G\u00fcnther to establish a school where children could dance, sing, and potentially take over the world with their musical prowess.",
-      "year": 1924,
-      "city": "Munich",
-      "country": "Germany"
-    },
-    {
-      "event": "Published Schulwerk",
-      "summary": "Orff unveiled the 'Schulwerk', a revolutionary manual for music education that left the education community wondering why they hadn't thought of it first and secretly wishing they had his creative flair.",
-      "year": 1930,
-      "city": "Munich",
-      "country": "Germany"
-    },
-    {
-      "event": "Premiere of Carmina Burana",
-      "summary": "Orff's masterpiece, 'Carmina Burana', burst onto the scene and instantly became the life of the party in Nazi Germany, proving that even amidst chaos, great art can shine through.",
+      "section": "Life",
+      "title": "Carmina Burana Premiere",
+      "summary": "Orff's significant work, Carmina Burana, premiered, earning him notable fame and popularity amidst the Nazi regime.",
       "year": 1937,
-      "city": "Frankfurt",
-      "country": "Germany"
+      "location": "Frankfurt",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Orff's \"Carmina Burana\" had its grand premiere, earning him notable fame and popularity, and suddenly Orff went from \u201cWho\u2019s that?\u201d to \u201cOh, it\u2019s the guy with the catchy tunes about drinking and fate!\u201d even amidst the not-so-funny Nazi regime."
     },
     {
-      "event": "Created Incidental Music for Shakespare",
-      "summary": "Orff\u2019s music for 'A Midsummer Night's Dream' turned the tables on Mendelssohn\u2019s banned scores, showcasing his ability to dance around restrictions like a pro.",
+      "section": "Life",
+      "title": "Ein Sommernachtstraum Premiere",
+      "summary": "He composed new incidental music for Shakespeare's A Midsummer Night's Dream, which was performed for the first time in 1939 under a commission despite several challenges.",
       "year": 1939,
-      "city": "Frankfurt",
-      "country": "Germany"
+      "location": "Frankfurt",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "In 1939, under a commission, someone decided to spice up Shakespeare's A Midsummer Night's Dream with fresh incidental music! I mean, who wouldn't want fairies dancing to new tunes? Challenges? Just a minor inconvenience for the convinced musicians!"
     },
     {
-      "event": "First major performance of revised version of opera",
-      "summary": "After a long wait and a bit of wrangling over revisions, Orff's updated version of his opera finally made its grand debut in Darmstadt. It was like waiting for your favorite pizza to arrive, only to find out it was actually a calzone! But there was no denying the audience's delight when it hit the stage.",
-      "year": 1952,
-      "city": "Darmstadt",
-      "country": "Germany"
-    },
-    {
-      "event": "American premiere of 'Carmina Burana'",
-      "summary": "Orff's iconic work 'Carmina Burana' crossed the pond for its American debut at the Empire State Music Festival. Imagine a giant crowd and Leopold Stokowski waving his baton like a magician revealing a very talented rabbit from a very big hat!",
-      "year": 1956,
-      "city": "New York",
-      "country": "USA"
-    },
-    {
-      "event": "Final revision of his opera",
-      "summary": "In a classic case of 'one more thing', Orff decided to make yet another round of revisions to his masterpiece, ensuring it would be just perfect\u2014or at least as perfect as one can get in the ever-evolving world of music. And sure enough, this final version dazzled audiences afresh.",
-      "year": 1964,
-      "city": "Stuttgart",
-      "country": "Germany"
-    },
-    {
-      "event": "Denazification evaluation",
-      "summary": "Orff went through a denazification process, like a musician in a very serious talent show, trying to prove he was more about harmony and less about the chaos of the previous regime. His evaluator gave him a passing grade, which was like getting a thumbs-up from the sternest teacher in school.",
-      "year": 1946,
-      "city": "Bad Homburg",
-      "country": "Germany"
-    },
-    {
-      "event": "Final marriage",
-      "summary": "Carl tied the knot for the last time with Liselotte Schmitz. It was like hitting the jackpot in the marriage lottery\u2014let's hope this time he remembered to read the fine print about 'forever'.",
-      "year": 1959,
-      "city": "Unknown",
-      "country": "Unknown"
-    },
-    {
-      "event": "Marriage to Liselotte Schmitz",
-      "summary": "He found love again with his secretary, Liselotte Schmitz, striking a deal that worked out nicely for both, particularly because she also carried on his legacy after he became the ultimate party crasher and left this world.",
-      "year": 1960,
-      "city": "Andechs",
-      "country": "Germany"
-    },
-    {
-      "event": "Premiere of Antigonae",
-      "summary": "With Antigonae's debut, Orff told the world he was officially done with his past\u2014a creative reboot! It's like saying every previous album was just a rough draft of the masterpiece he's been saving up all this time.",
+      "section": "Works",
+      "title": "Antigonae",
+      "summary": "Antigonae is a significant work composed by Carl Orff, marking a new phase in his career following his earlier compositions. It is based on Friedrich H\u00f6lderlin's translation of Sophocles's play. The composition reflects Orff's deep engagement with this source material, which began shortly after his experiences during World War I, and the premiere occurred at the Salzburg Festival in 1949. This work is characterized by its powerful musical expression and an innovative orchestration that departs from traditional operatic forms.",
       "year": 1949,
-      "city": "Salzburg",
-      "country": "Austria"
+      "location": "Salzburg Festival",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Antigonae is like a musical rollercoaster crafted by Carl Orff, who decided to take a plunge into his creative abyss after dabbling in earlier works. It\u2019s based on Friedrich H\u00f6lderlin's translation of Sophocles\u2019s play, which is just a long way of saying he borrowed someone else's homework! After Orff premiered this masterpiece at the Salzburg Festival in 1949, this work is characterized by its powerful musical expression and an innovative orchestration that departs from traditional operatic forms."
     },
     {
-      "event": "Premiere of De temporum fine comoedia",
-      "summary": "As he wrapped up his composing career with De temporum fine comoedia, it was his way of putting a shiny bow on top of a lifetime of music, proclaiming with a wink that it truly reflected a culmination of all he had learned about time, existence, and a sprinkle of drama.",
-      "year": 1973,
-      "city": "Salzburg",
-      "country": "Austria"
-    },
-    {
-      "event": "Death",
-      "summary": "Orff finally took his leave of the world with a dramatic flair that could rival one of his own compositions, leaving behind plans to be buried in a picturesque Baroque church as if to say, 'I want my final curtain call to be truly grand!'",
-      "year": 1982,
-      "city": "Munich",
-      "country": "Germany"
-    },
-    {
-      "event": "Carmina Burana premiere",
-      "summary": "Finally, the world was treated to 'Carmina Burana', a piece that made people want to chant 'O Fortuna' while throwing confetti. This work was so popular that Orff decided all his earlier compositions could just stay in the attic!",
-      "year": 1937,
-      "city": "Frankfurt am Main",
-      "country": "Germany"
-    },
-    {
-      "event": "Die Kluge premiere",
-      "summary": "The curtain lifted on 'Die Kluge', where the wisest of tales is set to music, proving that brains can indeed sing! Orff showed he had a knack not just for catchy tunes, but for storytelling too, with a Grimm twist!",
-      "year": 1943,
-      "city": "Munich",
-      "country": "Germany"
-    },
-    {
-      "event": "Ein Sommernachtstraum completion",
-      "summary": "Orff took on Shakespeare and his famous play 'A Midsummer Night's Dream', and somehow managed to make it feel like a festive garden party with musical interludes that even fairies would approve of!",
-      "year": 1939,
-      "city": "Munich",
-      "country": "Germany"
-    },
-    {
-      "event": "Die Bernauerin premiere",
-      "summary": "The world was graced with 'Die Bernauerin', a piece that not only entertained but also confirmed that love, drama, and music are the ideal ingredients for a matinee performance that nobody will forget!",
-      "year": 1947,
-      "city": "Munich",
-      "country": "Germany"
-    },
-    {
-      "event": "Astutuli premiere",
-      "summary": "With 'Astutuli', Orff dazzled audiences yet again! The title suggests cunning wit, and the music confirmed that even clever foxes can dance when the right melody is playing.",
-      "year": 1953,
-      "city": "Munich",
-      "country": "Germany"
-    },
-    {
-      "event": "Comoedia de Christi Resurrectione premiere",
-      "summary": "Orff's Easter extravaganza, where he combined religious themes with his catchy style. It was like a musical resurrection of spirit, proving that music has a divine sense of timing!",
-      "year": 1956,
-      "city": "Television",
-      "country": "Germany"
-    },
-    {
-      "event": "Prometheus premiere",
-      "summary": "With 'Prometheus', Orff dared to set ancient Greek mythology to music, showing that bringing fire from the gods is much more fun with a good melody\u2014no chains required!",
-      "year": 1968,
-      "city": "Munich",
-      "country": "Germany"
-    },
-    {
-      "event": "Rota premiere",
-      "summary": "In a twist that would enchant the youthful souls, Orff's 'Rota' premiered at the Olympic Summer Games, proving that ancient tunes can indeed start a new round of applause from a global audience!",
-      "year": 1972,
-      "city": "Munich",
-      "country": "Germany"
-    },
-    {
-      "event": "De temporum fine comoedia premiere",
-      "summary": "Wrapping up a saga with 'De temporum fine comoedia', Orff's masterpiece made the audience ponder the end times, all while tapping their toes to ear-catching beats, as deep thoughts rarely sound this danceable!",
-      "year": 1973,
-      "city": "Munich",
-      "country": "Germany"
-    },
-    {
-      "event": "Emotional Crisis",
-      "summary": "Caught in a whirlwind of melodrama, our composer faced an emotional crisis that led him to contemplate whether he was about to end his compositional saga or reset the whole narrative. Spoiler alert: he chose the latter and started anew, shaking off the cobwebs of his past.",
-      "year": 1917,
-      "city": "Unknown",
-      "country": "Unknown"
-    },
-    {
-      "event": "Break from Music",
-      "summary": "In the trenches of war, our composer announced a complete withdrawal from the world of music, claiming that hearing it now made him feel like he was stuck on a rollercoaster designed by a toddler. He was convinced that being outside the musical sphere was a blessing for his sanity.",
-      "year": 1917,
-      "city": "Unknown",
-      "country": "Unknown"
-    },
-    {
-      "event": "Embrace of Epic Theater",
-      "summary": "With a revolutionary spirit, our composer dove headfirst into contemporary Epic Theater. He sequentially donned an avant-garde cape, rallying behind Bert Brecht as if he was joining a superhero squad dedicated to bold thematic storytelling.",
-      "year": 1966,
-      "city": "Unknown",
-      "country": "Unknown"
-    },
-    {
-      "event": "Carmina Burana Premiere",
-      "summary": "He hit the stage with the premiere of Carmina Burana, a work that turned out to be the unexpected pop hit of the classical world\u2014like Beethoven\u2019s symphonies if they sported leather jackets and sunglasses. It resonated in the hearts of audiences, and unexpectedly joined the playlist of many a political rally\u2014a quirky twist!",
-      "year": 1937,
-      "city": "Munich",
-      "country": "Germany"
-    },
-    {
-      "event": "Denazification Process",
-      "summary": "After the war, our composer found himself in a sitcom-worthy situation, navigating the tangled web of denazification. With both his reputation and his craft on the line, he managed to charm his way through bureaucratic hoops, proving that even composers can play the bureaucratic game.",
-      "year": 1946,
-      "city": "Munich",
-      "country": "Germany"
-    },
-    {
-      "event": "Divorce",
-      "summary": "In a classic case of 'it's not you, it's me', Orff and his first wife called it quits, perhaps over musical differences \u2013 his love for rhythm might not have jived with her taste for harmony.",
-      "year": 1927,
-      "city": "Munich",
-      "country": "Germany"
-    },
-    {
-      "event": "First Major Success",
-      "summary": "Orff hit the jackpot with the premiere of Carmina Burana, which put him on the musical map \u2013 not just a footnote in history but a full-fledged headline act!",
-      "year": 1937,
-      "city": "Frankfurt",
-      "country": "Germany"
-    },
-    {
-      "event": "World War II Composition",
-      "summary": "While the world was busy with wartime chaos, Orff took to composing, proving that even in troubling times, creativity finds a way (and a catchy tune to boot!).",
-      "year": 1943,
-      "city": "Munich",
-      "country": "Germany"
-    },
-    {
-      "event": "Widower",
-      "summary": "Orff found himself single again, this time facing the bittersweet symphony of life after the loss of his second wife \u2013 but he wasn't going to let that stop his creative flow!",
+      "section": "Works",
+      "title": "Oedipus der Tyrann",
+      "summary": "This work is another setting of a Sophocles play, also translated by Friedrich H\u00f6lderlin. Following the premiere of Antigonae, Oedipus der Tyrann showcases Orff's continued exploration of themes from antiquity. It features a highly specialized ensemble, reflecting Orff's unique compositional approach and premiered in Stuttgart in 1959.",
       "year": 1959,
-      "city": "Munich",
-      "country": "Germany"
+      "location": "Stuttgart",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Welcome to the latest chaos in the theater world where we showcase Sophocles' play like it\u2019s a new recipe! After the debut of Antigonae (which I\u2019m sure was a hit), we dive into Oedipus der Tyrann, where Orff decided to mess around with ancient themes \u2013 because who doesn't love a good drama from Greece? This production boasts an ensemble so specialized, they probably need a secret decoder ring to communicate, and it first found its spotlight in Stuttgart back in '59."
     },
     {
-      "event": "Return to Fame",
-      "summary": "After a somewhat comedic hiatus where some thought he had been lost to the ages, Orff made a triumphant return to the spotlight, reminding everyone why he'd been the talk of the town in the first place!",
-      "year": 1960,
-      "city": "Munich",
-      "country": "Germany"
+      "section": "Works",
+      "title": "Prometheus",
+      "summary": "Orff's Prometheus is a setting of the Greek tragedy attributed to Aeschylus, performed in the original language. The work is notable for its large percussion ensembles and innovative use of non-Western instruments. Premiering in 1968, it stands out in Orff's oeuvre for its dramatic intensity and thematic depth.",
+      "year": 1968,
+      "location": "Stuttgart",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Orff's Prometheus is like a fanciful trip to a percussion store! Imagine a classic tale by Aeschylus performed in the original language, brought to life not just with words but with a cacophony of drums and some very confused non-Western instruments! Premiering in 1968, this piece combines dramatic intensity and thematic depth while standing out in Orff's oeuvre."
     },
     {
-      "event": "Honorary Doctorate",
-      "summary": "To top off his impressive resume, Orff received an honorary doctorate \u2013 because what\u2019s better than a life of music? A life of music accompanied by fancy titles!",
-      "year": 1970,
-      "city": "Munich",
-      "country": "Germany"
+      "section": "Works",
+      "title": "De temporum fine comoedia",
+      "summary": "De temporum fine comoedia, known as Play on the End of Times, is considered one of Orff's final works for the stage. This composition presents a mystery play incorporating various languages and is reflective of his philosophical views on time and existence. Premiering in 1973 at the Salzburg Festival, it embodies Orff\u2019s comprehensive thematic explorations throughout his career.",
+      "year": 1973,
+      "location": "Salzburg Festival",
+      "emoji": "\u23f3",
+      "fun_version": "De temporum fine comoedia, or as it's formally known, Play on the End of Times, is one of Orff's final works for the stage\u2014his swan song, if swans could sing and ponder existence. This composition presents a mystery play that's a linguistic buffet! Imagine mixing different languages like a chef mixes ingredients\u2014adding sprinkles of philosophy and dashes of existential thoughts. Premiering at the Salzburg Festival in 1973, it embodies Orff\u2019s comprehensive thematic explorations throughout his career."
     },
     {
-      "event": "First Composition",
-      "summary": "Orff crafted his very first musical piece, likely feeling a mix of pride and confusion as he realized his life would now be filled with notes and rhythms instead of normal chores.",
-      "year": 1911,
-      "city": "Munich",
-      "country": "Germany"
-    },
-    {
-      "event": "Rise to Fame",
-      "summary": "After the tremendous success of 'Carmina Burana', Orff suddenly found himself the life of the party among musical elites\u2014no longer the wallflower at music recitals!",
-      "year": 1940,
-      "city": "Berlin",
-      "country": "Germany"
-    },
-    {
-      "event": "Orff Schulwerk Development",
-      "summary": "Orff developed his acclaimed educational philosophy known as Orff Schulwerk, transforming the way music was taught and ensuring that every child could pretend to be a virtuoso, even if they were just banging pots.",
-      "year": 1924,
-      "city": "Munich",
-      "country": "Germany"
+      "section": "Life",
+      "title": "Death",
+      "summary": "Orff passed away due to cancer, leaving behind a legacy of influential musical works and methodologies.",
+      "year": 1982,
+      "location": "Munich",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Orff\u2019s life had an abrupt finale, like a poorly timed cymbal crash, as he passed away due to cancer. However, his legacy of musical masterpieces lives on! I guess you could say he composed his final score \u2014 just a little too early for the encore!"
     }
   ],
-  "compositions": []
+  "works": []
 }

@@ -1,0 +1,110 @@
+{
+  "full_name": "Luis de Mil\u00e1n",
+  "first_names": "Luis",
+  "last_name": "de Mil\u00e1n",
+  "birth_year": 1500,
+  "death_year": 1561,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Luis_de_Mil\u00e1n",
+  "events": [
+    {
+      "section": "El Maestro(1536)",
+      "title": "Publication of El Maestro",
+      "summary": "Mil\u00e1n's Libro de m\u00fasica de vihuela de mano, titled El Maestro, was printed in December 1536 and dedicated to King John III of Portugal. This collection is significant as it is the first of its kind in history and includes a range of compositions designed for students of the vihuela, indicating a structured approach to musical education.",
+      "year": 1536,
+      "location": "Portugal",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Milan's *Libro de m\u00fasica de vihuela de mano*, titled *El Maestro*, was printed in December 1536 and dedicated to King John III of Portugal. This collection is significant as it is the first of its kind in history and includes a range of compositions designed for students of the vihuela, indicating a structured approach to musical education."
+    },
+    {
+      "section": "Late works",
+      "title": "Publication of El cortesano",
+      "summary": "Mil\u00e1n\u2019s last publication, El cortesano, provides a vivid and entertaining picture of life in the Valencian ducal court, reflecting the era's culture and societal norms. Although it contains no music, it serves as a valuable narrative by a professional musician, offering insights into court life during that time.",
+      "year": 1561,
+      "location": "Valencian ducal court",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Milan's last publication, \"El cortesano,\" paints a vibrant picture of life in the Valencian ducal court, reflecting the era's culture and societal norms. While you won\u2019t find any catchy tunes in there, it\u2019s still a valuable narrative from a professional musician who thought, \u201cWhy not write a book instead of just playing the lute?\u201d It offers plenty of juicy gossip about court life and is perfect for your next dinner party."
+    }
+  ],
+  "works": [
+    {
+      "title": "Fantas\u00eda I",
+      "imslp_url": "https://imslp.org/wiki/Fantas\u00eda_I_(Mil\u00e1n,_Luis)",
+      "year": 1536
+    },
+    {
+      "title": "Fantas\u00eda II",
+      "imslp_url": "https://imslp.org/wiki/Fantas\u00eda_II_(Mil\u00e1n,_Luis)",
+      "year": 1536
+    },
+    {
+      "title": "Fantas\u00eda III",
+      "imslp_url": "https://imslp.org/wiki/Fantas\u00eda_III_(Mil\u00e1n,_Luis)",
+      "year": 1536
+    },
+    {
+      "title": "Fantas\u00eda IV",
+      "imslp_url": "https://imslp.org/wiki/Fantas\u00eda_IV_(Mil\u00e1n,_Luis)",
+      "year": 1536
+    },
+    {
+      "title": "Fantas\u00eda V",
+      "imslp_url": "https://imslp.org/wiki/Fantas\u00eda_V_(Mil\u00e1n,_Luis)",
+      "year": 1536
+    },
+    {
+      "title": "Fantas\u00eda VII",
+      "imslp_url": "https://imslp.org/wiki/Fantas\u00eda_VII_(Mil\u00e1n,_Luis)",
+      "year": 1536
+    },
+    {
+      "title": "Fantas\u00eda X",
+      "imslp_url": "https://imslp.org/wiki/Fantas\u00eda_X_(Mil\u00e1n,_Luis)",
+      "year": 1536
+    },
+    {
+      "title": "Fantas\u00eda XI",
+      "imslp_url": "https://imslp.org/wiki/Fantas\u00eda_XI_(Mil\u00e1n,_Luis)",
+      "year": 1536
+    },
+    {
+      "title": "Fantas\u00eda XXII",
+      "imslp_url": "https://imslp.org/wiki/Fantas\u00eda_XXII_(Mil\u00e1n,_Luis)",
+      "year": 1536
+    },
+    {
+      "title": "Fantas\u00eda XXXI",
+      "imslp_url": "https://imslp.org/wiki/Fantas\u00eda_XXXI_(Mil\u00e1n,_Luis)",
+      "year": 1536
+    },
+    {
+      "title": "Pavana I",
+      "imslp_url": "https://imslp.org/wiki/Pavana_I_(Mil\u00e1n,_Luis)",
+      "year": 1536
+    },
+    {
+      "title": "Pavana II",
+      "imslp_url": "https://imslp.org/wiki/Pavana_II_(Mil\u00e1n,_Luis)",
+      "year": 1536
+    },
+    {
+      "title": "Pavana III",
+      "imslp_url": "https://imslp.org/wiki/Pavana_III_(Mil\u00e1n,_Luis)",
+      "year": 1536
+    },
+    {
+      "title": "Pavana IV",
+      "imslp_url": "https://imslp.org/wiki/Pavana_IV_(Mil\u00e1n,_Luis)",
+      "year": 1536
+    },
+    {
+      "title": "Pavana V",
+      "imslp_url": "https://imslp.org/wiki/Pavana_V_(Mil\u00e1n,_Luis)",
+      "year": 1536
+    },
+    {
+      "title": "Pavana VI",
+      "imslp_url": "https://imslp.org/wiki/Pavana_VI_(Mil\u00e1n,_Luis)",
+      "year": 1536
+    }
+  ]
+}

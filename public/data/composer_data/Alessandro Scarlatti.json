@@ -1,0 +1,724 @@
+{
+  "full_name": "Alessandro Scarlatti",
+  "first_names": "Alessandro",
+  "last_name": "Scarlatti",
+  "birth_year": 1660,
+  "death_year": 1725,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alessandro_Scarlatti",
+  "events": [
+    {
+      "section": "Life",
+      "title": "Opera Gli equivoci nel sembiante",
+      "summary": "Scarlatti's opera, Gli equivoci nel sembiante, premiered in 1679 in Rome, garnering the support of Queen Christina of Sweden, who was living in Rome at that time.",
+      "year": 1679,
+      "location": "Rome",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Back in 1679, Scarlatti dropped his latest opera, Gli equivoci nel sembiante, in Rome like it was hot! Queen Christina of Sweden, who was also in Rome (maybe she was just there for the pasta?), decided to throw her royal weight behind it. Who says opera can't be a group effort?"
+    },
+    {
+      "section": "Music",
+      "title": "Early Operas",
+      "summary": "Scarlatti's early works, including 'Gli equivoci nel sembiante', 'L'honest\u00e0 negli amori', and 'Il Pompeo', showcase a blend of older cadences and charming arias that highlight his innovative style. These operas reflect the trends of the late 17th century, with a rich variety of forms and careful construction.",
+      "year": 1680,
+      "location": "Naples",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Scarlatti's early works are like a Sunday brunch buffet: you've got 'Gli equivoci nel sembiante' as the fancy quiche, and 'Il Pompeo' trying to be the star but just ends up being a side dish! These operas, reflecting the rich variety of forms and careful construction of the late 17th century, are a delightful mix of older cadences and charming arias, showcasing his style that\u2019s as innovative as a hipster caf\u00e9 in that era."
+    },
+    {
+      "section": "Life",
+      "title": "Maestro di cappella to the viceroy of Naples",
+      "summary": "In February 1684, Scarlatti became the maestro di cappella to the viceroy of Naples, possibly due to the influence of his sister, an opera singer.",
+      "year": 1684,
+      "location": "Naples",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In February 1684, Scarlatti snagged the position of maestro di cappella to the viceroy of Naples, probably thanks to his sister pulling some major strings. I guess being related to an opera singer has its perks!"
+    },
+    {
+      "section": "Music",
+      "title": "Italian Overture Form Established",
+      "summary": "By 1686, Scarlatti established the 'Italian overture' form through his second edition of 'Dal male il bene'. This marked a significant shift away from older musical structures, allowing him to introduce more complex compositions.",
+      "year": 1686,
+      "location": "Naples",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "By 1686, Scarlatti was so fed up with the old music structures that he decided to whip up the 'Italian overture' form faster than a chef making spaghetti! His second edition of 'Dal male il bene' marked a significant shift, serving complex compositions that left the music critics in a state of melodic delight!"
+    },
+    {
+      "section": "Music",
+      "title": "First Use of Orchestral Ritornello",
+      "summary": "In his opera 'Teodora', composed in 1697, Scarlatti is credited with originating the use of the orchestral ritornello, a substantial innovation in operatic structure and orchestration.",
+      "year": 1697,
+      "location": "Naples",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In his opera 'Teodora', composed in 1697, Scarlatti decided that operas needed a little pizzazz. So, he popped on his conductor's hat, waved his magic wand, and boom! He invented the orchestral ritornello - a substantial innovation in operatic structure that makes people go 'Wow!'"
+    },
+    {
+      "section": "Life",
+      "title": "Patronage of Ferdinando de' Medici",
+      "summary": "Between 1702 and 1707, Scarlatti composed operas for the private theatre of Ferdinando de' Medici in Florence, enjoying his patronage.",
+      "year": 1702,
+      "location": "Florence",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Picture this: from 1702 to 1707, Scarlatti was busy whipping up operas like a chef in a kitchen, but instead of food, he was serving dramatic performances for Ferdinando de' Medici\u2019s private theatre in Florence, enjoying his patronage. Talk about a \u2018patron\u2019-izing situation!"
+    },
+    {
+      "section": "Life",
+      "title": "Maestro di cappella at Basilica di Santa Maria Maggiore",
+      "summary": "In 1703, Scarlatti was appointed maestro di cappella at the Basilica di Santa Maria Maggiore in Rome, thanks to Cardinal Ottoboni's influence.",
+      "year": 1703,
+      "location": "Rome",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1703, amidst concertos and cantatas, Scarlatti snagged the prestigious title of maestro di cappella at the Basilica di Santa Maria Maggiore in Rome\u2014 courtesy of Cardinal Ottoboni's magic touch. You know what they say, it\u2019s not what you know, but who you know."
+    },
+    {
+      "section": "Music",
+      "title": "Griselda Mitridate Eupatore",
+      "summary": "In 1707, Scarlatti composed 'Griselda Mitridate Eupatore', which is considered his masterpiece. This work exhibited a remarkable advancement in both musical technique and intellectual depth compared to his previous compositions for Naples.",
+      "year": 1707,
+      "location": "Venice",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1707, Scarlatti composed 'Griselda Mitridate Eupatore', which is considered his masterpiece. This composition showcased remarkable musical technique and intellectual depth, marking an advancement over his previous works for Naples."
+    },
+    {
+      "section": "Music",
+      "title": "Later Neapolitan Operas",
+      "summary": "Scarlatti's operas from 1709 onwards are characterized by a more showy and effective style, with significant improvements in instrumentation. He advanced the role of string quartets in his compositions, indicating a shift towards modern orchestration.",
+      "year": 1709,
+      "location": "Naples",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "Scarlatti\u2019s operas from 1709 onwards were the Beyonc\u00e9 of the Baroque era! With more showy and effective styles than an overexcited peacock at a talent contest, he jazzed up the instrumentation significantly. It was as if he looked at a string quartet and said, \u2018You lot deserve a spotlight!\u2019 This marked a hilarious yet impressive shift towards modern orchestration!"
+    },
+    {
+      "section": "Life",
+      "title": "Production of finest operas at Teatro Capranica",
+      "summary": "While in Naples until 1717, Scarlatti produced several notable operas, including Telemaco in 1718 and La Griselda in 1721 at the Teatro Capranica in Rome, which were well received by the Romans.",
+      "year": 1718,
+      "location": "Rome",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "While in Naples until 1717, Scarlatti was busy producing several notable operas. Among his masterpieces, he created \u201cTelemaco\u201d in 1718 and \u201cLa Griselda\u201d in 1721 at the Teatro Capranica in Rome, which were well received by the Romans!"
+    },
+    {
+      "section": "Life",
+      "title": "Messa di Santa Cecilia",
+      "summary": "In 1721, Scarlatti composed Messa di Santa Cecilia for chorus and orchestra in honor of Saint Cecilia for Cardinal Francesco Acquaviva.",
+      "year": 1721,
+      "location": "Rome",
+      "emoji": "\ud83c\udfb5",
+      "fun_version": "In 1721, Scarlatti whipped up Messa di Santa Cecilia, a choral and orchestral masterpiece meant to give a standing ovation to Saint Cecilia, all in honor of Cardinal Francesco Acquaviva. This piece was composed specifically for these distinguished individuals."
+    },
+    {
+      "section": "Life",
+      "title": "Last work Erminia serenata",
+      "summary": "Scarlatti's last large-scale work was the unfinished Erminia serenata for the marriage of the prince of Stigliano, which he worked on in 1723.",
+      "year": 1723,
+      "location": "Naples",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Scarlatti's last large-scale work was the unfinished 'Erminia serenata'! This masterpiece, intended for the marriage of the prince of Stigliano in 1723, seems to have derailed as he got distracted with all those notes!"
+    },
+    {
+      "section": "Life",
+      "title": "Death",
+      "summary": "Alessandro Scarlatti passed away in 1725 and is buried in the church of Santa Maria di Montesanto in Naples.",
+      "year": 1725,
+      "location": "Naples",
+      "emoji": "\u26b0\ufe0f",
+      "fun_version": "So, Alessandro Scarlatti passed away in 1725 and is now chilling under the church of Santa Maria di Montesanto in Naples, probably jamming with the angels."
+    }
+  ],
+  "works": [
+    {
+      "title": "Il Pompeo",
+      "imslp_url": "https://imslp.org/wiki/Il_Pompeo_(Scarlatti,_Alessandro)",
+      "year": 1683
+    },
+    {
+      "title": "Lasciato havea l\u2019adultero superbo, H.377",
+      "imslp_url": "https://imslp.org/wiki/Lasciato_havea_l\u2019adultero_superbo,_H.377_(Scarlatti,_Alessandro)",
+      "year": 1688
+    },
+    {
+      "title": "Ma prima ch'io mora",
+      "imslp_url": "https://imslp.org/wiki/Ma_prima_ch'io_mora_(Scarlatti,_Alessandro)",
+      "year": 1690
+    },
+    {
+      "title": "Sono amante e m'arde il core, H.671",
+      "imslp_url": "https://imslp.org/wiki/Sono_amante_e_m'arde_il_core,_H.671_(Scarlatti,_Alessandro)",
+      "year": 1690
+    },
+    {
+      "title": "Teodora Augusta",
+      "imslp_url": "https://imslp.org/wiki/Teodora_Augusta_(Scarlatti,_Alessandro)",
+      "year": 1692
+    },
+    {
+      "title": "Giuditta, R.500.9",
+      "imslp_url": "https://imslp.org/wiki/Giuditta,_R.500.9_(Scarlatti,_Alessandro)",
+      "year": 1693
+    },
+    {
+      "title": "Su le sponde d'Abbido, H.703",
+      "imslp_url": "https://imslp.org/wiki/Su_le_sponde_d'Abbido,_H.703_(Scarlatti,_Alessandro)",
+      "year": 1693
+    },
+    {
+      "title": "Correa nel seno amato, H.146",
+      "imslp_url": "https://imslp.org/wiki/Correa_nel_seno_amato,_H.146_(Scarlatti,_Alessandro)",
+      "year": 1694
+    },
+    {
+      "title": "Caro laccio, dolce nodo, H.94",
+      "imslp_url": "https://imslp.org/wiki/Caro_laccio,_dolce_nodo,_H.94_(Scarlatti,_Alessandro)",
+      "year": 1695
+    },
+    {
+      "title": "La caduta de' Decemviri",
+      "imslp_url": "https://imslp.org/wiki/La_caduta_de'_Decemviri_(Scarlatti,_Alessandro)",
+      "year": 1697
+    },
+    {
+      "title": "Il prigioniero fortunato, R.346.36",
+      "imslp_url": "https://imslp.org/wiki/Il_prigioniero_fortunato,_R.346.36_(Scarlatti,_Alessandro)",
+      "year": 1698
+    },
+    {
+      "title": "Se Florindo e fedele",
+      "imslp_url": "https://imslp.org/wiki/Se_Florindo_e_fedele_(Scarlatti,_Alessandro)",
+      "year": 1698
+    },
+    {
+      "title": "Clori mia, Clori bella, H.129",
+      "imslp_url": "https://imslp.org/wiki/Clori_mia,_Clori_bella,_H.129_(Scarlatti,_Alessandro)",
+      "year": 1699
+    },
+    {
+      "title": "Gi\u00e0 vicina \u00e8 quell'ora, H.301",
+      "imslp_url": "https://imslp.org/wiki/Gi\u00e0_vicina_\u00e8_quell'ora,_H.301_(Scarlatti,_Alessandro)",
+      "year": 1699
+    },
+    {
+      "title": "L'Eraclea",
+      "imslp_url": "https://imslp.org/wiki/L'Eraclea_(Scarlatti,_Alessandro)",
+      "year": 1699
+    },
+    {
+      "title": "Che Sisifo infelice, H.108",
+      "imslp_url": "https://imslp.org/wiki/Che_Sisifo_infelice,_H.108_(Scarlatti,_Alessandro)",
+      "year": 1700
+    },
+    {
+      "title": "Filli che del mio core",
+      "imslp_url": "https://imslp.org/wiki/Filli_che_del_mio_core_(Scarlatti,_Alessandro)",
+      "year": 1700
+    },
+    {
+      "title": "Il rosignolo se scioglie il volo, H.318",
+      "imslp_url": "https://imslp.org/wiki/Il_rosignolo_se_scioglie_il_volo,_H.318_(Scarlatti,_Alessandro)",
+      "year": 1700
+    },
+    {
+      "title": "Poi che riseppe Orfeo",
+      "imslp_url": "https://imslp.org/wiki/Poi_che_riseppe_Orfeo_(Scarlatti,_Alessandro)",
+      "year": 1700
+    },
+    {
+      "title": "Povera pellegrina",
+      "imslp_url": "https://imslp.org/wiki/Povera_pellegrina_(Scarlatti,_Alessandro)",
+      "year": 1700
+    },
+    {
+      "title": "\u00c8 penar degg'io ancora, H.229",
+      "imslp_url": "https://imslp.org/wiki/\u00c8_penar_degg'io_ancora,_H.229_(Scarlatti,_Alessandro)",
+      "year": 1701
+    },
+    {
+      "title": "Con trasparente velo, H.143",
+      "imslp_url": "https://imslp.org/wiki/Con_trasparente_velo,_H.143_(Scarlatti,_Alessandro)",
+      "year": 1702
+    },
+    {
+      "title": "Filli mia, Filli cara, H.282",
+      "imslp_url": "https://imslp.org/wiki/Filli_mia,_Filli_cara,_H.282_(Scarlatti,_Alessandro)",
+      "year": 1702
+    },
+    {
+      "title": "Filli, la tua bellezza",
+      "imslp_url": "https://imslp.org/wiki/Filli,_la_tua_bellezza_(Scarlatti,_Alessandro)",
+      "year": 1702
+    },
+    {
+      "title": "Flavio Cuniberto",
+      "imslp_url": "https://imslp.org/wiki/Flavio_Cuniberto_(Scarlatti,_Alessandro)",
+      "year": 1702
+    },
+    {
+      "title": "La grazia, la sembianza, H.361",
+      "imslp_url": "https://imslp.org/wiki/La_grazia,_la_sembianza,_H.361_(Scarlatti,_Alessandro)",
+      "year": 1702
+    },
+    {
+      "title": "Rorate c\u00e6li",
+      "imslp_url": "https://imslp.org/wiki/Rorate_c\u00e6li_(Scarlatti,_Alessandro)",
+      "year": 1702
+    },
+    {
+      "title": "Zeffiretto che indrizzi il tuo volo, H.783",
+      "imslp_url": "https://imslp.org/wiki/Zeffiretto_che_indrizzi_il_tuo_volo,_H.783_(Scarlatti,_Alessandro)",
+      "year": 1702
+    },
+    {
+      "title": "Salve Regina in D minor",
+      "imslp_url": "https://imslp.org/wiki/Salve_Regina_in_D_minor_(Scarlatti,_Alessandro)",
+      "year": 1703
+    },
+    {
+      "title": "Su l'ora appunto che col carro d'oro, H.696",
+      "imslp_url": "https://imslp.org/wiki/Su_l'ora_appunto_che_col_carro_d'oro,_H.696_(Scarlatti,_Alessandro)",
+      "year": 1703
+    },
+    {
+      "title": "Al seren di s\u00ec bel giorno, H.27",
+      "imslp_url": "https://imslp.org/wiki/Al_seren_di_s\u00ec_bel_giorno,_H.27_(Scarlatti,_Alessandro)",
+      "year": 1704
+    },
+    {
+      "title": "Arder per due pupille, H.59",
+      "imslp_url": "https://imslp.org/wiki/Arder_per_due_pupille,_H.59_(Scarlatti,_Alessandro)",
+      "year": 1704
+    },
+    {
+      "title": "Bei prati, verdi colli, H.73",
+      "imslp_url": "https://imslp.org/wiki/Bei_prati,_verdi_colli,_H.73_(Scarlatti,_Alessandro)",
+      "year": 1704
+    },
+    {
+      "title": "Bella rosa adorata, H.78",
+      "imslp_url": "https://imslp.org/wiki/Bella_rosa_adorata,_H.78_(Scarlatti,_Alessandro)",
+      "year": 1704
+    },
+    {
+      "title": "Dalla nativa sfera scese, H.175",
+      "imslp_url": "https://imslp.org/wiki/Dalla_nativa_sfera_scese,_H.175_(Scarlatti,_Alessandro)",
+      "year": 1704
+    },
+    {
+      "title": "Dalla speme deluso, H.176",
+      "imslp_url": "https://imslp.org/wiki/Dalla_speme_deluso,_H.176_(Scarlatti,_Alessandro)",
+      "year": 1704
+    },
+    {
+      "title": "Fileno, ove t'en vai, H.265",
+      "imslp_url": "https://imslp.org/wiki/Fileno,_ove_t'en_vai,_H.265_(Scarlatti,_Alessandro)",
+      "year": 1704
+    },
+    {
+      "title": "Il mio sol non \u00e8 pi\u00f9 meco, H.315",
+      "imslp_url": "https://imslp.org/wiki/Il_mio_sol_non_\u00e8_pi\u00f9_meco,_H.315_(Scarlatti,_Alessandro)",
+      "year": 1704
+    },
+    {
+      "title": "Lungi dalla cagion, H.407",
+      "imslp_url": "https://imslp.org/wiki/Lungi_dalla_cagion,_H.407_(Scarlatti,_Alessandro)",
+      "year": 1704
+    },
+    {
+      "title": "Non \u00e8 facile ad un core, H.470",
+      "imslp_url": "https://imslp.org/wiki/Non_\u00e8_facile_ad_un_core,_H.470_(Scarlatti,_Alessandro)",
+      "year": 1704
+    },
+    {
+      "title": "O sol degl'occhi miei, H.498",
+      "imslp_url": "https://imslp.org/wiki/O_sol_degl'occhi_miei,_H.498_(Scarlatti,_Alessandro)",
+      "year": 1704
+    },
+    {
+      "title": "Perdono, Amor, perdono, H.554",
+      "imslp_url": "https://imslp.org/wiki/Perdono,_Amor,_perdono,_H.554_(Scarlatti,_Alessandro)",
+      "year": 1704
+    },
+    {
+      "title": "Quando l'umide ninfe, H.591",
+      "imslp_url": "https://imslp.org/wiki/Quando_l'umide_ninfe,_H.591_(Scarlatti,_Alessandro)",
+      "year": 1704
+    },
+    {
+      "title": "Quel piacer che nell'amarti, H.607",
+      "imslp_url": "https://imslp.org/wiki/Quel_piacer_che_nell'amarti,_H.607_(Scarlatti,_Alessandro)",
+      "year": 1704
+    },
+    {
+      "title": "Sovra questi fecondi ameni colli, H.682",
+      "imslp_url": "https://imslp.org/wiki/Sovra_questi_fecondi_ameni_colli,_H.682_(Scarlatti,_Alessandro)",
+      "year": 1704
+    },
+    {
+      "title": "Sul margine fiorito d'un limpido ruscello, H.708",
+      "imslp_url": "https://imslp.org/wiki/Sul_margine_fiorito_d'un_limpido_ruscello,_H.708_(Scarlatti,_Alessandro)",
+      "year": 1704
+    },
+    {
+      "title": "Va' pur lungi da me, H.755",
+      "imslp_url": "https://imslp.org/wiki/Va'_pur_lungi_da_me,_H.755_(Scarlatti,_Alessandro)",
+      "year": 1704
+    },
+    {
+      "title": "\u00c8 la speme un desio tormentoso, H.227",
+      "imslp_url": "https://imslp.org/wiki/\u00c8_la_speme_un_desio_tormentoso,_H.227_(Scarlatti,_Alessandro)",
+      "year": 1704
+    },
+    {
+      "title": "...ver per un diletto, H.766",
+      "imslp_url": "https://imslp.org/wiki/...ver_per_un_diletto,_H.766_(Scarlatti,_Alessandro)",
+      "year": 1705
+    },
+    {
+      "title": "Ad te Domine levavi animam meam",
+      "imslp_url": "https://imslp.org/wiki/Ad_te_Domine_levavi_animam_meam_(Scarlatti,_Alessandro)",
+      "year": 1705
+    },
+    {
+      "title": "Al fin m'ucciderete, H.21",
+      "imslp_url": "https://imslp.org/wiki/Al_fin_m'ucciderete,_H.21_(Scarlatti,_Alessandro)",
+      "year": 1705
+    },
+    {
+      "title": "Alle Troiane antenne, H.30",
+      "imslp_url": "https://imslp.org/wiki/Alle_Troiane_antenne,_H.30_(Scarlatti,_Alessandro)",
+      "year": 1705
+    },
+    {
+      "title": "Allor ch'il Dio di Delo, H.31",
+      "imslp_url": "https://imslp.org/wiki/Allor_ch'il_Dio_di_Delo,_H.31_(Scarlatti,_Alessandro)",
+      "year": 1705
+    },
+    {
+      "title": "Clori bell'idol mio, H.125",
+      "imslp_url": "https://imslp.org/wiki/Clori_bell'idol_mio,_H.125_(Scarlatti,_Alessandro)",
+      "year": 1705
+    },
+    {
+      "title": "Dal bel volto d'Irene, H.165",
+      "imslp_url": "https://imslp.org/wiki/Dal_bel_volto_d'Irene,_H.165_(Scarlatti,_Alessandro)",
+      "year": 1705
+    },
+    {
+      "title": "Domine in auxilium meum",
+      "imslp_url": "https://imslp.org/wiki/Domine_in_auxilium_meum_(Scarlatti,_Alessandro)",
+      "year": 1705
+    },
+    {
+      "title": "Dormono l'aure estive, H.206",
+      "imslp_url": "https://imslp.org/wiki/Dormono_l'aure_estive,_H.206_(Scarlatti,_Alessandro)",
+      "year": 1705
+    },
+    {
+      "title": "Exaltabo te Domine",
+      "imslp_url": "https://imslp.org/wiki/Exaltabo_te_Domine_(Scarlatti,_Alessandro)",
+      "year": 1705
+    },
+    {
+      "title": "Filli adorata e cara, Filli che fosti, H.272",
+      "imslp_url": "https://imslp.org/wiki/Filli_adorata_e_cara,_Filli_che_fosti,_H.272_(Scarlatti,_Alessandro)",
+      "year": 1705
+    },
+    {
+      "title": "Il fulgido splendor d'un ciglio arciero, H.313",
+      "imslp_url": "https://imslp.org/wiki/Il_fulgido_splendor_d'un_ciglio_arciero,_H.313_(Scarlatti,_Alessandro)",
+      "year": 1705
+    },
+    {
+      "title": "Irene, idolo mio, in questo a me, H.348",
+      "imslp_url": "https://imslp.org/wiki/Irene,_idolo_mio,_in_questo_a_me,_H.348_(Scarlatti,_Alessandro)",
+      "year": 1705
+    },
+    {
+      "title": "Peno e del mio penar, H.531",
+      "imslp_url": "https://imslp.org/wiki/Peno_e_del_mio_penar,_H.531_(Scarlatti,_Alessandro)",
+      "year": 1705
+    },
+    {
+      "title": "Perfida Filli ingrata, H.555",
+      "imslp_url": "https://imslp.org/wiki/Perfida_Filli_ingrata,_H.555_(Scarlatti,_Alessandro)",
+      "year": 1705
+    },
+    {
+      "title": "Quale al gelo s'adugge, H.582",
+      "imslp_url": "https://imslp.org/wiki/Quale_al_gelo_s'adugge,_H.582_(Scarlatti,_Alessandro)",
+      "year": 1705
+    },
+    {
+      "title": "Quando mai trover\u00f2 d'Amor nel regno, H.593",
+      "imslp_url": "https://imslp.org/wiki/Quando_mai_trover\u00f2_d'Amor_nel_regno,_H.593_(Scarlatti,_Alessandro)",
+      "year": 1705
+    },
+    {
+      "title": "Quel Fileno infelice, H.605",
+      "imslp_url": "https://imslp.org/wiki/Quel_Fileno_infelice,_H.605_(Scarlatti,_Alessandro)",
+      "year": 1705
+    },
+    {
+      "title": "Quella que chiudo in sen fiamma amorosa, H.609",
+      "imslp_url": "https://imslp.org/wiki/Quella_que_chiudo_in_sen_fiamma_amorosa,_H.609_(Scarlatti,_Alessandro)",
+      "year": 1705
+    },
+    {
+      "title": "Questa vermiglia rosa, H.613",
+      "imslp_url": "https://imslp.org/wiki/Questa_vermiglia_rosa,_H.613_(Scarlatti,_Alessandro)",
+      "year": 1705
+    },
+    {
+      "title": "Qui dove aure ed augelli, H.619",
+      "imslp_url": "https://imslp.org/wiki/Qui_dove_aure_ed_augelli,_H.619_(Scarlatti,_Alessandro)",
+      "year": 1705
+    },
+    {
+      "title": "Solitudini amene, bersaglio d'empia sorte, H.664",
+      "imslp_url": "https://imslp.org/wiki/Solitudini_amene,_bersaglio_d'empia_sorte,_H.664_(Scarlatti,_Alessandro)",
+      "year": 1705
+    },
+    {
+      "title": "Su bel seggio di fiori, H.695",
+      "imslp_url": "https://imslp.org/wiki/Su_bel_seggio_di_fiori,_H.695_(Scarlatti,_Alessandro)",
+      "year": 1705
+    },
+    {
+      "title": "Venne ad Amor desio, H.765",
+      "imslp_url": "https://imslp.org/wiki/Venne_ad_Amor_desio,_H.765_(Scarlatti,_Alessandro)",
+      "year": 1705
+    },
+    {
+      "title": "Vorrei, Filli adorata, H.778",
+      "imslp_url": "https://imslp.org/wiki/Vorrei,_Filli_adorata,_H.778_(Scarlatti,_Alessandro)",
+      "year": 1705
+    },
+    {
+      "title": "Mitridate Eupatore",
+      "imslp_url": "https://imslp.org/wiki/Mitridate_Eupatore_(Scarlatti,_Alessandro)",
+      "year": 1706
+    },
+    {
+      "title": "Tu resti, o mio bel nume, H.742",
+      "imslp_url": "https://imslp.org/wiki/Tu_resti,_o_mio_bel_nume,_H.742_(Scarlatti,_Alessandro)",
+      "year": 1706
+    },
+    {
+      "title": "Ahi che sar\u00e0 di me, H.19",
+      "imslp_url": "https://imslp.org/wiki/Ahi_che_sar\u00e0_di_me,_H.19_(Scarlatti,_Alessandro)",
+      "year": 1707
+    },
+    {
+      "title": "Oratorio per la Passione di Nostro Signore Ges\u00f9 Cristo",
+      "imslp_url": "https://imslp.org/wiki/Oratorio_per_la_Passione_di_Nostro_Signore_Ges\u00f9_Cristo_(Scarlatti,_Alessandro)",
+      "year": 1708
+    },
+    {
+      "title": "La principessa fedele",
+      "imslp_url": "https://imslp.org/wiki/La_principessa_fedele_(Scarlatti,_Alessandro)",
+      "year": 1709
+    },
+    {
+      "title": "Imagini d'orrore",
+      "imslp_url": "https://imslp.org/wiki/Imagini_d'orrore_(Scarlatti,_Alessandro)",
+      "year": 1710
+    },
+    {
+      "title": "Miserere",
+      "imslp_url": "https://imslp.org/wiki/Miserere_(Scarlatti,_Alessandro)",
+      "year": 1711
+    },
+    {
+      "title": "Ho una pena intorno al core, H.308",
+      "imslp_url": "https://imslp.org/wiki/Ho_una_pena_intorno_al_core,_H.308_(Scarlatti,_Alessandro)",
+      "year": 1712
+    },
+    {
+      "title": "Concerto Grosso in A minor, R.533.10",
+      "imslp_url": "https://imslp.org/wiki/Concerto_Grosso_in_A_minor,_R.533.10_(Scarlatti,_Alessandro)",
+      "year": 1715
+    },
+    {
+      "title": "Concerto Grosso in A minor, R.533.6",
+      "imslp_url": "https://imslp.org/wiki/Concerto_Grosso_in_A_minor,_R.533.6_(Scarlatti,_Alessandro)",
+      "year": 1715
+    },
+    {
+      "title": "Concerto Grosso in C major, R.533.11",
+      "imslp_url": "https://imslp.org/wiki/Concerto_Grosso_in_C_major,_R.533.11_(Scarlatti,_Alessandro)",
+      "year": 1715
+    },
+    {
+      "title": "Concerto Grosso in C minor, R.533.12",
+      "imslp_url": "https://imslp.org/wiki/Concerto_Grosso_in_C_minor,_R.533.12_(Scarlatti,_Alessandro)",
+      "year": 1715
+    },
+    {
+      "title": "Concerto Grosso in D major, R.533.2",
+      "imslp_url": "https://imslp.org/wiki/Concerto_Grosso_in_D_major,_R.533.2_(Scarlatti,_Alessandro)",
+      "year": 1715
+    },
+    {
+      "title": "Concerto Grosso in D minor, R.533.3",
+      "imslp_url": "https://imslp.org/wiki/Concerto_Grosso_in_D_minor,_R.533.3_(Scarlatti,_Alessandro)",
+      "year": 1715
+    },
+    {
+      "title": "Concerto Grosso in D minor, R.533.5",
+      "imslp_url": "https://imslp.org/wiki/Concerto_Grosso_in_D_minor,_R.533.5_(Scarlatti,_Alessandro)",
+      "year": 1715
+    },
+    {
+      "title": "Concerto Grosso in E minor, R.533.4",
+      "imslp_url": "https://imslp.org/wiki/Concerto_Grosso_in_E_minor,_R.533.4_(Scarlatti,_Alessandro)",
+      "year": 1715
+    },
+    {
+      "title": "Concerto Grosso in F major, R.533.1",
+      "imslp_url": "https://imslp.org/wiki/Concerto_Grosso_in_F_major,_R.533.1_(Scarlatti,_Alessandro)",
+      "year": 1715
+    },
+    {
+      "title": "Concerto Grosso in G major, R.533.8",
+      "imslp_url": "https://imslp.org/wiki/Concerto_Grosso_in_G_major,_R.533.8_(Scarlatti,_Alessandro)",
+      "year": 1715
+    },
+    {
+      "title": "Concerto Grosso in G minor, R.533.7",
+      "imslp_url": "https://imslp.org/wiki/Concerto_Grosso_in_G_minor,_R.533.7_(Scarlatti,_Alessandro)",
+      "year": 1715
+    },
+    {
+      "title": "Concerto Grosso in G minor, R.533.9",
+      "imslp_url": "https://imslp.org/wiki/Concerto_Grosso_in_G_minor,_R.533.9_(Scarlatti,_Alessandro)",
+      "year": 1715
+    },
+    {
+      "title": "Missa Clementina II",
+      "imslp_url": "https://imslp.org/wiki/Missa_Clementina_II_(Scarlatti,_Alessandro)",
+      "year": 1716
+    },
+    {
+      "title": "Ombre tacite e sole",
+      "imslp_url": "https://imslp.org/wiki/Ombre_tacite_e_sole_(Scarlatti,_Alessandro)",
+      "year": 1716
+    },
+    {
+      "title": "Serenata \u00e0 cinque voci",
+      "imslp_url": "https://imslp.org/wiki/Serenata_\u00e0_cinque_voci_(Scarlatti,_Alessandro)",
+      "year": 1716
+    },
+    {
+      "title": "Da quell'ora fatale, H.159",
+      "imslp_url": "https://imslp.org/wiki/Da_quell'ora_fatale,_H.159_(Scarlatti,_Alessandro)",
+      "year": 1717
+    },
+    {
+      "title": "Telemaco",
+      "imslp_url": "https://imslp.org/wiki/Telemaco_(Scarlatti,_Alessandro)",
+      "year": 1717
+    },
+    {
+      "title": "Cambise, R.356.64",
+      "imslp_url": "https://imslp.org/wiki/Cambise,_R.356.64_(Scarlatti,_Alessandro)",
+      "year": 1718
+    },
+    {
+      "title": "Audi filia",
+      "imslp_url": "https://imslp.org/wiki/Audi_filia_(Scarlatti,_Alessandro)",
+      "year": 1720
+    },
+    {
+      "title": "Griselda",
+      "imslp_url": "https://imslp.org/wiki/Griselda_(Scarlatti,_Alessandro)",
+      "year": 1720
+    },
+    {
+      "title": "Regie soglie, alte moli, H.623",
+      "imslp_url": "https://imslp.org/wiki/Regie_soglie,_alte_moli,_H.623_(Scarlatti,_Alessandro)",
+      "year": 1720
+    },
+    {
+      "title": "Taci, infedele Amore, H.712",
+      "imslp_url": "https://imslp.org/wiki/Taci,_infedele_Amore,_H.712_(Scarlatti,_Alessandro)",
+      "year": 1720
+    },
+    {
+      "title": "Folia",
+      "imslp_url": "https://imslp.org/wiki/Folia_(Scarlatti,_Alessandro)",
+      "year": 1723
+    },
+    {
+      "title": "Missa Clementina, R.511/1",
+      "imslp_url": "https://imslp.org/wiki/Missa_Clementina,_R.511/1_(Scarlatti,_Alessandro)",
+      "year": 1723
+    },
+    {
+      "title": "Sonata in F major",
+      "imslp_url": "https://imslp.org/wiki/Sonata_in_F_major_(Scarlatti,_Alessandro)",
+      "year": 1723
+    },
+    {
+      "title": "Toccata No.1 in G major",
+      "imslp_url": "https://imslp.org/wiki/Toccata_No.1_in_G_major_(Scarlatti,_Alessandro)",
+      "year": 1723
+    },
+    {
+      "title": "Toccata No.2 in A minor",
+      "imslp_url": "https://imslp.org/wiki/Toccata_No.2_in_A_minor_(Scarlatti,_Alessandro)",
+      "year": 1723
+    },
+    {
+      "title": "Toccata No.4 in D major",
+      "imslp_url": "https://imslp.org/wiki/Toccata_No.4_in_D_major_(Scarlatti,_Alessandro)",
+      "year": 1723
+    },
+    {
+      "title": "Toccata No.6 in G major",
+      "imslp_url": "https://imslp.org/wiki/Toccata_No.6_in_G_major_(Scarlatti,_Alessandro)",
+      "year": 1723
+    },
+    {
+      "title": "Toccata No.7 in D major",
+      "imslp_url": "https://imslp.org/wiki/Toccata_No.7_in_D_major_(Scarlatti,_Alessandro)",
+      "year": 1723
+    },
+    {
+      "title": "Toccata per Cembalo d'Ottava Stesa",
+      "imslp_url": "https://imslp.org/wiki/Toccata_per_Cembalo_d'Ottava_Stesa_(Scarlatti,_Alessandro)",
+      "year": 1723
+    },
+    {
+      "title": "Concerto Grosso in F minor",
+      "imslp_url": "https://imslp.org/wiki/Concerto_Grosso_in_F_minor_(Scarlatti,_Alessandro)",
+      "year": 1725
+    },
+    {
+      "title": "L\u00e0 dove a Mergellina, H.356",
+      "imslp_url": "https://imslp.org/wiki/L\u00e0_dove_a_Mergellina,_H.356_(Scarlatti,_Alessandro)",
+      "year": 1725
+    },
+    {
+      "title": "Recorder Concerto in A major",
+      "imslp_url": "https://imslp.org/wiki/Recorder_Concerto_in_A_major_(Scarlatti,_Alessandro)",
+      "year": 1725
+    },
+    {
+      "title": "Recorder Concerto in A minor, GroF 477",
+      "imslp_url": "https://imslp.org/wiki/Recorder_Concerto_in_A_minor,_GroF_477_(Scarlatti,_Alessandro)",
+      "year": 1725
+    },
+    {
+      "title": "Recorder Concerto in C major",
+      "imslp_url": "https://imslp.org/wiki/Recorder_Concerto_in_C_major_(Scarlatti,_Alessandro)",
+      "year": 1725
+    },
+    {
+      "title": "Recorder Concerto in C minor",
+      "imslp_url": "https://imslp.org/wiki/Recorder_Concerto_in_C_minor_(Scarlatti,_Alessandro)",
+      "year": 1725
+    },
+    {
+      "title": "Recorder Concerto in G minor",
+      "imslp_url": "https://imslp.org/wiki/Recorder_Concerto_in_G_minor_(Scarlatti,_Alessandro)",
+      "year": 1725
+    }
+  ]
+}

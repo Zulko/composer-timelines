@@ -1,209 +1,185 @@
 {
   "full_name": "Alexander Borodin",
-  "first_names": "Alexander",
+  "first_names": "Alexander Porfiryevich",
   "last_name": "Borodin",
   "birth_year": 1833,
   "death_year": 1887,
   "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_Borodin",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Alexander Porfiryevich Borodin was born as the illegitimate son of a Georgian nobleman. In a twist of fate, he ended up being registered as a serf, which made his early life a bit of a sitcom in the grand theater of serfdom.",
+      "section": "Life and profession",
+      "title": "Birth of Alexander Borodin",
+      "summary": "Borodin was born in Saint Petersburg as an illegitimate son of a 62-year-old Georgian nobleman and a 25-year-old married Russian woman. Due to his birth circumstances, he was registered as the son of one of the nobleman's serfs, which determined his upbringing as a commoner. His Georgian father emancipated him from serfdom when he was 7, ensuring a comfortable life for Borodin and his mother.",
       "year": 1833,
-      "city": "Saint Petersburg",
-      "country": "Russia"
+      "location": "Saint Petersburg",
+      "emoji": "\ud83d\udc76",
+      "fun_version": "Borodin's origin story sounds like a plot twist straight from a Georgian soap opera! Born in the heart of Saint Petersburg as an illegitimate son of a 62-year-old Georgian nobleman and a 25-year-old married Russian woman, this lad came into the world as an unintentional surprise! He was registered as the son of a serf, which determined his upbringing as a commoner. Luckily for him, his father emancipated him from serfdom when he was just 7, ensuring a comfortable life for Borodin and his mother."
     },
     {
-      "event": "Emancipation from Serfdom",
-      "summary": "At the tender age of 7, Borodin was emancipated from serfdom by his noble Georgian father, who apparently had a soft spot for his secret son. Talk about a family reunion with a good plot twist!",
-      "year": 1840,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Medical Studies",
-      "summary": "Borodin enrolled in the Medical\u2013Surgical Academy to pursue a career in medicine and chemistry. Little did they know they were grooming a future composer who would turn medical jargon into musical notes.",
-      "year": 1850,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Professor of Chemistry",
-      "summary": "Returning from his studies abroad, Borodin became a professor of chemistry at the Imperial Medical-Surgical Academy, where he juggled teaching with composing, proving that some people really can do it all\u2014or at least try to.",
+      "section": "Life and profession",
+      "title": "Education and Career in Chemistry",
+      "summary": "In 1850, Borodin enrolled in the Medical\u2013Surgical Academy in Saint Petersburg, later becoming a professor of chemistry there. He established medical courses for women in 1872 and was highly respected for his research in chemistry, particularly his work on aldehydes.",
       "year": 1862,
-      "city": "Saint Petersburg",
-      "country": "Russia"
+      "location": "Saint Petersburg",
+      "emoji": "\ud83e\uddea",
+      "fun_version": "In 1850, Borodin enrolled in the Medical\u2013Surgical Academy in Saint Petersburg, later becoming a professor of chemistry there! In 1872, he bravely established medical courses for women, proving once and for all that women can well, do the science things too. His research into aldehydes was so revered that many thought he was simply trying to find the best way to impress his chemistry class."
     },
     {
-      "event": "Marriage",
-      "summary": "Borodin married Ekaterina Protopopova, a pianist, bringing together chemistry and music in a duet that left the audience clamoring for an encore of their life together.",
+      "section": "Life and profession",
+      "title": "Marriage to Ekaterina Protopopova",
+      "summary": "Borodin married Ekaterina Protopopova, a pianist, in 1863. Together, they adopted several daughters.",
       "year": 1863,
-      "city": "Saint Petersburg",
-      "country": "Russia"
+      "location": "Saint Petersburg",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "In 1863, Borodin decided to tie the knot with Ekaterina Protopopova, a pianist \u2013 because who wouldn\u2019t want a wedding with symphonic honeymoon tunes? Instead of having a pet, they opted for the drama of adopting several daughters!"
     },
     {
-      "event": "First Symphony Premiered",
-      "summary": "His first symphony hit the stage, conducted by his mentor Balakirev. The symphony was a mix of musical genres and should have come with a 'taste test' warning for audiences not ready for his eclectic style.",
+      "section": "Life and profession",
+      "title": "Composing Symphony No. 1",
+      "summary": "While taking composition lessons from Mily Balakirev, Borodin began working on his Symphony No. 1 in E-flat major in 1862, which was first performed in 1869.",
       "year": 1869,
-      "city": "Saint Petersburg",
-      "country": "Russia"
+      "location": "Saint Petersburg",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "While learning composition from the great Mily Balakirev, Borodin decided to take a break from his usual menu of composing potato salad recipes and began crafting his Symphony No. 1 in E-flat major in 1862, which had its grand debut in 1869."
     },
     {
-      "event": "Composed In the Steppes of Central Asia",
-      "summary": "Borodin composed this symphonic poem that perfectly captures the wanderlust of music lovers everywhere, making people daydream of steppes they'd never seen.",
+      "section": "Musical legacy",
+      "title": "Performance of Symphony No. 1 in Germany",
+      "summary": "Borodin's Symphony No. 1 was notably performed in Germany, thanks to Franz Liszt's arrangements. This event helped establish Borodin's reputation beyond the Russian Empire, showcasing his talent to a wider audience.",
       "year": 1880,
-      "city": "Saint Petersburg",
-      "country": "Russia"
+      "location": "Germany",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Borodin's Symphony No. 1 made waves in Germany, thanks to Franz Liszt, who served it with a side of sauerkraut! This event not only introduced Borodin to the world but also helped him shimmy his way past the Russian Empire's borders, proving that even Russian composers can party it up in Europe!"
     },
     {
-      "event": "Death",
-      "summary": "He passed away rather dramatically at a ball, as one does when caught between the joys of music and the demands of chemistry, leaving behind unfinished compositions that could've had a cliffhanger ending.",
+      "section": "Life and profession",
+      "title": "Completion of Opera Prince Igor",
+      "summary": "Borodin worked on the opera Prince Igor, which is considered to be his most significant work, during 1868. It was left incomplete at his death but later completed posthumously by Rimsky-Korsakov and Glazunov.",
       "year": 1887,
-      "city": "Saint Petersburg",
-      "country": "Russia"
+      "location": "Saint Petersburg",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Borodin was hard at work on an opera called Prince Igor in 1868, but he never quite made it to the finish line as it was left incomplete at his death. Thankfully, Rimsky-Korsakov and Glazunov swooped in to rescue the score posthumously."
     },
     {
-      "event": "Composed 'Prince Igor'",
-      "summary": "He began the monumental work 'Prince Igor', a daring fusion of music and drama, proving that he could multitask like no other. His efforts culminated in some of the most popular dances that would even make a ballet dancer jealous!",
-      "year": 1869,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Completed 'Symphony No. 2'",
-      "summary": "Borodin finally handed in 'Symphony No. 2', a symphonic treat that was like a musical buffet \u2013 satisfying and notably a little delayed because, hey, a chemist has to keep those test tubes polished too!",
-      "year": 1876,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Composed 'Polovtsian Dances'",
-      "summary": "The creation of 'Polovtsian Dances' turned out to be Borodin's jam session, right before he decided to head to the lab, proving that the beat goes on both in chemistry and through music!",
-      "year": 1880,
-      "city": "Saint Petersburg",
-      "country": "Russia"
+      "section": "Life and profession",
+      "title": "Death of Alexander Borodin",
+      "summary": "Borodin died suddenly during a ball at the academy where he taught, leaving behind several unfinished works.",
+      "year": 1887,
+      "location": "Saint Petersburg",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Borodin decided to leave the party early\u2014so early that he forgot to pack his unfinished symphonies! While he was enjoying the academy ball, he made an unexpected departure. Talk about an unexpected encore!"
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/Dissonance_(Borodin,_Aleksandr)",
-      "year": 1868,
-      "title": "Dissonance"
+      "title": "H\u00e9l\u00e8ne-Polka",
+      "imslp_url": "https://imslp.org/wiki/H\u00e9l\u00e8ne-Polka_(Borodin,_Aleksandr)",
+      "year": 1843
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Glory_to_Cyril_and_Methodius!_(Borodin,_Aleksandr)",
-      "year": 1885,
-      "title": "Glory to Cyril and Methodius!"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/H%C3%A9l%C3%A8ne-Polka_(Borodin,_Aleksandr)",
-      "year": 1843,
-      "title": "H\u00e9l\u00e8ne-Polka"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/In_the_Steppes_of_Central_Asia_(Borodin,_Aleksandr)",
-      "year": 1880,
-      "title": "In the Steppes of Central Asia"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/My_Songs_are_Filled_with_Poison_(Borodin,_Aleksandr)",
-      "year": 1868,
-      "title": "My Songs are Filled with Poison"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Petite_suite_(Borodin,_Aleksandr)",
-      "year": 1880,
-      "title": "Petite suite"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Quintet_in_C_minor_(Borodin,_Aleksandr)",
-      "year": 1862,
-      "title": "Piano Quintet in C minor"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Trio_in_D_major_(Borodin,_Aleksandr)",
-      "year": 1862,
-      "title": "Piano Trio in D major"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Polovtsian_Dances_(Borodin,_Aleksandr)",
-      "year": 1869,
-      "title": "Polovtsian Dances"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Prince_Igor_(Borodin,_Aleksandr)",
-      "year": 1869,
-      "title": "Prince Igor"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Scherzo_(Borodin,_Aleksandr)",
-      "year": 1885,
-      "title": "Scherzo"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Sea_Princess_(Borodin,_Aleksandr)",
-      "year": 1868,
-      "title": "The Sea Princess"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Sea_(Borodin,_Aleksandr)",
-      "year": 1869,
-      "title": "The Sea"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Sleeping_Princess_(Borodin,_Aleksandr)",
-      "year": 1867,
-      "title": "The Sleeping Princess"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1_(Borodin,_Aleksandr)",
-      "year": 1874,
-      "title": "String Quartet No.1"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2_(Borodin,_Aleksandr)",
-      "year": 1881,
-      "title": "String Quartet No.2"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Sextet_in_D_minor_(Borodin,_Aleksandr)",
-      "year": 1860,
-      "title": "String Sextet in D minor"
-    },
-    {
+      "title": "String Trio in G major",
       "imslp_url": "https://imslp.org/wiki/String_Trio_in_G_major_(Borodin,_Aleksandr)",
-      "year": 1852,
-      "title": "String Trio in G major"
+      "year": 1852
     },
     {
+      "title": "String Trio in G minor",
       "imslp_url": "https://imslp.org/wiki/String_Trio_in_G_minor_(Borodin,_Aleksandr)",
-      "year": 1855,
-      "title": "String Trio in G minor"
+      "year": 1855
     },
     {
+      "title": "String Sextet in D minor",
+      "imslp_url": "https://imslp.org/wiki/String_Sextet_in_D_minor_(Borodin,_Aleksandr)",
+      "year": 1860
+    },
+    {
+      "title": "Piano Quintet in C minor",
+      "imslp_url": "https://imslp.org/wiki/Piano_Quintet_in_C_minor_(Borodin,_Aleksandr)",
+      "year": 1862
+    },
+    {
+      "title": "Piano Trio in D major",
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio_in_D_major_(Borodin,_Aleksandr)",
+      "year": 1862
+    },
+    {
+      "title": "Symphony No.1",
       "imslp_url": "https://imslp.org/wiki/Symphony_No.1_(Borodin,_Aleksandr)",
-      "year": 1862,
-      "title": "Symphony No.1"
+      "year": 1862
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.2_(Borodin,_Aleksandr)",
-      "year": 1869,
-      "title": "Symphony No.2"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.3_(Borodin,_Aleksandr)",
-      "year": 1882,
-      "title": "Symphony No.3"
-    },
-    {
+      "title": "Tarantella",
       "imslp_url": "https://imslp.org/wiki/Tarantella_(Borodin,_Aleksandr)",
-      "year": 1862,
-      "title": "Tarantella"
+      "year": 1862
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Songs_and_Romances_(Borodin,_Aleksandr)",
-      "year": 1852,
-      "title": "Songs and Romances"
+      "title": "The Sleeping Princess",
+      "imslp_url": "https://imslp.org/wiki/The_Sleeping_Princess_(Borodin,_Aleksandr)",
+      "year": 1867
+    },
+    {
+      "title": "Dissonance",
+      "imslp_url": "https://imslp.org/wiki/Dissonance_(Borodin,_Aleksandr)",
+      "year": 1868
+    },
+    {
+      "title": "My Songs are Filled with Poison",
+      "imslp_url": "https://imslp.org/wiki/My_Songs_are_Filled_with_Poison_(Borodin,_Aleksandr)",
+      "year": 1868
+    },
+    {
+      "title": "The Sea Princess",
+      "imslp_url": "https://imslp.org/wiki/The_Sea_Princess_(Borodin,_Aleksandr)",
+      "year": 1868
+    },
+    {
+      "title": "Prince Igor",
+      "imslp_url": "https://imslp.org/wiki/Prince_Igor_(Borodin,_Aleksandr)",
+      "year": 1869
+    },
+    {
+      "title": "Symphony No.2",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.2_(Borodin,_Aleksandr)",
+      "year": 1869
+    },
+    {
+      "title": "The Sea",
+      "imslp_url": "https://imslp.org/wiki/The_Sea_(Borodin,_Aleksandr)",
+      "year": 1869
+    },
+    {
+      "title": "String Quartet No.1",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1_(Borodin,_Aleksandr)",
+      "year": 1874
+    },
+    {
+      "title": "In the Steppes of Central Asia",
+      "imslp_url": "https://imslp.org/wiki/In_the_Steppes_of_Central_Asia_(Borodin,_Aleksandr)",
+      "year": 1880
+    },
+    {
+      "title": "Petite suite",
+      "imslp_url": "https://imslp.org/wiki/Petite_suite_(Borodin,_Aleksandr)",
+      "year": 1880
+    },
+    {
+      "title": "String Quartet No.2",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2_(Borodin,_Aleksandr)",
+      "year": 1881
+    },
+    {
+      "title": "Symphony No.3",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.3_(Borodin,_Aleksandr)",
+      "year": 1882
+    },
+    {
+      "title": "Glory to Cyril and Methodius!",
+      "imslp_url": "https://imslp.org/wiki/Glory_to_Cyril_and_Methodius!_(Borodin,_Aleksandr)",
+      "year": 1885
+    },
+    {
+      "title": "Scherzo",
+      "imslp_url": "https://imslp.org/wiki/Scherzo_(Borodin,_Aleksandr)",
+      "year": 1885
     }
   ]
 }

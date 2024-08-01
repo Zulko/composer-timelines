@@ -1,0 +1,5368 @@
+{
+  "full_name": "Orlando di Lasso",
+  "first_names": "Orlando",
+  "last_name": "di Lasso",
+  "birth_year": 1532,
+  "death_year": 1594,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Orlando_di_Lasso",
+  "events": [
+    {
+      "section": "Life and career",
+      "title": "Birth",
+      "summary": "Orlando di Lasso was born in Mons in the County of Hainaut, Habsburg Netherlands (modern-day Belgium).",
+      "year": 1532,
+      "location": "Mons, Habsburg Netherlands",
+      "emoji": "\ud83d\udc76",
+      "fun_version": "Orlando di Lasso popped into the world in Mons\u2014also known as the County of Hainaut, which sounds fancy but is just the Habsburg Netherlands\u2019 way of saying \u2018Welcome to Belgium, where waffles and music are always in harmony!\u2019"
+    },
+    {
+      "section": "Life and career",
+      "title": "Early Musical Education",
+      "summary": "At the age of twelve, he left the Low Countries with Ferrante Gonzaga and traveled to Mantua, Sicily, and later Milan, where he met the madrigalist Spirito l'Hoste da Reggio, who had a formative influence on his musical style.",
+      "year": 1544,
+      "location": "Milan",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "At the age of twelve, he left the Low Countries with Ferrante Gonzaga and traveled to Mantua, Sicily, and then on to Milan! During this journey, he met the madrigalist Spirito l'Hoste da Reggio, who had a formative influence on his musical style!"
+    },
+    {
+      "section": "Life and career",
+      "title": "Maestro di Cappella Appointment",
+      "summary": "In 1553, at just twenty-one years old, he became maestro di cappella of the Basilica of Saint John Lateran in Rome, a prestigious post.",
+      "year": 1553,
+      "location": "Rome",
+      "emoji": "\ud83c\udfb5",
+      "fun_version": "In 1553, he landed the gig of maestro di cappella of the Basilica of Saint John Lateran in Rome at the tender age of twenty-one. Talk about a job offer you can\u2019t refuse! I mean, who doesn\u2019t want to be the head honcho of holy harmonies while still figuring out what to do with their cereal?"
+    },
+    {
+      "section": "Life and career",
+      "title": "Publication of Early Works",
+      "summary": "He returned to the Low Countries in 1555 and had his early works published in Antwerp, which marked an important step in his career.",
+      "year": 1555,
+      "location": "Antwerp",
+      "emoji": "\ud83d\udcda",
+      "fun_version": "He waltzed back to the Low Countries in 1555 like a kid who just found out the ice cream truck is in town, showcasing his early works in Antwerp, which was basically the 'ta-da!' moment of his career!"
+    },
+    {
+      "section": "Life and career",
+      "title": "Court Appointment",
+      "summary": "In 1556, he joined the court of Albrecht V, Duke of Bavaria, in Munich, where he became one of the most notable composers of the time.",
+      "year": 1556,
+      "location": "Munich",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "In 1556, he stepped into the court of Albrecht V, Duke of Bavaria, in Munich, and guess what? He didn't just bring his sheet music; he brought the house down! He became one of the most notable composers of the era, possibly because he was the only one who could hit a high note while dodging royal dinner disasters!"
+    },
+    {
+      "section": "Life and career",
+      "title": "Marriage",
+      "summary": "In 1558, he married Regina W\u00e4ckinger, which connected him further to the music establishment at the Duke's court. They had two sons who also became composers.",
+      "year": 1558,
+      "location": "Munich",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "In 1558, he married Regina W\u00e4ckinger, placing a musical \"Do Not Disturb\" sign on his life! This union helped him further mingle with the Duke\u2019s court. They had two sons who also became composers."
+    },
+    {
+      "section": "Life and career",
+      "title": "Nobility Conferred",
+      "summary": "In 1570, Emperor Maximilian II conferred nobility upon him, recognizing his prominence in the musical world.",
+      "year": 1570,
+      "location": "Munich",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1570, Emperor Maximilian II was handing out noble titles like they were party favors, and this guy, a real music maestro, snagged one! I mean, can you imagine getting a nobility badge for just knowing how to tickle the ivories?"
+    },
+    {
+      "section": "Life and career",
+      "title": "Knighthood by Pope Gregory XIII",
+      "summary": "He was knighted by Pope Gregory XIII in 1571 and this honor underscored his status as a composer.",
+      "year": 1571,
+      "location": "Rome",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Once upon a time in 1571, Pope Gregory XIII knighted this composer. You could say he got an upgrade from a mere mortal to a 'Sir-ious' talent. I mean, who wouldn't want to be knighted by a Pope? That\u2019s like getting a golden ticket to the composer\u2019s club!"
+    },
+    {
+      "section": "Life and career",
+      "title": "Death",
+      "summary": "Orlando di Lasso died in Munich on 14 June 1594, the same day his employer decided to dismiss him for economic reasons, which he was unaware of until his passing.",
+      "year": 1594,
+      "location": "Munich",
+      "emoji": "\ud83d\ude22",
+      "fun_version": "So, Orlando di Lasso kicked the bucket in Munich on June 14, 1594. Ironically, it was such a bad day for him\u2014his boss decided to let him go for 'economic reasons'! Too bad Orlando wasn\u2019t up for a chat about it since he was unaware of his dismissal until the very end!"
+    }
+  ],
+  "works": [
+    {
+      "title": "Missa super Rompi de l'empio cor, LV Anh.99",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Rompi_de_l'empio_cor,_LV_Anh.99_(Lassus,_Orlande_de)",
+      "year": 1541
+    },
+    {
+      "title": "Un doux nenny, LV 86",
+      "imslp_url": "https://imslp.org/wiki/Un_doux_nenny,_LV_86_(Lassus,_Orlande_de)",
+      "year": 1546
+    },
+    {
+      "title": "Benedictus Dominus Deus Israel, LV Anh.10",
+      "imslp_url": "https://imslp.org/wiki/Benedictus_Dominus_Deus_Israel,_LV_Anh.10_(Lassus,_Orlande_de)",
+      "year": 1550
+    },
+    {
+      "title": "Alma Nemes, quad sola Nemes, LV 46",
+      "imslp_url": "https://imslp.org/wiki/Alma_Nemes,_quad_sola_Nemes,_LV_46_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Audi dulcis amica mea, LV 42",
+      "imslp_url": "https://imslp.org/wiki/Audi_dulcis_amica_mea,_LV_42_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Avecques vous mon amour finira, LV 38",
+      "imslp_url": "https://imslp.org/wiki/Avecques_vous_mon_amour_finira,_LV_38_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Avecques vous mon amour, LV 38",
+      "imslp_url": "https://imslp.org/wiki/Avecques_vous_mon_amour,_LV_38_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Carmina Chromatico, LV 1048",
+      "imslp_url": "https://imslp.org/wiki/Carmina_Chromatico,_LV_1048_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Con lei fuss'io, LV 17",
+      "imslp_url": "https://imslp.org/wiki/Con_lei_fuss'io,_LV_17_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Del freddo Rheno, LV 23",
+      "imslp_url": "https://imslp.org/wiki/Del_freddo_Rheno,_LV_23_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Domine, quando veneris, LV 45",
+      "imslp_url": "https://imslp.org/wiki/Domine,_quando_veneris,_LV_45_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "En espoir vis, LV 37",
+      "imslp_url": "https://imslp.org/wiki/En_espoir_vis,_LV_37_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Fiera stella, LV 14",
+      "imslp_url": "https://imslp.org/wiki/Fiera_stella,_LV_14_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Gia mi fu, LV 4",
+      "imslp_url": "https://imslp.org/wiki/Gia_mi_fu,_LV_4_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Guarda'l mio stato, LV 2",
+      "imslp_url": "https://imslp.org/wiki/Guarda'l_mio_stato,_LV_2_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Hor qui son lasso, LV 6",
+      "imslp_url": "https://imslp.org/wiki/Hor_qui_son_lasso,_LV_6_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Je l'aime bien et l'amerai, LV 39",
+      "imslp_url": "https://imslp.org/wiki/Je_l'aime_bien_et_l'amerai,_LV_39_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "L'altr'hier sul mezzo giorno, LV 21",
+      "imslp_url": "https://imslp.org/wiki/L'altr'hier_sul_mezzo_giorno,_LV_21_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "La cortesia voi donne predicate, LV 33",
+      "imslp_url": "https://imslp.org/wiki/La_cortesia_voi_donne_predicate,_LV_33_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Las voules vous, LV 36",
+      "imslp_url": "https://imslp.org/wiki/Las_voules_vous,_LV_36_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Madonna mia piet\u00e0, LV 30",
+      "imslp_url": "https://imslp.org/wiki/Madonna_mia_piet\u00e0,_LV_30_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Mia benigna fortuna, LV 10",
+      "imslp_url": "https://imslp.org/wiki/Mia_benigna_fortuna,_LV_10_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "No giorno t'haggio, LV 32",
+      "imslp_url": "https://imslp.org/wiki/No_giorno_t'haggio,_LV_32_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Occhi, piangete, LV 27",
+      "imslp_url": "https://imslp.org/wiki/Occhi,_piangete,_LV_27_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Per pianto la mia carne, LV 24",
+      "imslp_url": "https://imslp.org/wiki/Per_pianto_la_mia_carne,_LV_24_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Perch'io veggio, LV 29",
+      "imslp_url": "https://imslp.org/wiki/Perch'io_veggio,_LV_29_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Pien d'un vago pensier, LV 20",
+      "imslp_url": "https://imslp.org/wiki/Pien_d'un_vago_pensier,_LV_20_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Poi che'l camin, LV 7",
+      "imslp_url": "https://imslp.org/wiki/Poi_che'l_camin,_LV_7_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Queste non son piu lagrime, LV 25",
+      "imslp_url": "https://imslp.org/wiki/Queste_non_son_piu_lagrime,_LV_25_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "S'io tal'hor, LV 16",
+      "imslp_url": "https://imslp.org/wiki/S'io_tal'hor,_LV_16_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Se ben l'empia mia sorte, LV 26",
+      "imslp_url": "https://imslp.org/wiki/Se_ben_l'empia_mia_sorte,_LV_26_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Sibylla Agrippa, LV 1060",
+      "imslp_url": "https://imslp.org/wiki/Sibylla_Agrippa,_LV_1060_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Sibylla Cimmeria, LV 1052",
+      "imslp_url": "https://imslp.org/wiki/Sibylla_Cimmeria,_LV_1052_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Sibylla Cumana, LV 1054",
+      "imslp_url": "https://imslp.org/wiki/Sibylla_Cumana,_LV_1054_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Sibylla Delphica, LV 1051",
+      "imslp_url": "https://imslp.org/wiki/Sibylla_Delphica,_LV_1051_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Sibylla Erythraea, LV 1059",
+      "imslp_url": "https://imslp.org/wiki/Sibylla_Erythraea,_LV_1059_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Sibylla Europaea, LV 1057",
+      "imslp_url": "https://imslp.org/wiki/Sibylla_Europaea,_LV_1057_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Sibylla Hellespontica, LV 1055",
+      "imslp_url": "https://imslp.org/wiki/Sibylla_Hellespontica,_LV_1055_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Sibylla Libyca, LV 1050",
+      "imslp_url": "https://imslp.org/wiki/Sibylla_Libyca,_LV_1050_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Sibylla Persica, LV 1049",
+      "imslp_url": "https://imslp.org/wiki/Sibylla_Persica,_LV_1049_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Sibylla Phrygia, LV 1056",
+      "imslp_url": "https://imslp.org/wiki/Sibylla_Phrygia,_LV_1056_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Sibylla Samia, LV 1053",
+      "imslp_url": "https://imslp.org/wiki/Sibylla_Samia,_LV_1053_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Sibylla Tiburtina, LV 1058",
+      "imslp_url": "https://imslp.org/wiki/Sibylla_Tiburtina,_LV_1058_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Sol'e pensoso i pi\u00f9 deserti campi, LV 19",
+      "imslp_url": "https://imslp.org/wiki/Sol'e_pensoso_i_pi\u00f9_deserti_campi,_LV_19_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Sto core mio, LV 35",
+      "imslp_url": "https://imslp.org/wiki/Sto_core_mio,_LV_35_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Tu sai madonna mia, LV 31",
+      "imslp_url": "https://imslp.org/wiki/Tu_sai_madonna_mia,_LV_31_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Tu traditora, LV 34",
+      "imslp_url": "https://imslp.org/wiki/Tu_traditora,_LV_34_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Vray Dieu disoit une fillette, LV 41",
+      "imslp_url": "https://imslp.org/wiki/Vray_Dieu_disoit_une_fillette,_LV_41_(Lassus,_Orlande_de)",
+      "year": 1555
+    },
+    {
+      "title": "Ad te Domine levavi animam, LV 53",
+      "imslp_url": "https://imslp.org/wiki/Ad_te_Domine_levavi_animam,_LV_53_(Lassus,_Orlande_de)",
+      "year": 1556
+    },
+    {
+      "title": "Creator omnium Deus, LV 62",
+      "imslp_url": "https://imslp.org/wiki/Creator_omnium_Deus,_LV_62_(Lassus,_Orlande_de)",
+      "year": 1556
+    },
+    {
+      "title": "Da pacem Domine, LV 63",
+      "imslp_url": "https://imslp.org/wiki/Da_pacem_Domine,_LV_63_(Lassus,_Orlande_de)",
+      "year": 1556
+    },
+    {
+      "title": "Delitiae Phoebi, LV 47",
+      "imslp_url": "https://imslp.org/wiki/Delitiae_Phoebi,_LV_47_(Lassus,_Orlande_de)",
+      "year": 1556
+    },
+    {
+      "title": "Domine non est exaltatum, LV 50",
+      "imslp_url": "https://imslp.org/wiki/Domine_non_est_exaltatum,_LV_50_(Lassus,_Orlande_de)",
+      "year": 1556
+    },
+    {
+      "title": "Domine probasti me, LV 57",
+      "imslp_url": "https://imslp.org/wiki/Domine_probasti_me,_LV_57_(Lassus,_Orlande_de)",
+      "year": 1556
+    },
+    {
+      "title": "Gustate et videte, LV 54",
+      "imslp_url": "https://imslp.org/wiki/Gustate_et_videte,_LV_54_(Lassus,_Orlande_de)",
+      "year": 1556
+    },
+    {
+      "title": "Heroum soboles, LV 60",
+      "imslp_url": "https://imslp.org/wiki/Heroum_soboles,_LV_60_(Lassus,_Orlande_de)",
+      "year": 1556
+    },
+    {
+      "title": "Heu mihi Domine, LV 51",
+      "imslp_url": "https://imslp.org/wiki/Heu_mihi_Domine,_LV_51_(Lassus,_Orlande_de)",
+      "year": 1556
+    },
+    {
+      "title": "Mirabile mysterium, LV 55",
+      "imslp_url": "https://imslp.org/wiki/Mirabile_mysterium,_LV_55_(Lassus,_Orlande_de)",
+      "year": 1556
+    },
+    {
+      "title": "Peccavi quid faciam, LV 48",
+      "imslp_url": "https://imslp.org/wiki/Peccavi_quid_faciam,_LV_48_(Lassus,_Orlande_de)",
+      "year": 1556
+    },
+    {
+      "title": "Si ambulavero in medio, LV 52",
+      "imslp_url": "https://imslp.org/wiki/Si_ambulavero_in_medio,_LV_52_(Lassus,_Orlande_de)",
+      "year": 1556
+    },
+    {
+      "title": "Si qua tibi obtulerint, LV 61",
+      "imslp_url": "https://imslp.org/wiki/Si_qua_tibi_obtulerint,_LV_61_(Lassus,_Orlande_de)",
+      "year": 1556
+    },
+    {
+      "title": "Stet quicunque, LV 49",
+      "imslp_url": "https://imslp.org/wiki/Stet_quicunque,_LV_49_(Lassus,_Orlande_de)",
+      "year": 1556
+    },
+    {
+      "title": "Te spectant Reginalde, LV 56",
+      "imslp_url": "https://imslp.org/wiki/Te_spectant_Reginalde,_LV_56_(Lassus,_Orlande_de)",
+      "year": 1556
+    },
+    {
+      "title": "Missa super Domine secundum actum meum, LV 409",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Domine_secundum_actum_meum,_LV_409_(Lassus,_Orlande_de)",
+      "year": 1557
+    },
+    {
+      "title": "On doit le fer battre, LV 745",
+      "imslp_url": "https://imslp.org/wiki/On_doit_le_fer_battre,_LV_745_(Lassus,_Orlande_de)",
+      "year": 1557
+    },
+    {
+      "title": "Questi ch'inditio fan, LV 68",
+      "imslp_url": "https://imslp.org/wiki/Questi_ch'inditio_fan,_LV_68_(Lassus,_Orlande_de)",
+      "year": 1557
+    },
+    {
+      "title": "Vostro fui, vostro sono, LV 66",
+      "imslp_url": "https://imslp.org/wiki/Vostro_fui,_vostro_sono,_LV_66_(Lassus,_Orlande_de)",
+      "year": 1557
+    },
+    {
+      "title": "Deh hor foss'io, LV 75",
+      "imslp_url": "https://imslp.org/wiki/Deh_hor_foss'io,_LV_75_(Lassus,_Orlande_de)",
+      "year": 1558
+    },
+    {
+      "title": "Lectio nona, LV 217",
+      "imslp_url": "https://imslp.org/wiki/Lectio_nona,_LV_217_(Lassus,_Orlande_de)",
+      "year": 1558
+    },
+    {
+      "title": "Lectio prima, LV 209",
+      "imslp_url": "https://imslp.org/wiki/Lectio_prima,_LV_209_(Lassus,_Orlande_de)",
+      "year": 1558
+    },
+    {
+      "title": "Lectio quarta, LV 212",
+      "imslp_url": "https://imslp.org/wiki/Lectio_quarta,_LV_212_(Lassus,_Orlande_de)",
+      "year": 1558
+    },
+    {
+      "title": "Lectio quinta, LV 213",
+      "imslp_url": "https://imslp.org/wiki/Lectio_quinta,_LV_213_(Lassus,_Orlande_de)",
+      "year": 1558
+    },
+    {
+      "title": "Lectio secunda, LV 210",
+      "imslp_url": "https://imslp.org/wiki/Lectio_secunda,_LV_210_(Lassus,_Orlande_de)",
+      "year": 1558
+    },
+    {
+      "title": "Lectio septima, LV 215",
+      "imslp_url": "https://imslp.org/wiki/Lectio_septima,_LV_215_(Lassus,_Orlande_de)",
+      "year": 1558
+    },
+    {
+      "title": "Lectio sexta, LV 214",
+      "imslp_url": "https://imslp.org/wiki/Lectio_sexta,_LV_214_(Lassus,_Orlande_de)",
+      "year": 1558
+    },
+    {
+      "title": "Lectio tertia, LV 211",
+      "imslp_url": "https://imslp.org/wiki/Lectio_tertia,_LV_211_(Lassus,_Orlande_de)",
+      "year": 1558
+    },
+    {
+      "title": "Non ha tante serene stelle, LV 74",
+      "imslp_url": "https://imslp.org/wiki/Non_ha_tante_serene_stelle,_LV_74_(Lassus,_Orlande_de)",
+      "year": 1558
+    },
+    {
+      "title": "Pelli meae consumptis carnibus, LV 216",
+      "imslp_url": "https://imslp.org/wiki/Pelli_meae_consumptis_carnibus,_LV_216_(Lassus,_Orlande_de)",
+      "year": 1558
+    },
+    {
+      "title": "O temps divers, LV 78",
+      "imslp_url": "https://imslp.org/wiki/O_temps_divers,_LV_78_(Lassus,_Orlande_de)",
+      "year": 1559
+    },
+    {
+      "title": "Si le long tems, LV 77",
+      "imslp_url": "https://imslp.org/wiki/Si_le_long_tems,_LV_77_(Lassus,_Orlande_de)",
+      "year": 1559
+    },
+    {
+      "title": "Ton feu s'estaint, LV 80",
+      "imslp_url": "https://imslp.org/wiki/Ton_feu_s'estaint,_LV_80_(Lassus,_Orlande_de)",
+      "year": 1559
+    },
+    {
+      "title": "Veoir est beaucoup, LV 79",
+      "imslp_url": "https://imslp.org/wiki/Veoir_est_beaucoup,_LV_79_(Lassus,_Orlande_de)",
+      "year": 1559
+    },
+    {
+      "title": "Alma Venus, LV 89",
+      "imslp_url": "https://imslp.org/wiki/Alma_Venus,_LV_89_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "Ardant amour souvent, LV 96",
+      "imslp_url": "https://imslp.org/wiki/Ardant_amour_souvent,_LV_96_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "Au temps jadis, LV 103",
+      "imslp_url": "https://imslp.org/wiki/Au_temps_jadis,_LV_103_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "In dubbio di mio stato, LV 87",
+      "imslp_url": "https://imslp.org/wiki/In_dubbio_di_mio_stato,_LV_87_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "J'atendz le tems, LV 97",
+      "imslp_url": "https://imslp.org/wiki/J'atendz_le_tems,_LV_97_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "Las! Me faut il, LV 93",
+      "imslp_url": "https://imslp.org/wiki/Las!_Me_faut_il,_LV_93_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "Missa Cantorum, LV Anh.80",
+      "imslp_url": "https://imslp.org/wiki/Missa_Cantorum,_LV_Anh.80_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "Missa De Feria, LV 623",
+      "imslp_url": "https://imslp.org/wiki/Missa_De_Feria,_LV_623_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "Missa ad imitationem moduli J\u00e4ger, LV 622",
+      "imslp_url": "https://imslp.org/wiki/Missa_ad_imitationem_moduli_J\u00e4ger,_LV_622_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "Missa ad imitationem moduli Puis que j'ai perdu, LV 620",
+      "imslp_url": "https://imslp.org/wiki/Missa_ad_imitationem_moduli_Puis_que_j'ai_perdu,_LV_620_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "Missa super Je ne mange poinct de porcq, LV 414",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Je_ne_mange_poinct_de_porcq,_LV_414_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "Missa super La, la, maistre Pierre, LV 415",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_La,_la,_maistre_Pierre,_LV_415_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "Missa super Or sus \u00e0 coup, LV 1145",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Or_sus_\u00e0_coup,_LV_1145_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "Missa super Pilons pilons lorge, LV 416",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Pilons_pilons_lorge,_LV_416_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "Non vi vieto, LV 83",
+      "imslp_url": "https://imslp.org/wiki/Non_vi_vieto,_LV_83_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "O Lucia miau miau, LV 101",
+      "imslp_url": "https://imslp.org/wiki/O_Lucia_miau_miau,_LV_101_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "Officium Ascensionis Domini, LV Anh.124",
+      "imslp_url": "https://imslp.org/wiki/Officium_Ascensionis_Domini,_LV_Anh.124_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "Officium Corporis Christi, LV Anh.125",
+      "imslp_url": "https://imslp.org/wiki/Officium_Corporis_Christi,_LV_Anh.125_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "Officium Epiphaniae Domini, LV Anh.126",
+      "imslp_url": "https://imslp.org/wiki/Officium_Epiphaniae_Domini,_LV_Anh.126_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "Officium Resurrectionis Domini, LV Anh.132",
+      "imslp_url": "https://imslp.org/wiki/Officium_Resurrectionis_Domini,_LV_Anh.132_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "Officium in Quinquagesima, LV Anh.130",
+      "imslp_url": "https://imslp.org/wiki/Officium_in_Quinquagesima,_LV_Anh.130_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "Officium in feira secunda post Resurrectionem, LV Anh.127",
+      "imslp_url": "https://imslp.org/wiki/Officium_in_feira_secunda_post_Resurrectionem,_LV_Anh.127_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "Officium in feria tertia post Resurrectionem, LV Anh.128",
+      "imslp_url": "https://imslp.org/wiki/Officium_in_feria_tertia_post_Resurrectionem,_LV_Anh.128_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "Quanto il mio duol, LV 84",
+      "imslp_url": "https://imslp.org/wiki/Quanto_il_mio_duol,_LV_84_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "Sur tous regretz le mien, LV 92",
+      "imslp_url": "https://imslp.org/wiki/Sur_tous_regretz_le_mien,_LV_92_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "Tityre tu patulae, LV 100",
+      "imslp_url": "https://imslp.org/wiki/Tityre_tu_patulae,_LV_100_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "Un triste coeur, LV 99",
+      "imslp_url": "https://imslp.org/wiki/Un_triste_coeur,_LV_99_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "Vivo sol di speranza, LV 81",
+      "imslp_url": "https://imslp.org/wiki/Vivo_sol_di_speranza,_LV_81_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "Vous qui aymez les dames, LV 95",
+      "imslp_url": "https://imslp.org/wiki/Vous_qui_aymez_les_dames,_LV_95_(Lassus,_Orlande_de)",
+      "year": 1560
+    },
+    {
+      "title": "La notte che segui, LV 106",
+      "imslp_url": "https://imslp.org/wiki/La_notte_che_segui,_LV_106_(Lassus,_Orlande_de)",
+      "year": 1561
+    },
+    {
+      "title": "Oh d'amarissime onde, LV 104",
+      "imslp_url": "https://imslp.org/wiki/Oh_d'amarissime_onde,_LV_104_(Lassus,_Orlande_de)",
+      "year": 1561
+    },
+    {
+      "title": "Ove sei vita mia, LV 105",
+      "imslp_url": "https://imslp.org/wiki/Ove_sei_vita_mia,_LV_105_(Lassus,_Orlande_de)",
+      "year": 1561
+    },
+    {
+      "title": "Rendz moy mon coeur, LV 107",
+      "imslp_url": "https://imslp.org/wiki/Rendz_moy_mon_coeur,_LV_107_(Lassus,_Orlande_de)",
+      "year": 1561
+    },
+    {
+      "title": "Adversum me loquebantur, LV 119",
+      "imslp_url": "https://imslp.org/wiki/Adversum_me_loquebantur,_LV_119_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "Ben veggio di lontan', LV 135",
+      "imslp_url": "https://imslp.org/wiki/Ben_veggio_di_lontan',_LV_135_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "Benedicam Dominum in omni tempore, LV 131",
+      "imslp_url": "https://imslp.org/wiki/Benedicam_Dominum_in_omni_tempore,_LV_131_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "Caligaverunt oculi mei, LV 132",
+      "imslp_url": "https://imslp.org/wiki/Caligaverunt_oculi_mei,_LV_132_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "Ce faux amour, LV 133",
+      "imslp_url": "https://imslp.org/wiki/Ce_faux_amour,_LV_133_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "Clare sanctorum senatus, LV 129",
+      "imslp_url": "https://imslp.org/wiki/Clare_sanctorum_senatus,_LV_129_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "Confitemini Domino, LV 108",
+      "imslp_url": "https://imslp.org/wiki/Confitemini_Domino,_LV_108_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "Confundantur superbi, LV 128",
+      "imslp_url": "https://imslp.org/wiki/Confundantur_superbi,_LV_128_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "Deus qui sedes, LV 112",
+      "imslp_url": "https://imslp.org/wiki/Deus_qui_sedes,_LV_112_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "Exaudi Domine vocem meam, LV 116",
+      "imslp_url": "https://imslp.org/wiki/Exaudi_Domine_vocem_meam,_LV_116_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "Heu quantus dolor, LV 113",
+      "imslp_url": "https://imslp.org/wiki/Heu_quantus_dolor,_LV_113_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "Ierusalem plantabis vineam, LV 110",
+      "imslp_url": "https://imslp.org/wiki/Ierusalem_plantabis_vineam,_LV_110_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "Illustra faciem tuam, LV 125",
+      "imslp_url": "https://imslp.org/wiki/Illustra_faciem_tuam,_LV_125_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "In dubbio di mio stato, LV 136",
+      "imslp_url": "https://imslp.org/wiki/In_dubbio_di_mio_stato,_LV_136_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "In me transierunt, LV 121",
+      "imslp_url": "https://imslp.org/wiki/In_me_transierunt,_LV_121_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "Legem pone mihi, LV 124",
+      "imslp_url": "https://imslp.org/wiki/Legem_pone_mihi,_LV_124_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "Missa super In me transierunt \u00e0 5, LV Anh.87",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_In_me_transierunt_\u00e0_5,_LV_Anh.87_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "Missa super Surrexit pastor bonus, LV Anh.105",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Surrexit_pastor_bonus,_LV_Anh.105_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "Nisi Dominus aedificaverit, LV 122",
+      "imslp_url": "https://imslp.org/wiki/Nisi_Dominus_aedificaverit,_LV_122_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "Non vos me elegistis, LV 123",
+      "imslp_url": "https://imslp.org/wiki/Non_vos_me_elegistis,_LV_123_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "O Domine salvum me fac, LV 118",
+      "imslp_url": "https://imslp.org/wiki/O_Domine_salvum_me_fac,_LV_118_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "Omnia quae fecisti, LV 109",
+      "imslp_url": "https://imslp.org/wiki/Omnia_quae_fecisti,_LV_109_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "Ov'\u00e8 condotto'il, LV 134",
+      "imslp_url": "https://imslp.org/wiki/Ov'\u00e8_condotto'il,_LV_134_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "Quam benignus es, LV 120",
+      "imslp_url": "https://imslp.org/wiki/Quam_benignus_es,_LV_120_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "Sicut mater consolatur, LV 130",
+      "imslp_url": "https://imslp.org/wiki/Sicut_mater_consolatur,_LV_130_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "Surgens Jesus Dominus noster, LV 127",
+      "imslp_url": "https://imslp.org/wiki/Surgens_Jesus_Dominus_noster,_LV_127_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "Surrexit pastor bonus, LV 126",
+      "imslp_url": "https://imslp.org/wiki/Surrexit_pastor_bonus,_LV_126_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "Taedet animam mean, LV 117",
+      "imslp_url": "https://imslp.org/wiki/Taedet_animam_mean,_LV_117_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "Veni in hortum meum, LV 114",
+      "imslp_url": "https://imslp.org/wiki/Veni_in_hortum_meum,_LV_114_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "Videntes stellam magi, LV 111",
+      "imslp_url": "https://imslp.org/wiki/Videntes_stellam_magi,_LV_111_(Lassus,_Orlande_de)",
+      "year": 1562
+    },
+    {
+      "title": "Amor che ved'ogni, LV 145",
+      "imslp_url": "https://imslp.org/wiki/Amor_che_ved'ogni,_LV_145_(Lassus,_Orlande_de)",
+      "year": 1563
+    },
+    {
+      "title": "Amor mi strugge, LV 140",
+      "imslp_url": "https://imslp.org/wiki/Amor_mi_strugge,_LV_140_(Lassus,_Orlande_de)",
+      "year": 1563
+    },
+    {
+      "title": "Dicesi che la morte, LV 139",
+      "imslp_url": "https://imslp.org/wiki/Dicesi_che_la_morte,_LV_139_(Lassus,_Orlande_de)",
+      "year": 1563
+    },
+    {
+      "title": "L'altro Signor, LV 137",
+      "imslp_url": "https://imslp.org/wiki/L'altro_Signor,_LV_137_(Lassus,_Orlande_de)",
+      "year": 1563
+    },
+    {
+      "title": "La vita fugge, LV 144",
+      "imslp_url": "https://imslp.org/wiki/La_vita_fugge,_LV_144_(Lassus,_Orlande_de)",
+      "year": 1563
+    },
+    {
+      "title": "Missa ad imitationem moduli Susanne un Jour, LV 408",
+      "imslp_url": "https://imslp.org/wiki/Missa_ad_imitationem_moduli_Susanne_un_Jour,_LV_408_(Lassus,_Orlande_de)",
+      "year": 1563
+    },
+    {
+      "title": "Non s'incolpi'l desire, LV 146",
+      "imslp_url": "https://imslp.org/wiki/Non_s'incolpi'l_desire,_LV_146_(Lassus,_Orlande_de)",
+      "year": 1563
+    },
+    {
+      "title": "Quanta invidia ti porto, LV 138",
+      "imslp_url": "https://imslp.org/wiki/Quanta_invidia_ti_porto,_LV_138_(Lassus,_Orlande_de)",
+      "year": 1563
+    },
+    {
+      "title": "Quanta invidia vi porto, LV 142",
+      "imslp_url": "https://imslp.org/wiki/Quanta_invidia_vi_porto,_LV_142_(Lassus,_Orlande_de)",
+      "year": 1563
+    },
+    {
+      "title": "Scio enim quod redemptor, LV 151",
+      "imslp_url": "https://imslp.org/wiki/Scio_enim_quod_redemptor,_LV_151_(Lassus,_Orlande_de)",
+      "year": 1563
+    },
+    {
+      "title": "Scorgo tant'alto il lume, LV 147",
+      "imslp_url": "https://imslp.org/wiki/Scorgo_tant'alto_il_lume,_LV_147_(Lassus,_Orlande_de)",
+      "year": 1563
+    },
+    {
+      "title": "Se si alto pon, LV 148",
+      "imslp_url": "https://imslp.org/wiki/Se_si_alto_pon,_LV_148_(Lassus,_Orlande_de)",
+      "year": 1563
+    },
+    {
+      "title": "Toutes les nuits, LV 149",
+      "imslp_url": "https://imslp.org/wiki/Toutes_les_nuits,_LV_149_(Lassus,_Orlande_de)",
+      "year": 1563
+    },
+    {
+      "title": "Amen amen dico vobis, LV 204",
+      "imslp_url": "https://imslp.org/wiki/Amen_amen_dico_vobis,_LV_204_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Ardant amour souvent, LV 174",
+      "imslp_url": "https://imslp.org/wiki/Ardant_amour_souvent,_LV_174_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Au feu, au feu, venez moy secourir, LV 185",
+      "imslp_url": "https://imslp.org/wiki/Au_feu,_au_feu,_venez_moy_secourir,_LV_185_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Bonjour mon coeur, LV 167",
+      "imslp_url": "https://imslp.org/wiki/Bonjour_mon_coeur,_LV_167_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Cognoscimus Domine, LV 198",
+      "imslp_url": "https://imslp.org/wiki/Cognoscimus_Domine,_LV_198_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Confisus Domino tua pectora, LV 201",
+      "imslp_url": "https://imslp.org/wiki/Confisus_Domino_tua_pectora,_LV_201_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "De tout mon coeur, LV 181",
+      "imslp_url": "https://imslp.org/wiki/De_tout_mon_coeur,_LV_181_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Du corps absent, LV 171",
+      "imslp_url": "https://imslp.org/wiki/Du_corps_absent,_LV_171_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Du fond de ma pens\u00e9e, LV 155",
+      "imslp_url": "https://imslp.org/wiki/Du_fond_de_ma_pens\u00e9e,_LV_155_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "En m'oyant chanter quelquefois, LV 172",
+      "imslp_url": "https://imslp.org/wiki/En_m'oyant_chanter_quelquefois,_LV_172_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "En un lieu ou l'on ne voit goutte, LV 166",
+      "imslp_url": "https://imslp.org/wiki/En_un_lieu_ou_l'on_ne_voit_goutte,_LV_166_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Et d'ou venez vous, LV 179",
+      "imslp_url": "https://imslp.org/wiki/Et_d'ou_venez_vous,_LV_179_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Fili quid fecisti, LV 199",
+      "imslp_url": "https://imslp.org/wiki/Fili_quid_fecisti,_LV_199_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Fleur de quinze ans, LV 157",
+      "imslp_url": "https://imslp.org/wiki/Fleur_de_quinze_ans,_LV_157_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Fuyons tous d'amour le jeu, LV 164",
+      "imslp_url": "https://imslp.org/wiki/Fuyons_tous_d'amour_le_jeu,_LV_164_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "In te Domine speravi, LV 193",
+      "imslp_url": "https://imslp.org/wiki/In_te_Domine_speravi,_LV_193_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "J'ay cherch\u00e9 la science, LV 161",
+      "imslp_url": "https://imslp.org/wiki/J'ay_cherch\u00e9_la_science,_LV_161_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "J'endure un tourment, LV 182",
+      "imslp_url": "https://imslp.org/wiki/J'endure_un_tourment,_LV_182_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Je ne veux rien, LV 170",
+      "imslp_url": "https://imslp.org/wiki/Je_ne_veux_rien,_LV_170_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "La terre les eaux, LV 188",
+      "imslp_url": "https://imslp.org/wiki/La_terre_les_eaux,_LV_188_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Le departir, LV 180",
+      "imslp_url": "https://imslp.org/wiki/Le_departir,_LV_180_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Le temps peut bien, LV 162",
+      "imslp_url": "https://imslp.org/wiki/Le_temps_peut_bien,_LV_162_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Margot labourez les vignes, LV 169",
+      "imslp_url": "https://imslp.org/wiki/Margot_labourez_les_vignes,_LV_169_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Mes pas semez et loings alez, LV 165",
+      "imslp_url": "https://imslp.org/wiki/Mes_pas_semez_et_loings_alez,_LV_165_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Missa super Dixit Joesph, LV 1144",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Dixit_Joesph,_LV_1144_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Mon coeur ravis d'amour fort variable, LV 178",
+      "imslp_url": "https://imslp.org/wiki/Mon_coeur_ravis_d'amour_fort_variable,_LV_178_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Monsieur l'Abb\u00e9, LV 154",
+      "imslp_url": "https://imslp.org/wiki/Monsieur_l'Abb\u00e9,_LV_154_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "O comme heureulx, LV 173",
+      "imslp_url": "https://imslp.org/wiki/O_comme_heureulx,_LV_173_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Pater peccavi, LV 187",
+      "imslp_url": "https://imslp.org/wiki/Pater_peccavi,_LV_187_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Puisque fortune, LV 184",
+      "imslp_url": "https://imslp.org/wiki/Puisque_fortune,_LV_184_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Quam magnificata sunt, LV 197",
+      "imslp_url": "https://imslp.org/wiki/Quam_magnificata_sunt,_LV_197_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Quand mon mary, LV 153",
+      "imslp_url": "https://imslp.org/wiki/Quand_mon_mary,_LV_153_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Quare tristis es anima mea, LV 207",
+      "imslp_url": "https://imslp.org/wiki/Quare_tristis_es_anima_mea,_LV_207_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Si froid et chaut, LV 168",
+      "imslp_url": "https://imslp.org/wiki/Si_froid_et_chaut,_LV_168_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Si vous n'estes en bon point, LV 159",
+      "imslp_url": "https://imslp.org/wiki/Si_vous_n'estes_en_bon_point,_LV_159_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Soyons joyeux, LV 176",
+      "imslp_url": "https://imslp.org/wiki/Soyons_joyeux,_LV_176_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Surge propera amica mea et veni, LV 206",
+      "imslp_url": "https://imslp.org/wiki/Surge_propera_amica_mea_et_veni,_LV_206_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Verbum caro factum est, LV 196",
+      "imslp_url": "https://imslp.org/wiki/Verbum_caro_factum_est,_LV_196_(Lassus,_Orlande_de)",
+      "year": 1564
+    },
+    {
+      "title": "Angelus ad pastores ait, LV 115",
+      "imslp_url": "https://imslp.org/wiki/Angelus_ad_pastores_ait,_LV_115_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Animam meam dilectam, LV 244",
+      "imslp_url": "https://imslp.org/wiki/Animam_meam_dilectam,_LV_244_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Beatus qui intelligit, LV 248",
+      "imslp_url": "https://imslp.org/wiki/Beatus_qui_intelligit,_LV_248_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Benedicite omnia opera, LV 239",
+      "imslp_url": "https://imslp.org/wiki/Benedicite_omnia_opera,_LV_239_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Bonitatem fecisti, LV 241",
+      "imslp_url": "https://imslp.org/wiki/Bonitatem_fecisti,_LV_241_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Cantate Domino canticum novum, LV 220",
+      "imslp_url": "https://imslp.org/wiki/Cantate_Domino_canticum_novum,_LV_220_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "De ore prudentis, LV 221",
+      "imslp_url": "https://imslp.org/wiki/De_ore_prudentis,_LV_221_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Deus canticum novum, LV 222",
+      "imslp_url": "https://imslp.org/wiki/Deus_canticum_novum,_LV_222_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Deus in nomine tuo, LV 234",
+      "imslp_url": "https://imslp.org/wiki/Deus_in_nomine_tuo,_LV_234_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Domine, quando veneris, LV 351",
+      "imslp_url": "https://imslp.org/wiki/Domine,_quando_veneris,_LV_351_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Iesu corona virginum, LV 224",
+      "imslp_url": "https://imslp.org/wiki/Iesu_corona_virginum,_LV_224_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Je ne veux plus que chanter, LV 231",
+      "imslp_url": "https://imslp.org/wiki/Je_ne_veux_plus_que_chanter,_LV_231_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Jubilate Deo omnis terra, LV 247",
+      "imslp_url": "https://imslp.org/wiki/Jubilate_Deo_omnis_terra,_LV_247_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Lauda Ierusalem Dominum, LV 227",
+      "imslp_url": "https://imslp.org/wiki/Lauda_Ierusalem_Dominum,_LV_227_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Laudate Dominum de caelis, LV 236",
+      "imslp_url": "https://imslp.org/wiki/Laudate_Dominum_de_caelis,_LV_236_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Magnificat octavi toni, LV 927",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_octavi_toni,_LV_927_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Magnificat primi toni, LV 921",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_primi_toni,_LV_921_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Magnificat quarti toni, LV 924",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_quarti_toni,_LV_924_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Magnificat quinti toni, LV 556",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_quinti_toni,_LV_556_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Magnificat secundi toni, LV 922",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_secundi_toni,_LV_922_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Magnificat septimi toni, LV 926",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_septimi_toni,_LV_926_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Magnificat sexti toni, LV 925",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_sexti_toni,_LV_925_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Magnificat tertii toni, LV 923",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_tertii_toni,_LV_923_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Missa super Locutus sum, LV 919",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Locutus_sum,_LV_919_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Nunc dimittis octavi toni, LV Anh.110",
+      "imslp_url": "https://imslp.org/wiki/Nunc_dimittis_octavi_toni,_LV_Anh.110_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Nunc dimittis primi toni, LV Anh.113",
+      "imslp_url": "https://imslp.org/wiki/Nunc_dimittis_primi_toni,_LV_Anh.113_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Nunc dimittis quarti toni, LV Anh.115",
+      "imslp_url": "https://imslp.org/wiki/Nunc_dimittis_quarti_toni,_LV_Anh.115_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Nunc dimittis quinti toni, LV Anh.116",
+      "imslp_url": "https://imslp.org/wiki/Nunc_dimittis_quinti_toni,_LV_Anh.116_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Nunc dimittis septimi toni, LV Anh.120",
+      "imslp_url": "https://imslp.org/wiki/Nunc_dimittis_septimi_toni,_LV_Anh.120_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Pater noster, LV 246",
+      "imslp_url": "https://imslp.org/wiki/Pater_noster,_LV_246_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Quis valet eloquio, LV 237",
+      "imslp_url": "https://imslp.org/wiki/Quis_valet_eloquio,_LV_237_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Spiritus meus attenuabitur, LV 215",
+      "imslp_url": "https://imslp.org/wiki/Spiritus_meus_attenuabitur,_LV_215_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Tribus miraculis, LV 219",
+      "imslp_url": "https://imslp.org/wiki/Tribus_miraculis,_LV_219_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Tu Domine benignus, LV 245",
+      "imslp_url": "https://imslp.org/wiki/Tu_Domine_benignus,_LV_245_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Ut radios edit, LV 240",
+      "imslp_url": "https://imslp.org/wiki/Ut_radios_edit,_LV_240_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Vexilla regis prodeunt, LV 225",
+      "imslp_url": "https://imslp.org/wiki/Vexilla_regis_prodeunt,_LV_225_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Zachaee festinans descende, LV 252",
+      "imslp_url": "https://imslp.org/wiki/Zachaee_festinans_descende,_LV_252_(Lassus,_Orlande_de)",
+      "year": 1565
+    },
+    {
+      "title": "Asperges me, LV 528",
+      "imslp_url": "https://imslp.org/wiki/Asperges_me,_LV_528_(Lassus,_Orlande_de)",
+      "year": 1566
+    },
+    {
+      "title": "Asperges me, LV 529",
+      "imslp_url": "https://imslp.org/wiki/Asperges_me,_LV_529_(Lassus,_Orlande_de)",
+      "year": 1566
+    },
+    {
+      "title": "Buon' hora prende il giorno, LV 324",
+      "imslp_url": "https://imslp.org/wiki/Buon'_hora_prende_il_giorno,_LV_324_(Lassus,_Orlande_de)",
+      "year": 1566
+    },
+    {
+      "title": "Concupiscendo concupiscit anima mea, LV 226",
+      "imslp_url": "https://imslp.org/wiki/Concupiscendo_concupiscit_anima_mea,_LV_226_(Lassus,_Orlande_de)",
+      "year": 1566
+    },
+    {
+      "title": "Congratulamini mihi omnes, LV 259",
+      "imslp_url": "https://imslp.org/wiki/Congratulamini_mihi_omnes,_LV_259_(Lassus,_Orlande_de)",
+      "year": 1566
+    },
+    {
+      "title": "Cum natus esset, LV 255",
+      "imslp_url": "https://imslp.org/wiki/Cum_natus_esset,_LV_255_(Lassus,_Orlande_de)",
+      "year": 1566
+    },
+    {
+      "title": "Deus misereatur nostri, LV 266",
+      "imslp_url": "https://imslp.org/wiki/Deus_misereatur_nostri,_LV_266_(Lassus,_Orlande_de)",
+      "year": 1566
+    },
+    {
+      "title": "Deus noster refugium et virtus, LV 223",
+      "imslp_url": "https://imslp.org/wiki/Deus_noster_refugium_et_virtus,_LV_223_(Lassus,_Orlande_de)",
+      "year": 1566
+    },
+    {
+      "title": "Domine deduc me, LV 256",
+      "imslp_url": "https://imslp.org/wiki/Domine_deduc_me,_LV_256_(Lassus,_Orlande_de)",
+      "year": 1566
+    },
+    {
+      "title": "Dominus mihi adiutor, LV 263",
+      "imslp_url": "https://imslp.org/wiki/Dominus_mihi_adiutor,_LV_263_(Lassus,_Orlande_de)",
+      "year": 1566
+    },
+    {
+      "title": "Dominus scit cogitationes hominum, LV 58",
+      "imslp_url": "https://imslp.org/wiki/Dominus_scit_cogitationes_hominum,_LV_58_(Lassus,_Orlande_de)",
+      "year": 1566
+    },
+    {
+      "title": "Elle s'en va de moi, LV 90",
+      "imslp_url": "https://imslp.org/wiki/Elle_s'en_va_de_moi,_LV_90_(Lassus,_Orlande_de)",
+      "year": 1566
+    },
+    {
+      "title": "Forte soporifera, LV 270",
+      "imslp_url": "https://imslp.org/wiki/Forte_soporifera,_LV_270_(Lassus,_Orlande_de)",
+      "year": 1566
+    },
+    {
+      "title": "Infelix ego omnium, LV 264",
+      "imslp_url": "https://imslp.org/wiki/Infelix_ego_omnium,_LV_264_(Lassus,_Orlande_de)",
+      "year": 1566
+    },
+    {
+      "title": "Lasso ch'il crederia, LV 322",
+      "imslp_url": "https://imslp.org/wiki/Lasso_ch'il_crederia,_LV_322_(Lassus,_Orlande_de)",
+      "year": 1566
+    },
+    {
+      "title": "Levavi oculos meos, LV 267",
+      "imslp_url": "https://imslp.org/wiki/Levavi_oculos_meos,_LV_267_(Lassus,_Orlande_de)",
+      "year": 1566
+    },
+    {
+      "title": "Missa De Feria in Quadragesima, LV Anh.82",
+      "imslp_url": "https://imslp.org/wiki/Missa_De_Feria_in_Quadragesima,_LV_Anh.82_(Lassus,_Orlande_de)",
+      "year": 1566
+    },
+    {
+      "title": "Missa De Feria in Septimana Sancta, LV Anh.83",
+      "imslp_url": "https://imslp.org/wiki/Missa_De_Feria_in_Septimana_Sancta,_LV_Anh.83_(Lassus,_Orlande_de)",
+      "year": 1566
+    },
+    {
+      "title": "Missa ad imitationem moduli In te Domine speravi, LV 269",
+      "imslp_url": "https://imslp.org/wiki/Missa_ad_imitationem_moduli_In_te_Domine_speravi,_LV_269_(Lassus,_Orlande_de)",
+      "year": 1566
+    },
+    {
+      "title": "Missa super In principio, LV Anh.88",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_In_principio,_LV_Anh.88_(Lassus,_Orlande_de)",
+      "year": 1566
+    },
+    {
+      "title": "Missa super Laudate Dominum, LV 953",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Laudate_Dominum,_LV_953_(Lassus,_Orlande_de)",
+      "year": 1566
+    },
+    {
+      "title": "Missa super Tempus est ut revertar, LV Anh.106",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Tempus_est_ut_revertar,_LV_Anh.106_(Lassus,_Orlande_de)",
+      "year": 1566
+    },
+    {
+      "title": "Ove d'altra montagna, LV 323",
+      "imslp_url": "https://imslp.org/wiki/Ove_d'altra_montagna,_LV_323_(Lassus,_Orlande_de)",
+      "year": 1566
+    },
+    {
+      "title": "Quid gloriaris, LV 253",
+      "imslp_url": "https://imslp.org/wiki/Quid_gloriaris,_LV_253_(Lassus,_Orlande_de)",
+      "year": 1566
+    },
+    {
+      "title": "Si com'al chiaro giorno, LV 268",
+      "imslp_url": "https://imslp.org/wiki/Si_com'al_chiaro_giorno,_LV_268_(Lassus,_Orlande_de)",
+      "year": 1566
+    },
+    {
+      "title": "Tempus est ut revertar, LV 260",
+      "imslp_url": "https://imslp.org/wiki/Tempus_est_ut_revertar,_LV_260_(Lassus,_Orlande_de)",
+      "year": 1566
+    },
+    {
+      "title": "Timor et tremor, LV 194",
+      "imslp_url": "https://imslp.org/wiki/Timor_et_tremor,_LV_194_(Lassus,_Orlande_de)",
+      "year": 1566
+    },
+    {
+      "title": "Vidi aquam, LV 527",
+      "imslp_url": "https://imslp.org/wiki/Vidi_aquam,_LV_527_(Lassus,_Orlande_de)",
+      "year": 1566
+    },
+    {
+      "title": "Am abend spat, LV 306",
+      "imslp_url": "https://imslp.org/wiki/Am_abend_spat,_LV_306_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Che fai che pensi, LV 315",
+      "imslp_url": "https://imslp.org/wiki/Che_fai_che_pensi,_LV_315_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Der wein der schmeckt mir also wol, LV 299",
+      "imslp_url": "https://imslp.org/wiki/Der_wein_der_schmeckt_mir_also_wol,_LV_299_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Die fa\u00dfnacht ist ein sch\u00f6ne zeit, LV 297",
+      "imslp_url": "https://imslp.org/wiki/Die_fa\u00dfnacht_ist_ein_sch\u00f6ne_zeit,_LV_297_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Die zeit so jetz verhanden ist, LV 300",
+      "imslp_url": "https://imslp.org/wiki/Die_zeit_so_jetz_verhanden_ist,_LV_300_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Ein guter wein ist lobenswerd, LV 309",
+      "imslp_url": "https://imslp.org/wiki/Ein_guter_wein_ist_lobenswerd,_LV_309_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Frau ich bin euch von hertzen hold, LV 305",
+      "imslp_url": "https://imslp.org/wiki/Frau_ich_bin_euch_von_hertzen_hold,_LV_305_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Fr\u00f6lich zu sein ist mein manier, LV 308",
+      "imslp_url": "https://imslp.org/wiki/Fr\u00f6lich_zu_sein_ist_mein_manier,_LV_308_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Hatez vous de me faire grace, LV 333",
+      "imslp_url": "https://imslp.org/wiki/Hatez_vous_de_me_faire_grace,_LV_333_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Huc me sidereo, LV 326",
+      "imslp_url": "https://imslp.org/wiki/Huc_me_sidereo,_LV_326_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "I'vo piangendo, LV 319",
+      "imslp_url": "https://imslp.org/wiki/I'vo_piangendo,_LV_319_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Ich r\u00fcff zu dir herr Jesu Christ, LV 296",
+      "imslp_url": "https://imslp.org/wiki/Ich_r\u00fcff_zu_dir_herr_Jesu_Christ,_LV_296_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Iesu nostra redemptio, LV 331",
+      "imslp_url": "https://imslp.org/wiki/Iesu_nostra_redemptio,_LV_331_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Im Land zu Wirtenberg, LV 302",
+      "imslp_url": "https://imslp.org/wiki/Im_Land_zu_Wirtenberg,_LV_302_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Im Mayen h\u00f6rt man die hanen krayen, LV 303",
+      "imslp_url": "https://imslp.org/wiki/Im_Mayen_h\u00f6rt_man_die_hanen_krayen,_LV_303_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Ist keiner hie, LV 298",
+      "imslp_url": "https://imslp.org/wiki/Ist_keiner_hie,_LV_298_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "La ver l'aurora, LV 310",
+      "imslp_url": "https://imslp.org/wiki/La_ver_l'aurora,_LV_310_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Le tems pass\u00e9, LV 332",
+      "imslp_url": "https://imslp.org/wiki/Le_tems_pass\u00e9,_LV_332_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Magnificat octavi toni, LV 278",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_octavi_toni,_LV_278_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Magnificat octavi toni, LV 286",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_octavi_toni,_LV_286_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Magnificat octavi toni, LV 294",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_octavi_toni,_LV_294_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Magnificat primi toni, LV 271",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_primi_toni,_LV_271_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Magnificat primi toni, LV 279",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_primi_toni,_LV_279_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Magnificat primi toni, LV 287",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_primi_toni,_LV_287_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Magnificat quarti toni, LV 274",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_quarti_toni,_LV_274_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Magnificat quarti toni, LV 282",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_quarti_toni,_LV_282_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Magnificat quarti toni, LV 290",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_quarti_toni,_LV_290_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Magnificat quinti toni, LV 275",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_quinti_toni,_LV_275_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Magnificat quinti toni, LV 283",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_quinti_toni,_LV_283_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Magnificat quinti toni, LV 291",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_quinti_toni,_LV_291_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Magnificat secundi toni, LV 272",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_secundi_toni,_LV_272_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Magnificat secundi toni, LV 280",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_secundi_toni,_LV_280_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Magnificat secundi toni, LV 288",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_secundi_toni,_LV_288_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Magnificat septimi toni, LV 277",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_septimi_toni,_LV_277_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Magnificat septimi toni, LV 285",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_septimi_toni,_LV_285_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Magnificat septimi toni, LV 293",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_septimi_toni,_LV_293_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Magnificat sexti toni, LV 276",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_sexti_toni,_LV_276_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Magnificat sexti toni, LV 284",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_sexti_toni,_LV_284_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Magnificat sexti toni, LV 292",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_sexti_toni,_LV_292_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Magnificat tertii toni, LV 273",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_tertii_toni,_LV_273_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Magnificat tertii toni, LV 281",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_tertii_toni,_LV_281_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Magnificat tertii toni, LV 289",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_tertii_toni,_LV_289_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Miser, chi speme, LV 313",
+      "imslp_url": "https://imslp.org/wiki/Miser,_chi_speme,_LV_313_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "O belt\u00e0 rara, LV 311",
+      "imslp_url": "https://imslp.org/wiki/O_belt\u00e0_rara,_LV_311_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Qual nemica fortuna, LV 321",
+      "imslp_url": "https://imslp.org/wiki/Qual_nemica_fortuna,_LV_321_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Quel rossignuol, LV 312",
+      "imslp_url": "https://imslp.org/wiki/Quel_rossignuol,_LV_312_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Quem dicunt homines, LV 330",
+      "imslp_url": "https://imslp.org/wiki/Quem_dicunt_homines,_LV_330_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Qui est homo, LV 328",
+      "imslp_url": "https://imslp.org/wiki/Qui_est_homo,_LV_328_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Signor se la tua gratia, LV 317",
+      "imslp_url": "https://imslp.org/wiki/Signor_se_la_tua_gratia,_LV_317_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Super flumina Babylonis, LV 325",
+      "imslp_url": "https://imslp.org/wiki/Super_flumina_Babylonis,_LV_325_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Tritt auff den Rigel von der th\u00fcr, LV 307",
+      "imslp_url": "https://imslp.org/wiki/Tritt_auff_den_Rigel_von_der_th\u00fcr,_LV_307_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Tutto'l di piango, LV 320",
+      "imslp_url": "https://imslp.org/wiki/Tutto'l_di_piango,_LV_320_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Ubi est Abel, LV 329",
+      "imslp_url": "https://imslp.org/wiki/Ubi_est_Abel,_LV_329_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Vatter unser im Himelreich, LV 295",
+      "imslp_url": "https://imslp.org/wiki/Vatter_unser_im_Himelreich,_LV_295_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Voi ch'ascoltate, LV 318",
+      "imslp_url": "https://imslp.org/wiki/Voi_ch'ascoltate,_LV_318_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Vor zeiten was ich lieb und werd, LV 301",
+      "imslp_url": "https://imslp.org/wiki/Vor_zeiten_was_ich_lieb_und_werd,_LV_301_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Wie lang o Gott, LV 304",
+      "imslp_url": "https://imslp.org/wiki/Wie_lang_o_Gott,_LV_304_(Lassus,_Orlande_de)",
+      "year": 1567
+    },
+    {
+      "title": "Al dolce suon', LV 370",
+      "imslp_url": "https://imslp.org/wiki/Al_dolce_suon',_LV_370_(Lassus,_Orlande_de)",
+      "year": 1568
+    },
+    {
+      "title": "Audi benigne conditor, LV 350",
+      "imslp_url": "https://imslp.org/wiki/Audi_benigne_conditor,_LV_350_(Lassus,_Orlande_de)",
+      "year": 1568
+    },
+    {
+      "title": "Ave color vini, LV 347",
+      "imslp_url": "https://imslp.org/wiki/Ave_color_vini,_LV_347_(Lassus,_Orlande_de)",
+      "year": 1568
+    },
+    {
+      "title": "Ben convenne, LV 373",
+      "imslp_url": "https://imslp.org/wiki/Ben_convenne,_LV_373_(Lassus,_Orlande_de)",
+      "year": 1568
+    },
+    {
+      "title": "Cernere virtutes, LV 345",
+      "imslp_url": "https://imslp.org/wiki/Cernere_virtutes,_LV_345_(Lassus,_Orlande_de)",
+      "year": 1568
+    },
+    {
+      "title": "Ecce Maria genuit, LV 348",
+      "imslp_url": "https://imslp.org/wiki/Ecce_Maria_genuit,_LV_348_(Lassus,_Orlande_de)",
+      "year": 1568
+    },
+    {
+      "title": "Edite Caesareo boiorum, LV 344",
+      "imslp_url": "https://imslp.org/wiki/Edite_Caesareo_boiorum,_LV_344_(Lassus,_Orlande_de)",
+      "year": 1568
+    },
+    {
+      "title": "In monte oliveti, LV 334",
+      "imslp_url": "https://imslp.org/wiki/In_monte_oliveti,_LV_334_(Lassus,_Orlande_de)",
+      "year": 1568
+    },
+    {
+      "title": "Laudate pueri Dominum, LV 342",
+      "imslp_url": "https://imslp.org/wiki/Laudate_pueri_Dominum,_LV_342_(Lassus,_Orlande_de)",
+      "year": 1568
+    },
+    {
+      "title": "Locutus sum in lingua mea, LV 338",
+      "imslp_url": "https://imslp.org/wiki/Locutus_sum_in_lingua_mea,_LV_338_(Lassus,_Orlande_de)",
+      "year": 1568
+    },
+    {
+      "title": "Missa ad imitationem moduli Doulce memoire, LV 619",
+      "imslp_url": "https://imslp.org/wiki/Missa_ad_imitationem_moduli_Doulce_memoire,_LV_619_(Lassus,_Orlande_de)",
+      "year": 1568
+    },
+    {
+      "title": "Missa super Ecce Maria, LV Anh.86",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Ecce_Maria,_LV_Anh.86_(Lassus,_Orlande_de)",
+      "year": 1568
+    },
+    {
+      "title": "Missa super Il me suffit, LV 649",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Il_me_suffit,_LV_649_(Lassus,_Orlande_de)",
+      "year": 1568
+    },
+    {
+      "title": "Nunc gaudere licet, LV 339",
+      "imslp_url": "https://imslp.org/wiki/Nunc_gaudere_licet,_LV_339_(Lassus,_Orlande_de)",
+      "year": 1568
+    },
+    {
+      "title": "O crux splendidior, LV 336",
+      "imslp_url": "https://imslp.org/wiki/O_crux_splendidior,_LV_336_(Lassus,_Orlande_de)",
+      "year": 1568
+    },
+    {
+      "title": "O quam suavis est Domine, LV 335",
+      "imslp_url": "https://imslp.org/wiki/O_quam_suavis_est_Domine,_LV_335_(Lassus,_Orlande_de)",
+      "year": 1568
+    },
+    {
+      "title": "Pensier dicea che'l cor, LV 372",
+      "imslp_url": "https://imslp.org/wiki/Pensier_dicea_che'l_cor,_LV_372_(Lassus,_Orlande_de)",
+      "year": 1568
+    },
+    {
+      "title": "Salve festa dies, LV 346",
+      "imslp_url": "https://imslp.org/wiki/Salve_festa_dies,_LV_346_(Lassus,_Orlande_de)",
+      "year": 1568
+    },
+    {
+      "title": "Spent' \u00e8 d'amor, LV 371",
+      "imslp_url": "https://imslp.org/wiki/Spent'_\u00e8_d'amor,_LV_371_(Lassus,_Orlande_de)",
+      "year": 1568
+    },
+    {
+      "title": "Te Deum laudamus, LV 340",
+      "imslp_url": "https://imslp.org/wiki/Te_Deum_laudamus,_LV_340_(Lassus,_Orlande_de)",
+      "year": 1568
+    },
+    {
+      "title": "Veni creator Spiritus, LV 337",
+      "imslp_url": "https://imslp.org/wiki/Veni_creator_Spiritus,_LV_337_(Lassus,_Orlande_de)",
+      "year": 1568
+    },
+    {
+      "title": "Beatus ille qui procul, LV 354",
+      "imslp_url": "https://imslp.org/wiki/Beatus_ille_qui_procul,_LV_354_(Lassus,_Orlande_de)",
+      "year": 1569
+    },
+    {
+      "title": "Chanter je veux la gente damoiselle, LV 374",
+      "imslp_url": "https://imslp.org/wiki/Chanter_je_veux_la_gente_damoiselle,_LV_374_(Lassus,_Orlande_de)",
+      "year": 1569
+    },
+    {
+      "title": "Che fai alma, LV 369",
+      "imslp_url": "https://imslp.org/wiki/Che_fai_alma,_LV_369_(Lassus,_Orlande_de)",
+      "year": 1569
+    },
+    {
+      "title": "Credidi propter quod, LV 357",
+      "imslp_url": "https://imslp.org/wiki/Credidi_propter_quod,_LV_357_(Lassus,_Orlande_de)",
+      "year": 1569
+    },
+    {
+      "title": "Da pater antiquae, LV 353",
+      "imslp_url": "https://imslp.org/wiki/Da_pater_antiquae,_LV_353_(Lassus,_Orlande_de)",
+      "year": 1569
+    },
+    {
+      "title": "Hispanum ad coenam, LV 360",
+      "imslp_url": "https://imslp.org/wiki/Hispanum_ad_coenam,_LV_360_(Lassus,_Orlande_de)",
+      "year": 1569
+    },
+    {
+      "title": "Laetentur caeli, LV 367",
+      "imslp_url": "https://imslp.org/wiki/Laetentur_caeli,_LV_367_(Lassus,_Orlande_de)",
+      "year": 1569
+    },
+    {
+      "title": "Missa super Quand'io penso al martire, LV 675",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Quand'io_penso_al_martire,_LV_675_(Lassus,_Orlande_de)",
+      "year": 1569
+    },
+    {
+      "title": "Quem vidistis pastores, LV 359",
+      "imslp_url": "https://imslp.org/wiki/Quem_vidistis_pastores,_LV_359_(Lassus,_Orlande_de)",
+      "year": 1569
+    },
+    {
+      "title": "Qui novus aethereo, LV 352",
+      "imslp_url": "https://imslp.org/wiki/Qui_novus_aethereo,_LV_352_(Lassus,_Orlande_de)",
+      "year": 1569
+    },
+    {
+      "title": "Rebus in adversis, LV 358",
+      "imslp_url": "https://imslp.org/wiki/Rebus_in_adversis,_LV_358_(Lassus,_Orlande_de)",
+      "year": 1569
+    },
+    {
+      "title": "Res neque ab infernis, LV 355",
+      "imslp_url": "https://imslp.org/wiki/Res_neque_ab_infernis,_LV_355_(Lassus,_Orlande_de)",
+      "year": 1569
+    },
+    {
+      "title": "Resonet in laudibus, LV 363",
+      "imslp_url": "https://imslp.org/wiki/Resonet_in_laudibus,_LV_363_(Lassus,_Orlande_de)",
+      "year": 1569
+    },
+    {
+      "title": "Rumpitur invidia, LV 356",
+      "imslp_url": "https://imslp.org/wiki/Rumpitur_invidia,_LV_356_(Lassus,_Orlande_de)",
+      "year": 1569
+    },
+    {
+      "title": "Sidus ex claro, LV 362",
+      "imslp_url": "https://imslp.org/wiki/Sidus_ex_claro,_LV_362_(Lassus,_Orlande_de)",
+      "year": 1569
+    },
+    {
+      "title": "Vidi impium, LV 361",
+      "imslp_url": "https://imslp.org/wiki/Vidi_impium,_LV_361_(Lassus,_Orlande_de)",
+      "year": 1569
+    },
+    {
+      "title": "A che tenderm'amor, LV 391",
+      "imslp_url": "https://imslp.org/wiki/A_che_tenderm'amor,_LV_391_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Clamaverunt ad Dominum, LV 402",
+      "imslp_url": "https://imslp.org/wiki/Clamaverunt_ad_Dominum,_LV_402_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Cum invocarem, LV 403",
+      "imslp_url": "https://imslp.org/wiki/Cum_invocarem,_LV_403_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "De vous servir, LV 413",
+      "imslp_url": "https://imslp.org/wiki/De_vous_servir,_LV_413_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Deh sol che sei, LV 392",
+      "imslp_url": "https://imslp.org/wiki/Deh_sol_che_sei,_LV_392_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Del auro crin, LV 397",
+      "imslp_url": "https://imslp.org/wiki/Del_auro_crin,_LV_397_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Dic mihi quem portas, LV 390",
+      "imslp_url": "https://imslp.org/wiki/Dic_mihi_quem_portas,_LV_390_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Dulces exuviae, LV 385",
+      "imslp_url": "https://imslp.org/wiki/Dulces_exuviae,_LV_385_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Ego sum qui sum, LV 400",
+      "imslp_url": "https://imslp.org/wiki/Ego_sum_qui_sum,_LV_400_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Iubilemus singuli, LV 401",
+      "imslp_url": "https://imslp.org/wiki/Iubilemus_singuli,_LV_401_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "La morre est jeu pire, LV 160",
+      "imslp_url": "https://imslp.org/wiki/La_morre_est_jeu_pire,_LV_160_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Missa super Benedicam Dominum, LV Anh.79",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Benedicam_Dominum,_LV_Anh.79_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Missa super Congratulamini mihi, LV 410",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Congratulamini_mihi,_LV_410_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Missa super Entre vous filles, LV 650",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Entre_vous_filles,_LV_650_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Missa super Fr\u00e8re Thibault, LV 417",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Fr\u00e8re_Thibault,_LV_417_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Missa super Le berger et la berg\u00e8re, LV 418",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Le_berger_et_la_berg\u00e8re,_LV_418_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Missa super On me l'a dict, LV Anh.94",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_On_me_l'a_dict,_LV_Anh.94_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Missa super Se salamandre, LV Anh.100",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Se_salamandre,_LV_Anh.100_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Missa super Veni in hortum meum, LV 651",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Veni_in_hortum_meum,_LV_651_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Noblesse gist au coeur, LV 381",
+      "imslp_url": "https://imslp.org/wiki/Noblesse_gist_au_coeur,_LV_381_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "O vin en vigne, LV 379",
+      "imslp_url": "https://imslp.org/wiki/O_vin_en_vigne,_LV_379_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Pacis amans, LV 387",
+      "imslp_url": "https://imslp.org/wiki/Pacis_amans,_LV_387_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Petite folle, LV 163",
+      "imslp_url": "https://imslp.org/wiki/Petite_folle,_LV_163_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Praesidium Sara dulce meum, LV 412",
+      "imslp_url": "https://imslp.org/wiki/Praesidium_Sara_dulce_meum,_LV_412_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Pronuba Juno, LV 411",
+      "imslp_url": "https://imslp.org/wiki/Pronuba_Juno,_LV_411_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Quand me souvient, LV 382",
+      "imslp_url": "https://imslp.org/wiki/Quand_me_souvient,_LV_382_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Quando fia mai quel giorno, LV 394",
+      "imslp_url": "https://imslp.org/wiki/Quando_fia_mai_quel_giorno,_LV_394_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Que gaignez vous, LV 383",
+      "imslp_url": "https://imslp.org/wiki/Que_gaignez_vous,_LV_383_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Quid trepidas, LV 399",
+      "imslp_url": "https://imslp.org/wiki/Quid_trepidas,_LV_399_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Se ben non veggion gl'occhi, LV 395",
+      "imslp_url": "https://imslp.org/wiki/Se_ben_non_veggion_gl'occhi,_LV_395_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Si com'i fiori da l'ardente sole, LV 407",
+      "imslp_url": "https://imslp.org/wiki/Si_com'i_fiori_da_l'ardente_sole,_LV_407_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Si par souhait, LV 377",
+      "imslp_url": "https://imslp.org/wiki/Si_par_souhait,_LV_377_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Un advocat, LV 375",
+      "imslp_url": "https://imslp.org/wiki/Un_advocat,_LV_375_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Un mesnagier viellard, LV 386",
+      "imslp_url": "https://imslp.org/wiki/Un_mesnagier_viellard,_LV_386_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Veni Domine et noli tardare, LV 404",
+      "imslp_url": "https://imslp.org/wiki/Veni_Domine_et_noli_tardare,_LV_404_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Vieni, dolc' Hymineo, LV 396",
+      "imslp_url": "https://imslp.org/wiki/Vieni,_dolc'_Hymineo,_LV_396_(Lassus,_Orlande_de)",
+      "year": 1570
+    },
+    {
+      "title": "Amour, amour, donne moy paix, LV 453",
+      "imslp_url": "https://imslp.org/wiki/Amour,_amour,_donne_moy_paix,_LV_453_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "Angelus Domini locutus est, LV 426",
+      "imslp_url": "https://imslp.org/wiki/Angelus_Domini_locutus_est,_LV_426_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "Bon jour et puis, LV 448",
+      "imslp_url": "https://imslp.org/wiki/Bon_jour_et_puis,_LV_448_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "Comme un qui prend une couppe, LV 438",
+      "imslp_url": "https://imslp.org/wiki/Comme_un_qui_prend_une_couppe,_LV_438_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "D'amours me va tout au rebours, LV 449",
+      "imslp_url": "https://imslp.org/wiki/D'amours_me_va_tout_au_rebours,_LV_449_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "De plusiers choses, LV 452",
+      "imslp_url": "https://imslp.org/wiki/De_plusiers_choses,_LV_452_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "Descendit sicut pluvia, LV 434",
+      "imslp_url": "https://imslp.org/wiki/Descendit_sicut_pluvia,_LV_434_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "Deus iudex iustus, LV 430",
+      "imslp_url": "https://imslp.org/wiki/Deus_iudex_iustus,_LV_430_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "Dominator Domine, LV 435",
+      "imslp_url": "https://imslp.org/wiki/Dominator_Domine,_LV_435_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "Exsultet caelum, LV 431",
+      "imslp_url": "https://imslp.org/wiki/Exsultet_caelum,_LV_431_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "Helas mon Dieu, LV 446",
+      "imslp_url": "https://imslp.org/wiki/Helas_mon_Dieu,_LV_446_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "Hola Caron, LV 454",
+      "imslp_url": "https://imslp.org/wiki/Hola_Caron,_LV_454_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "Inter natos mulierum, LV 436",
+      "imslp_url": "https://imslp.org/wiki/Inter_natos_mulierum,_LV_436_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "J'espere et crain, LV 440",
+      "imslp_url": "https://imslp.org/wiki/J'espere_et_crain,_LV_440_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "Je vous donne en conscience, LV 451",
+      "imslp_url": "https://imslp.org/wiki/Je_vous_donne_en_conscience,_LV_451_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "Noli regibus, LV 424",
+      "imslp_url": "https://imslp.org/wiki/Noli_regibus,_LV_424_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "Nuntium vobis fero, LV 437",
+      "imslp_url": "https://imslp.org/wiki/Nuntium_vobis_fero,_LV_437_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "O doux parler, LV 455",
+      "imslp_url": "https://imslp.org/wiki/O_doux_parler,_LV_455_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "O faible esprit, LV 444",
+      "imslp_url": "https://imslp.org/wiki/O_faible_esprit,_LV_444_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "Ores que je suis dispos, LV 442",
+      "imslp_url": "https://imslp.org/wiki/Ores_que_je_suis_dispos,_LV_442_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "Paisible demaine, LV 447",
+      "imslp_url": "https://imslp.org/wiki/Paisible_demaine,_LV_447_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "Parens sans amis, LV 445",
+      "imslp_url": "https://imslp.org/wiki/Parens_sans_amis,_LV_445_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "Pater Abraham, LV 422",
+      "imslp_url": "https://imslp.org/wiki/Pater_Abraham,_LV_422_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "Pour courir en poste, LV 450",
+      "imslp_url": "https://imslp.org/wiki/Pour_courir_en_poste,_LV_450_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "Quid prodest homini, LV 433",
+      "imslp_url": "https://imslp.org/wiki/Quid_prodest_homini,_LV_433_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "Quid tamen, LV 428",
+      "imslp_url": "https://imslp.org/wiki/Quid_tamen,_LV_428_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "Si bona suscepimus, LV 425",
+      "imslp_url": "https://imslp.org/wiki/Si_bona_suscepimus,_LV_425_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "Si quid vota valent, LV 432",
+      "imslp_url": "https://imslp.org/wiki/Si_quid_vota_valent,_LV_432_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "Soufflons d'autant amis, LV 443",
+      "imslp_url": "https://imslp.org/wiki/Soufflons_d'autant_amis,_LV_443_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "Stabunt iusti, LV 427",
+      "imslp_url": "https://imslp.org/wiki/Stabunt_iusti,_LV_427_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "Veni dilecte mi, LV 429",
+      "imslp_url": "https://imslp.org/wiki/Veni_dilecte_mi,_LV_429_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "Venite ad me omnes, LV 423",
+      "imslp_url": "https://imslp.org/wiki/Venite_ad_me_omnes,_LV_423_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "Verba mea, LV 421",
+      "imslp_url": "https://imslp.org/wiki/Verba_mea,_LV_421_(Lassus,_Orlande_de)",
+      "year": 1571
+    },
+    {
+      "title": "Beati pauperes spiritu, LV 471",
+      "imslp_url": "https://imslp.org/wiki/Beati_pauperes_spiritu,_LV_471_(Lassus,_Orlande_de)",
+      "year": 1572
+    },
+    {
+      "title": "Der Meye bringt uns, LV 462",
+      "imslp_url": "https://imslp.org/wiki/Der_Meye_bringt_uns,_LV_462_(Lassus,_Orlande_de)",
+      "year": 1572
+    },
+    {
+      "title": "Der Tag der ist so freudenreich, LV 460",
+      "imslp_url": "https://imslp.org/wiki/Der_Tag_der_ist_so_freudenreich,_LV_460_(Lassus,_Orlande_de)",
+      "year": 1572
+    },
+    {
+      "title": "Ein meidlein zu dem brunnen gieng, LV 466",
+      "imslp_url": "https://imslp.org/wiki/Ein_meidlein_zu_dem_brunnen_gieng,_LV_466_(Lassus,_Orlande_de)",
+      "year": 1572
+    },
+    {
+      "title": "Einmal gieng ich spatzieren au\u00df, LV 470",
+      "imslp_url": "https://imslp.org/wiki/Einmal_gieng_ich_spatzieren_au\u00df,_LV_470_(Lassus,_Orlande_de)",
+      "year": 1572
+    },
+    {
+      "title": "Erz\u00fcrn dich nicht, o frommer Christ, LV 458",
+      "imslp_url": "https://imslp.org/wiki/Erz\u00fcrn_dich_nicht,_o_frommer_Christ,_LV_458_(Lassus,_Orlande_de)",
+      "year": 1572
+    },
+    {
+      "title": "Es jagt ein Jeger vor dem holtz, LV 467",
+      "imslp_url": "https://imslp.org/wiki/Es_jagt_ein_Jeger_vor_dem_holtz,_LV_467_(Lassus,_Orlande_de)",
+      "year": 1572
+    },
+    {
+      "title": "Es sind doch selig alle die, LV 463",
+      "imslp_url": "https://imslp.org/wiki/Es_sind_doch_selig_alle_die,_LV_463_(Lassus,_Orlande_de)",
+      "year": 1572
+    },
+    {
+      "title": "Ich hab dich lieb, LV 469",
+      "imslp_url": "https://imslp.org/wiki/Ich_hab_dich_lieb,_LV_469_(Lassus,_Orlande_de)",
+      "year": 1572
+    },
+    {
+      "title": "Ich wei\u00df ein h\u00fcbsches fr\u00e4uelein, LV 468",
+      "imslp_url": "https://imslp.org/wiki/Ich_wei\u00df_ein_h\u00fcbsches_fr\u00e4uelein,_LV_468_(Lassus,_Orlande_de)",
+      "year": 1572
+    },
+    {
+      "title": "Kompt her zu mir, LV 461",
+      "imslp_url": "https://imslp.org/wiki/Kompt_her_zu_mir,_LV_461_(Lassus,_Orlande_de)",
+      "year": 1572
+    },
+    {
+      "title": "Man sicht nun wol, LV 465",
+      "imslp_url": "https://imslp.org/wiki/Man_sicht_nun_wol,_LV_465_(Lassus,_Orlande_de)",
+      "year": 1572
+    },
+    {
+      "title": "Mein mann, der ist in krieg, LV 456",
+      "imslp_url": "https://imslp.org/wiki/Mein_mann,_der_ist_in_krieg,_LV_456_(Lassus,_Orlande_de)",
+      "year": 1572
+    },
+    {
+      "title": "Missa ad imitationem moduli O passi sparsi, LV 621",
+      "imslp_url": "https://imslp.org/wiki/Missa_ad_imitationem_moduli_O_passi_sparsi,_LV_621_(Lassus,_Orlande_de)",
+      "year": 1572
+    },
+    {
+      "title": "Missa super Je prens en gres, LV Anh.89",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Je_prens_en_gres,_LV_Anh.89_(Lassus,_Orlande_de)",
+      "year": 1572
+    },
+    {
+      "title": "Missa super Si rore aenio, LV Anh.103",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Si_rore_aenio,_LV_Anh.103_(Lassus,_Orlande_de)",
+      "year": 1572
+    },
+    {
+      "title": "Nur n\u00e4rrisch seyn, LV 457",
+      "imslp_url": "https://imslp.org/wiki/Nur_n\u00e4rrisch_seyn,_LV_457_(Lassus,_Orlande_de)",
+      "year": 1572
+    },
+    {
+      "title": "Was kan uns kommen an f\u00fcr not, LV 459",
+      "imslp_url": "https://imslp.org/wiki/Was_kan_uns_kommen_an_f\u00fcr_not,_LV_459_(Lassus,_Orlande_de)",
+      "year": 1572
+    },
+    {
+      "title": "Willig und treu, LV 464",
+      "imslp_url": "https://imslp.org/wiki/Willig_und_treu,_LV_464_(Lassus,_Orlande_de)",
+      "year": 1572
+    },
+    {
+      "title": "Agimus tibi gratias, LV 520",
+      "imslp_url": "https://imslp.org/wiki/Agimus_tibi_gratias,_LV_520_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Annelein, du singst fein, LV 479",
+      "imslp_url": "https://imslp.org/wiki/Annelein,_du_singst_fein,_LV_479_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Ante me non est formatus, LV 515",
+      "imslp_url": "https://imslp.org/wiki/Ante_me_non_est_formatus,_LV_515_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Audite nova, LV 483",
+      "imslp_url": "https://imslp.org/wiki/Audite_nova,_LV_483_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Auss gutem grundt, LV 480",
+      "imslp_url": "https://imslp.org/wiki/Auss_gutem_grundt,_LV_480_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Bianca neve \u00e8 il bel collo, LV 493",
+      "imslp_url": "https://imslp.org/wiki/Bianca_neve_\u00e8_il_bel_collo,_LV_493_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Confitemini Domino, LV 516",
+      "imslp_url": "https://imslp.org/wiki/Confitemini_Domino,_LV_516_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Di moi mon cueur, LV 498",
+      "imslp_url": "https://imslp.org/wiki/Di_moi_mon_cueur,_LV_498_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Di persona era tanto ben formata, LV 490",
+      "imslp_url": "https://imslp.org/wiki/Di_persona_era_tanto_ben_formata,_LV_490_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Domine clamavi ad te, LV 510",
+      "imslp_url": "https://imslp.org/wiki/Domine_clamavi_ad_te,_LV_510_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Domine secundum actum meum, LV 474",
+      "imslp_url": "https://imslp.org/wiki/Domine_secundum_actum_meum,_LV_474_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Ein Esel und das N\u00fc\u00dfbaumholz, LV 478",
+      "imslp_url": "https://imslp.org/wiki/Ein_Esel_und_das_N\u00fc\u00dfbaumholz,_LV_478_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Eripe me de inimicis meis, LV 476",
+      "imslp_url": "https://imslp.org/wiki/Eripe_me_de_inimicis_meis,_LV_476_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Es thut sich als verkeren, LV 481",
+      "imslp_url": "https://imslp.org/wiki/Es_thut_sich_als_verkeren,_LV_481_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Exaudi Domine preces, LV 513",
+      "imslp_url": "https://imslp.org/wiki/Exaudi_Domine_preces,_LV_513_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Exsurgat Deus, LV 507",
+      "imslp_url": "https://imslp.org/wiki/Exsurgat_Deus,_LV_507_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Fallax gratia, LV 475",
+      "imslp_url": "https://imslp.org/wiki/Fallax_gratia,_LV_475_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Honorabile est inter omnes, LV 477",
+      "imslp_url": "https://imslp.org/wiki/Honorabile_est_inter_omnes,_LV_477_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Iam non dicam vos, LV 521",
+      "imslp_url": "https://imslp.org/wiki/Iam_non_dicam_vos,_LV_521_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "In Deo salutare meum, LV 518",
+      "imslp_url": "https://imslp.org/wiki/In_Deo_salutare_meum,_LV_518_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Lauda anima mea Dominum, LV 505",
+      "imslp_url": "https://imslp.org/wiki/Lauda_anima_mea_Dominum,_LV_505_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Laudate Dominum omnes gentes, LV 1122",
+      "imslp_url": "https://imslp.org/wiki/Laudate_Dominum_omnes_gentes,_LV_1122_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Lectio prima, LV 535",
+      "imslp_url": "https://imslp.org/wiki/Lectio_prima,_LV_535_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Lectio secunda, LV 536",
+      "imslp_url": "https://imslp.org/wiki/Lectio_secunda,_LV_536_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Lectio tertia, LV 537",
+      "imslp_url": "https://imslp.org/wiki/Lectio_tertia,_LV_537_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Martini festum celebremus, LV 512",
+      "imslp_url": "https://imslp.org/wiki/Martini_festum_celebremus,_LV_512_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Media vita, LV 514",
+      "imslp_url": "https://imslp.org/wiki/Media_vita,_LV_514_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Misericordias Domini, LV 508",
+      "imslp_url": "https://imslp.org/wiki/Misericordias_Domini,_LV_508_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Mostran le braccia sue misura giusta, LV 494",
+      "imslp_url": "https://imslp.org/wiki/Mostran_le_braccia_sue_misura_giusta,_LV_494_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Nun gr\u00fc\u00df dich Gott, LV 497",
+      "imslp_url": "https://imslp.org/wiki/Nun_gr\u00fc\u00df_dich_Gott,_LV_497_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "O gloriosa Domina, LV 517",
+      "imslp_url": "https://imslp.org/wiki/O_gloriosa_Domina,_LV_517_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Oculi omnium, LV 509",
+      "imslp_url": "https://imslp.org/wiki/Oculi_omnium,_LV_509_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Pater noster, LV 500",
+      "imslp_url": "https://imslp.org/wiki/Pater_noster,_LV_500_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Pauper sum ego, LV 506",
+      "imslp_url": "https://imslp.org/wiki/Pauper_sum_ego,_LV_506_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Quand un cordier cordant, LV 487",
+      "imslp_url": "https://imslp.org/wiki/Quand_un_cordier_cordant,_LV_487_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Quare tristis es anima mea, LV 472",
+      "imslp_url": "https://imslp.org/wiki/Quare_tristis_es_anima_mea,_LV_472_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Qui bien se mire, LV 488",
+      "imslp_url": "https://imslp.org/wiki/Qui_bien_se_mire,_LV_488_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Quid estis pusillanimes, LV 473",
+      "imslp_url": "https://imslp.org/wiki/Quid_estis_pusillanimes,_LV_473_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Quis mihi det, LV 511",
+      "imslp_url": "https://imslp.org/wiki/Quis_mihi_det,_LV_511_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "S'una fede amorosa, LV 499",
+      "imslp_url": "https://imslp.org/wiki/S'una_fede_amorosa,_LV_499_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Salve Regina, LV 501",
+      "imslp_url": "https://imslp.org/wiki/Salve_Regina,_LV_501_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Scais-tu dir' l'Ave, LV 489",
+      "imslp_url": "https://imslp.org/wiki/Scais-tu_dir'_l'Ave,_LV_489_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Si du malheur, LV 485",
+      "imslp_url": "https://imslp.org/wiki/Si_du_malheur,_LV_485_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Si ie suis brun, LV 486",
+      "imslp_url": "https://imslp.org/wiki/Si_ie_suis_brun,_LV_486_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Sotto duo negri, LV 491",
+      "imslp_url": "https://imslp.org/wiki/Sotto_duo_negri,_LV_491_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Sotto quel sta quasi fra due vallette, LV 492",
+      "imslp_url": "https://imslp.org/wiki/Sotto_quel_sta_quasi_fra_due_vallette,_LV_492_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Spesso in poveri alberghi e in picciol tetti, LV 495",
+      "imslp_url": "https://imslp.org/wiki/Spesso_in_poveri_alberghi_e_in_picciol_tetti,_LV_495_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Un jeune moine est sorti du couvent, LV 484",
+      "imslp_url": "https://imslp.org/wiki/Un_jeune_moine_est_sorti_du_couvent,_LV_484_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Unde revertimini, LV 496",
+      "imslp_url": "https://imslp.org/wiki/Unde_revertimini,_LV_496_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Wem soll man jetzund trauen, LV 482",
+      "imslp_url": "https://imslp.org/wiki/Wem_soll_man_jetzund_trauen,_LV_482_(Lassus,_Orlande_de)",
+      "year": 1573
+    },
+    {
+      "title": "Falsobordone octavi toni, LV Anh.25",
+      "imslp_url": "https://imslp.org/wiki/Falsobordone_octavi_toni,_LV_Anh.25_(Lassus,_Orlande_de)",
+      "year": 1574
+    },
+    {
+      "title": "Falsobordone octavi toni, LV Anh.26",
+      "imslp_url": "https://imslp.org/wiki/Falsobordone_octavi_toni,_LV_Anh.26_(Lassus,_Orlande_de)",
+      "year": 1574
+    },
+    {
+      "title": "Falsobordone primi toni, LV Anh.28",
+      "imslp_url": "https://imslp.org/wiki/Falsobordone_primi_toni,_LV_Anh.28_(Lassus,_Orlande_de)",
+      "year": 1574
+    },
+    {
+      "title": "Falsobordone primi toni, LV Anh.30",
+      "imslp_url": "https://imslp.org/wiki/Falsobordone_primi_toni,_LV_Anh.30_(Lassus,_Orlande_de)",
+      "year": 1574
+    },
+    {
+      "title": "Falsobordone primi toni, LV Anh.31",
+      "imslp_url": "https://imslp.org/wiki/Falsobordone_primi_toni,_LV_Anh.31_(Lassus,_Orlande_de)",
+      "year": 1574
+    },
+    {
+      "title": "Falsobordone quarti toni, LV Anh.32",
+      "imslp_url": "https://imslp.org/wiki/Falsobordone_quarti_toni,_LV_Anh.32_(Lassus,_Orlande_de)",
+      "year": 1574
+    },
+    {
+      "title": "Falsobordone quarti toni, LV Anh.33",
+      "imslp_url": "https://imslp.org/wiki/Falsobordone_quarti_toni,_LV_Anh.33_(Lassus,_Orlande_de)",
+      "year": 1574
+    },
+    {
+      "title": "Falsobordone quinti toni, LV Anh.34",
+      "imslp_url": "https://imslp.org/wiki/Falsobordone_quinti_toni,_LV_Anh.34_(Lassus,_Orlande_de)",
+      "year": 1574
+    },
+    {
+      "title": "Falsobordone secundi toni, LV Anh.35",
+      "imslp_url": "https://imslp.org/wiki/Falsobordone_secundi_toni,_LV_Anh.35_(Lassus,_Orlande_de)",
+      "year": 1574
+    },
+    {
+      "title": "Falsobordone secundi toni, LV Anh.36",
+      "imslp_url": "https://imslp.org/wiki/Falsobordone_secundi_toni,_LV_Anh.36_(Lassus,_Orlande_de)",
+      "year": 1574
+    },
+    {
+      "title": "Falsobordone septimi toni, LV Anh.37",
+      "imslp_url": "https://imslp.org/wiki/Falsobordone_septimi_toni,_LV_Anh.37_(Lassus,_Orlande_de)",
+      "year": 1574
+    },
+    {
+      "title": "Falsobordone septimi toni, LV Anh.38",
+      "imslp_url": "https://imslp.org/wiki/Falsobordone_septimi_toni,_LV_Anh.38_(Lassus,_Orlande_de)",
+      "year": 1574
+    },
+    {
+      "title": "Falsobordone septimi toni, LV Anh.39",
+      "imslp_url": "https://imslp.org/wiki/Falsobordone_septimi_toni,_LV_Anh.39_(Lassus,_Orlande_de)",
+      "year": 1574
+    },
+    {
+      "title": "Falsobordone septimi toni, LV Anh.40",
+      "imslp_url": "https://imslp.org/wiki/Falsobordone_septimi_toni,_LV_Anh.40_(Lassus,_Orlande_de)",
+      "year": 1574
+    },
+    {
+      "title": "Falsobordone sexti toni, LV Anh.41",
+      "imslp_url": "https://imslp.org/wiki/Falsobordone_sexti_toni,_LV_Anh.41_(Lassus,_Orlande_de)",
+      "year": 1574
+    },
+    {
+      "title": "Falsobordone tertii toni, LV Anh.43",
+      "imslp_url": "https://imslp.org/wiki/Falsobordone_tertii_toni,_LV_Anh.43_(Lassus,_Orlande_de)",
+      "year": 1574
+    },
+    {
+      "title": "Falsobordone tertii toni, LV Anh.44",
+      "imslp_url": "https://imslp.org/wiki/Falsobordone_tertii_toni,_LV_Anh.44_(Lassus,_Orlande_de)",
+      "year": 1574
+    },
+    {
+      "title": "Falsobordone toni in Caesarea Capella consueti, LV Anh.46",
+      "imslp_url": "https://imslp.org/wiki/Falsobordone_toni_in_Caesarea_Capella_consueti,_LV_Anh.46_(Lassus,_Orlande_de)",
+      "year": 1574
+    },
+    {
+      "title": "Falsobordone toni peregrini, LV Anh.47",
+      "imslp_url": "https://imslp.org/wiki/Falsobordone_toni_peregrini,_LV_Anh.47_(Lassus,_Orlande_de)",
+      "year": 1574
+    },
+    {
+      "title": "Missa super Credidi propter, LV 526",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Credidi_propter,_LV_526_(Lassus,_Orlande_de)",
+      "year": 1574
+    },
+    {
+      "title": "Missa super Ite rime dolenti, LV 523",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Ite_rime_dolenti,_LV_523_(Lassus,_Orlande_de)",
+      "year": 1574
+    },
+    {
+      "title": "Missa super Scarco di doglia, LV 524",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Scarco_di_doglia,_LV_524_(Lassus,_Orlande_de)",
+      "year": 1574
+    },
+    {
+      "title": "Missa super Sidus ex claro, LV 525",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Sidus_ex_claro,_LV_525_(Lassus,_Orlande_de)",
+      "year": 1574
+    },
+    {
+      "title": "Officium Corporis Christi, LV 533",
+      "imslp_url": "https://imslp.org/wiki/Officium_Corporis_Christi,_LV_533_(Lassus,_Orlande_de)",
+      "year": 1574
+    },
+    {
+      "title": "Officium Natalis Christi, LV 530",
+      "imslp_url": "https://imslp.org/wiki/Officium_Natalis_Christi,_LV_530_(Lassus,_Orlande_de)",
+      "year": 1574
+    },
+    {
+      "title": "Officium Paschale, LV 531",
+      "imslp_url": "https://imslp.org/wiki/Officium_Paschale,_LV_531_(Lassus,_Orlande_de)",
+      "year": 1574
+    },
+    {
+      "title": "Officium Pentecostes, LV 532",
+      "imslp_url": "https://imslp.org/wiki/Officium_Pentecostes,_LV_532_(Lassus,_Orlande_de)",
+      "year": 1574
+    },
+    {
+      "title": "Ave Regina caelorum, LV 554",
+      "imslp_url": "https://imslp.org/wiki/Ave_Regina_caelorum,_LV_554_(Lassus,_Orlande_de)",
+      "year": 1575
+    },
+    {
+      "title": "Beati omnes qui timent Dominum, LV 553",
+      "imslp_url": "https://imslp.org/wiki/Beati_omnes_qui_timent_Dominum,_LV_553_(Lassus,_Orlande_de)",
+      "year": 1575
+    },
+    {
+      "title": "Cantate Domino canticum novum, LV 549",
+      "imslp_url": "https://imslp.org/wiki/Cantate_Domino_canticum_novum,_LV_549_(Lassus,_Orlande_de)",
+      "year": 1575
+    },
+    {
+      "title": "Diligam te, Domine, LV 618",
+      "imslp_url": "https://imslp.org/wiki/Diligam_te,_Domine,_LV_618_(Lassus,_Orlande_de)",
+      "year": 1575
+    },
+    {
+      "title": "Domine non est exaltatum, LV 541",
+      "imslp_url": "https://imslp.org/wiki/Domine_non_est_exaltatum,_LV_541_(Lassus,_Orlande_de)",
+      "year": 1575
+    },
+    {
+      "title": "Ego sum pauper dolens, LV 545",
+      "imslp_url": "https://imslp.org/wiki/Ego_sum_pauper_dolens,_LV_545_(Lassus,_Orlande_de)",
+      "year": 1575
+    },
+    {
+      "title": "Exaudi Deus orationem meam, LV 547",
+      "imslp_url": "https://imslp.org/wiki/Exaudi_Deus_orationem_meam,_LV_547_(Lassus,_Orlande_de)",
+      "year": 1575
+    },
+    {
+      "title": "Exaudi me, Domine, LV 546",
+      "imslp_url": "https://imslp.org/wiki/Exaudi_me,_Domine,_LV_546_(Lassus,_Orlande_de)",
+      "year": 1575
+    },
+    {
+      "title": "Haec quae ter triplici, LV 540",
+      "imslp_url": "https://imslp.org/wiki/Haec_quae_ter_triplici,_LV_540_(Lassus,_Orlande_de)",
+      "year": 1575
+    },
+    {
+      "title": "Hor che la nuova e vaga primavera, LV 539",
+      "imslp_url": "https://imslp.org/wiki/Hor_che_la_nuova_e_vaga_primavera,_LV_539_(Lassus,_Orlande_de)",
+      "year": 1575
+    },
+    {
+      "title": "Io ho piu tempo, LV 538",
+      "imslp_url": "https://imslp.org/wiki/Io_ho_piu_tempo,_LV_538_(Lassus,_Orlande_de)",
+      "year": 1575
+    },
+    {
+      "title": "Justus es Domine, LV 617",
+      "imslp_url": "https://imslp.org/wiki/Justus_es_Domine,_LV_617_(Lassus,_Orlande_de)",
+      "year": 1575
+    },
+    {
+      "title": "Litaniae Beatae Mariae Virginis, LV Anh.62",
+      "imslp_url": "https://imslp.org/wiki/Litaniae_Beatae_Mariae_Virginis,_LV_Anh.62_(Lassus,_Orlande_de)",
+      "year": 1575
+    },
+    {
+      "title": "Madonna sa l\u2019amor, LV 585",
+      "imslp_url": "https://imslp.org/wiki/Madonna_sa_l\u2019amor,_LV_585_(Lassus,_Orlande_de)",
+      "year": 1575
+    },
+    {
+      "title": "Mon coeur se recommande a vous, LV 94",
+      "imslp_url": "https://imslp.org/wiki/Mon_coeur_se_recommande_a_vous,_LV_94_(Lassus,_Orlande_de)",
+      "year": 1575
+    },
+    {
+      "title": "O Maria, clausus hortus, LV 552",
+      "imslp_url": "https://imslp.org/wiki/O_Maria,_clausus_hortus,_LV_552_(Lassus,_Orlande_de)",
+      "year": 1575
+    },
+    {
+      "title": "Passio Domini nostri Jesu Christi secundum Mattheum, LV 534",
+      "imslp_url": "https://imslp.org/wiki/Passio_Domini_nostri_Jesu_Christi_secundum_Mattheum,_LV_534_(Lassus,_Orlande_de)",
+      "year": 1575
+    },
+    {
+      "title": "Sancta et immaculata virginitas, LV 548",
+      "imslp_url": "https://imslp.org/wiki/Sancta_et_immaculata_virginitas,_LV_548_(Lassus,_Orlande_de)",
+      "year": 1575
+    },
+    {
+      "title": "Agimus tibi gratias, LV 579",
+      "imslp_url": "https://imslp.org/wiki/Agimus_tibi_gratias,_LV_579_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Agimus tibi gratias, LV 643",
+      "imslp_url": "https://imslp.org/wiki/Agimus_tibi_gratias,_LV_643_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Bestia curvafia pulices, LV 588",
+      "imslp_url": "https://imslp.org/wiki/Bestia_curvafia_pulices,_LV_588_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Chi no'l s\u00e0, LV 590",
+      "imslp_url": "https://imslp.org/wiki/Chi_no'l_s\u00e0,_LV_590_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Come'l candido pie per l'herba fresca, LV 628",
+      "imslp_url": "https://imslp.org/wiki/Come'l_candido_pie_per_l'herba_fresca,_LV_628_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Der Welte pracht, LV 567",
+      "imslp_url": "https://imslp.org/wiki/Der_Welte_pracht,_LV_567_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Deus in adjutorium, LV Anh.17",
+      "imslp_url": "https://imslp.org/wiki/Deus_in_adjutorium,_LV_Anh.17_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Dix ennemis, LV 580",
+      "imslp_url": "https://imslp.org/wiki/Dix_ennemis,_LV_580_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Falsobordone primi toni, LV Anh.29",
+      "imslp_url": "https://imslp.org/wiki/Falsobordone_primi_toni,_LV_Anh.29_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Falsobordone tertii toni, LV Anh.42",
+      "imslp_url": "https://imslp.org/wiki/Falsobordone_tertii_toni,_LV_Anh.42_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Falsobordone tertii toni, LV Anh.45",
+      "imslp_url": "https://imslp.org/wiki/Falsobordone_tertii_toni,_LV_Anh.45_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Fr\u00f6lich und frey, LV 568",
+      "imslp_url": "https://imslp.org/wiki/Fr\u00f6lich_und_frey,_LV_568_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Gott nimbt und geit, LV 564",
+      "imslp_url": "https://imslp.org/wiki/Gott_nimbt_und_geit,_LV_564_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Hort zu ein neus gedicht, LV 569",
+      "imslp_url": "https://imslp.org/wiki/Hort_zu_ein_neus_gedicht,_LV_569_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Ich armer mann, LV 561",
+      "imslp_url": "https://imslp.org/wiki/Ich_armer_mann,_LV_561_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Ich sprich wann ich nit leuge, LV 570",
+      "imslp_url": "https://imslp.org/wiki/Ich_sprich_wann_ich_nit_leuge,_LV_570_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "L'heureux amour, LV 576",
+      "imslp_url": "https://imslp.org/wiki/L'heureux_amour,_LV_576_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "La nuict froide et sombre, LV 578",
+      "imslp_url": "https://imslp.org/wiki/La_nuict_froide_et_sombre,_LV_578_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Las, je n'iray plus, LV 571",
+      "imslp_url": "https://imslp.org/wiki/Las,_je_n'iray_plus,_LV_571_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Magnificat primi toni, LV 555",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_primi_toni,_LV_555_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Magnificat quarti toni, LV 557",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_quarti_toni,_LV_557_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Magnificat secundi toni, LV 1151",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_secundi_toni,_LV_1151_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Magnificat septimi toni, LV 559",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_septimi_toni,_LV_559_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Magnificat sexti toni, LV 558",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_sexti_toni,_LV_558_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Mein frau Hilgart, LV 565",
+      "imslp_url": "https://imslp.org/wiki/Mein_frau_Hilgart,_LV_565_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Missa Paschalis, LV Anh.96",
+      "imslp_url": "https://imslp.org/wiki/Missa_Paschalis,_LV_Anh.96_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Missa super Domine Dominus noster, LV Anh.85",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Domine_Dominus_noster,_LV_Anh.85_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Missa super Qui la dira, LV Anh.97",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Qui_la_dira,_LV_Anh.97_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Mit lust thet ich au\u00dfreiten, LV 563",
+      "imslp_url": "https://imslp.org/wiki/Mit_lust_thet_ich_au\u00dfreiten,_LV_563_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Or sus filles, LV 575",
+      "imslp_url": "https://imslp.org/wiki/Or_sus_filles,_LV_575_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Ove le luci giro un tenebros\u2019 horrore, LV 587",
+      "imslp_url": "https://imslp.org/wiki/Ove_le_luci_giro_un_tenebros\u2019_horrore,_LV_587_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Que dis-tu, LV 589",
+      "imslp_url": "https://imslp.org/wiki/Que_dis-tu,_LV_589_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Qui veult d'amour, LV 583",
+      "imslp_url": "https://imslp.org/wiki/Qui_veult_d'amour,_LV_583_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "S'il y a compagnon, LV 581",
+      "imslp_url": "https://imslp.org/wiki/S'il_y_a_compagnon,_LV_581_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Sauter, danser, faire des tours, LV 577",
+      "imslp_url": "https://imslp.org/wiki/Sauter,_danser,_faire_des_tours,_LV_577_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Si pour moy avez du souci, LV 572",
+      "imslp_url": "https://imslp.org/wiki/Si_pour_moy_avez_du_souci,_LV_572_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "So trincken wir alle, LV 566",
+      "imslp_url": "https://imslp.org/wiki/So_trincken_wir_alle,_LV_566_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Soleasi nel mio cor, LV 584",
+      "imslp_url": "https://imslp.org/wiki/Soleasi_nel_mio_cor,_LV_584_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Susannen frumb, LV 560",
+      "imslp_url": "https://imslp.org/wiki/Susannen_frumb,_LV_560_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Une puce, LV 582",
+      "imslp_url": "https://imslp.org/wiki/Une_puce,_LV_582_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Voi volete ch'io muoia, LV 629",
+      "imslp_url": "https://imslp.org/wiki/Voi_volete_ch'io_muoia,_LV_629_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Welt gelt, LV 562",
+      "imslp_url": "https://imslp.org/wiki/Welt_gelt,_LV_562_(Lassus,_Orlande_de)",
+      "year": 1576
+    },
+    {
+      "title": "Beatus homo qui invenit sapientiam, LV 593",
+      "imslp_url": "https://imslp.org/wiki/Beatus_homo_qui_invenit_sapientiam,_LV_593_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Beatus vir qui in sapientia morabitur, LV 592",
+      "imslp_url": "https://imslp.org/wiki/Beatus_vir_qui_in_sapientia_morabitur,_LV_592_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Bicinium, LV 604",
+      "imslp_url": "https://imslp.org/wiki/Bicinium,_LV_604_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Bicinium, LV 605",
+      "imslp_url": "https://imslp.org/wiki/Bicinium,_LV_605_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Bicinium, LV 606",
+      "imslp_url": "https://imslp.org/wiki/Bicinium,_LV_606_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Bicinium, LV 607",
+      "imslp_url": "https://imslp.org/wiki/Bicinium,_LV_607_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Bicinium, LV 608",
+      "imslp_url": "https://imslp.org/wiki/Bicinium,_LV_608_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Bicinium, LV 609",
+      "imslp_url": "https://imslp.org/wiki/Bicinium,_LV_609_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Bicinium, LV 610",
+      "imslp_url": "https://imslp.org/wiki/Bicinium,_LV_610_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Bicinium, LV 611",
+      "imslp_url": "https://imslp.org/wiki/Bicinium,_LV_611_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Bicinium, LV 612",
+      "imslp_url": "https://imslp.org/wiki/Bicinium,_LV_612_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Bicinium, LV 613",
+      "imslp_url": "https://imslp.org/wiki/Bicinium,_LV_613_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Bicinium, LV 614",
+      "imslp_url": "https://imslp.org/wiki/Bicinium,_LV_614_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Bicinium, LV 615",
+      "imslp_url": "https://imslp.org/wiki/Bicinium,_LV_615_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Cum rides mihi, LV 633",
+      "imslp_url": "https://imslp.org/wiki/Cum_rides_mihi,_LV_633_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Domine Deus meus, LV 616",
+      "imslp_url": "https://imslp.org/wiki/Domine_Deus_meus,_LV_616_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Domine Iesu Christe qui cognoscis, LV 632",
+      "imslp_url": "https://imslp.org/wiki/Domine_Iesu_Christe_qui_cognoscis,_LV_632_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Expectatio justorum, LV 596",
+      "imslp_url": "https://imslp.org/wiki/Expectatio_justorum,_LV_596_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Fulgebunt justi, LV 602",
+      "imslp_url": "https://imslp.org/wiki/Fulgebunt_justi,_LV_602_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Justi tulerunt spolia impiorum, LV 598",
+      "imslp_url": "https://imslp.org/wiki/Justi_tulerunt_spolia_impiorum,_LV_598_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Justus cor suum tradet, LV 595",
+      "imslp_url": "https://imslp.org/wiki/Justus_cor_suum_tradet,_LV_595_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Lauda Sion salvatorem, LV 634",
+      "imslp_url": "https://imslp.org/wiki/Lauda_Sion_salvatorem,_LV_634_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Magnificat sexti toni, LV 1185",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_sexti_toni,_LV_1185_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Missa ad imitationem moduli Surge propera, LV 625",
+      "imslp_url": "https://imslp.org/wiki/Missa_ad_imitationem_moduli_Surge_propera,_LV_625_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Missa ad imitationem moduli Tous les regretz, LV 626",
+      "imslp_url": "https://imslp.org/wiki/Missa_ad_imitationem_moduli_Tous_les_regretz,_LV_626_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Missa ad imitationem moduli Vinum bonum, LV 627",
+      "imslp_url": "https://imslp.org/wiki/Missa_ad_imitationem_moduli_Vinum_bonum,_LV_627_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Missa pro defunctis, LV 624",
+      "imslp_url": "https://imslp.org/wiki/Missa_pro_defunctis,_LV_624_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Ne reminiscaris Domine, LV 630",
+      "imslp_url": "https://imslp.org/wiki/Ne_reminiscaris_Domine,_LV_630_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Ne reminiscaris Domine, LV 639",
+      "imslp_url": "https://imslp.org/wiki/Ne_reminiscaris_Domine,_LV_639_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "O gloriosa Domina, LV 638",
+      "imslp_url": "https://imslp.org/wiki/O_gloriosa_Domina,_LV_638_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Oculus non vidit, LV 594",
+      "imslp_url": "https://imslp.org/wiki/Oculus_non_vidit,_LV_594_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Qui sequitur me non ambulat, LV 597",
+      "imslp_url": "https://imslp.org/wiki/Qui_sequitur_me_non_ambulat,_LV_597_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Qui vult venire post me, LV 600",
+      "imslp_url": "https://imslp.org/wiki/Qui_vult_venire_post_me,_LV_600_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Quicumque vult salvus esse, LV 631",
+      "imslp_url": "https://imslp.org/wiki/Quicumque_vult_salvus_esse,_LV_631_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Sancti mei, LV 599",
+      "imslp_url": "https://imslp.org/wiki/Sancti_mei,_LV_599_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Serve bone et fidelis, LV 601",
+      "imslp_url": "https://imslp.org/wiki/Serve_bone_et_fidelis,_LV_601_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Sicut rosa inter spinas, LV 603",
+      "imslp_url": "https://imslp.org/wiki/Sicut_rosa_inter_spinas,_LV_603_(Lassus,_Orlande_de)",
+      "year": 1577
+    },
+    {
+      "title": "Magnificat secundi toni, LV 1162",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_secundi_toni,_LV_1162_(Lassus,_Orlande_de)",
+      "year": 1578
+    },
+    {
+      "title": "Missa super Dittes maistresse, LV 958",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Dittes_maistresse,_LV_958_(Lassus,_Orlande_de)",
+      "year": 1578
+    },
+    {
+      "title": "Anna, mihi dilecta, LV 646",
+      "imslp_url": "https://imslp.org/wiki/Anna,_mihi_dilecta,_LV_646_(Lassus,_Orlande_de)",
+      "year": 1579
+    },
+    {
+      "title": "Di pensier in pensier, LV 648",
+      "imslp_url": "https://imslp.org/wiki/Di_pensier_in_pensier,_LV_648_(Lassus,_Orlande_de)",
+      "year": 1579
+    },
+    {
+      "title": "Magnificat secundi toni, LV 1182",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_secundi_toni,_LV_1182_(Lassus,_Orlande_de)",
+      "year": 1579
+    },
+    {
+      "title": "Missa Sesquialtera, LV Anh.101",
+      "imslp_url": "https://imslp.org/wiki/Missa_Sesquialtera,_LV_Anh.101_(Lassus,_Orlande_de)",
+      "year": 1579
+    },
+    {
+      "title": "Missa super Amar donna, LV 959",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Amar_donna,_LV_959_(Lassus,_Orlande_de)",
+      "year": 1579
+    },
+    {
+      "title": "Missa super In die tribulationis, LV 961",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_In_die_tribulationis,_LV_961_(Lassus,_Orlande_de)",
+      "year": 1579
+    },
+    {
+      "title": "Proba me Deus, LV 645",
+      "imslp_url": "https://imslp.org/wiki/Proba_me_Deus,_LV_645_(Lassus,_Orlande_de)",
+      "year": 1579
+    },
+    {
+      "title": "S'io esca vivo, LV 647",
+      "imslp_url": "https://imslp.org/wiki/S'io_esca_vivo,_LV_647_(Lassus,_Orlande_de)",
+      "year": 1579
+    },
+    {
+      "title": "Si bene perpendi, LV 642",
+      "imslp_url": "https://imslp.org/wiki/Si_bene_perpendi,_LV_642_(Lassus,_Orlande_de)",
+      "year": 1579
+    },
+    {
+      "title": "Ad coenam agni providi, LV Anh.1",
+      "imslp_url": "https://imslp.org/wiki/Ad_coenam_agni_providi,_LV_Anh.1_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Ad preces nostras, LV Anh.2",
+      "imslp_url": "https://imslp.org/wiki/Ad_preces_nostras,_LV_Anh.2_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Audi benigne conditor, LV Anh.5",
+      "imslp_url": "https://imslp.org/wiki/Audi_benigne_conditor,_LV_Anh.5_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Aurea luce et decore, LV Anh.6",
+      "imslp_url": "https://imslp.org/wiki/Aurea_luce_et_decore,_LV_Anh.6_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Ave maris stella, LV Anh.7",
+      "imslp_url": "https://imslp.org/wiki/Ave_maris_stella,_LV_Anh.7_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Christe redemptor omnium, LV Anh.13",
+      "imslp_url": "https://imslp.org/wiki/Christe_redemptor_omnium,_LV_Anh.13_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Christe redemptor omnium, LV Anh.14",
+      "imslp_url": "https://imslp.org/wiki/Christe_redemptor_omnium,_LV_Anh.14_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Conditor alme siderum, LV Anh.15",
+      "imslp_url": "https://imslp.org/wiki/Conditor_alme_siderum,_LV_Anh.15_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Deus tuorum militum, LV Anh.20",
+      "imslp_url": "https://imslp.org/wiki/Deus_tuorum_militum,_LV_Anh.20_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Deus tuorum militum, LV Anh.21",
+      "imslp_url": "https://imslp.org/wiki/Deus_tuorum_militum,_LV_Anh.21_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Doctor egregie, LV Anh.22",
+      "imslp_url": "https://imslp.org/wiki/Doctor_egregie,_LV_Anh.22_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Exultet coelum laudibus, LV Anh.24",
+      "imslp_url": "https://imslp.org/wiki/Exultet_coelum_laudibus,_LV_Anh.24_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Fit porta Christi pervia, LV Anh.48",
+      "imslp_url": "https://imslp.org/wiki/Fit_porta_Christi_pervia,_LV_Anh.48_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Haec dies, quam fecit Dominus, LV Anh.49",
+      "imslp_url": "https://imslp.org/wiki/Haec_dies,_quam_fecit_Dominus,_LV_Anh.49_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Hostis Herodes impie, LV Anh.51",
+      "imslp_url": "https://imslp.org/wiki/Hostis_Herodes_impie,_LV_Anh.51_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "In exitu Israel, LV Anh.55",
+      "imslp_url": "https://imslp.org/wiki/In_exitu_Israel,_LV_Anh.55_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Iste confessor, LV Anh.59",
+      "imslp_url": "https://imslp.org/wiki/Iste_confessor,_LV_Anh.59_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Jesu corona virginum, LV Anh.52",
+      "imslp_url": "https://imslp.org/wiki/Jesu_corona_virginum,_LV_Anh.52_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Jesu nostra redemptio, LV Anh.53",
+      "imslp_url": "https://imslp.org/wiki/Jesu_nostra_redemptio,_LV_Anh.53_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "La non vol esser pi\u00f9 mia, LV 772",
+      "imslp_url": "https://imslp.org/wiki/La_non_vol_esser_pi\u00f9_mia,_LV_772_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Lauda Mater Ecclesia, LV Anh.72",
+      "imslp_url": "https://imslp.org/wiki/Lauda_Mater_Ecclesia,_LV_Anh.72_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Lectio nona, LV 684",
+      "imslp_url": "https://imslp.org/wiki/Lectio_nona,_LV_684_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Lectio prima, LV 676",
+      "imslp_url": "https://imslp.org/wiki/Lectio_prima,_LV_676_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Lectio quarta, LV 679",
+      "imslp_url": "https://imslp.org/wiki/Lectio_quarta,_LV_679_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Lectio quinta, LV 680",
+      "imslp_url": "https://imslp.org/wiki/Lectio_quinta,_LV_680_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Lectio secunda, LV 677",
+      "imslp_url": "https://imslp.org/wiki/Lectio_secunda,_LV_677_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Lectio septima, LV 682",
+      "imslp_url": "https://imslp.org/wiki/Lectio_septima,_LV_682_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Lectio sexta, LV 681",
+      "imslp_url": "https://imslp.org/wiki/Lectio_sexta,_LV_681_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Lectio tertia, LV 678",
+      "imslp_url": "https://imslp.org/wiki/Lectio_tertia,_LV_678_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Lucis creator optime, LV Anh.73",
+      "imslp_url": "https://imslp.org/wiki/Lucis_creator_optime,_LV_Anh.73_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Missa pro defunctis, LV 963",
+      "imslp_url": "https://imslp.org/wiki/Missa_pro_defunctis,_LV_963_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Missa super Io son ferito ahi lasso, LV 962",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Io_son_ferito_ahi_lasso,_LV_962_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "O lux beta trinitas, LV Anh.134",
+      "imslp_url": "https://imslp.org/wiki/O_lux_beta_trinitas,_LV_Anh.134_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Pange, lingua, gloriosi corporis mysterium, LV Anh.135",
+      "imslp_url": "https://imslp.org/wiki/Pange,_lingua,_gloriosi_corporis_mysterium,_LV_Anh.135_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Passio Domini nostri Jesu Christi secundum Joannem, LV Anh.136",
+      "imslp_url": "https://imslp.org/wiki/Passio_Domini_nostri_Jesu_Christi_secundum_Joannem,_LV_Anh.136_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Pelli meae, LV 683",
+      "imslp_url": "https://imslp.org/wiki/Pelli_meae,_LV_683_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Petrus beatus catenarum, LV Anh.139",
+      "imslp_url": "https://imslp.org/wiki/Petrus_beatus_catenarum,_LV_Anh.139_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Quincumque christum queritis, LV Anh.141",
+      "imslp_url": "https://imslp.org/wiki/Quincumque_christum_queritis,_LV_Anh.141_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Rex gloriose martirum, LV Anh.148",
+      "imslp_url": "https://imslp.org/wiki/Rex_gloriose_martirum,_LV_Anh.148_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Salvete flores martyrum, LV Anh.151",
+      "imslp_url": "https://imslp.org/wiki/Salvete_flores_martyrum,_LV_Anh.151_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Sanctorum meritis, LV Anh.152",
+      "imslp_url": "https://imslp.org/wiki/Sanctorum_meritis,_LV_Anh.152_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Te lucis ante terminum, LV Anh.153",
+      "imslp_url": "https://imslp.org/wiki/Te_lucis_ante_terminum,_LV_Anh.153_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Te lucis ante terminum, LV Anh.154",
+      "imslp_url": "https://imslp.org/wiki/Te_lucis_ante_terminum,_LV_Anh.154_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Tibi christe splendor patris, LV Anh.155",
+      "imslp_url": "https://imslp.org/wiki/Tibi_christe_splendor_patris,_LV_Anh.155_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Tristes erant apostoli, LV Anh.156",
+      "imslp_url": "https://imslp.org/wiki/Tristes_erant_apostoli,_LV_Anh.156_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Urbs beata Jerusalem, LV Anh.157",
+      "imslp_url": "https://imslp.org/wiki/Urbs_beata_Jerusalem,_LV_Anh.157_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Ut queant laxis, LV Anh.158",
+      "imslp_url": "https://imslp.org/wiki/Ut_queant_laxis,_LV_Anh.158_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Veni creator spiritus, LV Anh.159",
+      "imslp_url": "https://imslp.org/wiki/Veni_creator_spiritus,_LV_Anh.159_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Vexilla regis prodeunt, LV Anh.160",
+      "imslp_url": "https://imslp.org/wiki/Vexilla_regis_prodeunt,_LV_Anh.160_(Lassus,_Orlande_de)",
+      "year": 1580
+    },
+    {
+      "title": "Allala pia calia, LV 667",
+      "imslp_url": "https://imslp.org/wiki/Allala_pia_calia,_LV_667_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "Canta Giorgia, LV 671",
+      "imslp_url": "https://imslp.org/wiki/Canta_Giorgia,_LV_671_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "Cathalina apra finestra, LV 669",
+      "imslp_url": "https://imslp.org/wiki/Cathalina_apra_finestra,_LV_669_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "Chi chi li chi, LV 670",
+      "imslp_url": "https://imslp.org/wiki/Chi_chi_li_chi,_LV_670_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "Ecco la nimph', LV 653",
+      "imslp_url": "https://imslp.org/wiki/Ecco_la_nimph',_LV_653_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "Hai Lucia, LV 659",
+      "imslp_url": "https://imslp.org/wiki/Hai_Lucia,_LV_659_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "In exitu Israel de Egypto, LV Anh.54",
+      "imslp_url": "https://imslp.org/wiki/In_exitu_Israel_de_Egypto,_LV_Anh.54_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "Io ti vorria contar, LV 658",
+      "imslp_url": "https://imslp.org/wiki/Io_ti_vorria_contar,_LV_658_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "Lucia celu, LV 664",
+      "imslp_url": "https://imslp.org/wiki/Lucia_celu,_LV_664_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "Magnificat octavi toni, LV 1177",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_octavi_toni,_LV_1177_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "Magnificat octavi toni, LV 897",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_octavi_toni,_LV_897_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "Magnificat primi toni, LV 891",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_primi_toni,_LV_891_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "Magnificat quarti toni, LV 1165",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_quarti_toni,_LV_1165_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "Magnificat quarti toni, LV 896",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_quarti_toni,_LV_896_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "Magnificat secundi toni, LV 1160",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_secundi_toni,_LV_1160_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "Magnificat septimi toni, LV 1173",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_septimi_toni,_LV_1173_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "Magnificat septimi toni, LV 895",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_septimi_toni,_LV_895_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "Magnificat sexti toni, LV 1168",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_sexti_toni,_LV_1168_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "Magnificat sexti toni, LV 1170",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_sexti_toni,_LV_1170_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "Matona mia cara, LV 663",
+      "imslp_url": "https://imslp.org/wiki/Matona_mia_cara,_LV_663_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "Mi me chiamere, LV 668",
+      "imslp_url": "https://imslp.org/wiki/Mi_me_chiamere,_LV_668_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "O bella fusa, LV 660",
+      "imslp_url": "https://imslp.org/wiki/O_bella_fusa,_LV_660_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "O occhi manza mia, LV 666",
+      "imslp_url": "https://imslp.org/wiki/O_occhi_manza_mia,_LV_666_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "Ogni giorno, LV 661",
+      "imslp_url": "https://imslp.org/wiki/Ogni_giorno,_LV_661_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "Parch'hai lasciato, LV 657",
+      "imslp_url": "https://imslp.org/wiki/Parch'hai_lasciato,_LV_657_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "S'io fusse ciaul', LV 662",
+      "imslp_url": "https://imslp.org/wiki/S'io_fusse_ciaul',_LV_662_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "S'io ti vedess', LV 665",
+      "imslp_url": "https://imslp.org/wiki/S'io_ti_vedess',_LV_665_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "S'io ve dico, LV 652",
+      "imslp_url": "https://imslp.org/wiki/S'io_ve_dico,_LV_652_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "Tutto lo di mi dici, LV 672",
+      "imslp_url": "https://imslp.org/wiki/Tutto_lo_di_mi_dici,_LV_672_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "Zanni, LV 673",
+      "imslp_url": "https://imslp.org/wiki/Zanni,_LV_673_(Lassus,_Orlande_de)",
+      "year": 1581
+    },
+    {
+      "title": "Ad altre le voi dare ste passate, LV 654",
+      "imslp_url": "https://imslp.org/wiki/Ad_altre_le_voi_dare_ste_passate,_LV_654_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Ad te levavi animam meam, LV 729",
+      "imslp_url": "https://imslp.org/wiki/Ad_te_levavi_animam_meam,_LV_729_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Anima mea liquefacta, LV 707",
+      "imslp_url": "https://imslp.org/wiki/Anima_mea_liquefacta,_LV_707_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Auris bona est, LV 696",
+      "imslp_url": "https://imslp.org/wiki/Auris_bona_est,_LV_696_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Ave verum corpus, LV 730",
+      "imslp_url": "https://imslp.org/wiki/Ave_verum_corpus,_LV_730_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Beatus vir qui inventus, LV 698",
+      "imslp_url": "https://imslp.org/wiki/Beatus_vir_qui_inventus,_LV_698_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Benedictio et claritas, LV 733",
+      "imslp_url": "https://imslp.org/wiki/Benedictio_et_claritas,_LV_733_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Cantantibus organis, LV 704",
+      "imslp_url": "https://imslp.org/wiki/Cantantibus_organis,_LV_704_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Cantate Domino canticum novum, LV 725",
+      "imslp_url": "https://imslp.org/wiki/Cantate_Domino_canticum_novum,_LV_725_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Da pacem Domine, LV 718",
+      "imslp_url": "https://imslp.org/wiki/Da_pacem_Domine,_LV_718_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Deus in adiutorium, LV 734",
+      "imslp_url": "https://imslp.org/wiki/Deus_in_adiutorium,_LV_734_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Deus meus in simplicitate, LV 732",
+      "imslp_url": "https://imslp.org/wiki/Deus_meus_in_simplicitate,_LV_732_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Deus tu conversus, LV 710",
+      "imslp_url": "https://imslp.org/wiki/Deus_tu_conversus,_LV_710_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Domine quid multiplicati, LV 722",
+      "imslp_url": "https://imslp.org/wiki/Domine_quid_multiplicati,_LV_722_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Domine vivifica me, LV 689",
+      "imslp_url": "https://imslp.org/wiki/Domine_vivifica_me,_LV_689_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Ego sum panis vivus, LV 699",
+      "imslp_url": "https://imslp.org/wiki/Ego_sum_panis_vivus,_LV_699_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Ego sum pauper, LV 714",
+      "imslp_url": "https://imslp.org/wiki/Ego_sum_pauper,_LV_714_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Evehor invidia, LV 713",
+      "imslp_url": "https://imslp.org/wiki/Evehor_invidia,_LV_713_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Exaltabo te, Domine, LV 687",
+      "imslp_url": "https://imslp.org/wiki/Exaltabo_te,_Domine,_LV_687_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Feci iudicium, LV 701",
+      "imslp_url": "https://imslp.org/wiki/Feci_iudicium,_LV_701_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Feria Quinta in Cena Domini, LV Anh.143",
+      "imslp_url": "https://imslp.org/wiki/Feria_Quinta_in_Cena_Domini,_LV_Anh.143_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Feria Sexta in Parasceve, LV Anh.144",
+      "imslp_url": "https://imslp.org/wiki/Feria_Sexta_in_Parasceve,_LV_Anh.144_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Hodie completi sunt, LV 713",
+      "imslp_url": "https://imslp.org/wiki/Hodie_completi_sunt,_LV_713_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Immittet angelus, LV 693",
+      "imslp_url": "https://imslp.org/wiki/Immittet_angelus,_LV_693_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Impulsus eversus sum, LV 700",
+      "imslp_url": "https://imslp.org/wiki/Impulsus_eversus_sum,_LV_700_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Iustorum animae, LV 703",
+      "imslp_url": "https://imslp.org/wiki/Iustorum_animae,_LV_703_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Levabo oculos meos, LV 688",
+      "imslp_url": "https://imslp.org/wiki/Levabo_oculos_meos,_LV_688_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Lumen ad revelationem, LV Anh.74",
+      "imslp_url": "https://imslp.org/wiki/Lumen_ad_revelationem,_LV_Anh.74_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Magnificat octavi toni, LV 1066",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_octavi_toni,_LV_1066_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Magnificat octavi toni, LV 1069",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_octavi_toni,_LV_1069_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Magnificat quarti toni, LV 1166",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_quarti_toni,_LV_1166_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Magnificat quarti toni, LV 1192",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_quarti_toni,_LV_1192_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Magnificat secundi toni, LV 1070",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_secundi_toni,_LV_1070_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Magnificat secundi toni, LV 1180",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_secundi_toni,_LV_1180_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Magnificat septimi toni, LV 1176",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_septimi_toni,_LV_1176_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Magnificat septimi toni, LV 1189",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_septimi_toni,_LV_1189_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Magnificat septimi toni, LV 1193",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_septimi_toni,_LV_1193_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Missa super Certa fortiter, LV 1148",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Certa_fortiter,_LV_1148_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Missa super Osculetur me, LV Anh.95",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Osculetur_me,_LV_Anh.95_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "O bone Iesu, LV 685",
+      "imslp_url": "https://imslp.org/wiki/O_bone_Iesu,_LV_685_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "O decus celsi, LV 721",
+      "imslp_url": "https://imslp.org/wiki/O_decus_celsi,_LV_721_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "O sacrum convivium, LV 702",
+      "imslp_url": "https://imslp.org/wiki/O_sacrum_convivium,_LV_702_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "O salutaris hostia, LV 708",
+      "imslp_url": "https://imslp.org/wiki/O_salutaris_hostia,_LV_708_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Osculetur me osculo, LV 735",
+      "imslp_url": "https://imslp.org/wiki/Osculetur_me_osculo,_LV_735_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Passio Domini nostri Jesu Christi secundum Lucam, LV Anh.137",
+      "imslp_url": "https://imslp.org/wiki/Passio_Domini_nostri_Jesu_Christi_secundum_Lucam,_LV_Anh.137_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Passio Domini nostri Jesu Christi secundum Marcum, LV Anh.138",
+      "imslp_url": "https://imslp.org/wiki/Passio_Domini_nostri_Jesu_Christi_secundum_Marcum,_LV_Anh.138_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Peccata mea Domine, LV 697",
+      "imslp_url": "https://imslp.org/wiki/Peccata_mea_Domine,_LV_697_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Popule meus, LV 705",
+      "imslp_url": "https://imslp.org/wiki/Popule_meus,_LV_705_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Qui sunt hi sermones, LV 706",
+      "imslp_url": "https://imslp.org/wiki/Qui_sunt_hi_sermones,_LV_706_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Quid facies, LV 695",
+      "imslp_url": "https://imslp.org/wiki/Quid_facies,_LV_695_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Respexit Elias, LV 711",
+      "imslp_url": "https://imslp.org/wiki/Respexit_Elias,_LV_711_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Sabbato Sancto, LV Anh.145",
+      "imslp_url": "https://imslp.org/wiki/Sabbato_Sancto,_LV_Anh.145_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Saccio na cosa, LV 656",
+      "imslp_url": "https://imslp.org/wiki/Saccio_na_cosa,_LV_656_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Salve Regina, LV 724",
+      "imslp_url": "https://imslp.org/wiki/Salve_Regina,_LV_724_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Tutto lo di mi dici, LV 655",
+      "imslp_url": "https://imslp.org/wiki/Tutto_lo_di_mi_dici,_LV_655_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Ut queant laxis, LV 715",
+      "imslp_url": "https://imslp.org/wiki/Ut_queant_laxis,_LV_715_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Veni sancte Spiritus, LV 726",
+      "imslp_url": "https://imslp.org/wiki/Veni_sancte_Spiritus,_LV_726_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Vulnerasti cor meum, LV 720",
+      "imslp_url": "https://imslp.org/wiki/Vulnerasti_cor_meum,_LV_720_(Lassus,_Orlande_de)",
+      "year": 1582
+    },
+    {
+      "title": "Auss meiner S\u00fcnden tieffe, LV 748",
+      "imslp_url": "https://imslp.org/wiki/Auss_meiner_S\u00fcnden_tieffe,_LV_748_(Lassus,_Orlande_de)",
+      "year": 1583
+    },
+    {
+      "title": "Baur was tregst im Sacke, LV 751",
+      "imslp_url": "https://imslp.org/wiki/Baur_was_tregst_im_Sacke,_LV_751_(Lassus,_Orlande_de)",
+      "year": 1583
+    },
+    {
+      "title": "Ce que tu peux maintenant, LV 737",
+      "imslp_url": "https://imslp.org/wiki/Ce_que_tu_peux_maintenant,_LV_737_(Lassus,_Orlande_de)",
+      "year": 1583
+    },
+    {
+      "title": "Confirma hoc Deus, LV 758",
+      "imslp_url": "https://imslp.org/wiki/Confirma_hoc_Deus,_LV_758_(Lassus,_Orlande_de)",
+      "year": 1583
+    },
+    {
+      "title": "Dilige solitudinem, LV 756",
+      "imslp_url": "https://imslp.org/wiki/Dilige_solitudinem,_LV_756_(Lassus,_Orlande_de)",
+      "year": 1583
+    },
+    {
+      "title": "Ich hab ein Mann, der gar nichts kann, LV 752",
+      "imslp_url": "https://imslp.org/wiki/Ich_hab_ein_Mann,_der_gar_nichts_kann,_LV_752_(Lassus,_Orlande_de)",
+      "year": 1583
+    },
+    {
+      "title": "Ich wei\u00df mir ein Meidlein, LV 750",
+      "imslp_url": "https://imslp.org/wiki/Ich_wei\u00df_mir_ein_Meidlein,_LV_750_(Lassus,_Orlande_de)",
+      "year": 1583
+    },
+    {
+      "title": "Magnificat octavi toni, LV 1190",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_octavi_toni,_LV_1190_(Lassus,_Orlande_de)",
+      "year": 1583
+    },
+    {
+      "title": "Magnificat octavi toni, LV 1194",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_octavi_toni,_LV_1194_(Lassus,_Orlande_de)",
+      "year": 1583
+    },
+    {
+      "title": "Magnificat octavi toni, LV 1195",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_octavi_toni,_LV_1195_(Lassus,_Orlande_de)",
+      "year": 1583
+    },
+    {
+      "title": "Magnificat primi toni, LV 887",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_primi_toni,_LV_887_(Lassus,_Orlande_de)",
+      "year": 1583
+    },
+    {
+      "title": "Magnificat primi toni, LV 890",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_primi_toni,_LV_890_(Lassus,_Orlande_de)",
+      "year": 1583
+    },
+    {
+      "title": "Magnificat quinti toni, LV 1067",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_quinti_toni,_LV_1067_(Lassus,_Orlande_de)",
+      "year": 1583
+    },
+    {
+      "title": "Magnificat quinti toni, LV 1184",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_quinti_toni,_LV_1184_(Lassus,_Orlande_de)",
+      "year": 1583
+    },
+    {
+      "title": "Magnificat secundi toni, LV 888",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_secundi_toni,_LV_888_(Lassus,_Orlande_de)",
+      "year": 1583
+    },
+    {
+      "title": "Magnificat secundi toni, LV 889",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_secundi_toni,_LV_889_(Lassus,_Orlande_de)",
+      "year": 1583
+    },
+    {
+      "title": "Magnificat septimi toni, LV 1191",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_septimi_toni,_LV_1191_(Lassus,_Orlande_de)",
+      "year": 1583
+    },
+    {
+      "title": "Magnificat sexti toni, LV Anh.76",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_sexti_toni,_LV_Anh.76_(Lassus,_Orlande_de)",
+      "year": 1583
+    },
+    {
+      "title": "Missa super Amor ecco colei, LV 1147",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Amor_ecco_colei,_LV_1147_(Lassus,_Orlande_de)",
+      "year": 1583
+    },
+    {
+      "title": "Missa super Bella Amfitrit' altera, LV 1146",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Bella_Amfitrit'_altera,_LV_1146_(Lassus,_Orlande_de)",
+      "year": 1583
+    },
+    {
+      "title": "Missa super Je suis desherit\u00e9e, LV Anh.90",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Je_suis_desherit\u00e9e,_LV_Anh.90_(Lassus,_Orlande_de)",
+      "year": 1583
+    },
+    {
+      "title": "Poi ch'el mio largo pianto, LV 755",
+      "imslp_url": "https://imslp.org/wiki/Poi_ch'el_mio_largo_pianto,_LV_755_(Lassus,_Orlande_de)",
+      "year": 1583
+    },
+    {
+      "title": "Quand'io penso al fuggir, LV 811",
+      "imslp_url": "https://imslp.org/wiki/Quand'io_penso_al_fuggir,_LV_811_(Lassus,_Orlande_de)",
+      "year": 1583
+    },
+    {
+      "title": "Responsorium in exequiis, LV Anh.147",
+      "imslp_url": "https://imslp.org/wiki/Responsorium_in_exequiis,_LV_Anh.147_(Lassus,_Orlande_de)",
+      "year": 1583
+    },
+    {
+      "title": "Selig ist, der auf Gott sein Hoffnung setzet, LV 738",
+      "imslp_url": "https://imslp.org/wiki/Selig_ist,_der_auf_Gott_sein_Hoffnung_setzet,_LV_738_(Lassus,_Orlande_de)",
+      "year": 1583
+    },
+    {
+      "title": "Veni Domine et noli tardare, LV 757",
+      "imslp_url": "https://imslp.org/wiki/Veni_Domine_et_noli_tardare,_LV_757_(Lassus,_Orlande_de)",
+      "year": 1583
+    },
+    {
+      "title": "Wach auf, o Menschenkind, LV 749",
+      "imslp_url": "https://imslp.org/wiki/Wach_auf,_o_Menschenkind,_LV_749_(Lassus,_Orlande_de)",
+      "year": 1583
+    },
+    {
+      "title": "Wol kombt der May, LV 754",
+      "imslp_url": "https://imslp.org/wiki/Wol_kombt_der_May,_LV_754_(Lassus,_Orlande_de)",
+      "year": 1583
+    },
+    {
+      "title": "A voi Guglielmo invitto, LV 773",
+      "imslp_url": "https://imslp.org/wiki/A_voi_Guglielmo_invitto,_LV_773_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "C'estoit en ton jeune age, LV 786",
+      "imslp_url": "https://imslp.org/wiki/C'estoit_en_ton_jeune_age,_LV_786_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Canzon se l\u2019esser meco, LV 768",
+      "imslp_url": "https://imslp.org/wiki/Canzon_se_l\u2019esser_meco,_LV_768_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Che pi\u00f9 d\u2019un giorno \u00e8 la vita mortale, LV 586",
+      "imslp_url": "https://imslp.org/wiki/Che_pi\u00f9_d\u2019un_giorno_\u00e8_la_vita_mortale,_LV_586_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Chi \u00e8 fermato, LV 769",
+      "imslp_url": "https://imslp.org/wiki/Chi_\u00e8_fermato,_LV_769_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Come la notte ogni fiammella \u00e8 viva, LV 771",
+      "imslp_url": "https://imslp.org/wiki/Come_la_notte_ogni_fiammella_\u00e8_viva,_LV_771_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Come lume di notte in alcun porto, LV 770",
+      "imslp_url": "https://imslp.org/wiki/Come_lume_di_notte_in_alcun_porto,_LV_770_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Dapoi che sotto il ciel cosa non vidi, LV 778",
+      "imslp_url": "https://imslp.org/wiki/Dapoi_che_sotto_il_ciel_cosa_non_vidi,_LV_778_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Deh perch\u00e8 voglio anco di me dolermi, LV 776",
+      "imslp_url": "https://imslp.org/wiki/Deh_perch\u00e8_voglio_anco_di_me_dolermi,_LV_776_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Dessus le march\u00e9 d'Arras, LV 791",
+      "imslp_url": "https://imslp.org/wiki/Dessus_le_march\u00e9_d'Arras,_LV_791_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Di qu\u00e0 di l\u00e0 va le noiose piume, LV 779",
+      "imslp_url": "https://imslp.org/wiki/Di_qu\u00e0_di_l\u00e0_va_le_noiose_piume,_LV_779_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Di terrena armonia satia l'anima mia, LV 781",
+      "imslp_url": "https://imslp.org/wiki/Di_terrena_armonia_satia_l'anima_mia,_LV_781_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Ditemi vita mia, LV 801",
+      "imslp_url": "https://imslp.org/wiki/Ditemi_vita_mia,_LV_801_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Gallans qui par terre et par mer, LV 766",
+      "imslp_url": "https://imslp.org/wiki/Gallans_qui_par_terre_et_par_mer,_LV_766_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Guerir ma douleur, LV 763",
+      "imslp_url": "https://imslp.org/wiki/Guerir_ma_douleur,_LV_763_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Helas, j'ay sans mercy, LV 787",
+      "imslp_url": "https://imslp.org/wiki/Helas,_j'ay_sans_mercy,_LV_787_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Hor vi riconfortate, LV 792",
+      "imslp_url": "https://imslp.org/wiki/Hor_vi_riconfortate,_LV_792_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "J'ayme la pierre precieuse, LV 785",
+      "imslp_url": "https://imslp.org/wiki/J'ayme_la_pierre_precieuse,_LV_785_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "La peine dure, LV 762",
+      "imslp_url": "https://imslp.org/wiki/La_peine_dure,_LV_762_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Litaniae Beatae Mariae Virginis, LV 1034",
+      "imslp_url": "https://imslp.org/wiki/Litaniae_Beatae_Mariae_Virginis,_LV_1034_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Litaniae Beatae Mariae Virginis, LV Anh.61",
+      "imslp_url": "https://imslp.org/wiki/Litaniae_Beatae_Mariae_Virginis,_LV_Anh.61_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "M'amie a bien le regard, LV 760",
+      "imslp_url": "https://imslp.org/wiki/M'amie_a_bien_le_regard,_LV_760_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Magnificat septimi toni, LV 1154",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_septimi_toni,_LV_1154_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Mais qui pourroit estre celuy, LV 764",
+      "imslp_url": "https://imslp.org/wiki/Mais_qui_pourroit_estre_celuy,_LV_764_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "O fugace dolcezza, LV 780",
+      "imslp_url": "https://imslp.org/wiki/O_fugace_dolcezza,_LV_780_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "O mere des amours Ciprine, LV 765",
+      "imslp_url": "https://imslp.org/wiki/O_mere_des_amours_Ciprine,_LV_765_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Passan vostri triomphi, LV 793",
+      "imslp_url": "https://imslp.org/wiki/Passan_vostri_triomphi,_LV_793_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Primus Psalmus poenitentialis, LV 794",
+      "imslp_url": "https://imslp.org/wiki/Primus_Psalmus_poenitentialis,_LV_794_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Puis que vivre en serviture, LV 761",
+      "imslp_url": "https://imslp.org/wiki/Puis_que_vivre_en_serviture,_LV_761_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Quartus Psalmus poenitentialis, LV 797",
+      "imslp_url": "https://imslp.org/wiki/Quartus_Psalmus_poenitentialis,_LV_797_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Quintus Psalmus poenitentialis, LV 798",
+      "imslp_url": "https://imslp.org/wiki/Quintus_Psalmus_poenitentialis,_LV_798_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Secundus Psalmus poenitentialis, LV 795",
+      "imslp_url": "https://imslp.org/wiki/Secundus_Psalmus_poenitentialis,_LV_795_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Segui gi\u00e0 le speranze, LV 775",
+      "imslp_url": "https://imslp.org/wiki/Segui_gi\u00e0_le_speranze,_LV_775_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Septimus Psalmus poenitentialis, LV 800",
+      "imslp_url": "https://imslp.org/wiki/Septimus_Psalmus_poenitentialis,_LV_800_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Sextus Psalmus poenitentialis, LV 799",
+      "imslp_url": "https://imslp.org/wiki/Sextus_Psalmus_poenitentialis,_LV_799_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Si vous estes mamie, LV 790",
+      "imslp_url": "https://imslp.org/wiki/Si_vous_estes_mamie,_LV_790_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Signor da l\u2019alto trono, LV 783",
+      "imslp_url": "https://imslp.org/wiki/Signor_da_l\u2019alto_trono,_LV_783_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Signor le colpe mie, LV 782",
+      "imslp_url": "https://imslp.org/wiki/Signor_le_colpe_mie,_LV_782_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Tertius Psalmus poenitentialis, LV 796",
+      "imslp_url": "https://imslp.org/wiki/Tertius_Psalmus_poenitentialis,_LV_796_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Valle profonda, LV 802",
+      "imslp_url": "https://imslp.org/wiki/Valle_profonda,_LV_802_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Vedi l'aurora, LV 774",
+      "imslp_url": "https://imslp.org/wiki/Vedi_l'aurora,_LV_774_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Vignon vignon vignette, LV 789",
+      "imslp_url": "https://imslp.org/wiki/Vignon_vignon_vignette,_LV_789_(Lassus,_Orlande_de)",
+      "year": 1584
+    },
+    {
+      "title": "Angelus Domini descendit, LV 833",
+      "imslp_url": "https://imslp.org/wiki/Angelus_Domini_descendit,_LV_833_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Antiphonae septem ad Vesperas Corporis Christi, LV Anh.3",
+      "imslp_url": "https://imslp.org/wiki/Antiphonae_septem_ad_Vesperas_Corporis_Christi,_LV_Anh.3_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Antiphonae septem ad Vesperas Sancti Michaelis, LV Anh.4",
+      "imslp_url": "https://imslp.org/wiki/Antiphonae_septem_ad_Vesperas_Sancti_Michaelis,_LV_Anh.4_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Ardo si, LV 846",
+      "imslp_url": "https://imslp.org/wiki/Ardo_si,_LV_846_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Ardo si, LV 847",
+      "imslp_url": "https://imslp.org/wiki/Ardo_si,_LV_847_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Benedictus Dominus Deus Isreal, LV Anh.11",
+      "imslp_url": "https://imslp.org/wiki/Benedictus_Dominus_Deus_Isreal,_LV_Anh.11_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Benedictus Dominus Deus Isreal, LV Anh.8",
+      "imslp_url": "https://imslp.org/wiki/Benedictus_Dominus_Deus_Isreal,_LV_Anh.8_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Benedictus Dominus Deus Isreal, LV Anh.9",
+      "imslp_url": "https://imslp.org/wiki/Benedictus_Dominus_Deus_Isreal,_LV_Anh.9_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Benedictus es Domine, LV 874",
+      "imslp_url": "https://imslp.org/wiki/Benedictus_es_Domine,_LV_874_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Christe qui lux es et dies, LV Anh.12",
+      "imslp_url": "https://imslp.org/wiki/Christe_qui_lux_es_et_dies,_LV_Anh.12_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Come la cera, LV 814",
+      "imslp_url": "https://imslp.org/wiki/Come_la_cera,_LV_814_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Confortamini et iam nolite, LV 865",
+      "imslp_url": "https://imslp.org/wiki/Confortamini_et_iam_nolite,_LV_865_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Custodi me Domine, LV 864",
+      "imslp_url": "https://imslp.org/wiki/Custodi_me_Domine,_LV_864_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Dixi ergo in corde meo, LV 824",
+      "imslp_url": "https://imslp.org/wiki/Dixi_ergo_in_corde_meo,_LV_824_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Domine Deus fortissime, LV 826",
+      "imslp_url": "https://imslp.org/wiki/Domine_Deus_fortissime,_LV_826_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Domine Deus salutis meae, LV 866",
+      "imslp_url": "https://imslp.org/wiki/Domine_Deus_salutis_meae,_LV_866_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Domine Iesu Christe pastor, LV 829",
+      "imslp_url": "https://imslp.org/wiki/Domine_Iesu_Christe_pastor,_LV_829_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Domine ad adiuvandum, LV 871",
+      "imslp_url": "https://imslp.org/wiki/Domine_ad_adiuvandum,_LV_871_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Domine da nobis auxilium, LV 839",
+      "imslp_url": "https://imslp.org/wiki/Domine_da_nobis_auxilium,_LV_839_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Domine non est exaltatum, LV 834",
+      "imslp_url": "https://imslp.org/wiki/Domine_non_est_exaltatum,_LV_834_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Eripe me de inimicis meis, LV 853",
+      "imslp_url": "https://imslp.org/wiki/Eripe_me_de_inimicis_meis,_LV_853_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Gressus meos dirige, LV 861",
+      "imslp_url": "https://imslp.org/wiki/Gressus_meos_dirige,_LV_861_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Haec est vera fraternitas, LV 835",
+      "imslp_url": "https://imslp.org/wiki/Haec_est_vera_fraternitas,_LV_835_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Hor vi riconfortate, LV 808",
+      "imslp_url": "https://imslp.org/wiki/Hor_vi_riconfortate,_LV_808_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Huc ades o Erneste, LV 842",
+      "imslp_url": "https://imslp.org/wiki/Huc_ades_o_Erneste,_LV_842_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "In manus tuas, LV Anh.56",
+      "imslp_url": "https://imslp.org/wiki/In_manus_tuas,_LV_Anh.56_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Io non sapea, LV 810",
+      "imslp_url": "https://imslp.org/wiki/Io_non_sapea,_LV_810_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Io son si stanco sotto'l fascio antico, LV 812",
+      "imslp_url": "https://imslp.org/wiki/Io_son_si_stanco_sotto'l_fascio_antico,_LV_812_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Lamentiatio prima primi diei, LV 815",
+      "imslp_url": "https://imslp.org/wiki/Lamentiatio_prima_primi_diei,_LV_815_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Lamentiatio prima primi diei, LV Anh.63",
+      "imslp_url": "https://imslp.org/wiki/Lamentiatio_prima_primi_diei,_LV_Anh.63_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Lamentiatio prima secundi diei, LV 818",
+      "imslp_url": "https://imslp.org/wiki/Lamentiatio_prima_secundi_diei,_LV_818_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Lamentiatio prima secundi diei, LV Anh.64",
+      "imslp_url": "https://imslp.org/wiki/Lamentiatio_prima_secundi_diei,_LV_Anh.64_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Lamentiatio prima tertii diei, LV 821",
+      "imslp_url": "https://imslp.org/wiki/Lamentiatio_prima_tertii_diei,_LV_821_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Lamentiatio prima tertii diei, LV Anh.65",
+      "imslp_url": "https://imslp.org/wiki/Lamentiatio_prima_tertii_diei,_LV_Anh.65_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Lamentiatio secunda primi diei, LV 816",
+      "imslp_url": "https://imslp.org/wiki/Lamentiatio_secunda_primi_diei,_LV_816_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Lamentiatio secunda primi diei, LV Anh.66",
+      "imslp_url": "https://imslp.org/wiki/Lamentiatio_secunda_primi_diei,_LV_Anh.66_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Lamentiatio secunda secundi diei, LV 819",
+      "imslp_url": "https://imslp.org/wiki/Lamentiatio_secunda_secundi_diei,_LV_819_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Lamentiatio secunda secundi diei, LV Anh.67",
+      "imslp_url": "https://imslp.org/wiki/Lamentiatio_secunda_secundi_diei,_LV_Anh.67_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Lamentiatio secunda tertii diei, LV 822",
+      "imslp_url": "https://imslp.org/wiki/Lamentiatio_secunda_tertii_diei,_LV_822_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Lamentiatio secunda tertii diei, LV Anh.68",
+      "imslp_url": "https://imslp.org/wiki/Lamentiatio_secunda_tertii_diei,_LV_Anh.68_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Lamentiatio tertia primi diei, LV 817",
+      "imslp_url": "https://imslp.org/wiki/Lamentiatio_tertia_primi_diei,_LV_817_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Lamentiatio tertia primi diei, LV Anh.69",
+      "imslp_url": "https://imslp.org/wiki/Lamentiatio_tertia_primi_diei,_LV_Anh.69_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Lamentiatio tertia secundi diei, LV 820",
+      "imslp_url": "https://imslp.org/wiki/Lamentiatio_tertia_secundi_diei,_LV_820_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Lamentiatio tertia secundi diei, LV Anh.70",
+      "imslp_url": "https://imslp.org/wiki/Lamentiatio_tertia_secundi_diei,_LV_Anh.70_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Lamentiatio tertia tertii diei, LV 823",
+      "imslp_url": "https://imslp.org/wiki/Lamentiatio_tertia_tertii_diei,_LV_823_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Lamentiatio tertia tertii diei, LV Anh.71",
+      "imslp_url": "https://imslp.org/wiki/Lamentiatio_tertia_tertii_diei,_LV_Anh.71_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Le voglie e l'opere mie, LV 806",
+      "imslp_url": "https://imslp.org/wiki/Le_voglie_e_l'opere_mie,_LV_806_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Magnificat octavi toni, LV 1178",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_octavi_toni,_LV_1178_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Magnificat octavi toni, LV 1179",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_octavi_toni,_LV_1179_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Magnificat peregrini toni, LV 892",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_peregrini_toni,_LV_892_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Magnificat primi toni, LV 1156",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_primi_toni,_LV_1156_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Magnificat primi toni, LV 1157",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_primi_toni,_LV_1157_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Magnificat primi toni, LV 1158",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_primi_toni,_LV_1158_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Magnificat primi toni, LV 1159",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_primi_toni,_LV_1159_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Magnificat primi toni, LV 894",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_primi_toni,_LV_894_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Magnificat quarti toni, LV 1164",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_quarti_toni,_LV_1164_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Magnificat quinti toni, LV 1167",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_quinti_toni,_LV_1167_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Magnificat secundi toni, LV 1161",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_secundi_toni,_LV_1161_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Magnificat secundi toni, LV 1183",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_secundi_toni,_LV_1183_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Magnificat secundi toni, LV 893",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_secundi_toni,_LV_893_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Magnificat secundi toni, LV 899",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_secundi_toni,_LV_899_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Magnificat septimi toni, LV 1155",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_septimi_toni,_LV_1155_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Magnificat septimi toni, LV 1172",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_septimi_toni,_LV_1172_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Magnificat septimi toni, LV 1174",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_septimi_toni,_LV_1174_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Magnificat septimi toni, LV 1187",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_septimi_toni,_LV_1187_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Magnificat septimi toni, LV 1188",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_septimi_toni,_LV_1188_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Magnificat sexti toni, LV 1068",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_sexti_toni,_LV_1068_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Magnificat sexti toni, LV 1153",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_sexti_toni,_LV_1153_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Magnificat sexti toni, LV 1169",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_sexti_toni,_LV_1169_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Magnificat sexti toni, LV 1171",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_sexti_toni,_LV_1171_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Magnificat tertii toni, LV 1152",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_tertii_toni,_LV_1152_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Magnificat tertii toni, LV 1163",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_tertii_toni,_LV_1163_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Magnificat tertii toni, LV 898",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_tertii_toni,_LV_898_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Memor esto verbi tui, LV 832",
+      "imslp_url": "https://imslp.org/wiki/Memor_esto_verbi_tui,_LV_832_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Miserere mei Deus, LV Anh.108",
+      "imslp_url": "https://imslp.org/wiki/Miserere_mei_Deus,_LV_Anh.108_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Missa super Ecce nunc benedicite, LV 1149",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Ecce_nunc_benedicite,_LV_1149_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Mors tua, mors Christi, LV 825",
+      "imslp_url": "https://imslp.org/wiki/Mors_tua,_mors_Christi,_LV_825_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Nunc dimittis primi toni, LV Anh.111",
+      "imslp_url": "https://imslp.org/wiki/Nunc_dimittis_primi_toni,_LV_Anh.111_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "O tempo, o ciel, LV 805",
+      "imslp_url": "https://imslp.org/wiki/O_tempo,_o_ciel,_LV_805_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Oculi mei semper ad Dominum, LV 837",
+      "imslp_url": "https://imslp.org/wiki/Oculi_mei_semper_ad_Dominum,_LV_837_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Officium Sancti Michaelis, LV Anh.133",
+      "imslp_url": "https://imslp.org/wiki/Officium_Sancti_Michaelis,_LV_Anh.133_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Officium in Purificatione Beatae Mariae Virginis, LV Anh.129",
+      "imslp_url": "https://imslp.org/wiki/Officium_in_Purificatione_Beatae_Mariae_Virginis,_LV_Anh.129_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Officium primum In Nativitate Domini, LV Anh.131",
+      "imslp_url": "https://imslp.org/wiki/Officium_primum_In_Nativitate_Domini,_LV_Anh.131_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Pater noster, LV 830",
+      "imslp_url": "https://imslp.org/wiki/Pater_noster,_LV_830_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Perfice gressus meos, LV 863",
+      "imslp_url": "https://imslp.org/wiki/Perfice_gressus_meos,_LV_863_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Populum humilem, LV 859",
+      "imslp_url": "https://imslp.org/wiki/Populum_humilem,_LV_859_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Quam pulchra es, LV 838",
+      "imslp_url": "https://imslp.org/wiki/Quam_pulchra_es,_LV_838_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Quando il giorno, LV 813",
+      "imslp_url": "https://imslp.org/wiki/Quando_il_giorno,_LV_813_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Quocumque loco fuero, LV 828",
+      "imslp_url": "https://imslp.org/wiki/Quocumque_loco_fuero,_LV_828_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Regina caeli laetare, LV 831",
+      "imslp_url": "https://imslp.org/wiki/Regina_caeli_laetare,_LV_831_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Responsoria in Nativitate Domini, LV Anh.142",
+      "imslp_url": "https://imslp.org/wiki/Responsoria_in_Nativitate_Domini,_LV_Anh.142_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Sancta Maria omnes sancti, LV 827",
+      "imslp_url": "https://imslp.org/wiki/Sancta_Maria_omnes_sancti,_LV_827_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Stabat Mater, LV 879",
+      "imslp_url": "https://imslp.org/wiki/Stabat_Mater,_LV_879_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Un dubbio verno, LV 807",
+      "imslp_url": "https://imslp.org/wiki/Un_dubbio_verno,_LV_807_(Lassus,_Orlande_de)",
+      "year": 1585
+    },
+    {
+      "title": "Tibi laus, tibi gloria, LV 886",
+      "imslp_url": "https://imslp.org/wiki/Tibi_laus,_tibi_gloria,_LV_886_(Lassus,_Orlande_de)",
+      "year": 1586
+    },
+    {
+      "title": "Venite filli audite me, LV 880",
+      "imslp_url": "https://imslp.org/wiki/Venite_filli_audite_me,_LV_880_(Lassus,_Orlande_de)",
+      "year": 1586
+    },
+    {
+      "title": "Arse la fiamm'e, LV 902",
+      "imslp_url": "https://imslp.org/wiki/Arse_la_fiamm'e,_LV_902_(Lassus,_Orlande_de)",
+      "year": 1587
+    },
+    {
+      "title": "Ben sono i premi tuoi, LV 912",
+      "imslp_url": "https://imslp.org/wiki/Ben_sono_i_premi_tuoi,_LV_912_(Lassus,_Orlande_de)",
+      "year": 1587
+    },
+    {
+      "title": "Canzon la doglia, LV 905",
+      "imslp_url": "https://imslp.org/wiki/Canzon_la_doglia,_LV_905_(Lassus,_Orlande_de)",
+      "year": 1587
+    },
+    {
+      "title": "Che giova posseder, LV 907",
+      "imslp_url": "https://imslp.org/wiki/Che_giova_posseder,_LV_907_(Lassus,_Orlande_de)",
+      "year": 1587
+    },
+    {
+      "title": "Chi non sa come spira, LV 908",
+      "imslp_url": "https://imslp.org/wiki/Chi_non_sa_come_spira,_LV_908_(Lassus,_Orlande_de)",
+      "year": 1587
+    },
+    {
+      "title": "Come pianta, LV 904",
+      "imslp_url": "https://imslp.org/wiki/Come_pianta,_LV_904_(Lassus,_Orlande_de)",
+      "year": 1587
+    },
+    {
+      "title": "Cosi cor mio, LV 901",
+      "imslp_url": "https://imslp.org/wiki/Cosi_cor_mio,_LV_901_(Lassus,_Orlande_de)",
+      "year": 1587
+    },
+    {
+      "title": "Deh lascia anima homai, LV 903",
+      "imslp_url": "https://imslp.org/wiki/Deh_lascia_anima_homai,_LV_903_(Lassus,_Orlande_de)",
+      "year": 1587
+    },
+    {
+      "title": "Ecco che pur vi lasso, LV 906",
+      "imslp_url": "https://imslp.org/wiki/Ecco_che_pur_vi_lasso,_LV_906_(Lassus,_Orlande_de)",
+      "year": 1587
+    },
+    {
+      "title": "Hor ch'a l'albergo del monton, LV 918",
+      "imslp_url": "https://imslp.org/wiki/Hor_ch'a_l'albergo_del_monton,_LV_918_(Lassus,_Orlande_de)",
+      "year": 1587
+    },
+    {
+      "title": "Il grave de l'et\u00e0, LV 910",
+      "imslp_url": "https://imslp.org/wiki/Il_grave_de_l'et\u00e0,_LV_910_(Lassus,_Orlande_de)",
+      "year": 1587
+    },
+    {
+      "title": "Lucescit jam o socii, LV 759",
+      "imslp_url": "https://imslp.org/wiki/Lucescit_jam_o_socii,_LV_759_(Lassus,_Orlande_de)",
+      "year": 1587
+    },
+    {
+      "title": "Missa super Beatus qui intelligit, LV 920",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Beatus_qui_intelligit,_LV_920_(Lassus,_Orlande_de)",
+      "year": 1587
+    },
+    {
+      "title": "Ornando come suole, LV 915",
+      "imslp_url": "https://imslp.org/wiki/Ornando_come_suole,_LV_915_(Lassus,_Orlande_de)",
+      "year": 1587
+    },
+    {
+      "title": "Pensier dicea che'l cor, LV 909",
+      "imslp_url": "https://imslp.org/wiki/Pensier_dicea_che'l_cor,_LV_909_(Lassus,_Orlande_de)",
+      "year": 1587
+    },
+    {
+      "title": "Per aspro mar di notte, LV 900",
+      "imslp_url": "https://imslp.org/wiki/Per_aspro_mar_di_notte,_LV_900_(Lassus,_Orlande_de)",
+      "year": 1587
+    },
+    {
+      "title": "Piu volte un bel desio, LV 911",
+      "imslp_url": "https://imslp.org/wiki/Piu_volte_un_bel_desio,_LV_911_(Lassus,_Orlande_de)",
+      "year": 1587
+    },
+    {
+      "title": "Prendi l'aurata lira, LV 916",
+      "imslp_url": "https://imslp.org/wiki/Prendi_l'aurata_lira,_LV_916_(Lassus,_Orlande_de)",
+      "year": 1587
+    },
+    {
+      "title": "Quand' han pi\u00f9, LV 956",
+      "imslp_url": "https://imslp.org/wiki/Quand'_han_pi\u00f9,_LV_956_(Lassus,_Orlande_de)",
+      "year": 1587
+    },
+    {
+      "title": "Tanto e quel ben, LV 914",
+      "imslp_url": "https://imslp.org/wiki/Tanto_e_quel_ben,_LV_914_(Lassus,_Orlande_de)",
+      "year": 1587
+    },
+    {
+      "title": "Tra verdi rami, LV 917",
+      "imslp_url": "https://imslp.org/wiki/Tra_verdi_rami,_LV_917_(Lassus,_Orlande_de)",
+      "year": 1587
+    },
+    {
+      "title": "Veggio se al vero, LV 913",
+      "imslp_url": "https://imslp.org/wiki/Veggio_se_al_vero,_LV_913_(Lassus,_Orlande_de)",
+      "year": 1587
+    },
+    {
+      "title": "Auff dich mein lieber Herr und Gott, LV 931",
+      "imslp_url": "https://imslp.org/wiki/Auff_dich_mein_lieber_Herr_und_Gott,_LV_931_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "Benedic Domine domum istam, LV 955",
+      "imslp_url": "https://imslp.org/wiki/Benedic_Domine_domum_istam,_LV_955_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "Da pacem Domine, LV 957",
+      "imslp_url": "https://imslp.org/wiki/Da_pacem_Domine,_LV_957_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "Der Herr erh\u00f6re deine klag, LV 937",
+      "imslp_url": "https://imslp.org/wiki/Der_Herr_erh\u00f6re_deine_klag,_LV_937_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "Der starcker Gott im himelreich, LV 952",
+      "imslp_url": "https://imslp.org/wiki/Der_starcker_Gott_im_himelreich,_LV_952_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "Die thoren sprechen wol on schertzen, LV 934",
+      "imslp_url": "https://imslp.org/wiki/Die_thoren_sprechen_wol_on_schertzen,_LV_934_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "Die welt und all ihr reichethumb, LV 939",
+      "imslp_url": "https://imslp.org/wiki/Die_welt_und_all_ihr_reichethumb,_LV_939_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "Es zeugen des gottlosen wercke, LV 945",
+      "imslp_url": "https://imslp.org/wiki/Es_zeugen_des_gottlosen_wercke,_LV_945_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "Exsurgat Deus, LV 954",
+      "imslp_url": "https://imslp.org/wiki/Exsurgat_Deus,_LV_954_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "Gott ist auf den wir immer hoffen, LV 950",
+      "imslp_url": "https://imslp.org/wiki/Gott_ist_auf_den_wir_immer_hoffen,_LV_950_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "Gro\u00df ist der Herr im heilgen thron, LV 951",
+      "imslp_url": "https://imslp.org/wiki/Gro\u00df_ist_der_Herr_im_heilgen_thron,_LV_951_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "Halt mich, o Herr, in deiner hut, LV 935",
+      "imslp_url": "https://imslp.org/wiki/Halt_mich,_o_Herr,_in_deiner_hut,_LV_935_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "Herr Gott mein hort, LV 941",
+      "imslp_url": "https://imslp.org/wiki/Herr_Gott_mein_hort,_LV_941_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "Herr der du meine stercke bist, LV 936",
+      "imslp_url": "https://imslp.org/wiki/Herr_der_du_meine_stercke_bist,_LV_936_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "Hilff lieber Herr, LV 933",
+      "imslp_url": "https://imslp.org/wiki/Hilff_lieber_Herr,_LV_933_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "Ich harr auff Gott mit gantzer gir, LV 947",
+      "imslp_url": "https://imslp.org/wiki/Ich_harr_auff_Gott_mit_gantzer_gir,_LV_947_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "Ich wil Gott unauffhoerlich preisen, LV 944",
+      "imslp_url": "https://imslp.org/wiki/Ich_wil_Gott_unauffhoerlich_preisen,_LV_944_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "Ich wil au\u00df gantzem hertzen, LV 932",
+      "imslp_url": "https://imslp.org/wiki/Ich_wil_au\u00df_gantzem_hertzen,_LV_932_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "Ich wil dich Herr gebuerlich loben, LV 942",
+      "imslp_url": "https://imslp.org/wiki/Ich_wil_dich_Herr_gebuerlich_loben,_LV_942_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "Mein Gott mein lieber treuer Gott, LV 938",
+      "imslp_url": "https://imslp.org/wiki/Mein_Gott_mein_lieber_treuer_Gott,_LV_938_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "O Herr ich klag es dir, LV 929",
+      "imslp_url": "https://imslp.org/wiki/O_Herr_ich_klag_es_dir,_LV_929_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "O selig dem der treuer Gott, LV 943",
+      "imslp_url": "https://imslp.org/wiki/O_selig_dem_der_treuer_Gott,_LV_943_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "Requiem \u00e0 4, LV Anh.98",
+      "imslp_url": "https://imslp.org/wiki/Requiem_\u00e0_4,_LV_Anh.98_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "Schaff mir doch recht in sachen mein, LV 940",
+      "imslp_url": "https://imslp.org/wiki/Schaff_mir_doch_recht_in_sachen_mein,_LV_940_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "Selig zu preisen ist der mann, LV 928",
+      "imslp_url": "https://imslp.org/wiki/Selig_zu_preisen_ist_der_mann,_LV_928_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "Straff mich Herr nicht in eiffermut, LV 946",
+      "imslp_url": "https://imslp.org/wiki/Straff_mich_Herr_nicht_in_eiffermut,_LV_946_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "Vernimm Herr meine Wort, LV 930",
+      "imslp_url": "https://imslp.org/wiki/Vernimm_Herr_meine_Wort,_LV_930_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "Wie ein hirsch girlich schreyen thut, LV 948",
+      "imslp_url": "https://imslp.org/wiki/Wie_ein_hirsch_girlich_schreyen_thut,_LV_948_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "Wir haben Herr mit unsern ohren, LV 949",
+      "imslp_url": "https://imslp.org/wiki/Wir_haben_Herr_mit_unsern_ohren,_LV_949_(Lassus,_Orlande_de)",
+      "year": 1588
+    },
+    {
+      "title": "Missa super Qual donna attende, LV 960",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Qual_donna_attende,_LV_960_(Lassus,_Orlande_de)",
+      "year": 1589
+    },
+    {
+      "title": "Aus hartem Weh, LV 966",
+      "imslp_url": "https://imslp.org/wiki/Aus_hartem_Weh,_LV_966_(Lassus,_Orlande_de)",
+      "year": 1590
+    },
+    {
+      "title": "Der K\u00f6nig wird sein wohlgemut, LV 971",
+      "imslp_url": "https://imslp.org/wiki/Der_K\u00f6nig_wird_sein_wohlgemut,_LV_971_(Lassus,_Orlande_de)",
+      "year": 1590
+    },
+    {
+      "title": "Ein K\u00f6rbelmacher, LV 970",
+      "imslp_url": "https://imslp.org/wiki/Ein_K\u00f6rbelmacher,_LV_970_(Lassus,_Orlande_de)",
+      "year": 1590
+    },
+    {
+      "title": "Ein guten Rat will geben ich, LV 964",
+      "imslp_url": "https://imslp.org/wiki/Ein_guten_Rat_will_geben_ich,_LV_964_(Lassus,_Orlande_de)",
+      "year": 1590
+    },
+    {
+      "title": "Ich ruf zu dir, mein Herr und Gott, LV 965",
+      "imslp_url": "https://imslp.org/wiki/Ich_ruf_zu_dir,_mein_Herr_und_Gott,_LV_965_(Lassus,_Orlande_de)",
+      "year": 1590
+    },
+    {
+      "title": "In viel Tr\u00fcbsal und Versuchung, LV 969",
+      "imslp_url": "https://imslp.org/wiki/In_viel_Tr\u00fcbsal_und_Versuchung,_LV_969_(Lassus,_Orlande_de)",
+      "year": 1590
+    },
+    {
+      "title": "Litaniae Beatae Mariae Virginis, LV 1026",
+      "imslp_url": "https://imslp.org/wiki/Litaniae_Beatae_Mariae_Virginis,_LV_1026_(Lassus,_Orlande_de)",
+      "year": 1590
+    },
+    {
+      "title": "Litaniae Beatae Mariae Virginis, LV 1027",
+      "imslp_url": "https://imslp.org/wiki/Litaniae_Beatae_Mariae_Virginis,_LV_1027_(Lassus,_Orlande_de)",
+      "year": 1590
+    },
+    {
+      "title": "Litaniae Beatae Mariae Virginis, LV 1029",
+      "imslp_url": "https://imslp.org/wiki/Litaniae_Beatae_Mariae_Virginis,_LV_1029_(Lassus,_Orlande_de)",
+      "year": 1590
+    },
+    {
+      "title": "Litaniae Beatae Mariae Virginis, LV 1030",
+      "imslp_url": "https://imslp.org/wiki/Litaniae_Beatae_Mariae_Virginis,_LV_1030_(Lassus,_Orlande_de)",
+      "year": 1590
+    },
+    {
+      "title": "Litaniae Beatae Mariae Virginis, LV 1031",
+      "imslp_url": "https://imslp.org/wiki/Litaniae_Beatae_Mariae_Virginis,_LV_1031_(Lassus,_Orlande_de)",
+      "year": 1590
+    },
+    {
+      "title": "Litaniae Beatae Mariae Virginis, LV 1032",
+      "imslp_url": "https://imslp.org/wiki/Litaniae_Beatae_Mariae_Virginis,_LV_1032_(Lassus,_Orlande_de)",
+      "year": 1590
+    },
+    {
+      "title": "Litaniae Beatae Mariae Virginis, LV Anh.60",
+      "imslp_url": "https://imslp.org/wiki/Litaniae_Beatae_Mariae_Virginis,_LV_Anh.60_(Lassus,_Orlande_de)",
+      "year": 1590
+    },
+    {
+      "title": "Maria voll Genad, LV 968",
+      "imslp_url": "https://imslp.org/wiki/Maria_voll_Genad,_LV_968_(Lassus,_Orlande_de)",
+      "year": 1590
+    },
+    {
+      "title": "Nunc dimittis secundi toni, LV Anh.117",
+      "imslp_url": "https://imslp.org/wiki/Nunc_dimittis_secundi_toni,_LV_Anh.117_(Lassus,_Orlande_de)",
+      "year": 1590
+    },
+    {
+      "title": "Nunc dimittis secundi toni, LV Anh.118",
+      "imslp_url": "https://imslp.org/wiki/Nunc_dimittis_secundi_toni,_LV_Anh.118_(Lassus,_Orlande_de)",
+      "year": 1590
+    },
+    {
+      "title": "Nunc dimittis secundi toni, LV Anh.119",
+      "imslp_url": "https://imslp.org/wiki/Nunc_dimittis_secundi_toni,_LV_Anh.119_(Lassus,_Orlande_de)",
+      "year": 1590
+    },
+    {
+      "title": "Nunc dimittis tertii toni, LV Anh.123",
+      "imslp_url": "https://imslp.org/wiki/Nunc_dimittis_tertii_toni,_LV_Anh.123_(Lassus,_Orlande_de)",
+      "year": 1590
+    },
+    {
+      "title": "O Mensch, gedenk, LV 967",
+      "imslp_url": "https://imslp.org/wiki/O_Mensch,_gedenk,_LV_967_(Lassus,_Orlande_de)",
+      "year": 1590
+    },
+    {
+      "title": "Von Gott will ich nicht lassen, LV 972",
+      "imslp_url": "https://imslp.org/wiki/Von_Gott_will_ich_nicht_lassen,_LV_972_(Lassus,_Orlande_de)",
+      "year": 1590
+    },
+    {
+      "title": "Magnificat secundi toni, LV 1181",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_secundi_toni,_LV_1181_(Lassus,_Orlande_de)",
+      "year": 1591
+    },
+    {
+      "title": "Dum transisset Sabathum, LV Anh.146",
+      "imslp_url": "https://imslp.org/wiki/Dum_transisset_Sabathum,_LV_Anh.146_(Lassus,_Orlande_de)",
+      "year": 1592
+    },
+    {
+      "title": "Magnificat octavi toni, LV 1196",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_octavi_toni,_LV_1196_(Lassus,_Orlande_de)",
+      "year": 1592
+    },
+    {
+      "title": "Missa super Deus in adiutorium, LV 1150",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Deus_in_adiutorium,_LV_1150_(Lassus,_Orlande_de)",
+      "year": 1592
+    },
+    {
+      "title": "Missa super Jesus ist ein s\u00fc\u00dfer Nam', LV Anh.91",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Jesus_ist_ein_s\u00fc\u00dfer_Nam',_LV_Anh.91_(Lassus,_Orlande_de)",
+      "year": 1592
+    },
+    {
+      "title": "Missa super Triste d\u00e9part, LV Anh.107",
+      "imslp_url": "https://imslp.org/wiki/Missa_super_Triste_d\u00e9part,_LV_Anh.107_(Lassus,_Orlande_de)",
+      "year": 1592
+    },
+    {
+      "title": "Nunc dimittis primi toni, LV Anh.112",
+      "imslp_url": "https://imslp.org/wiki/Nunc_dimittis_primi_toni,_LV_Anh.112_(Lassus,_Orlande_de)",
+      "year": 1592
+    },
+    {
+      "title": "Nunc dimittis quarti toni, LV Anh.114",
+      "imslp_url": "https://imslp.org/wiki/Nunc_dimittis_quarti_toni,_LV_Anh.114_(Lassus,_Orlande_de)",
+      "year": 1592
+    },
+    {
+      "title": "Nunc dimittis tertii toni, LV Anh.122",
+      "imslp_url": "https://imslp.org/wiki/Nunc_dimittis_tertii_toni,_LV_Anh.122_(Lassus,_Orlande_de)",
+      "year": 1592
+    },
+    {
+      "title": "Surrexit Dominus vere, LV Anh.58",
+      "imslp_url": "https://imslp.org/wiki/Surrexit_Dominus_vere,_LV_Anh.58_(Lassus,_Orlande_de)",
+      "year": 1592
+    },
+    {
+      "title": "A quanti gi\u00e0 felici, LV 1021",
+      "imslp_url": "https://imslp.org/wiki/A_quanti_gi\u00e0_felici,_LV_1021_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Ad Dominum cum tribularer, LV 986",
+      "imslp_url": "https://imslp.org/wiki/Ad_Dominum_cum_tribularer,_LV_986_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Ad primum morsum, LV 990",
+      "imslp_url": "https://imslp.org/wiki/Ad_primum_morsum,_LV_990_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Beatus homo cui donatum, LV 989",
+      "imslp_url": "https://imslp.org/wiki/Beatus_homo_cui_donatum,_LV_989_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Cantabant canticum Moysi, LV 994",
+      "imslp_url": "https://imslp.org/wiki/Cantabant_canticum_Moysi,_LV_994_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Chi ad una ad una, LV 1013",
+      "imslp_url": "https://imslp.org/wiki/Chi_ad_una_ad_una,_LV_1013_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Come falda di neve, LV 1014",
+      "imslp_url": "https://imslp.org/wiki/Come_falda_di_neve,_LV_1014_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Confitebor tibi Domine, LV 998",
+      "imslp_url": "https://imslp.org/wiki/Confitebor_tibi_Domine,_LV_998_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Conserva me Domine, LV 1002",
+      "imslp_url": "https://imslp.org/wiki/Conserva_me_Domine,_LV_1002_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Cos\u00ec talhor, LV 1010",
+      "imslp_url": "https://imslp.org/wiki/Cos\u00ec_talhor,_LV_1010_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Deficiat in dolore vita, LV 977",
+      "imslp_url": "https://imslp.org/wiki/Deficiat_in_dolore_vita,_LV_977_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Deus iniqui insurrexerunt, LV 992",
+      "imslp_url": "https://imslp.org/wiki/Deus_iniqui_insurrexerunt,_LV_992_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Diligam te, Domine, LV 1000",
+      "imslp_url": "https://imslp.org/wiki/Diligam_te,_Domine,_LV_1000_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "E non fu il pianto suo, LV 1015",
+      "imslp_url": "https://imslp.org/wiki/E_non_fu_il_pianto_suo,_LV_1015_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "E vago d'incontrar, LV 1018",
+      "imslp_url": "https://imslp.org/wiki/E_vago_d'incontrar,_LV_1018_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Exaltabo te Domine, LV 1001",
+      "imslp_url": "https://imslp.org/wiki/Exaltabo_te_Domine,_LV_1001_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Genuit puerpera, LV 996",
+      "imslp_url": "https://imslp.org/wiki/Genuit_puerpera,_LV_996_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Giovane donna, LV 1009",
+      "imslp_url": "https://imslp.org/wiki/Giovane_donna,_LV_1009_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Heu quis armorum furor, LV 993",
+      "imslp_url": "https://imslp.org/wiki/Heu_quis_armorum_furor,_LV_993_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Il magnanimo Pietro, LV 1005",
+      "imslp_url": "https://imslp.org/wiki/Il_magnanimo_Pietro,_LV_1005_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Lauda anima mea Dominum, LV 981",
+      "imslp_url": "https://imslp.org/wiki/Lauda_anima_mea_Dominum,_LV_981_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Ma gli archi, LV 1006",
+      "imslp_url": "https://imslp.org/wiki/Ma_gli_archi,_LV_1006_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Magnificat septimi toni, LV Anh.75",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_septimi_toni,_LV_Anh.75_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Multifariam multisque, LV 991",
+      "imslp_url": "https://imslp.org/wiki/Multifariam_multisque,_LV_991_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Nectar et ambrosiam, LV 974",
+      "imslp_url": "https://imslp.org/wiki/Nectar_et_ambrosiam,_LV_974_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Negando il mio signor, LV 1024",
+      "imslp_url": "https://imslp.org/wiki/Negando_il_mio_signor,_LV_1024_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Nessun fedel trovai, LV 1012",
+      "imslp_url": "https://imslp.org/wiki/Nessun_fedel_trovai,_LV_1012_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Non trovava mia f\u00e9, LV 1022",
+      "imslp_url": "https://imslp.org/wiki/Non_trovava_mia_f\u00e9,_LV_1022_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "O vita troppo rea, LV 1020",
+      "imslp_url": "https://imslp.org/wiki/O_vita_troppo_rea,_LV_1020_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Ogni occhio del signor, LV 1011",
+      "imslp_url": "https://imslp.org/wiki/Ogni_occhio_del_signor,_LV_1011_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Prolongati sunt dies mei, LV 975",
+      "imslp_url": "https://imslp.org/wiki/Prolongati_sunt_dies_mei,_LV_975_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Qual a l'incontro, LV 1008",
+      "imslp_url": "https://imslp.org/wiki/Qual_a_l'incontro,_LV_1008_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Quam bonus Israel Deus, LV 997",
+      "imslp_url": "https://imslp.org/wiki/Quam_bonus_Israel_Deus,_LV_997_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Quel volto, LV 1016",
+      "imslp_url": "https://imslp.org/wiki/Quel_volto,_LV_1016_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Queste opre e pi\u00f9, LV 1023",
+      "imslp_url": "https://imslp.org/wiki/Queste_opre_e_pi\u00f9,_LV_1023_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Silen di rose, LV 1004",
+      "imslp_url": "https://imslp.org/wiki/Silen_di_rose,_LV_1004_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Tre volte haveva, LV 1007",
+      "imslp_url": "https://imslp.org/wiki/Tre_volte_haveva,_LV_1007_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Vattene vita va, LV 1019",
+      "imslp_url": "https://imslp.org/wiki/Vattene_vita_va,_LV_1019_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Veduto il miser, LV 1017",
+      "imslp_url": "https://imslp.org/wiki/Veduto_il_miser,_LV_1017_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Vide homo, LV 1025",
+      "imslp_url": "https://imslp.org/wiki/Vide_homo,_LV_1025_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Vidi calumnias, LV 987",
+      "imslp_url": "https://imslp.org/wiki/Vidi_calumnias,_LV_987_(Lassus,_Orlande_de)",
+      "year": 1594
+    },
+    {
+      "title": "Vincenti dabo edere, LV 983",
+      "imslp_url": "https://imslp.org/wiki/Vincenti_dabo_edere,_LV_983_(Lassus,_Orlande_de)",
+      "year": 1594
+    }
+  ]
+}

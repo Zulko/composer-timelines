@@ -1,0 +1,341 @@
+{
+  "full_name": "Domenico Scarlatti",
+  "first_names": "Giuseppe Domenico",
+  "last_name": "Scarlatti",
+  "birth_year": 1685,
+  "death_year": 1757,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Domenico_Scarlatti",
+  "events": [
+    {
+      "section": "Life and career",
+      "title": "Birth",
+      "summary": "Domenico Scarlatti was born in Naples, in a family of ten children. His father, Alessandro Scarlatti, was a composer and teacher, which likely influenced his early musical education.",
+      "year": 1685,
+      "location": "Naples, Kingdom of Naples",
+      "emoji": "\ud83c\udfb5",
+      "fun_version": "Domenico Scarlatti, born in Naples as one of ten children, must have experienced musical chaos during family gatherings. With his father, Alessandro Scarlatti\u2014a composer and teacher\u2014guiding him, it\u2019s no surprise he learned music early; you can\u2019t let that many siblings run around without something to distract them!"
+    },
+    {
+      "section": "Life and career",
+      "title": "Appointment as Composer and Organist",
+      "summary": "Scarlatti was appointed as a composer and organist at the Chapel Royal of Naples. He also briefly worked under his father who was then the chapel's maestro di cappella.",
+      "year": 1701,
+      "location": "Naples",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Scarlatti was appointed as a composer and organist at the Chapel Royal of Naples. He briefly worked under his father, who was the chapel's maestro di cappella \u2014 talk about mixing family with authority!"
+    },
+    {
+      "section": "Life and career",
+      "title": "Service to Queen Marie Casimire",
+      "summary": "In 1709, Scarlatti entered the service of the exiled Polish queen Marie Casimire in Rome, where he composed several operas for her private theatre.",
+      "year": 1709,
+      "location": "Rome",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "In 1709, Scarlatti entered the service of the exiled Polish queen Marie Casimire in Rome, where he composed several operas for her private theatre. It sounds like a lavish setup, but I can only imagine her cat and a few very bored courtiers were his biggest fans!"
+    },
+    {
+      "section": "Life and career",
+      "title": "Maestro di Cappella at St. Peter's",
+      "summary": "Scarlatti served as Maestro di Cappella at St. Peter's from 1715 to 1719, contributing significantly to the musical life of the church.",
+      "year": 1715,
+      "location": "Rome",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Scarlatti served as Maestro di Cappella at St. Peter's from 1715 to 1719, where he was the original playlist curator of church music, ensuring hymns didn\u2019t sound like your grandma\u2019s old mixtape!"
+    },
+    {
+      "section": "Life and career",
+      "title": "Arrival in Lisbon",
+      "summary": "Scarlatti arrived in Lisbon on 29 November 1719, where he taught music to the Portuguese princess Maria Magdalena Barbara.",
+      "year": 1719,
+      "location": "Lisbon",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Scarlatti arrived in Lisbon on 29 November 1719. While there, he took on the monumental task of teaching music to the Portuguese princess Maria Magdalena Barbara, who was probably just trying to learn how to play 'Twinkle, Twinkle, Little Star.'"
+    },
+    {
+      "section": "Life and career",
+      "title": "Travel to London",
+      "summary": "In 1719, Scarlatti travelled to London to direct his opera Narciso at the King's Theatre, showcasing his works internationally.",
+      "year": 1719,
+      "location": "London",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "In 1719, Scarlatti decided to hop on a carriage and brave the streets of London to direct his opera Narciso at the King's Theatre, showcasing his works internationally. I mean, someone had to teach the Brits that the real reason for travel was to showcase opera and not just to complain about the weather!"
+    },
+    {
+      "section": "Life and career",
+      "title": "Marriage",
+      "summary": "Scarlatti married Maria Caterina Gentili in Rome on 6 May 1728, marking a significant personal event in his life.",
+      "year": 1728,
+      "location": "Rome",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "Scarlatti married Maria Caterina Gentili in Rome on 6 May 1728, marking a significant personal event in his life. Who knew that marrying in Rome was a way to ensure every fight ended with pizza and pasta? Talk about a romantic dinner date gone historical!"
+    },
+    {
+      "section": "Life and career",
+      "title": "Move to Seville",
+      "summary": "In 1729, Scarlatti moved to Seville, where he spent four years creating music for various patrons.",
+      "year": 1729,
+      "location": "Seville",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1729, Scarlatti decided that moving to Seville was a great way to ignite his creativity. After all, nothing screams \u2018musical genius\u2019 like four years of serenading the patrons while trying not to get distracted by all the tapas!"
+    },
+    {
+      "section": "Life and career",
+      "title": "Move to Madrid",
+      "summary": "In 1733, Scarlatti moved to Madrid as a music master to Princess Maria Barbara, beginning a long stay in Spain that lasted for 25 years.",
+      "year": 1733,
+      "location": "Madrid",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1733, Scarlatti cha-cha-chased his way to Madrid as a music master to Princess Maria Barbara\u2014because who wouldn't want to spend 25 years in Spain teaching a royal how to tickle the ivories? Rumor has it, the princess never got tired of his piano performances!"
+    },
+    {
+      "section": "Life and career",
+      "title": "Marrying Again",
+      "summary": "After the death of his first wife in 1739, Scarlatti married Anastasia Maxarti Ximenes, illustrating the personal trials he faced.",
+      "year": 1739,
+      "location": "Madrid",
+      "emoji": "\ud83d\udc94",
+      "fun_version": "In 1739, after his first wife decided to take a permanent vacation, Scarlatti thought it was time for another wife. He tied the knot with Anastasia Maxarti Ximenes, illustrating the personal trials he faced, showing how personal trials can be plot twists in anyone's life!"
+    },
+    {
+      "section": "Life and career",
+      "title": "Death",
+      "summary": "Scarlatti died in Madrid at the age of 71, leaving behind a rich legacy in classical music. His residence is marked with a historical plaque today.",
+      "year": 1757,
+      "location": "Madrid",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Scarlatti passed away in Madrid at the age of 71, leaving behind a rich legacy in classical music. His residence is today marked with a historical plaque."
+    }
+  ],
+  "works": [
+    {
+      "title": "Antra, valles, divo plaudant montes colles",
+      "imslp_url": "https://imslp.org/wiki/Antra,_valles,_divo_plaudant_montes_colles_(Scarlatti,_Domenico)",
+      "year": 1701
+    },
+    {
+      "title": "Keyboard Sonata in A major, K.24",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_A_major,_K.24_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in A major, K.26",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_A_major,_K.26_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in A minor, K.3",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_A_minor,_K.3_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in A minor, K.7",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_A_minor,_K.7_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in B minor, K.27",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_B_minor,_K.27_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in B-flat major, K.16",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_B-flat_major,_K.16_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in C minor, K.11",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_C_minor,_K.11_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in C minor, K.22",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_C_minor,_K.22_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in D major, K.21",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_D_major,_K.21_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in D major, K.23",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_D_major,_K.23_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in D major, K.29",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_D_major,_K.29_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in D minor, K.1",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_D_minor,_K.1_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in D minor, K.10",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_D_minor,_K.10_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in D minor, K.18",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_D_minor,_K.18_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in D minor, K.5",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_D_minor,_K.5_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in D minor, K.9",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_D_minor,_K.9_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in E major, K.20",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_E_major,_K.20_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in E major, K.28",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_E_major,_K.28_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in E minor, K.15",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_E_minor,_K.15_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in F major, K.17",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_F_major,_K.17_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in F major, K.6",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_F_major,_K.6_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in F minor, K.19",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_F_minor,_K.19_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in F-sharp minor, K.25",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_F-sharp_minor,_K.25_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in G major, K.13",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_G_major,_K.13_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in G major, K.14",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_G_major,_K.14_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in G major, K.2",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_G_major,_K.2_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in G minor, K.12",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_G_minor,_K.12_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in G minor, K.30",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_G_minor,_K.30_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in G minor, K.4",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_G_minor,_K.4_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in G minor, K.8",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_G_minor,_K.8_(Scarlatti,_Domenico)",
+      "year": 1738
+    },
+    {
+      "title": "Keyboard Sonata in A major, K.74",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_A_major,_K.74_(Scarlatti,_Domenico)",
+      "year": 1742
+    },
+    {
+      "title": "Keyboard Sonata in C minor, K.37",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_C_minor,_K.37_(Scarlatti,_Domenico)",
+      "year": 1750
+    },
+    {
+      "title": "Keyboard Sonata in A major, K.101",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_A_major,_K.101_(Scarlatti,_Domenico)",
+      "year": 1752
+    },
+    {
+      "title": "Keyboard Sonata in C major, K.100",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_C_major,_K.100_(Scarlatti,_Domenico)",
+      "year": 1752
+    },
+    {
+      "title": "Keyboard Sonata in C major, K.117",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_C_major,_K.117_(Scarlatti,_Domenico)",
+      "year": 1752
+    },
+    {
+      "title": "Keyboard Sonata in C minor, K.116",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_C_minor,_K.116_(Scarlatti,_Domenico)",
+      "year": 1752
+    },
+    {
+      "title": "Keyboard Sonata in D major, K.140",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_D_major,_K.140_(Scarlatti,_Domenico)",
+      "year": 1752
+    },
+    {
+      "title": "Keyboard Sonata in D major, K.53",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_D_major,_K.53_(Scarlatti,_Domenico)",
+      "year": 1752
+    },
+    {
+      "title": "Keyboard Sonata in F major, K.106",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_F_major,_K.106_(Scarlatti,_Domenico)",
+      "year": 1752
+    },
+    {
+      "title": "Keyboard Sonata in F major, K.107",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_F_major,_K.107_(Scarlatti,_Domenico)",
+      "year": 1752
+    },
+    {
+      "title": "Keyboard Sonata in F major, K.44",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_F_major,_K.44_(Scarlatti,_Domenico)",
+      "year": 1752
+    },
+    {
+      "title": "Keyboard Sonata in G major, K.104",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_G_major,_K.104_(Scarlatti,_Domenico)",
+      "year": 1752
+    },
+    {
+      "title": "Keyboard Sonata in G major, K.105",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_G_major,_K.105_(Scarlatti,_Domenico)",
+      "year": 1752
+    },
+    {
+      "title": "Keyboard Sonata in G major, K.55",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_G_major,_K.55_(Scarlatti,_Domenico)",
+      "year": 1752
+    },
+    {
+      "title": "Keyboard Sonata in A major, Cary 703",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_A_major,_Cary_703_(Scarlatti,_Domenico)",
+      "year": 1756
+    }
+  ]
+}

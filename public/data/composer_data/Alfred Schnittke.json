@@ -1,130 +1,155 @@
 {
   "full_name": "Alfred Schnittke",
-  "first_names": "Alfred",
+  "first_names": "Alfred Garrievich",
   "last_name": "Schnittke",
   "birth_year": 1934,
   "death_year": 1998,
   "wikipedia_url": "https://en.wikipedia.org/wiki/Alfred_Schnittke",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Alfred Schnittke was born in Engels to a family that could easily fill a genealogy sandwich. With a Jewish father and a German mother, as well as a philologist grandmother, the family tree must have been a sight to behold!",
+      "section": "Early life",
+      "title": "Birth",
+      "summary": "Alfred Schnittke was born in Engels, in the Volga German ASSR of the Russian SFSR. His birthplace played a significant role in shaping his cultural and musical identity, influencing his later work as a composer.",
       "year": 1934,
-      "city": "Engels",
-      "country": "Russia"
+      "location": "Engels, Volga German ASSR, Russian SFSR",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Alfred Schnittke was born in Engels, a town that sounds like a mix between an angel and a German sausage. Growing up in the Volga German ASSR significantly shaped his cultural and musical identity, likely leading him to compose music that could make even a marching band sound like a symphony!"
     },
     {
-      "event": "Musical Education",
-      "summary": "In 1946, young Schnittke found himself in Vienna, where he decided to fall in love with music. After all, who wouldn't want to be transported to a world filled with ghosts, historical links, and highbrow music references like Mozart?",
+      "section": "Early life",
+      "title": "Early Musical Education",
+      "summary": "Schnittke began his musical education in 1946 while in Vienna, where he developed a profound love for music as an integral part of life and history. His time in Vienna significantly influenced his approach to music and composition.",
       "year": 1946,
-      "city": "Vienna",
-      "country": "Austria"
+      "location": "Vienna",
+      "emoji": "\ud83c\udfb5",
+      "fun_version": "Schnittke kicked off his musical education in 1946 in Vienna! It was there he developed a profound love for music, which he saw as more integral to life than coffee and pastries. His Viennese adventure significantly jazzed up his approach to music and composition, making him the musical equivalent of a gourmet chef who knows all the secret spices."
     },
     {
-      "event": "Family Move",
-      "summary": "In 1948, the Schnittke family relocated to Moscow. Just think of it as a family road trip, but without the songs and snacks, and certainly more of a 'should we really do this?' vibe!",
+      "section": "Early life",
+      "title": "Family Relocation to Moscow",
+      "summary": "In 1948, Schnittke and his family relocated to Moscow, marking another significant chapter in his early life and musical development.",
       "year": 1948,
-      "city": "Moscow",
-      "country": "Russia"
+      "location": "Moscow",
+      "emoji": "\ud83c\udfd9\ufe0f",
+      "fun_version": "In 1948, Schnittke and his family packed their bags and swapped their peaceful life for the bustling chaos of Moscow, marking another significant chapter in his early life and musical development."
     },
     {
-      "event": "Conservatory Graduation",
-      "summary": "After spending years holed up with his musical scores, Schnittke completed his graduate work at the Moscow Conservatory in 1961. It's like he finally got his gold star for being a dedicated student \u2013 but now with more composing responsibilities!",
+      "section": "Career",
+      "title": "Completion of Graduate Work",
+      "summary": "In 1961 Schnittke completed his graduate work in composition at the Moscow Conservatory, indicating the formal start of his professional journey in music composition.",
       "year": 1961,
-      "city": "Moscow",
-      "country": "Russia"
+      "location": "Moscow Conservatory",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1961, Schnittke wrapped up his graduate work at the Moscow Conservatory, marking the start of his professional music journey. After all, they say you can\u2019t spell \u2018composition\u2019 without \u2018fun\u2019!"
     },
     {
-      "event": "First Symphony",
-      "summary": "Around 1972, Schnittke completed his epic First Symphony, which was such a bold move that it somehow ended up on the Soviet bureaucracy's naughty list, much like a misbehaving teenager.",
+      "section": "Career",
+      "title": "Teaching at Moscow Conservatory",
+      "summary": "He taught at the Moscow Conservatory from 1962 to 1972, contributing to the education of future musicians during this period.",
+      "year": 1962,
+      "location": "Moscow Conservatory",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "For a decade, from 1962 to 1972, he was like the music wizard at the Moscow Conservatory, casting spells on aspiring musicians like a maestro with a wand instead of a baton!"
+    },
+    {
+      "section": "Music",
+      "title": "Introduction of Polystylism",
+      "summary": "Alfred Schnittke developed a new musical style known as polystylism, which involved the combination of various musical styles from past and present. This was a significant turning point in his compositional approach, allowing him to bridge serious and light music.",
+      "year": 1967,
+      "location": "USSR",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Alfred Schnittke, an innovative composer, developed a new musical style known as 'polystylism.' He said, 'Why choose just one style when you can have a buffet of sounds?' This adventurous approach was a significant turning point in his compositional style, allowing him to bridge the gap between serious and light music."
+    },
+    {
+      "section": "Music",
+      "title": "Composition of Second Violin Sonata",
+      "summary": "During the years 1967 to 1968, Schnittke composed his second violin sonata, Quasi una sonata, which was his first work to utilize the polystylistic technique he had recently developed.",
+      "year": 1968,
+      "location": "USSR",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "Between 1967 and 1968, Schnittke composed his second violin sonata, Quasi una sonata, his first work to explore the polystylistic technique he had recently developed. Imagine him in a time-traveling spaceship, trying to figure out how to mix and mash different music styles like a DJ at a symphony rave!"
+    },
+    {
+      "section": "Career",
+      "title": "Composition of Piano Quintet",
+      "summary": "After his mother's death in 1972, he began to compose his Piano Quintet in her memory, showcasing a personal and emotional response to loss through music.",
       "year": 1972,
-      "city": "Moscow",
-      "country": "Russia"
+      "location": "",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "After his mother's death in 1972, he began to compose his Piano Quintet in her memory, showing that loss can evoke powerful emotions through music."
     },
     {
-      "event": "Mother's Death and Composition",
-      "summary": "After losing his mother in 1972, Schnittke was inspired to compose his Piano Quintet in her memory. It's like creating a heartfelt gift that costs nothing but emotional energy and a lot of introspection.",
-      "year": 1972,
-      "city": "Moscow",
-      "country": "Russia"
+      "section": "Career",
+      "title": "First Symphony Banned",
+      "summary": "Schnittke's First Symphony was effectively banned by the Soviet Composers' Union, reflecting the tension between his artistic expression and the bureaucratic constraints of the Soviet system.",
+      "year": 1980,
+      "location": "",
+      "emoji": "\ud83d\udeab\ud83c\udfb6",
+      "fun_version": "Schnittke's First Symphony was like a teenager with a rebellious streak, getting grounded by the Soviet Composers' Union for playing air guitar during a serious bus assembly. It\u2019s a classic tale of artistic expression facing off against the bureaucratic constraints of the Soviet system!"
     },
     {
-      "event": "Conversion to Catholicism",
-      "summary": "On June 18, 1983, Schnittke decided to swap some spiritual baggage and converted to Catholicism, adding a twist of faith to his already complex life story \u2013 talk about a plot twist!",
+      "section": "Career",
+      "title": "Travel Ban from USSR",
+      "summary": "After abstaining from a Composers' Union vote in 1980, he faced a travel ban that restricted him from leaving the USSR, highlighting the political challenges he encountered.",
+      "year": 1980,
+      "location": "",
+      "emoji": "\ud83d\udeab",
+      "fun_version": "In 1980, after strategically deciding to sit out a Composers' Union vote\u2014because who needs decisions when you have a comfy couch?\u2014our protagonist encountered a travel ban that was as restrictive as a ticket for a free buffet, emphasizing the political challenges he faced in the USSR. Who knew skipping a meeting could lead to joining the 'Can't-Leave-The-USSR Club' for life?"
+    },
+    {
+      "section": "Music",
+      "title": "Widespread Recognition Abroad",
+      "summary": "In the 1980s, Schnittke's music gained international recognition, significantly influenced by the efforts of \u00e9migr\u00e9 Soviet artists, including notable violinists and conductors who championed his works.",
+      "year": 1980,
+      "location": "Global",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "In the 1980s, Schnittke's music gained international attention, significantly influenced by \u00e9migr\u00e9 Soviet artists who waved their violins around and conducted like they were leading a rock band instead of a symphony!"
+    },
+    {
+      "section": "Career",
+      "title": "Conversion to Catholicism",
+      "summary": "He converted to Catholicism on 18 June 1983, marking a significant change in his personal beliefs that would influence his music.",
       "year": 1983,
-      "city": "Moscow",
-      "country": "Russia"
+      "location": "",
+      "emoji": "\u26ea\ufe0f",
+      "fun_version": "He switched to Catholicism on June 18, 1983, marking a significant change in his personal beliefs\u2014so significant that it even inspired a gospel remix version of his music!"
     },
     {
-      "event": "First Stroke",
-      "summary": "In 1985, Schnittke had a stroke and took an unplanned nap in a coma. Upon waking, he must have felt like he had just crashed from a wild party \u2013 now with a bit less mobility but still a lot of creativity!",
+      "section": "Music",
+      "title": "Creation of the Faust Cantata",
+      "summary": "Schnittke wrote the Faust Cantata in 1983, later weaving it into his opera, Historia von D. Johann Fausten. This work showcased his evolving musical style and thematic interests.",
+      "year": 1983,
+      "location": "USSR",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1983, Schnittke decided it was time to channel his inner Goethesque vibes and wrote the Faust Cantata. Later, he couldn't help but remix it into his opera, Historia von D. Johann Fausten. It's like the culinary arts, really - you start with a recipe and then just toss in whatever ingredients you fancy! This masterpiece not only showcased his evolving musical style and thematic interests but the evolving musical style is also pretty cool!"
+    },
+    {
+      "section": "Music",
+      "title": "Shift to Christian Themes",
+      "summary": "During the late 1980s, Schnittke's works began reflecting Christian themes, as evident in his choral compositions like the Concerto for Mixed Chorus and the Penitential Psalms, indicating a significant spiritual aspect of his later music.",
+      "year": 1984,
+      "location": "USSR",
+      "emoji": "\u271d\ufe0f",
+      "fun_version": "Back in the late 1980s, Schnittke decided to ditch the rock 'n' roll and dive into holy waters! His choral compositions, like the Concerto for Mixed Chorus (perfect for group karaoke) and the Penitential Psalms, show he had more spiritual vibes than a Sunday church service! Clearly, he wasn\u2019t just making music; he was penning some serious sonic prayers!"
+    },
+    {
+      "section": "Ill health and death",
+      "title": "Stroke and Coma",
+      "summary": "On 21 July 1985, Schnittke suffered a stroke that left him in a coma. He was declared clinically dead on several occasions, but he managed to recover and continue composing.",
       "year": 1985,
-      "city": "Moscow",
-      "country": "Russia"
+      "location": "Hamburg, Germany",
+      "emoji": "\ud83d\udc94",
+      "fun_version": "So there was this guy, Schnittke, right? On 21 July 1985, he suffered a stroke that turned his nap into a coma! They even declared him clinically dead a few times, but guess what? He woke up like it was just another morning coffee run and continued composing. Now that\u2019s some serious dedication!"
     },
     {
-      "event": "Emigration to Germany",
-      "summary": "In 1990, seeking a change of scenery and possibly better health, Schnittke moved to Hamburg. It was like finding a hidden room in a house \u2013 one that was quieter and more inviting!",
-      "year": 1990,
-      "city": "Hamburg",
-      "country": "Germany"
-    },
-    {
-      "event": "Death",
-      "summary": "Schnittke passed away in Hamburg in 1998, leaving behind a musical legacy that mingles light and heavy like a perfectly balanced dessert. Who needs a life preserver when you can just compose your way to immortality?",
+      "section": "Ill health and death",
+      "title": "Death and Burial",
+      "summary": "Schnittke passed away on 3 August 1998 in Hamburg at the age of 63. He was buried with state honors at Novodevichy Cemetery in Moscow.",
       "year": 1998,
-      "city": "Hamburg",
-      "country": "Germany"
-    },
-    {
-      "event": "First Compositions",
-      "summary": "Schnittke starts composing at a young age, showcasing works that are as eclectic as a box of chocolates, but with more dissonance. His early pieces hint at the genius that is about to unfold.",
-      "year": 1947,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Graduation from Conservatory",
-      "summary": "After years of dedication, Schnittke graduates from the Moscow Conservatory, officially becoming a 'master of awkward silence' who creates brilliant sounds in between the notes.",
-      "year": 1958,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Film Scoring Begin",
-      "summary": "Diving into the world of cinema, Schnittke scores his first film, and it turns out to be an adventure \u2014 not unlike a rollercoaster, but with an excellent soundtrack.",
-      "year": 1965,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Recognition with 'Concerto Grosso No. 1'",
-      "summary": "His 'Concerto Grosso No. 1' makes waves in the music world, swimming upstream against the currents of traditionalism like a rebellious salmon.",
-      "year": 1976,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Health Issues",
-      "summary": "Schnittke faces serious health challenges, turning his life into a dramatic opera where he plays the leading role \u2014 if only he could score it better!",
-      "year": 1985,
-      "city": "Hamburg",
-      "country": "Germany"
-    },
-    {
-      "event": "Return to Composition",
-      "summary": "With spirits high, Schnittke returns to composing, proving that even a composer can pull off a 'comeback tour' without the glitter\u2014just lots of notes!",
-      "year": 1989,
-      "city": "Hamburg",
-      "country": "Germany"
-    },
-    {
-      "event": "International Recognition",
-      "summary": "Schnittke achieves international acclaim, becoming a household name among music lovers and just about anyone who has ever tried to explain polystylism at a party.",
-      "year": 1990,
-      "city": "Various",
-      "country": "Global"
+      "location": "Moscow, Russia",
+      "emoji": "\ud83d\udd4a\ufe0f",
+      "fun_version": "Schnittke left us on 3 August 1998 in Hamburg at the stylish age of 63. They even buried him with state honors at Novodevichy Cemetery in Moscow, which is basically the VIP lounge of the afterlife!"
     }
   ],
-  "compositions": []
+  "works": []
 }

@@ -1,0 +1,146 @@
+{
+  "full_name": "John Cage",
+  "first_names": "John Milton",
+  "last_name": "Cage Jr.",
+  "birth_year": 1912,
+  "death_year": 1992,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_Cage",
+  "events": [
+    {
+      "section": "Life",
+      "title": "Birth of John Cage",
+      "summary": "John Cage was born into a family with a rich history, as his father was an inventor and his mother a journalist. He grew up in Los Angeles, inspired by various forms of art and influenced by his parents' diverse backgrounds.",
+      "year": 1912,
+      "location": "Los Angeles, California",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "John Cage was born into a family with a rich history, as his father was an inventor and his mother a journalist. His dad was an inventor, meaning family dinners were probably a hazard zone with all sorts of bizarre gadgets. Growing up in Los Angeles, John was so surrounded by art that even the traffic cones were performing Shakespeare! He was influenced by his parents' diverse backgrounds, which were like a permanent art show of ideas."
+    },
+    {
+      "section": "Life",
+      "title": "Graduation from High School",
+      "summary": "Cage graduated as valedictorian from Los Angeles High School, where he also gave a prize-winning speech proposing a day of silence for Americans to better appreciate the thoughts of others. This moment marked his early engagement with public speaking and thought leadership.",
+      "year": 1928,
+      "location": "Los Angeles, California",
+      "emoji": "\ud83c\udf93",
+      "fun_version": "Cage didn't just graduate; he smashed the valedictorian title like it was a pi\u00f1ata at a birthday party! His prize-winning speech? It was a revolutionary idea: 'Let's have a day of silence.' This marked the beginning of his journey in public speaking and thought leadership, where he learned that the more you talk, the fewer friends you might have!"
+    },
+    {
+      "section": "Life",
+      "title": "Drop Out from Pomona College",
+      "summary": "Cage left Pomona College after concluding that it was of no use to a future writer, leading him to pursue travel to Europe instead of academic studies. This decision marked a pivotal moment in his life, influencing his future artistic endeavors.",
+      "year": 1930,
+      "location": "Pomona College, California",
+      "emoji": "\u2708\ufe0f",
+      "fun_version": "A young man named Cage decided that Pomona College was about as useful for a budding writer as a chocolate teapot. Instead of diving into the academic deep end, he thought, \u201cWhy not float around Europe instead?\u201d This pivotal decision turned out to be just the ticket for his artistic adventures, transforming him into a globetrotting author whose experiences directly influenced his future works!"
+    },
+    {
+      "section": "Life",
+      "title": "Marriage to Xenia Kashevaroff",
+      "summary": "Cage married Xenia Andreyevna Kashevaroff in a small ceremony in the desert, establishing a partnership that would influence his life and work throughout the years to come.",
+      "year": 1935,
+      "location": "Yuma, Arizona",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "Cage married Xenia Andreyevna Kashevaroff in a small ceremony in the desert, establishing a partnership that would influence his life and work throughout the years to come."
+    },
+    {
+      "section": "Life",
+      "title": "Guggenheim Fellowship",
+      "summary": "Cage received a Guggenheim Fellowship in recognition of his contributions to music, further establishing his reputation as an influential composer and giving him the means to explore new artistic avenues.",
+      "year": 1949,
+      "location": "United States",
+      "emoji": "\ud83c\udfc6",
+      "fun_version": "Dedicating his time and talent, Cage snagged a Guggenheim Fellowship, proving he\u2019s not just composing sonatas but also collecting accolades! He\u2019s not just an influential composer; he\u2019s an influential composer with a check that plays tunes better! This fellowship further establishes his reputation, enabling him to explore new artistic avenues."
+    },
+    {
+      "section": "Life",
+      "title": "First Happenings",
+      "summary": "Cage organized what is considered the first 'happening' in the United States, which greatly influenced artistic practices in the following decades. This event integrated multiple disciplines and broke traditional performance barriers.",
+      "year": 1952,
+      "location": "Black Mountain College, North Carolina",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Cage pulled off what is now dubbed the first 'happening' in the United States\u2014imagine a potluck where artists brought their quirkiest creations! This event blended multiple disciplines and shattered traditional performance norms!"
+    },
+    {
+      "section": "Visual art, writings, and other activities",
+      "title": "Lecture on Edible Mushrooms",
+      "summary": "In 1969, Cage gave a lecture on mycology at the University of California, Davis, showcasing his passion for fungi and his role as a lecturer.",
+      "year": 1969,
+      "location": "University of California, Davis",
+      "emoji": "\ud83c\udf44",
+      "fun_version": "In 1969, Cage gave a lecture on mycology at the University of California, Davis, diving deep into the wonderful (and oft misunderstood) world of fungi. Who knew talking about mushrooms could be so exciting? Trust me, it's a spore-tacular affair!"
+    },
+    {
+      "section": "Visual art, writings, and other activities",
+      "title": "Not Wanting to Say Anything About Marcel",
+      "summary": "This visual project from 1969 comprises two lithographs and plexigrams, incorporating various word pieces governed by chance operations. It marked Cage's return to visual art after abandoning painting in his youth.",
+      "year": 1969,
+      "location": "",
+      "emoji": "\ud83c\udfa8",
+      "fun_version": "This delightful visual project from 1969 includes two lithographs and some fancy plexigrams. Governed by chance operations, this project marks Cage's triumphant return to visual art after abandoning painting in his youth, discovering that sometimes \u2018chance\u2019 plays a game of hopscotch with creativity."
+    },
+    {
+      "section": "Visual art, writings, and other activities",
+      "title": "Crown Point Press Collaboration",
+      "summary": "From 1978 until his death, Cage worked at Crown Point Press where he produced a multitude of prints annually, including the project Score Without Parts created from notated instructions influenced by Thoreau's drawings.",
+      "year": 1978,
+      "location": "",
+      "emoji": "\ud83c\udfa8",
+      "fun_version": "From 1978 until his grand exit in style, Cage became the Picasso of paper at Crown Point Press, cranking out prints, all while trying to decipher the mysterious hieroglyphics of Thoreau's doodles, in a project he whimsically named 'Score Without Parts.' Who knew prints could be so musical!"
+    },
+    {
+      "section": "Visual art, writings, and other activities",
+      "title": "Seven Day Diary",
+      "summary": "In 1978, Cage created this project by drawing with his eyes closed, adhering to a strict structure devised through chance operations, revealing his innovative approach to art.",
+      "year": 1978,
+      "location": "",
+      "emoji": "\ud83c\udfa8",
+      "fun_version": "In 1978, Cage took innovation to new heights by drawing with his eyes closed \u2013 a bold move, to say the least! He embraced chance operations, perhaps with guidance from his pet goldfish, to create masterpieces that challenged traditional art forms. Who knew that blindfolded doodling could reveal such creativity? Maybe his next challenge will be underwater drawing!"
+    },
+    {
+      "section": "Visual art, writings, and other activities",
+      "title": "Changes and Disappearances Series",
+      "summary": "Between 1979 and 1980, Cage produced this large series of prints, marking a significant period in his artistic career before he shifted to unconventional materials.",
+      "year": 1979,
+      "location": "",
+      "emoji": "\ud83c\udfa8",
+      "fun_version": "Between 1979 and 1980, Cage produced a large series of prints during a significant period in his artistic career. It was a time when he decided that regular materials were just too mainstream, so he went all out before moving on to things like spaghetti and bubble wrap. Because why not make art that is also a snack?"
+    },
+    {
+      "section": "Reception and influence",
+      "title": "Honorary doctorate from the California Institute of the Arts",
+      "summary": "In 1986, John Cage was awarded an honorary doctorate, recognizing his substantial contributions to music and art. This accolade highlights Cage's influence beyond just composition, acknowledging his impact on the arts as a whole.",
+      "year": 1986,
+      "location": "California Institute of the Arts",
+      "emoji": "\ud83c\udf93",
+      "fun_version": "In 1986, John Cage was awarded an honorary doctorate, recognizing his substantial contributions to music and art. That\u2019s quite the title for a man who made four minutes of silence a global phenomenon! This honorary accolade is not just for music, but acknowledges his profound influence on the arts as a whole\u2014turning random sounds into high art and redefining what \u2018music\u2019 could be!"
+    },
+    {
+      "section": "Visual art, writings, and other activities",
+      "title": "Watercolors at Mountain Lake Workshop",
+      "summary": "Between 1988 and 1990, Cage explored watercolor painting at the Mountain Lake Workshop, illustrating his ongoing engagement with visual art.",
+      "year": 1988,
+      "location": "",
+      "emoji": "\ud83c\udfa8",
+      "fun_version": "Between 1988 and 1990, Cage dabbled in watercolor painting at the Mountain Lake Workshop, which really illustrates his ongoing engagement with visual art. Who knew that splashing paint around could be a form of therapy? I guess you could say he was \u2018coloring\u2019 outside the lines of visual art!"
+    },
+    {
+      "section": "Life",
+      "title": "Death of John Cage",
+      "summary": "John Cage passed away, leaving behind a legacy of innovation in music and art. His contributions continued to influence musicians and artists long after his death, solidifying his status as a key figure in 20th-century art.",
+      "year": 1992,
+      "location": "New York, New York",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "John Cage has officially logged out, leaving behind a cacophony of innovation in music and art! His contributions will continue to influence musicians and artists forever, solidifying his status as a key figure in 20th-century art! Talk about leaving a legacy worthy of a Grammy, even if he never wanted one!"
+    },
+    {
+      "section": "Visual art, writings, and other activities",
+      "title": "Film One11",
+      "summary": "Commissioned for the Number Pieces, this monochrome film completed shortly before Cage's death consists entirely of chance-determined electric light images and premiered in Cologne in September 1992.",
+      "year": 1992,
+      "location": "Cologne, Germany",
+      "emoji": "\ud83c\udfa5",
+      "fun_version": "Commissioned for the Number Pieces, this monochrome film, which decided to go on the 'light diet' just before Cage's grand finale, consists of chance-determined electric light images and premiered in Cologne in September 1992."
+    }
+  ],
+  "works": []
+}

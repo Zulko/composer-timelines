@@ -1,256 +1,313 @@
 {
   "full_name": "Nadia Boulanger",
-  "first_names": "Nadia",
+  "first_names": "Juliette Nadia",
   "last_name": "Boulanger",
   "birth_year": 1887,
   "death_year": 1979,
   "wikipedia_url": "https://en.wikipedia.org/wiki/Nadia_Boulanger",
   "events": [
     {
-      "event": "Return to France",
-      "summary": "Boulanger made a grand return to France, presumably ready to conquer the music world, on an unassuming day in February. One could imagine her strutting off the train with a suitcase full of compositions and a flair for drama.",
-      "year": 1925,
-      "city": "Paris",
-      "country": "France"
+      "section": "Biography",
+      "title": "Birth",
+      "summary": "Nadia Boulanger was born in Paris to a musically inclined family. Her father, Ernest Boulanger, was a composer and pianist, and her mother, Raissa, was a Russian princess. Nadia's early exposure to music played a significant role in her later career as a composer and conductor.",
+      "year": 1887,
+      "location": "Paris",
+      "emoji": "\ud83c\udfb5",
+      "fun_version": "Nadia Boulanger was born in Paris to a musically inclined family, her father being composer Ernest Boulanger and her mother Raissa, a Russian princess. Musical talent ran in the family! Her musical upbringing really set the stage for her to become a composer and conductor who could make even a toaster sing!"
     },
     {
-      "event": "Lessons with Gershwin",
-      "summary": "In a humorous twist, when Gershwin, the famed composer, asked Boulanger for lessons, he got a witty response instead. After a brief chat, she declared she could teach him nothing, and he humorously took it as the highest form of compliment.",
-      "year": 1927,
-      "city": "Paris",
-      "country": "France"
+      "section": "Biography",
+      "title": "Entrance to Conservatoire",
+      "summary": "At the age of nine, Nadia entered the Paris Conservatoire, marking the beginning of her formal music education. She would study under prominent teachers and eventually excel in various competitions during her time there.",
+      "year": 1896,
+      "location": "Paris",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "At the tender age of nine, Nadia waltzed into the Paris Conservatoire like she owned the place, marking the beginning of her formal music education. She studied under prominent teachers and dominated competitions."
     },
     {
-      "event": "Paris debut as conductor",
-      "summary": "Amidst the chaos of riots, Boulanger rose like a phoenix (or maybe just a determined conductor) and made her Paris debut. She bravely tackled Mozart, Bach, and Fran\u00e7aix, proving that music could unite even during turmoil.",
-      "year": 1934,
-      "city": "Paris",
-      "country": "France"
+      "section": "Biography",
+      "title": "First Communion",
+      "summary": "Nadia took her First Communion in May 1899, an event that held spiritual significance for her, marking the importance of her Catholic faith throughout her life.",
+      "year": 1899,
+      "location": "Paris",
+      "emoji": "\u271d\ufe0f",
+      "fun_version": "Nadia took her First Communion in May 1899, marking a significant moment that would blend holy bread with a lifelong adventure of faith and dodging Aunt Margie\u2019s pinches about church attendance!"
     },
     {
-      "event": "First woman to conduct London Philharmonic Orchestra",
-      "summary": "Boulanger broke barriers by substituting for a famous pianist and commanding the London Philharmonic Orchestra, all while ensuring her dynamic levels didn't scare off any faint-hearted musicians.",
-      "year": 1936,
-      "city": "London",
-      "country": "United Kingdom"
+      "section": "Biography",
+      "title": "Father's Death",
+      "summary": "Nadia's father, Ernest Boulanger, passed away, leading to financial difficulties for the family. Despite the challenges, Nadia continued her education at the Conservatoire with determination to support her family.",
+      "year": 1900,
+      "location": "Paris",
+      "emoji": "\ud83d\ude22",
+      "fun_version": "Nadia's father, Ernest Boulanger, passed away, leaving the family juggling bills! But instead of throwing in the towel, Nadia continued her education at the Conservatoire, determined to support her family!"
     },
     {
-      "event": "Recording Monteverdi madrigals",
-      "summary": "With her passion for Monteverdi, Boulanger decided to record some madrigals, delighting many but raising eyebrows among purists who weren't quite ready for modern instruments playing old tunes.",
-      "year": 1937,
-      "city": "Unknown",
-      "country": "Unknown"
+      "section": "Biography",
+      "title": "First Prize in Harmony",
+      "summary": "In 1903, Nadia won the Conservatoire's first prize in harmony, showcasing her musical talent and dedication. This achievement further established her as a notable figure in the music community.",
+      "year": 1903,
+      "location": "Paris",
+      "emoji": "\ud83c\udfc6",
+      "fun_version": "In 1903, Nadia waltzed into the Conservatoire armed with her musical talent and a bag full of determination. She won the Conservatoire's first prize in harmony, establishing her as a notable figure in the music community. This accomplishment set her up as the go-to musical guru."
     },
     {
-      "event": "Conducted complete concert of Royal Philharmonic Society",
-      "summary": "Boulanger became the first woman to conduct a full concert of the Royal Philharmonic Society, showcasing her penchant for delicate dynamics and powerful expressions without ever cranking it up to eleven.",
-      "year": 1937,
-      "city": "London",
-      "country": "United Kingdom"
+      "section": "Biography",
+      "title": "Teaching at Conservatoire Femina-Musica",
+      "summary": "Nadia was appointed to teach elementary piano and accompaniments at the Conservatoire Femina-Musica, contributing to the education of many young musicians.",
+      "year": 1907,
+      "location": "Paris",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Nadia waltzed her way into the Conservatoire Femina-Musica like a maestro with a magic wand! She\u2019s now teaching elementary piano and accompaniments, turning little fingers into keyboard ninjas, contributing to the education of many young musicians, and helping them avoid playing \u2018Chopsticks\u2019 indefinitely!"
     },
     {
-      "event": "Tour of America",
-      "summary": "Boulanger began a whirlwind tour of America where she conducted several major orchestras and delivered over a hundred lectures, proving that she was not just a maestro but also a master of multitasking.",
-      "year": 1938,
-      "city": "Various",
-      "country": "United States"
+      "section": "Biography",
+      "title": "Second Grand Prix de Rome",
+      "summary": "In 1908, Nadia Boulanger won the Second Grand Prix de Rome for her cantata, La Sir\u00e8ne. This achievement was significant as it was a prestigious recognition of her compositional talent.",
+      "year": 1908,
+      "location": "Paris",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "In 1908, Nadia Boulanger snagged the Second Grand Prix de Rome for her cantata, La Sir\u00e8ne. This was a significant achievement and a prestigious way to say, 'Hey, you're really good at this composer thing!' It was an important recognition of her compositional talent."
     },
     {
-      "event": "Moved to New York before WWII",
-      "summary": "Just before chaos ensued, Boulanger made a tactical move across the ocean to New York, bringing her unique blend of charm and musical genius to the bustling American scene, escaping the storm brewing in Europe.",
-      "year": 1940,
-      "city": "New York",
-      "country": "United States"
+      "section": "Biography",
+      "title": "Debut as Conductor",
+      "summary": "Nadia made her debut as a conductor with the Soci\u00e9t\u00e9 des Matin\u00e9es Musicales, where she conducted her cantata La Sir\u00e8ne and showcased her talents to a wider audience.",
+      "year": 1912,
+      "location": "Paris",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Nadia made her debut as a conductor with the Soci\u00e9t\u00e9 des Matin\u00e9es Musicales. She conducted her cantata La Sir\u00e8ne, proving that not only can she wave a stick, but she can also make a room full of people sit still and listen, showcasing her talents to a wider audience!"
     },
     {
-      "event": "Position at Paris Conservatoire",
-      "summary": "Taking her talents to the prestigious Paris Conservatoire, she began shaping the minds of the next generation of musicians while probably insisting on complete attention at all times\u2014no pressure, right?",
-      "year": 1946,
-      "city": "Paris",
-      "country": "France"
+      "section": "Biography",
+      "title": "Teaching at \u00c9cole normale de musique de Paris",
+      "summary": "After the war and the closure of the Conservatoire Femina-Musica, Nadia joined the newly founded \u00c9cole normale de musique de Paris as a teacher, continuing her influential role in music education.",
+      "year": 1919,
+      "location": "Paris",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "After the dramatic curtain fall of the Conservatoire Femina-Musica, Nadia decided to dust off her teaching hat and join the snazzy new \u00c9cole normale de musique de Paris, where she continued her influential role in music education."
     },
     {
-      "event": "Organizing music for Grace Kelly's wedding",
-      "summary": "Boulanger had the honor of organizing the music for Prince Rainier of Monaco's wedding to Grace Kelly, a task she probably approached with more flair than many wedding planners would dare to!",
-      "year": 1956,
-      "city": "Monaco",
-      "country": "Monaco"
+      "section": "Biography",
+      "title": "US Tour",
+      "summary": "Nadia toured the USA in 1924, during which she performed and premiered works such as Copland's Symphony for Organ and Orchestra, expanding her influence beyond Europe.",
+      "year": 1924,
+      "location": "USA",
+      "emoji": "\ud83c\uddfa\ud83c\uddf8",
+      "fun_version": "Nadia took a whirlwind tour of the USA in 1924, during which she performed and premiered works like Copland's Symphony for Organ and Orchestra. She was on a musical mission, expanding her influence beyond Europe."
     },
     {
-      "event": "Induction into Sigma Alpha Iota",
-      "summary": "Boulanger became an honorary member of the international women's music fraternity, perhaps thinking, 'Finally, a sisterhood that knows the importance of good music and good company!'",
-      "year": 1958,
-      "city": "Potsdam",
-      "country": "United States"
-    },
-    {
-      "event": "Invited to the White House",
-      "summary": "Boulanger received the ultimate invite\u2014to the White House by JFK! One can only imagine the music-filled conversations that stirred up between the First Couple and the legendary composer.",
-      "year": 1962,
-      "city": "Washington D.C.",
-      "country": "United States"
-    },
-    {
-      "event": "Surprise birthday celebration",
-      "summary": "Just shy of her 90th birthday, Boulanger was surprised with a birthday bash that had all the pomp of a royal celebration, complete with floating candles, proving one is never too old for a little fanfare.",
-      "year": 1977,
-      "city": "Fontainebleau",
-      "country": "France"
-    },
-    {
-      "event": "Chevalier to the L\u00e9gion d'honneur",
-      "summary": "In a dazzling ceremony, she received the Chevalier to the L\u00e9gion d'honneur, marking her as a French musical treasure and making the local gossip mill spin about who wore the best beret.",
+      "section": "Honours and awards",
+      "title": "Chevalier to the L\u00e9gion d'honneur",
+      "summary": "In 1932, Nadia Boulanger was honored with the title of Chevalier to the L\u00e9gion d'honneur, a prestigious French award recognizing her contributions to music.",
       "year": 1932,
-      "city": "Paris",
-      "country": "France"
+      "location": "France",
+      "emoji": "\ud83c\udfc5",
+      "fun_version": "In 1932, Nadia Boulanger was honored with the title of Chevalier to the L\u00e9gion d'honneur, a prestigious French award recognizing her contributions to music."
     },
     {
-      "event": "Order of Polonia Restituta",
-      "summary": "Being recognized with the Order of Polonia Restituta felt like being handed the ultimate backstage pass to Poland's cultural revival\u2014it's safe to say she was the star of the show.",
+      "section": "Honours and awards",
+      "title": "Order of Polonia Restituta",
+      "summary": "In 1934, she was awarded the Order of Polonia Restituta, acknowledging her influence and contributions to Polish culture and music.",
       "year": 1934,
-      "city": "Warsaw",
-      "country": "Poland"
+      "location": "Poland",
+      "emoji": "\ud83c\uddf5\ud83c\uddf1",
+      "fun_version": "In 1934, she bagged the Order of Polonia Restituta, recognizing her influence and contributions to Polish culture and music. I mean, who knew playing the tuba could earn you such a shiny award? Talk about blowing your own horn!"
     },
     {
-      "event": "Foreign Honorary Member of the American Academy of Arts and Sciences",
-      "summary": "Nadia became a Foreign Honorary Member, showing that even across the ocean she was like a secret agent of musical magic, known for her charm and uncanny ability to make notes dance.",
+      "section": "Biography",
+      "title": "Death of Mother",
+      "summary": "Nadia's mother, Raissa, passed away in 1935. Her death allowed Nadia to take on teaching opportunities abroad, free from familial obligations.",
+      "year": 1935,
+      "location": "Paris",
+      "emoji": "\ud83d\ude22",
+      "fun_version": "In 1935, when Nadia's mother, Raissa, took a permanent vacation, Nadia seized the opportunity to become a globetrotting teacher, finally escaping the familial milestones of chores and Sunday dinners!"
+    },
+    {
+      "section": "Biography",
+      "title": "First Woman Conducting in London",
+      "summary": "Boulanger became the first woman to conduct the London Philharmonic Orchestra, marking a significant milestone in her career and the history of women in classical music.",
+      "year": 1936,
+      "location": "London",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Boulanger became the first woman to conduct the London Philharmonic Orchestra - and you thought her only talent was making delightful pastries! This milestone is sweeter than a croissant and marks her entering the 'Hall of Fame for Women in Classical Music'!"
+    },
+    {
+      "section": "Biography",
+      "title": "First Woman to Conduct the Boston Symphony Orchestra",
+      "summary": "During her third visit to the US, Nadia became the first woman to conduct the Boston Symphony Orchestra, reinforcing her reputation as a groundbreaking conductor.",
+      "year": 1938,
+      "location": "Boston",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "On her third trip to the US, Nadia made history as the first woman to conduct the Boston Symphony Orchestra. She didn\u2019t just raise eyebrows; she raised the entire orchestra, solidifying her title as the 'Conductor Who Could.'"
+    },
+    {
+      "section": "Biography",
+      "title": "Return to France",
+      "summary": "After spending years in America during the war, Nadia returned to France in 1946 and resumed her teaching position at the Paris Conservatoire.",
+      "year": 1946,
+      "location": "Paris",
+      "emoji": "\ud83c\uddeb\ud83c\uddf7",
+      "fun_version": "Nadia, after cleverly avoiding war in America and gathering enough amusing anecdotes to last a lifetime, returned to France in 1946 to step back into her teaching role at the Paris Conservatoire, where she aimed to turn rhythmically challenged students into music maestros."
+    },
+    {
+      "section": "Honours and awards",
+      "title": "Foreign Honorary Member of the American Academy of Arts and Sciences",
+      "summary": "In 1962, Boulanger became a Foreign Honorary Member of the American Academy of Arts and Sciences, marking her international recognition in the arts and sciences.",
       "year": 1962,
-      "city": "Cambridge",
-      "country": "USA"
+      "location": "USA",
+      "emoji": "\ud83c\udfc6",
+      "fun_version": "In 1962, Boulanger became a Foreign Honorary Member of the American Academy of Arts and Sciences. This was so impressive that even the arts and sciences were a bit embarrassed\u2014like when you show up to a party in a tuxedo and everyone else is in casualwear!"
     },
     {
-      "event": "Howland Memorial Prize",
-      "summary": "Winning the Howland Memorial Prize was the cherry on top of her already sweet musical career, because who doesn't love a good trophy to put next to their piano?",
+      "section": "Honours and awards",
+      "title": "Howland Memorial Prize",
+      "summary": "Also in 1962, she received the Howland Memorial Prize, further establishing her reputation as a distinguished composer and educator.",
       "year": 1962,
-      "city": "New York",
-      "country": "USA"
+      "location": "USA",
+      "emoji": "\ud83c\udfc6",
+      "fun_version": "In 1962, she snagged the Howland Memorial Prize, proving once and for all that being a distinguished composer and educator is just another way of saying she knows how to play with notes and people!"
     },
     {
-      "event": "M\u00e9daille d'Or of the Acad\u00e9mie des Beaux-Arts",
-      "summary": "Receiving the M\u00e9daille d'Or was like being crowned queen of the arts\u2014no tiara required, just a whole lot of talent and a flair for the dramatic.",
+      "section": "Honours and awards",
+      "title": "M\u00e9daille d'Or of the Acad\u00e9mie des Beaux-Arts",
+      "summary": "In 1975, she was awarded the M\u00e9daille d'Or of the Acad\u00e9mie des Beaux-Arts of the Institut de France, celebrating her exceptional artistry and influence in music.",
       "year": 1975,
-      "city": "Paris",
-      "country": "France"
+      "location": "France",
+      "emoji": "\ud83c\udfc6",
+      "fun_version": "Back in 1975, they decided to award her the fancy M\u00e9daille d'Or from the Acad\u00e9mie des Beaux-Arts, because let's face it, they were tired of giving gold medals to dancers. At last, they recognized her exceptional artistry and huge influence in the world of music, letting a musician steal the spotlight!"
     },
     {
-      "event": "Grand officier to the L\u00e9gion d'honneur",
-      "summary": "Achieving the title of Grand officier to the L\u00e9gion d'honneur was her way of saying, 'I\u2019d like to thank my piano for the support, and my audience for their applause.'",
+      "section": "Honours and awards",
+      "title": "Grand officier to the L\u00e9gion d'honneur",
+      "summary": "In 1977, she was elevated to the rank of Grand officier to the L\u00e9gion d'honneur, recognizing her artistic achievements and contributions to French culture.",
       "year": 1977,
-      "city": "Paris",
-      "country": "France"
+      "location": "France",
+      "emoji": "\ud83c\udfc5",
+      "fun_version": "Back in 1977, she got promoted to the rank of Grand Officier of the L\u00e9gion d'honneur! Apparently, her artistic achievements and contributions to French culture were so impressive that even the baguettes stood up and applauded!"
     },
     {
-      "event": "Order of the British Empire",
-      "summary": "Being honored with the Order of the British Empire made her the talk of the tea party, proving that music really is the universal language\u2014especially when tea is involved.",
+      "section": "Honours and awards",
+      "title": "Order of St. Charles of Monaco",
+      "summary": "In 1977, she received the Order of St. Charles of Monaco, which highlights her esteemed position in the musical world.",
       "year": 1977,
-      "city": "London",
-      "country": "United Kingdom"
+      "location": "Monaco",
+      "emoji": "\ud83c\udfc5",
+      "fun_version": "In 1977, she received the Order of St. Charles of Monaco! Yes, that\u2019s right! A fancy award that sounds like it should come with a tiara and a pet dolphin! I mean, who wouldn\u2019t want a medal that basically says, 'Congratulations! You\u2019re a Rockstar in the musical world!' from Monaco?"
     },
     {
-      "event": "Order of St. Charles of Monaco",
-      "summary": "Nadia was bestowed the Order of St. Charles, making her not just a composer but also a royal favorite\u2014after all, every royal needs someone who can compose a fit-for-a-prince anthem.",
+      "section": "Honours and awards",
+      "title": "Order of the British Empire",
+      "summary": "In 1977, Boulanger was honored with the Order of the British Empire, which acknowledged her contributions to music on an international scale.",
       "year": 1977,
-      "city": "Monaco",
-      "country": "Monaco"
+      "location": "UK",
+      "emoji": "\ud83c\udfc5",
+      "fun_version": "In 1977, Boulanger was awarded the Order of the British Empire, a shiny medal given for making music that made the world\u2019s ears tingle, acknowledging her contributions to music on an international scale. It was just their way of saying, \"Hey, your tunes are officially British-approved!\""
     },
     {
-      "event": "Order of the Crown of Belgium",
-      "summary": "Scooping up the Order of the Crown was like getting a royal thumbs-up from Belgium itself; cheese sales probably went up after that!",
+      "section": "Honours and awards",
+      "title": "Order of the Crown of Belgium",
+      "summary": "In 1977, she was awarded the Order of the Crown of Belgium, signifying her lasting impact on the music culture across Europe.",
       "year": 1977,
-      "city": "Brussels",
-      "country": "Belgium"
+      "location": "Belgium",
+      "emoji": "\ud83c\udfc5",
+      "fun_version": "In 1977, she was awarded the Order of the Crown of Belgium! This prestigious award signifies her lasting impact on music culture across Europe, turning heads and maybe a few eardrums along the way."
+    },
+    {
+      "section": "Biography",
+      "title": "Final Performance",
+      "summary": "Boulanger continued working almost until her death in 1979, showcasing her dedication to music and education throughout her life.",
+      "year": 1979,
+      "location": "Paris",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Boulanger was so dedicated to music that even death had to pencil her in for an appointment in 1979, showcasing her dedication to music and education throughout her life! She was composing tunes while others were composing their bucket lists."
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/Au_bord_de_la_route_(Boulanger,_Nadia)",
-      "year": 1922,
-      "title": "Au bord de la route"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Cantique_(Boulanger,_Nadia)",
-      "year": 1909,
-      "title": "Cantique"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Chanson_(Boulanger,_Nadia)",
-      "year": 1909,
-      "title": "Chanson"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Le_couteau_(Boulanger,_Nadia)",
-      "year": 1922,
-      "title": "Le couteau"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Doute_(Boulanger,_Nadia)",
-      "year": 1922,
-      "title": "Doute"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/L%27%C3%A9change_(Boulanger,_Nadia)",
-      "year": 1922,
-      "title": "L'\u00e9change"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/%C3%89l%C3%A9gie_(Boulanger,_Nadia)",
-      "year": 1906,
-      "title": "\u00c9l\u00e9gie"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Elle_a_vendu_mon_c%C5%93ur_(Boulanger,_Nadia)",
-      "year": 1922,
-      "title": "Elle a vendu mon c\u0153ur"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Improvisations_(Boulanger,_Nadia)",
-      "year": 1911,
-      "title": "3 Improvisations"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/J%27ai_frapp%C3%A9_(Boulanger,_Nadia)",
-      "year": 1922,
-      "title": "J'ai frapp\u00e9"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Pieces_for_Cello_and_Piano_(Boulanger,_Nadia)",
-      "year": 1914,
-      "title": "3 Pieces for Cello and Piano"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Pri%C3%A8re_(Boulanger,_Nadia)",
-      "year": 1909,
-      "title": "Pri\u00e8re"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Soir_d%27hiver_(Boulanger,_Nadia)",
-      "year": 1914,
-      "title": "Soir d'hiver"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Soleils_couchants_(Boulanger,_Nadia)",
-      "year": 1907,
-      "title": "Soleils couchants"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Vers_la_vie_nouvelle_(Boulanger,_Nadia)",
-      "year": 1916,
-      "title": "Vers la vie nouvelle"
-    },
-    {
+      "title": "Versailles",
       "imslp_url": "https://imslp.org/wiki/Versailles_(Boulanger,_Nadia)",
-      "year": 1906,
-      "title": "Versailles"
+      "year": 1906
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Was_will_die_eins%C3%A4me_Thr%C3%A4ne_(Boulanger,_Nadia)",
-      "year": 1908,
-      "title": "Was will die eins\u00e4me Thr\u00e4ne"
+      "title": "\u00c9l\u00e9gie",
+      "imslp_url": "https://imslp.org/wiki/\u00c9l\u00e9gie_(Boulanger,_Nadia)",
+      "year": 1906
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Les_heures_claires_(Boulanger,_Nadia)",
-      "year": 1909,
-      "title": "Les heures claires"
+      "title": "Soleils couchants",
+      "imslp_url": "https://imslp.org/wiki/Soleils_couchants_(Boulanger,_Nadia)",
+      "year": 1907
+    },
+    {
+      "title": "Was will die eins\u00e4me Thr\u00e4ne",
+      "imslp_url": "https://imslp.org/wiki/Was_will_die_eins\u00e4me_Thr\u00e4ne_(Boulanger,_Nadia)",
+      "year": 1908
+    },
+    {
+      "title": "Cantique",
+      "imslp_url": "https://imslp.org/wiki/Cantique_(Boulanger,_Nadia)",
+      "year": 1909
+    },
+    {
+      "title": "Chanson",
+      "imslp_url": "https://imslp.org/wiki/Chanson_(Boulanger,_Nadia)",
+      "year": 1909
+    },
+    {
+      "title": "Pri\u00e8re",
+      "imslp_url": "https://imslp.org/wiki/Pri\u00e8re_(Boulanger,_Nadia)",
+      "year": 1909
+    },
+    {
+      "title": "3 Improvisations",
+      "imslp_url": "https://imslp.org/wiki/3_Improvisations_(Boulanger,_Nadia)",
+      "year": 1911
+    },
+    {
+      "title": "3 Pieces for Cello and Piano",
+      "imslp_url": "https://imslp.org/wiki/3_Pieces_for_Cello_and_Piano_(Boulanger,_Nadia)",
+      "year": 1914
+    },
+    {
+      "title": "Soir d'hiver",
+      "imslp_url": "https://imslp.org/wiki/Soir_d'hiver_(Boulanger,_Nadia)",
+      "year": 1914
+    },
+    {
+      "title": "Vers la vie nouvelle",
+      "imslp_url": "https://imslp.org/wiki/Vers_la_vie_nouvelle_(Boulanger,_Nadia)",
+      "year": 1916
+    },
+    {
+      "title": "Au bord de la route",
+      "imslp_url": "https://imslp.org/wiki/Au_bord_de_la_route_(Boulanger,_Nadia)",
+      "year": 1922
+    },
+    {
+      "title": "Doute",
+      "imslp_url": "https://imslp.org/wiki/Doute_(Boulanger,_Nadia)",
+      "year": 1922
+    },
+    {
+      "title": "Elle a vendu mon c\u0153ur",
+      "imslp_url": "https://imslp.org/wiki/Elle_a_vendu_mon_c\u0153ur_(Boulanger,_Nadia)",
+      "year": 1922
+    },
+    {
+      "title": "J'ai frapp\u00e9",
+      "imslp_url": "https://imslp.org/wiki/J'ai_frapp\u00e9_(Boulanger,_Nadia)",
+      "year": 1922
+    },
+    {
+      "title": "L'\u00e9change",
+      "imslp_url": "https://imslp.org/wiki/L'\u00e9change_(Boulanger,_Nadia)",
+      "year": 1922
+    },
+    {
+      "title": "Le couteau",
+      "imslp_url": "https://imslp.org/wiki/Le_couteau_(Boulanger,_Nadia)",
+      "year": 1922
     }
   ]
 }

@@ -7,1033 +7,833 @@
   "wikipedia_url": "https://en.wikipedia.org/wiki/Johannes_Brahms",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Johannes Brahms was birthed into the world, joining the ranks of humanity with a touch of musical flair, and possibly a tiny compositional notebook in hand.",
+      "section": "Biography",
+      "title": "Birth",
+      "summary": "Johannes Brahms was born into a musical family in Hamburg, where his father worked as a musician and his mother supported the family's creative environment. This upbringing laid a strong foundation for his future as a composer and pianist.",
       "year": 1833,
-      "city": "Hamburg",
-      "country": "German Confederation"
+      "location": "Hamburg",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Johannes Brahms popped into the world in a musical family in Hamburg, where his dad was tickling the ivories. Talk about a family jam session! This melodic upbringing gave him more than just a knack for composing and being a pianist \u2013 it was like he was born with a conductor's baton in his hand!"
     },
     {
-      "event": "First Public Performance",
-      "summary": "At the tender age of 10, Brahms made his debut as a performer, impressing audiences with his skills, undoubtedly raising eyebrows and maybe even a few heartbeats!",
+      "section": "Biography",
+      "title": "First Public Appearance",
+      "summary": "At the age of 10, Brahms made his debut as a performer in a private concert, showcasing his growing talent and marking the beginning of his public musical journey.",
       "year": 1843,
-      "city": "Hamburg",
-      "country": "German Confederation"
+      "location": "Hamburg",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "When Brahms was just 10 years old, he made his grand debut by crashing a private concert like a boss, showcasing his growing talent. I mean, who needs a decade to hone your skills when you can steal the show at ten? This marked the beginning of his public musical journey and endless shenanigans!"
     },
     {
-      "event": "First Recital",
-      "summary": "Showing off his chops, Brahms performed his very first public recital in Hamburg, featuring a mix of his favorite composers' works and a bit of his own genius, sealing his fate as a performer.",
+      "section": "Biography",
+      "title": "First Public Recital",
+      "summary": "Brahms made his first public appearance as a solo pianist in Hamburg in 1847, which was pivotal in establishing his reputation as a talented musician.",
       "year": 1847,
-      "city": "Hamburg",
-      "country": "German Confederation"
+      "location": "Hamburg",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Brahms made his first public appearance as a solo pianist in Hamburg in 1847, which was pivotal in establishing his reputation as a talented musician."
     },
     {
-      "event": "Collaboration with Schumann",
-      "summary": "With a letter of introduction from a friend, Brahms not only won over Robert Schumann and his wife Clara but also scored himself a ticket to the limelight with their support \u2013 talk about a power couple!",
+      "section": "Biography",
+      "title": "Visit with Robert Schumann",
+      "summary": "In 1853, Brahms visited the renowned composer Robert Schumann, who recognized his extraordinary talent, leading to Brahms's first major public exposure.",
       "year": 1853,
-      "city": "D\u00fcsseldorf",
-      "country": "Germany"
+      "location": "D\u00fcsseldorf",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "In 1853, Brahms strutted into the house of the legendary composer Robert Schumann. Schumann took one look and said, 'Wow, this kid's talent is so extraordinary, we might need a larger stage for all this greatness!' And just like that, Brahms had his first major public exposure!"
     },
     {
-      "event": "Publication of Early Works",
-      "summary": "Thanks to Schumann's gushing endorsement, Brahms celebrated the first publication of his works under his own name \u2013 no more ghostwriting for this composer!",
+      "section": "Biography",
+      "title": "Publication of Works",
+      "summary": "Following Schumann's encouragement, Brahms's works began to be published in Leipzig, marking the start of his professional career as a composer.",
       "year": 1854,
-      "city": "Leipzig",
-      "country": "Germany"
+      "location": "Leipzig",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "After Schumann gave Brahms a nudge, his works began to be published in Leipzig like daisies in spring, marking the start of his illustrious career as a composer."
     },
     {
-      "event": "Engagement to Agathe von Siebold",
-      "summary": "In a classic 'oops' moment, Brahms got engaged, only to realize personal freedom and permanent commitment might not mix well. Spoiler alert: It didn't last.",
-      "year": 1859,
-      "city": "Germany",
-      "country": "Germany"
+      "section": "Biography",
+      "title": "Mother's Death and Composition of Requiem",
+      "summary": "The passing of Brahms's mother in 1865 motivated him to compose 'A German Requiem', a major work that significantly marked his arrival on the world stage.",
+      "year": 1865,
+      "location": "Vienna",
+      "emoji": "\ud83d\ude22",
+      "fun_version": "In 1865, after the passing of his mother, Brahms was motivated to compose 'A German Requiem.' He thought, 'What better way to cope than to write an epic soundtrack for my sad violin solo?' This major work significantly marked his arrival on the world stage and served as a musical hug for everyone."
     },
     {
-      "event": "Premiere of the First Piano Concerto",
-      "summary": "Brahms took center stage for the premiere of his First Piano Concerto, only to be greeted by a less-than-enthusiastic audience, leading to a unique bonding experience with the word 'failure'.",
-      "year": 1859,
-      "city": "Hamburg",
-      "country": "German Confederation"
-    },
-    {
-      "event": "Attempted Attack on New German School",
-      "summary": "Brahms tried to throw shade on the so-called New German School, but instead ended up as the butt of jokes, learning that musical debates can sometimes leave one looking a bit backward.",
-      "year": 1860,
-      "city": "Germany",
-      "country": "Germany"
-    },
-    {
-      "event": "Creating the Hungarian Dances",
-      "summary": "After mingling with gypsy-style music, Brahms struck gold by composing his famous Hungarian Dances, proving that sometimes, a bit of cultural exposure can lead to a whole lot of chart-topping success.",
-      "year": 1869,
-      "city": "Germany",
-      "country": "Germany"
-    },
-    {
-      "event": "Establishing Women's Choir",
-      "summary": "While he was busy composing and conducting, Brahms decided to establish a women's choir, ensuring that not only did he have great talent on stage, but also a well-trained group of lovely voices to educate.",
-      "year": 1857,
-      "city": "Hamburg",
-      "country": "German Confederation"
-    },
-    {
-      "event": "Intense Platonic Relationship with Clara Schumann",
-      "summary": "Brahms and Clara Schumann shared a deep, platonic love that lasted through decades, proving that sometimes the heart can be friends with benefits \u2013 the benefits being great music, of course!",
-      "year": 1853,
-      "city": "D\u00fcsseldorf",
-      "country": "Germany"
-    },
-    {
-      "event": "Final Years in Vienna",
-      "summary": "As he settled into his later years, Brahms crafted masterpieces in Vienna, cozying up with his composing tools and leaving a legacy that would resonate through concert halls for centuries \u2013 a true Vienna classic!",
-      "year": 1897,
-      "city": "Vienna",
-      "country": "Austria-Hungary"
-    },
-    {
-      "event": "First Visit to Vienna",
-      "summary": "In the autumn of 1862, Brahms made his first appearance in Vienna, likely thinking he'd find a cozy caf\u00e9 to sip on coffee and compose genius. Little did he know, he'd end up staying and conducting choirs instead!",
-      "year": 1862,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Appointment as Conductor",
-      "summary": "By 1863, Brahms nabbed himself the conductor role for the Wiener Singakademie, where he delighted audiences with early German masterpieces. But alas, too many choir rehearsals meant less time for composing, which led him to leave in 1864. Oops!",
-      "year": 1863,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Completion of A German Requiem",
-      "summary": "In the wake of his mother's passing in 1865, Brahms poured his heart into composing A German Requiem. It took a couple of years and some premiere performances to receive rave reviews. Talk about a comeback piece!",
-      "year": 1868,
-      "city": "Bremen",
-      "country": "Germany"
-    },
-    {
-      "event": "First Symphony Release",
-      "summary": "After many years of musical hand-wringing, Brahms released his First Symphony in 1876, after initially starting it back in the 1860s. His friends might have said it was 'rather long,' but it quickly won the hearts of audiences! ",
+      "section": "Biography",
+      "title": "First Symphony Premiere",
+      "summary": "Brahms's First Symphony premiered in 1876, receiving a warm reception and solidifying his status as a leading composer in the realm of orchestral music.",
       "year": 1876,
-      "city": "Vienna",
-      "country": "Austria"
+      "location": "Vienna",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Brahms\u2019s First Symphony made its grand debut in 1876, charming the audience with a warm reception and giving them the musical equivalent of a hug, solidifying his status as a leading composer in orchestral music."
     },
     {
-      "event": "Piano Concerto No. 2 Premiere",
-      "summary": "In 1882, Brahms took his majestic Piano Concerto No. 2, lovingly dedicated to his teacher, to the stage. An evening filled with music and a bit of drama - typical Brahms! ",
-      "year": 1882,
-      "city": "Meiningen",
-      "country": "Germany"
-    },
-    {
-      "event": "Honorary Citizenship of Hamburg",
-      "summary": "In 1889, Brahms was honored with the title of honorary citizen of Hamburg. A victory lap for the composer, proving that even great musicians get a little local love!",
-      "year": 1889,
-      "city": "Hamburg",
-      "country": "Germany"
-    },
-    {
-      "event": "Friendship with Johann Strauss II",
-      "summary": "Brahms became chummy with Johann Strauss II in the late 1880s. Their mutual admiration reached a peak when Brahms humorously noted on a fan autograph that The Blue Danube wasn't his original work - because who wouldn't want to claim that masterpiece?",
-      "year": 1889,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Experimental Recording Session",
-      "summary": "In 1889, Brahms agreed to record some music for Thomas Edison's team. Unfortunately, the results were so noisy, they made a symphony sound like a toddler on a toy piano. Good try, though!",
-      "year": 1889,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Death and Personal Legacy",
-      "summary": "Brahms passed away in 1897 after a lifetime of musical genius, leaving behind compositions that outshine many romances he did not pursue. It seems composing was his true love all along!",
+      "section": "Biography",
+      "title": "Death",
+      "summary": "Brahms passed away in Vienna after a battle with liver cancer, leaving behind a rich legacy of symphonic and choral works, as well as chamber music.",
       "year": 1897,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Vienna premiere of Second String Quintet",
-      "summary": "At the age of 57, Brahms experienced a moment of triumph when his Second String Quintet premiered in Vienna. He humorously contemplated retiring, thinking he could finally kick back and enjoy a worry-free retirement with nothing but cake and a comfy chair in sight.",
-      "year": 1890,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Inspiration from Richard M\u00fchlfeld",
-      "summary": "Brahms found himself rejuvenated by the clarinettist Richard M\u00fchlfeld's talent, leading him to compose a flurry of works for the clarinet. It was as if he'd stumbled into a musical candy store and was suddenly filled with creative sugar!",
-      "year": 1891,
-      "city": "Meiningen",
-      "country": "Germany"
-    },
-    {
-      "event": "Composed final cycles of piano pieces",
-      "summary": "In a burst of creativity that could rival a caffeinated squirrel, Brahms composed his last cycles of piano pieces and the Vier ernste Ges\u00e4nge. These works were a bittersweet homage, reflecting on loss while also sounding like a passionate argument with a piano.",
-      "year": 1896,
-      "city": "Bad Ischl",
-      "country": "Austria"
-    },
-    {
-      "event": "Diagnosed with terminal illness",
-      "summary": "In a plot twist that could make a drama series jealous, Brahms was diagnosed with jaundice and then liver cancer. It was a shocking revelation for the composer who was busy composing beautiful music, not a hospital drama!",
-      "year": 1896,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Last public appearance",
-      "summary": "Brahms made a memorable exit from the concert stage, attending the performance of his Symphony No. 4. The audience erupted in applause after each movement, making it his grand finale \u2013 the kind that every performer secretly dreams of.",
-      "year": 1897,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Death",
-      "summary": "Brahms passed away at the age of 63, leaving behind a legacy of music sweeter than a Viennese pastry. He was buried under a monument befitting a musical genius, proving that even after death, his artistry continued to resonate.",
-      "year": 1897,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Streicher Piano Acquisition",
-      "summary": "In a melodious twist of fate, Brahms received a Streicher piano, which he adored and claimed helped him understand his musical genius. He felt the instrument was his trusted confidant, always enabling him to decipher the mysteries of composition with flair and finesse.",
-      "year": 1873,
-      "city": "Unknown",
-      "country": "Unknown"
-    },
-    {
-      "event": "Use of B\u00f6sendorfer for Performances",
-      "summary": "During the flamboyant 1880s, Brahms upgraded his performance game by utilizing a B\u00f6sendorfer piano, embracing the luxury of sound it offered. Each concert was an adventure, with the piano helping him charm audiences and possibly distract them from his quirky on-stage antics.",
-      "year": 1880,
-      "city": "Unknown",
-      "country": "Unknown"
-    },
-    {
-      "event": "First Symphony Composition",
-      "summary": "Brahms's First Symphony, a product of his relentless dedication and self-doubt, finally made its grand entrance into the world. It was so anticipated that its debut could have had its own red carpet event, complete with dazzling reviews and a few raised eyebrows.",
-      "year": 1876,
-      "city": "Unknown",
-      "country": "Unknown"
-    },
-    {
-      "event": "Support to Dvo\u0159\u00e1k",
-      "summary": "Brahms played a mentor role to Anton\u00edn Dvo\u0159\u00e1k, providing not just guidance but a genuine friendship. Their musical camaraderie flourished, proving to be a win-win\u2014Dvo\u0159\u00e1k got a cheering section, and Brahms enjoyed the youthful enthusiasm that kept his creative light burning.",
-      "year": 1880,
-      "city": "Unknown",
-      "country": "Unknown"
-    },
-    {
-      "event": "First Publication",
-      "summary": "At a young age, Brahms published some piano music that showcased his talent. It was so impressive that some said, 'If only we had known he was this good, we would have started charging for music lessons!'",
-      "year": 1853,
-      "city": "Hamburg",
-      "country": "Germany"
-    },
-    {
-      "event": "Move to Vienna",
-      "summary": "Brahms decided to pack his bags and move to Vienna, where he would become a musical giant. It was there he found himself in a city where the coffee was strong and the concert halls were grand.",
-      "year": 1862,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Debut Symphony",
-      "summary": "After years of hard work, Brahms finally premiered his First Symphony. It was so highly anticipated that the attendees were practically foaming at the mouth, not just for the music but for the excitement!",
-      "year": 1876,
-      "city": "Carlsruhe",
-      "country": "Germany"
-    },
-    {
-      "event": "Musical Recognition",
-      "summary": "Brahms received acclaim from both critics and the public alike, allowing him to roam the musical landscape with the confidence of a lion in a cat show.",
-      "year": 1880,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Last Major Work",
-      "summary": "Brahms completed his final work, a set of pieces for piano, capturing the beauty of his career and proving he could still surprise audiences. It was like he was saying, 'Surprise! I can still compose!'",
-      "year": 1890,
-      "city": "Vienna",
-      "country": "Austria"
+      "location": "Vienna",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Brahms decided to check out of this earthly hotel while bravely battling liver cancer, leaving behind a treasure chest of symphonic and choral works, and some fabulous chamber music, which are way more enjoyable than the tiny shampoo bottles you get in hotels!"
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/Academic_Festival_Overture,_Op.80_(Brahms,_Johannes)",
-      "year": 1880,
-      "title": "Academic Festival Overture, Op.80"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Albumblatt_f%C3%BCr_Clara_Schumann_(Brahms,_Johannes)",
-      "year": 1868,
-      "title": "Albumblatt f\u00fcr Clara Schumann"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Alto_Rhapsody,_Op.53_(Brahms,_Johannes)",
-      "year": 1869,
-      "title": "Alto Rhapsody, Op.53"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ave_Maria,_Op.12_(Brahms,_Johannes)",
-      "year": 1858,
-      "title": "Ave Maria, Op.12"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Ballades_and_Romances,_Op.75_(Brahms,_Johannes)",
-      "year": 1877,
-      "title": "4 Ballades and Romances, Op.75"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Ballades,_Op.10_(Brahms,_Johannes)",
-      "year": 1854,
-      "title": "4 Ballades, Op.10"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Begr%C3%A4bnisgesang,_Op.13_(Brahms,_Johannes)",
-      "year": 1858,
-      "title": "Begr\u00e4bnisgesang, Op.13"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/13_Canons,_Op.113_(Brahms,_Johannes)",
-      "year": 1859,
-      "title": "13 Canons, Op.113"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Cello_Sonata_No.1,_Op.38_(Brahms,_Johannes)",
-      "year": 1862,
-      "title": "Cello Sonata No.1, Op.38"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Cello_Sonata_No.2,_Op.99_(Brahms,_Johannes)",
-      "year": 1886,
-      "title": "Cello Sonata No.2, Op.99"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Chorale_Prelude_and_Fugue_on_%27O_Traurigkeit,_o_Herzeleid%27,_WoO_7_(Brahms,_Johannes)",
-      "year": 1858,
-      "title": "Chorale Prelude and Fugue on 'O Traurigkeit, o Herzeleid', WoO 7"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/11_Chorale_Preludes,_Op.122_(Brahms,_Johannes)",
-      "year": 1896,
-      "title": "11 Chorale Preludes, Op.122"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Clarinet_Quintet,_Op.115_(Brahms,_Johannes)",
-      "year": 1891,
-      "title": "Clarinet Quintet, Op.115"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Clarinet_Sonata_No.1,_Op.120_No.1_(Brahms,_Johannes)",
-      "year": 1894,
-      "title": "Clarinet Sonata No.1, Op.120 No.1"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Clarinet_Sonata_No.2,_Op.120_No.2_(Brahms,_Johannes)",
-      "year": 1894,
-      "title": "Clarinet Sonata No.2, Op.120 No.2"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Clarinet_Trio,_Op.114_(Brahms,_Johannes)",
-      "year": 1891,
-      "title": "Clarinet Trio, Op.114"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Concerto_for_Violin_and_Cello,_Op.102_(Brahms,_Johannes)",
-      "year": 1887,
-      "title": "Concerto for Violin and Cello, Op.102"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/28_Deutsche_Volkslieder,_WoO_32_(Brahms,_Johannes)",
-      "year": 1858,
-      "title": "28 Deutsche Volkslieder, WoO 32"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/49_Deutsche_Volkslieder,_WoO_33_(Brahms,_Johannes)",
-      "year": 1893,
-      "title": "49 Deutsche Volkslieder, WoO 33"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/14_Deutsche_Volkslieder,_WoO_34_(Brahms,_Johannes)",
-      "year": 1857,
-      "title": "14 Deutsche Volkslieder, WoO 34"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ein_deutsches_Requiem,_Op.45_(Brahms,_Johannes)",
-      "year": 1865,
-      "title": "Ein deutsches Requiem, Op.45"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Duets,_Op.20_(Brahms,_Johannes)",
-      "year": 1858,
-      "title": "3 Duets, Op.20"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Duets,_Op.28_(Brahms,_Johannes)",
-      "year": 1860,
-      "title": "4 Duets, Op.28"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Duets,_Op.61_(Brahms,_Johannes)",
-      "year": 1852,
-      "title": "4 Duets, Op.61"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Duets,_Op.66_(Brahms,_Johannes)",
-      "year": 1873,
-      "title": "5 Duets, Op.66"
-    },
-    {
+      "title": "51 Exercises, WoO 6",
       "imslp_url": "https://imslp.org/wiki/51_Exercises,_WoO_6_(Brahms,_Johannes)",
-      "year": 1850,
-      "title": "51 Exercises, WoO 6"
+      "year": 1850
     },
     {
-      "imslp_url": "https://imslp.org/wiki/7_Fantasien,_Op.116_(Brahms,_Johannes)",
-      "year": 1892,
-      "title": "7 Fantasien, Op.116"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fest-_und_Gedenkspr%C3%BCche,_Op.109_(Brahms,_Johannes)",
-      "year": 1888,
-      "title": "Fest- und Gedenkspr\u00fcche, Op.109"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fugue,_WoO_8_(Brahms,_Johannes)",
-      "year": 1856,
-      "title": "Fugue, WoO 8"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Geistliches_Lied,_Op.30_(Brahms,_Johannes)",
-      "year": 1856,
-      "title": "Geistliches Lied, Op.30"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Gesang_der_Parzen,_Op.89_(Brahms,_Johannes)",
-      "year": 1882,
-      "title": "Gesang der Parzen, Op.89"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Ges%C3%A4nge,_Op.70_(Brahms,_Johannes)",
-      "year": 1875,
-      "title": "4 Ges\u00e4nge, Op.70"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Ges%C3%A4nge,_Op.91_(Brahms,_Johannes)",
-      "year": 1884,
-      "title": "2 Ges\u00e4nge, Op.91"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Ges%C3%A4nge,_Op.104_(Brahms,_Johannes)",
-      "year": 1886,
-      "title": "5 Ges\u00e4nge, Op.104"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Gigues,_WoO_4_(Brahms,_Johannes)",
-      "year": 1855,
-      "title": "2 Gigues, WoO 4"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Horn_Trio,_Op.40_(Brahms,_Johannes)",
-      "year": 1865,
-      "title": "Horn Trio, Op.40"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/21_Hungarian_Dances_(Orchestra),_WoO_1_(Brahms,_Johannes)",
-      "year": 1858,
-      "title": "21 Hungarian Dances"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/21_Hungarian_Dances_(Piano),_WoO_1_(Brahms,_Johannes)",
-      "year": 1858,
-      "title": "21 Hungarian Dances"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Intermezzi,_Op.117_(Brahms,_Johannes)",
-      "year": 1892,
-      "title": "3 Intermezzi, Op.117"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/8_Klavierst%C3%BCcke,_Op.76_(Brahms,_Johannes)",
-      "year": 1871,
-      "title": "8 Klavierst\u00fccke, Op.76"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Klavierst%C3%BCcke,_Op.118_(Brahms,_Johannes)",
-      "year": 1893,
-      "title": "6 Klavierst\u00fccke, Op.118"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Klavierst%C3%BCcke,_Op.119_(Brahms,_Johannes)",
-      "year": 1893,
-      "title": "4 Klavierst\u00fccke, Op.119"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Liebeslieder_Waltzes,_Op.52_(Brahms,_Johannes)",
-      "year": 1869,
-      "title": "Liebeslieder Waltzes, Op.52"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/8_Lieder_and_Romances,_Op.14_(Brahms,_Johannes)",
-      "year": 1858,
-      "title": "8 Lieder and Romances, Op.14"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/12_Lieder_and_Romances,_Op.44_(Brahms,_Johannes)",
-      "year": 1859,
-      "title": "12 Lieder and Romances, Op.44"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Lieder_and_Romances,_Op.93a_(Brahms,_Johannes)",
-      "year": 1883,
-      "title": "6 Lieder and Romances, Op.93a"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/9_Lieder_and_Songs,_Op.32_(Brahms,_Johannes)",
-      "year": 1864,
-      "title": "9 Lieder and Songs, Op.32"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/8_Lieder_and_Songs,_Op.57_(Brahms,_Johannes)",
-      "year": 1871,
-      "title": "8 Lieder and Songs, Op.57"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/8_Lieder_and_Songs,_Op.58_(Brahms,_Johannes)",
-      "year": 1871,
-      "title": "8 Lieder and Songs, Op.58"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes)",
-      "year": 1870,
-      "title": "8 Lieder and Songs, Op.59"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/9_Lieder_and_Songs,_Op.63_(Brahms,_Johannes)",
-      "year": 1873,
-      "title": "9 Lieder and Songs, Op.63"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Lieder,_Op.41_(Brahms,_Johannes)",
-      "year": 1861,
-      "title": "5 Lieder, Op.41"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Lieder,_Op.46_(Brahms,_Johannes)",
-      "year": 1864,
-      "title": "4 Lieder, Op.46"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Lieder,_Op.47_(Brahms,_Johannes)",
-      "year": 1858,
-      "title": "5 Lieder, Op.47"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/7_Lieder,_Op.48_(Brahms,_Johannes)",
-      "year": 1853,
-      "title": "7 Lieder, Op.48"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Lieder,_Op.49_(Brahms,_Johannes)",
-      "year": 1867,
-      "title": "5 Lieder, Op.49"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/7_Lieder,_Op.62_(Brahms,_Johannes)",
-      "year": 1873,
-      "title": "7 Lieder, Op.62"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.85_(Brahms,_Johannes)",
-      "year": 1878,
-      "title": "6 Lieder, Op.85"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.86_(Brahms,_Johannes)",
-      "year": 1877,
-      "title": "6 Lieder, Op.86"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Lieder,_Op.94_(Brahms,_Johannes)",
-      "year": 1883,
-      "title": "5 Lieder, Op.94"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/7_Lieder,_Op.95_(Brahms,_Johannes)",
-      "year": 1883,
-      "title": "7 Lieder, Op.95"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Lieder,_Op.96_(Brahms,_Johannes)",
-      "year": 1884,
-      "title": "4 Lieder, Op.96"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.97_(Brahms,_Johannes)",
-      "year": 1885,
-      "title": "6 Lieder, Op.97"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Lieder,_Op.105_(Brahms,_Johannes)",
-      "year": 1886,
-      "title": "5 Lieder, Op.105"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Lieder,_Op.106_(Brahms,_Johannes)",
-      "year": 1885,
-      "title": "5 Lieder, Op.106"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Lieder,_Op.107_(Brahms,_Johannes)",
-      "year": 1886,
-      "title": "5 Lieder, Op.107"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Marienlieder,_Op.22_(Brahms,_Johannes)",
-      "year": 1859,
-      "title": "Marienlieder, Op.22"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Mir_l%C3%A4chelt_kein_Fr%C3%BChling,_WoO_25_(Brahms,_Johannes)",
-      "year": 1881,
-      "title": "Mir l\u00e4chelt kein Fr\u00fchling, WoO 25"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Missa_canonica,_WoO_18_(Brahms,_Johannes)",
-      "year": 1856,
-      "title": "Missa canonica, WoO 18"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Mondnacht,_WoO_21_(Brahms,_Johannes)",
-      "year": 1853,
-      "title": "Mondnacht, WoO 21"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Motets,_Op.29_(Brahms,_Johannes)",
-      "year": 1856,
-      "title": "2 Motets, Op.29"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Motets,_Op.74_(Brahms,_Johannes)",
-      "year": 1863,
-      "title": "2 Motets, Op.74"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Motets,_Op.110_(Brahms,_Johannes)",
-      "year": 1889,
-      "title": "3 Motets, Op.110"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/N%C3%A4nie,_Op.82_(Brahms,_Johannes)",
-      "year": 1880,
-      "title": "N\u00e4nie, Op.82"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Neue_Liebeslieder_Waltzes,_Op.65_(Brahms,_Johannes)",
-      "year": 1869,
-      "title": "Neue Liebeslieder Waltzes, Op.65"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.1,_Op.15_(Brahms,_Johannes)",
-      "year": 1854,
-      "title": "Piano Concerto No.1, Op.15"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.2,_Op.83_(Brahms,_Johannes)",
-      "year": 1878,
-      "title": "Piano Concerto No.2, Op.83"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Quartet_No.1,_Op.25_(Brahms,_Johannes)",
-      "year": 1861,
-      "title": "Piano Quartet No.1, Op.25"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Quartet_No.2,_Op.26_(Brahms,_Johannes)",
-      "year": 1861,
-      "title": "Piano Quartet No.2, Op.26"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Quartet_No.3,_Op.60_(Brahms,_Johannes)",
-      "year": 1855,
-      "title": "Piano Quartet No.3, Op.60"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Quintet,_Op.34_(Brahms,_Johannes)",
-      "year": 1864,
-      "title": "Piano Quintet, Op.34"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.1,_Op.1_(Brahms,_Johannes)",
-      "year": 1852,
-      "title": "Piano Sonata No.1, Op.1"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.2,_Op.2_(Brahms,_Johannes)",
-      "year": 1852,
-      "title": "Piano Sonata No.2, Op.2"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.3,_Op.5_(Brahms,_Johannes)",
-      "year": 1853,
-      "title": "Piano Sonata No.3, Op.5"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.1,_Op.8_(Brahms,_Johannes)",
-      "year": 1853,
-      "title": "Piano Trio No.1, Op.8"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.2,_Op.87_(Brahms,_Johannes)",
-      "year": 1880,
-      "title": "Piano Trio No.2, Op.87"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.3,_Op.101_(Brahms,_Johannes)",
-      "year": 1886,
-      "title": "Piano Trio No.3, Op.101"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.4_in_A_major,_Anh.4/5_(Brahms,_Johannes)",
-      "year": 1865,
-      "title": "Piano Trio No.4 in A major, Anh.4/5"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Poems,_Op.19_(Brahms,_Johannes)",
-      "year": 1858,
-      "title": "5 Poems, Op.19"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Prelude_and_Fugue,_WoO_9_(Brahms,_Johannes)",
-      "year": 1856,
-      "title": "Prelude and Fugue, WoO 9"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Prelude_and_Fugue,_WoO_10_(Brahms,_Johannes)",
-      "year": 1857,
-      "title": "Prelude and Fugue, WoO 10"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Psalm_13,_Op.27_(Brahms,_Johannes)",
-      "year": 1859,
-      "title": "Psalm 13, Op.27"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Quartets,_Op.31_(Brahms,_Johannes)",
-      "year": 1859,
-      "title": "3 Quartets, Op.31"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Quartets,_Op.64_(Brahms,_Johannes)",
-      "year": 1864,
-      "title": "3 Quartets, Op.64"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Quartets,_Op.92_(Brahms,_Johannes)",
-      "year": 1877,
-      "title": "4 Quartets, Op.92"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Quartets,_Op.112_(Brahms,_Johannes)",
-      "year": 1888,
-      "title": "6 Quartets, Op.112"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Regenlied,_WoO_23_(Brahms,_Johannes)",
-      "year": 1872,
-      "title": "Regenlied, WoO 23"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Rhapsodies,_Op.79_(Brahms,_Johannes)",
-      "year": 1879,
-      "title": "2 Rhapsodies, Op.79"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Rinaldo,_Op.50_(Brahms,_Johannes)",
-      "year": 1863,
-      "title": "Rinaldo, Op.50"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Romances_and_Songs,_Op.84_(Brahms,_Johannes)",
-      "year": 1881,
-      "title": "5 Romances and Songs, Op.84"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/15_Romanzen_aus_L._Tiecks_Magelone,_Op.33_(Brahms,_Johannes)",
-      "year": 1861,
-      "title": "15 Romanzen aus L. Tiecks Magelone, Op.33"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Sacred_Choruses,_Op.37_(Brahms,_Johannes)",
-      "year": 1859,
-      "title": "3 Sacred Choruses, Op.37"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Sarabandes,_WoO_5_(Brahms,_Johannes)",
-      "year": 1854,
-      "title": "2 Sarabandes, WoO 5"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Scherzo,_Op.4_(Brahms,_Johannes)",
-      "year": 1851,
-      "title": "Scherzo, Op.4"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Schicksalslied,_Op.54_(Brahms,_Johannes)",
-      "year": 1868,
-      "title": "Schicksalslied, Op.54"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Serenade_No.1,_Op.11_(Brahms,_Johannes)",
-      "year": 1857,
-      "title": "Serenade No.1, Op.11"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Serenade_No.2,_Op.16_(Brahms,_Johannes)",
-      "year": 1858,
-      "title": "Serenade No.2, Op.16"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Serious_Songs,_Op.121_(Brahms,_Johannes)",
-      "year": 1896,
-      "title": "4 Serious Songs, Op.121"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Sonata_for_2_Pianos,_Op.34b_(Brahms,_Johannes)",
-      "year": 1864,
-      "title": "Sonata for 2 Pianos, Op.34b"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Songs,_Op.3_(Brahms,_Johannes)",
-      "year": 1852,
-      "title": "6 Songs, Op.3"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Songs,_Op.6_(Brahms,_Johannes)",
-      "year": 1852,
-      "title": "6 Songs, Op.6"
-    },
-    {
+      "title": "6 Songs, Op.7",
       "imslp_url": "https://imslp.org/wiki/6_Songs,_Op.7_(Brahms,_Johannes)",
-      "year": 1851,
-      "title": "6 Songs, Op.7"
+      "year": 1851
     },
     {
-      "imslp_url": "https://imslp.org/wiki/4_Songs,_Op.17_(Brahms,_Johannes)",
-      "year": 1860,
-      "title": "4 Songs, Op.17"
+      "title": "Scherzo, Op.4",
+      "imslp_url": "https://imslp.org/wiki/Scherzo,_Op.4_(Brahms,_Johannes)",
+      "year": 1851
     },
     {
-      "imslp_url": "https://imslp.org/wiki/3_Songs,_Op.42_(Brahms,_Johannes)",
-      "year": 1859,
-      "title": "3 Songs, Op.42"
+      "title": "4 Duets, Op.61",
+      "imslp_url": "https://imslp.org/wiki/4_Duets,_Op.61_(Brahms,_Johannes)",
+      "year": 1852
     },
     {
-      "imslp_url": "https://imslp.org/wiki/4_Songs,_Op.43_(Brahms,_Johannes)",
-      "year": 1857,
-      "title": "4 Songs, Op.43"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/9_Songs,_Op.69_(Brahms,_Johannes)",
-      "year": 1877,
-      "title": "9 Songs, Op.69"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Songs,_Op.71_(Brahms,_Johannes)",
-      "year": 1877,
-      "title": "5 Songs, Op.71"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Songs,_Op.72_(Brahms,_Johannes)",
-      "year": 1876,
-      "title": "5 Songs, Op.72"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Spruch,_WoO_27_(Brahms,_Johannes)",
-      "year": 1854,
-      "title": "Spruch, WoO 27"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1,_Op.51_No.1_(Brahms,_Johannes)",
-      "year": 1865,
-      "title": "String Quartet No.1, Op.51 No.1"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2,_Op.51_No.2_(Brahms,_Johannes)",
-      "year": 1873,
-      "title": "String Quartet No.2, Op.51 No.2"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.3,_Op.67_(Brahms,_Johannes)",
-      "year": 1875,
-      "title": "String Quartet No.3, Op.67"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quintet_No.1,_Op.88_(Brahms,_Johannes)",
-      "year": 1882,
-      "title": "String Quintet No.1, Op.88"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quintet_No.2,_Op.111_(Brahms,_Johannes)",
-      "year": 1890,
-      "title": "String Quintet No.2, Op.111"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Sextet_No.1,_Op.18_(Brahms,_Johannes)",
-      "year": 1859,
-      "title": "String Sextet No.1, Op.18"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Sextet_No.2,_Op.36_(Brahms,_Johannes)",
-      "year": 1864,
-      "title": "String Sextet No.2, Op.36"
-    },
-    {
+      "title": "5 Studies, Anh.1a/1",
       "imslp_url": "https://imslp.org/wiki/5_Studies,_Anh.1a/1_(Brahms,_Johannes)",
-      "year": 1852,
-      "title": "5 Studies, Anh.1a/1"
+      "year": 1852
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.1,_Op.68_(Brahms,_Johannes)",
-      "year": 1862,
-      "title": "Symphony No.1, Op.68"
+      "title": "6 Songs, Op.3",
+      "imslp_url": "https://imslp.org/wiki/6_Songs,_Op.3_(Brahms,_Johannes)",
+      "year": 1852
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.2,_Op.73_(Brahms,_Johannes)",
-      "year": 1877,
-      "title": "Symphony No.2, Op.73"
+      "title": "6 Songs, Op.6",
+      "imslp_url": "https://imslp.org/wiki/6_Songs,_Op.6_(Brahms,_Johannes)",
+      "year": 1852
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.3,_Op.90_(Brahms,_Johannes)",
-      "year": 1883,
-      "title": "Symphony No.3, Op.90"
+      "title": "Piano Sonata No.1, Op.1",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.1,_Op.1_(Brahms,_Johannes)",
+      "year": 1852
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.4,_Op.98_(Brahms,_Johannes)",
-      "year": 1884,
-      "title": "Symphony No.4, Op.98"
+      "title": "Piano Sonata No.2, Op.2",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.2,_Op.2_(Brahms,_Johannes)",
+      "year": 1852
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Tafellied,_Op.93b_(Brahms,_Johannes)",
-      "year": 1884,
-      "title": "Tafellied, Op.93b"
+      "title": "7 Lieder, Op.48",
+      "imslp_url": "https://imslp.org/wiki/7_Lieder,_Op.48_(Brahms,_Johannes)",
+      "year": 1853
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Theme_and_Variations,_Op.18b_(Brahms,_Johannes)",
-      "year": 1860,
-      "title": "Theme and Variations, Op.18b"
+      "title": "Mondnacht, WoO 21",
+      "imslp_url": "https://imslp.org/wiki/Mondnacht,_WoO_21_(Brahms,_Johannes)",
+      "year": 1853
     },
     {
-      "imslp_url": "https://imslp.org/wiki/T%C3%B6ne,_lindernder_Klang,_WoO_28_(Brahms,_Johannes)",
-      "year": 1872,
-      "title": "T\u00f6ne, lindernder Klang, WoO 28"
+      "title": "Piano Sonata No.3, Op.5",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.3,_Op.5_(Brahms,_Johannes)",
+      "year": 1853
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Tragic_Overture,_Op.81_(Brahms,_Johannes)",
-      "year": 1880,
-      "title": "Tragic Overture, Op.81"
+      "title": "Piano Trio No.1, Op.8",
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.1,_Op.8_(Brahms,_Johannes)",
+      "year": 1853
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Triumphlied,_Op.55_(Brahms,_Johannes)",
-      "year": 1870,
-      "title": "Triumphlied, Op.55"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Variations_and_Fugue_on_a_Theme_by_Handel,_Op.24_(Brahms,_Johannes)",
-      "year": 1861,
-      "title": "Variations and Fugue on a Theme by Handel, Op.24"
-    },
-    {
+      "title": "Variations on a Hungarian Song, Op.21 No.2",
       "imslp_url": "https://imslp.org/wiki/Variations_on_a_Hungarian_Song,_Op.21_No.2_(Brahms,_Johannes)",
-      "year": 1853,
-      "title": "Variations on a Hungarian Song, Op.21 No.2"
+      "year": 1853
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Variations_on_a_Theme_by_Haydn,_Op.56_(Brahms,_Johannes)",
-      "year": 1873,
-      "title": "Variations on a Theme by Haydn, Op.56"
+      "title": "2 Sarabandes, WoO 5",
+      "imslp_url": "https://imslp.org/wiki/2_Sarabandes,_WoO_5_(Brahms,_Johannes)",
+      "year": 1854
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Variations_on_a_Theme_by_Paganini,_Op.35_(Brahms,_Johannes)",
-      "year": 1862,
-      "title": "Variations on a Theme by Paganini, Op.35"
+      "title": "4 Ballades, Op.10",
+      "imslp_url": "https://imslp.org/wiki/4_Ballades,_Op.10_(Brahms,_Johannes)",
+      "year": 1854
     },
     {
+      "title": "Piano Concerto No.1, Op.15",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.1,_Op.15_(Brahms,_Johannes)",
+      "year": 1854
+    },
+    {
+      "title": "Spruch, WoO 27",
+      "imslp_url": "https://imslp.org/wiki/Spruch,_WoO_27_(Brahms,_Johannes)",
+      "year": 1854
+    },
+    {
+      "title": "Variations on a Theme by Robert Schumann, Op.9",
       "imslp_url": "https://imslp.org/wiki/Variations_on_a_Theme_by_Robert_Schumann,_Op.9_(Brahms,_Johannes)",
-      "year": 1854,
-      "title": "Variations on a Theme by Robert Schumann, Op.9"
+      "year": 1854
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Variations_on_a_Theme_by_Robert_Schumann,_Op.23_(Brahms,_Johannes)",
-      "year": 1861,
-      "title": "Variations on a Theme by Robert Schumann, Op.23"
+      "title": "2 Gigues, WoO 4",
+      "imslp_url": "https://imslp.org/wiki/2_Gigues,_WoO_4_(Brahms,_Johannes)",
+      "year": 1855
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Variations_on_an_Original_Theme,_Op.21_No.1_(Brahms,_Johannes)",
-      "year": 1857,
-      "title": "Variations on an Original Theme, Op.21 No.1"
+      "title": "Piano Quartet No.3, Op.60",
+      "imslp_url": "https://imslp.org/wiki/Piano_Quartet_No.3,_Op.60_(Brahms,_Johannes)",
+      "year": 1855
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Violin_Concerto,_Op.77_(Brahms,_Johannes)",
-      "year": 1878,
-      "title": "Violin Concerto, Op.77"
+      "title": "2 Motets, Op.29",
+      "imslp_url": "https://imslp.org/wiki/2_Motets,_Op.29_(Brahms,_Johannes)",
+      "year": 1856
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.1,_Op.78_(Brahms,_Johannes)",
-      "year": 1878,
-      "title": "Violin Sonata No.1, Op.78"
+      "title": "Fugue, WoO 8",
+      "imslp_url": "https://imslp.org/wiki/Fugue,_WoO_8_(Brahms,_Johannes)",
+      "year": 1856
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.2,_Op.100_(Brahms,_Johannes)",
-      "year": 1886,
-      "title": "Violin Sonata No.2, Op.100"
+      "title": "Geistliches Lied, Op.30",
+      "imslp_url": "https://imslp.org/wiki/Geistliches_Lied,_Op.30_(Brahms,_Johannes)",
+      "year": 1856
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.3,_Op.108_(Brahms,_Johannes)",
-      "year": 1886,
-      "title": "Violin Sonata No.3, Op.108"
+      "title": "Missa canonica, WoO 18",
+      "imslp_url": "https://imslp.org/wiki/Missa_canonica,_WoO_18_(Brahms,_Johannes)",
+      "year": 1856
     },
     {
+      "title": "Prelude and Fugue, WoO 9",
+      "imslp_url": "https://imslp.org/wiki/Prelude_and_Fugue,_WoO_9_(Brahms,_Johannes)",
+      "year": 1856
+    },
+    {
+      "title": "14 Deutsche Volkslieder, WoO 34",
+      "imslp_url": "https://imslp.org/wiki/14_Deutsche_Volkslieder,_WoO_34_(Brahms,_Johannes)",
+      "year": 1857
+    },
+    {
+      "title": "15 Volkskinderlieder, WoO 31",
       "imslp_url": "https://imslp.org/wiki/15_Volkskinderlieder,_WoO_31_(Brahms,_Johannes)",
-      "year": 1857,
-      "title": "15 Volkskinderlieder, WoO 31"
+      "year": 1857
     },
     {
-      "imslp_url": "https://imslp.org/wiki/16_Waltzes,_Op.39_(Brahms,_Johannes)",
-      "year": 1865,
-      "title": "16 Waltzes, Op.39"
+      "title": "4 Songs, Op.43",
+      "imslp_url": "https://imslp.org/wiki/4_Songs,_Op.43_(Brahms,_Johannes)",
+      "year": 1857
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Wann%3F,_WoO_29_(Brahms,_Johannes)",
-      "year": 1885,
-      "title": "Wann?, WoO 29"
+      "title": "Prelude and Fugue, WoO 10",
+      "imslp_url": "https://imslp.org/wiki/Prelude_and_Fugue,_WoO_10_(Brahms,_Johannes)",
+      "year": 1857
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Zigeunerlieder,_Op.103_(Brahms,_Johannes)",
-      "year": 1887,
-      "title": "Zigeunerlieder, Op.103"
+      "title": "Serenade No.1, Op.11",
+      "imslp_url": "https://imslp.org/wiki/Serenade_No.1,_Op.11_(Brahms,_Johannes)",
+      "year": 1857
     },
     {
-      "imslp_url": "https://imslp.org/wiki/3_Intermezzi_(Brahms,_Johannes)",
-      "year": 1894,
-      "title": "3 Intermezzi"
+      "title": "Variations on an Original Theme, Op.21 No.1",
+      "imslp_url": "https://imslp.org/wiki/Variations_on_an_Original_Theme,_Op.21_No.1_(Brahms,_Johannes)",
+      "year": 1857
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Souvenir_de_la_Russie,_Anh.4/6_(Brahms,_Johannes)",
-      "year": 1852,
-      "title": "Souvenir de la Russie, Anh.4/6"
+      "title": "21 Hungarian Dances (Orchestra), WoO 1",
+      "imslp_url": "https://imslp.org/wiki/21_Hungarian_Dances_(Orchestra),_WoO_1_(Brahms,_Johannes)",
+      "year": 1858
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Gavotte_von_Christ._W._Gluck_(Brahms,_Johannes)",
-      "year": 1871,
-      "title": "Gavotte von Christ. W. Gluck"
-    },
-    {
+      "title": "21 Hungarian Dances (Piano), WoO 1",
       "imslp_url": "https://imslp.org/wiki/21_Hungarian_Dances_(Piano),_WoO_1_(Brahms,_Johannes)",
-      "year": 1858,
-      "title": "21 Hungarian Dances"
+      "year": 1858
+    },
+    {
+      "title": "28 Deutsche Volkslieder, WoO 32",
+      "imslp_url": "https://imslp.org/wiki/28_Deutsche_Volkslieder,_WoO_32_(Brahms,_Johannes)",
+      "year": 1858
+    },
+    {
+      "title": "3 Duets, Op.20",
+      "imslp_url": "https://imslp.org/wiki/3_Duets,_Op.20_(Brahms,_Johannes)",
+      "year": 1858
+    },
+    {
+      "title": "5 Lieder, Op.47",
+      "imslp_url": "https://imslp.org/wiki/5_Lieder,_Op.47_(Brahms,_Johannes)",
+      "year": 1858
+    },
+    {
+      "title": "5 Poems, Op.19",
+      "imslp_url": "https://imslp.org/wiki/5_Poems,_Op.19_(Brahms,_Johannes)",
+      "year": 1858
+    },
+    {
+      "title": "8 Lieder and Romances, Op.14",
+      "imslp_url": "https://imslp.org/wiki/8_Lieder_and_Romances,_Op.14_(Brahms,_Johannes)",
+      "year": 1858
+    },
+    {
+      "title": "Ave Maria, Op.12",
+      "imslp_url": "https://imslp.org/wiki/Ave_Maria,_Op.12_(Brahms,_Johannes)",
+      "year": 1858
+    },
+    {
+      "title": "Begr\u00e4bnisgesang, Op.13",
+      "imslp_url": "https://imslp.org/wiki/Begr\u00e4bnisgesang,_Op.13_(Brahms,_Johannes)",
+      "year": 1858
+    },
+    {
+      "title": "Chorale Prelude and Fugue on 'O Traurigkeit, o Herzeleid', WoO 7",
+      "imslp_url": "https://imslp.org/wiki/Chorale_Prelude_and_Fugue_on_'O_Traurigkeit,_o_Herzeleid',_WoO_7_(Brahms,_Johannes)",
+      "year": 1858
+    },
+    {
+      "title": "Serenade No.2, Op.16",
+      "imslp_url": "https://imslp.org/wiki/Serenade_No.2,_Op.16_(Brahms,_Johannes)",
+      "year": 1858
+    },
+    {
+      "title": "12 Lieder and Romances, Op.44",
+      "imslp_url": "https://imslp.org/wiki/12_Lieder_and_Romances,_Op.44_(Brahms,_Johannes)",
+      "year": 1859
+    },
+    {
+      "title": "13 Canons, Op.113",
+      "imslp_url": "https://imslp.org/wiki/13_Canons,_Op.113_(Brahms,_Johannes)",
+      "year": 1859
+    },
+    {
+      "title": "3 Quartets, Op.31",
+      "imslp_url": "https://imslp.org/wiki/3_Quartets,_Op.31_(Brahms,_Johannes)",
+      "year": 1859
+    },
+    {
+      "title": "3 Sacred Choruses, Op.37",
+      "imslp_url": "https://imslp.org/wiki/3_Sacred_Choruses,_Op.37_(Brahms,_Johannes)",
+      "year": 1859
+    },
+    {
+      "title": "3 Songs, Op.42",
+      "imslp_url": "https://imslp.org/wiki/3_Songs,_Op.42_(Brahms,_Johannes)",
+      "year": 1859
+    },
+    {
+      "title": "Marienlieder, Op.22",
+      "imslp_url": "https://imslp.org/wiki/Marienlieder,_Op.22_(Brahms,_Johannes)",
+      "year": 1859
+    },
+    {
+      "title": "Psalm 13, Op.27",
+      "imslp_url": "https://imslp.org/wiki/Psalm_13,_Op.27_(Brahms,_Johannes)",
+      "year": 1859
+    },
+    {
+      "title": "String Sextet No.1, Op.18",
+      "imslp_url": "https://imslp.org/wiki/String_Sextet_No.1,_Op.18_(Brahms,_Johannes)",
+      "year": 1859
+    },
+    {
+      "title": "4 Duets, Op.28",
+      "imslp_url": "https://imslp.org/wiki/4_Duets,_Op.28_(Brahms,_Johannes)",
+      "year": 1860
+    },
+    {
+      "title": "4 Songs, Op.17",
+      "imslp_url": "https://imslp.org/wiki/4_Songs,_Op.17_(Brahms,_Johannes)",
+      "year": 1860
+    },
+    {
+      "title": "Theme and Variations, Op.18b",
+      "imslp_url": "https://imslp.org/wiki/Theme_and_Variations,_Op.18b_(Brahms,_Johannes)",
+      "year": 1860
+    },
+    {
+      "title": "15 Romanzen aus L. Tiecks Magelone, Op.33",
+      "imslp_url": "https://imslp.org/wiki/15_Romanzen_aus_L._Tiecks_Magelone,_Op.33_(Brahms,_Johannes)",
+      "year": 1861
+    },
+    {
+      "title": "5 Lieder, Op.41",
+      "imslp_url": "https://imslp.org/wiki/5_Lieder,_Op.41_(Brahms,_Johannes)",
+      "year": 1861
+    },
+    {
+      "title": "Piano Quartet No.1, Op.25",
+      "imslp_url": "https://imslp.org/wiki/Piano_Quartet_No.1,_Op.25_(Brahms,_Johannes)",
+      "year": 1861
+    },
+    {
+      "title": "Piano Quartet No.2, Op.26",
+      "imslp_url": "https://imslp.org/wiki/Piano_Quartet_No.2,_Op.26_(Brahms,_Johannes)",
+      "year": 1861
+    },
+    {
+      "title": "Variations and Fugue on a Theme by Handel, Op.24",
+      "imslp_url": "https://imslp.org/wiki/Variations_and_Fugue_on_a_Theme_by_Handel,_Op.24_(Brahms,_Johannes)",
+      "year": 1861
+    },
+    {
+      "title": "Variations on a Theme by Robert Schumann, Op.23",
+      "imslp_url": "https://imslp.org/wiki/Variations_on_a_Theme_by_Robert_Schumann,_Op.23_(Brahms,_Johannes)",
+      "year": 1861
+    },
+    {
+      "title": "Cello Sonata No.1, Op.38",
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata_No.1,_Op.38_(Brahms,_Johannes)",
+      "year": 1862
+    },
+    {
+      "title": "Symphony No.1, Op.68",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.1,_Op.68_(Brahms,_Johannes)",
+      "year": 1862
+    },
+    {
+      "title": "Variations on a Theme by Paganini, Op.35",
+      "imslp_url": "https://imslp.org/wiki/Variations_on_a_Theme_by_Paganini,_Op.35_(Brahms,_Johannes)",
+      "year": 1862
+    },
+    {
+      "title": "2 Motets, Op.74",
+      "imslp_url": "https://imslp.org/wiki/2_Motets,_Op.74_(Brahms,_Johannes)",
+      "year": 1863
+    },
+    {
+      "title": "Rinaldo, Op.50",
+      "imslp_url": "https://imslp.org/wiki/Rinaldo,_Op.50_(Brahms,_Johannes)",
+      "year": 1863
+    },
+    {
+      "title": "3 Quartets, Op.64",
+      "imslp_url": "https://imslp.org/wiki/3_Quartets,_Op.64_(Brahms,_Johannes)",
+      "year": 1864
+    },
+    {
+      "title": "4 Lieder, Op.46",
+      "imslp_url": "https://imslp.org/wiki/4_Lieder,_Op.46_(Brahms,_Johannes)",
+      "year": 1864
+    },
+    {
+      "title": "9 Lieder and Songs, Op.32",
+      "imslp_url": "https://imslp.org/wiki/9_Lieder_and_Songs,_Op.32_(Brahms,_Johannes)",
+      "year": 1864
+    },
+    {
+      "title": "Piano Quintet, Op.34",
+      "imslp_url": "https://imslp.org/wiki/Piano_Quintet,_Op.34_(Brahms,_Johannes)",
+      "year": 1864
+    },
+    {
+      "title": "Sonata for 2 Pianos, Op.34b",
+      "imslp_url": "https://imslp.org/wiki/Sonata_for_2_Pianos,_Op.34b_(Brahms,_Johannes)",
+      "year": 1864
+    },
+    {
+      "title": "String Sextet No.2, Op.36",
+      "imslp_url": "https://imslp.org/wiki/String_Sextet_No.2,_Op.36_(Brahms,_Johannes)",
+      "year": 1864
+    },
+    {
+      "title": "16 Waltzes, Op.39",
+      "imslp_url": "https://imslp.org/wiki/16_Waltzes,_Op.39_(Brahms,_Johannes)",
+      "year": 1865
+    },
+    {
+      "title": "Ein deutsches Requiem, Op.45",
+      "imslp_url": "https://imslp.org/wiki/Ein_deutsches_Requiem,_Op.45_(Brahms,_Johannes)",
+      "year": 1865
+    },
+    {
+      "title": "Horn Trio, Op.40",
+      "imslp_url": "https://imslp.org/wiki/Horn_Trio,_Op.40_(Brahms,_Johannes)",
+      "year": 1865
+    },
+    {
+      "title": "Piano Trio No.4 in A major, Anh.4/5",
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.4_in_A_major,_Anh.4/5_(Brahms,_Johannes)",
+      "year": 1865
+    },
+    {
+      "title": "String Quartet No.1, Op.51 No.1",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1,_Op.51_No.1_(Brahms,_Johannes)",
+      "year": 1865
+    },
+    {
+      "title": "5 Lieder, Op.49",
+      "imslp_url": "https://imslp.org/wiki/5_Lieder,_Op.49_(Brahms,_Johannes)",
+      "year": 1867
+    },
+    {
+      "title": "Albumblatt f\u00fcr Clara Schumann",
+      "imslp_url": "https://imslp.org/wiki/Albumblatt_f\u00fcr_Clara_Schumann_(Brahms,_Johannes)",
+      "year": 1868
+    },
+    {
+      "title": "Schicksalslied, Op.54",
+      "imslp_url": "https://imslp.org/wiki/Schicksalslied,_Op.54_(Brahms,_Johannes)",
+      "year": 1868
+    },
+    {
+      "title": "Alto Rhapsody, Op.53",
+      "imslp_url": "https://imslp.org/wiki/Alto_Rhapsody,_Op.53_(Brahms,_Johannes)",
+      "year": 1869
+    },
+    {
+      "title": "Liebeslieder Waltzes, Op.52",
+      "imslp_url": "https://imslp.org/wiki/Liebeslieder_Waltzes,_Op.52_(Brahms,_Johannes)",
+      "year": 1869
+    },
+    {
+      "title": "Neue Liebeslieder Waltzes, Op.65",
+      "imslp_url": "https://imslp.org/wiki/Neue_Liebeslieder_Waltzes,_Op.65_(Brahms,_Johannes)",
+      "year": 1869
+    },
+    {
+      "title": "8 Lieder and Songs, Op.59",
+      "imslp_url": "https://imslp.org/wiki/8_Lieder_and_Songs,_Op.59_(Brahms,_Johannes)",
+      "year": 1870
+    },
+    {
+      "title": "Triumphlied, Op.55",
+      "imslp_url": "https://imslp.org/wiki/Triumphlied,_Op.55_(Brahms,_Johannes)",
+      "year": 1870
+    },
+    {
+      "title": "8 Klavierst\u00fccke, Op.76",
+      "imslp_url": "https://imslp.org/wiki/8_Klavierst\u00fccke,_Op.76_(Brahms,_Johannes)",
+      "year": 1871
+    },
+    {
+      "title": "8 Lieder and Songs, Op.57",
+      "imslp_url": "https://imslp.org/wiki/8_Lieder_and_Songs,_Op.57_(Brahms,_Johannes)",
+      "year": 1871
+    },
+    {
+      "title": "8 Lieder and Songs, Op.58",
+      "imslp_url": "https://imslp.org/wiki/8_Lieder_and_Songs,_Op.58_(Brahms,_Johannes)",
+      "year": 1871
+    },
+    {
+      "title": "Regenlied, WoO 23",
+      "imslp_url": "https://imslp.org/wiki/Regenlied,_WoO_23_(Brahms,_Johannes)",
+      "year": 1872
+    },
+    {
+      "title": "T\u00f6ne, lindernder Klang, WoO 28",
+      "imslp_url": "https://imslp.org/wiki/T\u00f6ne,_lindernder_Klang,_WoO_28_(Brahms,_Johannes)",
+      "year": 1872
+    },
+    {
+      "title": "5 Duets, Op.66",
+      "imslp_url": "https://imslp.org/wiki/5_Duets,_Op.66_(Brahms,_Johannes)",
+      "year": 1873
+    },
+    {
+      "title": "7 Lieder, Op.62",
+      "imslp_url": "https://imslp.org/wiki/7_Lieder,_Op.62_(Brahms,_Johannes)",
+      "year": 1873
+    },
+    {
+      "title": "9 Lieder and Songs, Op.63",
+      "imslp_url": "https://imslp.org/wiki/9_Lieder_and_Songs,_Op.63_(Brahms,_Johannes)",
+      "year": 1873
+    },
+    {
+      "title": "String Quartet No.2, Op.51 No.2",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2,_Op.51_No.2_(Brahms,_Johannes)",
+      "year": 1873
+    },
+    {
+      "title": "Variations on a Theme by Haydn, Op.56",
+      "imslp_url": "https://imslp.org/wiki/Variations_on_a_Theme_by_Haydn,_Op.56_(Brahms,_Johannes)",
+      "year": 1873
+    },
+    {
+      "title": "4 Ges\u00e4nge, Op.70",
+      "imslp_url": "https://imslp.org/wiki/4_Ges\u00e4nge,_Op.70_(Brahms,_Johannes)",
+      "year": 1875
+    },
+    {
+      "title": "String Quartet No.3, Op.67",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.3,_Op.67_(Brahms,_Johannes)",
+      "year": 1875
+    },
+    {
+      "title": "5 Songs, Op.72",
+      "imslp_url": "https://imslp.org/wiki/5_Songs,_Op.72_(Brahms,_Johannes)",
+      "year": 1876
+    },
+    {
+      "title": "4 Ballades and Romances, Op.75",
+      "imslp_url": "https://imslp.org/wiki/4_Ballades_and_Romances,_Op.75_(Brahms,_Johannes)",
+      "year": 1877
+    },
+    {
+      "title": "4 Quartets, Op.92",
+      "imslp_url": "https://imslp.org/wiki/4_Quartets,_Op.92_(Brahms,_Johannes)",
+      "year": 1877
+    },
+    {
+      "title": "5 Songs, Op.71",
+      "imslp_url": "https://imslp.org/wiki/5_Songs,_Op.71_(Brahms,_Johannes)",
+      "year": 1877
+    },
+    {
+      "title": "6 Lieder, Op.86",
+      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.86_(Brahms,_Johannes)",
+      "year": 1877
+    },
+    {
+      "title": "9 Songs, Op.69",
+      "imslp_url": "https://imslp.org/wiki/9_Songs,_Op.69_(Brahms,_Johannes)",
+      "year": 1877
+    },
+    {
+      "title": "Symphony No.2, Op.73",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.2,_Op.73_(Brahms,_Johannes)",
+      "year": 1877
+    },
+    {
+      "title": "6 Lieder, Op.85",
+      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.85_(Brahms,_Johannes)",
+      "year": 1878
+    },
+    {
+      "title": "Piano Concerto No.2, Op.83",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.2,_Op.83_(Brahms,_Johannes)",
+      "year": 1878
+    },
+    {
+      "title": "Violin Concerto, Op.77",
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto,_Op.77_(Brahms,_Johannes)",
+      "year": 1878
+    },
+    {
+      "title": "Violin Sonata No.1, Op.78",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.1,_Op.78_(Brahms,_Johannes)",
+      "year": 1878
+    },
+    {
+      "title": "2 Rhapsodies, Op.79",
+      "imslp_url": "https://imslp.org/wiki/2_Rhapsodies,_Op.79_(Brahms,_Johannes)",
+      "year": 1879
+    },
+    {
+      "title": "Academic Festival Overture, Op.80",
+      "imslp_url": "https://imslp.org/wiki/Academic_Festival_Overture,_Op.80_(Brahms,_Johannes)",
+      "year": 1880
+    },
+    {
+      "title": "N\u00e4nie, Op.82",
+      "imslp_url": "https://imslp.org/wiki/N\u00e4nie,_Op.82_(Brahms,_Johannes)",
+      "year": 1880
+    },
+    {
+      "title": "Piano Trio No.2, Op.87",
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.2,_Op.87_(Brahms,_Johannes)",
+      "year": 1880
+    },
+    {
+      "title": "Tragic Overture, Op.81",
+      "imslp_url": "https://imslp.org/wiki/Tragic_Overture,_Op.81_(Brahms,_Johannes)",
+      "year": 1880
+    },
+    {
+      "title": "5 Romances and Songs, Op.84",
+      "imslp_url": "https://imslp.org/wiki/5_Romances_and_Songs,_Op.84_(Brahms,_Johannes)",
+      "year": 1881
+    },
+    {
+      "title": "Mir l\u00e4chelt kein Fr\u00fchling, WoO 25",
+      "imslp_url": "https://imslp.org/wiki/Mir_l\u00e4chelt_kein_Fr\u00fchling,_WoO_25_(Brahms,_Johannes)",
+      "year": 1881
+    },
+    {
+      "title": "Gesang der Parzen, Op.89",
+      "imslp_url": "https://imslp.org/wiki/Gesang_der_Parzen,_Op.89_(Brahms,_Johannes)",
+      "year": 1882
+    },
+    {
+      "title": "String Quintet No.1, Op.88",
+      "imslp_url": "https://imslp.org/wiki/String_Quintet_No.1,_Op.88_(Brahms,_Johannes)",
+      "year": 1882
+    },
+    {
+      "title": "5 Lieder, Op.94",
+      "imslp_url": "https://imslp.org/wiki/5_Lieder,_Op.94_(Brahms,_Johannes)",
+      "year": 1883
+    },
+    {
+      "title": "6 Lieder and Romances, Op.93a",
+      "imslp_url": "https://imslp.org/wiki/6_Lieder_and_Romances,_Op.93a_(Brahms,_Johannes)",
+      "year": 1883
+    },
+    {
+      "title": "7 Lieder, Op.95",
+      "imslp_url": "https://imslp.org/wiki/7_Lieder,_Op.95_(Brahms,_Johannes)",
+      "year": 1883
+    },
+    {
+      "title": "Symphony No.3, Op.90",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.3,_Op.90_(Brahms,_Johannes)",
+      "year": 1883
+    },
+    {
+      "title": "2 Ges\u00e4nge, Op.91",
+      "imslp_url": "https://imslp.org/wiki/2_Ges\u00e4nge,_Op.91_(Brahms,_Johannes)",
+      "year": 1884
+    },
+    {
+      "title": "4 Lieder, Op.96",
+      "imslp_url": "https://imslp.org/wiki/4_Lieder,_Op.96_(Brahms,_Johannes)",
+      "year": 1884
+    },
+    {
+      "title": "Symphony No.4, Op.98",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.4,_Op.98_(Brahms,_Johannes)",
+      "year": 1884
+    },
+    {
+      "title": "Tafellied, Op.93b",
+      "imslp_url": "https://imslp.org/wiki/Tafellied,_Op.93b_(Brahms,_Johannes)",
+      "year": 1884
+    },
+    {
+      "title": "5 Lieder, Op.106",
+      "imslp_url": "https://imslp.org/wiki/5_Lieder,_Op.106_(Brahms,_Johannes)",
+      "year": 1885
+    },
+    {
+      "title": "6 Lieder, Op.97",
+      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.97_(Brahms,_Johannes)",
+      "year": 1885
+    },
+    {
+      "title": "Wann?, WoO 29",
+      "imslp_url": "https://imslp.org/wiki/Wann?,_WoO_29_(Brahms,_Johannes)",
+      "year": 1885
+    },
+    {
+      "title": "5 Ges\u00e4nge, Op.104",
+      "imslp_url": "https://imslp.org/wiki/5_Ges\u00e4nge,_Op.104_(Brahms,_Johannes)",
+      "year": 1886
+    },
+    {
+      "title": "5 Lieder, Op.105",
+      "imslp_url": "https://imslp.org/wiki/5_Lieder,_Op.105_(Brahms,_Johannes)",
+      "year": 1886
+    },
+    {
+      "title": "5 Lieder, Op.107",
+      "imslp_url": "https://imslp.org/wiki/5_Lieder,_Op.107_(Brahms,_Johannes)",
+      "year": 1886
+    },
+    {
+      "title": "Cello Sonata No.2, Op.99",
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata_No.2,_Op.99_(Brahms,_Johannes)",
+      "year": 1886
+    },
+    {
+      "title": "Piano Trio No.3, Op.101",
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.3,_Op.101_(Brahms,_Johannes)",
+      "year": 1886
+    },
+    {
+      "title": "Violin Sonata No.2, Op.100",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.2,_Op.100_(Brahms,_Johannes)",
+      "year": 1886
+    },
+    {
+      "title": "Violin Sonata No.3, Op.108",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.3,_Op.108_(Brahms,_Johannes)",
+      "year": 1886
+    },
+    {
+      "title": "Concerto for Violin and Cello, Op.102",
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_Violin_and_Cello,_Op.102_(Brahms,_Johannes)",
+      "year": 1887
+    },
+    {
+      "title": "Zigeunerlieder, Op.103",
+      "imslp_url": "https://imslp.org/wiki/Zigeunerlieder,_Op.103_(Brahms,_Johannes)",
+      "year": 1887
+    },
+    {
+      "title": "6 Quartets, Op.112",
+      "imslp_url": "https://imslp.org/wiki/6_Quartets,_Op.112_(Brahms,_Johannes)",
+      "year": 1888
+    },
+    {
+      "title": "Fest- und Gedenkspr\u00fcche, Op.109",
+      "imslp_url": "https://imslp.org/wiki/Fest-_und_Gedenkspr\u00fcche,_Op.109_(Brahms,_Johannes)",
+      "year": 1888
+    },
+    {
+      "title": "3 Motets, Op.110",
+      "imslp_url": "https://imslp.org/wiki/3_Motets,_Op.110_(Brahms,_Johannes)",
+      "year": 1889
+    },
+    {
+      "title": "String Quintet No.2, Op.111",
+      "imslp_url": "https://imslp.org/wiki/String_Quintet_No.2,_Op.111_(Brahms,_Johannes)",
+      "year": 1890
+    },
+    {
+      "title": "Clarinet Quintet, Op.115",
+      "imslp_url": "https://imslp.org/wiki/Clarinet_Quintet,_Op.115_(Brahms,_Johannes)",
+      "year": 1891
+    },
+    {
+      "title": "Clarinet Trio, Op.114",
+      "imslp_url": "https://imslp.org/wiki/Clarinet_Trio,_Op.114_(Brahms,_Johannes)",
+      "year": 1891
+    },
+    {
+      "title": "3 Intermezzi, Op.117",
+      "imslp_url": "https://imslp.org/wiki/3_Intermezzi,_Op.117_(Brahms,_Johannes)",
+      "year": 1892
+    },
+    {
+      "title": "7 Fantasien, Op.116",
+      "imslp_url": "https://imslp.org/wiki/7_Fantasien,_Op.116_(Brahms,_Johannes)",
+      "year": 1892
+    },
+    {
+      "title": "4 Klavierst\u00fccke, Op.119",
+      "imslp_url": "https://imslp.org/wiki/4_Klavierst\u00fccke,_Op.119_(Brahms,_Johannes)",
+      "year": 1893
+    },
+    {
+      "title": "49 Deutsche Volkslieder, WoO 33",
+      "imslp_url": "https://imslp.org/wiki/49_Deutsche_Volkslieder,_WoO_33_(Brahms,_Johannes)",
+      "year": 1893
+    },
+    {
+      "title": "6 Klavierst\u00fccke, Op.118",
+      "imslp_url": "https://imslp.org/wiki/6_Klavierst\u00fccke,_Op.118_(Brahms,_Johannes)",
+      "year": 1893
+    },
+    {
+      "title": "Clarinet Sonata No.1, Op.120 No.1",
+      "imslp_url": "https://imslp.org/wiki/Clarinet_Sonata_No.1,_Op.120_No.1_(Brahms,_Johannes)",
+      "year": 1894
+    },
+    {
+      "title": "Clarinet Sonata No.2, Op.120 No.2",
+      "imslp_url": "https://imslp.org/wiki/Clarinet_Sonata_No.2,_Op.120_No.2_(Brahms,_Johannes)",
+      "year": 1894
+    },
+    {
+      "title": "11 Chorale Preludes, Op.122",
+      "imslp_url": "https://imslp.org/wiki/11_Chorale_Preludes,_Op.122_(Brahms,_Johannes)",
+      "year": 1896
+    },
+    {
+      "title": "4 Serious Songs, Op.121",
+      "imslp_url": "https://imslp.org/wiki/4_Serious_Songs,_Op.121_(Brahms,_Johannes)",
+      "year": 1896
     }
   ]
 }

@@ -4,7 +4,16 @@
 
 <div class="world-events">
   {#if events.length > 0}
-    <h3>
+    <h4>In the world...</h4>
+  {/if}
+  <ul>
+    {#each events as event}
+      <li class="event">
+        <b>{event.title} ({event.city}, {event.country})</b>
+        {event.summary}
+      </li>
+    {/each}
+    <li>
       <a
         href="https://en.wikipedia.org/wiki/{events[0].year}"
         class="icon"
@@ -12,40 +21,14 @@
         title="Go to Wikipedia"
       >
         <i class="fab fa-wikipedia-w"></i>
+        Learn more...
       </a>
-      In the world...
-    </h3>
-  {/if}
-  <ul>
-    {#each events as event}
-      <li class="event-icon">
-        <b>{event.event} ({event.city}, {event.country})</b>
-        {event.summary}
-      </li>
-    {/each}
+    </li>
   </ul>
 </div>
 
 <style>
-  .world-events {
-    color: gray;
-  }
-
-  .event {
-    margin-bottom: 15px;
-    padding: 10px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    background-color: #f9f9f9;
-  }
-
-  .event h4 {
-    margin: 0 0 5px;
-    color: #333;
-  }
-
-  .event p {
-    margin: 0;
-    color: #555;
-  }
+  /* .world-events {
+    color: rgb(22, 22, 22);
+  } */
 </style>

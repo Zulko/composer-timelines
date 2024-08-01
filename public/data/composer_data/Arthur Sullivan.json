@@ -1,861 +1,593 @@
 {
   "full_name": "Arthur Sullivan",
-  "first_names": "Arthur",
+  "first_names": "Arthur Seymour",
   "last_name": "Sullivan",
   "birth_year": 1842,
   "death_year": 1900,
   "wikipedia_url": "https://en.wikipedia.org/wiki/Arthur_Sullivan",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Arthur Sullivan made his grand entrance into the world as a musical maestro in Lambeth, London, quickly proving that he was ready to hit the high notes right from birth. Who needs baby toys when you have a military band for entertainment?",
+      "section": "Life and career",
+      "title": "Birth",
+      "summary": "Arthur Sullivan was born in Lambeth, London, the younger of two children. His father was a military bandmaster and music teacher. He showed musical talent at an early age, composing an anthem at eight years old.",
       "year": 1842,
-      "city": "Lambeth",
-      "country": "England"
+      "location": "Lambeth, London",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Arthur Sullivan was born in Lambeth, London, as the younger of two children. With a father who was a military bandmaster and music teacher, little Arthur basically had his own marching band before he could even tie his shoelaces. By the time he was eight, he wasn't just composing anthems; he was probably planning his first musical world tour!"
     },
     {
-      "event": "First Anthem Composition",
-      "summary": "At the tender age of eight, Sullivan composed his first anthem, showcasing his prodigy status. While other kids were playing with marbles, he was composing music that would echo through the ages\u2014clearly a child genius in a league of his own!",
-      "year": 1850,
-      "city": "London",
-      "country": "England"
+      "section": "Life and career",
+      "title": "Chapel Royal Chorister",
+      "summary": "At the age of nearly twelve, Sullivan became a chorister at the Chapel Royal, where he excelled and became a soloist, demonstrating significant musical ability at a young age.",
+      "year": 1854,
+      "location": "Chapel Royal, London",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Sullivan joined the Chapel Royal as a chorister at the tender age of nearly twelve \u2013 yes, nearly twelve, because who wants to commit to being twelve? He quickly became a soloist, demonstrating significant musical ability at a young age and showing off his talents like a peacock at a talent show, dazzling everyone!"
     },
     {
-      "event": "Mendelssohn Scholarship",
-      "summary": "Sullivan\u2019s musical talents landed him the first Mendelssohn Scholarship at the Royal Academy of Music. At just 14, he had more academic recognition than most of us do in a lifetime. He probably received more homework than he could compose!",
+      "section": "Life and career",
+      "title": "Mendelssohn Scholarship",
+      "summary": "Sullivan was awarded the first Mendelssohn Scholarship by the Royal Academy of Music at the age of 14, allowing him significant training in music. This award was a notable early recognition of his talent.",
       "year": 1856,
-      "city": "London",
-      "country": "England"
+      "location": "Royal Academy of Music, London",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Sullivan was awarded the first Mendelssohn Scholarship by the Royal Academy of Music at the age of 14, which is impressive considering most teenagers are still figuring out how to avoid doing their homework. This award was a notable early recognition of his talent."
     },
     {
-      "event": "Graduation Piece Premiere",
-      "summary": "His graduation piece, a suite of incidental music for Shakespeare's The Tempest, was hailed as a sensation after its premiere. Sullivan set the bar high for graduation performances, making everyone else\u2019s piano recitals seem like an amateur night!",
+      "section": "Life and career",
+      "title": "Graduation and First Performance",
+      "summary": "Sullivan graduated from the Leipzig Conservatoire, creating a suite of incidental music for Shakespeare's The Tempest, which was later performed at the Crystal Palace to great acclaim.",
       "year": 1861,
-      "city": "London",
-      "country": "England"
+      "location": "Leipzig Conservatoire",
+      "emoji": "\ud83c\udf93",
+      "fun_version": "Sullivan graduated from the Leipzig Conservatoire and created a suite of incidental music for Shakespeare's The Tempest, which was later performed at the Crystal Palace to great acclaim!"
     },
     {
-      "event": "First Opera Cox and Box",
-      "summary": "Sullivan's first surviving opera, Cox and Box, was a delightful comedic romp that charmed audiences. It ran for an astonishing 264 performances, proving once and for all that comic operas could outshine the drama of everyday life!",
-      "year": 1866,
-      "city": "London",
-      "country": "England"
-    },
-    {
-      "event": "Collaboration with W.S. Gilbert",
-      "summary": "Sullivan partnered with the renowned W.S. Gilbert, leading to the creation of their first opera, Thespis. This duo became a comedic dream team, proving that sometimes the best collaborations are the ones that leave everyone in stitches!",
-      "year": 1871,
-      "city": "London",
-      "country": "England"
-    },
-    {
-      "event": "Successful Premiere of Trial by Jury",
-      "summary": "The one-act comic opera Trial by Jury was an unexpected hit, demonstrating Sullivan's flair for dramatic writing. Critics praised the perfect pairing of Gilbert\u2019s clever words and Sullivan\u2019s engaging music, marking the start of a beautiful partnership that would keep audiences laughing for years!",
-      "year": 1875,
-      "city": "London",
-      "country": "England"
-    },
-    {
-      "event": "Savoy Operas",
-      "summary": "Following the success of H.M.S. Pinafore and The Pirates of Penzance, the pair became known for their Savoy Operas. It was a musical gold rush that made them household names, ensuring that every dinner party would feature passionate debates about the brilliance of Sullivan and the wit of Gilbert!",
-      "year": 1878,
-      "city": "London",
-      "country": "England"
-    },
-    {
-      "event": "Creation of The Mikado",
-      "summary": "The Mikado debuted, offering a delightful escape into a whimsical Japan full of laughter and light-hearted satire. This lively production had audiences rolling in the aisles, proving that a little cultural appropriation can be quite amusing when done with a wink!",
-      "year": 1885,
-      "city": "London",
-      "country": "England"
-    },
-    {
-      "event": "Final Collaborations",
-      "summary": "Although misunderstandings led to a falling out, Sullivan and Gilbert reunited in the 1890s for a couple more operatic works. However, they had to admit that their earlier hits still overshadowed these late offerings\u2014a musical wallflower in the grand scheme of their stunning partnership!",
-      "year": 1890,
-      "city": "London",
-      "country": "England"
-    },
-    {
-      "event": "Death",
-      "summary": "Sullivan passed away at 58, leaving behind a rich legacy as Britain's foremost composer. His melodic gifts and whimsical comic style ensured he would not be forgotten, proving once more that great humor\u2014and great music\u2014never truly die!",
-      "year": 1900,
-      "city": "London",
-      "country": "England"
-    },
-    {
-      "event": "The Lost Chord",
-      "summary": "Arthur Sullivan composed his most famous song 'The Lost Chord' while sitting by his brother's bedside, demonstrating that even in times of family illness, inspiration can strike like a lightning bolt\u2014just hopefully not while you\u2019re holding a conductors' baton!",
-      "year": 1877,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Pinafore Phenomenon",
-      "summary": "H.M.S. Pinafore sailed into operatic legend while Sullivan was grappling with a kidney stone, proving that even excruciating pain can't stop a good tune. The show ran for 571 performances, creating a storm that led to unauthorized productions faster than you can say 'sail away'.",
-      "year": 1878,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Knighting by Queen Victoria",
-      "summary": "Sullivan received a knighthood from Queen Victoria, a prestigious honor that created quite the buzz. Critics figured this was the signal for him to retire from comic opera, but Sullivan probably thought, 'A knight's gotta do what a knight's gotta do!' and kept composing.",
-      "year": 1883,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "The Mikado's Massive Success",
-      "summary": "Sullivan and Gilbert broke their creative impasse to produce The Mikado, delighting audiences with a charming story free of supernatural nonsense. It ran for 672 performances, cementing its status as a delightful classic, and turning Sullivan into the musical equivalent of a rock star!",
-      "year": 1885,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "The Gondoliers",
-      "summary": "The Gondoliers was unveiled to great fanfare, marking the last major collaborative success of Sullivan and Gilbert. It was like a delicious dessert after a rich meal\u2014sweet, entertaining, and leaving audiences wanting more, while secretly knowing this was the last course!",
-      "year": 1889,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Opening of Ivanhoe",
-      "summary": "Sullivan's grand opera, Ivanhoe, finally made its debut, despite all the ups and downs along the way, including a hefty financial penalty for being fashionably late. It proved to be a hit, showcasing Sullivan's true operatic chops and earning him some hard-earned applause.",
-      "year": 1891,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Initial success of Ivanhoe",
-      "summary": "In a classic tale of theatrical optimism, Ivanhoe premiered to much fanfare, only for some critics to turn their noses up at it later, claiming it was responsible for the nearby opera house's downfall. It's like winning a gold medal in the Olympics and then being blamed for a gym collapse!",
-      "year": 1891,
-      "city": "London",
-      "country": "UK"
-    },
-    {
-      "event": "Composition of The Foresters",
-      "summary": "Sullivan teamed up with the great Tennyson to create The Foresters, proving that not only do great poets write poetry, but occasionally they pen tunes that get played in bustling New York while leaving London scratching its head.",
-      "year": 1891,
-      "city": "New York",
-      "country": "USA"
-    },
-    {
-      "event": "Haddon Hall premiere",
-      "summary": "Returning to comic opera, Sullivan's Haddon Hall presented a romantic tale unlike his previous works, running for over 200 performances\u2014imagine a 19th-century rom-com that actually gets decent ratings!",
-      "year": 1892,
-      "city": "London",
-      "country": "UK"
-    },
-    {
-      "event": "Utopia, Limited premiere",
-      "summary": "The reunion with Gilbert brought forth Utopia, Limited, which enjoyed a lengthy run but barely scraped by financially. It was like throwing a lavish party where no one brought a gift!",
-      "year": 1893,
-      "city": "London",
-      "country": "UK"
-    },
-    {
-      "event": "The Chieftain flop",
-      "summary": "In a surprising plot twist, The Chieftain flopped after revising an earlier opera. It was like a sequel so bad that it made the original look like a masterpiece\u2014especially in the critics' eyes!",
-      "year": 1894,
-      "city": "London",
-      "country": "UK"
-    },
-    {
-      "event": "Victoria and Merrie England premiere",
-      "summary": "Sullivan's ballet to celebrate Queen Victoria's Diamond Jubilee put him back in the spotlight, featuring English history as an elaborate dance party. If only the Victorian period's finale was a catchy pop song!",
-      "year": 1897,
-      "city": "London",
-      "country": "UK"
-    },
-    {
-      "event": "The Absent-Minded Beggar composition",
-      "summary": "To support soldiers in the Boer War, Sullivan composed a song that not only raised funds but also turned into an unexpected financial phenomenon. Who knew charity could be this catchy?",
-      "year": 1899,
-      "city": "London",
-      "country": "UK"
-    },
-    {
-      "event": "The Rose of Persia success",
-      "summary": "Returning to his comic roots, Sullivan scored a hit with The Rose of Persia. It was so well received that it made his prior works look like rough drafts of a young child\u2019s art project!",
-      "year": 1899,
-      "city": "London",
-      "country": "UK"
-    },
-    {
-      "event": "Posthumous performance of Te Deum Laudamus",
-      "summary": "His Te Deum Laudamus debuted after his passing, proving that his compositions were still alive and kicking\u2014even if he wasn't the one conducting anymore. Talk about a ghostly encore!",
-      "year": 1900,
-      "city": "London",
-      "country": "UK"
-    },
-    {
-      "event": "First Meeting with Rossini",
-      "summary": "Sullivan's life took an exciting turn when he met the renowned composer Rossini in Paris. Inspired by Rossini's works, Sullivan found a model for his own comic opera music, although he always insisted he was cooler and better dressed.",
+      "section": "Reputation and criticism",
+      "title": "Acclaim for The Tempest",
+      "summary": "Sullivan's incidental music to The Tempest was received with great acclaim at the Crystal Palace, showcasing his youthful promise and skill as a composer. Critics noted its fanciful nature and conscientiousness, marking a significant moment in his early career.",
       "year": 1862,
-      "city": "Paris",
-      "country": "France"
+      "location": "Crystal Palace",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Sullivan's incidental music to The Tempest was received with great acclaim at the Crystal Palace, showcasing his youthful promise. Critics noted its fanciful nature and conscientiousness, marking a significant moment in his early career."
     },
     {
-      "event": "Influence of Liszt",
-      "summary": "In the evolution of his music, Sullivan underwent a transformation influenced by the famous composer Liszt. He dropped the home key like a bad habit, leading to daring new compositions that even he couldn't believe were his own.",
-      "year": 1870,
-      "city": "London",
-      "country": "United Kingdom"
+      "section": "Personal life",
+      "title": "Hosting Private Entertainments",
+      "summary": "Sullivan enjoyed hosting private dinners and entertainments at his home, where he mingled with notable singers and actors, showcasing his social charm and musical connections.",
+      "year": 1865,
+      "location": "London",
+      "emoji": "\ud83c\udf89",
+      "fun_version": "Sullivan hosted private dinners at his home, where he mingled with notable singers and actors, showcasing his social charm and musical connections, realizing that his cooking was so good it might just bring down the house! Between socializing and serenading, he always made sure the entertainment was a real \"note\"-worthy affair!"
     },
     {
-      "event": "Composition Style Shift",
-      "summary": "Sullivan\u2019s composing style evolved over time, showcasing a more adventurous spirit. He decided that the piano was for amateurs and preferred to dig deep for inspiration, proving that rhythm always came before melody, much like breakfast before coffee.",
-      "year": 1874,
-      "city": "London",
-      "country": "United Kingdom"
+      "section": "Reputation and criticism",
+      "title": "Enthusiastic Reception of The Irish Symphony",
+      "summary": "Sullivan's Irish Symphony, composed in 1866, garnered enthusiastic praise from critics, who acknowledged it as a pivotal work showcasing his orchestral talent, despite subsequent mixed reactions to his compositions.",
+      "year": 1866,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Sullivan's Irish Symphony, composed in 1866, garnered enthusiastic praise from critics who probably needed a little whiskey to make it through, hailing it as a pivotal work showcasing his orchestral talent, and like being the most popular kid in a school of violins and flutes."
     },
     {
-      "event": "Creation of the Savoy Operas",
-      "summary": "Sullivan embarked on a journey into the world of the Savoy operas, delighting audiences with his witty compositions. This collaboration with Gilbert was a match made in musical heaven, albeit one that meant flinging overtures together at the last minute!",
-      "year": 1875,
-      "city": "London",
-      "country": "United Kingdom"
+      "section": "Personal life",
+      "title": "Affair with Rachel Scott Russell",
+      "summary": "Arthur Sullivan had a significant romantic involvement with Rachel Scott Russell, which blossomed in the mid-1860s. Despite her parents disapproving of a union due to Sullivan's uncertain financial status, they continued their relationship covertly until it ended by early 1869.",
+      "year": 1868,
+      "location": "Scott Russell home",
+      "emoji": "\u2764\ufe0f",
+      "fun_version": "Arthur Sullivan had a romantic involvement with Rachel Scott Russell in the mid-1860s that was quite 'on the down-low.' Her parents weren't particularly interested in handing out wedding gifts because Sullivan's wallet was as empty as a bank after Black Friday. But their relationship continued covertly until early 1869 when they decided to call it quits."
     },
     {
-      "event": "Irish Symphony",
-      "summary": "Sullivan's foray into the realm of serious orchestral compositions culminated in the idiosyncratic Irish Symphony, which featured some melodious moments that had more drama than a soap opera, making one wonder if other composers were taking notes or simply crying.",
-      "year": 1880,
-      "city": "Dublin",
-      "country": "Ireland"
+      "section": "Personal life",
+      "title": "Affair with Fanny Ronalds",
+      "summary": "Sullivan's longest love affair was with Fanny Ronalds, whom he met in Paris around 1867. Their relationship intensified in 1871 and she became a significant figure in his life, often performing his songs and associated with his music.",
+      "year": 1871,
+      "location": "Paris",
+      "emoji": "\u2764\ufe0f",
+      "fun_version": "Sullivan's longest love affair was with Fanny Ronalds, whom he met in Paris around 1867. Their relationship really hit the high notes in 1871, and Fanny turned into his muse, performing his songs like an opera diva."
     },
     {
-      "event": "Trip to Egypt",
-      "summary": "An adventurous trip to Egypt opened Sullivan's eyes to new musical styles, influencing his later work, The Rose of Persia. Who knew that a camel ride could inspire such melodious magic?",
+      "section": "Life and career",
+      "title": "Hymn Composition",
+      "summary": "In 1871, Sullivan wrote the hymn \"Onward, Christian Soldiers,\" which was adopted by the Salvation Army and remains one of his most famous works.",
+      "year": 1871,
+      "location": "London",
+      "emoji": "\u271d\ufe0f",
+      "fun_version": "In 1871, Sullivan penned the hymn 'Onward, Christian Soldiers,' which was so good that the Salvation Army decided to adopt it, probably thinking, 'This is better than our other marching music!' It remains one of his most renowned hits."
+    },
+    {
+      "section": "Reputation and criticism",
+      "title": "Critical Praise for Iolanthe",
+      "summary": "Iolanthe, a notable comic opera by Sullivan, solidified his reputation as a leading composer of comic opera in England, with critics highlighting its spontaneity and scholarly craftsmanship.",
       "year": 1882,
-      "city": "Cairo",
-      "country": "Egypt"
+      "location": "",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Iolanthe, a masterpiece by Sullivan that solidified his reputation as a leading composer of comic opera in England, is like that friend who always brings a kazoo to a serious wedding\u2014turning opera into a laugh-fest! Critics say it\u2019s bursting with spontaneity while showcasing serious scholarly craftsmanship."
     },
     {
-      "event": "First Major Acclaim",
-      "summary": "Just before hitting the big 2-0, Sullivan's incidental music for 'The Tempest' dazzled the crowd at the Crystal Palace. Critics declared it might just reshape English music, setting off a string of compliments that could make any artist blush.",
-      "year": 1862,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "The Irish Symphony Success",
-      "summary": "In a joyful twist, Sullivan's Irish Symphony scampered onto the scene, winning rave reviews that made him the talk of the town. Yet, critics would later regret calling him a genius too soon, like a parent who praises a child for drawing stick figures.",
-      "year": 1866,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Comic Opera Collaboration with Gilbert",
-      "summary": "Sullivan joined forces with W.S. Gilbert, a union that brought laughter and melodies, but also raised eyebrows among serious critics. They were left pondering if toe-tapping tunes could ever be considered real art, like questioning if pineapple belongs on pizza.",
-      "year": 1875,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Knighthood Bestowed",
-      "summary": "In a lovely twist of fate, Sullivan was knighted in 1883, much to the chagrin of serious music critics who thought it odd for a knight to write comic operas. It was like a royal decree urging him to swap his quips for orchestral anthems.",
+      "section": "Life and career",
+      "title": "Knighted by Queen Victoria",
+      "summary": "On May 22, 1883, Sullivan was knighted by Queen Victoria for his contributions to music in Britain, recognizing his immense contributions to the arts.",
       "year": 1883,
-      "city": "London",
-      "country": "United Kingdom"
+      "location": "London",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "On May 22, 1883, when Queen Victoria had run out of tea and needed some entertainment, she knighted Sullivan for his musical talents \u2013 because apparently, there was no better way to fix a music crisis in Britain than giving someone a shiny sword and a title!"
     },
     {
-      "event": "The Golden Legend Premiere",
-      "summary": "Sullivan struck back at critics with 'The Golden Legend' in 1886, earning applause as if he just deflected a tomato at a pie-eating contest. The piece was hailed as a major triumph, lifting his stature in the music world considerably.",
+      "section": "Personal life",
+      "title": "Support for Fred's Family",
+      "summary": "After the death of his brother Fred, Sullivan became guardian to his seven children and provided substantial financial support, ensuring their well-being and education during their upbringing in the United States.",
+      "year": 1883,
+      "location": "Los Angeles",
+      "emoji": "\ud83d\udc68\u200d\ud83d\udc67\u200d\ud83d\udc66",
+      "fun_version": "Sullivan found himself in a bit of a pickle after Fred\u2019s grand exit from life\u2014turns out, \u2018being the cool uncle\u2019 was just code for \u2018suddenly responsible for seven kids and their next million-dollar education fund!\u2019 Nonetheless, he took on the role of guardian, ensuring their well-being and education during their upbringing in the United States."
+    },
+    {
+      "section": "Reputation and criticism",
+      "title": "Redemption with The Golden Legend",
+      "summary": "The Golden Legend premiered in 1886, earning Sullivan accolades as it was described as a triumph of English art, marking a significant redemption in his career according to critics.",
       "year": 1886,
-      "city": "London",
-      "country": "United Kingdom"
+      "location": "",
+      "emoji": "\ud83c\udfc5",
+      "fun_version": "The Golden Legend boldly premiered in 1886, leaving critics throwing confetti and Sullivan wondering if he should open a bakery instead. They called it a triumph of English art, signaling a remarkable redemptive moment in his career. Who knew art could bring such delicious success?"
     },
     {
-      "event": "The Yeomen of the Guard Release",
-      "summary": "With 'The Yeomen of the Guard' in 1888, Sullivan raised the stakes for English opera, suggesting there could be more than just comic relief in laughter. Critics thought it might signal the beginning of serious English operas, like hoping for a sequel to a blockbuster hit.",
+      "section": "Reputation and criticism",
+      "title": "Hope for The Yeomen of the Guard",
+      "summary": "With the premiere of The Yeomen of the Guard in 1888, hopes were expressed that Sullivan had crafted a genuine English opera, signaling a potential advancement in the national lyric stage.",
       "year": 1888,
-      "city": "London",
-      "country": "United Kingdom"
+      "location": "",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "In 1888, The Yeomen of the Guard premiered! It was like the opera version of a mystery dinner party - full of hopes that Sullivan had finally crafted a genuine English opera. Spoiler alert: he did, and England sighed in relief, believing this was a big step forward for the national lyric stage instead of just another excuse for tea parties and crumpets!"
     },
     {
-      "event": "Ivanhoe's First Performance",
-      "summary": "In 1891, Sullivan offered his only grand opera, 'Ivanhoe', which elicited favorable critiques. It was akin to baking a complex cake; the critics liked the icing but were still figuring out the sponge.",
+      "section": "Reputation and criticism",
+      "title": "Reception of Ivanhoe",
+      "summary": "Ivanhoe, Sullivan's only grand opera, premiered in 1891 and received generally favorable reviews, with critics acknowledging its best portions as powerful and dignified, despite some reservations.",
       "year": 1891,
-      "city": "London",
-      "country": "United Kingdom"
+      "location": "",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Ivanhoe, Sullivan's only grand opera, premiered in 1891 \u2013 a year people were debating toga parties or gothic melodies. Critics gave it generally favorable reviews, noting its powerful and dignified portions despite some reservations."
     },
     {
-      "event": "Ballet Victoria and Merrie England",
-      "summary": "Sullivan's 'Victoria and Merrie England' ballet debuted in 1897, once again proving that he could whip up catchy melodies that danced through the minds of the audience like children on a sugar high.",
+      "section": "Personal life",
+      "title": "Proposed Marriage to Violet Beddington",
+      "summary": "In 1896, at the age of 54, Sullivan proposed to 22-year-old Violet Beddington. Unfortunately, she declined his proposal, leaving Sullivan to remain single for the remainder of his life.",
+      "year": 1896,
+      "location": "London",
+      "emoji": "\ud83d\udc94",
+      "fun_version": "In 1896, at the age of 54, Sullivan proposed to 22-year-old Violet Beddington, thinking he was a romantic hero. Unfortunately, she declined his proposal, leaving Sullivan to remain single for the remainder of his life."
+    },
+    {
+      "section": "Reputation and criticism",
+      "title": "Praise for Victoria and Merrie England",
+      "summary": "The 1897 ballet Victoria and Merrie England was celebrated by critics, who emphasized its engaging melodies and delicate orchestration, reflecting Sullivan's connection with the public through music that was both enjoyable and accessible.",
       "year": 1897,
-      "city": "London",
-      "country": "United Kingdom"
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "The 1897 ballet Victoria and Merrie England was so celebrated that the critics couldn't get enough of the engaging melodies and delicate orchestration, highlighting Sullivan's incredible connection with the public, as if he were serenading them from across a delightful buffet of enjoyable and accessible music!"
     },
     {
-      "event": "First Recipient of Scholarship",
-      "summary": "Sullivan managed to snag a scholarship thanks to the famous Jenny Lind's concert proceeds that excitedly bolstered his career. Imagine starting on a path to greatness because someone decided to sing with gusto!",
-      "year": 1848,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Organist at Two Churches",
-      "summary": "From being a musical whiz kid in the 1860s, Sullivan landed organist gigs at two of London's poshest churches. If this was a reality show, he would have been winning all the talent challenges!",
-      "year": 1861,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Collaborations with Gilbert",
-      "summary": "In a fateful meeting at a rehearsal, Sullivan teamed up with Gilbert, stumbling into a partnership that would yield endless laughter and catchy tunes. Think of it as the original musical buddy cop duo, only with more puns!",
-      "year": 1870,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Completion of 'Thespis'",
-      "summary": "Sullivan composed music for 'Thespis', an operatic venture that was groundbreaking yet surprisingly ephemeral, leaving behind a tune or two and an enduring connection to comedic history!",
-      "year": 1871,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "First Performance of Gilbert and Sullivan's Operas",
-      "summary": "With the premiere of their first full-length opera together, Sullivan and Gilbert launched a comedic revolution that had audiences chuckling and whistling on both sides of the pond. If only someone had filmed it\u2014the bloopers would have been legendary!",
-      "year": 1875,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Creation of 72 Hymns",
-      "summary": "Sullivan was busy crafting hymns, proving yet again that if you can write catchy tunes for comic opera, you can definitely make your mark in sacred music. Who knew church tunes could sound this good?",
-      "year": 1893,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "First Performance of Trial by Jury",
-      "summary": "In a spectacular display of legal hilarity, Sullivan premiered his comic opera Trial by Jury, where the audience could finally laugh at the absurdities of court proceedings instead of rolling their eyes in frustration. It was a legal case nobody wanted to win, proving that justice can be served with a side of laughter.",
-      "year": 1875,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Receiving Honorary Doctorates",
-      "summary": "Sullivan decided to collect some honorary doctorates like they were trading cards, snagging one from Cambridge and another from Oxford. Who knew composing could lead to so much academic street cred?",
-      "year": 1876,
-      "city": "Cambridge",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Meeting Anna in Paris",
-      "summary": "While in Paris, Sullivan met Anna, who would become a muse of sorts, inspiring him in ways that only a charming encounter in the city of love could. After all, every composer needs a little romance to spice up the symphonies!",
-      "year": 1878,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Creation of The Learned Judge",
-      "summary": "Sullivan pulled on his academic robe and created the unforgettable role of The Learned Judge in Trial by Jury, forever sentimentalizing judges everywhere. This role was so good it was like handing a gavel to a stand-up comedian!",
-      "year": 1879,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "The Premiere of H.M.S. Pinafore",
-      "summary": "With 'H.M.S. Pinafore,' Sullivan launched a ship so seaworthy it didn't need a crew\u2014much to the delight of audiences, who found themselves in a comedic naval adventure that was more fun than a day at the beach!",
-      "year": 1878,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Premiere of Ivanhoe",
-      "summary": "Sullivan unleashed his dramatic flair with Ivanhoe, bringing tales of knights and damsels to the stage, complete with music that could make even a dragon regret its life choices. Who knew medieval stories could sound so melodious?",
-      "year": 1891,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "First Performance of 'Trial by Jury'",
-      "summary": "This was a groundbreaking moment in Sullivan's career, showing that he could make a courtroom drama entertaining\u2014because who doesn't love a good trial with a side of catchy tunes?",
-      "year": 1875,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Collaboration with W.S. Gilbert begins",
-      "summary": "The beginning of a partnership that would make audiences laugh and critics scratch their heads\u2014because mixing humor, satire, and catchy songs is always a winning recipe.",
-      "year": 1871,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Premiere of 'The Mikado'",
-      "summary": "Not only did this opera take the world by storm, but it also introduced the world to the delightful chaos of Japanese culture as seen through Victorian glasses\u2014and who doesn't enjoy a good scamp with a song?",
-      "year": 1885,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Knighted by Queen Victoria",
-      "summary": "When Sullivan got the royal nod, it was like receiving the ultimate stamp of approval. Not only was he a knight, but he could also say he 'slept with a queen'\u2014figuratively, of course!",
-      "year": 1891,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "The Launch of 'H.M.S. Pinafore'",
-      "summary": "This was not just an opera; it was a full-blown maritime adventure that had everyone singing about love on the high seas\u2014who knew sailors could serenade like that?",
-      "year": 1878,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Premier of 'The Rose of Persia'",
-      "summary": "This was an exotic venture that took audiences on a whimsical trip to Persia, making them wonder if they were at a music hall or a magic carpet ride!",
-      "year": 1899,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Final collaboration with Gilbert",
-      "summary": "It was like the final exit of a great duo\u2014think of it as the last episode of a beloved sitcom; bittersweet but leaving behind a legacy that'll keep you laughing for years.",
+      "section": "Life and career",
+      "title": "Death",
+      "summary": "Sullivan passed away from heart failure, leading to a posthumous performance of his Te Deum Laudamus, composed in anticipation of victory in the Boer War.",
       "year": 1900,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "First Opera",
-      "summary": "In a splendidly ambitious move, Sullivan composed his first opera. It was like a toddler taking their first steps\u2014everyone was excited, though it ended up being more of a wobble than a performance masterpiece. But hey, it was a start!",
-      "year": 1866,
-      "city": "London",
-      "country": "England"
-    },
-    {
-      "event": "Collaboration with Gilbert",
-      "summary": "Sullivan teamed up with W. S. Gilbert and created the dynamic duo that would be forever adored by musical theatre enthusiasts. This partnership was like peanut butter meeting jelly, leading to a sweet harmony that enchanted audiences worldwide!",
-      "year": 1871,
-      "city": "London",
-      "country": "England"
-    },
-    {
-      "event": "The Yeomen of the Guard Premiere",
-      "summary": "The Yeomen of the Guard hit the stage, showcasing drama, romance, and enough humor to make even the sternest of critics crack a smile. It was like a party where no one wanted to leave because the fun just kept coming!",
-      "year": 1888,
-      "city": "London",
-      "country": "England"
+      "location": "Westminster, England",
+      "emoji": "\ud83d\udd4a\ufe0f",
+      "fun_version": "Sullivan passed away from heart failure, but not before one last hurrah. Picture it: a ghostly performance of his Te Deum Laudamus, composed in anticipation of victory in the Boer War, now celebrating his legacy from beyond the grave!"
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/The_Absent-Minded_Beggar_March_(Sullivan,_Arthur)",
-      "year": 1899,
-      "title": "The Absent-Minded Beggar March"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/An_Idyll_(Sullivan,_Arthur)",
-      "year": 1865,
-      "title": "An Idyll"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Beauty_Stone_(Sullivan,_Arthur)",
-      "year": 1898,
-      "title": "The Beauty Stone"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Birds_in_the_Night_(Sullivan,_Arthur)",
-      "year": 1869,
-      "title": "Birds in the Night"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Chieftain_(Sullivan,_Arthur)",
-      "year": 1894,
-      "title": "The Chieftain"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Christmas_Bells_at_Sea_(Sullivan,_Arthur)",
-      "year": 1875,
-      "title": "Christmas Bells at Sea"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Contrabandista_(Sullivan,_Arthur)",
-      "year": 1867,
-      "title": "The Contrabandista"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Cox_and_Box_(Sullivan,_Arthur)",
-      "year": 1866,
-      "title": "Cox and Box"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Day_Dreams_(Sullivan,_Arthur)",
-      "year": 1867,
-      "title": "Day Dreams"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Dominion_Hymn_(Sullivan,_Arthur)",
-      "year": 1880,
-      "title": "Dominion Hymn"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Duo_concertante,_Op.2_(Sullivan,_Arthur)",
-      "year": 1868,
-      "title": "Duo concertante, Op.2"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Echoes_(Sullivan,_Arthur)",
-      "year": 1870,
-      "title": "Echoes"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Edward_Gray_(Sullivan,_Arthur)",
-      "year": 1880,
-      "title": "Edward Gray"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Evening_(Sullivan,_Arthur)",
-      "year": 1868,
-      "title": "Evening"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Festival_Te_Deum_(Sullivan,_Arthur)",
-      "year": 1872,
-      "title": "Festival Te Deum"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Foresters_(Sullivan,_Arthur)",
-      "year": 1891,
-      "title": "The Foresters"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Golden_Legend_(Sullivan,_Arthur)",
-      "year": 1886,
-      "title": "The Golden Legend"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Gondoliers_(Sullivan,_Arthur)",
-      "year": 1889,
-      "title": "The Gondoliers"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Grand_Duke_(Sullivan,_Arthur)",
-      "year": 1896,
-      "title": "The Grand Duke"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Guinevere!_(Sullivan,_Arthur)",
-      "year": 1872,
-      "title": "Guinevere!"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/H.M.S._Pinafore_(Sullivan,_Arthur)",
-      "year": 1878,
-      "title": "H.M.S. Pinafore"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Henry_VIII_(Sullivan,_Arthur)",
-      "year": 1879,
-      "title": "Henry VIII"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/I_Sing_the_Birth_(Sullivan,_Arthur)",
-      "year": 1868,
-      "title": "I Sing the Birth"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/I_Will_Mention_the_Loving-Kindnesses_(Sullivan,_Arthur)",
-      "year": 1875,
-      "title": "I Will Mention the Loving-Kindnesses"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Imperial_March_(Sullivan,_Arthur)",
-      "year": 1893,
-      "title": "Imperial March"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/In_Memoriam_(Sullivan,_Arthur)",
-      "year": 1866,
-      "title": "In Memoriam"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Iolanthe_(Sullivan,_Arthur)",
-      "year": 1882,
-      "title": "Iolanthe"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/It_came_upon_the_midnight_clear_(Sullivan,_Arthur)",
-      "year": 1871,
-      "title": "It came upon the midnight clear"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ivanhoe_(Sullivan,_Arthur)",
-      "year": 1890,
-      "title": "Ivanhoe"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Joy_to_the_Victors_(Sullivan,_Arthur)",
-      "year": 1870,
-      "title": "Joy to the Victors"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/A_Life_That_Lives_For_You_(Sullivan,_Arthur)",
-      "year": 1870,
-      "title": "A Life That Lives For You"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Light_of_the_World_(Sullivan,_Arthur)",
-      "year": 1872,
-      "title": "The Light of the World"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Living_Poems_(Sullivan,_Arthur)",
-      "year": 1874,
-      "title": "Living Poems"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Looking_Forward_(Sullivan,_Arthur)",
-      "year": 1873,
-      "title": "Looking Forward"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Lost_Chord_(Sullivan,_Arthur)",
-      "year": 1877,
-      "title": "The Lost Chord"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Love_Laid_His_Sleepless_Head_(Sullivan,_Arthur)",
-      "year": 1874,
-      "title": "Love Laid His Sleepless Head"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Martyr_of_Antioch_(suite)_(Sullivan,_Arthur)",
-      "year": 1898,
-      "title": "The Martyr of Antioch"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Martyr_of_Antioch_(Sullivan,_Arthur)",
-      "year": 1880,
-      "title": "The Martyr of Antioch"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Masque_at_Kenilworth,_Op.4_(Sullivan,_Arthur)",
-      "year": 1864,
-      "title": "The Masque at Kenilworth, Op.4"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Merchant_of_Venice_(Sullivan,_Arthur)",
-      "year": 1871,
-      "title": "The Merchant of Venice"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Mikado_(Sullivan,_Arthur)",
-      "year": 1885,
-      "title": "The Mikado"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/My_Dear_and_Only_Love_(Sullivan,_Arthur)",
-      "year": 1874,
-      "title": "My Dear and Only Love"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/My_Dearest_Heart_(Sullivan,_Arthur)",
-      "year": 1876,
-      "title": "My Dearest Heart"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/O_Hush_Thee,_My_Babie_(Sullivan,_Arthur)",
-      "year": 1867,
-      "title": "O Hush Thee, My Babie"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ode_on_Laying_the_Foundation_Stone_of_the_Imperial_Institute_(Sullivan,_Arthur)",
-      "year": 1887,
-      "title": "Ode on Laying the Foundation Stone of the Imperial Institute"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ode_on_the_Opening_of_the_Colonial_and_Indian_Exhibition_(Sullivan,_Arthur)",
-      "year": 1886,
-      "title": "Ode on the Opening of the Colonial and Indian Exhibition"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Oh!_ma_charmante_(Sullivan,_Arthur)",
-      "year": 1872,
-      "title": "Oh! ma charmante"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Old_Love_Letters_(Sullivan,_Arthur)",
-      "year": 1879,
-      "title": "Old Love Letters"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/On_Shore_and_Sea_(Sullivan,_Arthur)",
-      "year": 1871,
-      "title": "On Shore and Sea"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Once_Again_(Sullivan,_Arthur)",
-      "year": 1872,
-      "title": "Once Again"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Overture_di_ballo_(Sullivan,_Arthur)",
-      "year": 1870,
-      "title": "Overture di ballo"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Parting_Gleams_(Sullivan,_Arthur)",
-      "year": 1870,
-      "title": "Parting Gleams"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Patience_(Sullivan,_Arthur)",
-      "year": 1881,
-      "title": "Patience"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Pirates_of_Penzance_(Sullivan,_Arthur)",
-      "year": 1879,
-      "title": "The Pirates of Penzance"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Princess_Ida_(Sullivan,_Arthur)",
-      "year": 1883,
-      "title": "Princess Ida"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Princess_of_Wales%27_March_(Sullivan,_Arthur)",
-      "year": 1863,
-      "title": "The Princess of Wales' March"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Prodigal_Son_(Sullivan,_Arthur)",
-      "year": 1869,
-      "title": "The Prodigal Son"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Progress_of_Music_(Sullivan,_Arthur)",
-      "year": 1876,
-      "title": "The Progress of Music"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Rainy_Day_(Sullivan,_Arthur)",
-      "year": 1867,
-      "title": "The Rainy Day"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Rose_of_Persia_(Sullivan,_Arthur)",
-      "year": 1899,
-      "title": "The Rose of Persia"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ruddigore_(Sullivan,_Arthur)",
-      "year": 1886,
-      "title": "Ruddigore"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Sailor%27s_Grave_(Sullivan,_Arthur)",
-      "year": 1872,
-      "title": "The Sailor's Grave"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Sapphire_Necklace_(Sullivan,_Arthur)",
-      "year": 1862,
-      "title": "The Sapphire Necklace"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Sorcerer_(Sullivan,_Arthur)",
-      "year": 1877,
-      "title": "The Sorcerer"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/St._Agnes%27_Eve_(Sullivan,_Arthur)",
-      "year": 1879,
-      "title": "St. Agnes' Eve"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Symphony_in_E_major_(Sullivan,_Arthur)",
-      "year": 1863,
-      "title": "Symphony in E major"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Te_Deum_laudamus_in_D_major_(Sullivan,_Arthur)",
-      "year": 1866,
-      "title": "Te Deum laudamus in D major"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Te_Deum_laudamus_(Sullivan,_Arthur)",
-      "year": 1900,
-      "title": "Te Deum laudamus"
-    },
-    {
+      "title": "The Tempest",
       "imslp_url": "https://imslp.org/wiki/The_Tempest_(Sullivan,_Arthur)",
-      "year": 1861,
-      "title": "The Tempest"
+      "year": 1861
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Thespis_(Sullivan,_Arthur)",
-      "year": 1871,
-      "title": "Thespis"
+      "title": "The Sapphire Necklace",
+      "imslp_url": "https://imslp.org/wiki/The_Sapphire_Necklace_(Sullivan,_Arthur)",
+      "year": 1862
     },
     {
+      "title": "Thoughts, Op.2",
       "imslp_url": "https://imslp.org/wiki/Thoughts,_Op.2_(Sullivan,_Arthur)",
-      "year": 1862,
-      "title": "Thoughts, Op.2"
+      "year": 1862
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Trial_by_Jury_(Sullivan,_Arthur)",
-      "year": 1875,
-      "title": "Trial by Jury"
+      "title": "Symphony in E major",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_E_major_(Sullivan,_Arthur)",
+      "year": 1863
     },
     {
-      "imslp_url": "https://imslp.org/wiki/The_Troubadour_(Sullivan,_Arthur)",
-      "year": 1869,
-      "title": "The Troubadour"
+      "title": "The Princess of Wales' March",
+      "imslp_url": "https://imslp.org/wiki/The_Princess_of_Wales'_March_(Sullivan,_Arthur)",
+      "year": 1863
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Twilight_(Sullivan,_Arthur)",
-      "year": 1868,
-      "title": "Twilight"
+      "title": "The Masque at Kenilworth, Op.4",
+      "imslp_url": "https://imslp.org/wiki/The_Masque_at_Kenilworth,_Op.4_(Sullivan,_Arthur)",
+      "year": 1864
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Utopia_Limited_(Sullivan,_Arthur)",
-      "year": 1893,
-      "title": "Utopia Limited"
+      "title": "An Idyll",
+      "imslp_url": "https://imslp.org/wiki/An_Idyll_(Sullivan,_Arthur)",
+      "year": 1865
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Victoria_and_Merrie_England_(Sullivan,_Arthur)",
-      "year": 1897,
-      "title": "Victoria and Merrie England"
+      "title": "Cox and Box",
+      "imslp_url": "https://imslp.org/wiki/Cox_and_Box_(Sullivan,_Arthur)",
+      "year": 1866
     },
     {
-      "imslp_url": "https://imslp.org/wiki/When_Thou_Art_Near_(Sullivan,_Arthur)",
-      "year": 1877,
-      "title": "When Thou Art Near"
+      "title": "In Memoriam",
+      "imslp_url": "https://imslp.org/wiki/In_Memoriam_(Sullivan,_Arthur)",
+      "year": 1866
     },
     {
+      "title": "Te Deum laudamus in D major",
+      "imslp_url": "https://imslp.org/wiki/Te_Deum_laudamus_in_D_major_(Sullivan,_Arthur)",
+      "year": 1866
+    },
+    {
+      "title": "Day Dreams",
+      "imslp_url": "https://imslp.org/wiki/Day_Dreams_(Sullivan,_Arthur)",
+      "year": 1867
+    },
+    {
+      "title": "O Hush Thee, My Babie",
+      "imslp_url": "https://imslp.org/wiki/O_Hush_Thee,_My_Babie_(Sullivan,_Arthur)",
+      "year": 1867
+    },
+    {
+      "title": "The Contrabandista",
+      "imslp_url": "https://imslp.org/wiki/The_Contrabandista_(Sullivan,_Arthur)",
+      "year": 1867
+    },
+    {
+      "title": "The Rainy Day",
+      "imslp_url": "https://imslp.org/wiki/The_Rainy_Day_(Sullivan,_Arthur)",
+      "year": 1867
+    },
+    {
+      "title": "The Window",
       "imslp_url": "https://imslp.org/wiki/The_Window_(Sullivan,_Arthur)",
-      "year": 1867,
-      "title": "The Window"
+      "year": 1867
     },
     {
-      "imslp_url": "https://imslp.org/wiki/The_Yeomen_of_the_Guard_(Sullivan,_Arthur)",
-      "year": 1887,
-      "title": "The Yeomen of the Guard"
+      "title": "Duo concertante, Op.2",
+      "imslp_url": "https://imslp.org/wiki/Duo_concertante,_Op.2_(Sullivan,_Arthur)",
+      "year": 1868
     },
     {
-      "imslp_url": "https://imslp.org/wiki/You_Sleep_(Sullivan,_Arthur)",
-      "year": 1889,
-      "title": "You Sleep"
+      "title": "Evening",
+      "imslp_url": "https://imslp.org/wiki/Evening_(Sullivan,_Arthur)",
+      "year": 1868
     },
     {
-      "imslp_url": "https://imslp.org/wiki/The_Zoo_(Sullivan,_Arthur)",
-      "year": 1875,
-      "title": "The Zoo"
+      "title": "I Sing the Birth",
+      "imslp_url": "https://imslp.org/wiki/I_Sing_the_Birth_(Sullivan,_Arthur)",
+      "year": 1868
     },
     {
+      "title": "Twilight",
+      "imslp_url": "https://imslp.org/wiki/Twilight_(Sullivan,_Arthur)",
+      "year": 1868
+    },
+    {
+      "title": "Birds in the Night",
+      "imslp_url": "https://imslp.org/wiki/Birds_in_the_Night_(Sullivan,_Arthur)",
+      "year": 1869
+    },
+    {
+      "title": "The Prodigal Son",
+      "imslp_url": "https://imslp.org/wiki/The_Prodigal_Son_(Sullivan,_Arthur)",
+      "year": 1869
+    },
+    {
+      "title": "The Troubadour",
+      "imslp_url": "https://imslp.org/wiki/The_Troubadour_(Sullivan,_Arthur)",
+      "year": 1869
+    },
+    {
+      "title": "A Life That Lives For You",
+      "imslp_url": "https://imslp.org/wiki/A_Life_That_Lives_For_You_(Sullivan,_Arthur)",
+      "year": 1870
+    },
+    {
+      "title": "Echoes",
+      "imslp_url": "https://imslp.org/wiki/Echoes_(Sullivan,_Arthur)",
+      "year": 1870
+    },
+    {
+      "title": "Joy to the Victors",
+      "imslp_url": "https://imslp.org/wiki/Joy_to_the_Victors_(Sullivan,_Arthur)",
+      "year": 1870
+    },
+    {
+      "title": "Overture di ballo",
+      "imslp_url": "https://imslp.org/wiki/Overture_di_ballo_(Sullivan,_Arthur)",
+      "year": 1870
+    },
+    {
+      "title": "Parting Gleams",
+      "imslp_url": "https://imslp.org/wiki/Parting_Gleams_(Sullivan,_Arthur)",
+      "year": 1870
+    },
+    {
+      "title": "It came upon the midnight clear",
+      "imslp_url": "https://imslp.org/wiki/It_came_upon_the_midnight_clear_(Sullivan,_Arthur)",
+      "year": 1871
+    },
+    {
+      "title": "On Shore and Sea",
+      "imslp_url": "https://imslp.org/wiki/On_Shore_and_Sea_(Sullivan,_Arthur)",
+      "year": 1871
+    },
+    {
+      "title": "The Merchant of Venice",
+      "imslp_url": "https://imslp.org/wiki/The_Merchant_of_Venice_(Sullivan,_Arthur)",
+      "year": 1871
+    },
+    {
+      "title": "Thespis",
+      "imslp_url": "https://imslp.org/wiki/Thespis_(Sullivan,_Arthur)",
+      "year": 1871
+    },
+    {
+      "title": "Festival Te Deum",
+      "imslp_url": "https://imslp.org/wiki/Festival_Te_Deum_(Sullivan,_Arthur)",
+      "year": 1872
+    },
+    {
+      "title": "Guinevere!",
+      "imslp_url": "https://imslp.org/wiki/Guinevere!_(Sullivan,_Arthur)",
+      "year": 1872
+    },
+    {
+      "title": "Oh! ma charmante",
+      "imslp_url": "https://imslp.org/wiki/Oh!_ma_charmante_(Sullivan,_Arthur)",
+      "year": 1872
+    },
+    {
+      "title": "Once Again",
+      "imslp_url": "https://imslp.org/wiki/Once_Again_(Sullivan,_Arthur)",
+      "year": 1872
+    },
+    {
+      "title": "The Light of the World",
+      "imslp_url": "https://imslp.org/wiki/The_Light_of_the_World_(Sullivan,_Arthur)",
+      "year": 1872
+    },
+    {
+      "title": "The Sailor's Grave",
+      "imslp_url": "https://imslp.org/wiki/The_Sailor's_Grave_(Sullivan,_Arthur)",
+      "year": 1872
+    },
+    {
+      "title": "Zum Geburtstage",
       "imslp_url": "https://imslp.org/wiki/Zum_Geburtstage_(Sullivan,_Arthur)",
-      "year": 1872,
-      "title": "Zum Geburtstage"
+      "year": 1872
     },
     {
-      "imslp_url": "https://imslp.org/wiki/The_Miller_and_His_Man_(Sullivan,_Arthur)",
-      "year": 1873,
-      "title": "The Miller and His Man"
+      "title": "Looking Forward",
+      "imslp_url": "https://imslp.org/wiki/Looking_Forward_(Sullivan,_Arthur)",
+      "year": 1873
+    },
+    {
+      "title": "Living Poems",
+      "imslp_url": "https://imslp.org/wiki/Living_Poems_(Sullivan,_Arthur)",
+      "year": 1874
+    },
+    {
+      "title": "Love Laid His Sleepless Head",
+      "imslp_url": "https://imslp.org/wiki/Love_Laid_His_Sleepless_Head_(Sullivan,_Arthur)",
+      "year": 1874
+    },
+    {
+      "title": "My Dear and Only Love",
+      "imslp_url": "https://imslp.org/wiki/My_Dear_and_Only_Love_(Sullivan,_Arthur)",
+      "year": 1874
+    },
+    {
+      "title": "Christmas Bells at Sea",
+      "imslp_url": "https://imslp.org/wiki/Christmas_Bells_at_Sea_(Sullivan,_Arthur)",
+      "year": 1875
+    },
+    {
+      "title": "I Will Mention the Loving-Kindnesses",
+      "imslp_url": "https://imslp.org/wiki/I_Will_Mention_the_Loving-Kindnesses_(Sullivan,_Arthur)",
+      "year": 1875
+    },
+    {
+      "title": "The Zoo",
+      "imslp_url": "https://imslp.org/wiki/The_Zoo_(Sullivan,_Arthur)",
+      "year": 1875
+    },
+    {
+      "title": "Trial by Jury",
+      "imslp_url": "https://imslp.org/wiki/Trial_by_Jury_(Sullivan,_Arthur)",
+      "year": 1875
+    },
+    {
+      "title": "My Dearest Heart",
+      "imslp_url": "https://imslp.org/wiki/My_Dearest_Heart_(Sullivan,_Arthur)",
+      "year": 1876
+    },
+    {
+      "title": "The Progress of Music",
+      "imslp_url": "https://imslp.org/wiki/The_Progress_of_Music_(Sullivan,_Arthur)",
+      "year": 1876
+    },
+    {
+      "title": "The Lost Chord",
+      "imslp_url": "https://imslp.org/wiki/The_Lost_Chord_(Sullivan,_Arthur)",
+      "year": 1877
+    },
+    {
+      "title": "The Sorcerer",
+      "imslp_url": "https://imslp.org/wiki/The_Sorcerer_(Sullivan,_Arthur)",
+      "year": 1877
+    },
+    {
+      "title": "When Thou Art Near",
+      "imslp_url": "https://imslp.org/wiki/When_Thou_Art_Near_(Sullivan,_Arthur)",
+      "year": 1877
+    },
+    {
+      "title": "H.M.S. Pinafore",
+      "imslp_url": "https://imslp.org/wiki/H.M.S._Pinafore_(Sullivan,_Arthur)",
+      "year": 1878
+    },
+    {
+      "title": "Henry VIII",
+      "imslp_url": "https://imslp.org/wiki/Henry_VIII_(Sullivan,_Arthur)",
+      "year": 1879
+    },
+    {
+      "title": "Old Love Letters",
+      "imslp_url": "https://imslp.org/wiki/Old_Love_Letters_(Sullivan,_Arthur)",
+      "year": 1879
+    },
+    {
+      "title": "St. Agnes' Eve",
+      "imslp_url": "https://imslp.org/wiki/St._Agnes'_Eve_(Sullivan,_Arthur)",
+      "year": 1879
+    },
+    {
+      "title": "The Pirates of Penzance",
+      "imslp_url": "https://imslp.org/wiki/The_Pirates_of_Penzance_(Sullivan,_Arthur)",
+      "year": 1879
+    },
+    {
+      "title": "Dominion Hymn",
+      "imslp_url": "https://imslp.org/wiki/Dominion_Hymn_(Sullivan,_Arthur)",
+      "year": 1880
+    },
+    {
+      "title": "Edward Gray",
+      "imslp_url": "https://imslp.org/wiki/Edward_Gray_(Sullivan,_Arthur)",
+      "year": 1880
+    },
+    {
+      "title": "The Martyr of Antioch",
+      "imslp_url": "https://imslp.org/wiki/The_Martyr_of_Antioch_(Sullivan,_Arthur)",
+      "year": 1880
+    },
+    {
+      "title": "Patience",
+      "imslp_url": "https://imslp.org/wiki/Patience_(Sullivan,_Arthur)",
+      "year": 1881
+    },
+    {
+      "title": "Iolanthe",
+      "imslp_url": "https://imslp.org/wiki/Iolanthe_(Sullivan,_Arthur)",
+      "year": 1882
+    },
+    {
+      "title": "Princess Ida",
+      "imslp_url": "https://imslp.org/wiki/Princess_Ida_(Sullivan,_Arthur)",
+      "year": 1883
+    },
+    {
+      "title": "The Mikado",
+      "imslp_url": "https://imslp.org/wiki/The_Mikado_(Sullivan,_Arthur)",
+      "year": 1885
+    },
+    {
+      "title": "Ode on the Opening of the Colonial and Indian Exhibition",
+      "imslp_url": "https://imslp.org/wiki/Ode_on_the_Opening_of_the_Colonial_and_Indian_Exhibition_(Sullivan,_Arthur)",
+      "year": 1886
+    },
+    {
+      "title": "Ruddigore",
+      "imslp_url": "https://imslp.org/wiki/Ruddigore_(Sullivan,_Arthur)",
+      "year": 1886
+    },
+    {
+      "title": "The Golden Legend",
+      "imslp_url": "https://imslp.org/wiki/The_Golden_Legend_(Sullivan,_Arthur)",
+      "year": 1886
+    },
+    {
+      "title": "Ode on Laying the Foundation Stone of the Imperial Institute",
+      "imslp_url": "https://imslp.org/wiki/Ode_on_Laying_the_Foundation_Stone_of_the_Imperial_Institute_(Sullivan,_Arthur)",
+      "year": 1887
+    },
+    {
+      "title": "The Yeomen of the Guard",
+      "imslp_url": "https://imslp.org/wiki/The_Yeomen_of_the_Guard_(Sullivan,_Arthur)",
+      "year": 1887
+    },
+    {
+      "title": "The Gondoliers",
+      "imslp_url": "https://imslp.org/wiki/The_Gondoliers_(Sullivan,_Arthur)",
+      "year": 1889
+    },
+    {
+      "title": "You Sleep",
+      "imslp_url": "https://imslp.org/wiki/You_Sleep_(Sullivan,_Arthur)",
+      "year": 1889
+    },
+    {
+      "title": "Ivanhoe",
+      "imslp_url": "https://imslp.org/wiki/Ivanhoe_(Sullivan,_Arthur)",
+      "year": 1890
+    },
+    {
+      "title": "The Foresters",
+      "imslp_url": "https://imslp.org/wiki/The_Foresters_(Sullivan,_Arthur)",
+      "year": 1891
+    },
+    {
+      "title": "Imperial March",
+      "imslp_url": "https://imslp.org/wiki/Imperial_March_(Sullivan,_Arthur)",
+      "year": 1893
+    },
+    {
+      "title": "Utopia Limited",
+      "imslp_url": "https://imslp.org/wiki/Utopia_Limited_(Sullivan,_Arthur)",
+      "year": 1893
+    },
+    {
+      "title": "The Chieftain",
+      "imslp_url": "https://imslp.org/wiki/The_Chieftain_(Sullivan,_Arthur)",
+      "year": 1894
+    },
+    {
+      "title": "The Grand Duke",
+      "imslp_url": "https://imslp.org/wiki/The_Grand_Duke_(Sullivan,_Arthur)",
+      "year": 1896
+    },
+    {
+      "title": "Victoria and Merrie England",
+      "imslp_url": "https://imslp.org/wiki/Victoria_and_Merrie_England_(Sullivan,_Arthur)",
+      "year": 1897
+    },
+    {
+      "title": "The Beauty Stone",
+      "imslp_url": "https://imslp.org/wiki/The_Beauty_Stone_(Sullivan,_Arthur)",
+      "year": 1898
+    },
+    {
+      "title": "The Martyr of Antioch (suite)",
+      "imslp_url": "https://imslp.org/wiki/The_Martyr_of_Antioch_(suite)_(Sullivan,_Arthur)",
+      "year": 1898
+    },
+    {
+      "title": "The Absent-Minded Beggar March",
+      "imslp_url": "https://imslp.org/wiki/The_Absent-Minded_Beggar_March_(Sullivan,_Arthur)",
+      "year": 1899
+    },
+    {
+      "title": "The Rose of Persia",
+      "imslp_url": "https://imslp.org/wiki/The_Rose_of_Persia_(Sullivan,_Arthur)",
+      "year": 1899
+    },
+    {
+      "title": "Te Deum laudamus",
+      "imslp_url": "https://imslp.org/wiki/Te_Deum_laudamus_(Sullivan,_Arthur)",
+      "year": 1900
     }
   ]
 }

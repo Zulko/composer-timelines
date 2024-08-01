@@ -1,696 +1,532 @@
 {
   "full_name": "Ferruccio Busoni",
-  "first_names": "Ferruccio",
+  "first_names": "Ferruccio Dante Michelangelo Benvenuto",
   "last_name": "Busoni",
   "birth_year": 1866,
   "death_year": 1924,
   "wikipedia_url": "https://en.wikipedia.org/wiki/Ferruccio_Busoni",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Ferruccio Busoni was born as the only child of two professional musicians. He entered the world on April Fool's Day, not just filling the house with music but also with a sense of humor, which would come in handy later in his career.",
+      "section": "Biography",
+      "title": "Birth",
+      "summary": "Ferruccio Busoni was born on 1 April 1866 in the Tuscan town of Empoli, to professional musician parents.",
       "year": 1866,
-      "city": "Empoli",
-      "country": "Italy"
+      "location": "Empoli, Italy",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Ferruccio Busoni, who popped into the world on April Fool's Day in 1866, certainly wasn't kidding around when it came to music! He was born in Empoli, Tuscany, to a couple of professional musicians, which explains why he never needed a 'hobby' \u2014 he came out ready to compose!"
     },
     {
-      "event": "Public Debut",
-      "summary": "Busoni made a notable public debut at just seven years old, performing alongside his parents. He jokingly lamented never having a true childhood due to the pressure of early fame, probably leaving him wondering when nap time became a concert.",
+      "section": "Biography",
+      "title": "Public Debut",
+      "summary": "Busoni made his public debut as a pianist on 24 November 1873, performing at the Schiller-Verein in Trieste alongside his parents.",
       "year": 1873,
-      "city": "Trieste",
-      "country": "Italy"
+      "location": "Trieste, Italy",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "So, on 24 November 1873, a young Busoni stepped onto the stage at the Schiller-Verein in Trieste. Picture this: he's there with his parents, who must have been both proud and terrified to watch their son try not to make a grand piano his personal trampoline!"
     },
     {
-      "event": "Concerto Debut",
-      "summary": "At the tender age of nine, Busoni took to the stage for his concerto debut, playing Mozart. It was a start that made many adults reconsider their childhood achievements, probably leaving them feeling like they needed to step up their game.",
+      "section": "Biography",
+      "title": "Concerto Debut",
+      "summary": "In 1875, Busoni made his concerto debut by playing Mozart's Piano Concerto No. 24.",
       "year": 1875,
-      "city": "Vienna",
-      "country": "Austria"
+      "location": "Vienna, Austria",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "In 1875, Busoni made his concerto debut by playing Mozart's Piano Concerto No. 24. I guess Mozart was just tuning in from the afterlife, wondering what on earth Busoni was doing with his masterpiece."
     },
     {
-      "event": "Study at Conservatory",
-      "summary": "Busoni took his talents to the Vienna Conservatory, where he supposedly studied very hard. However, with a young prodigy in the mix, it's safe to say some of his classmates probably felt like they were in a live version of 'School of Rock'.",
-      "year": 1877,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Accademia Filharmonica Membership",
-      "summary": "Elected as the youngest member to the Accademia Filharmonica in Bologna, Busoni officially became a big deal. Mozart likely rolled over in his grave, thinking, 'Great, more competition.'",
+      "section": "Biography",
+      "title": "Elected to Accademia Filharmonica",
+      "summary": "In 1881, Busoni was elected as the youngest member to the Accademia Filharmonica of Bologna since Mozart.",
       "year": 1881,
-      "city": "Bologna",
-      "country": "Italy"
+      "location": "Bologna, Italy",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1881, Busoni was elected as the youngest member of the Accademia Filharmonica of Bologna\u2014because apparently, they were looking for someone who could still hit the high notes without needing a nap! Since Mozart makes him quite the prodigy, doesn't it?"
     },
     {
-      "event": "Marriage",
-      "summary": "In a romantic whirlwind, Busoni met and proposed to his future wife in less than a week. The man clearly believed in love at first sight, or perhaps he just couldn't resist her sculptor lineage.",
-      "year": 1890,
-      "city": "Moscow",
-      "country": "Russia"
+      "section": "Biography",
+      "title": "Marriage to Gerda Sj\u00f6strand",
+      "summary": "Busoni proposed to his future wife, Gerda Sj\u00f6strand, within a week of meeting her in March 1889.",
+      "year": 1889,
+      "location": "Helsingfors (Helsinki), Finland",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "In a whirlwind romance that could make even Cupid blush, Busoni popped the question to Gerda Sj\u00f6strand just one week after they first crossed paths in March 1889."
     },
     {
-      "event": "Birth of First Son",
-      "summary": "With the arrival of his son, Benvenuto, Busoni stepped into fatherhood. One can only imagine him composing lullabies that were slightly more complex than most parents' attempts at bedtime tunes.",
+      "section": "Biography",
+      "title": "First Son Born",
+      "summary": "His first son, Benvenuto (known as Benni), was born in Boston in 1892.",
       "year": 1892,
-      "city": "Boston",
-      "country": "United States"
+      "location": "Boston, USA",
+      "emoji": "\ud83d\udc76",
+      "fun_version": "His first son, Benvenuto (known as Benni), was born in Boston in 1892. What a time to be born! Can you imagine? Back then, the biggest baby trend was probably how many mittens one could wear at once!"
     },
     {
-      "event": "Berlin Relocation",
-      "summary": "Busoni moved to Berlin, a city he initially despised. However, he quickly adjusted and began re-evaluating his musical traditions, likely thinking, 'If I can't beat them, I might as well join them... or at least entertain them.'",
-      "year": 1894,
-      "city": "Berlin",
-      "country": "Germany"
-    },
-    {
-      "event": "International Recognition",
-      "summary": "Busoni's reputation soared as he became a sought-after performer across Europe. Critiques might have varied, but overwhelming talent meant he'd always find an audience, often leaving them thinking, 'Now, that's a pianist!'",
-      "year": 1900,
-      "city": "Various",
-      "country": "Europe"
-    },
-    {
-      "event": "Piano Concerto Completion",
-      "summary": "After much hard work, Busoni completed his monumental Piano Concerto\u2014a piece so long that it probably had its own interval for the audience to stretch their legs and refresh their snacks.",
-      "year": 1904,
-      "city": "Berlin",
-      "country": "Germany"
-    },
-    {
-      "event": "Opera Performance",
-      "summary": "His opera Die Brautwahl premiered to a lukewarm reception, instantly confirming Busoni's belief that not all creations are winners. He might not have won the crowd, but his next opera was bound to be better, right?",
-      "year": 1912,
-      "city": "Berlin",
-      "country": "Germany"
-    },
-    {
-      "event": "Concert Tour and Premieres",
-      "summary": "In a whirlwind of creativity, Busoni not only performed but also showcased his own works. Imagine him dazzling the audience in 1904 with his Piano Concerto, while critics scrambled to decide whether to applaud or throw tomatoes. Spoiler alert: they chose the latter!",
-      "year": 1904,
-      "city": "Berlin",
-      "country": "Germany"
-    },
-    {
-      "event": "Masterclasses in Weimar",
-      "summary": "Busoni got a royal invite to lead a masterclass for young virtuosos, making him a mentor rather than just a teacher. Despite having to endure arguments with authorities, the twice-weekly seminars were a hit. Who knew teaching could be so dramatic?",
-      "year": 1900,
-      "city": "Weimar",
-      "country": "Germany"
-    },
-    {
-      "event": "Private Performance of Pierrot lunaire",
-      "summary": "In a gathering that could rival any exclusive party, Busoni hosted a private performance of Schoenberg's masterpiece. The guest list included luminaries like Mengelberg and Var\u00e8se. They probably left wondering if they\u2019d just seen a performance or entered an art gallery!",
-      "year": 1913,
-      "city": "Berlin",
-      "country": "Germany"
-    },
-    {
-      "event": "Post-War Concert Tours",
-      "summary": "After the dust settled from the war, Busoni hit the concert circuit again, dazzling audiences in England and Paris. Picture him as a musical superhero, swooping in to save the day with his performances amidst the chaos of post-war uncertainty.",
-      "year": 1919,
-      "city": "Various",
-      "country": "Various"
-    },
-    {
-      "event": "Return to Berlin",
-      "summary": "Busoni made a triumphant return to Berlin in 1920, only to find his health declining. Yet, instead of retiring, he kept performing, proving that age is just a number, especially when you have unfinished operas to complete!",
-      "year": 1920,
-      "city": "Berlin",
-      "country": "Germany"
-    },
-    {
-      "event": "Last Concert Appearance",
-      "summary": "In a final flourish, Busoni played Beethoven's Emperor Concerto in 1922. The performance was so magnificent that it left the audience wondering if they had just witnessed an earthly concert or a celestial event!",
-      "year": 1922,
-      "city": "Berlin",
-      "country": "Germany"
-    },
-    {
-      "event": "Death and Unfinished Work",
-      "summary": "Busoni passed away, leaving behind the unfinished opera Doktor Faust. It was a tragic end for such a prolific composer, a bit like a chef whose cookbook remains half-written, with delicious recipes that will never see the light of day.",
-      "year": 1924,
-      "city": "Berlin",
-      "country": "Germany"
-    },
-    {
-      "event": "Publication of the first part of Busoni's Bach edition",
-      "summary": "In Berlin, Busoni released the first book of Bach's The Well-Tempered Clavier, complete with appendices that explained how to turn Bach's organ works into piano masterpieces. The critics probably needed a thesaurus for finding new words for 'piano magic'.",
-      "year": 1894,
-      "city": "Berlin",
-      "country": "Germany"
-    },
-    {
-      "event": "Death of Busoni's father",
-      "summary": "After his father's passing, Busoni channeled his grief into creativity, crafting a Fantasia after J.S. Bach. It was like composing a heartfelt postcard to heaven, though it might have amused Bach with its twists.",
-      "year": 1909,
-      "city": "Unknown",
-      "country": "Unknown"
-    },
-    {
-      "event": "Writing of the Sketch of a New Esthetic of Music",
-      "summary": "Busoni penned his groundbreaking essays revealing his musical philosophy, arguing that music was 'born free'\u2014the original rebel! It\u2019s the kind of manifesto that would make Beethoven nod in approval while rolling his eyes at conventional rules.",
-      "year": 1907,
-      "city": "Unknown",
-      "country": "Unknown"
-    },
-    {
-      "event": "Completion of early piano works",
-      "summary": "Busoni\u2019s matured style blossomed, producing a set of piano works that set traditional music theory aside for a whimsical stroll into eccentricity. The critics probably needed their own map to navigate through his creativity.",
-      "year": 1907,
-      "city": "Unknown",
-      "country": "Unknown"
-    },
-    {
-      "event": "Writing of the Fantasia contrappuntistica",
-      "summary": "Busoni gave Bach's final incomplete fugue a makeover with his Fantasia contrappuntistica. Think of it as giving a classic car a turbocharged engine, blending echoes of the old with a new, exhilarating thrill.",
-      "year": 1910,
-      "city": "Unknown",
-      "country": "Unknown"
-    },
-    {
-      "event": "Inspiration from North American indigenous music",
-      "summary": "Busoni tapped into indigenous melodies, transforming them into the Indian Fantasy for piano and orchestra. It was like hosting a cultural dinner party, with a bit of classical elegance and a splash of indigenous zest on the side.",
-      "year": 1913,
-      "city": "Unknown",
-      "country": "Unknown"
-    },
-    {
-      "event": "Work on Doktor Faust",
-      "summary": "Busoni started composing his opera Doktor Faust, a magnum opus that unfortunately remained a work-in-progress when he kicked the bucket, leaving his students to play musical detectives trying to finish the puzzle.",
-      "year": 1916,
-      "city": "Unknown",
-      "country": "Unknown"
-    },
-    {
-      "event": "Completion of Klavier\u00fcbung",
-      "summary": "For the last stretch of his life, Busoni poured his heart into Klavier\u00fcbung, a comprehensive collection of exercises and compositions. It\u2019s like the ultimate study guide that one could hardly resist flipping through\u2014even if it did involve a bit of sweat!",
-      "year": 1922,
-      "city": "Unknown",
-      "country": "Unknown"
-    },
-    {
-      "event": "First Public Performance",
-      "summary": "At the tender age of nine, young Busoni decided to dazzle the world with his piano skills, not to mention his impressive collection of childhood compliments.",
-      "year": 1875,
-      "city": "Florence",
-      "country": "Italy"
-    },
-    {
-      "event": "Study in Berlin",
-      "summary": "Busoni moved to Berlin to study music, and quickly learned that sharing a practice room was a quick way to forge bonds\u2014or rivalries\u2014with fellow musicians.",
-      "year": 1884,
-      "city": "Berlin",
-      "country": "Germany"
-    },
-    {
-      "event": "Debut as a Composer",
-      "summary": "Busoni debuted his first compositions, proving he was not just a pianist but also a composer\u2014much to the surprise of people who didn't see that coming!",
+      "section": "Biography",
+      "title": "Berlin Premiere of Falstaff",
+      "summary": "Busoni attended the Berlin premiere of Verdi's opera Falstaff in April 1893, marking a change in his artistic life.",
       "year": 1893,
-      "city": "Dresden",
-      "country": "Germany"
+      "location": "Berlin, Germany",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Busoni attended the Berlin premiere of Verdi's opera Falstaff in April 1893, marking a change in his artistic life. With such a change, it was like his creative spirit decided to take the scenic route through comedy town!"
     },
     {
-      "event": "International Fame",
-      "summary": "His career soared, as Busoni gained international fame. He became the talk of the town or, rather, the talk of every concert hall in Europe.",
-      "year": 1907,
-      "city": "Various",
-      "country": "Various"
+      "section": "Biography",
+      "title": "Settlement in Berlin",
+      "summary": "In 1894, Busoni settled in Berlin, which he considered his home base henceforth, except during WWI.",
+      "year": 1894,
+      "location": "Berlin, Germany",
+      "emoji": "\ud83c\udfd9\ufe0f",
+      "fun_version": "Back in 1894, Busoni decided to plant his flag in Berlin, which he considered his home base henceforth, as if it were his favorite pizza joint! He thought, 'This is my home, folks!'\u2014until he had to deal with World War I, making him reconsider his choice for an Airbnb!"
     },
     {
-      "event": "Composition of 'Doktor Faust'",
-      "summary": "Busoni began working on 'Doktor Faust', a composition that combined his love for drama and music, resulting in a piece that made audiences ponder deeply while simultaneously checking their watches.",
-      "year": 1916,
-      "city": "Berlin",
-      "country": "Germany"
+      "section": "Biography",
+      "title": "Directorship of Liceo Rossini",
+      "summary": "Following concerts in Northern Italy, Busoni was offered and took the directorship of the Liceo Rossini in Bologna in 1913.",
+      "year": 1913,
+      "location": "Bologna, Italy",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "After dazzling audiences with his concerts in Northern Italy, Busoni was rewarded with the prestigious directorship of the Liceo Rossini in Bologna in 1913 \u2014 because, apparently, becoming the king of the concert stage wasn't enough and he needed to reign over a music school too!"
     },
     {
-      "event": "Death",
-      "summary": "Busoni passed away, leaving behind a legacy of music that was both complex and engaging\u2014a challenge for musicians yet a joy for concert-goers.",
+      "section": "Biography",
+      "title": "Death",
+      "summary": "Busoni died in Berlin on 27 July 1924, with heart failure as the official cause, although other health issues contributed.",
       "year": 1924,
-      "city": "Berlin",
-      "country": "Germany"
+      "location": "Berlin, Germany",
+      "emoji": "\u26b0\ufe0f",
+      "fun_version": "On July 27, 1924, in Berlin, Busoni's heart decided it was time to retire, officially citing heart failure. It's like his heart said, 'I\u2019m going on a permanent vacation!' But let's not forget, there were other pesky health issues involved too!"
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/Album_vocale,_BV_114_(Busoni,_Ferruccio)",
-      "year": 1884,
-      "title": "Album vocale, BV 114"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Albumblatt,_BV_272_(Busoni,_Ferruccio)",
-      "year": 1916,
-      "title": "Albumblatt, BV 272"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Albumbl%C3%A4tter,_BV_289_(Busoni,_Ferruccio)",
-      "year": 1917,
-      "title": "3 Albumbl\u00e4tter, BV 289"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/An_die_Jugend,_BV_254_(Busoni,_Ferruccio)",
-      "year": 1909,
-      "title": "An die Jugend, BV 254"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Arlecchino,_BV_270_(Busoni,_Ferruccio)",
-      "year": 1914,
-      "title": "Arlecchino, BV 270"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Bagatellen,_Op.28,_BV_229_(Busoni,_Ferruccio)",
-      "year": 1888,
-      "title": "4 Bagatellen, Op.28, BV 229"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ballettszene_No.2,_Op.20,_BV_209_(Busoni,_Ferruccio)",
-      "year": 1885,
-      "title": "Ballettszene No.2, Op.20, BV 209"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Berceuse_%C3%A9l%C3%A9giaque,_Op.42,_BV_252a_(Busoni,_Ferruccio)",
-      "year": 1909,
-      "title": "Berceuse \u00e9l\u00e9giaque, Op.42, BV 252a"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Die_Brautwahl_(suite),_Op.45,_BV_261_(Busoni,_Ferruccio)",
-      "year": 1912,
-      "title": "Die Brautwahl"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Die_Brautwahl,_BV_258_(Busoni,_Ferruccio)",
-      "year": 1905,
-      "title": "Die Brautwahl, BV 258"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Canonic_Variations_%26_Fugue_in_C_minor,_BV_B40_(Busoni,_Ferruccio)",
-      "year": 1916,
-      "title": "Canonic Variations & Fugue in C minor, BV B40"
-    },
-    {
+      "title": "Canzone",
       "imslp_url": "https://imslp.org/wiki/Canzone_(Busoni,_Ferruccio)",
-      "year": 1873,
-      "title": "Canzone"
+      "year": 1873
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Concertino,_Op.48,_BV_276_(Busoni,_Ferruccio)",
-      "year": 1918,
-      "title": "Concertino, Op.48, BV 276"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Concerto_for_Piano_and_String_Quartet,_Op.17,_BV_80_(Busoni,_Ferruccio)",
-      "year": 1878,
-      "title": "Concerto for Piano and String Quartet, Op.17, BV 80"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Danza_Notturna,_BV_189_(Busoni,_Ferruccio)",
-      "year": 1882,
-      "title": "Danza Notturna, BV 189"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Danze_antiche,_Op.11_(Busoni,_Ferruccio)",
-      "year": 1879,
-      "title": "Danze antiche, Op.11"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Divertimento,_Op.52,_BV_285_(Busoni,_Ferruccio)",
-      "year": 1920,
-      "title": "Divertimento, Op.52, BV 285"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Doktor_Faust_(Busoni,_Ferruccio)",
-      "year": 1916,
-      "title": "Doktor Faust"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Duettino_concertante_nach_Mozart,_BV_B_88_(Busoni,_Ferruccio)",
-      "year": 1919,
-      "title": "Duettino concertante nach Mozart, BV B 88"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Eine_Lustspielouvert%C3%BCre,_Op.38,_BV_245_(Busoni,_Ferruccio)",
-      "year": 1897,
-      "title": "Eine Lustspielouvert\u00fcre, Op.38, BV 245"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Elegie_in_E-flat_major,_BV_286_(Busoni,_Ferruccio)",
-      "year": 1920,
-      "title": "Elegie in E-flat major, BV 286"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Elegien,_BV_249_(Busoni,_Ferruccio)",
-      "year": 1907,
-      "title": "Elegien, BV 249"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/%C3%89tude_en_forme_de_variations,_Op.17,_BV_206_(Busoni,_Ferruccio)",
-      "year": 1883,
-      "title": "\u00c9tude en forme de variations, Op.17, BV 206"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_%C3%89tudes,_Op.16,_BV_203_(Busoni,_Ferruccio)",
-      "year": 1883,
-      "title": "6 \u00c9tudes, Op.16, BV 203"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fantasia_contrappuntistica,_BV_256_(Busoni,_Ferruccio)",
-      "year": 1910,
-      "title": "Fantasia contrappuntistica, BV 256"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fantasia_nach_J.S._Bach,_BV_253_(Busoni,_Ferruccio)",
-      "year": 1909,
-      "title": "Fantasia nach J.S. Bach, BV 253"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fantasia,_Adagio_e_Fuga,_BV_B_37_(Busoni,_Ferruccio)",
-      "year": 1915,
-      "title": "Fantasia, Adagio e Fuga, BV B 37"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fantasie,_Fuge,_Andante_und_Scherzo,_BV_B_42_(Busoni,_Ferruccio)",
-      "year": 1917,
-      "title": "Fantasie, Fuge, Andante und Scherzo, BV B 42"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Finnl%C3%A4ndische_Volksweisen,_Op.27,_BV_227_(Busoni,_Ferruccio)",
-      "year": 1888,
-      "title": "Finnl\u00e4ndische Volksweisen, Op.27, BV 227"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Gedichte_von_Goethe,_BV_277-78_(Busoni,_Ferruccio)",
-      "year": 1917,
-      "title": "2 Gedichte von Goethe, BV 277-78"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Gro%C3%9Fe_Fuge,_BV_255_(Busoni,_Ferruccio)",
-      "year": 1910,
-      "title": "Gro\u00dfe Fuge, BV 255"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Improvisation_%C3%BCber_Bachs_Chorallied_%22Wie_wohl_ist_mir%22,_BV_271_(Busoni,_Ferruccio)",
-      "year": 1916,
-      "title": "Improvisation \u00fcber Bachs Chorallied \"Wie wohl ist mir\", BV 271"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Indianische_Fantasie,_Op.44,_BV_264_(Busoni,_Ferruccio)",
-      "year": 1913,
-      "title": "Indianische Fantasie, Op.44, BV 264"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Indianisches_Tagebuch_I,_BV_267_(Busoni,_Ferruccio)",
-      "year": 1915,
-      "title": "Indianisches Tagebuch I, BV 267"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Indianisches_Tagebuch_II,_Op.47,_BV_269_(Busoni,_Ferruccio)",
-      "year": 1916,
-      "title": "Indianisches Tagebuch II, Op.47, BV 269"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Kammer-Fantasie_%C3%BCber_Bizets_%27Carmen%27_(Busoni,_Ferruccio)",
-      "year": 1920,
-      "title": "Kammer-Fantasie \u00fcber Bizets 'Carmen'"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Kleine_Suite,_Op.23,_BV_215_(Busoni,_Ferruccio)",
-      "year": 1885,
-      "title": "Kleine Suite, Op.23, BV 215"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Konzertst%C3%BCck,_Op.31a,_BV_236_(Busoni,_Ferruccio)",
-      "year": 1890,
-      "title": "Konzertst\u00fcck, Op.31a, BV 236"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Kurze_St%C3%BCcke,_BV_296_(Busoni,_Ferruccio)",
-      "year": 1923,
-      "title": "5 Kurze St\u00fccke, BV 296"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Lied_des_Brander_(Busoni,_Ferruccio)",
-      "year": 1918,
-      "title": "Lied des Brander"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Lied_des_Unmuts_(Busoni,_Ferruccio)",
-      "year": 1918,
-      "title": "Lied des Unmuts"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Lieder,_BV_202_(Busoni,_Ferruccio)",
-      "year": 1883,
-      "title": "2 Lieder, BV 202"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Macchiette_medioevali,_Op.33,_BV_194_(Busoni,_Ferruccio)",
-      "year": 1883,
-      "title": "Macchiette medioevali, Op.33, BV 194"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Minuetto,_Op.14,_BV_77_(Busoni,_Ferruccio)",
-      "year": 1878,
-      "title": "Minuetto, Op.14, BV 77"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Morceaux,_BV_197_(Busoni,_Ferruccio)",
-      "year": 1881,
-      "title": "3 Morceaux, BV 197"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Nocturne_symphonique,_Op.43,_BV_262_(Busoni,_Ferruccio)",
-      "year": 1912,
-      "title": "Nocturne symphonique, Op.43, BV 262"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Nuit_de_No%C3%ABl,_BV_251_(Busoni,_Ferruccio)",
-      "year": 1908,
-      "title": "Nuit de No\u00ebl, BV 251"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Perpetuum_mobile,_BV_293_(Busoni,_Ferruccio)",
-      "year": 1922,
-      "title": "Perpetuum mobile, BV 293"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Pezzi_nello_stile_antico,_Op.10,_BV_159_(Busoni,_Ferruccio)",
-      "year": 1880,
-      "title": "3 Pezzi nello stile antico, Op.10, BV 159"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Concerto,_BV_247_(Busoni,_Ferruccio)",
-      "year": 1903,
-      "title": "Piano Concerto, BV 247"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_in_F_minor,_BV_204_(Busoni,_Ferruccio)",
-      "year": 1883,
-      "title": "Piano Sonata in F minor, BV 204"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Sonata,_Op.8,_BV_61_(Busoni,_Ferruccio)",
-      "year": 1878,
-      "title": "Piano Sonata, Op.8, BV 61"
-    },
-    {
+      "title": "5 Pieces, Op.3, BV 71",
       "imslp_url": "https://imslp.org/wiki/5_Pieces,_Op.3,_BV_71_(Busoni,_Ferruccio)",
-      "year": 1877,
-      "title": "5 Pieces, Op.3, BV 71"
+      "year": 1877
     },
     {
-      "imslp_url": "https://imslp.org/wiki/4_Poesie_liriche,_Op.40,_BV_191_(Busoni,_Ferruccio)",
-      "year": 1882,
-      "title": "4 Poesie liriche, Op.40, BV 191"
+      "title": "Concerto for Piano and String Quartet, Op.17, BV 80",
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_Piano_and_String_Quartet,_Op.17,_BV_80_(Busoni,_Ferruccio)",
+      "year": 1878
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Praeludium_und_Doppelfuge_zum_Choral,_Op.7_(Busoni,_Ferruccio)",
-      "year": 1880,
-      "title": "Praeludium und Doppelfuge zum Choral, Op.7"
+      "title": "Minuetto, Op.14, BV 77",
+      "imslp_url": "https://imslp.org/wiki/Minuetto,_Op.14,_BV_77_(Busoni,_Ferruccio)",
+      "year": 1878
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Preghiera_alla_Madonna,_op._7_(Busoni,_Ferruccio)",
-      "year": 1873,
-      "title": "Preghiera alla Madonna, op. 7"
+      "title": "Piano Sonata, Op.8, BV 61",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata,_Op.8,_BV_61_(Busoni,_Ferruccio)",
+      "year": 1878
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Pr%C3%A9lude_et_%C3%A9tude_en_arp%C3%A8ges,_BV_297_(Busoni,_Ferruccio)",
-      "year": 1923,
-      "title": "Pr\u00e9lude et \u00e9tude en arp\u00e8ges, BV 297"
-    },
-    {
+      "title": "24 Preludes, Op.37, BV 181",
       "imslp_url": "https://imslp.org/wiki/24_Preludes,_Op.37,_BV_181_(Busoni,_Ferruccio)",
-      "year": 1879,
-      "title": "24 Preludes, Op.37, BV 181"
+      "year": 1879
     },
     {
+      "title": "Danze antiche, Op.11",
+      "imslp_url": "https://imslp.org/wiki/Danze_antiche,_Op.11_(Busoni,_Ferruccio)",
+      "year": 1879
+    },
+    {
+      "title": "3 Pezzi nello stile antico, Op.10, BV 159",
+      "imslp_url": "https://imslp.org/wiki/3_Pezzi_nello_stile_antico,_Op.10,_BV_159_(Busoni,_Ferruccio)",
+      "year": 1880
+    },
+    {
+      "title": "Des S\u00e4ngers Fluch, Op.39, BV 98",
+      "imslp_url": "https://imslp.org/wiki/Des_S\u00e4ngers_Fluch,_Op.39,_BV_98_(Busoni,_Ferruccio)",
+      "year": 1880
+    },
+    {
+      "title": "Praeludium und Doppelfuge zum Choral, Op.7",
+      "imslp_url": "https://imslp.org/wiki/Praeludium_und_Doppelfuge_zum_Choral,_Op.7_(Busoni,_Ferruccio)",
+      "year": 1880
+    },
+    {
+      "title": "Racconti fantastici, Op.12, BV 100",
       "imslp_url": "https://imslp.org/wiki/Racconti_fantastici,_Op.12,_BV_100_(Busoni,_Ferruccio)",
-      "year": 1880,
-      "title": "Racconti fantastici, Op.12, BV 100"
+      "year": 1880
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Rond%C3%B2_arlecchinesco,_Op.46,_BV_266_(Busoni,_Ferruccio)",
-      "year": 1915,
-      "title": "Rond\u00f2 arlecchinesco, Op.46, BV 266"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Des_S%C3%A4ngers_Fluch,_Op.39,_BV_98_(Busoni,_Ferruccio)",
-      "year": 1880,
-      "title": "Des S\u00e4ngers Fluch, Op.39, BV 98"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Sarabande_and_Cort%C3%A8ge,_BV_282_(Busoni,_Ferruccio)",
-      "year": 1918,
-      "title": "Sarabande and Cort\u00e8ge, BV 282"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Schlechter_Trost_(Busoni,_Ferruccio)",
-      "year": 1924,
-      "title": "Schlechter Trost"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Serenata,_Op.34,_BV_196_(Busoni,_Ferruccio)",
-      "year": 1883,
-      "title": "Serenata, Op.34, BV 196"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Sonatina_No.1,_BV_257_(Busoni,_Ferruccio)",
-      "year": 1910,
-      "title": "Sonatina No.1, BV 257"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Sonatina_No.2,_BV_259_(Busoni,_Ferruccio)",
-      "year": 1912,
-      "title": "Sonatina No.2, BV 259"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Sonatina_No.3,_BV_268_(Busoni,_Ferruccio)",
-      "year": 1915,
-      "title": "Sonatina No.3, BV 268"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Sonatina_No.4,_BV_274_(Busoni,_Ferruccio)",
-      "year": 1917,
-      "title": "Sonatina No.4, BV 274"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Sonatina_No.5,_BV_280_(Busoni,_Ferruccio)",
-      "year": 1919,
-      "title": "Sonatina No.5, BV 280"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Sonatina_No.6,_BV_284_(Busoni,_Ferruccio)",
-      "year": 1920,
-      "title": "Sonatina No.6, BV 284"
-    },
-    {
+      "title": "String Quartet No.1, Op.19, BV 208",
       "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1,_Op.19,_BV_208_(Busoni,_Ferruccio)",
-      "year": 1880,
-      "title": "String Quartet No.1, Op.19, BV 208"
+      "year": 1880
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2,_Op.26,_BV_225_(Busoni,_Ferruccio)",
-      "year": 1887,
-      "title": "String Quartet No.2, Op.26, BV 225"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_St%C3%BCcke,_Op.33b,_BV_241_(Busoni,_Ferruccio)",
-      "year": 1895,
-      "title": "6 St\u00fccke, Op.33b, BV 241"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Suite_No.2,_Op.34a,_BV_242_(Busoni,_Ferruccio)",
-      "year": 1894,
-      "title": "Suite No.2, Op.34a, BV 242"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Symphonisches_Tongedicht,_Op.32a,_BV_240_(Busoni,_Ferruccio)",
-      "year": 1893,
-      "title": "Symphonisches Tongedicht, Op.32a, BV 240"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Tanzst%C3%BCcke,_Op.30a,_BV_235a_(Busoni,_Ferruccio)",
-      "year": 1914,
-      "title": "2 Tanzst\u00fccke, Op.30a, BV 235a"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Tanzwalzer,_Op.53,_BV_288_(Busoni,_Ferruccio)",
-      "year": 1920,
-      "title": "Tanzwalzer, Op.53, BV 288"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Toccata,_BV_287_(Busoni,_Ferruccio)",
-      "year": 1921,
-      "title": "Toccata, BV 287"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Trascrizione_di_concerto_sopra_motivi_dell%E2%80%99opera_%27Merlino%27,_BV_B_55_(Busoni,_Ferruccio)",
-      "year": 1887,
-      "title": "Trascrizione di concerto sopra motivi dell\u2019opera 'Merlino', BV B 55"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Turandot_(suite),_Op.41,_BV_248_(Busoni,_Ferruccio)",
-      "year": 1904,
-      "title": "Turandot"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Turandot,_BV_273_(Busoni,_Ferruccio)",
-      "year": 1916,
-      "title": "Turandot, BV 273"
-    },
-    {
+      "title": "Una festa di villaggio, Op.9, BV 185",
       "imslp_url": "https://imslp.org/wiki/Una_festa_di_villaggio,_Op.9,_BV_185_(Busoni,_Ferruccio)",
-      "year": 1880,
-      "title": "Una festa di villaggio, Op.9, BV 185"
+      "year": 1880
     },
     {
+      "title": "3 Morceaux, BV 197",
+      "imslp_url": "https://imslp.org/wiki/3_Morceaux,_BV_197_(Busoni,_Ferruccio)",
+      "year": 1881
+    },
+    {
+      "title": "4 Poesie liriche, Op.40, BV 191",
+      "imslp_url": "https://imslp.org/wiki/4_Poesie_liriche,_Op.40,_BV_191_(Busoni,_Ferruccio)",
+      "year": 1882
+    },
+    {
+      "title": "Danza Notturna, BV 189",
+      "imslp_url": "https://imslp.org/wiki/Danza_Notturna,_BV_189_(Busoni,_Ferruccio)",
+      "year": 1882
+    },
+    {
+      "title": "2 Lieder, BV 202",
+      "imslp_url": "https://imslp.org/wiki/2_Lieder,_BV_202_(Busoni,_Ferruccio)",
+      "year": 1883
+    },
+    {
+      "title": "6 \u00c9tudes, Op.16, BV 203",
+      "imslp_url": "https://imslp.org/wiki/6_\u00c9tudes,_Op.16,_BV_203_(Busoni,_Ferruccio)",
+      "year": 1883
+    },
+    {
+      "title": "Macchiette medioevali, Op.33, BV 194",
+      "imslp_url": "https://imslp.org/wiki/Macchiette_medioevali,_Op.33,_BV_194_(Busoni,_Ferruccio)",
+      "year": 1883
+    },
+    {
+      "title": "Piano Sonata in F minor, BV 204",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_in_F_minor,_BV_204_(Busoni,_Ferruccio)",
+      "year": 1883
+    },
+    {
+      "title": "Serenata, Op.34, BV 196",
+      "imslp_url": "https://imslp.org/wiki/Serenata,_Op.34,_BV_196_(Busoni,_Ferruccio)",
+      "year": 1883
+    },
+    {
+      "title": "\u00c9tude en forme de variations, Op.17, BV 206",
+      "imslp_url": "https://imslp.org/wiki/\u00c9tude_en_forme_de_variations,_Op.17,_BV_206_(Busoni,_Ferruccio)",
+      "year": 1883
+    },
+    {
+      "title": "Album vocale, BV 114",
+      "imslp_url": "https://imslp.org/wiki/Album_vocale,_BV_114_(Busoni,_Ferruccio)",
+      "year": 1884
+    },
+    {
+      "title": "Variationen und Fuge in freier Form, BV 213",
       "imslp_url": "https://imslp.org/wiki/Variationen_und_Fuge_in_freier_Form,_BV_213_(Busoni,_Ferruccio)",
-      "year": 1884,
-      "title": "Variationen und Fuge in freier Form, BV 213"
+      "year": 1884
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Vierte_Ballettszene,_Op.33a,_BV_238_(Busoni,_Ferruccio)",
-      "year": 1894,
-      "title": "Vierte Ballettszene, Op.33a, BV 238"
+      "title": "Ballettszene No.2, Op.20, BV 209",
+      "imslp_url": "https://imslp.org/wiki/Ballettszene_No.2,_Op.20,_BV_209_(Busoni,_Ferruccio)",
+      "year": 1885
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Violin_Concerto,_Op.35a,_BV_243_(Busoni,_Ferruccio)",
-      "year": 1896,
-      "title": "Violin Concerto, Op.35a, BV 243"
+      "title": "Kleine Suite, Op.23, BV 215",
+      "imslp_url": "https://imslp.org/wiki/Kleine_Suite,_Op.23,_BV_215_(Busoni,_Ferruccio)",
+      "year": 1885
     },
     {
+      "title": "String Quartet No.2, Op.26, BV 225",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2,_Op.26,_BV_225_(Busoni,_Ferruccio)",
+      "year": 1887
+    },
+    {
+      "title": "Trascrizione di concerto sopra motivi dell\u2019opera 'Merlino', BV B 55",
+      "imslp_url": "https://imslp.org/wiki/Trascrizione_di_concerto_sopra_motivi_dell\u2019opera_'Merlino',_BV_B_55_(Busoni,_Ferruccio)",
+      "year": 1887
+    },
+    {
+      "title": "4 Bagatellen, Op.28, BV 229",
+      "imslp_url": "https://imslp.org/wiki/4_Bagatellen,_Op.28,_BV_229_(Busoni,_Ferruccio)",
+      "year": 1888
+    },
+    {
+      "title": "Finnl\u00e4ndische Volksweisen, Op.27, BV 227",
+      "imslp_url": "https://imslp.org/wiki/Finnl\u00e4ndische_Volksweisen,_Op.27,_BV_227_(Busoni,_Ferruccio)",
+      "year": 1888
+    },
+    {
+      "title": "Konzertst\u00fcck, Op.31a, BV 236",
+      "imslp_url": "https://imslp.org/wiki/Konzertst\u00fcck,_Op.31a,_BV_236_(Busoni,_Ferruccio)",
+      "year": 1890
+    },
+    {
+      "title": "Violin Sonata No.1, Op.29, BV 234",
       "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.1,_Op.29,_BV_234_(Busoni,_Ferruccio)",
-      "year": 1890,
-      "title": "Violin Sonata No.1, Op.29, BV 234"
+      "year": 1890
     },
     {
+      "title": "Symphonisches Tongedicht, Op.32a, BV 240",
+      "imslp_url": "https://imslp.org/wiki/Symphonisches_Tongedicht,_Op.32a,_BV_240_(Busoni,_Ferruccio)",
+      "year": 1893
+    },
+    {
+      "title": "Suite No.2, Op.34a, BV 242",
+      "imslp_url": "https://imslp.org/wiki/Suite_No.2,_Op.34a,_BV_242_(Busoni,_Ferruccio)",
+      "year": 1894
+    },
+    {
+      "title": "Vierte Ballettszene, Op.33a, BV 238",
+      "imslp_url": "https://imslp.org/wiki/Vierte_Ballettszene,_Op.33a,_BV_238_(Busoni,_Ferruccio)",
+      "year": 1894
+    },
+    {
+      "title": "6 St\u00fccke, Op.33b, BV 241",
+      "imslp_url": "https://imslp.org/wiki/6_St\u00fccke,_Op.33b,_BV_241_(Busoni,_Ferruccio)",
+      "year": 1895
+    },
+    {
+      "title": "Violin Concerto, Op.35a, BV 243",
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto,_Op.35a,_BV_243_(Busoni,_Ferruccio)",
+      "year": 1896
+    },
+    {
+      "title": "Eine Lustspielouvert\u00fcre, Op.38, BV 245",
+      "imslp_url": "https://imslp.org/wiki/Eine_Lustspielouvert\u00fcre,_Op.38,_BV_245_(Busoni,_Ferruccio)",
+      "year": 1897
+    },
+    {
+      "title": "Violin Sonata No.2, Op.36a, BV 244",
       "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.2,_Op.36a,_BV_244_(Busoni,_Ferruccio)",
-      "year": 1898,
-      "title": "Violin Sonata No.2, Op.36a, BV 244"
+      "year": 1898
     },
     {
+      "title": "Piano Concerto, BV 247",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto,_BV_247_(Busoni,_Ferruccio)",
+      "year": 1903
+    },
+    {
+      "title": "Turandot (suite), Op.41, BV 248",
+      "imslp_url": "https://imslp.org/wiki/Turandot_(suite),_Op.41,_BV_248_(Busoni,_Ferruccio)",
+      "year": 1904
+    },
+    {
+      "title": "Die Brautwahl, BV 258",
+      "imslp_url": "https://imslp.org/wiki/Die_Brautwahl,_BV_258_(Busoni,_Ferruccio)",
+      "year": 1905
+    },
+    {
+      "title": "Elegien, BV 249",
+      "imslp_url": "https://imslp.org/wiki/Elegien,_BV_249_(Busoni,_Ferruccio)",
+      "year": 1907
+    },
+    {
+      "title": "Nuit de No\u00ebl, BV 251",
+      "imslp_url": "https://imslp.org/wiki/Nuit_de_No\u00ebl,_BV_251_(Busoni,_Ferruccio)",
+      "year": 1908
+    },
+    {
+      "title": "An die Jugend, BV 254",
+      "imslp_url": "https://imslp.org/wiki/An_die_Jugend,_BV_254_(Busoni,_Ferruccio)",
+      "year": 1909
+    },
+    {
+      "title": "Berceuse \u00e9l\u00e9giaque, Op.42, BV 252a",
+      "imslp_url": "https://imslp.org/wiki/Berceuse_\u00e9l\u00e9giaque,_Op.42,_BV_252a_(Busoni,_Ferruccio)",
+      "year": 1909
+    },
+    {
+      "title": "Fantasia nach J.S. Bach, BV 253",
+      "imslp_url": "https://imslp.org/wiki/Fantasia_nach_J.S._Bach,_BV_253_(Busoni,_Ferruccio)",
+      "year": 1909
+    },
+    {
+      "title": "Fantasia contrappuntistica, BV 256",
+      "imslp_url": "https://imslp.org/wiki/Fantasia_contrappuntistica,_BV_256_(Busoni,_Ferruccio)",
+      "year": 1910
+    },
+    {
+      "title": "Gro\u00dfe Fuge, BV 255",
+      "imslp_url": "https://imslp.org/wiki/Gro\u00dfe_Fuge,_BV_255_(Busoni,_Ferruccio)",
+      "year": 1910
+    },
+    {
+      "title": "Sonatina No.1, BV 257",
+      "imslp_url": "https://imslp.org/wiki/Sonatina_No.1,_BV_257_(Busoni,_Ferruccio)",
+      "year": 1910
+    },
+    {
+      "title": "Die Brautwahl (suite), Op.45, BV 261",
+      "imslp_url": "https://imslp.org/wiki/Die_Brautwahl_(suite),_Op.45,_BV_261_(Busoni,_Ferruccio)",
+      "year": 1912
+    },
+    {
+      "title": "Nocturne symphonique, Op.43, BV 262",
+      "imslp_url": "https://imslp.org/wiki/Nocturne_symphonique,_Op.43,_BV_262_(Busoni,_Ferruccio)",
+      "year": 1912
+    },
+    {
+      "title": "Sonatina No.2, BV 259",
+      "imslp_url": "https://imslp.org/wiki/Sonatina_No.2,_BV_259_(Busoni,_Ferruccio)",
+      "year": 1912
+    },
+    {
+      "title": "Indianische Fantasie, Op.44, BV 264",
+      "imslp_url": "https://imslp.org/wiki/Indianische_Fantasie,_Op.44,_BV_264_(Busoni,_Ferruccio)",
+      "year": 1913
+    },
+    {
+      "title": "2 Tanzst\u00fccke, Op.30a, BV 235a",
+      "imslp_url": "https://imslp.org/wiki/2_Tanzst\u00fccke,_Op.30a,_BV_235a_(Busoni,_Ferruccio)",
+      "year": 1914
+    },
+    {
+      "title": "Arlecchino, BV 270",
+      "imslp_url": "https://imslp.org/wiki/Arlecchino,_BV_270_(Busoni,_Ferruccio)",
+      "year": 1914
+    },
+    {
+      "title": "Fantasia, Adagio e Fuga, BV B 37",
+      "imslp_url": "https://imslp.org/wiki/Fantasia,_Adagio_e_Fuga,_BV_B_37_(Busoni,_Ferruccio)",
+      "year": 1915
+    },
+    {
+      "title": "Indianisches Tagebuch I, BV 267",
+      "imslp_url": "https://imslp.org/wiki/Indianisches_Tagebuch_I,_BV_267_(Busoni,_Ferruccio)",
+      "year": 1915
+    },
+    {
+      "title": "Rond\u00f2 arlecchinesco, Op.46, BV 266",
+      "imslp_url": "https://imslp.org/wiki/Rond\u00f2_arlecchinesco,_Op.46,_BV_266_(Busoni,_Ferruccio)",
+      "year": 1915
+    },
+    {
+      "title": "Sonatina No.3, BV 268",
+      "imslp_url": "https://imslp.org/wiki/Sonatina_No.3,_BV_268_(Busoni,_Ferruccio)",
+      "year": 1915
+    },
+    {
+      "title": "Albumblatt, BV 272",
+      "imslp_url": "https://imslp.org/wiki/Albumblatt,_BV_272_(Busoni,_Ferruccio)",
+      "year": 1916
+    },
+    {
+      "title": "Canonic Variations & Fugue in C minor, BV B40",
+      "imslp_url": "https://imslp.org/wiki/Canonic_Variations_&_Fugue_in_C_minor,_BV_B40_(Busoni,_Ferruccio)",
+      "year": 1916
+    },
+    {
+      "title": "Doktor Faust",
+      "imslp_url": "https://imslp.org/wiki/Doktor_Faust_(Busoni,_Ferruccio)",
+      "year": 1916
+    },
+    {
+      "title": "Improvisation \u00fcber Bachs Chorallied \"Wie wohl ist mir\", BV 271",
+      "imslp_url": "https://imslp.org/wiki/Improvisation_\u00fcber_Bachs_Chorallied_\"Wie_wohl_ist_mir\",_BV_271_(Busoni,_Ferruccio)",
+      "year": 1916
+    },
+    {
+      "title": "Indianisches Tagebuch II, Op.47, BV 269",
+      "imslp_url": "https://imslp.org/wiki/Indianisches_Tagebuch_II,_Op.47,_BV_269_(Busoni,_Ferruccio)",
+      "year": 1916
+    },
+    {
+      "title": "Turandot, BV 273",
+      "imslp_url": "https://imslp.org/wiki/Turandot,_BV_273_(Busoni,_Ferruccio)",
+      "year": 1916
+    },
+    {
+      "title": "2 Gedichte von Goethe, BV 277-78",
+      "imslp_url": "https://imslp.org/wiki/2_Gedichte_von_Goethe,_BV_277-78_(Busoni,_Ferruccio)",
+      "year": 1917
+    },
+    {
+      "title": "3 Albumbl\u00e4tter, BV 289",
+      "imslp_url": "https://imslp.org/wiki/3_Albumbl\u00e4tter,_BV_289_(Busoni,_Ferruccio)",
+      "year": 1917
+    },
+    {
+      "title": "Fantasie, Fuge, Andante und Scherzo, BV B 42",
+      "imslp_url": "https://imslp.org/wiki/Fantasie,_Fuge,_Andante_und_Scherzo,_BV_B_42_(Busoni,_Ferruccio)",
+      "year": 1917
+    },
+    {
+      "title": "Sonatina No.4, BV 274",
+      "imslp_url": "https://imslp.org/wiki/Sonatina_No.4,_BV_274_(Busoni,_Ferruccio)",
+      "year": 1917
+    },
+    {
+      "title": "Concertino, Op.48, BV 276",
+      "imslp_url": "https://imslp.org/wiki/Concertino,_Op.48,_BV_276_(Busoni,_Ferruccio)",
+      "year": 1918
+    },
+    {
+      "title": "Lied des Brander",
+      "imslp_url": "https://imslp.org/wiki/Lied_des_Brander_(Busoni,_Ferruccio)",
+      "year": 1918
+    },
+    {
+      "title": "Lied des Unmuts",
+      "imslp_url": "https://imslp.org/wiki/Lied_des_Unmuts_(Busoni,_Ferruccio)",
+      "year": 1918
+    },
+    {
+      "title": "Sarabande and Cort\u00e8ge, BV 282",
+      "imslp_url": "https://imslp.org/wiki/Sarabande_and_Cort\u00e8ge,_BV_282_(Busoni,_Ferruccio)",
+      "year": 1918
+    },
+    {
+      "title": "Duettino concertante nach Mozart, BV B 88",
+      "imslp_url": "https://imslp.org/wiki/Duettino_concertante_nach_Mozart,_BV_B_88_(Busoni,_Ferruccio)",
+      "year": 1919
+    },
+    {
+      "title": "Sonatina No.5, BV 280",
+      "imslp_url": "https://imslp.org/wiki/Sonatina_No.5,_BV_280_(Busoni,_Ferruccio)",
+      "year": 1919
+    },
+    {
+      "title": "Divertimento, Op.52, BV 285",
+      "imslp_url": "https://imslp.org/wiki/Divertimento,_Op.52,_BV_285_(Busoni,_Ferruccio)",
+      "year": 1920
+    },
+    {
+      "title": "Elegie in E-flat major, BV 286",
+      "imslp_url": "https://imslp.org/wiki/Elegie_in_E-flat_major,_BV_286_(Busoni,_Ferruccio)",
+      "year": 1920
+    },
+    {
+      "title": "Sonatina No.6, BV 284",
+      "imslp_url": "https://imslp.org/wiki/Sonatina_No.6,_BV_284_(Busoni,_Ferruccio)",
+      "year": 1920
+    },
+    {
+      "title": "Tanzwalzer, Op.53, BV 288",
+      "imslp_url": "https://imslp.org/wiki/Tanzwalzer,_Op.53,_BV_288_(Busoni,_Ferruccio)",
+      "year": 1920
+    },
+    {
+      "title": "Toccata, BV 287",
+      "imslp_url": "https://imslp.org/wiki/Toccata,_BV_287_(Busoni,_Ferruccio)",
+      "year": 1921
+    },
+    {
+      "title": "Perpetuum mobile, BV 293",
+      "imslp_url": "https://imslp.org/wiki/Perpetuum_mobile,_BV_293_(Busoni,_Ferruccio)",
+      "year": 1922
+    },
+    {
+      "title": "5 Kurze St\u00fccke, BV 296",
+      "imslp_url": "https://imslp.org/wiki/5_Kurze_St\u00fccke,_BV_296_(Busoni,_Ferruccio)",
+      "year": 1923
+    },
+    {
+      "title": "Pr\u00e9lude et \u00e9tude en arp\u00e8ges, BV 297",
+      "imslp_url": "https://imslp.org/wiki/Pr\u00e9lude_et_\u00e9tude_en_arp\u00e8ges,_BV_297_(Busoni,_Ferruccio)",
+      "year": 1923
+    },
+    {
+      "title": "Zigeunerlied, BV 295",
       "imslp_url": "https://imslp.org/wiki/Zigeunerlied,_BV_295_(Busoni,_Ferruccio)",
-      "year": 1923,
-      "title": "Zigeunerlied, BV 295"
+      "year": 1923
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Klavier%C3%BCbung_in_5_Teilen_(Busoni,_Ferruccio)",
-      "year": 1917,
-      "title": "Klavier\u00fcbung in 5 Teilen"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Klavier%C3%BCbung_in_10_B%C3%BCchern_(Busoni,_Ferruccio)",
-      "year": 1923,
-      "title": "Klavier\u00fcbung in 10 B\u00fcchern"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Entwurf_einer_neuen_%C3%84sthetik_der_Tonkunst_(Busoni,_Ferruccio)",
-      "year": 1907,
-      "title": "Entwurf einer neuen \u00c4sthetik der Tonkunst"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Von_der_Einheit_der_Musik_(Busoni,_Ferruccio)",
-      "year": 1922,
-      "title": "Von der Einheit der Musik"
+      "title": "Schlechter Trost",
+      "imslp_url": "https://imslp.org/wiki/Schlechter_Trost_(Busoni,_Ferruccio)",
+      "year": 1924
     }
   ]
 }

@@ -1,0 +1,160 @@
+{
+  "full_name": "Fran\u00e7ois Couperin",
+  "first_names": "Fran\u00e7ois",
+  "last_name": "Couperin",
+  "birth_year": 1668,
+  "death_year": 1733,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Fran\u00e7ois_Couperin",
+  "events": [
+    {
+      "section": "Life",
+      "title": "Birth",
+      "summary": "Fran\u00e7ois Couperin was born in Paris into a prominent musical family, receiving early music lessons from his father, Charles, who was an organist. His lineage included notable musicians, including his uncle Louis Couperin. His father's passing in 1679 led to Fran\u00e7ois being positioned as the organist at the Church of Saint-Gervais, a role which he likely began to assume at an earlier age than expected.",
+      "year": 1668,
+      "location": "Paris",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Fran\u00e7ois Couperin was born in Paris to a prominent musical family, which could probably serenade the Eiffel Tower into submission! His father, Charles, was an organist, and it's said that Fran\u00e7ois learned to play music before he learned to tie his shoelaces. Not to forget, his uncle Louis was also a notable musician! After his father's passing in 1679, young Fran\u00e7ois stepped up as the organist at the Church of Saint-Gervais!"
+    },
+    {
+      "section": "Life",
+      "title": "Marriage",
+      "summary": "At the age of 21, Couperin married Marie-Anne Ansault, who came from a prosperous family. This union marked a significant personal milestone in his life amidst a budding musical career.",
+      "year": 1689,
+      "location": "Paris",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "At the ripe old age of 21, Couperin decided it was a great time to tie the knot with Marie-Anne Ansault. This union marked a significant personal milestone in his life! You know, nothing says 'I'm ready for a serious career in music' like getting hitched to someone from a prosperous family! Who needs stability when you've got a budding career and a partner ready to support it, right?"
+    },
+    {
+      "section": "Life",
+      "title": "Publication of Pi\u00e8ces d'orgue",
+      "summary": "In 1690, the year following his marriage, Couperin saw the publication of his collection of organ masses titled Pi\u00e8ces d'orgue. This collection garnered praise from notable figures in the musical community, suggesting a positive reception among his peers.",
+      "year": 1690,
+      "location": "Paris",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "In 1690, the year after Couperin's marriage, he published his collection of organ masses called 'Pi\u00e8ces d'orgue.' This collection was so well-received and garnered praise from notable figures in the musical community, suggesting a positive reception among his peers, that even they were likely applauding louder than a toddler at a birthday party!"
+    },
+    {
+      "section": "Life",
+      "title": "Appointment at Louis XIV's court",
+      "summary": "Within three years after his marriage, Couperin succeeded Jacques-Denis Thomelin at the court of Louis XIV, connecting him with the finest composers and the aristocracy of the time. This appointment greatly influenced his career and musical output, including his chamber music.",
+      "year": 1692,
+      "location": "Court of Louis XIV",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Within three years after his marriage, Couperin succeeded Jacques-Denis Thomelin at the court of Louis XIV, which meant he was rubbing elbows with the cr\u00e8me de la cr\u00e8me of composers and aristocrats. This appointment didn\u2019t just get him some fancy friends; it jazzed up his music career and sparked his chamber music."
+    },
+    {
+      "section": "Life",
+      "title": "Publication of harpsichord works",
+      "summary": "In 1713, Couperin applied for a privilege to publish works of his composition, which he utilized to release the first volume of his harpsichord pieces, Pieces de clavecin, marking an expansion of his published repertoire and influence.",
+      "year": 1713,
+      "location": "France",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Back in 1713, Couperin decided he couldn't just sit quietly while his compositions gathered dust. So, he applied for a fancy privilege to publish his works, claiming he had revolutionary harpsichord pieces. This clever move allowed him to release 'Pieces de clavecin', marking an expansion of his repertoire and turning him into the celebrity of the harpsichord world!"
+    },
+    {
+      "section": "Life",
+      "title": "Final publications",
+      "summary": "Fran\u00e7ois Couperin published his final music works, Pi\u00e8ces de violes in 1728 and the fourth volume of his harpsichord pieces in 1730, signaling the culmination of his prolific compositional career prior to his death.",
+      "year": 1730,
+      "location": "France",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Fran\u00e7ois Couperin finally decided it was time to put down the quill \u2013 after all, his last music works, Pi\u00e8ces de violes in 1728 and the fourth volume of his harpsichord pieces in 1730, signifying the culmination of his prolific compositional career like a well-aged cheese!"
+    },
+    {
+      "section": "Life",
+      "title": "Death",
+      "summary": "Fran\u00e7ois Couperin passed away in 1733, having made significant contributions to the French Baroque music scene and leaving behind a legacy through his children, particularly as his daughter continued his musical tradition at court.",
+      "year": 1733,
+      "location": "France",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Fran\u00e7ois Couperin, who decided that 1733 was a good time to check out of this wild party called life, left behind a musical legacy that would make even his children proud. His daughter heroically carried on his musical tradition at court, ensuring that the Couperin name resonated through the halls of French Baroque music!"
+    }
+  ],
+  "works": [
+    {
+      "title": "La steinquerque",
+      "imslp_url": "https://imslp.org/wiki/La_steinquerque_(Couperin,_Fran\u00e7ois)",
+      "year": 1690
+    },
+    {
+      "title": "La superbe",
+      "imslp_url": "https://imslp.org/wiki/La_superbe_(Couperin,_Fran\u00e7ois)",
+      "year": 1695
+    },
+    {
+      "title": "4 Versets d'un motet",
+      "imslp_url": "https://imslp.org/wiki/4_Versets_d'un_motet_(Couperin,_Fran\u00e7ois)",
+      "year": 1702
+    },
+    {
+      "title": "Qui dat nivem sicut lanam",
+      "imslp_url": "https://imslp.org/wiki/Qui_dat_nivem_sicut_lanam_(Couperin,_Fran\u00e7ois)",
+      "year": 1702
+    },
+    {
+      "title": "7 Versets du motet compos\u00e9 de l'ordre du roy, 1704",
+      "imslp_url": "https://imslp.org/wiki/7_Versets_du_motet_compos\u00e9_de_l'ordre_du_roy,_1704_(Couperin,_Fran\u00e7ois)",
+      "year": 1704
+    },
+    {
+      "title": "7 Versets du motet compos\u00e9 de l'ordre du roy, 1705",
+      "imslp_url": "https://imslp.org/wiki/7_Versets_du_motet_compos\u00e9_de_l'ordre_du_roy,_1705_(Couperin,_Fran\u00e7ois)",
+      "year": 1705
+    },
+    {
+      "title": "Ad te levavi oculos meos",
+      "imslp_url": "https://imslp.org/wiki/Ad_te_levavi_oculos_meos_(Couperin,_Fran\u00e7ois)",
+      "year": 1705
+    },
+    {
+      "title": "Jucunda vox Ecclesiae",
+      "imslp_url": "https://imslp.org/wiki/Jucunda_vox_Ecclesiae_(Couperin,_Fran\u00e7ois)",
+      "year": 1705
+    },
+    {
+      "title": "Salve Regina",
+      "imslp_url": "https://imslp.org/wiki/Salve_Regina_(Couperin,_Fran\u00e7ois)",
+      "year": 1705
+    },
+    {
+      "title": "Salvum me fac Deus",
+      "imslp_url": "https://imslp.org/wiki/Salvum_me_fac_Deus_(Couperin,_Fran\u00e7ois)",
+      "year": 1705
+    },
+    {
+      "title": "Usquequo Domine",
+      "imslp_url": "https://imslp.org/wiki/Usquequo_Domine_(Couperin,_Fran\u00e7ois)",
+      "year": 1705
+    },
+    {
+      "title": "Le\u00e7ons de t\u00e9n\u00e8bres",
+      "imslp_url": "https://imslp.org/wiki/Le\u00e7ons_de_t\u00e9n\u00e8bres_(Couperin,_Fran\u00e7ois)",
+      "year": 1714
+    },
+    {
+      "title": "Les barricades myst\u00e9rieuses",
+      "imslp_url": "https://imslp.org/wiki/Les_barricades_myst\u00e9rieuses_(Couperin,_Fran\u00e7ois)",
+      "year": 1717
+    },
+    {
+      "title": "Rondeau in B-flat major, BWV Anh.183",
+      "imslp_url": "https://imslp.org/wiki/Rondeau_in_B-flat_major,_BWV_Anh.183_(Couperin,_Fran\u00e7ois)",
+      "year": 1717
+    },
+    {
+      "title": "L'apoth\u00e9ose de Lully",
+      "imslp_url": "https://imslp.org/wiki/L'apoth\u00e9ose_de_Lully_(Couperin,_Fran\u00e7ois)",
+      "year": 1725
+    },
+    {
+      "title": "L'apoth\u00e9ose de Corelli",
+      "imslp_url": "https://imslp.org/wiki/L'apoth\u00e9ose_de_Corelli_(Couperin,_Fran\u00e7ois)",
+      "year": 1726
+    },
+    {
+      "title": "Les nations",
+      "imslp_url": "https://imslp.org/wiki/Les_nations_(Couperin,_Fran\u00e7ois)",
+      "year": 1726
+    }
+  ]
+}

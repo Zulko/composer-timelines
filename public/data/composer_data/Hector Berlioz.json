@@ -7,640 +7,437 @@
   "wikipedia_url": "https://en.wikipedia.org/wiki/Hector_Berlioz",
   "events": [
     {
-      "event": "Birth",
-      "summary": "On a chilly December day, young Berlioz was born, making his first dramatic entrance into the world in La C\u00f4te-Saint-Andr\u00e9. His arrival marked the beginning of a life filled with musical adventures, leading many to wonder if he'd ever follow in his father's medicinal footsteps.",
+      "section": "Life and career",
+      "title": "Birth of Hector Berlioz",
+      "summary": "Berlioz was born on December 11, 1803, as the eldest child of Louis Berlioz, a physician, and Marie-Antoinette Jos\u00e8phine. His birthplace was the family home in the commune of La C\u00f4te-Saint-Andr\u00e9, in south-eastern France. Growing up in a large family, he was closely bonded with his surviving siblings throughout his life.",
       "year": 1803,
-      "city": "La C\u00f4te-Saint-Andr\u00e9",
-      "country": "France"
+      "location": "La C\u00f4te-Saint-Andr\u00e9, Is\u00e8re, France",
+      "emoji": "\ud83d\udc76",
+      "fun_version": "Berlioz was born on December 11, 1803, as the eldest child of Louis Berlioz, a physician, and Marie-Antoinette Jos\u00e8phine. His birthplace was the family home in the commune of La C\u00f4te-Saint-Andr\u00e9, in south-eastern France. Growing up in a large family meant Berlioz was never lacking for company, and with siblings to play with, he mastered the art of sibling rivalry!"
     },
     {
-      "event": "Graduation from Medical School",
-      "summary": "Berlioz, having followed his father's medical dreams longer than most would tolerate, finally graduated in a field he had no intention of pursuing. He tossed his stethoscope aside to chase after symphonies instead - much to his father's dismay!",
-      "year": 1824,
-      "city": "Paris",
-      "country": "France"
+      "section": "Life and career",
+      "title": "First Passionate Love",
+      "summary": "At the age of twelve, Berlioz fell in love with his eighteen-year-old neighbor, Estelle Dub\u0153uf. The unrequited affection would remain a significant part of his emotional life, influencing his early compositions.",
+      "year": 1815,
+      "location": "La C\u00f4te-Saint-Andr\u00e9, Is\u00e8re, France",
+      "emoji": "\u2764\ufe0f",
+      "fun_version": "At the age of twelve, Berlioz developed an unrequited crush on his eighteen-year-old neighbor, Estelle Dub\u0153uf. Unfortunately for our young composer, the feeling was as one-sided as a game of tug-of-war with a cat. This not-so-smooth operator's hopeless affection would continue to tug at his heartstrings, leading to some surprisingly melodramatic early compositions!"
     },
     {
-      "event": "First Concert of His Music",
-      "summary": "With high hopes and less-than-full pockets, Berlioz's music made its debut to an audience that didn't quite fill the seats. Nevertheless, the applause from fellow musicians was like a standing ovation, even if the attendance was more like a casual gathering.",
+      "section": "Life and career",
+      "title": "First Attempt at Composition",
+      "summary": "Berlioz's early attempts at composition began during his medical studies. Attempting to master harmony, he experimented with several chamber works, which he later destroyed, but their themes would persist in his later compositions.",
+      "year": 1821,
+      "location": "Paris, France",
+      "emoji": "\ud83c\udfb5",
+      "fun_version": "Berlioz's early attempts at composition began during his medical studies. Instead of studying to save lives, he decided to compose music! While he was supposed to be learning about anatomy, he created chamber works that he later decided were so terrible they deserved to be 'destroyed.' However, their themes would persist, haunting him in his later compositions!"
+    },
+    {
+      "section": "Life and career",
+      "title": "Move to Paris",
+      "summary": "In September 1821, at seventeen, Berlioz moved to Paris to enroll at the School of Medicine at the University of Paris, following his father's wishes for a medical career. The transition marked the beginning of his engagement with the vibrant cultural life of the city.",
+      "year": 1821,
+      "location": "Paris, France",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In September 1821, at seventeen, Berlioz moved to Paris, eager to trade his dreams of composing symphonies for a stethoscope against his father's wishes for a medical career. This was just the prelude to Berlioz's grand overture in the carnival of culture that Paris had to offer!"
+    },
+    {
+      "section": "Life and career",
+      "title": "First Concert of Berlioz's Music",
+      "summary": "In May 1828, Berlioz's music was performed for the first time at a concert conducted by his friend Nathan Bloc. Although the audience was small, the positive reviews greatly encouraged him.",
       "year": 1828,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris, France",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In May 1828, Berlioz stood nervously by the stage, hoping his music didn't sound like a cat fight. His friend Nathan Bloc conducted like he was auditioning for 'Most Enthusiastic Conductor Ever'. Although the audience was small, when they clapped, Berlioz thought he had just won the Grammy, and those positive reviews greatly encouraged him!"
     },
     {
-      "event": "Winning the Prix de Rome",
-      "summary": "In a twist of fate amid the revolutionary chaos, Berlioz dashed off the final notes of his winning cantata all while stray bullets sang a chaotic background melody. Nothing like a little gunfire to fuel creativity and win a prestigious music prize!",
+      "section": "Life and career",
+      "title": "Wins the Prix de Rome",
+      "summary": "Berlioz won the Prix de Rome in 1830 for his cantata 'La Mort de Sardanapale'. This marked a critical turning point for him, solidifying his commitment to a career in composition.",
       "year": 1830,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris, France",
+      "emoji": "\ud83c\udfc6",
+      "fun_version": "Berlioz won the Prix de Rome in 1830 for his cantata 'La Mort de Sardanapale'. This was a turning point, solidifying his commitment to a career in composition, and for his friends who finally stopped asking him to play the tambourine."
     },
     {
-      "event": "Premiere of Symphonie Fantastique",
-      "summary": "The grand premiere of his magnum opus, Symphonie fantastique, was a resounding hit, leaving audiences in shock and awe. With this piece, Berlioz solidified his status in the music world, confirming that he had indeed left the medic behind for good!",
-      "year": 1830,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Friendship with Liszt",
-      "summary": "After an outstanding concert that showcased the innovative Symphonie fantastique, Berlioz made a lasting impression on Franz Liszt, marking the start of a friendship that could rival any romantic comedy.",
-      "year": 1830,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Absent without leave",
-      "summary": "In a fit of romantic despair after learning of Marie's new engagement, Berlioz fled from his studies in Rome faster than a cat from a bath, but luckily for him, he returned, much like a boomerang.",
-      "year": 1832,
-      "city": "Rome",
-      "country": "Italy"
-    },
-    {
-      "event": "Childbirth",
-      "summary": "On a warm August day, the world welcomed Louis-Cl\u00e9ment-Thomas, Berlioz's only child, who was presumably greeted with the same fanfare as a new symphony - though much less rehearsal was needed.",
-      "year": 1834,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Paganini's homage",
-      "summary": "After a gripping performance of Harold in Italy, violin virtuoso Paganini was so moved he knelt and kissed Berlioz's hand, a gesture that surely made all those concerto performances worth it.",
-      "year": 1838,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "First performance of Rom\u00e9o et Juliette",
-      "summary": "The premiere of Rom\u00e9o et Juliette had audiences in awe, leaving them with musical butterflies, and even Wagner was inspired to rethink his own compositions after witnessing Berlioz's genius at work.",
-      "year": 1839,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Treatise on Instrumentation",
-      "summary": "In a bold move to become the orchestral guru of his time, Berlioz published his insights on orchestration, showing that he could whip up a music theory guide as easily as he composed symphonies.",
-      "year": 1844,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "German tour",
-      "summary": "Berlioz took his talents across the Rhine, conducting in German cities and charming audiences who appreciated his genius far more than those at home, making him feel like a rock star in a foreign land.",
-      "year": 1842,
-      "city": "Brussels",
-      "country": "Belgium"
-    },
-    {
-      "event": "Marriage to Marie Recio",
-      "summary": "In a move that surprised absolutely no one, Berlioz decided to marry Marie Recio after living with her for years. It's like he finally realized that common-law marriage didn\u2019t come with a tax break. This was a duty rather than a romantic revelation, but hey, at least the paperwork was sorted!",
-      "year": 1854,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Completion of L'Enfance du Christ",
-      "summary": "Berlioz wrapped up his sacred trilogy L'Enfance du Christ and was greeted with unexpected applause at its premiere. It was like ordering a salad at a burger joint and actually getting something decent!",
-      "year": 1854,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Election to the Institut de France",
-      "summary": "In a stroke of luck, Berlioz fulfilled a lifelong dream by being elected to the prestigious Institut de France. He played down the importance of it, but we all know he was secretly practicing his acceptance speech while trying not to lose his cool!",
-      "year": 1858,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Staging of Les Troyens at Th\u00e9\u00e2tre\u2010Lyrique",
-      "summary": "Berlioz finally got to see his ambitious opera Les Troyens staged, after chopping it into two parts like a chef at a cooking show. The first part was presented with much fanfare, but darling, even that got sliced during its run. Talk about a less-is-more approach!",
-      "year": 1863,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Death of His Second Wife",
-      "summary": "Berlioz faced another plot twist in his life story when his second wife passed away, leaving him not just heartbroken but also a bit more free time for long existential musings. It's the kind of turn of events that would make even a soap opera writer think twice!",
-      "year": 1862,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Death of His Son Louis",
-      "summary": "In what can only be described as the ultimate tragedy bingo, Berlioz received word that his son had died of yellow fever. This news hit him harder than a flat tire on a road trip, turning his planned concerts into an uphill battle against sorrow.",
-      "year": 1867,
-      "city": "Havana",
-      "country": "Cuba"
-    },
-    {
-      "event": "Final Concerts in Russia",
-      "summary": "Despite personal sorrow, Berlioz embarked on a planned tour of St Petersburg and Moscow, resulting in the kind of applause that might lead one to believe he knew all the right people in high places. However, the trip took more out of him than it gave back!",
-      "year": 1867,
-      "city": "St Petersburg and Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Death",
-      "summary": "After an eventful life punctuated with triumphs and trials, Berlioz curled up for a long sleep that he wouldn't wake up from. He passed away in peace, hopefully with a satisfied grin, if not a last-minute composition waiting for critique!",
-      "year": 1869,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "First Symphony",
-      "summary": "Berlioz decided that classical norms were simply not enough; he crafted his first symphony, which was so unclassical that even Beethoven would have raised an eyebrow.",
-      "year": 1830,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Operatic Debut",
-      "summary": "He gave the world 'Benvenuto Cellini', an opera that not even a time traveler from the future could believe would be a box office smash.",
-      "year": 1838,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Les Troyens Premier",
-      "summary": "'Les Troyens', his magnum opus, hit the stage, making everyone wonder if they could sit through five hours of music, but hey, it was Berlioz, so why not?",
-      "year": 1858,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Te Deum Premiere",
-      "summary": "In a grand gesture, Berlioz made waves with his 'Te Deum', showing off his penchant for the dramatic and leaving choirs scrambling for enough singers.",
-      "year": 1855,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Final Opera",
-      "summary": "'B\u00e9atrice et B\u00e9n\u00e9dict' was Berlioz's light-hearted nod to Shakespeare, proving he could also craft a comedy - and not just epic tragedies.",
-      "year": 1862,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Last Publication",
-      "summary": "He released the '33 M\u00e9lodies', his final hurrah in music, leaving a collection that would have people pondering their unappreciated beauty for centuries to come.",
-      "year": 1865,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Publication of Press Columns",
-      "summary": "Berlioz published a series of press columns in various significant journals, although he famously disliked writing them. He often joked that they stole precious time he'd rather spend composing actual music, turning him into a critic rather than a celebrated composer.",
-      "year": 1852,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "First Biography Published",
-      "summary": "The first biography of Berlioz, authored by Eug\u00e8ne de Mirecourt, hit the shelves. It's unclear if Berlioz found it flattering or just another 'greatest hits' compilation of miscellaneous facts about his life and artistic struggles.",
-      "year": 1860,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Symphonie Fantastique Premiered",
-      "summary": "Berlioz's masterpiece, 'Symphonie Fantastique,' took center stage, leaving audiences either scratching their heads or dancing in the aisles \u2013 depending on how much coffee they had that day!",
-      "year": 1830,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Marriage",
-      "summary": "In a move that was as bold as his music, Berlioz married Harriet Smithson, the actress who inspired much of his work. Let's just say, their relationship had more drama than a typical opera!",
+      "section": "Life and career",
+      "title": "Marriage to Harriet Smithson",
+      "summary": "In October 1833, Berlioz married actress Harriet Smithson after being rejected multiple times during their courtship. Their marriage faced struggles from the outset, impacted by Smithson's declining career and her inability to adapt to French culture.",
       "year": 1833,
-      "city": "Paris",
-      "country": "France"
+      "location": "British Embassy, Paris, France",
+      "emoji": "\ud83d\udc94",
+      "fun_version": "In October 1833, Berlioz married the talented actress Harriet Smithson after being rejected multiple times during their courtship. However, their marriage didn\u2019t come with a user manual. Right from the start, they hit a few bumps in the road because Smithson\u2019s declining career was affecting their relationship, along with her inability to adapt to French culture."
     },
     {
-      "event": "Opera Premiered",
-      "summary": "Berlioz finally got to unleash his operatic talents with the premiere of 'Benvenuto Cellini.' Let's just say the audience would have needed a map to find their way around this complex tale of art and mischief!",
-      "year": 1838,
-      "city": "Paris",
-      "country": "France"
+      "section": "Life and career",
+      "title": "Last Major Work: Les Troyens",
+      "summary": "Berlioz completed his opera 'Les Troyens' in 1858, a monumental work he struggled to have staged. Although it was divided into two parts for its eventual production, the experience left him demoralized and marked a noticeable decline in his creative output.",
+      "year": 1858,
+      "location": "Paris, France",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Berlioz completed his opera 'Les Troyens' in 1858, the pinnacle of his 'please, can we just perform this already?' struggles! It was such a monumental work that it was split into two parts for its eventual production. Unfortunately, the whole experience left him feeling down, and we witnessed a notable decline in his creative output."
     },
     {
-      "event": "La Damnation de Faust Premiered",
-      "summary": "An ambitious project, 'La Damnation de Faust,' hit the stage, and with it, Berlioz proved he was the master of musical storytelling, blending drama and creativity like a chef blends spices in a gourmet dish!",
-      "year": 1846,
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    {
-      "event": "Composition of 'Symphonie fantastique'",
-      "summary": "'Symphonie fantastique\u2019 was born, a wild ride through the composer\u2019s imagination where love and opium mingle in a hall of orchestral mirrors.",
-      "year": 1830,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Awarded Prix de Rome",
-      "summary": "Berlioz scored a sweet gig with the prestigious Prix de Rome, leading him to a villa in Italy where he surely entertained his roommates with spontaneous symphonies.",
-      "year": 1834,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Premiere of 'Benvenuto Cellini'",
-      "summary": "The opera 'Benvenuto Cellini' debuted, allowing Berlioz a chance to showcase his avant-garde flair\u2014 and perhaps send a few audience members running for the exits.",
-      "year": 1838,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Publication of 'Treatise on Instrumentation'",
-      "summary": "Berlioz published his 'Treatise on Instrumentation', captivating readers with tips on how to use orchestral instruments to create crescendos that could make your ears tingle.",
-      "year": 1844,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Premiere of 'Les Troyens'",
-      "summary": "The grandiose opera 'Les Troyens' premiered, transforming stagecraft as Berlioz wove epic tales\u2014complete with enough drama that you might need popcorn.",
-      "year": 1863,
-      "city": "Paris",
-      "country": "France"
+      "section": "Life and career",
+      "title": "Death of Berlioz",
+      "summary": "Hector Berlioz passed away on March 8, 1869, at the age of 65, in his home in Paris after an extended period of poor health, marked by grief from the loss of family and close friends throughout his later years.",
+      "year": 1869,
+      "location": "Rue de Calais, Paris, France",
+      "emoji": "\ud83d\udd4a\ufe0f",
+      "fun_version": "Hector Berlioz, the renowned composer, took his final bow on March 8, 1869, at the age of 65, in his Paris home after an extended period of poor health, marked by grief from the loss of family and close friends throughout his later years."
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/Amiti%C3%A9,_reprends_ton_empire,_H_10_(Berlioz,_Hector)",
-      "year": 1819,
-      "title": "Amiti\u00e9, reprends ton empire, H 10"
+      "title": "Amiti\u00e9, reprends ton empire, H 10",
+      "imslp_url": "https://imslp.org/wiki/Amiti\u00e9,_reprends_ton_empire,_H_10_(Berlioz,_Hector)",
+      "year": 1819
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Aubade,_H_78_(Berlioz,_Hector)",
-      "year": 1839,
-      "title": "Aubade, H 78"
+      "title": "Le d\u00e9pit de la berg\u00e8re, H 7",
+      "imslp_url": "https://imslp.org/wiki/Le_d\u00e9pit_de_la_berg\u00e8re,_H_7_(Berlioz,_Hector)",
+      "year": 1819
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Le_ballet_des_ombres,_H_37_(Berlioz,_Hector)",
-      "year": 1829,
-      "title": "Le ballet des ombres, H 37"
+      "title": "Canon libre \u00e0 la quinte, H 14",
+      "imslp_url": "https://imslp.org/wiki/Canon_libre_\u00e0_la_quinte,_H_14_(Berlioz,_Hector)",
+      "year": 1822
     },
     {
-      "imslp_url": "https://imslp.org/wiki/B%C3%A9atrice_et_B%C3%A9n%C3%A9dict,_H_138_(Berlioz,_Hector)",
-      "year": 1860,
-      "title": "B\u00e9atrice et B\u00e9n\u00e9dict, H 138"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_belle_Isabeau,_H_94_(Berlioz,_Hector)",
-      "year": 1844,
-      "title": "La belle Isabeau, H 94"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_belle_voyageuse,_H_42_(Berlioz,_Hector)",
-      "year": 1829,
-      "title": "La belle voyageuse, H 42"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Benvenuto_Cellini,_H_76_(Berlioz,_Hector)",
-      "year": 1836,
-      "title": "Benvenuto Cellini, H 76"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Canon_libre_%C3%A0_la_quinte,_H_14_(Berlioz,_Hector)",
-      "year": 1822,
-      "title": "Canon libre \u00e0 la quinte, H 14"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_captive,_H_60_(Berlioz,_Hector)",
-      "year": 1832,
-      "title": "La captive, H 60"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Le_carnaval_romain,_H_95_(Berlioz,_Hector)",
-      "year": 1844,
-      "title": "Le carnaval romain, H 95"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Chant_des_chemins_de_fer,_H_110_(Berlioz,_Hector)",
-      "year": 1846,
-      "title": "Chant des chemins de fer, H 110"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Chant_sacr%C3%A9,_H_44_(Berlioz,_Hector)",
-      "year": 1829,
-      "title": "Chant sacr\u00e9, H 44"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Le_chasseur_danois,_H_104_(Berlioz,_Hector)",
-      "year": 1844,
-      "title": "Le chasseur danois, H 104"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Le_cinq_mai,_H_74_(Berlioz,_Hector)",
-      "year": 1835,
-      "title": "Le cinq mai, H 74"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_damnation_de_Faust,_H_111_(Berlioz,_Hector)",
-      "year": 1845,
-      "title": "La damnation de Faust, H 111"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Le_d%C3%A9pit_de_la_berg%C3%A8re,_H_7_(Berlioz,_Hector)",
-      "year": 1819,
-      "title": "Le d\u00e9pit de la berg\u00e8re, H 7"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/L%27enfance_du_Christ,_H_130_(Berlioz,_Hector)",
-      "year": 1850,
-      "title": "L'enfance du Christ, H 130"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fleurs_des_landes,_H_124_(Berlioz,_Hector)",
-      "year": 1834,
-      "title": "Fleurs des landes, H 124"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Les_francs-juges,_H_23_(Berlioz,_Hector)",
-      "year": 1825,
-      "title": "Les francs-juges, H 23"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fugue_%C3%A0_3_sujets,_H_35_(Berlioz,_Hector)",
-      "year": 1829,
-      "title": "Fugue \u00e0 3 sujets, H 35"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Grande_messe_des_morts,_H_75_(Berlioz,_Hector)",
-      "year": 1837,
-      "title": "Grande messe des morts, H 75"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Grande_symphonie_fun%C3%A8bre_et_triomphale,_H_80_(Berlioz,_Hector)",
-      "year": 1840,
-      "title": "Grande symphonie fun\u00e8bre et triomphale, H 80"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Harold_en_Italie,_H_68_(Berlioz,_Hector)",
-      "year": 1834,
-      "title": "Harold en Italie, H 68"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/H%C3%A9l%C3%A8ne,_H_40_(Berlioz,_Hector)",
-      "year": 1829,
-      "title": "H\u00e9l\u00e8ne, H 40"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Herminie,_H_29_(Berlioz,_Hector)",
-      "year": 1828,
-      "title": "Herminie, H 29"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Hymne_%C3%A0_la_France,_H_97_(Berlioz,_Hector)",
-      "year": 1844,
-      "title": "Hymne \u00e0 la France, H 97"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Hymne_des_Marseillais,_H_51A_(Berlioz,_Hector)",
-      "year": 1830,
-      "title": "Hymne des Marseillais, H 51A"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Hymne_pour_l%27%C3%A9l%C3%A9vation,_H_100_(Berlioz,_Hector)",
-      "year": 1844,
-      "title": "Hymne pour l'\u00e9l\u00e9vation, H 100"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Hymne_pour_la_cons%C3%A9cration_du_nouveau_tabernacle,_H_135_(Berlioz,_Hector)",
-      "year": 1859,
-      "title": "Hymne pour la cons\u00e9cration du nouveau tabernacle, H 135"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/L%27%C3%AEle_inconnue,_H_87_(Berlioz,_Hector)",
-      "year": 1841,
-      "title": "L'\u00eele inconnue, H 87"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/L%27imp%C3%A9riale,_H_129_(Berlioz,_Hector)",
-      "year": 1854,
-      "title": "L'imp\u00e9riale, H 129"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Intrata_di_Rob-Roy_MacGregor,_H_54_(Berlioz,_Hector)",
-      "year": 1831,
-      "title": "Intrata di Rob-Roy MacGregor, H 54"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Invitation_%C3%A0_louer_Dieu,_H_143_(Berlioz,_Hector)",
-      "year": 1860,
-      "title": "Invitation \u00e0 louer Dieu, H 143"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Irlande,_H_38_(Berlioz,_Hector)",
-      "year": 1829,
-      "title": "Irlande, H 38"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Le_jeune_P%C3%A2tre_breton,_H_65_(Berlioz,_Hector)",
-      "year": 1833,
-      "title": "Le jeune P\u00e2tre breton, H 65"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/L%C3%A9lio,_ou_le_retour_%C3%A0_la_vie,_H_55_(Berlioz,_Hector)",
-      "year": 1831,
-      "title": "L\u00e9lio, ou le retour \u00e0 la vie, H 55"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Marche_fun%C3%A8bre_pour_la_derni%C3%A8re_sc%C3%A8ne_d%27Hamlet,_H_103_(Berlioz,_Hector)",
-      "year": 1844,
-      "title": "Marche fun\u00e8bre pour la derni\u00e8re sc\u00e8ne d'Hamlet, H 103"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/M%C3%A9ditation_religieuse,_H_56_(Berlioz,_Hector)",
-      "year": 1831,
-      "title": "M\u00e9ditation religieuse, H 56"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_menace_des_Francs,_H_117_(Berlioz,_Hector)",
-      "year": 1848,
-      "title": "La menace des Francs, H 117"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Messe_solennelle,_H_20_(Berlioz,_Hector)",
-      "year": 1824,
-      "title": "Messe solennelle, H 20"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Le_montagnard_exil%C3%A9,_H_15_(Berlioz,_Hector)",
-      "year": 1823,
-      "title": "Le montagnard exil\u00e9, H 15"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_mort_d%27Oph%C3%A9lie,_H_92_(Berlioz,_Hector)",
-      "year": 1842,
-      "title": "La mort d'Oph\u00e9lie, H 92"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_mort_de_Cl%C3%A9op%C3%A2tre,_H_36_(Berlioz,_Hector)",
-      "year": 1829,
-      "title": "La mort de Cl\u00e9op\u00e2tre, H 36"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Nessun_maggior_piacere,_H_114_(Berlioz,_Hector)",
-      "year": 1847,
-      "title": "Nessun maggior piacere, H 114"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Les_nuits_d%27%C3%A9t%C3%A9,_H_81_(Berlioz,_Hector)",
-      "year": 1840,
-      "title": "Les nuits d'\u00e9t\u00e9, H 81"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Overture_%27King_Lear%27,_H_53_(Berlioz,_Hector)",
-      "year": 1831,
-      "title": "Overture 'King Lear', H 53"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Overture_%27Le_Corsaire%27,_H_101_(Berlioz,_Hector)",
-      "year": 1844,
-      "title": "Overture 'Le Corsaire', H 101"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Overture_%27Waverley%27,_H_26_(Berlioz,_Hector)",
-      "year": 1827,
-      "title": "Overture 'Waverley', H 26"
-    },
-    {
+      "title": "Pleure, pauvre Colette, H 11",
       "imslp_url": "https://imslp.org/wiki/Pleure,_pauvre_Colette,_H_11_(Berlioz,_Hector)",
-      "year": 1822,
-      "title": "Pleure, pauvre Colette, H 11"
+      "year": 1822
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Pri%C3%A8re_du_matin,_H_112_(Berlioz,_Hector)",
-      "year": 1846,
-      "title": "Pri\u00e8re du matin, H 112"
+      "title": "Le montagnard exil\u00e9, H 15",
+      "imslp_url": "https://imslp.org/wiki/Le_montagnard_exil\u00e9,_H_15_(Berlioz,_Hector)",
+      "year": 1823
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Quartetto_e_Coro_dei_Maggi,_H_59_(Berlioz,_Hector)",
-      "year": 1832,
-      "title": "Quartetto e Coro dei Maggi, H 59"
+      "title": "Messe solennelle, H 20",
+      "imslp_url": "https://imslp.org/wiki/Messe_solennelle,_H_20_(Berlioz,_Hector)",
+      "year": 1824
     },
     {
-      "imslp_url": "https://imslp.org/wiki/R%C3%AAverie_et_caprice,_H_88_(Berlioz,_Hector)",
-      "year": 1841,
-      "title": "R\u00eaverie et caprice, H 88"
+      "title": "La r\u00e9volution grecque, H 21",
+      "imslp_url": "https://imslp.org/wiki/La_r\u00e9volution_grecque,_H_21_(Berlioz,_Hector)",
+      "year": 1825
     },
     {
-      "imslp_url": "https://imslp.org/wiki/La_r%C3%A9volution_grecque,_H_21_(Berlioz,_Hector)",
-      "year": 1825,
-      "title": "La r\u00e9volution grecque, H 21"
+      "title": "Les francs-juges, H 23",
+      "imslp_url": "https://imslp.org/wiki/Les_francs-juges,_H_23_(Berlioz,_Hector)",
+      "year": 1825
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Le_roi_de_Thul%C3%A9,_H_33A_(Berlioz,_Hector)",
-      "year": 1828,
-      "title": "Le roi de Thul\u00e9, H 33A"
+      "title": "Overture 'Waverley', H 26",
+      "imslp_url": "https://imslp.org/wiki/Overture_'Waverley',_H_26_(Berlioz,_Hector)",
+      "year": 1827
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Rom%C3%A9o_et_Juliette,_H_79_(Berlioz,_Hector)",
-      "year": 1839,
-      "title": "Rom\u00e9o et Juliette, H 79"
+      "title": "8 Sc\u00e8nes de Faust, H 33",
+      "imslp_url": "https://imslp.org/wiki/8_Sc\u00e8nes_de_Faust,_H_33_(Berlioz,_Hector)",
+      "year": 1828
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Sara_la_baigneuse,_H_69_(Berlioz,_Hector)",
-      "year": 1834,
-      "title": "Sara la baigneuse, H 69"
+      "title": "Herminie, H 29",
+      "imslp_url": "https://imslp.org/wiki/Herminie,_H_29_(Berlioz,_Hector)",
+      "year": 1828
     },
     {
-      "imslp_url": "https://imslp.org/wiki/8_Sc%C3%A8nes_de_Faust,_H_33_(Berlioz,_Hector)",
-      "year": 1828,
-      "title": "8 Sc\u00e8nes de Faust, H 33"
+      "title": "Le roi de Thul\u00e9, H 33A",
+      "imslp_url": "https://imslp.org/wiki/Le_roi_de_Thul\u00e9,_H_33A_(Berlioz,_Hector)",
+      "year": 1828
     },
     {
-      "imslp_url": "https://imslp.org/wiki/S%C3%A9r%C3%A9nade_agreste_%C3%A0_la_madone_sur_le_th%C3%A8me_des_pifferari_romains,_H_98_(Berlioz,_Hector)",
-      "year": 1844,
-      "title": "S\u00e9r\u00e9nade agreste \u00e0 la madone sur le th\u00e8me des pifferari romains, H 98"
+      "title": "Chant sacr\u00e9, H 44",
+      "imslp_url": "https://imslp.org/wiki/Chant_sacr\u00e9,_H_44_(Berlioz,_Hector)",
+      "year": 1829
     },
     {
+      "title": "Fugue \u00e0 3 sujets, H 35",
+      "imslp_url": "https://imslp.org/wiki/Fugue_\u00e0_3_sujets,_H_35_(Berlioz,_Hector)",
+      "year": 1829
+    },
+    {
+      "title": "H\u00e9l\u00e8ne, H 40",
+      "imslp_url": "https://imslp.org/wiki/H\u00e9l\u00e8ne,_H_40_(Berlioz,_Hector)",
+      "year": 1829
+    },
+    {
+      "title": "Irlande, H 38",
+      "imslp_url": "https://imslp.org/wiki/Irlande,_H_38_(Berlioz,_Hector)",
+      "year": 1829
+    },
+    {
+      "title": "La belle voyageuse, H 42",
+      "imslp_url": "https://imslp.org/wiki/La_belle_voyageuse,_H_42_(Berlioz,_Hector)",
+      "year": 1829
+    },
+    {
+      "title": "La mort de Cl\u00e9op\u00e2tre, H 36",
+      "imslp_url": "https://imslp.org/wiki/La_mort_de_Cl\u00e9op\u00e2tre,_H_36_(Berlioz,_Hector)",
+      "year": 1829
+    },
+    {
+      "title": "Le ballet des ombres, H 37",
+      "imslp_url": "https://imslp.org/wiki/Le_ballet_des_ombres,_H_37_(Berlioz,_Hector)",
+      "year": 1829
+    },
+    {
+      "title": "Hymne des Marseillais, H 51A",
+      "imslp_url": "https://imslp.org/wiki/Hymne_des_Marseillais,_H_51A_(Berlioz,_Hector)",
+      "year": 1830
+    },
+    {
+      "title": "Symphonie fantastique, H 48",
       "imslp_url": "https://imslp.org/wiki/Symphonie_fantastique,_H_48_(Berlioz,_Hector)",
-      "year": 1830,
-      "title": "Symphonie fantastique, H 48"
+      "year": 1830
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Tantum_ergo,_H_142_(Berlioz,_Hector)",
-      "year": 1860,
-      "title": "Tantum ergo, H 142"
+      "title": "Intrata di Rob-Roy MacGregor, H 54",
+      "imslp_url": "https://imslp.org/wiki/Intrata_di_Rob-Roy_MacGregor,_H_54_(Berlioz,_Hector)",
+      "year": 1831
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Te_Deum,_H_118_(Berlioz,_Hector)",
-      "year": 1848,
-      "title": "Te Deum, H 118"
+      "title": "L\u00e9lio, ou le retour \u00e0 la vie, H 55",
+      "imslp_url": "https://imslp.org/wiki/L\u00e9lio,_ou_le_retour_\u00e0_la_vie,_H_55_(Berlioz,_Hector)",
+      "year": 1831
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Le_temple_universel,_H_137_(Berlioz,_Hector)",
-      "year": 1861,
-      "title": "Le temple universel, H 137"
+      "title": "M\u00e9ditation religieuse, H 56",
+      "imslp_url": "https://imslp.org/wiki/M\u00e9ditation_religieuse,_H_56_(Berlioz,_Hector)",
+      "year": 1831
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Toccata,_H_99_(Berlioz,_Hector)",
-      "year": 1844,
-      "title": "Toccata, H 99"
+      "title": "Overture 'King Lear', H 53",
+      "imslp_url": "https://imslp.org/wiki/Overture_'King_Lear',_H_53_(Berlioz,_Hector)",
+      "year": 1831
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Tristia,_H_119_(Berlioz,_Hector)",
-      "year": 1849,
-      "title": "Tristia, H 119"
+      "title": "La captive, H 60",
+      "imslp_url": "https://imslp.org/wiki/La_captive,_H_60_(Berlioz,_Hector)",
+      "year": 1832
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Les_Troyens,_H_133_(Berlioz,_Hector)",
-      "year": 1856,
-      "title": "Les Troyens, H 133"
+      "title": "Quartetto e Coro dei Maggi, H 59",
+      "imslp_url": "https://imslp.org/wiki/Quartetto_e_Coro_dei_Maggi,_H_59_(Berlioz,_Hector)",
+      "year": 1832
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Valse_chant%C3%A9e,_H_131_(Berlioz,_Hector)",
-      "year": 1855,
-      "title": "Valse chant\u00e9e, H 131"
+      "title": "Le jeune P\u00e2tre breton, H 65",
+      "imslp_url": "https://imslp.org/wiki/Le_jeune_P\u00e2tre_breton,_H_65_(Berlioz,_Hector)",
+      "year": 1833
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Veni_creator,_H_141_(Berlioz,_Hector)",
-      "year": 1860,
-      "title": "Veni creator, H 141"
+      "title": "Fleurs des landes, H 124",
+      "imslp_url": "https://imslp.org/wiki/Fleurs_des_landes,_H_124_(Berlioz,_Hector)",
+      "year": 1834
     },
     {
+      "title": "Harold en Italie, H 68",
+      "imslp_url": "https://imslp.org/wiki/Harold_en_Italie,_H_68_(Berlioz,_Hector)",
+      "year": 1834
+    },
+    {
+      "title": "Sara la baigneuse, H 69",
+      "imslp_url": "https://imslp.org/wiki/Sara_la_baigneuse,_H_69_(Berlioz,_Hector)",
+      "year": 1834
+    },
+    {
+      "title": "Le cinq mai, H 74",
+      "imslp_url": "https://imslp.org/wiki/Le_cinq_mai,_H_74_(Berlioz,_Hector)",
+      "year": 1835
+    },
+    {
+      "title": "Benvenuto Cellini, H 76",
+      "imslp_url": "https://imslp.org/wiki/Benvenuto_Cellini,_H_76_(Berlioz,_Hector)",
+      "year": 1836
+    },
+    {
+      "title": "Grande messe des morts, H 75",
+      "imslp_url": "https://imslp.org/wiki/Grande_messe_des_morts,_H_75_(Berlioz,_Hector)",
+      "year": 1837
+    },
+    {
+      "title": "Aubade, H 78",
+      "imslp_url": "https://imslp.org/wiki/Aubade,_H_78_(Berlioz,_Hector)",
+      "year": 1839
+    },
+    {
+      "title": "Rom\u00e9o et Juliette, H 79",
+      "imslp_url": "https://imslp.org/wiki/Rom\u00e9o_et_Juliette,_H_79_(Berlioz,_Hector)",
+      "year": 1839
+    },
+    {
+      "title": "Grande symphonie fun\u00e8bre et triomphale, H 80",
+      "imslp_url": "https://imslp.org/wiki/Grande_symphonie_fun\u00e8bre_et_triomphale,_H_80_(Berlioz,_Hector)",
+      "year": 1840
+    },
+    {
+      "title": "Les nuits d'\u00e9t\u00e9, H 81",
+      "imslp_url": "https://imslp.org/wiki/Les_nuits_d'\u00e9t\u00e9,_H_81_(Berlioz,_Hector)",
+      "year": 1840
+    },
+    {
+      "title": "L'\u00eele inconnue, H 87",
+      "imslp_url": "https://imslp.org/wiki/L'\u00eele_inconnue,_H_87_(Berlioz,_Hector)",
+      "year": 1841
+    },
+    {
+      "title": "R\u00eaverie et caprice, H 88",
+      "imslp_url": "https://imslp.org/wiki/R\u00eaverie_et_caprice,_H_88_(Berlioz,_Hector)",
+      "year": 1841
+    },
+    {
+      "title": "Villanelle, H 82",
       "imslp_url": "https://imslp.org/wiki/Villanelle,_H_82_(Berlioz,_Hector)",
-      "year": 1841,
-      "title": "Villanelle, H 82"
+      "year": 1841
     },
     {
+      "title": "La mort d'Oph\u00e9lie, H 92",
+      "imslp_url": "https://imslp.org/wiki/La_mort_d'Oph\u00e9lie,_H_92_(Berlioz,_Hector)",
+      "year": 1842
+    },
+    {
+      "title": "Hymne pour l'\u00e9l\u00e9vation, H 100",
+      "imslp_url": "https://imslp.org/wiki/Hymne_pour_l'\u00e9l\u00e9vation,_H_100_(Berlioz,_Hector)",
+      "year": 1844
+    },
+    {
+      "title": "Hymne \u00e0 la France, H 97",
+      "imslp_url": "https://imslp.org/wiki/Hymne_\u00e0_la_France,_H_97_(Berlioz,_Hector)",
+      "year": 1844
+    },
+    {
+      "title": "La belle Isabeau, H 94",
+      "imslp_url": "https://imslp.org/wiki/La_belle_Isabeau,_H_94_(Berlioz,_Hector)",
+      "year": 1844
+    },
+    {
+      "title": "Le carnaval romain, H 95",
+      "imslp_url": "https://imslp.org/wiki/Le_carnaval_romain,_H_95_(Berlioz,_Hector)",
+      "year": 1844
+    },
+    {
+      "title": "Le chasseur danois, H 104",
+      "imslp_url": "https://imslp.org/wiki/Le_chasseur_danois,_H_104_(Berlioz,_Hector)",
+      "year": 1844
+    },
+    {
+      "title": "Marche fun\u00e8bre pour la derni\u00e8re sc\u00e8ne d'Hamlet, H 103",
+      "imslp_url": "https://imslp.org/wiki/Marche_fun\u00e8bre_pour_la_derni\u00e8re_sc\u00e8ne_d'Hamlet,_H_103_(Berlioz,_Hector)",
+      "year": 1844
+    },
+    {
+      "title": "Overture 'Le Corsaire', H 101",
+      "imslp_url": "https://imslp.org/wiki/Overture_'Le_Corsaire',_H_101_(Berlioz,_Hector)",
+      "year": 1844
+    },
+    {
+      "title": "S\u00e9r\u00e9nade agreste \u00e0 la madone sur le th\u00e8me des pifferari romains, H 98",
+      "imslp_url": "https://imslp.org/wiki/S\u00e9r\u00e9nade_agreste_\u00e0_la_madone_sur_le_th\u00e8me_des_pifferari_romains,_H_98_(Berlioz,_Hector)",
+      "year": 1844
+    },
+    {
+      "title": "Toccata, H 99",
+      "imslp_url": "https://imslp.org/wiki/Toccata,_H_99_(Berlioz,_Hector)",
+      "year": 1844
+    },
+    {
+      "title": "La damnation de Faust, H 111",
+      "imslp_url": "https://imslp.org/wiki/La_damnation_de_Faust,_H_111_(Berlioz,_Hector)",
+      "year": 1845
+    },
+    {
+      "title": "Za\u00efde, H 107",
+      "imslp_url": "https://imslp.org/wiki/Za\u00efde,_H_107_(Berlioz,_Hector)",
+      "year": 1845
+    },
+    {
+      "title": "Chant des chemins de fer, H 110",
+      "imslp_url": "https://imslp.org/wiki/Chant_des_chemins_de_fer,_H_110_(Berlioz,_Hector)",
+      "year": 1846
+    },
+    {
+      "title": "Pri\u00e8re du matin, H 112",
+      "imslp_url": "https://imslp.org/wiki/Pri\u00e8re_du_matin,_H_112_(Berlioz,_Hector)",
+      "year": 1846
+    },
+    {
+      "title": "Nessun maggior piacere, H 114",
+      "imslp_url": "https://imslp.org/wiki/Nessun_maggior_piacere,_H_114_(Berlioz,_Hector)",
+      "year": 1847
+    },
+    {
+      "title": "La menace des Francs, H 117",
+      "imslp_url": "https://imslp.org/wiki/La_menace_des_Francs,_H_117_(Berlioz,_Hector)",
+      "year": 1848
+    },
+    {
+      "title": "Te Deum, H 118",
+      "imslp_url": "https://imslp.org/wiki/Te_Deum,_H_118_(Berlioz,_Hector)",
+      "year": 1848
+    },
+    {
+      "title": "Tristia, H 119",
+      "imslp_url": "https://imslp.org/wiki/Tristia,_H_119_(Berlioz,_Hector)",
+      "year": 1849
+    },
+    {
+      "title": "Vox populi, H 120",
       "imslp_url": "https://imslp.org/wiki/Vox_populi,_H_120_(Berlioz,_Hector)",
-      "year": 1849,
-      "title": "Vox populi, H 120"
+      "year": 1849
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Za%C3%AFde,_H_107_(Berlioz,_Hector)",
-      "year": 1845,
-      "title": "Za\u00efde, H 107"
+      "title": "L'enfance du Christ, H 130",
+      "imslp_url": "https://imslp.org/wiki/L'enfance_du_Christ,_H_130_(Berlioz,_Hector)",
+      "year": 1850
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Collection_de_m%C3%A9lodies,_H_139_(Berlioz,_Hector)",
-      "year": 1863,
-      "title": "Collection de m\u00e9lodies, H 139"
+      "title": "L'imp\u00e9riale, H 129",
+      "imslp_url": "https://imslp.org/wiki/L'imp\u00e9riale,_H_129_(Berlioz,_Hector)",
+      "year": 1854
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Feuillets_d%27album,_H_121_(Berlioz,_Hector)",
-      "year": 1850,
-      "title": "Feuillets d'album, H 121"
+      "title": "Valse chant\u00e9e, H 131",
+      "imslp_url": "https://imslp.org/wiki/Valse_chant\u00e9e,_H_131_(Berlioz,_Hector)",
+      "year": 1855
     },
     {
-      "imslp_url": "https://imslp.org/wiki/%C3%80_travers_chants_(Berlioz,_Hector)",
-      "year": 1862,
-      "title": "\u00c0 travers chants"
+      "title": "Les Troyens, H 133",
+      "imslp_url": "https://imslp.org/wiki/Les_Troyens,_H_133_(Berlioz,_Hector)",
+      "year": 1856
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Grand_trait%C3%A9_d%27instrumentation_et_d%27orchestration_modernes,_Op.10_(Berlioz,_Hector)",
-      "year": 1843,
-      "title": "Grand trait\u00e9 d'instrumentation et d'orchestration modernes, Op.10"
+      "title": "Hymne pour la cons\u00e9cration du nouveau tabernacle, H 135",
+      "imslp_url": "https://imslp.org/wiki/Hymne_pour_la_cons\u00e9cration_du_nouveau_tabernacle,_H_135_(Berlioz,_Hector)",
+      "year": 1859
     },
     {
-      "imslp_url": "https://imslp.org/wiki/M%C3%A9moires_(Berlioz,_Hector)",
-      "year": 1865,
-      "title": "M\u00e9moires"
+      "title": "B\u00e9atrice et B\u00e9n\u00e9dict, H 138",
+      "imslp_url": "https://imslp.org/wiki/B\u00e9atrice_et_B\u00e9n\u00e9dict,_H_138_(Berlioz,_Hector)",
+      "year": 1860
+    },
+    {
+      "title": "Invitation \u00e0 louer Dieu, H 143",
+      "imslp_url": "https://imslp.org/wiki/Invitation_\u00e0_louer_Dieu,_H_143_(Berlioz,_Hector)",
+      "year": 1860
+    },
+    {
+      "title": "Tantum ergo, H 142",
+      "imslp_url": "https://imslp.org/wiki/Tantum_ergo,_H_142_(Berlioz,_Hector)",
+      "year": 1860
+    },
+    {
+      "title": "Veni creator, H 141",
+      "imslp_url": "https://imslp.org/wiki/Veni_creator,_H_141_(Berlioz,_Hector)",
+      "year": 1860
+    },
+    {
+      "title": "Le temple universel, H 137",
+      "imslp_url": "https://imslp.org/wiki/Le_temple_universel,_H_137_(Berlioz,_Hector)",
+      "year": 1861
     }
   ]
 }

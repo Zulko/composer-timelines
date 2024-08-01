@@ -7,447 +7,232 @@
   "wikipedia_url": "https://en.wikipedia.org/wiki/Gustav_Mahler",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Gustav Mahler was born to humble Jewish parents, making his future career choice as a composer a bit of an underdog story. He entered the world in a modest setting, with a family background so quaint you would think it was straight out of a fairy tale, albeit one that involves a lot more music and a little less magic.",
+      "section": "Biography",
+      "title": "Birth",
+      "summary": "Gustav Mahler was born into a humble family in Kali\u0161t\u011b, Bohemia, where his father was a coachman and later an innkeeper. This modest background played a crucial role in shaping his sense of identity as an artist throughout his life.",
       "year": 1860,
-      "city": "Kali\u0161t\u011b",
-      "country": "Czech Republic"
+      "location": "Kali\u0161t\u011b, Bohemia",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Gustav Mahler was born into a humble family in Kali\u0161t\u011b, Bohemia, where his father was a coachman and later an innkeeper. This modest background really shaped his sense of identity as an artist throughout his life, paving the way for the dramatic flair of Mahler; it must have been quite the inspiration!"
     },
     {
-      "event": "First Performance",
-      "summary": "One might say Gustav was a piano prodigy, giving his first public performance at the ripe age of ten. Talk about setting the bar high! While other kids were busy trading baseball cards, he was busy wowing audiences in his hometown. Not exactly an average childhood, eh?",
+      "section": "Biography",
+      "title": "First Public Performance",
+      "summary": "At the age of ten, Mahler gave his first public performance at the town theatre, showcasing his precocious musical talent and confirming his status as a local Wunderkind.",
       "year": 1870,
-      "city": "Jihlava",
-      "country": "Czech Republic"
+      "location": "Jihlava",
+      "emoji": "\ud83c\udf1f",
+      "fun_version": "At the tender age of ten, Mahler took the stage at the town theatre, making such a racket that even the local cats had to pause and listen. His musical talent was so precocious, it was rumored he was actually a 40-year-old trapped in a child's body, confirming his status as a local Wunderkind."
     },
     {
-      "event": "Conservatory Graduation",
-      "summary": "After a whirlwind education that included unfortunate receptions of his compositions, Mahler graduated from the Vienna Conservatory. It's like graduating from a culinary school only to find out none of your recipes are edible, but hey, at least he got a diploma!",
-      "year": 1878,
-      "city": "Vienna",
-      "country": "Austria"
+      "section": "Biography",
+      "title": "Death of Younger Brother",
+      "summary": "On 13 April 1875, Mahler suffered a profound personal loss with the death of his younger brother Ernst after a long illness. This tragedy deeply affected him, leading him to express his grief through music, starting work on an opera as a memorial.",
+      "year": 1875,
+      "location": "",
+      "emoji": "\ud83d\ude22",
+      "fun_version": "On 13 April 1875, Mahler suffered a profound personal loss with the death of his younger brother Ernst after a long illness. This tragedy deeply affected him, leading him to express his grief through music, starting work on an opera as a memorial."
     },
     {
-      "event": "First Professional Conducting Job",
-      "summary": "Mahler conducted his first professional gig at a small theatre in Bad Hall, where the repertoires were primarily operetta. It was as if he'd been handed the job of leading a local band of merry misfits instead of a prestigious opera house. Talk about a humble beginning!",
+      "section": "Music",
+      "title": "First Period of Composition",
+      "summary": "Mahler's composing career is divided into a long first period, characterized by an array of works including his first four symphonies and the song cycle 'Lieder eines fahrenden Gesellen'. This phase reflects a close relationship between his symphonic pieces and song collections, infused with programmatic elements. Mahler initially provided detailed descriptive programs for his first three symphonies, although he later distanced himself from these concepts.",
       "year": 1880,
-      "city": "Bad Hall",
-      "country": "Austria"
+      "location": "Austro-German",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Mahler's composing career is like a buffet of classical music! He started with a mountain of dishes, including his first four symphonies and the delightful 'Lieder eines fahrenden Gesellen'. This phase reflects a close relationship between his symphonic pieces and song collections, seasoned with imagination\u2014just no salt! At first, he offered fancy menus (aka programs) for his first three symphonies, although he later distanced himself from these concepts."
     },
     {
-      "event": "First Full-Scale Opera",
-      "summary": "In an inspiring turn of events, Mahler took the reins at the Landestheater in Laibach and conducted his very first full-scale opera, Verdi's Il trovatore. One can imagine him thinking, 'If I can survive this, I can do anything!' and thankfully, he was right.",
+      "section": "Biography",
+      "title": "First Professional Conducting Job",
+      "summary": "In June 1880, Mahler accepted his first professional conducting position in Bad Hall, a small wooden theatre, where he began his journey in the world of conducting and opera.",
+      "year": 1880,
+      "location": "Bad Hall",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "In June 1880, Mahler accepted his first professional conducting position in a tiny wooden theatre in Bad Hall, where he began his journey in the world of conducting and opera\u2014going from 'total music newbie' to 'hey, look, it\u2019s that guy waving his arms around!'"
+    },
+    {
+      "section": "Biography",
+      "title": "First Full-Scale Opera Conducted",
+      "summary": "In 1881, Mahler conducted his first full-scale opera, Verdi's Il Trovatore, at the Landestheater in Laibach, marking a significant step in his early conducting career.",
       "year": 1881,
-      "city": "Laibach",
-      "country": "Slovenia"
+      "location": "Laibach",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "In 1881, Mahler conducted his first full-scale opera, Verdi's Il Trovatore, at the Landestheater in Laibach. It was a significant step in his early conducting career, showcasing his talent and leaving the audience in awe of the dramatic music."
     },
     {
-      "event": "Incidental Music Premiere",
-      "summary": "Mahler's incidental music to 'Der Trompeter von S\u00e4ckingen' marked the first professional public performance of his work. Imagine the excitement! It was like revealing your secret talent on a talent show and hoping the judges give you at least a pass!",
-      "year": 1884,
-      "city": "Kassel",
-      "country": "Germany"
-    },
-    {
-      "event": "Marriage",
-      "summary": "In a dramatic twist that could be straight out of an opera, Mahler married Alma Schindler. Few could resist the tragicomedy of love that inspired both his heartfelt compositions and, apparently, some tumultuous personal drama. Life imitating art? Always a funny premise!",
-      "year": 1902,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Directorship at Vienna Hofoper",
-      "summary": "Mahler secured a prestigious position as the director of the Vienna Hofoper, arguably one of the big leagues of opera. Despite facing the media's not-so-friendly opinions, Mahler turned out innovative productions that raised eyebrows\u2014probably because he was conducting with his heart as well as a baton!",
-      "year": 1897,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Eighth Symphony Premiere",
-      "summary": "The premiere of Mahler's Eighth Symphony could have been a massive event in itself, likened to a fireworks display put to music! His previous works may have faced criticism, but this one? This one was a thrilling triumph that got everyone talking (and cheering)!",
-      "year": 1910,
-      "city": "Munich",
-      "country": "Germany"
-    },
-    {
-      "event": "First performance of Beethoven's Ninth Symphony",
-      "summary": "Mahler performed Beethoven's monumental Ninth Symphony for the first time, probably giving the orchestra a little bit of a workout. After all, who doesn\u2019t love a good shout-out to joy after a long rehearsal?",
-      "year": 1886,
-      "city": "Prague",
-      "country": "Czech Republic"
-    },
-    {
-      "event": "Joining Neues Stadttheater in Leipzig",
-      "summary": "In July, 1886, Mahler took up his new post at the Neues Stadttheater, diving headfirst into rivalries with established conductors instead of just diving into the conductors' pit. The drama commenced almost immediately!",
-      "year": 1886,
-      "city": "Leipzig",
-      "country": "Germany"
-    },
-    {
-      "event": "Success with Wagner's Ring Cycle",
-      "summary": "When rival conductor Nikisch fell ill, Mahler took charge of the Wagner Ring cycle and scored a public success, proving he could juggle Wagner\u2019s theatrics and orchestral egos with style\u2014and perhaps a bit of sass!",
-      "year": 1887,
-      "city": "Leipzig",
-      "country": "Germany"
-    },
-    {
-      "event": "Premiere of Die drei Pintos",
-      "summary": "Mahler premiered Carl Maria von Weber's unfinished opera Die drei Pintos, garnering applause and considerable attention, despite the whispers about his 'romantic' involvement with the composer\u2019s wife. Who says composing and drama don\u2019t mix?",
+      "section": "Biography",
+      "title": "Departure from Leipzig",
+      "summary": "On 17 May 1888, Mahler resigned from his position in Leipzig after a dispute with the Stadttheater's chief stage manager, marking a pivotal moment in his conducting career as he sought new opportunities.",
       "year": 1888,
-      "city": "Leipzig",
-      "country": "Germany"
+      "location": "Leipzig",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "On 17 May 1888, Mahler threw in the towel in Leipzig after a spat with the chief stage manager at the Stadttheater. This pivotal moment in his conducting career led him to seek greener pastures and fewer stage managers with a flair for theatrics, as he looked for new opportunities."
     },
     {
-      "event": "Completion of First Symphony",
-      "summary": "At the height of a rumored romance, Mahler completed his First Symphony during this busy time when he was apparently channeling his feelings through music, creating a five-movement masterpiece that was as emotional as it was orchestral.",
-      "year": 1888,
-      "city": "Leipzig",
-      "country": "Germany"
-    },
-    {
-      "event": "Resignation from Leipzig position",
-      "summary": "After a spat with the stage manager, Mahler resigned dramatically, presumably looking for the nearest exit while gripping his scores tightly. But he had a secret invitation that was waiting for him!",
-      "year": 1888,
-      "city": "Leipzig",
-      "country": "Germany"
-    },
-    {
-      "event": "Appointment at Royal Hungarian Opera",
-      "summary": "Mahler accepted a directorial post at the Royal Hungarian Opera, stepping into the world of cultural conflict like an epic hero of the opera that he was destined to conduct\u2014even if it meant dodging political landmines!",
-      "year": 1888,
-      "city": "Budapest",
-      "country": "Hungary"
-    },
-    {
-      "event": "Premiere of First Symphony in Budapest",
-      "summary": "The premiere of Mahler's First Symphony was met with mixed reviews. It was one of those 'I love it, I hate it' moments that can only happen at a fancy symphonic soir\u00e9e.",
-      "year": 1889,
-      "city": "Budapest",
-      "country": "Hungary"
-    },
-    {
-      "event": "Departure from Budapest",
-      "summary": "Stifled by the conservatism of the city, Mahler orchestrated his own departure, much like he conducted: with flair, while pocketing a nice sum for his troubles. Sweet victory tastes like indemnity!",
+      "section": "Biography",
+      "title": "Resignation from Budapest",
+      "summary": "In March 1891, Mahler successfully arranged to be sacked from his post in Budapest as he advanced negotiations to take on a more favorable contract in Hamburg, showcasing his career-driven determination.",
       "year": 1891,
-      "city": "Budapest",
-      "country": "Hungary"
+      "location": "Budapest",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In March 1891, Mahler decided that getting fired from his Budapest gig was a great career move. I mean, who needs a steady paycheck when you can negotiate like a pro for a shinier job in Hamburg? That's like trading in your old bicycle for a flashy new sports car!"
     },
     {
-      "event": "Chief Conductor in Hamburg",
-      "summary": "In Hamburg, Mahler assumed the role of chief conductor, swiftly illustrating that he could be both a hard taskmaster and a crowd-pleaser at the same time\u2014like a conductor with a side of charm!",
-      "year": 1891,
-      "city": "Hamburg",
-      "country": "Germany"
-    },
-    {
-      "event": "Successful premiere of Second Symphony",
-      "summary": "Mahler\u2019s Second Symphony premiered, and with it came applause louder than the conducting baton clapping against the podium. It was a significant moment and put Mahler on the map as a serious composer!",
-      "year": 1895,
-      "city": "Berlin",
-      "country": "Germany"
-    },
-    {
-      "event": "Becoming Director at Vienna Hofoper",
-      "summary": "Mahler finally snagged the coveted directorship at Vienna Hofoper, much to the delight of audience members who appreciated his genius and the not-so-delight of those who preferred a more traditional approach. It was a musical tug of war!",
+      "section": "Biography",
+      "title": "Vienna Hofoper Directorship",
+      "summary": "On 8 October 1897, Mahler was officially appointed as the director of the Hofoper in Vienna, a position that would define his later career as a composer and conductor in the city.",
       "year": 1897,
-      "city": "Vienna",
-      "country": "Austria"
+      "location": "Vienna",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "On 8 October 1897, Mahler was officially appointed as the director of the Hofoper in Vienna, a position that would define his later career as a composer and conductor in the city. It was so important that even the chairs in the opera house were like, 'Wow, we get to work with this guy!' This would be the start of a career filled with dramatic gestures and musical masterpieces that echoed through the Vienna air."
     },
     {
-      "event": "First Major Performances",
-      "summary": "In May, Mahler made his initial mark with performances of Wagner's Lohengrin and Mozart's Die Zauberfl\u00f6te, causing quite the stir. Music critics were throwing roses while throwing shade at others\u2014classic drama!",
-      "year": 1897,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Vienna's First Uncut Ring Cycle",
-      "summary": "Following some time off for recovery, Mahler returned in July to prepare for Vienna's first uncut version of Wagner's Ring cycle, which was met with critical acclaim. It was like the premiere of a blockbuster film\u2014everyone was buzzing!",
-      "year": 1897,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Appointed Hofoper's Director",
-      "summary": "On October 8, Mahler was formally appointed Hofoper's director. Vienna thought they'd just put a toddler in charge of their most prized possession\u2014the anxiety was palpable!",
-      "year": 1901,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Marriage to Alma Schindler",
-      "summary": "In a plot twist that shocked friends and family, Mahler married Alma Schindler on March 9. Let\u2019s just say, they didn\u2019t register at Crate & Barrel\u2014the drama was fierce!",
-      "year": 1902,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "First Performance of Second Symphony",
-      "summary": "In April, Mahler conducted the Viennese premiere of his Second Symphony, a work that left audiences gasping and wondering if they should have brought snacks for such a long show!",
+      "section": "Biography",
+      "title": "First Performance of the Second Symphony",
+      "summary": "On 17 April 1899, Mahler conducted the Viennese premiere of his Second Symphony, marking a significant moment in Mahler's rise to fame as a composer.",
       "year": 1899,
-      "city": "Vienna",
-      "country": "Austria"
+      "location": "Vienna",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "On 17 April 1899, Mahler conducted the Viennese premiere of his Second Symphony, making it a night more dramatic than most opera plots! This event was a significant moment that catapulted Mahler's rise to fame, with some audience members still pondering if the 'Scherzo' was just an expensive coffee order!"
     },
     {
-      "event": "Final Performance at Hofoper",
-      "summary": "On October 15, Mahler conducted his last performance at the Hofoper with Fidelio, completing this chapter with flair\u2014like a magician pulling a rabbit out of a hat, only the rabbit was a symphony!",
+      "section": "Biography",
+      "title": "Marriage to Alma Schindler",
+      "summary": "Gustav Mahler married Alma Schindler on 9 March 1902, amidst contrasting opinions from friends and family about their union's implications for both their artistic careers.",
+      "year": 1902,
+      "location": "Vienna",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "On March 9, 1902, Gustav Mahler tied the knot with Alma Schindler, and boy, did their friends and family have opinions! It was like a live version of 'Who Wants to Marry a Musician?' as everyone debated whether this marriage would be a symphonic masterpiece or a cacophonic disaster!"
+    },
+    {
+      "section": "Biography",
+      "title": "Death of Daughter Maria",
+      "summary": "Following the death of his daughter Maria in July 1907 from scarlet fever, Mahler faced immense personal grief compounded by the revelation of his own health issues, which profoundly impacted his life and work.",
       "year": 1907,
-      "city": "Vienna",
-      "country": "Austria"
+      "location": "Maiernigg",
+      "emoji": "\ud83d\ude22",
+      "fun_version": "After the passing of his daughter Maria in July 1907, Mahler found himself grappling with immense personal grief. To compound matters, he discovered his own health issues, making his life feel like an incredibly challenging roller coaster ride that undoubtedly influenced his work."
     },
     {
-      "event": "Departure to New York",
-      "summary": "After a whirlwind tenure in Vienna filled with highs and lows, Mahler left for New York in early December, ready to take on a new musical adventure, like a tourist who finally got a one-way ticket to the Big Apple!",
+      "section": "Biography",
+      "title": "Final Performance at the Hofoper",
+      "summary": "On 15 October 1907, Mahler conducted his final performance at the Vienna Hofoper, concluding a significant decade of artistic contributions to the prestigious opera house.",
       "year": 1907,
-      "city": "New York",
-      "country": "USA"
+      "location": "Vienna",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "On 15 October 1907, Mahler conducted his final performance at the Vienna Hofoper, concluding a significant decade of artistic contributions. He took a dramatic bow, leaving the crowd pondering if they should applaud or shout for more."
     },
     {
-      "event": "New York Debut",
-      "summary": "Mahler made his big New York debut at the Metropolitan Opera, conducting Tristan und Isolde. It was a night that had audiences mesmerized, setting the stage for an era where he didn\u2019t need to convince anyone he was a big deal!",
-      "year": 1908,
-      "city": "New York",
-      "country": "USA"
-    },
-    {
-      "event": "Composition of Das Lied von der Erde",
-      "summary": "While in Toblach, Mahler composed Das Lied von der Erde, avoiding the dreaded Ninth Symphony curse like a pro, proving yet again that he was a master of the dramatic arts, both on and off the stage!",
-      "year": 1908,
-      "city": "Toblach",
-      "country": "Italy"
-    },
-    {
-      "event": "Conducts the New York Philharmonic",
-      "summary": "After struggling with opera house duties, Mahler jumped ship to conduct the New York Philharmonic. It was like finding a new love after a tough relationship \u2013 only to realize he was still going to need to rehearse 46 concerts, which is a lot of time underwater for anyone!",
-      "year": 1909,
-      "city": "New York",
-      "country": "USA"
-    },
-    {
-      "event": "Premiere of Eighth Symphony",
-      "summary": "In what became his biggest hit, Mahler conducted the premiere of his Eighth Symphony in Munich and certainly took a selfie with a 'Fan of the Year' trophy after the concert, though no cameras existed then!",
-      "year": 1910,
-      "city": "Munich",
-      "country": "Germany"
-    },
-    {
-      "event": "Meets Sigmund Freud",
-      "summary": "Faced with personal strife due to his wife\u2019s secret rendezvous with an architect, Mahler sought guidance from Freud, possibly trying to understand if composing could outrun marital drama! Freud told him to ease up on Alma's composing restraints\u2014talk about a therapy session with a musical undertone!",
-      "year": 1910,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Last concert at Carnegie Hall",
-      "summary": "Mahler performed a program featuring Italian music\u2014including Busoni's world premiere\u2014while feeling like a walking thermometer. It's said he raised the roof but was also rather feverish, leaving audiences guessing if he was conducting or just trying to stay upright!",
+      "section": "Biography",
+      "title": "Death",
+      "summary": "Gustav Mahler passed away on 18 May 1911 in Vienna after battling illness, leaving behind a rich legacy of symphonies and operatic works that would resonate long after his death.",
       "year": 1911,
-      "city": "New York",
-      "country": "USA"
-    },
-    {
-      "event": "Diagnosed with bacterial endocarditis",
-      "summary": "After ignoring the signs and symptoms, he was diagnosed with a heart condition that could be fatal. Mahler's optimism was commendable; it was like having the world's toughest quiz and he was determined to score high even while feeling low!",
-      "year": 1911,
-      "city": "New York",
-      "country": "USA"
-    },
-    {
-      "event": "Death",
-      "summary": "Amidst treatments, Mahler slipped into a calm coma and eventually passed away, leaving the world with a symphonic farewell. His tombstone had no fluff\u2014just his name, asserting he was confident everyone 'would know who he was' without a biography needed!",
-      "year": 1911,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Buried in Grinzing cemetery",
-      "summary": "Mahler was laid to rest in his chosen cemetery next to his daughter, where they probably held the quietest post-mortem choir rehearsal ever! No drama, just simple elegance, as fate would have it.",
-      "year": 1911,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "First Symphony Premiere",
-      "summary": "Mahler's First Symphony hit the stage with critics scratching their heads and public faces contorted in confusion; one called it the dullest of the era! Ironically, it was the beginning of a journey filled with symphonic escapades.",
-      "year": 1889,
-      "city": "Dresden",
-      "country": "Germany"
-    },
-    {
-      "event": "Appointment to Vienna Hofoper",
-      "summary": "Mahler felt like he\u2019d won the lottery when appointed to the directorship of the Vienna Hofoper. Unfortunately, winning big also meant attracting a legion of critics who consistently tried to rain on his parade.",
-      "year": 1897,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Third Symphony Success in Krefeld",
-      "summary": "His Third Symphony proved to be a hit in Krefeld, even as it met the would-be executioner in Vienna where critics were less than impressed, declaring Mahler deserved a stint in prison for his composition choices!",
-      "year": 1902,
-      "city": "Krefeld",
-      "country": "Germany"
-    },
-    {
-      "event": "Introduction to Roller",
-      "summary": "In a twist of fate worthy of a romantic comedy, Alma Schindler, who would later become his wife, supposedly introduced Mahler to the designer Roller at her stepfather's house, making the two a part of a love story even before their marital debacle.",
-      "year": 1902,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Beginning with Vienna Philharmonic",
-      "summary": "Mahler jumped into the deep end by conducting subscription concerts with the Vienna Philharmonic Orchestra. He must have thought, 'What\u2019s the worst that could happen?' Spoiler alert: he became well known, but it was probably still a bit nerve-wracking.",
-      "year": 1901,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Romantic Letters to Alma",
-      "summary": "While in Munich, Mahler penned letters that would make any romantic swoon. Calling Alma 'madly beloved Almschili' was just one of his affectionate antics. Though Alma edited these letters later, we can only imagine the eye rolls from Mahler.",
-      "year": 1910,
-      "city": "Munich",
-      "country": "Germany"
-    },
-    {
-      "event": "The Symphony of a Thousand Premiere",
-      "summary": "At the premiere of his grand \u2018Symphony of a Thousand\u2019, which, spoiler alert, had fewer than a thousand performers, Mahler must have thought, 'Next time, I\u2019ll aim for 999 and just call it a win!' A little less than the title promised, but still a spectacle!",
-      "year": 1910,
-      "city": "Munich",
-      "country": "Germany"
-    },
-    {
-      "event": "First Symphony",
-      "summary": "Mahler completed his First Symphony, also known as 'Titan', and it was so 'Titanic' in scope that listeners probably expected icebergs to show up halfway through. It merged drama, humor, and all sorts of musical chaos, making it a staple for orchestras everywhere.",
-      "year": 1888,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Becomes Director of Vienna Court Opera",
-      "summary": "In a move that would make any conductor\u2019s resume look impressive, Mahler became the director of the Vienna Court Opera. He turned the place upside down with his innovative ideas, much like trying to balance a watermelon on your head during a tightrope walk.",
-      "year": 1897,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Third Symphony Premiere",
-      "summary": "Mahler premiered his Third Symphony, which lasted about an eternity, or at least as long as some people's attention spans. The audience had to marvel not just at the music but also at the endurance required to sit through it all.",
-      "year": 1902,
-      "city": "Munich",
-      "country": "Germany"
-    },
-    {
-      "event": "Symphony No. 8 Premiere",
-      "summary": "Known as the 'Symphony of a Thousand' for the number of performers involved, Mahler's Eighth Symphony had so many musicians that the local fire marshal probably had a heart attack just thinking about the crowd control. It was a grand event that showcased Mahler's larger-than-life approach.",
-      "year": 1910,
-      "city": "Munich",
-      "country": "Germany"
+      "location": "Vienna",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Gustav Mahler passed away on 18 May 1911, in Vienna, after battling illness. He left behind a rich legacy of symphonies and operatic works that continue to resonate long after his death."
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/Kindertotenlieder_(Mahler,_Gustav)",
-      "year": 1901,
-      "title": "Kindertotenlieder"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Das_Klagende_Lied_(Mahler,_Gustav)",
-      "year": 1878,
-      "title": "Das Klagende Lied"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Des_Knaben_Wunderhorn_(Mahler,_Gustav)",
-      "year": 1892,
-      "title": "Des Knaben Wunderhorn"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Das_Lied_von_der_Erde_(Mahler,_Gustav)",
-      "year": 1908,
-      "title": "Das Lied von der Erde"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Lieder_eines_fahrenden_Gesellen_(Mahler,_Gustav)",
-      "year": 1883,
-      "title": "Lieder eines fahrenden Gesellen"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Lieder_und_Ges%C3%A4nge_aus_der_Jugendzeit_(Mahler,_Gustav)",
-      "year": 1880,
-      "title": "Lieder und Ges\u00e4nge aus der Jugendzeit"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Lieder_(Mahler,_Gustav)",
-      "year": 1880,
-      "title": "3 Lieder"
-    },
-    {
+      "title": "Piano Quartet",
       "imslp_url": "https://imslp.org/wiki/Piano_Quartet_(Mahler,_Gustav)",
-      "year": 1876,
-      "title": "Piano Quartet"
+      "year": 1876
     },
     {
-      "imslp_url": "https://imslp.org/wiki/R%C3%BCckert_Lieder_(Mahler,_Gustav)",
-      "year": 1901,
-      "title": "R\u00fcckert Lieder"
+      "title": "Das Klagende Lied",
+      "imslp_url": "https://imslp.org/wiki/Das_Klagende_Lied_(Mahler,_Gustav)",
+      "year": 1878
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Scherzo_in_C_minor_(Mahler,_Gustav)",
-      "year": 1897,
-      "title": "Scherzo in C minor"
+      "title": "3 Lieder",
+      "imslp_url": "https://imslp.org/wiki/3_Lieder_(Mahler,_Gustav)",
+      "year": 1880
     },
     {
+      "title": "Lieder und Ges\u00e4nge aus der Jugendzeit",
+      "imslp_url": "https://imslp.org/wiki/Lieder_und_Ges\u00e4nge_aus_der_Jugendzeit_(Mahler,_Gustav)",
+      "year": 1880
+    },
+    {
+      "title": "Lieder eines fahrenden Gesellen",
+      "imslp_url": "https://imslp.org/wiki/Lieder_eines_fahrenden_Gesellen_(Mahler,_Gustav)",
+      "year": 1883
+    },
+    {
+      "title": "Symphony No.1",
       "imslp_url": "https://imslp.org/wiki/Symphony_No.1_(Mahler,_Gustav)",
-      "year": 1884,
-      "title": "Symphony No.1"
+      "year": 1884
     },
     {
+      "title": "Symphony No.2",
       "imslp_url": "https://imslp.org/wiki/Symphony_No.2_(Mahler,_Gustav)",
-      "year": 1888,
-      "title": "Symphony No.2"
+      "year": 1888
     },
     {
+      "title": "Des Knaben Wunderhorn",
+      "imslp_url": "https://imslp.org/wiki/Des_Knaben_Wunderhorn_(Mahler,_Gustav)",
+      "year": 1892
+    },
+    {
+      "title": "Symphony No.3",
       "imslp_url": "https://imslp.org/wiki/Symphony_No.3_(Mahler,_Gustav)",
-      "year": 1896,
-      "title": "Symphony No.3"
+      "year": 1896
     },
     {
+      "title": "Scherzo in C minor",
+      "imslp_url": "https://imslp.org/wiki/Scherzo_in_C_minor_(Mahler,_Gustav)",
+      "year": 1897
+    },
+    {
+      "title": "Symphony No.4",
       "imslp_url": "https://imslp.org/wiki/Symphony_No.4_(Mahler,_Gustav)",
-      "year": 1900,
-      "title": "Symphony No.4"
+      "year": 1900
     },
     {
+      "title": "Kindertotenlieder",
+      "imslp_url": "https://imslp.org/wiki/Kindertotenlieder_(Mahler,_Gustav)",
+      "year": 1901
+    },
+    {
+      "title": "R\u00fcckert Lieder",
+      "imslp_url": "https://imslp.org/wiki/R\u00fcckert_Lieder_(Mahler,_Gustav)",
+      "year": 1901
+    },
+    {
+      "title": "Symphony No.5",
       "imslp_url": "https://imslp.org/wiki/Symphony_No.5_(Mahler,_Gustav)",
-      "year": 1902,
-      "title": "Symphony No.5"
+      "year": 1902
     },
     {
+      "title": "Symphony No.6",
       "imslp_url": "https://imslp.org/wiki/Symphony_No.6_(Mahler,_Gustav)",
-      "year": 1903,
-      "title": "Symphony No.6"
+      "year": 1903
     },
     {
+      "title": "Symphony No.7",
       "imslp_url": "https://imslp.org/wiki/Symphony_No.7_(Mahler,_Gustav)",
-      "year": 1904,
-      "title": "Symphony No.7"
+      "year": 1904
     },
     {
+      "title": "Symphony No.8",
       "imslp_url": "https://imslp.org/wiki/Symphony_No.8_(Mahler,_Gustav)",
-      "year": 1906,
-      "title": "Symphony No.8"
+      "year": 1906
     },
     {
+      "title": "Das Lied von der Erde",
+      "imslp_url": "https://imslp.org/wiki/Das_Lied_von_der_Erde_(Mahler,_Gustav)",
+      "year": 1908
+    },
+    {
+      "title": "Symphony No.9",
       "imslp_url": "https://imslp.org/wiki/Symphony_No.9_(Mahler,_Gustav)",
-      "year": 1909,
-      "title": "Symphony No.9"
+      "year": 1909
     },
     {
+      "title": "Symphony No.10",
       "imslp_url": "https://imslp.org/wiki/Symphony_No.10_(Mahler,_Gustav)",
-      "year": 1910,
-      "title": "Symphony No.10"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Lieder_und_Ges%C3%A4nge_aus_der_Jugendzeit_(Mahler,_Gustav)",
-      "year": 1880,
-      "title": "Lieder und Ges\u00e4nge aus der Jugendzeit"
+      "year": 1910
     }
   ]
 }

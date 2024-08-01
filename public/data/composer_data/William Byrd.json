@@ -1,0 +1,899 @@
+{
+  "full_name": "William Byrd",
+  "first_names": "William",
+  "last_name": "Byrd",
+  "birth_year": 1543,
+  "death_year": 1623,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/William_Byrd",
+  "events": [
+    {
+      "section": "Music",
+      "title": "Early Compositions",
+      "summary": "One of Byrd's earliest works was a collaboration on the psalm In exitu Israel, likely composed during Queen Mary's reign. His teenage compositions like Christus resurgens and Alleluia confitemini also date back to this period, showing his early engagement with church music and liturgical settings.",
+      "year": 1558,
+      "location": "England",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Byrd's early works were like a musical Tinder profile\u2014swiping right on church music! One notable duet was the psalm 'In exitu Israel,' likely composed during Queen Mary's reign when she was still figuring out her royal playlist. If you thought teenage angst was tough, imagine Byrd's struggle with adolescent tunes like 'Christus resurgens' and 'Alleluia confitemini,' showcasing his early engagement with church music and liturgical settings."
+    },
+    {
+      "section": "Music",
+      "title": "Short Service Composition",
+      "summary": "The 1560s were crucial for Byrd's development as a composer. During these years, he created his Short Service, tailored to meet Protestant requirements for clarity and simplicity in text and music, as well as other instrumental and vocal pieces that would establish his reputation in Anglican music.",
+      "year": 1560,
+      "location": "Lincoln",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "During the crucial 1560s, Byrd was composing like a madman! His masterpiece 'Short Service' was crafted to satisfy the picky Protestants who demanded clarity in their tunes. Not to mention, he churned out a bunch of other instrumental and vocal pieces that established his reputation as the rock star of Anglican music. Byrd: the original 'musical' multitasker!"
+    },
+    {
+      "section": "Life",
+      "title": "First Professional Employment",
+      "summary": "In 1563, Byrd was appointed organist and master of the choristers at Lincoln Cathedral, where he remained until 1572. His time there included some troubles with church authorities over his music style.",
+      "year": 1563,
+      "location": "Lincoln Cathedral",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "In 1563, Byrd was appointed the organist at Lincoln Cathedral, which means he got a fancy title and a seat that came with a view! He remained there until 1572, which was long enough for the church authorities to start worrying about his musical style. Let\u2019s just say, there were some disagreements about what \u2018heavenly music\u2019 should actually sound like!"
+    },
+    {
+      "section": "Life",
+      "title": "Marriage",
+      "summary": "On 14 September 1568, Byrd married Juliana in St Margaret-in-the-Close, Lincoln. Their marriage was fruitful, resulting in at least seven children.",
+      "year": 1568,
+      "location": "Lincoln",
+      "emoji": "\ud83d\udc70\ud83e\udd35",
+      "fun_version": "On September 14, 1568, Byrd married Juliana in St Margaret-in-the-Close, Lincoln. They probably thought \"Let's not stop until we have our own football team!\" because their marriage was so fruitful, they ended up with at least seven kids!"
+    },
+    {
+      "section": "Life",
+      "title": "Association with Catholicism",
+      "summary": "By the 1570s, Byrd became deeply involved with Catholicism, which influenced both his personal life and musical compositions, despite the potential dangers during the Tudor era.",
+      "year": 1570,
+      "location": "England",
+      "emoji": "\u271d\ufe0f",
+      "fun_version": "By the 1570s, Byrd decided to join the Catholic club, which not only added some flair to his personal life but also influenced his musical compositions. Imagine trying to compose while dodging the Tudor-era drama \u2014 it\u2019s like writing a symphony while walking a tightrope!"
+    },
+    {
+      "section": "Life",
+      "title": "Appointment to the Chapel Royal",
+      "summary": "In 1572, Byrd became Gentleman of the Chapel Royal following the death of composer Robert Parsons. This position provided him with opportunities at the court of Queen Elizabeth.",
+      "year": 1572,
+      "location": "Chapel Royal, London",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1572, Byrd became the Gentleman of the Chapel Royal, a title that sounds fancy and pretentious, probably just for showing off while sipping tea with Queen Elizabeth! This was right after the talented composer Robert Parsons decided to exit stage left, which opened up some fantastic opportunities for Byrd at court!"
+    },
+    {
+      "section": "Music",
+      "title": "Cantiones Sacrae",
+      "summary": "Byrd published his first volume of Cantiones Sacrae in 1575, showcasing a variety of styles. These works reflect his capability in writing both instrumental and choral music, highlighting the ongoing evolution of Elizabethan music.",
+      "year": 1575,
+      "location": "England",
+      "emoji": "\ud83d\udcdc",
+      "fun_version": "In 1575, Byrd dropped his first set of Cantiones Sacrae\u2014basically, the Elizabethan version of a mixtape! He showcased a variety of styles, showing off his talents like a musical superhero, proving he could tackle anything from grand orchestral pieces to catchy choral jingles. Talk about an evolution; you\u2019d think he was trying to keep up with the fashion trends of Elizabethan music!"
+    },
+    {
+      "section": "Life",
+      "title": "Joint Patent for Music Printing",
+      "summary": "In 1575, Byrd and Thomas Tallis were granted a monopoly on music printing, allowing them to publish significant works, although their joint publication was a financial failure.",
+      "year": 1575,
+      "location": "England",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "In the year 1575, Byrd and Thomas Tallis struck a deal that would make even the most successful music moguls jealous. They were granted a monopoly on music printing, which sounds impressive until you realize that their grand venture turned out to be as successful as a cat trying to play fetch\u2014specifically, it was a financial failure!"
+    },
+    {
+      "section": "Music",
+      "title": "Madrigal Influence",
+      "summary": "In the late 1580s, Byrd's compositions began to reflect the growing popularity of the madrigal style. His song collections from this period incorporate elements that were increasingly favored by Catholic patrons, representing a transition in his work influenced by contemporary trends.",
+      "year": 1589,
+      "location": "England",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In the late 1580s, Byrd's compositions began to reflect the growing popularity of the madrigal style. His song collections from this period incorporate elements that were increasingly favored by Catholic patrons, representing a notable transition in his work influenced by contemporary trends."
+    },
+    {
+      "section": "Life",
+      "title": "Move to Stondon Massey",
+      "summary": "Around 1594, Byrd moved to Stondon Massey, entering semi-retirement and engaging in a legal dispute over his residence. He continued his close association with the local Catholic community.",
+      "year": 1594,
+      "location": "Stondon Massey, Essex",
+      "emoji": "\ud83c\udfe1",
+      "fun_version": "In 1594, Byrd decided to swap his busy life for a cozy semi-retirement at Stondon Massey\u2014kind of like a retirement home but with less bingo and more legal drama! He was embroiled in a legal tussle over his residence. But amidst all the chaos, he kept his close ties with the local Catholic community."
+    },
+    {
+      "section": "Music",
+      "title": "Publication of Gradualia",
+      "summary": "The Gradualia were published in 1605 and 1607, featuring a comprehensive collection of motets dedicated to Catholic observances. This period exemplified Byrd's shift towards liturgical compositions as he sought to cater to the needs of the Catholic community amidst persecution.",
+      "year": 1605,
+      "location": "England",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Back in 1605 and 1607, the Gradualia was published, featuring a comprehensive collection of motets dedicated to Catholic observances. Byrd aimed to cater to the needs of the Catholic community amidst persecution while jazzing up the liturgical vibes."
+    },
+    {
+      "section": "Music",
+      "title": "Final Works",
+      "summary": "In 1611, Byrd released his last collection of English songs, which showcased his extensive range of styles and influences gathered over his lifetime. This collection was a testament to his enduring legacy in English music.",
+      "year": 1611,
+      "location": "England",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1611, Byrd released his last collection of songs so English it could make your grandma laugh! This collection was like a musical buffet, showcasing an extensive range of styles and influences \u2013 from sweet ballads to cringeworthy alehouse tunes. A true testament to his legacy, which is more enduring than the last slice of a fruitcake at Christmas!"
+    },
+    {
+      "section": "Life",
+      "title": "Death",
+      "summary": "William Byrd passed away on 4 July 1623, due to heart failure. He was noted for his contributions to music, being recognized as 'a Father of Musick' in the Chapel Royal records.",
+      "year": 1623,
+      "location": "Stondon Massey",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "On July 4th, 1623, William Byrd decided to leave the party early\u2014his heart just couldn't keep up with the rhythm! This musical maestro wasn't just any old bard; he was recognized for his contributions to music as 'a Father of Musick' in the Chapel Royal records."
+    }
+  ],
+  "works": [
+    {
+      "title": "Aspice Domine, T 7",
+      "imslp_url": "https://imslp.org/wiki/Aspice_Domine,_T_7_(Byrd,_William)",
+      "year": 1575
+    },
+    {
+      "title": "Attollite portas principes vestras, T 8",
+      "imslp_url": "https://imslp.org/wiki/Attollite_portas_principes_vestras,_T_8_(Byrd,_William)",
+      "year": 1575
+    },
+    {
+      "title": "Da mihi auxilium, T 13",
+      "imslp_url": "https://imslp.org/wiki/Da_mihi_auxilium,_T_13_(Byrd,_William)",
+      "year": 1575
+    },
+    {
+      "title": "Domine secundum actum meum, T 14",
+      "imslp_url": "https://imslp.org/wiki/Domine_secundum_actum_meum,_T_14_(Byrd,_William)",
+      "year": 1575
+    },
+    {
+      "title": "Emendemus in melius, T 4",
+      "imslp_url": "https://imslp.org/wiki/Emendemus_in_melius,_T_4_(Byrd,_William)",
+      "year": 1575
+    },
+    {
+      "title": "Laudate pueri Dominum, T 10",
+      "imslp_url": "https://imslp.org/wiki/Laudate_pueri_Dominum,_T_10_(Byrd,_William)",
+      "year": 1575
+    },
+    {
+      "title": "Libera me, Domine, de morte aeterna, T 18",
+      "imslp_url": "https://imslp.org/wiki/Libera_me,_Domine,_de_morte_aeterna,_T_18_(Byrd,_William)",
+      "year": 1575
+    },
+    {
+      "title": "Libera me, Domine, et pone me juxta te, T 5",
+      "imslp_url": "https://imslp.org/wiki/Libera_me,_Domine,_et_pone_me_juxta_te,_T_5_(Byrd,_William)",
+      "year": 1575
+    },
+    {
+      "title": "Memento homo, T 11",
+      "imslp_url": "https://imslp.org/wiki/Memento_homo,_T_11_(Byrd,_William)",
+      "year": 1575
+    },
+    {
+      "title": "Miserere mihi Domine, T 16",
+      "imslp_url": "https://imslp.org/wiki/Miserere_mihi_Domine,_T_16_(Byrd,_William)",
+      "year": 1575
+    },
+    {
+      "title": "O lux beata Trinitas, T 9",
+      "imslp_url": "https://imslp.org/wiki/O_lux_beata_Trinitas,_T_9_(Byrd,_William)",
+      "year": 1575
+    },
+    {
+      "title": "Peccantem me quotidie, T 6",
+      "imslp_url": "https://imslp.org/wiki/Peccantem_me_quotidie,_T_6_(Byrd,_William)",
+      "year": 1575
+    },
+    {
+      "title": "Siderum rector, T 12",
+      "imslp_url": "https://imslp.org/wiki/Siderum_rector,_T_12_(Byrd,_William)",
+      "year": 1575
+    },
+    {
+      "title": "Tribue Domine, T 17",
+      "imslp_url": "https://imslp.org/wiki/Tribue_Domine,_T_17_(Byrd,_William)",
+      "year": 1575
+    },
+    {
+      "title": "Browning, T 387",
+      "imslp_url": "https://imslp.org/wiki/Browning,_T_387_(Byrd,_William)",
+      "year": 1578
+    },
+    {
+      "title": "How Long Shall Mine Enemies Triumph Over Me?, T 201",
+      "imslp_url": "https://imslp.org/wiki/How_Long_Shall_Mine_Enemies_Triumph_Over_Me?,_T_201_(Byrd,_William)",
+      "year": 1578
+    },
+    {
+      "title": "The Battell",
+      "imslp_url": "https://imslp.org/wiki/The_Battell_(Byrd,_William)",
+      "year": 1581
+    },
+    {
+      "title": "I Will Give Laud, T 372",
+      "imslp_url": "https://imslp.org/wiki/I_Will_Give_Laud,_T_372_(Byrd,_William)",
+      "year": 1585
+    },
+    {
+      "title": "Come to Me Grief, T 244",
+      "imslp_url": "https://imslp.org/wiki/Come_to_Me_Grief,_T_244_(Byrd,_William)",
+      "year": 1586
+    },
+    {
+      "title": "O That Most Rare Breast",
+      "imslp_url": "https://imslp.org/wiki/O_That_Most_Rare_Breast_(Byrd,_William)",
+      "year": 1586
+    },
+    {
+      "title": "All as a Sea, T 243",
+      "imslp_url": "https://imslp.org/wiki/All_as_a_Sea,_T_243_(Byrd,_William)",
+      "year": 1588
+    },
+    {
+      "title": "As I Beheld I Saw a Herdman Wild, T 230",
+      "imslp_url": "https://imslp.org/wiki/As_I_Beheld_I_Saw_a_Herdman_Wild,_T_230_(Byrd,_William)",
+      "year": 1588
+    },
+    {
+      "title": "Constant Penelope, T 233",
+      "imslp_url": "https://imslp.org/wiki/Constant_Penelope,_T_233_(Byrd,_William)",
+      "year": 1588
+    },
+    {
+      "title": "Help Lord, for Wasted Are those Men, T 217",
+      "imslp_url": "https://imslp.org/wiki/Help_Lord,_for_Wasted_Are_those_Men,_T_217_(Byrd,_William)",
+      "year": 1588
+    },
+    {
+      "title": "I Joy Not in No Earthly Bliss, T 221",
+      "imslp_url": "https://imslp.org/wiki/I_Joy_Not_in_No_Earthly_Bliss,_T_221_(Byrd,_William)",
+      "year": 1588
+    },
+    {
+      "title": "If Women Could Be Fair, T 227",
+      "imslp_url": "https://imslp.org/wiki/If_Women_Could_Be_Fair,_T_227_(Byrd,_William)",
+      "year": 1588
+    },
+    {
+      "title": "La Verginella",
+      "imslp_url": "https://imslp.org/wiki/La_Verginella_(Byrd,_William)",
+      "year": 1588
+    },
+    {
+      "title": "Lullaby, T 242",
+      "imslp_url": "https://imslp.org/wiki/Lullaby,_T_242_(Byrd,_William)",
+      "year": 1588
+    },
+    {
+      "title": "My Mind to Me a Kingdom Is",
+      "imslp_url": "https://imslp.org/wiki/My_Mind_to_Me_a_Kingdom_Is_(Byrd,_William)",
+      "year": 1588
+    },
+    {
+      "title": "O God give ear and do apply",
+      "imslp_url": "https://imslp.org/wiki/O_God_give_ear_and_do_apply_(Byrd,_William)",
+      "year": 1588
+    },
+    {
+      "title": "O you that hear this voice",
+      "imslp_url": "https://imslp.org/wiki/O_you_that_hear_this_voice_(Byrd,_William)",
+      "year": 1588
+    },
+    {
+      "title": "Prostrate, O Lord, I lie",
+      "imslp_url": "https://imslp.org/wiki/Prostrate,_O_Lord,_I_lie_(Byrd,_William)",
+      "year": 1588
+    },
+    {
+      "title": "Susanna Fair, T 239",
+      "imslp_url": "https://imslp.org/wiki/Susanna_Fair,_T_239_(Byrd,_William)",
+      "year": 1588
+    },
+    {
+      "title": "Though Amaryllis Dance in Green",
+      "imslp_url": "https://imslp.org/wiki/Though_Amaryllis_Dance_in_Green_(Byrd,_William)",
+      "year": 1588
+    },
+    {
+      "title": "What Pleasure have Great Princes",
+      "imslp_url": "https://imslp.org/wiki/What_Pleasure_have_Great_Princes_(Byrd,_William)",
+      "year": 1588
+    },
+    {
+      "title": "Where Fancy Fond",
+      "imslp_url": "https://imslp.org/wiki/Where_Fancy_Fond_(Byrd,_William)",
+      "year": 1588
+    },
+    {
+      "title": "Who Likes to Love",
+      "imslp_url": "https://imslp.org/wiki/Who_Likes_to_Love_(Byrd,_William)",
+      "year": 1588
+    },
+    {
+      "title": "Why do I use My Paper, Ink and Pen?",
+      "imslp_url": "https://imslp.org/wiki/Why_do_I_use_My_Paper,_Ink_and_Pen?_(Byrd,_William)",
+      "year": 1588
+    },
+    {
+      "title": "Aspice Domine de sede sancta tua, T 29",
+      "imslp_url": "https://imslp.org/wiki/Aspice_Domine_de_sede_sancta_tua,_T_29_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "Attend Mine Humble Prayer, T 252",
+      "imslp_url": "https://imslp.org/wiki/Attend_Mine_Humble_Prayer,_T_252_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "Christ Is Risen Again, T 280",
+      "imslp_url": "https://imslp.org/wiki/Christ_Is_Risen_Again,_T_280_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "Compel the Hawk, T 268",
+      "imslp_url": "https://imslp.org/wiki/Compel_the_Hawk,_T_268_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "Defecit in dolore, T 19",
+      "imslp_url": "https://imslp.org/wiki/Defecit_in_dolore,_T_19_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "Deus, venerunt gentes, T 25",
+      "imslp_url": "https://imslp.org/wiki/Deus,_venerunt_gentes,_T_25_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "Domine praestolamur, T 20",
+      "imslp_url": "https://imslp.org/wiki/Domine_praestolamur,_T_20_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "Domine secundum multitudinem, T 33",
+      "imslp_url": "https://imslp.org/wiki/Domine_secundum_multitudinem,_T_33_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "Domine tu iurasti, T 26",
+      "imslp_url": "https://imslp.org/wiki/Domine_tu_iurasti,_T_26_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "From Citheron, T 260",
+      "imslp_url": "https://imslp.org/wiki/From_Citheron,_T_260_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "From Depth of Sin, T 251",
+      "imslp_url": "https://imslp.org/wiki/From_Depth_of_Sin,_T_251_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "From Virgin's Womb, T 263",
+      "imslp_url": "https://imslp.org/wiki/From_Virgin's_Womb,_T_263_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "I Thought that Love, T 272",
+      "imslp_url": "https://imslp.org/wiki/I_Thought_that_Love,_T_272_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "If in Thine Heart, T 278",
+      "imslp_url": "https://imslp.org/wiki/If_in_Thine_Heart,_T_278_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "In resurrectione tua Domine, T 28",
+      "imslp_url": "https://imslp.org/wiki/In_resurrectione_tua_Domine,_T_28_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "Is Love a Boy?, T 258",
+      "imslp_url": "https://imslp.org/wiki/Is_Love_a_Boy?,_T_258_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "Laetentur coeli, T 34",
+      "imslp_url": "https://imslp.org/wiki/Laetentur_coeli,_T_34_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "Lord Hear My Prayer, T 250",
+      "imslp_url": "https://imslp.org/wiki/Lord_Hear_My_Prayer,_T_250_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "Lord in Thy Rage, T 246",
+      "imslp_url": "https://imslp.org/wiki/Lord_in_Thy_Rage,_T_246_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "Lord in Thy Wrath Correct Me Not, T 248",
+      "imslp_url": "https://imslp.org/wiki/Lord_in_Thy_Wrath_Correct_Me_Not,_T_248_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "Memento Domine",
+      "imslp_url": "https://imslp.org/wiki/Memento_Domine_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "Ne irascaris Domine",
+      "imslp_url": "https://imslp.org/wiki/Ne_irascaris_Domine_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "O Domine adjuva me",
+      "imslp_url": "https://imslp.org/wiki/O_Domine_adjuva_me_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "O God which art most Merciful",
+      "imslp_url": "https://imslp.org/wiki/O_God_which_art_most_Merciful_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "O Lord My God",
+      "imslp_url": "https://imslp.org/wiki/O_Lord_My_God_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "O quam gloriosum est regnum",
+      "imslp_url": "https://imslp.org/wiki/O_quam_gloriosum_est_regnum_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "Of gold all burnish'd",
+      "imslp_url": "https://imslp.org/wiki/Of_gold_all_burnish'd_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "Right Blest are They",
+      "imslp_url": "https://imslp.org/wiki/Right_Blest_are_They_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "Salve Regina",
+      "imslp_url": "https://imslp.org/wiki/Salve_Regina_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "Songs of Sundry Natures",
+      "imslp_url": "https://imslp.org/wiki/Songs_of_Sundry_Natures_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "Susanna Fair, T 253",
+      "imslp_url": "https://imslp.org/wiki/Susanna_Fair,_T_253_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "The Greedy Hawk, T 257",
+      "imslp_url": "https://imslp.org/wiki/The_Greedy_Hawk,_T_257_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "The Nightingale",
+      "imslp_url": "https://imslp.org/wiki/The_Nightingale_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "Tribulationes civitatum",
+      "imslp_url": "https://imslp.org/wiki/Tribulationes_civitatum_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "Tristitia et anxietas",
+      "imslp_url": "https://imslp.org/wiki/Tristitia_et_anxietas_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "Unto the Hills Mine Eyes I Lift",
+      "imslp_url": "https://imslp.org/wiki/Unto_the_Hills_Mine_Eyes_I_Lift_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "Upon a Summer's Day",
+      "imslp_url": "https://imslp.org/wiki/Upon_a_Summer's_Day_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "Vide, Domine",
+      "imslp_url": "https://imslp.org/wiki/Vide,_Domine_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "Vigilate, T 27",
+      "imslp_url": "https://imslp.org/wiki/Vigilate,_T_27_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "When Younglings First",
+      "imslp_url": "https://imslp.org/wiki/When_Younglings_First_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "Who Made Thee, Hob",
+      "imslp_url": "https://imslp.org/wiki/Who_Made_Thee,_Hob_(Byrd,_William)",
+      "year": 1589
+    },
+    {
+      "title": "The Woods So Wild, FVB 67",
+      "imslp_url": "https://imslp.org/wiki/The_Woods_So_Wild,_FVB_67_(Byrd,_William)",
+      "year": 1590
+    },
+    {
+      "title": "This Sweet and Merry Month of May, T 317",
+      "imslp_url": "https://imslp.org/wiki/This_Sweet_and_Merry_Month_of_May,_T_317_(Byrd,_William)",
+      "year": 1590
+    },
+    {
+      "title": "Afflicti pro peccatis, T 51",
+      "imslp_url": "https://imslp.org/wiki/Afflicti_pro_peccatis,_T_51_(Byrd,_William)",
+      "year": 1591
+    },
+    {
+      "title": "Descendit de coelis, T 48",
+      "imslp_url": "https://imslp.org/wiki/Descendit_de_coelis,_T_48_(Byrd,_William)",
+      "year": 1591
+    },
+    {
+      "title": "Infelix ego, T 50",
+      "imslp_url": "https://imslp.org/wiki/Infelix_ego,_T_50_(Byrd,_William)",
+      "year": 1591
+    },
+    {
+      "title": "Mass for 3 Voices, T 2",
+      "imslp_url": "https://imslp.org/wiki/Mass_for_3_Voices,_T_2_(Byrd,_William)",
+      "year": 1591
+    },
+    {
+      "title": "Miserere mei Deus",
+      "imslp_url": "https://imslp.org/wiki/Miserere_mei_Deus_(Byrd,_William)",
+      "year": 1591
+    },
+    {
+      "title": "My Ladye Nevells Grownde",
+      "imslp_url": "https://imslp.org/wiki/My_Ladye_Nevells_Grownde_(Byrd,_William)",
+      "year": 1591
+    },
+    {
+      "title": "Qui Passe",
+      "imslp_url": "https://imslp.org/wiki/Qui_Passe_(Byrd,_William)",
+      "year": 1591
+    },
+    {
+      "title": "Mass for 4 Voices, T 1",
+      "imslp_url": "https://imslp.org/wiki/Mass_for_4_Voices,_T_1_(Byrd,_William)",
+      "year": 1592
+    },
+    {
+      "title": "Mass for 5 Voices, T 3",
+      "imslp_url": "https://imslp.org/wiki/Mass_for_5_Voices,_T_3_(Byrd,_William)",
+      "year": 1593
+    },
+    {
+      "title": "Adorna thalamum tuum, T 118",
+      "imslp_url": "https://imslp.org/wiki/Adorna_thalamum_tuum,_T_118_(Byrd,_William)",
+      "year": 1605
+    },
+    {
+      "title": "Alleluia. Verspere autem sabbathi, T 113",
+      "imslp_url": "https://imslp.org/wiki/Alleluia._Verspere_autem_sabbathi,_T_113_(Byrd,_William)",
+      "year": 1605
+    },
+    {
+      "title": "Alma redemptoris Mater, T 100",
+      "imslp_url": "https://imslp.org/wiki/Alma_redemptoris_Mater,_T_100_(Byrd,_William)",
+      "year": 1605
+    },
+    {
+      "title": "Angelus Domini descendit, T 115",
+      "imslp_url": "https://imslp.org/wiki/Angelus_Domini_descendit,_T_115_(Byrd,_William)",
+      "year": 1605
+    },
+    {
+      "title": "Ave Regina caelorum, T 101",
+      "imslp_url": "https://imslp.org/wiki/Ave_Regina_caelorum,_T_101_(Byrd,_William)",
+      "year": 1605
+    },
+    {
+      "title": "Ave maris stella, T 111",
+      "imslp_url": "https://imslp.org/wiki/Ave_maris_stella,_T_111_(Byrd,_William)",
+      "year": 1605
+    },
+    {
+      "title": "Ave verum corpus, T 92",
+      "imslp_url": "https://imslp.org/wiki/Ave_verum_corpus,_T_92_(Byrd,_William)",
+      "year": 1605
+    },
+    {
+      "title": "Beata viscera Mariae Virginis, T 66",
+      "imslp_url": "https://imslp.org/wiki/Beata_viscera_Mariae_Virginis,_T_66_(Byrd,_William)",
+      "year": 1605
+    },
+    {
+      "title": "Christus resurgens, T 97",
+      "imslp_url": "https://imslp.org/wiki/Christus_resurgens,_T_97_(Byrd,_William)",
+      "year": 1605
+    },
+    {
+      "title": "Deo gratias, T 107",
+      "imslp_url": "https://imslp.org/wiki/Deo_gratias,_T_107_(Byrd,_William)",
+      "year": 1605
+    },
+    {
+      "title": "Gaudeamus omnes in Domino, T 84",
+      "imslp_url": "https://imslp.org/wiki/Gaudeamus_omnes_in_Domino,_T_84_(Byrd,_William)",
+      "year": 1605
+    },
+    {
+      "title": "Haec dies, T 114",
+      "imslp_url": "https://imslp.org/wiki/Haec_dies,_T_114_(Byrd,_William)",
+      "year": 1605
+    },
+    {
+      "title": "Hodie beata Virgo Maria, T 106",
+      "imslp_url": "https://imslp.org/wiki/Hodie_beata_Virgo_Maria,_T_106_(Byrd,_William)",
+      "year": 1605
+    },
+    {
+      "title": "In manus tuas, T 102",
+      "imslp_url": "https://imslp.org/wiki/In_manus_tuas,_T_102_(Byrd,_William)",
+      "year": 1605
+    },
+    {
+      "title": "Iustorum animae, T 86",
+      "imslp_url": "https://imslp.org/wiki/Iustorum_animae,_T_86_(Byrd,_William)",
+      "year": 1605
+    },
+    {
+      "title": "Laetania, T 103",
+      "imslp_url": "https://imslp.org/wiki/Laetania,_T_103_(Byrd,_William)",
+      "year": 1605
+    },
+    {
+      "title": "Memento salutis auctor, T 110",
+      "imslp_url": "https://imslp.org/wiki/Memento_salutis_auctor,_T_110_(Byrd,_William)",
+      "year": 1605
+    },
+    {
+      "title": "O gloriosa Domina, T 109",
+      "imslp_url": "https://imslp.org/wiki/O_gloriosa_Domina,_T_109_(Byrd,_William)",
+      "year": 1605
+    },
+    {
+      "title": "O sacrum convivium, T 94",
+      "imslp_url": "https://imslp.org/wiki/O_sacrum_convivium,_T_94_(Byrd,_William)",
+      "year": 1605
+    },
+    {
+      "title": "Post dies octo, T 116",
+      "imslp_url": "https://imslp.org/wiki/Post_dies_octo,_T_116_(Byrd,_William)",
+      "year": 1605
+    },
+    {
+      "title": "Quem terra pontus, T 108",
+      "imslp_url": "https://imslp.org/wiki/Quem_terra_pontus,_T_108_(Byrd,_William)",
+      "year": 1605
+    },
+    {
+      "title": "Regina coeli, T 112",
+      "imslp_url": "https://imslp.org/wiki/Regina_coeli,_T_112_(Byrd,_William)",
+      "year": 1605
+    },
+    {
+      "title": "Salve sola Dei genetrix, T 104",
+      "imslp_url": "https://imslp.org/wiki/Salve_sola_Dei_genetrix,_T_104_(Byrd,_William)",
+      "year": 1605
+    },
+    {
+      "title": "Senex puerum portabat, T 58",
+      "imslp_url": "https://imslp.org/wiki/Senex_puerum_portabat,_T_58_(Byrd,_William)",
+      "year": 1605
+    },
+    {
+      "title": "Turbarum voces, T 117",
+      "imslp_url": "https://imslp.org/wiki/Turbarum_voces,_T_117_(Byrd,_William)",
+      "year": 1605
+    },
+    {
+      "title": "Alleluia. Cognoverunt discipuli, T 134",
+      "imslp_url": "https://imslp.org/wiki/Alleluia._Cognoverunt_discipuli,_T_134_(Byrd,_William)",
+      "year": 1607
+    },
+    {
+      "title": "Beata virgo, T 127",
+      "imslp_url": "https://imslp.org/wiki/Beata_virgo,_T_127_(Byrd,_William)",
+      "year": 1607
+    },
+    {
+      "title": "Constitues eos principes, T 157",
+      "imslp_url": "https://imslp.org/wiki/Constitues_eos_principes,_T_157_(Byrd,_William)",
+      "year": 1607
+    },
+    {
+      "title": "Dies sanctificatus, T 121",
+      "imslp_url": "https://imslp.org/wiki/Dies_sanctificatus,_T_121_(Byrd,_William)",
+      "year": 1607
+    },
+    {
+      "title": "Ego sum panis vivus, T 135",
+      "imslp_url": "https://imslp.org/wiki/Ego_sum_panis_vivus,_T_135_(Byrd,_William)",
+      "year": 1607
+    },
+    {
+      "title": "Hodie Christus natus est, T 124",
+      "imslp_url": "https://imslp.org/wiki/Hodie_Christus_natus_est,_T_124_(Byrd,_William)",
+      "year": 1607
+    },
+    {
+      "title": "Hodie Simon Petrus, T 160",
+      "imslp_url": "https://imslp.org/wiki/Hodie_Simon_Petrus,_T_160_(Byrd,_William)",
+      "year": 1607
+    },
+    {
+      "title": "Jesu nostra redemptio, T 137",
+      "imslp_url": "https://imslp.org/wiki/Jesu_nostra_redemptio,_T_137_(Byrd,_William)",
+      "year": 1607
+    },
+    {
+      "title": "Laudate Dominum omnes gentes, T 163",
+      "imslp_url": "https://imslp.org/wiki/Laudate_Dominum_omnes_gentes,_T_163_(Byrd,_William)",
+      "year": 1607
+    },
+    {
+      "title": "O admirabile commercium, T 125",
+      "imslp_url": "https://imslp.org/wiki/O_admirabile_commercium,_T_125_(Byrd,_William)",
+      "year": 1607
+    },
+    {
+      "title": "O magnum mysterium, T 126",
+      "imslp_url": "https://imslp.org/wiki/O_magnum_mysterium,_T_126_(Byrd,_William)",
+      "year": 1607
+    },
+    {
+      "title": "O quam suavis, T 136",
+      "imslp_url": "https://imslp.org/wiki/O_quam_suavis,_T_136_(Byrd,_William)",
+      "year": 1607
+    },
+    {
+      "title": "Puer natus est nobis, T 119",
+      "imslp_url": "https://imslp.org/wiki/Puer_natus_est_nobis,_T_119_(Byrd,_William)",
+      "year": 1607
+    },
+    {
+      "title": "Quodcunque ligaveris, T 162",
+      "imslp_url": "https://imslp.org/wiki/Quodcunque_ligaveris,_T_162_(Byrd,_William)",
+      "year": 1607
+    },
+    {
+      "title": "Tu es Petrus, T 159",
+      "imslp_url": "https://imslp.org/wiki/Tu_es_Petrus,_T_159_(Byrd,_William)",
+      "year": 1607
+    },
+    {
+      "title": "Tui sunt coeli, T 122",
+      "imslp_url": "https://imslp.org/wiki/Tui_sunt_coeli,_T_122_(Byrd,_William)",
+      "year": 1607
+    },
+    {
+      "title": "Venite exultemus Domino, T 164",
+      "imslp_url": "https://imslp.org/wiki/Venite_exultemus_Domino,_T_164_(Byrd,_William)",
+      "year": 1607
+    },
+    {
+      "title": "Viderunt omnes, T 120",
+      "imslp_url": "https://imslp.org/wiki/Viderunt_omnes,_T_120_(Byrd,_William)",
+      "year": 1607
+    },
+    {
+      "title": "Viderunt omnes, T 123",
+      "imslp_url": "https://imslp.org/wiki/Viderunt_omnes,_T_123_(Byrd,_William)",
+      "year": 1607
+    },
+    {
+      "title": "In Nomine a 4, T 393",
+      "imslp_url": "https://imslp.org/wiki/In_Nomine_a_4,_T_393_(Byrd,_William)",
+      "year": 1610
+    },
+    {
+      "title": "In Nomine a 4, T 394",
+      "imslp_url": "https://imslp.org/wiki/In_Nomine_a_4,_T_394_(Byrd,_William)",
+      "year": 1610
+    },
+    {
+      "title": "Vidimus stellam, T 130",
+      "imslp_url": "https://imslp.org/wiki/Vidimus_stellam,_T_130_(Byrd,_William)",
+      "year": 1610
+    },
+    {
+      "title": "A Feigned Friend, T 290",
+      "imslp_url": "https://imslp.org/wiki/A_Feigned_Friend,_T_290_(Byrd,_William)",
+      "year": 1611
+    },
+    {
+      "title": "Ah Silly Soul, T 312",
+      "imslp_url": "https://imslp.org/wiki/Ah_Silly_Soul,_T_312_(Byrd,_William)",
+      "year": 1611
+    },
+    {
+      "title": "Fantasia a 4, T 380",
+      "imslp_url": "https://imslp.org/wiki/Fantasia_a_4,_T_380_(Byrd,_William)",
+      "year": 1611
+    },
+    {
+      "title": "Fantasia a 6, T 390",
+      "imslp_url": "https://imslp.org/wiki/Fantasia_a_6,_T_390_(Byrd,_William)",
+      "year": 1611
+    },
+    {
+      "title": "Have Mercy upon Me, T 302",
+      "imslp_url": "https://imslp.org/wiki/Have_Mercy_upon_Me,_T_302_(Byrd,_William)",
+      "year": 1611
+    },
+    {
+      "title": "How Vain the Toils, T 308",
+      "imslp_url": "https://imslp.org/wiki/How_Vain_the_Toils,_T_308_(Byrd,_William)",
+      "year": 1611
+    },
+    {
+      "title": "O God that Guides the Cheerful Sun",
+      "imslp_url": "https://imslp.org/wiki/O_God_that_Guides_the_Cheerful_Sun_(Byrd,_William)",
+      "year": 1611
+    },
+    {
+      "title": "Of Flattering Speech",
+      "imslp_url": "https://imslp.org/wiki/Of_Flattering_Speech_(Byrd,_William)",
+      "year": 1611
+    },
+    {
+      "title": "Pavan and Galliard 'Sir William Petre'",
+      "imslp_url": "https://imslp.org/wiki/Pavan_and_Galliard_'Sir_William_Petre'_(Byrd,_William)",
+      "year": 1611
+    },
+    {
+      "title": "Praise Our Lord all Ye Gentiles",
+      "imslp_url": "https://imslp.org/wiki/Praise_Our_Lord_all_Ye_Gentiles_(Byrd,_William)",
+      "year": 1611
+    },
+    {
+      "title": "The Eagle's Force, T 281",
+      "imslp_url": "https://imslp.org/wiki/The_Eagle's_Force,_T_281_(Byrd,_William)",
+      "year": 1611
+    },
+    {
+      "title": "This Day Christ was Born",
+      "imslp_url": "https://imslp.org/wiki/This_Day_Christ_was_Born_(Byrd,_William)",
+      "year": 1611
+    },
+    {
+      "title": "Galliard Mrs. Mary Brownlo, T 460",
+      "imslp_url": "https://imslp.org/wiki/Galliard_Mrs._Mary_Brownlo,_T_460_(Byrd,_William)",
+      "year": 1613
+    },
+    {
+      "title": "Prelude in C major, T 517",
+      "imslp_url": "https://imslp.org/wiki/Prelude_in_C_major,_T_517_(Byrd,_William)",
+      "year": 1613
+    },
+    {
+      "title": "Prelude in G minor, T 515",
+      "imslp_url": "https://imslp.org/wiki/Prelude_in_G_minor,_T_515_(Byrd,_William)",
+      "year": 1613
+    },
+    {
+      "title": "The Earl of Salisbury Pavan and 2 Galliards",
+      "imslp_url": "https://imslp.org/wiki/The_Earl_of_Salisbury_Pavan_and_2_Galliards_(Byrd,_William)",
+      "year": 1613
+    },
+    {
+      "title": "Be unto Me, T 309",
+      "imslp_url": "https://imslp.org/wiki/Be_unto_Me,_T_309_(Byrd,_William)",
+      "year": 1614
+    }
+  ]
+}

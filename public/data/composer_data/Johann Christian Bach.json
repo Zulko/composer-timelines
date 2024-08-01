@@ -1,0 +1,589 @@
+{
+  "full_name": "Johann Christian Bach",
+  "first_names": "Johann Christian",
+  "last_name": "Bach",
+  "birth_year": 1735,
+  "death_year": 1782,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Christian_Bach",
+  "events": [
+    {
+      "section": "Life",
+      "title": "Birth",
+      "summary": "Johann Christian Bach was born to Johann Sebastian and Anna Magdalena Bach in Leipzig, Germany. His father was a prominent musical figure who provided him with early musical training.",
+      "year": 1735,
+      "location": "Leipzig, Germany",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Johann Christian Bach popped into the world, courtesy of his famous parents, Johann Sebastian and Anna Magdalena, in the musical wonderland of Leipzig, Germany. With a dad like Johann Sebastian, who was essentially the rock star of classical music, Johann got some serious notes in his baby bottle!"
+    },
+    {
+      "section": "Life",
+      "title": "Move to Berlin",
+      "summary": "After the death of his father, Johann Christian Bach relocated to Berlin to study with his half-brother Carl Philipp Emanuel Bach, who was well regarded in the musical community.",
+      "year": 1735,
+      "location": "Berlin",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "After losing his dad, Johann Christian Bach pulled up his socks and took a one-way ticket to Berlin to study with his half-brother, Carl Philipp Emanuel Bach, who was well regarded in the musical community."
+    },
+    {
+      "section": "Life",
+      "title": "Move to Italy",
+      "summary": "In 1754, Bach moved to Italy to study with Padre Martini in Bologna, marking a significant step in his musical education.",
+      "year": 1754,
+      "location": "Italy",
+      "emoji": "\ud83c\uddee\ud83c\uddf9",
+      "fun_version": "In 1754, Bach packed his bags, waved goodbye to his hometown, and hopped on a stagecoach to Italy, where he hoped to learn music from Padre Martini. This move marked a significant step in his musical education. I mean, who wouldn't want to learn from a guy named after a fancy cocktail in Bologna?"
+    },
+    {
+      "section": "Life",
+      "title": "First Major Work",
+      "summary": "His first major work, a Mass, premiered in 1757 and received excellent performance and acclaim, showcasing his compositional talent.",
+      "year": 1757,
+      "location": "Italy",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "So, his first major creation was a Mass in 1757\u2014yes, that\u2019s right, a Mass, not a \u2018massive\u2019 pizza buffet! It wowed the audience like a cat dressed as a dog and got all the praise, proving he had some serious talent."
+    },
+    {
+      "section": "Life",
+      "title": "Appointment as Organist",
+      "summary": "Bach was appointed as an organist at Milan Cathedral in 1760, further establishing his presence in the musical world.",
+      "year": 1760,
+      "location": "Milan, Italy",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Back in 1760, Bach became the organist at Milan Cathedral\u2014because nothing says 'I'm really serious about music' like playing a giant instrument in a fancy church! I mean, who needs a stage when you have a whole cathedral?"
+    },
+    {
+      "section": "Life",
+      "title": "Conversion to Catholicism",
+      "summary": "During his stay in Italy, he converted from Lutheranism to Catholicism, reportedly for political reasons, which marked a personal turning point.",
+      "year": 1760,
+      "location": "Italy",
+      "emoji": "\ud83c\uddee\ud83c\uddf9",
+      "fun_version": "During his stay in Italy, he had a culinary epiphany that was so intense, he decided to switch from Lutheranism to Catholicism for political reasons. This wacky conversion marked a personal turning point, or as they say, 'When in Rome, do as the Romans do!'"
+    },
+    {
+      "section": "Life",
+      "title": "London Premiere of Operas",
+      "summary": "In 1762, Bach traveled to London to premiere three operas at the King's Theatre, which included the opera 'Orione'.",
+      "year": 1762,
+      "location": "London",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "On a delightful jaunt in 1762, Bach traveled to London to premiere three operas at the King's Theatre. Among these was the celebrated opera 'Orione'."
+    },
+    {
+      "section": "Legacy",
+      "title": "Meeting with Mozart",
+      "summary": "In 1764, Bach met with an eight-year-old Wolfgang Amadeus Mozart in London. During their five-month time together, Bach taught Mozart composition, which had a significant impact on the young composer's musical development.",
+      "year": 1764,
+      "location": "London",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "In 1764, an eight-year-old Mozart met the legendary Bach in London during a five-month period, and it's safe to say the kid had his mind blown! Picture little Wolfgang trying to keep up with Prince Bach, who taught him composition, significantly impacting the young maestro's musical development."
+    },
+    {
+      "section": "Life",
+      "title": "Reputation in England",
+      "summary": "By 1764 or 1765, Johann Christian Bach had established his reputation in England and became music master to Queen Charlotte following his successes as a composer and performer.",
+      "year": 1764,
+      "location": "London",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "By 1764 or 1765, Johann Christian Bach had established his reputation in England and became music master to Queen Charlotte following his successes as a composer and performer."
+    },
+    {
+      "section": "Life",
+      "title": "Marriage to Cecilia Grassi",
+      "summary": "In 1766, Bach married soprano Cecilia Grassi, who was significantly younger than him, though the couple had no children.",
+      "year": 1766,
+      "location": "London",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "In 1766, Bach famously ignored the old adage about age and married the much younger soprano, Cecilia Grassi. They were the original power couple\u2014minus the \u2018little Bachs\u2019 running around!"
+    },
+    {
+      "section": "Life",
+      "title": "Decline in Popularity and Finances",
+      "summary": "By the late 1770s, Bach's popularity and finances began to decline, indicating struggles in his later career.",
+      "year": 1770,
+      "location": "London",
+      "emoji": "\ud83d\ude14",
+      "fun_version": "Bach in the late 1770s was like a once-popular dish at a trendy restaurant\u2014everyone loved him at first, but by the time dessert rolled around, people were asking for something new. His popularity and finances took a nosedive, indicating struggles in his later career."
+    },
+    {
+      "section": "Life",
+      "title": "Legal Victory",
+      "summary": "In 1777, Bach won a landmark case that established copyright law's applicability to musical scores in England, affirming his rights as a composer.",
+      "year": 1777,
+      "location": "London",
+      "emoji": "\ud83c\udfdb\ufe0f",
+      "fun_version": "In 1777, Bach wasn't just busy composing music; he was also moonlighting as a lawyer! Picture him in a powdered wig, fighting for the right to copyright his timeless tunes. The guy truly hit the high notes by establishing copyright law for musical scores in England, affirming his rights as a composer."
+    },
+    {
+      "section": "Life",
+      "title": "Death and Burial",
+      "summary": "Johann Christian Bach died on New Year's Day 1782, after accumulating debts. He was buried in the graveyard of St. Pancras Old Church, London.",
+      "year": 1782,
+      "location": "London",
+      "emoji": "\u26b0\ufe0f",
+      "fun_version": "Johann Christian Bach died on New Year's Day in 1782. After a lifetime of composing, he left behind two legacies: his music and an impressive collection of debts. He now rests in peace at St. Pancras Old Church in London."
+    }
+  ],
+  "works": [
+    {
+      "title": "Aria in A minor, W.A 27",
+      "imslp_url": "https://imslp.org/wiki/Aria_in_A_minor,_W.A_27_(Bach,_Johann_Christian)",
+      "year": 1750
+    },
+    {
+      "title": "Keyboard Sonata in A minor, W.A 13",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_A_minor,_W.A_13_(Bach,_Johann_Christian)",
+      "year": 1750
+    },
+    {
+      "title": "Minuet in C major, W.A 25",
+      "imslp_url": "https://imslp.org/wiki/Minuet_in_C_major,_W.A_25_(Bach,_Johann_Christian)",
+      "year": 1750
+    },
+    {
+      "title": "Minuet in C major, W.A 30",
+      "imslp_url": "https://imslp.org/wiki/Minuet_in_C_major,_W.A_30_(Bach,_Johann_Christian)",
+      "year": 1750
+    },
+    {
+      "title": "Minuet in C major, W.A 31",
+      "imslp_url": "https://imslp.org/wiki/Minuet_in_C_major,_W.A_31_(Bach,_Johann_Christian)",
+      "year": 1750
+    },
+    {
+      "title": "Minuet in C minor, W.A 24",
+      "imslp_url": "https://imslp.org/wiki/Minuet_in_C_minor,_W.A_24_(Bach,_Johann_Christian)",
+      "year": 1750
+    },
+    {
+      "title": "Minuet in D minor, W.A 28",
+      "imslp_url": "https://imslp.org/wiki/Minuet_in_D_minor,_W.A_28_(Bach,_Johann_Christian)",
+      "year": 1750
+    },
+    {
+      "title": "Minuet in G minor, W.A 29",
+      "imslp_url": "https://imslp.org/wiki/Minuet_in_G_minor,_W.A_29_(Bach,_Johann_Christian)",
+      "year": 1750
+    },
+    {
+      "title": "Polonaise in B-flat major, W.A 23",
+      "imslp_url": "https://imslp.org/wiki/Polonaise_in_B-flat_major,_W.A_23_(Bach,_Johann_Christian)",
+      "year": 1750
+    },
+    {
+      "title": "Polonaise in E-flat major, W.A 26",
+      "imslp_url": "https://imslp.org/wiki/Polonaise_in_E-flat_major,_W.A_26_(Bach,_Johann_Christian)",
+      "year": 1750
+    },
+    {
+      "title": "Keyboard Concerto in D minor, W.C 70",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Concerto_in_D_minor,_W.C_70_(Bach,_Johann_Christian)",
+      "year": 1755
+    },
+    {
+      "title": "Keyboard Concerto in E major, W.C 71",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Concerto_in_E_major,_W.C_71_(Bach,_Johann_Christian)",
+      "year": 1755
+    },
+    {
+      "title": "Keyboard Concerto in F minor, W.C 69",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Concerto_in_F_minor,_W.C_69_(Bach,_Johann_Christian)",
+      "year": 1755
+    },
+    {
+      "title": "Keyboard Concerto in F minor, W.C 73",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Concerto_in_F_minor,_W.C_73_(Bach,_Johann_Christian)",
+      "year": 1755
+    },
+    {
+      "title": "Keyboard Concerto in G major, W.C 72",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Concerto_in_G_major,_W.C_72_(Bach,_Johann_Christian)",
+      "year": 1755
+    },
+    {
+      "title": "Alessandro nell'Indie, W.G 3",
+      "imslp_url": "https://imslp.org/wiki/Alessandro_nell'Indie,_W.G_3_(Bach,_Johann_Christian)",
+      "year": 1760
+    },
+    {
+      "title": "Artaserse, W.G 1",
+      "imslp_url": "https://imslp.org/wiki/Artaserse,_W.G_1_(Bach,_Johann_Christian)",
+      "year": 1760
+    },
+    {
+      "title": "Oboe Concerto in F major, W.C 80",
+      "imslp_url": "https://imslp.org/wiki/Oboe_Concerto_in_F_major,_W.C_80_(Bach,_Johann_Christian)",
+      "year": 1760
+    },
+    {
+      "title": "Catone in Utica, W.G 2",
+      "imslp_url": "https://imslp.org/wiki/Catone_in_Utica,_W.G_2_(Bach,_Johann_Christian)",
+      "year": 1761
+    },
+    {
+      "title": "Sinfonia Concertante in E-flat major, W.C 40",
+      "imslp_url": "https://imslp.org/wiki/Sinfonia_Concertante_in_E-flat_major,_W.C_40_(Bach,_Johann_Christian)",
+      "year": 1761
+    },
+    {
+      "title": "Sinfonia Concertante in E-flat major, W.C 41",
+      "imslp_url": "https://imslp.org/wiki/Sinfonia_Concertante_in_E-flat_major,_W.C_41_(Bach,_Johann_Christian)",
+      "year": 1761
+    },
+    {
+      "title": "Symphony in E-flat major, W.C 9",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_E-flat_major,_W.C_9_(Bach,_Johann_Christian)",
+      "year": 1762
+    },
+    {
+      "title": "Keyboard Concerto in D major, W.C 54",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Concerto_in_D_major,_W.C_54_(Bach,_Johann_Christian)",
+      "year": 1763
+    },
+    {
+      "title": "Keyboard Concerto in G major, W.C 52",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Concerto_in_G_major,_W.C_52_(Bach,_Johann_Christian)",
+      "year": 1763
+    },
+    {
+      "title": "Keyboard Trio in E-flat major, W.B 48",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Trio_in_E-flat_major,_W.B_48_(Bach,_Johann_Christian)",
+      "year": 1763
+    },
+    {
+      "title": "Symphony in G major, W.C 7",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_G_major,_W.C_7_(Bach,_Johann_Christian)",
+      "year": 1764
+    },
+    {
+      "title": "Keyboard Sonata in B-flat major, W.A 1",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_B-flat_major,_W.A_1_(Bach,_Johann_Christian)",
+      "year": 1765
+    },
+    {
+      "title": "Keyboard Sonata in C minor, W.A 6",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_C_minor,_W.A_6_(Bach,_Johann_Christian)",
+      "year": 1765
+    },
+    {
+      "title": "Keyboard Sonata in D major, W.A 2",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_D_major,_W.A_2_(Bach,_Johann_Christian)",
+      "year": 1765
+    },
+    {
+      "title": "Keyboard Sonata in E-flat major, W.A 4",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_E-flat_major,_W.A_4_(Bach,_Johann_Christian)",
+      "year": 1765
+    },
+    {
+      "title": "Keyboard Sonata in G major, W.A 3",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_G_major,_W.A_3_(Bach,_Johann_Christian)",
+      "year": 1765
+    },
+    {
+      "title": "Symphony in B-flat major, W.C 4",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_B-flat_major,_W.C_4_(Bach,_Johann_Christian)",
+      "year": 1765
+    },
+    {
+      "title": "Symphony in C major, W.C 2",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_C_major,_W.C_2_(Bach,_Johann_Christian)",
+      "year": 1765
+    },
+    {
+      "title": "Symphony in D major, W.C 1",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_D_major,_W.C_1_(Bach,_Johann_Christian)",
+      "year": 1765
+    },
+    {
+      "title": "Symphony in B-flat major, W.C 10",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_B-flat_major,_W.C_10_(Bach,_Johann_Christian)",
+      "year": 1766
+    },
+    {
+      "title": "Symphony in E-flat major, W.C 11",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_E-flat_major,_W.C_11_(Bach,_Johann_Christian)",
+      "year": 1766
+    },
+    {
+      "title": "Symphony in D major, W.C 8",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_D_major,_W.C_8_(Bach,_Johann_Christian)",
+      "year": 1769
+    },
+    {
+      "title": "Symphony in G minor, W.C 12",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_G_minor,_W.C_12_(Bach,_Johann_Christian)",
+      "year": 1769
+    },
+    {
+      "title": "Keyboard Concerto in E-flat major, W.C 59",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Concerto_in_E-flat_major,_W.C_59_(Bach,_Johann_Christian)",
+      "year": 1770
+    },
+    {
+      "title": "Quartet in C major, W.B 51",
+      "imslp_url": "https://imslp.org/wiki/Quartet_in_C_major,_W.B_51_(Bach,_Johann_Christian)",
+      "year": 1770
+    },
+    {
+      "title": "Quartet in E-flat major, W.B 53",
+      "imslp_url": "https://imslp.org/wiki/Quartet_in_E-flat_major,_W.B_53_(Bach,_Johann_Christian)",
+      "year": 1770
+    },
+    {
+      "title": "Quartet in F major, W.B 54",
+      "imslp_url": "https://imslp.org/wiki/Quartet_in_F_major,_W.B_54_(Bach,_Johann_Christian)",
+      "year": 1770
+    },
+    {
+      "title": "Quintet in A major, W.B 74",
+      "imslp_url": "https://imslp.org/wiki/Quintet_in_A_major,_W.B_74_(Bach,_Johann_Christian)",
+      "year": 1772
+    },
+    {
+      "title": "Quintet in C major, W.B 70",
+      "imslp_url": "https://imslp.org/wiki/Quintet_in_C_major,_W.B_70_(Bach,_Johann_Christian)",
+      "year": 1772
+    },
+    {
+      "title": "Quintet in D major, W.B 75",
+      "imslp_url": "https://imslp.org/wiki/Quintet_in_D_major,_W.B_75_(Bach,_Johann_Christian)",
+      "year": 1772
+    },
+    {
+      "title": "Quintet in F major, W.B 72",
+      "imslp_url": "https://imslp.org/wiki/Quintet_in_F_major,_W.B_72_(Bach,_Johann_Christian)",
+      "year": 1772
+    },
+    {
+      "title": "Quintet in G major, W.B 71",
+      "imslp_url": "https://imslp.org/wiki/Quintet_in_G_major,_W.B_71_(Bach,_Johann_Christian)",
+      "year": 1772
+    },
+    {
+      "title": "Symphony in E-flat major, W.C 18b",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_E-flat_major,_W.C_18b_(Bach,_Johann_Christian)",
+      "year": 1773
+    },
+    {
+      "title": "Symphony in B-flat major, W.B 17",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_B-flat_major,_W.B_17_(Bach,_Johann_Christian)",
+      "year": 1774
+    },
+    {
+      "title": "Bassoon Concerto in B-flat major, W.C 83",
+      "imslp_url": "https://imslp.org/wiki/Bassoon_Concerto_in_B-flat_major,_W.C_83_(Bach,_Johann_Christian)",
+      "year": 1775
+    },
+    {
+      "title": "Bassoon Concerto in E-flat major, W.C 82",
+      "imslp_url": "https://imslp.org/wiki/Bassoon_Concerto_in_E-flat_major,_W.C_82_(Bach,_Johann_Christian)",
+      "year": 1775
+    },
+    {
+      "title": "Keyboard Concerto in G major, W.C 60a",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Concerto_in_G_major,_W.C_60a_(Bach,_Johann_Christian)",
+      "year": 1775
+    },
+    {
+      "title": "Sinfonia Concertante in G major, W.C 32",
+      "imslp_url": "https://imslp.org/wiki/Sinfonia_Concertante_in_G_major,_W.C_32_(Bach,_Johann_Christian)",
+      "year": 1775
+    },
+    {
+      "title": "Sinfonia concertante in A major, W.C 34",
+      "imslp_url": "https://imslp.org/wiki/Sinfonia_concertante_in_A_major,_W.C_34_(Bach,_Johann_Christian)",
+      "year": 1775
+    },
+    {
+      "title": "Keyboard Concerto in B-flat major, W.C 65",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Concerto_in_B-flat_major,_W.C_65_(Bach,_Johann_Christian)",
+      "year": 1777
+    },
+    {
+      "title": "Keyboard Concerto in C major, W.C 62",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Concerto_in_C_major,_W.C_62_(Bach,_Johann_Christian)",
+      "year": 1777
+    },
+    {
+      "title": "Keyboard Concerto in D major, W.C 63",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Concerto_in_D_major,_W.C_63_(Bach,_Johann_Christian)",
+      "year": 1777
+    },
+    {
+      "title": "Keyboard Concerto in E-flat major, W.C 67",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Concerto_in_E-flat_major,_W.C_67_(Bach,_Johann_Christian)",
+      "year": 1777
+    },
+    {
+      "title": "Keyboard Concerto in F major, W.C 64",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Concerto_in_F_major,_W.C_64_(Bach,_Johann_Christian)",
+      "year": 1777
+    },
+    {
+      "title": "Keyboard Concerto in G major, W.C 66",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Concerto_in_G_major,_W.C_66_(Bach,_Johann_Christian)",
+      "year": 1777
+    },
+    {
+      "title": "La clemenza di Scipione, W.G 10",
+      "imslp_url": "https://imslp.org/wiki/La_clemenza_di_Scipione,_W.G_10_(Bach,_Johann_Christian)",
+      "year": 1778
+    },
+    {
+      "title": "Military Quintet No.1 in E-flat major, W.B 79",
+      "imslp_url": "https://imslp.org/wiki/Military_Quintet_No.1_in_E-flat_major,_W.B_79_(Bach,_Johann_Christian)",
+      "year": 1778
+    },
+    {
+      "title": "Military Quintet No.2 in E-flat major, W.B 80",
+      "imslp_url": "https://imslp.org/wiki/Military_Quintet_No.2_in_E-flat_major,_W.B_80_(Bach,_Johann_Christian)",
+      "year": 1778
+    },
+    {
+      "title": "Military Quintet No.3 in B-flat major, W.B 81",
+      "imslp_url": "https://imslp.org/wiki/Military_Quintet_No.3_in_B-flat_major,_W.B_81_(Bach,_Johann_Christian)",
+      "year": 1778
+    },
+    {
+      "title": "Military Quintet No.4 in E-flat major, W.B 82",
+      "imslp_url": "https://imslp.org/wiki/Military_Quintet_No.4_in_E-flat_major,_W.B_82_(Bach,_Johann_Christian)",
+      "year": 1778
+    },
+    {
+      "title": "Sonata for Two Keyboards, W.A 21",
+      "imslp_url": "https://imslp.org/wiki/Sonata_for_Two_Keyboards,_W.A_21_(Bach,_Johann_Christian)",
+      "year": 1778
+    },
+    {
+      "title": "Amadis de Gaule, W.G 39",
+      "imslp_url": "https://imslp.org/wiki/Amadis_de_Gaule,_W.G_39_(Bach,_Johann_Christian)",
+      "year": 1779
+    },
+    {
+      "title": "Keyboard Quintet in D major, W.B 76",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Quintet_in_D_major,_W.B_76_(Bach,_Johann_Christian)",
+      "year": 1780
+    },
+    {
+      "title": "Keyboard Sonata in A major, W.A 11",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_A_major,_W.A_11_(Bach,_Johann_Christian)",
+      "year": 1780
+    },
+    {
+      "title": "Keyboard Sonata in B-flat major, W.A 12",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_B-flat_major,_W.A_12_(Bach,_Johann_Christian)",
+      "year": 1780
+    },
+    {
+      "title": "Keyboard Sonata in C minor, W.A 8",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_C_minor,_W.A_8_(Bach,_Johann_Christian)",
+      "year": 1780
+    },
+    {
+      "title": "Keyboard Sonata in E-flat major, W.A 9",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_E-flat_major,_W.A_9_(Bach,_Johann_Christian)",
+      "year": 1780
+    },
+    {
+      "title": "Keyboard Sonata in G major, W.A 10",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_G_major,_W.A_10_(Bach,_Johann_Christian)",
+      "year": 1780
+    },
+    {
+      "title": "Keyboard Sonata in G major, W.A 7",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_G_major,_W.A_7_(Bach,_Johann_Christian)",
+      "year": 1780
+    },
+    {
+      "title": "Trio Sonata in A major, W.B 31",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_A_major,_W.B_31_(Bach,_Johann_Christian)",
+      "year": 1780
+    },
+    {
+      "title": "Trio Sonata in D major, W.B 30",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_D_major,_W.B_30_(Bach,_Johann_Christian)",
+      "year": 1780
+    },
+    {
+      "title": "Trio Sonata in E-flat major, W.B 34",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_E-flat_major,_W.B_34_(Bach,_Johann_Christian)",
+      "year": 1780
+    },
+    {
+      "title": "Violin Sonata in C major, W.B 12",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_in_C_major,_W.B_12_(Bach,_Johann_Christian)",
+      "year": 1780
+    },
+    {
+      "title": "Violin Sonata in D major, W.B 10",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_in_D_major,_W.B_10_(Bach,_Johann_Christian)",
+      "year": 1780
+    },
+    {
+      "title": "Violin Sonata in D major, W.B 14",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_in_D_major,_W.B_14_(Bach,_Johann_Christian)",
+      "year": 1780
+    },
+    {
+      "title": "Violin Sonata in G major, W.B 11",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_in_G_major,_W.B_11_(Bach,_Johann_Christian)",
+      "year": 1780
+    },
+    {
+      "title": "Keyboard Duet in A major, W.A 19",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Duet_in_A_major,_W.A_19_(Bach,_Johann_Christian)",
+      "year": 1781
+    },
+    {
+      "title": "Keyboard Duet in F major, W.A 20",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Duet_in_F_major,_W.A_20_(Bach,_Johann_Christian)",
+      "year": 1781
+    },
+    {
+      "title": "Sinfonia in B-flat major, W.BInc 10",
+      "imslp_url": "https://imslp.org/wiki/Sinfonia_in_B-flat_major,_W.BInc_10_(Bach,_Johann_Christian)",
+      "year": 1781
+    },
+    {
+      "title": "Sinfonia in B-flat major, W.BInc 12",
+      "imslp_url": "https://imslp.org/wiki/Sinfonia_in_B-flat_major,_W.BInc_12_(Bach,_Johann_Christian)",
+      "year": 1781
+    },
+    {
+      "title": "Sinfonia in B-flat major, W.BInc 8",
+      "imslp_url": "https://imslp.org/wiki/Sinfonia_in_B-flat_major,_W.BInc_8_(Bach,_Johann_Christian)",
+      "year": 1781
+    },
+    {
+      "title": "Sinfonia in E-flat major, W.BInc 11",
+      "imslp_url": "https://imslp.org/wiki/Sinfonia_in_E-flat_major,_W.BInc_11_(Bach,_Johann_Christian)",
+      "year": 1781
+    },
+    {
+      "title": "Sinfonia in E-flat major, W.BInc 7",
+      "imslp_url": "https://imslp.org/wiki/Sinfonia_in_E-flat_major,_W.BInc_7_(Bach,_Johann_Christian)",
+      "year": 1781
+    },
+    {
+      "title": "Sinfonia in E-flat major, W.BInc 9",
+      "imslp_url": "https://imslp.org/wiki/Sinfonia_in_E-flat_major,_W.BInc_9_(Bach,_Johann_Christian)",
+      "year": 1781
+    },
+    {
+      "title": "L'Endimione, W.G 15",
+      "imslp_url": "https://imslp.org/wiki/L'Endimione,_W.G_15_(Bach,_Johann_Christian)",
+      "year": 1782
+    },
+    {
+      "title": "Symphony in D major, W.C 27",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_D_major,_W.C_27_(Bach,_Johann_Christian)",
+      "year": 1782
+    },
+    {
+      "title": "Symphony in D major, W.C deest",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_D_major,_W.C_deest_(Bach,_Johann_Christian)",
+      "year": 1782
+    }
+  ]
+}

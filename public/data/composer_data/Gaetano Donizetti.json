@@ -7,814 +7,709 @@
   "wikipedia_url": "https://en.wikipedia.org/wiki/Gaetano_Donizetti",
   "events": [
     {
-      "event": "First musical education",
-      "summary": "At the tender age of 9, young Donizetti gets a full scholarship to a music school after being reported to surpass his peers in musical progress. This was quite the achievement for a lad from a poor family looking to make noise\u2014literally!",
+      "section": "Early life and musical education in Bergamo and Bologna",
+      "title": "Enrollment at Lezioni Caritatevoli",
+      "summary": "In 1807, Gaetano Donizetti was accepted into the Lezioni Caritatevoli school in Bergamo after his father attempted to enroll both him and his elder brother. Despite initial struggles, he quickly excelled in his musical studies, demonstrating outstanding progress that warranted his continuation in the program.",
       "year": 1807,
-      "city": "Bergamo",
-      "country": "Italy"
+      "location": "Bergamo",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In the year 1807, young Gaetano Donizetti waltzed into the Lezioni Caritatevoli school in Bergamo! His dad had attempted to enroll both him and his elder brother in a crash course in music. After some bumpy notes, Gaetano hit the right keys, dazzling his teachers and securing his spot in the program \u2013 no musical cats were harmed in the making of this success!"
     },
     {
-      "event": "First opera composition",
-      "summary": "Donizetti, now a budding composer, writes his first one-act opera, a comedy named Il Pigmalione. It\u2019s the kind of humor that leaves everyone laughing\u2014even if it\u2019s performed only posthumously!",
+      "section": "Early life and musical education in Bergamo and Bologna",
+      "title": "Performance as 'The Little Composer'",
+      "summary": "On September 13, 1811, Donizetti performed in the final concert of the academic year, portraying 'the little composer' in a work created for the occasion. This performance was pivotal, as it showcased his talent and helped secure his place in music despite challenges he faced with his voice changing.",
+      "year": 1811,
+      "location": "Bergamo",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "On September 13, 1811, Donizetti performed in the final concert of the academic year, portraying 'the little composer.' This performance was pivotal as it showcased his talent and helped secure his place in music, surpassing the challenges he faced with his changing voice."
+    },
+    {
+      "section": "Early life and musical education in Bergamo and Bologna",
+      "title": "Study under Padre Stanislao Mattei",
+      "summary": "Donizetti moved to Bologna after receiving crucial support from Mayr and scholarships from the Congregazione di Carit\u00e0. There, he studied musical structure under the esteemed Padre Stanislao Mattei, which solidified his foundational skills as a composer during 1816-1817.",
       "year": 1816,
-      "city": "Bologna",
-      "country": "Italy"
+      "location": "Bologna",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Donizetti moved to Bologna after receiving crucial support from Mayr and some scholarships from the Congregazione di Carit\u00e0. There, he studied musical structure under the esteemed Padre Stanislao Mattei, which helped him solidify his foundational skills as a composer during the grand years of 1816-1817."
     },
     {
-      "event": "First notable success",
-      "summary": "After a series of less-than-stellar productions, Donizetti\u2019s opera seria Zoraida di Granata shakes things up in Rome. It's like a surprise pizza party after a week of salad\u2014everyone was craving a real treat!",
+      "section": "Early life and musical education in Bergamo and Bologna",
+      "title": "Quartet Years",
+      "summary": "Returning to Bergamo in 1817, Donizetti began his 'quartet years', a phase where he composed piano pieces, engaged in performances, and interacted with other composers' works, marking a significant development in his musical career.",
+      "year": 1817,
+      "location": "Bergamo",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1817, Donizetti returned to Bergamo, not just to take in the sights, but to kick off his 'quartet years'\u2014a time when he composed piano pieces like a madman and performed so much he might as well set up camp! This phase marked a significant development in his musical career, as he also interacted with other composers' works."
+    },
+    {
+      "section": "Career as an opera composer",
+      "title": "Premiere of Enrico di Borgogna",
+      "summary": "Donizetti, having composed the music first without a commission, presented his opera Enrico di Borgogna in Venice. The premiere faced challenges due to the audience's lack of interest in the performance, which was compounded by a last-minute withdrawal of the soprano contributing to the music's omission during the show. Despite the difficulties, Donizetti was recognized for his expressive style and received a commission subsequently.",
+      "year": 1818,
+      "location": "Venice",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Donizetti composed the music for his opera \"Enrico di Borgogna\" in Venice without a commission and premiered it despite the audience's lack of interest. The premiere faced challenges due to a last-minute withdrawal of the soprano, which led to music omissions during the show. Nevertheless, Donizetti was later recognized for his expressive style and subsequently received a commission."
+    },
+    {
+      "section": "Career as an opera composer",
+      "title": "Performance of Zoraida di Granata",
+      "summary": "After securing a contract to compose Zoraida di Granata, Donizetti faced an unexpected challenge when the tenor cast died shortly before the opening night. This led to a re-write of the role for a mezzo-soprano. The premiere turned out to be a triumph, garnering unanimous applause from the audience, highlighting Donizetti\u2019s significant emergence in the opera scene.",
       "year": 1822,
-      "city": "Rome",
-      "country": "Italy"
+      "location": "Rome",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Picture this: Donizetti, all set to take the opera world by storm with his new piece, Zoraida di Granata! So, what's a genius composer to do? He just shrugs and turns the tenor's part into a mezzo-soprano role. Not only does the show go on, but it also gets a standing ovation, showcasing his significant emergence in the opera scene. Donizetti becomes the life of the opera party, proving that talent shines brightest when there's a little chaos!"
     },
     {
-      "event": "Relocation to Naples",
-      "summary": "After some successful hits, Donizetti relocates to Naples. The city rolls out the red carpet\u201451 of his operas are staged there! Talk about a musical takeover!",
-      "year": 1822,
-      "city": "Naples",
-      "country": "Italy"
-    },
-    {
-      "event": "First major opera",
-      "summary": "Anna Bolena debuts and sends ripples through the opera world. Donizetti officially makes the switch from comic operas to serious hits\u2014kind of like going from cartoons to dramatic soap operas overnight!",
-      "year": 1830,
-      "city": "Milan",
-      "country": "Italy"
-    },
-    {
-      "event": "French opera transition",
-      "summary": "Tired of the drama at home\u2014especially the censorship\u2014Donizetti sets his sights on Paris. Suddenly it feels like a vacation from the daily grind, only now he gets to write operas in French too!",
-      "year": 1838,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "First French opera",
-      "summary": "Donizetti stages the French version of Poliuto\u2014now Les martyrs\u2014in Paris. It's his big French debut, and it\u2019s just as grand as a baguet with a side of poutine!",
-      "year": 1840,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Health Decline",
-      "summary": "As the '40s roll around, Donizetti\u2019s health starts going downhill, limiting his whirlwind tours between cities. Imagine a musician suddenly finding themselves stuck in a single note\u2014how tragically musical!",
-      "year": 1843,
-      "city": "Various",
-      "country": "Various"
-    },
-    {
-      "event": "Final return to Bergamo",
-      "summary": "After battling serious illness, Donizetti returns to his roots in Bergamo where he bids farewell to the world. It\u2019s like going back home after a grand adventure, only to realize the adventure had some unexpected plot twists!",
-      "year": 1847,
-      "city": "Bergamo",
-      "country": "Italy"
-    },
-    {
-      "event": "First major success with Zoraida",
-      "summary": "Donizetti hits the ground running with the opening of his serious opera, Zoraida, in Rome, where he charms the audience and critics alike, garnering applause that could probably be heard all the way to Naples!",
-      "year": 1822,
-      "city": "Rome",
-      "country": "Italy"
-    },
-    {
-      "event": "Moves to Naples",
-      "summary": "After the triumph of Zoraida, Donizetti relocates to Naples like it's the coolest musical neighborhood in town, securing a contract that promises him opera fame and recognition at the Teatro San Carlo, and a chance to rub shoulders with fellow musicians.",
-      "year": 1822,
-      "city": "Naples",
-      "country": "Italy"
-    },
-    {
-      "event": "Premiere of La zingara",
-      "summary": "Donizetti unveils La zingara, his first opera in Naples, where it\u2019s so well received that it runs for 28 nights straight\u2014talk about a concert that could put a 'buy one, get one free' deal to shame!",
-      "year": 1822,
-      "city": "Naples",
-      "country": "Italy"
-    },
-    {
-      "event": "First lasting success with L'ajo nell'imbarazzo",
-      "summary": "Donizetti's L'ajo nell'imbarazzo charms audiences in Rome with wild enthusiasm, confirming that when he has a good libretto, the magic just happens\u2014like discovering the espresso machine in a coffee shop!",
+      "section": "Career as an opera composer",
+      "title": "First performance of L'ajo nell'imbarazzo",
+      "summary": "The opera L'ajo nell'imbarazzo premiered, showcasing Donizetti's growing expertise. This performance was noted for the critical acclaim it received and recognized the composer\u2019s effective dramatic essence in opera, marking a pivotal point in his career.",
       "year": 1824,
-      "city": "Rome",
-      "country": "Italy"
+      "location": "Rome",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Breaking news from the opera world! Donizetti\u2019s latest masterpiece, L'ajo nell'imbarazzo, premiered to critical acclaim, showcasing his growing expertise. Who knew dramatic essence could be as effective as a double espresso before a long aria? This performance marks a pivotal turning point in Donizetti\u2019s illustrious career!"
     },
     {
-      "event": "Marriage to Virginia Vasselli",
-      "summary": "Donizetti ties the knot with Virginia Vasselli, proving that even opera composers can find love, and by the looks of things, they hung out in cozy coffee shops dreaming up opera plots!",
+      "section": "Personal life",
+      "title": "Marriage to Virginia Vasselli",
+      "summary": "During his time in Rome for the production of Zoraida, Donizetti met the Vasselli family. He and Virginia, the sister of his friend Antonio, formed a bond that led to their marriage in 1828.",
       "year": 1828,
-      "city": "Naples",
-      "country": "Italy"
+      "location": "Rome",
+      "emoji": "\u2764\ufe0f",
+      "fun_version": "Once upon a time in the romantic ruins of Rome, Donizetti, the composer who had more drama in his life than his operas, stumbled upon the Vasselli family. There he met Virginia, who was not just Antonio's sister but also his future \u2018I do\u2019 partner. Their love was so powerful that it magically morphed into marriage in 1828."
     },
     {
-      "event": "International fame with Anna Bolena",
-      "summary": "With the premiere of Anna Bolena, Donizetti strikes gold and becomes the talk of Europe, making audiences swoon and prompting performances that hit all the major capitals faster than a hit single!",
+      "section": "Career as an opera composer",
+      "title": "Premiere of Anna Bolena",
+      "summary": "With Anna Bolena, Donizetti achieved his first international success. The opera premiered in Milan to great acclaim, establishing him as a prominent composer throughout Europe.",
       "year": 1830,
-      "city": "Milan",
-      "country": "Italy"
+      "location": "Milan",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "With Anna Bolena, Donizetti achieved his first international success! His opera premiered in Milan, establishing him as the big cheese in the opera world and a prominent composer throughout all of Europe."
     },
     {
-      "event": "Return from Paris to oversee Lucia di Lammermoor",
-      "summary": "Donizetti returns from Paris\u2014not with a beret and a baguette\u2014but to oversee the sensational Lucia di Lammermoor, which cements his status as the big cheese of Italian opera amidst a flurry of admiration and excitement.",
+      "section": "Career as an opera composer",
+      "title": "Premiere of Lucia di Lammermoor",
+      "summary": "Lucia di Lammermoor premiered in Paris, cementing Donizetti's status as an opera genius. The opera, based on Sir Walter Scott's novel, became one of the high points of the bel canto tradition and significantly influenced the operatic landscape.",
       "year": 1835,
-      "city": "Milan",
-      "country": "Italy"
+      "location": "Paris",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Lucia di Lammermoor burst onto the Paris opera scene, instantly elevating Donizetti to the opera genius hall of fame! This masterpiece, based on Sir Walter Scott's novel, elegantly twirled into the high society of the bel canto tradition, significantly influencing the operatic landscape and leaving a trail of artistic influences that shook up the operatic world!"
     },
     {
-      "event": "Legacy of operatic mastery",
-      "summary": "Like a fine wine gets better with age, Donizetti leaves a legacy of operatic masterpieces that would keep audiences humming and whistling long after his time, establishing him as a titan in the music world, or as the 'Don of Italian opera'.",
-      "year": 1840,
-      "city": "Bergamo",
-      "country": "Italy"
-    },
-    {
-      "event": "Move to Paris",
-      "summary": "In October, Donizetti packed his bags and moved to Paris, making a dramatic exit from Naples, where he promised never to step foot in the San Carlo again after a royal decree deemed his opera, Poliuto, too risky for the stage. Paris was about to get a dose of his genius\u2014and what a ride it would be!",
-      "year": 1838,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Premier of Les Martyrs",
-      "summary": "He offered Poliuto to the Op\u00e9ra, but with a twist! He twisted about a four-act French-language libretto by the revered Eug\u00e8ne Scribe, turned it into Les Martyrs, and scored his first grand opera in the French tradition\u2014a win-win for all, except perhaps the King of Naples.",
-      "year": 1840,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Success with Don Pasquale",
-      "summary": "In January, Donizetti launched Don Pasquale, a comic opera, and it became an overnight sensation! With applause echoing through the theatre, it was a success that had Paris abuzz, proving that laughter can sometimes be just as captivating as tragedy.",
-      "year": 1843,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Final return to Paris",
-      "summary": "He returned to Paris, not just to grace the city with his talent but also to tackle the daunting task of completing Dom S\u00e9bastien, roi de Portugal\u2014a massive project that seemed to have bags upon bags of music. An ambitious feat that would keep him very busy!",
-      "year": 1843,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Premier of Maria di Rohan",
-      "summary": "The audience anticipated drama and talent as Donizetti's Maria di Rohan premiered to raucous applause. Although he downplayed it in letters, he couldn't hide the joy of being showered with adoration. Who doesn\u2019t love a good curtain call?",
-      "year": 1843,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Revisions and Successes in Vienna",
-      "summary": "Donizetti arrived in Vienna to oversee the Italian season. His opera, Maria di Rohan, and the debut of a Verdi classic, Nabucco, kept the critics and audience thrilled, like children in a candy shop. The man was on a roll!",
-      "year": 1843,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Proposal to postpone large-scale work",
-      "summary": "In a moment of true self-awareness, Donizetti proposed that another composer could take his place for an upcoming work, as he was both unprepared and perhaps a little too eager to delegate responsibilities. Waiting for Meyerbeer\u2019s response felt like an audition with the universe.",
-      "year": 1844,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Premiere of Caterina Cornaro",
-      "summary": "Donizetti eagerly anticipated the premiere of his opera Caterina Cornaro, only to find out it bombed harder than a lead balloon. The maestro\u2019s absence was blamed, proving that sometimes, the conductor isn't just a figurehead but the glue that holds the whole operation together.",
-      "year": 1845,
-      "city": "Naples",
-      "country": "Italy"
-    },
-    {
-      "event": "Overseeing the production of Ernani",
-      "summary": "Taking a break from sulking, the composer conducted the premiere of Verdi's Ernani, which surely was a nice change, given that he was no longer dealing with the ghosts of failed productions. Verdi even sent him a lovely letter, perhaps hoping to butter him up for future favors.",
-      "year": 1845,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Decision to go to Paris",
-      "summary": "Faced with a creative drought and health concerns that couldn\u2019t be ignored, Donizetti made the bold decision to head to Paris, possibly hoping for a city revival or just a good pastry. This turned out to be the last time he would pack his bags in Vienna.",
-      "year": 1845,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Lawsuit against the Op\u00e9ra",
-      "summary": "In Paris, Donizetti decided it was time to play hardball and instigated a lawsuit against the Op\u00e9ra. After years of work, sometimes you just need to demand some compensation, and nothing says 'I\u2019m serious' like legal papers.",
-      "year": 1845,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Diagnosis of cerebro-spinal syphilis",
-      "summary": "Prioritizing his health, Donizetti finally received a diagnosis as serious as it sounded. As both a musician and a stubborn artist, he went from composing operas to grappling with medical reports, realizing life is a bit more complicated than a key change.",
-      "year": 1845,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Institutionalization",
-      "summary": "Facing mental health challenges and societal pressures, Donizetti was unwittingly taken to a facility that many would liken to a gentle retreat, rather than a dreary institution. He probably wished he were in a cozy caf\u00e9 instead, sipping on espresso.",
-      "year": 1846,
-      "city": "Ivry-sur-Seine",
-      "country": "France"
-    },
-    {
-      "event": "Returning to Italy",
-      "summary": "After a tussle with medical opinions and relentless bureaucratic red tape, Donizetti was finally deemed fit for travel. His journey back to Italy was probably less glamorous than a grand opera finale, but it marked a final act that was far too real.",
-      "year": 1847,
-      "city": "Bergamo",
-      "country": "Italy"
-    },
-    {
-      "event": "Death of Virginia and their children",
-      "summary": "In a plot twist that could have existed in one of his operas, Virginia passed away shortly after their children, leaving Donizetti with a heavy heart and a seemingly endless supply of inspiration for tragic arias.",
+      "section": "Personal life",
+      "title": "Death of Virginia Donizetti",
+      "summary": "Virginia gave birth to three children, none of whom survived. Tragically, she passed away on 30 July 1837, shortly after the deaths of her children, likely from cholera or measles, though some speculate it may have been linked to a severe infection.",
       "year": 1837,
-      "city": "Bergamo",
-      "country": "Italy"
+      "location": "Unknown",
+      "emoji": "\ud83d\ude22",
+      "fun_version": "Virginia gave birth to three children, none of whom survived, leaving her in a tragic situation. Tragically, on July 30, 1837, she passed away shortly after them, likely from cholera or measles, though some speculate it might have been linked to a severe infection."
     },
     {
-      "event": "Prolific Composition Era",
-      "summary": "Donizetti became the musical equivalent of a caffeinated squirrel, churning out operas like nobody's business. By the end, he had created around 75 operas, turning him into an Italian opera superstar with more content than a Netflix original series!",
-      "year": 1830,
-      "city": "Various",
-      "country": "Italy"
-    },
-    {
-      "event": "Decline in Health",
-      "summary": "After a round of serious health issues, which should have been on the agenda for a slow-paced beach vacation, Donizetti found himself fading into the background, mumbling less and listening more, especially when his operas were sung.",
-      "year": 1848,
-      "city": "Bergamo",
-      "country": "Italy"
-    },
-    {
-      "event": "Death",
-      "summary": "In a final act of drama reminiscent of his own operas, Donizetti passed away after a rough night. One can only imagine his ghost rolling his eyes at the irony of it all!",
-      "year": 1848,
-      "city": "Bergamo",
-      "country": "Italy"
-    },
-    {
-      "event": "Birth",
-      "summary": "Gaetano Donizetti entered the world, kicking and screaming\u2014probably a sign of his dramatic talents to come. Born in a small town, he was destined for greatness and perhaps a bit of mischief as well.",
-      "year": 1797,
-      "city": "Bergamo",
-      "country": "Italy"
-    },
-    {
-      "event": "First Opera",
-      "summary": "At a young age, Donizetti took his first step into the opera world with his debut work, proving that he could not only write a catchy tune but also make a dramatic entrance in the music scene.",
-      "year": 1816,
-      "city": "Naples",
-      "country": "Italy"
-    },
-    {
-      "event": "Italian Opera Success",
-      "summary": "Donizetti skyrocketed to fame with a string of successful operas, effectively showing that he was all business when it came to composing and all fun when it came to entertaining audiences.",
-      "year": 1830,
-      "city": "Naples",
-      "country": "Italy"
-    },
-    {
-      "event": "Lucia di Lammermoor Premiere",
-      "summary": "Donizetti rocked the opera world with the premiere of Lucia di Lammermoor, a tragic tale that made audiences weep and gave sopranos a chance to showcase their high notes in dramatic fashion.",
-      "year": 1835,
-      "city": "Naples",
-      "country": "Italy"
+      "section": "Career as an opera composer",
+      "title": "Success of Don Pasquale",
+      "summary": "Don Pasquale was presented at the Th\u00e9\u00e2tre-Italien, delivering an overwhelming success for Donizetti. The opera was received with high accolades, solidifying his reputation and demonstrating his masterful comic compositional style.",
+      "year": 1843,
+      "location": "Paris",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Don Pasquale hit the stage at the Th\u00e9atre-Italien and delivered an overwhelming success! Boy, did it steal the show! Donizetti was showered with high accolades like confetti at a wedding, solidifying his reputation and proving once and for all that his comedic chops are sharper than a chef\u2019s knife during a cooking class!"
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/Alina,_regina_di_Golconda_(Donizetti,_Gaetano)",
-      "year": 1828,
-      "title": "Alina, regina di Golconda"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Allegro_for_Piano_Four-Hands_in_E_major,_A_555_(Donizetti,_Gaetano)",
-      "year": 1821,
-      "title": "Allegro for Piano Four-Hands in E major, A 555"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Allegro_in_C_major,_A_561_(Donizetti,_Gaetano)",
-      "year": 1821,
-      "title": "Allegro in C major, A 561"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/L%27amor_funesto,_A_286_(Donizetti,_Gaetano)",
-      "year": 1842,
-      "title": "L'amor funesto, A 286"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Amor,_mio_nume,_In.242_(Donizetti,_Gaetano)",
-      "year": 1816,
-      "title": "Amor, mio nume, In.242"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Anna_Bolena_(Donizetti,_Gaetano)",
-      "year": 1830,
-      "title": "Anna Bolena"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Asperges_me,_A_695_(Donizetti,_Gaetano)",
-      "year": 1820,
-      "title": "Asperges me, A 695"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/L%27assedio_di_Calais_(Donizetti,_Gaetano)",
-      "year": 1836,
-      "title": "L'assedio di Calais"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/L%27assunzione_di_Maria_Vergine,_A_685_(Donizetti,_Gaetano)",
-      "year": 1822,
-      "title": "L'assunzione di Maria Vergine, A 685"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Belisario_(Donizetti,_Gaetano)",
-      "year": 1836,
-      "title": "Belisario"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_bella_prigioniera,_A_15_(Donizetti,_Gaetano)",
-      "year": 1826,
-      "title": "La bella prigioniera, A 15"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Betly_(Donizetti,_Gaetano)",
-      "year": 1836,
-      "title": "Betly"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Il_borgomastro_di_Saardam_(Donizetti,_Gaetano)",
-      "year": 1836,
-      "title": "Il borgomastro di Saardam"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Il_campanello_(Donizetti,_Gaetano)",
-      "year": 1836,
-      "title": "Il campanello"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Cantata_per_le_nozze_di_Ferdinando_I_d%27Austria_(Donizetti,_Gaetano)",
-      "year": 1831,
-      "title": "Cantata per le nozze di Ferdinando I d'Austria"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Canto_accompagnatorio,_A_709_(Donizetti,_Gaetano)",
-      "year": 1819,
-      "title": "Canto accompagnatorio, A 709"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Caterina_Cornaro_(Donizetti,_Gaetano)",
-      "year": 1844,
-      "title": "Caterina Cornaro"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Clarinet_Study_in_B-flat_major,_A_516_(Donizetti,_Gaetano)",
-      "year": 1821,
-      "title": "Clarinet Study in B-flat major, A 516"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Il_conte_Ugolino,_In.371_(Donizetti,_Gaetano)",
-      "year": 1826,
-      "title": "Il conte Ugolino, In.371"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Credo,_A_602_(Donizetti,_Gaetano)",
-      "year": 1820,
-      "title": "Credo, A 602"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Dalla_Francia_un_saluto_t%27invia,_In.255_(Donizetti,_Gaetano)",
-      "year": 1841,
-      "title": "Dalla Francia un saluto t'invia, In.255"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/De_torrente_(Donizetti,_Gaetano)",
-      "year": 1819,
-      "title": "De torrente"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Il_diluvio_universale_(Donizetti,_Gaetano)",
-      "year": 1829,
-      "title": "Il diluvio universale"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Dixit_Dominus,_In.122_(Donizetti,_Gaetano)",
-      "year": 1820,
-      "title": "Dixit Dominus, In.122"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Dixit_Dominus_(Donizetti,_Gaetano)",
-      "year": 1819,
-      "title": "Dixit Dominus"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Dom_S%C3%A9bastien_(Donizetti,_Gaetano)",
-      "year": 1843,
-      "title": "Dom S\u00e9bastien"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Domine_Deus_in_E-flat_major_(Donizetti,_Gaetano)",
-      "year": 1820,
-      "title": "Domine Deus in E-flat major"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Domine_Dominus_(Donizetti,_Gaetano)",
-      "year": 1845,
-      "title": "Domine Dominus"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Dominus_a_dextris,_In.132_(Donizetti,_Gaetano)",
-      "year": 1819,
-      "title": "Dominus a dextris, In.132"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Dominus_a_dextris,_In.133_(Donizetti,_Gaetano)",
-      "year": 1820,
-      "title": "Dominus a dextris, In.133"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Don_Pasquale_(Donizetti,_Gaetano)",
-      "year": 1843,
-      "title": "Don Pasquale"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Il_duca_d%27Alba_(Donizetti,_Gaetano)",
-      "year": 1839,
-      "title": "Il duca d'Alba"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/L%27elisir_d%27amore_(Donizetti,_Gaetano)",
-      "year": 1832,
-      "title": "L'elisir d'amore"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/English_Horn_Concertino,_A_459_(Donizetti,_Gaetano)",
-      "year": 1816,
-      "title": "English Horn Concertino, A 459"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Et_vitam_venturi,_A_710_(Donizetti,_Gaetano)",
-      "year": 1838,
-      "title": "Et vitam venturi, A 710"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fausta_(Donizetti,_Gaetano)",
-      "year": 1831,
-      "title": "Fausta"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_favorite_(Donizetti,_Gaetano)",
-      "year": 1840,
-      "title": "La favorite"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_fille_du_r%C3%A9giment_(Donizetti,_Gaetano)",
-      "year": 1840,
-      "title": "La fille du r\u00e9giment"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Flute_Sonata,_A_503_(Donizetti,_Gaetano)",
-      "year": 1819,
-      "title": "Flute Sonata, A 503"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fugue_for_4_Voices,_A_712_No.1_(Donizetti,_Gaetano)",
-      "year": 1817,
-      "title": "Fugue for 4 Voices, A 712 No.1"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fugue_for_4_Voices,_A_712_No.2_(Donizetti,_Gaetano)",
-      "year": 1817,
-      "title": "Fugue for 4 Voices, A 712 No.2"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fugue_for_4_Voices,_A_712_No.3_(Donizetti,_Gaetano)",
-      "year": 1817,
-      "title": "Fugue for 4 Voices, A 712 No.3"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fugue_for_4_Voices,_A_716_(Donizetti,_Gaetano)",
-      "year": 1817,
-      "title": "Fugue for 4 Voices, A 716"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fugue_for_4_Voices,_A_717_(Donizetti,_Gaetano)",
-      "year": 1817,
-      "title": "Fugue for 4 Voices, A 717"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fugue_for_4_Voices,_A_718_(Donizetti,_Gaetano)",
-      "year": 1817,
-      "title": "Fugue for 4 Voices, A 718"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fugue_for_5_Voices,_A_713_(Donizetti,_Gaetano)",
-      "year": 1817,
-      "title": "Fugue for 5 Voices, A 713"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fugue_for_5_Voices,_A_714_(Donizetti,_Gaetano)",
-      "year": 1817,
-      "title": "Fugue for 5 Voices, A 714"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fugue_for_5_Voices,_A_719_(Donizetti,_Gaetano)",
-      "year": 1817,
-      "title": "Fugue for 5 Voices, A 719"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fugue_for_6_Voices,_A_715_(Donizetti,_Gaetano)",
-      "year": 1817,
-      "title": "Fugue for 6 Voices, A 715"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Il_furioso_all%27isola_di_San_Domingo_(Donizetti,_Gaetano)",
-      "year": 1832,
-      "title": "Il furioso all'isola di San Domingo"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Gabriella_di_Vergy_(Donizetti,_Gaetano)",
-      "year": 1826,
-      "title": "Gabriella di Vergy"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Gianni_di_Parigi_(Donizetti,_Gaetano)",
-      "year": 1828,
-      "title": "Gianni di Parigi"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Gloria_in_excelsis,_A_587_(Donizetti,_Gaetano)",
-      "year": 1819,
-      "title": "Gloria in excelsis, A 587"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Gloria_in_excelsis,_In.142_(Donizetti,_Gaetano)",
-      "year": 1820,
-      "title": "Gloria in excelsis, In.142"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Gloria_Patri_in_E-flat_major_(Donizetti,_Gaetano)",
-      "year": 1843,
-      "title": "Gloria Patri in E-flat major"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Gloria,_A_617_(Donizetti,_Gaetano)",
-      "year": 1814,
-      "title": "Gloria, A 617"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Imelda_de%27_Lambertazzi_(Donizetti,_Gaetano)",
-      "year": 1830,
-      "title": "Imelda de' Lambertazzi"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/In_gloria_Dei_Patris,_A_711_(Donizetti,_Gaetano)",
-      "year": 1816,
-      "title": "In gloria Dei Patris, A 711"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Isabella,_ormai_mi_rendi,_A_112_(Donizetti,_Gaetano)",
-      "year": 1823,
-      "title": "Isabella, ormai mi rendi, A 112"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Iste_confessor,_In.152_(Donizetti,_Gaetano)",
-      "year": 1819,
-      "title": "Iste confessor, In.152"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Kyrie_in_D_minor,_In.169_(Donizetti,_Gaetano)",
-      "year": 1820,
-      "title": "Kyrie in D minor, In.169"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Kyrie_in_D_minor_(Donizetti,_Gaetano)",
-      "year": 1819,
-      "title": "Kyrie in D minor"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Kyrie_in_E_major,_IGD_131_(Donizetti,_Gaetano)",
-      "year": 1816,
-      "title": "Kyrie in E major, IGD 131"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Kyrie_No.2,_In.160_(Donizetti,_Gaetano)",
-      "year": 1821,
-      "title": "Kyrie No.2, In.160"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Laudamus,_A_596_(Donizetti,_Gaetano)",
-      "year": 1820,
-      "title": "Laudamus, A 596"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Laudate_pueri,_A_646_(Donizetti,_Gaetano)",
-      "year": 1819,
-      "title": "Laudate pueri, A 646"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Linda_di_Chamounix_(Donizetti,_Gaetano)",
-      "year": 1842,
-      "title": "Linda di Chamounix"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Lucia_di_Lammermoor_(Donizetti,_Gaetano)",
-      "year": 1835,
-      "title": "Lucia di Lammermoor"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Lucrezia_Borgia_(Donizetti,_Gaetano)",
-      "year": 1834,
-      "title": "Lucrezia Borgia"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Magnificat,_A_652_(Donizetti,_Gaetano)",
-      "year": 1819,
-      "title": "Magnificat, A 652"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Malvina,_In.404_(Donizetti,_Gaetano)",
-      "year": 1844,
-      "title": "Malvina, In.404"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Maria_de_Rudenz_(Donizetti,_Gaetano)",
-      "year": 1837,
-      "title": "Maria de Rudenz"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Maria_di_Rohan_(Donizetti,_Gaetano)",
-      "year": 1842,
-      "title": "Maria di Rohan"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Maria_Stuarda_(Donizetti,_Gaetano)",
-      "year": 1834,
-      "title": "Maria Stuarda"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Marino_Faliero_(Donizetti,_Gaetano)",
-      "year": 1835,
-      "title": "Marino Faliero"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Messa_di_Gloria_e_Credo,_A_606_(Donizetti,_Gaetano)",
-      "year": 1837,
-      "title": "Messa di Gloria e Credo, A 606"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Miserere_mei_Deus,_A_693_(Donizetti,_Gaetano)",
-      "year": 1820,
-      "title": "Miserere mei Deus, A 693"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Miserere,_A_703_(Donizetti,_Gaetano)",
-      "year": 1843,
-      "title": "Miserere, A 703"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ne_proicias_me,_A_697_(Donizetti,_Gaetano)",
-      "year": 1820,
-      "title": "Ne proicias me, A 697"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Oro_supplex,_A_708_(Donizetti,_Gaetano)",
-      "year": 1819,
-      "title": "Oro supplex, A 708"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Otto_mesi_in_due_ore_(Donizetti,_Gaetano)",
-      "year": 1827,
-      "title": "Otto mesi in due ore"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Parafrasi_del_Christus,_A_675_(Donizetti,_Gaetano)",
-      "year": 1829,
-      "title": "Parafrasi del Christus, A 675"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Il_Paria_(Donizetti,_Gaetano)",
-      "year": 1828,
-      "title": "Il Paria"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Parisina_(Donizetti,_Gaetano)",
-      "year": 1833,
-      "title": "Parisina"
-    },
-    {
+      "title": "Pastorale, A 531",
       "imslp_url": "https://imslp.org/wiki/Pastorale,_A_531_(Donizetti,_Gaetano)",
-      "year": 1813,
-      "title": "Pastorale, A 531"
+      "year": 1813
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Per_valli,_per_boschi,_A_413_(Donizetti,_Gaetano)",
-      "year": 1817,
-      "title": "Per valli, per boschi, A 413"
+      "title": "Sinfonia for Piano in A major, A 540",
+      "imslp_url": "https://imslp.org/wiki/Sinfonia_for_Piano_in_A_major,_A_540_(Donizetti,_Gaetano)",
+      "year": 1813
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Perch%C3%A9_quell%27alma_ingrata,_A_108_(Donizetti,_Gaetano)",
-      "year": 1816,
-      "title": "Perch\u00e9 quell'alma ingrata, A 108"
+      "title": "Gloria, A 617",
+      "imslp_url": "https://imslp.org/wiki/Gloria,_A_617_(Donizetti,_Gaetano)",
+      "year": 1814
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Polacca,_A_564_(Donizetti,_Gaetano)",
-      "year": 1819,
-      "title": "Polacca, A 564"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Poliuto_(Donizetti,_Gaetano)",
-      "year": 1838,
-      "title": "Poliuto"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Preces_meae,_A_707_(Donizetti,_Gaetano)",
-      "year": 1819,
-      "title": "Preces meae, A 707"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Questo_%C3%A8_il_suolo,_In.550_(Donizetti,_Gaetano)",
-      "year": 1822,
-      "title": "Questo \u00e8 il suolo, In.550"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Qui_sedes_et_Quoniam,_A_600_(Donizetti,_Gaetano)",
-      "year": 1820,
-      "title": "Qui sedes et Quoniam, A 600"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Qui_tollis,_A_590_(Donizetti,_Gaetano)",
-      "year": 1819,
-      "title": "Qui tollis, A 590"
-    },
-    {
+      "title": "Qui tollis, A 621",
       "imslp_url": "https://imslp.org/wiki/Qui_tollis,_A_621_(Donizetti,_Gaetano)",
-      "year": 1814,
-      "title": "Qui tollis, A 621"
+      "year": 1814
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Quoniam_ad_te_(Donizetti,_Gaetano)",
-      "year": 1844,
-      "title": "Quoniam ad te"
+      "title": "Amor, mio nume, In.242",
+      "imslp_url": "https://imslp.org/wiki/Amor,_mio_nume,_In.242_(Donizetti,_Gaetano)",
+      "year": 1816
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Requiem,_A_688_(Donizetti,_Gaetano)",
-      "year": 1835,
-      "title": "Requiem, A 688"
+      "title": "English Horn Concertino, A 459",
+      "imslp_url": "https://imslp.org/wiki/English_Horn_Concertino,_A_459_(Donizetti,_Gaetano)",
+      "year": 1816
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Rita_(Donizetti,_Gaetano)",
-      "year": 1841,
-      "title": "Rita"
+      "title": "In gloria Dei Patris, A 711",
+      "imslp_url": "https://imslp.org/wiki/In_gloria_Dei_Patris,_A_711_(Donizetti,_Gaetano)",
+      "year": 1816
     },
     {
-      "imslp_url": "https://imslp.org/wiki/La_romanziera_e_l%27uomo_nero_(Donizetti,_Gaetano)",
-      "year": 1831,
-      "title": "La romanziera e l'uomo nero"
+      "title": "Kyrie in E major, IGD 131",
+      "imslp_url": "https://imslp.org/wiki/Kyrie_in_E_major,_IGD_131_(Donizetti,_Gaetano)",
+      "year": 1816
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Rond%C3%B2,_A_533_(Donizetti,_Gaetano)",
-      "year": 1825,
-      "title": "Rond\u00f2, A 533"
+      "title": "Perch\u00e9 quell'alma ingrata, A 108",
+      "imslp_url": "https://imslp.org/wiki/Perch\u00e9_quell'alma_ingrata,_A_108_(Donizetti,_Gaetano)",
+      "year": 1816
     },
     {
+      "title": "Fugue for 4 Voices, A 712 No.1",
+      "imslp_url": "https://imslp.org/wiki/Fugue_for_4_Voices,_A_712_No.1_(Donizetti,_Gaetano)",
+      "year": 1817
+    },
+    {
+      "title": "Fugue for 4 Voices, A 712 No.2",
+      "imslp_url": "https://imslp.org/wiki/Fugue_for_4_Voices,_A_712_No.2_(Donizetti,_Gaetano)",
+      "year": 1817
+    },
+    {
+      "title": "Fugue for 4 Voices, A 712 No.3",
+      "imslp_url": "https://imslp.org/wiki/Fugue_for_4_Voices,_A_712_No.3_(Donizetti,_Gaetano)",
+      "year": 1817
+    },
+    {
+      "title": "Fugue for 4 Voices, A 716",
+      "imslp_url": "https://imslp.org/wiki/Fugue_for_4_Voices,_A_716_(Donizetti,_Gaetano)",
+      "year": 1817
+    },
+    {
+      "title": "Fugue for 4 Voices, A 717",
+      "imslp_url": "https://imslp.org/wiki/Fugue_for_4_Voices,_A_717_(Donizetti,_Gaetano)",
+      "year": 1817
+    },
+    {
+      "title": "Fugue for 4 Voices, A 718",
+      "imslp_url": "https://imslp.org/wiki/Fugue_for_4_Voices,_A_718_(Donizetti,_Gaetano)",
+      "year": 1817
+    },
+    {
+      "title": "Fugue for 5 Voices, A 713",
+      "imslp_url": "https://imslp.org/wiki/Fugue_for_5_Voices,_A_713_(Donizetti,_Gaetano)",
+      "year": 1817
+    },
+    {
+      "title": "Fugue for 5 Voices, A 714",
+      "imslp_url": "https://imslp.org/wiki/Fugue_for_5_Voices,_A_714_(Donizetti,_Gaetano)",
+      "year": 1817
+    },
+    {
+      "title": "Fugue for 5 Voices, A 719",
+      "imslp_url": "https://imslp.org/wiki/Fugue_for_5_Voices,_A_719_(Donizetti,_Gaetano)",
+      "year": 1817
+    },
+    {
+      "title": "Fugue for 6 Voices, A 715",
+      "imslp_url": "https://imslp.org/wiki/Fugue_for_6_Voices,_A_715_(Donizetti,_Gaetano)",
+      "year": 1817
+    },
+    {
+      "title": "Per valli, per boschi, A 413",
+      "imslp_url": "https://imslp.org/wiki/Per_valli,_per_boschi,_A_413_(Donizetti,_Gaetano)",
+      "year": 1817
+    },
+    {
+      "title": "Sinfonia for Winds in G minor, A 509",
+      "imslp_url": "https://imslp.org/wiki/Sinfonia_for_Winds_in_G_minor,_A_509_(Donizetti,_Gaetano)",
+      "year": 1817
+    },
+    {
+      "title": "Ti sovvenga amato bene, A 99",
+      "imslp_url": "https://imslp.org/wiki/Ti_sovvenga_amato_bene,_A_99_(Donizetti,_Gaetano)",
+      "year": 1817
+    },
+    {
+      "title": "Un capriccio in sinfonia, In.681",
+      "imslp_url": "https://imslp.org/wiki/Un_capriccio_in_sinfonia,_In.681_(Donizetti,_Gaetano)",
+      "year": 1817
+    },
+    {
+      "title": "Canto accompagnatorio, A 709",
+      "imslp_url": "https://imslp.org/wiki/Canto_accompagnatorio,_A_709_(Donizetti,_Gaetano)",
+      "year": 1819
+    },
+    {
+      "title": "De torrente",
+      "imslp_url": "https://imslp.org/wiki/De_torrente_(Donizetti,_Gaetano)",
+      "year": 1819
+    },
+    {
+      "title": "Dixit Dominus",
+      "imslp_url": "https://imslp.org/wiki/Dixit_Dominus_(Donizetti,_Gaetano)",
+      "year": 1819
+    },
+    {
+      "title": "Dominus a dextris, In.132",
+      "imslp_url": "https://imslp.org/wiki/Dominus_a_dextris,_In.132_(Donizetti,_Gaetano)",
+      "year": 1819
+    },
+    {
+      "title": "Flute Sonata, A 503",
+      "imslp_url": "https://imslp.org/wiki/Flute_Sonata,_A_503_(Donizetti,_Gaetano)",
+      "year": 1819
+    },
+    {
+      "title": "Gloria in excelsis, A 587",
+      "imslp_url": "https://imslp.org/wiki/Gloria_in_excelsis,_A_587_(Donizetti,_Gaetano)",
+      "year": 1819
+    },
+    {
+      "title": "Iste confessor, In.152",
+      "imslp_url": "https://imslp.org/wiki/Iste_confessor,_In.152_(Donizetti,_Gaetano)",
+      "year": 1819
+    },
+    {
+      "title": "Kyrie in D minor",
+      "imslp_url": "https://imslp.org/wiki/Kyrie_in_D_minor_(Donizetti,_Gaetano)",
+      "year": 1819
+    },
+    {
+      "title": "Laudate pueri, A 646",
+      "imslp_url": "https://imslp.org/wiki/Laudate_pueri,_A_646_(Donizetti,_Gaetano)",
+      "year": 1819
+    },
+    {
+      "title": "Magnificat, A 652",
+      "imslp_url": "https://imslp.org/wiki/Magnificat,_A_652_(Donizetti,_Gaetano)",
+      "year": 1819
+    },
+    {
+      "title": "Oro supplex, A 708",
+      "imslp_url": "https://imslp.org/wiki/Oro_supplex,_A_708_(Donizetti,_Gaetano)",
+      "year": 1819
+    },
+    {
+      "title": "Polacca, A 564",
+      "imslp_url": "https://imslp.org/wiki/Polacca,_A_564_(Donizetti,_Gaetano)",
+      "year": 1819
+    },
+    {
+      "title": "Preces meae, A 707",
+      "imslp_url": "https://imslp.org/wiki/Preces_meae,_A_707_(Donizetti,_Gaetano)",
+      "year": 1819
+    },
+    {
+      "title": "Qui tollis, A 590",
+      "imslp_url": "https://imslp.org/wiki/Qui_tollis,_A_590_(Donizetti,_Gaetano)",
+      "year": 1819
+    },
+    {
+      "title": "Salve Regina, A 678",
       "imslp_url": "https://imslp.org/wiki/Salve_Regina,_A_678_(Donizetti,_Gaetano)",
-      "year": 1819,
-      "title": "Salve Regina, A 678"
+      "year": 1819
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Scherzo,_A_497_(Donizetti,_Gaetano)",
-      "year": 1826,
-      "title": "Scherzo, A 497"
-    },
-    {
+      "title": "Sicut erat in C major, In.227",
       "imslp_url": "https://imslp.org/wiki/Sicut_erat_in_C_major,_In.227_(Donizetti,_Gaetano)",
-      "year": 1819,
-      "title": "Sicut erat in C major, In.227"
+      "year": 1819
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Ispirazioni_viennesi,_A_218-224_(Donizetti,_Gaetano)",
-      "year": 1842,
-      "title": "Ispirazioni viennesi, A 218-224"
+      "title": "Sonata for Piano Four-Hands in C major, A 567",
+      "imslp_url": "https://imslp.org/wiki/Sonata_for_Piano_Four-Hands_in_C_major,_A_567_(Donizetti,_Gaetano)",
+      "year": 1819
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Matin%C3%A9e_musicale,_A_208-217_(Donizetti,_Gaetano)",
-      "year": 1841,
-      "title": "Matin\u00e9e musicale, A 208-217"
+      "title": "Sonata for Piano Four-Hands in D major, A 568",
+      "imslp_url": "https://imslp.org/wiki/Sonata_for_Piano_Four-Hands_in_D_major,_A_568_(Donizetti,_Gaetano)",
+      "year": 1819
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Nuits_d%27%C3%A9t%C3%A9_%C3%A0_Pausilippe,_A_183-194_(Donizetti,_Gaetano)",
-      "year": 1836,
-      "title": "Nuits d'\u00e9t\u00e9 \u00e0 Pausilippe, A 183-194"
+      "title": "Tecum principium, In.234",
+      "imslp_url": "https://imslp.org/wiki/Tecum_principium,_In.234_(Donizetti,_Gaetano)",
+      "year": 1819
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Soir%C3%A9es_d%E2%80%99automne_%C3%A0_l%27Infrascata,_A_195-200_(Donizetti,_Gaetano)",
-      "year": 1837,
-      "title": "Soir\u00e9es d\u2019automne \u00e0 l'Infrascata, A 195-200"
+      "title": "Violin Sonata, A 496",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata,_A_496_(Donizetti,_Gaetano)",
+      "year": 1819
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Un_hiver_%C3%A0_Paris,_A_201-207_(Donizetti,_Gaetano)",
-      "year": 1839,
-      "title": "Un hiver \u00e0 Paris, A 201-207"
+      "title": "Asperges me, A 695",
+      "imslp_url": "https://imslp.org/wiki/Asperges_me,_A_695_(Donizetti,_Gaetano)",
+      "year": 1820
+    },
+    {
+      "title": "Credo, A 602",
+      "imslp_url": "https://imslp.org/wiki/Credo,_A_602_(Donizetti,_Gaetano)",
+      "year": 1820
+    },
+    {
+      "title": "Dixit Dominus, In.122",
+      "imslp_url": "https://imslp.org/wiki/Dixit_Dominus,_In.122_(Donizetti,_Gaetano)",
+      "year": 1820
+    },
+    {
+      "title": "Domine Deus in E-flat major",
+      "imslp_url": "https://imslp.org/wiki/Domine_Deus_in_E-flat_major_(Donizetti,_Gaetano)",
+      "year": 1820
+    },
+    {
+      "title": "Dominus a dextris, In.133",
+      "imslp_url": "https://imslp.org/wiki/Dominus_a_dextris,_In.133_(Donizetti,_Gaetano)",
+      "year": 1820
+    },
+    {
+      "title": "Gloria in excelsis, In.142",
+      "imslp_url": "https://imslp.org/wiki/Gloria_in_excelsis,_In.142_(Donizetti,_Gaetano)",
+      "year": 1820
+    },
+    {
+      "title": "Kyrie in D minor, In.169",
+      "imslp_url": "https://imslp.org/wiki/Kyrie_in_D_minor,_In.169_(Donizetti,_Gaetano)",
+      "year": 1820
+    },
+    {
+      "title": "Laudamus, A 596",
+      "imslp_url": "https://imslp.org/wiki/Laudamus,_A_596_(Donizetti,_Gaetano)",
+      "year": 1820
+    },
+    {
+      "title": "Miserere mei Deus, A 693",
+      "imslp_url": "https://imslp.org/wiki/Miserere_mei_Deus,_A_693_(Donizetti,_Gaetano)",
+      "year": 1820
+    },
+    {
+      "title": "Ne proicias me, A 697",
+      "imslp_url": "https://imslp.org/wiki/Ne_proicias_me,_A_697_(Donizetti,_Gaetano)",
+      "year": 1820
+    },
+    {
+      "title": "Qui sedes et Quoniam, A 600",
+      "imslp_url": "https://imslp.org/wiki/Qui_sedes_et_Quoniam,_A_600_(Donizetti,_Gaetano)",
+      "year": 1820
+    },
+    {
+      "title": "Sinfonia for Piano Four-Hands in D minor, A 565",
+      "imslp_url": "https://imslp.org/wiki/Sinfonia_for_Piano_Four-Hands_in_D_minor,_A_565_(Donizetti,_Gaetano)",
+      "year": 1820
+    },
+    {
+      "title": "Sonata for Piano Four-Hands in A minor, A 572",
+      "imslp_url": "https://imslp.org/wiki/Sonata_for_Piano_Four-Hands_in_A_minor,_A_572_(Donizetti,_Gaetano)",
+      "year": 1820
+    },
+    {
+      "title": "Tibi soli, A 694",
+      "imslp_url": "https://imslp.org/wiki/Tibi_soli,_A_694_(Donizetti,_Gaetano)",
+      "year": 1820
+    },
+    {
+      "title": "Allegro for Piano Four-Hands in E major, A 555",
+      "imslp_url": "https://imslp.org/wiki/Allegro_for_Piano_Four-Hands_in_E_major,_A_555_(Donizetti,_Gaetano)",
+      "year": 1821
+    },
+    {
+      "title": "Allegro in C major, A 561",
+      "imslp_url": "https://imslp.org/wiki/Allegro_in_C_major,_A_561_(Donizetti,_Gaetano)",
+      "year": 1821
+    },
+    {
+      "title": "Clarinet Study in B-flat major, A 516",
+      "imslp_url": "https://imslp.org/wiki/Clarinet_Study_in_B-flat_major,_A_516_(Donizetti,_Gaetano)",
+      "year": 1821
+    },
+    {
+      "title": "Kyrie No.2, In.160",
+      "imslp_url": "https://imslp.org/wiki/Kyrie_No.2,_In.160_(Donizetti,_Gaetano)",
+      "year": 1821
+    },
+    {
+      "title": "Tuba mirum, A 692",
+      "imslp_url": "https://imslp.org/wiki/Tuba_mirum,_A_692_(Donizetti,_Gaetano)",
+      "year": 1821
+    },
+    {
+      "title": "L'assunzione di Maria Vergine, A 685",
+      "imslp_url": "https://imslp.org/wiki/L'assunzione_di_Maria_Vergine,_A_685_(Donizetti,_Gaetano)",
+      "year": 1822
+    },
+    {
+      "title": "Questo \u00e8 il suolo, In.550",
+      "imslp_url": "https://imslp.org/wiki/Questo_\u00e8_il_suolo,_In.550_(Donizetti,_Gaetano)",
+      "year": 1822
+    },
+    {
+      "title": "Isabella, ormai mi rendi, A 112",
+      "imslp_url": "https://imslp.org/wiki/Isabella,_ormai_mi_rendi,_A_112_(Donizetti,_Gaetano)",
+      "year": 1823
+    },
+    {
+      "title": "Rond\u00f2, A 533",
+      "imslp_url": "https://imslp.org/wiki/Rond\u00f2,_A_533_(Donizetti,_Gaetano)",
+      "year": 1825
+    },
+    {
+      "title": "Gabriella di Vergy",
+      "imslp_url": "https://imslp.org/wiki/Gabriella_di_Vergy_(Donizetti,_Gaetano)",
+      "year": 1826
+    },
+    {
+      "title": "Il conte Ugolino, In.371",
+      "imslp_url": "https://imslp.org/wiki/Il_conte_Ugolino,_In.371_(Donizetti,_Gaetano)",
+      "year": 1826
+    },
+    {
+      "title": "La bella prigioniera, A 15",
+      "imslp_url": "https://imslp.org/wiki/La_bella_prigioniera,_A_15_(Donizetti,_Gaetano)",
+      "year": 1826
+    },
+    {
+      "title": "Scherzo, A 497",
+      "imslp_url": "https://imslp.org/wiki/Scherzo,_A_497_(Donizetti,_Gaetano)",
+      "year": 1826
+    },
+    {
+      "title": "Otto mesi in due ore",
+      "imslp_url": "https://imslp.org/wiki/Otto_mesi_in_due_ore_(Donizetti,_Gaetano)",
+      "year": 1827
+    },
+    {
+      "title": "Alina, regina di Golconda",
+      "imslp_url": "https://imslp.org/wiki/Alina,_regina_di_Golconda_(Donizetti,_Gaetano)",
+      "year": 1828
+    },
+    {
+      "title": "Gianni di Parigi",
+      "imslp_url": "https://imslp.org/wiki/Gianni_di_Parigi_(Donizetti,_Gaetano)",
+      "year": 1828
+    },
+    {
+      "title": "Il Paria",
+      "imslp_url": "https://imslp.org/wiki/Il_Paria_(Donizetti,_Gaetano)",
+      "year": 1828
+    },
+    {
+      "title": "Il diluvio universale",
+      "imslp_url": "https://imslp.org/wiki/Il_diluvio_universale_(Donizetti,_Gaetano)",
+      "year": 1829
+    },
+    {
+      "title": "Parafrasi del Christus, A 675",
+      "imslp_url": "https://imslp.org/wiki/Parafrasi_del_Christus,_A_675_(Donizetti,_Gaetano)",
+      "year": 1829
+    },
+    {
+      "title": "Anna Bolena",
+      "imslp_url": "https://imslp.org/wiki/Anna_Bolena_(Donizetti,_Gaetano)",
+      "year": 1830
+    },
+    {
+      "title": "Imelda de' Lambertazzi",
+      "imslp_url": "https://imslp.org/wiki/Imelda_de'_Lambertazzi_(Donizetti,_Gaetano)",
+      "year": 1830
+    },
+    {
+      "title": "Cantata per le nozze di Ferdinando I d'Austria",
+      "imslp_url": "https://imslp.org/wiki/Cantata_per_le_nozze_di_Ferdinando_I_d'Austria_(Donizetti,_Gaetano)",
+      "year": 1831
+    },
+    {
+      "title": "Fausta",
+      "imslp_url": "https://imslp.org/wiki/Fausta_(Donizetti,_Gaetano)",
+      "year": 1831
+    },
+    {
+      "title": "La romanziera e l'uomo nero",
+      "imslp_url": "https://imslp.org/wiki/La_romanziera_e_l'uomo_nero_(Donizetti,_Gaetano)",
+      "year": 1831
+    },
+    {
+      "title": "Il furioso all'isola di San Domingo",
+      "imslp_url": "https://imslp.org/wiki/Il_furioso_all'isola_di_San_Domingo_(Donizetti,_Gaetano)",
+      "year": 1832
+    },
+    {
+      "title": "L'elisir d'amore",
+      "imslp_url": "https://imslp.org/wiki/L'elisir_d'amore_(Donizetti,_Gaetano)",
+      "year": 1832
+    },
+    {
+      "title": "Sinfonia, A 445",
+      "imslp_url": "https://imslp.org/wiki/Sinfonia,_A_445_(Donizetti,_Gaetano)",
+      "year": 1832
+    },
+    {
+      "title": "Parisina",
+      "imslp_url": "https://imslp.org/wiki/Parisina_(Donizetti,_Gaetano)",
+      "year": 1833
+    },
+    {
+      "title": "Lucrezia Borgia",
+      "imslp_url": "https://imslp.org/wiki/Lucrezia_Borgia_(Donizetti,_Gaetano)",
+      "year": 1834
+    },
+    {
+      "title": "Maria Stuarda",
+      "imslp_url": "https://imslp.org/wiki/Maria_Stuarda_(Donizetti,_Gaetano)",
+      "year": 1834
+    },
+    {
+      "title": "Lucia di Lammermoor",
+      "imslp_url": "https://imslp.org/wiki/Lucia_di_Lammermoor_(Donizetti,_Gaetano)",
+      "year": 1835
+    },
+    {
+      "title": "Marino Faliero",
+      "imslp_url": "https://imslp.org/wiki/Marino_Faliero_(Donizetti,_Gaetano)",
+      "year": 1835
+    },
+    {
+      "title": "Requiem, A 688",
+      "imslp_url": "https://imslp.org/wiki/Requiem,_A_688_(Donizetti,_Gaetano)",
+      "year": 1835
+    },
+    {
+      "title": "Belisario",
+      "imslp_url": "https://imslp.org/wiki/Belisario_(Donizetti,_Gaetano)",
+      "year": 1836
+    },
+    {
+      "title": "Betly",
+      "imslp_url": "https://imslp.org/wiki/Betly_(Donizetti,_Gaetano)",
+      "year": 1836
+    },
+    {
+      "title": "Il borgomastro di Saardam",
+      "imslp_url": "https://imslp.org/wiki/Il_borgomastro_di_Saardam_(Donizetti,_Gaetano)",
+      "year": 1836
+    },
+    {
+      "title": "Il campanello",
+      "imslp_url": "https://imslp.org/wiki/Il_campanello_(Donizetti,_Gaetano)",
+      "year": 1836
+    },
+    {
+      "title": "L'assedio di Calais",
+      "imslp_url": "https://imslp.org/wiki/L'assedio_di_Calais_(Donizetti,_Gaetano)",
+      "year": 1836
+    },
+    {
+      "title": "String Quartet No.18, A 482",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.18,_A_482_(Donizetti,_Gaetano)",
+      "year": 1836
+    },
+    {
+      "title": "Maria de Rudenz",
+      "imslp_url": "https://imslp.org/wiki/Maria_de_Rudenz_(Donizetti,_Gaetano)",
+      "year": 1837
+    },
+    {
+      "title": "Messa di Gloria e Credo, A 606",
+      "imslp_url": "https://imslp.org/wiki/Messa_di_Gloria_e_Credo,_A_606_(Donizetti,_Gaetano)",
+      "year": 1837
+    },
+    {
+      "title": "Et vitam venturi, A 710",
+      "imslp_url": "https://imslp.org/wiki/Et_vitam_venturi,_A_710_(Donizetti,_Gaetano)",
+      "year": 1838
+    },
+    {
+      "title": "Poliuto",
+      "imslp_url": "https://imslp.org/wiki/Poliuto_(Donizetti,_Gaetano)",
+      "year": 1838
+    },
+    {
+      "title": "Il duca d'Alba",
+      "imslp_url": "https://imslp.org/wiki/Il_duca_d'Alba_(Donizetti,_Gaetano)",
+      "year": 1839
+    },
+    {
+      "title": "La favorite",
+      "imslp_url": "https://imslp.org/wiki/La_favorite_(Donizetti,_Gaetano)",
+      "year": 1840
+    },
+    {
+      "title": "La fille du r\u00e9giment",
+      "imslp_url": "https://imslp.org/wiki/La_fille_du_r\u00e9giment_(Donizetti,_Gaetano)",
+      "year": 1840
+    },
+    {
+      "title": "Un bacio de speranza",
+      "imslp_url": "https://imslp.org/wiki/Un_bacio_de_speranza_(Donizetti,_Gaetano)",
+      "year": 1840
+    },
+    {
+      "title": "Dalla Francia un saluto t'invia, In.255",
+      "imslp_url": "https://imslp.org/wiki/Dalla_Francia_un_saluto_t'invia,_In.255_(Donizetti,_Gaetano)",
+      "year": 1841
+    },
+    {
+      "title": "Rita",
+      "imslp_url": "https://imslp.org/wiki/Rita_(Donizetti,_Gaetano)",
+      "year": 1841
+    },
+    {
+      "title": "L'amor funesto, A 286",
+      "imslp_url": "https://imslp.org/wiki/L'amor_funesto,_A_286_(Donizetti,_Gaetano)",
+      "year": 1842
+    },
+    {
+      "title": "Linda di Chamounix",
+      "imslp_url": "https://imslp.org/wiki/Linda_di_Chamounix_(Donizetti,_Gaetano)",
+      "year": 1842
+    },
+    {
+      "title": "Maria di Rohan",
+      "imslp_url": "https://imslp.org/wiki/Maria_di_Rohan_(Donizetti,_Gaetano)",
+      "year": 1842
+    },
+    {
+      "title": "Dom S\u00e9bastien",
+      "imslp_url": "https://imslp.org/wiki/Dom_S\u00e9bastien_(Donizetti,_Gaetano)",
+      "year": 1843
+    },
+    {
+      "title": "Don Pasquale",
+      "imslp_url": "https://imslp.org/wiki/Don_Pasquale_(Donizetti,_Gaetano)",
+      "year": 1843
+    },
+    {
+      "title": "Gloria Patri in E-flat major",
+      "imslp_url": "https://imslp.org/wiki/Gloria_Patri_in_E-flat_major_(Donizetti,_Gaetano)",
+      "year": 1843
+    },
+    {
+      "title": "Miserere, A 703",
+      "imslp_url": "https://imslp.org/wiki/Miserere,_A_703_(Donizetti,_Gaetano)",
+      "year": 1843
+    },
+    {
+      "title": "Caterina Cornaro",
+      "imslp_url": "https://imslp.org/wiki/Caterina_Cornaro_(Donizetti,_Gaetano)",
+      "year": 1844
+    },
+    {
+      "title": "Malvina, In.404",
+      "imslp_url": "https://imslp.org/wiki/Malvina,_In.404_(Donizetti,_Gaetano)",
+      "year": 1844
+    },
+    {
+      "title": "Quoniam ad te",
+      "imslp_url": "https://imslp.org/wiki/Quoniam_ad_te_(Donizetti,_Gaetano)",
+      "year": 1844
+    },
+    {
+      "title": "Waltz for Piano Four-Hands, A 574",
+      "imslp_url": "https://imslp.org/wiki/Waltz_for_Piano_Four-Hands,_A_574_(Donizetti,_Gaetano)",
+      "year": 1844
+    },
+    {
+      "title": "Domine Dominus",
+      "imslp_url": "https://imslp.org/wiki/Domine_Dominus_(Donizetti,_Gaetano)",
+      "year": 1845
+    },
+    {
+      "title": "Il Sospiro",
+      "imslp_url": "https://imslp.org/wiki/Il_Sospiro_(Donizetti,_Gaetano)",
+      "year": 1845
     }
   ]
 }

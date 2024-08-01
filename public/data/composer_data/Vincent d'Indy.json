@@ -1,0 +1,544 @@
+{
+  "full_name": "Vincent d'Indy",
+  "first_names": "Vincent",
+  "last_name": "d'Indy",
+  "birth_year": 1851,
+  "death_year": 1931,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Vincent_d'Indy",
+  "events": [
+    {
+      "section": "Life",
+      "title": "Birth",
+      "summary": "Paul Marie Th\u00e9odore Vincent d'Indy was born into an aristocratic family in Paris, recognized for their royalist and Catholic beliefs. His early exposure to music began with piano lessons from his grandmother and later with prominent teachers.",
+      "year": 1851,
+      "location": "Paris",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Paul Marie Th\u00e9odore Vincent d'Indy was born into an aristocratic family in Paris, recognized for their royalist and Catholic beliefs. His early exposure to music began with piano lessons from his grandmother and later with prominent teachers."
+    },
+    {
+      "section": "Life",
+      "title": "Early Music Studies",
+      "summary": "At the age of 14, d'Indy delved into harmony studies under Albert Lavignac. By 16, he was introduced to Berlioz's orchestration, igniting his passion for composing.",
+      "year": 1865,
+      "location": "Paris",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "At the tender age of 14, d'Indy decided to dive into the deep end of harmony studies with Albert Lavignac. By the time he turned 16, he discovered Berlioz's orchestration, which ignited his passion for composing musical masterpieces."
+    },
+    {
+      "section": "Life",
+      "title": "Military Service",
+      "summary": "During the Franco-Prussian War, d'Indy enlisted in the National Guard. He quickly returned to music once hostilities ceased, illustrating his commitment to his craft even amid war.",
+      "year": 1870,
+      "location": "France",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "During the Franco-Prussian War, d'Indy decided that fighting in the National Guard was a great way to get his cardio in. But as soon as the hostilities ceased, he dashed back to his beloved music, illustrating his commitment to his craft even amid war!"
+    },
+    {
+      "section": "Life",
+      "title": "Conservatoire de Paris",
+      "summary": "D'Indy joined Franck's organ class at the Conservatoire de Paris in 1871 and remained there until 1875. This period was instrumental in shaping his musical skills and career.",
+      "year": 1871,
+      "location": "Paris",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "D'Indy joined Franck's organ class at the Conservatoire de Paris in 1871 and remained there until 1875, during which time he honed his musical skills so well that even the organ started considering him a maestro!"
+    },
+    {
+      "section": "Life",
+      "title": "First Performance",
+      "summary": "His first work performed was the Symphonie italienne, which garnered admiration from significant composers like Georges Bizet and Jules Massenet, marking the beginning of his recognition in the music world.",
+      "year": 1873,
+      "location": "Paris",
+      "emoji": "\ud83c\udfb5",
+      "fun_version": "His first work performed was the Symphonie italienne, which garnered admiration from significant composers like Georges Bizet and Jules Massenet. This marked the beginning of his recognition in the music world."
+    },
+    {
+      "section": "Life",
+      "title": "Marriage",
+      "summary": "Around 1874, d'Indy married Isabelle de Pampelonne, solidifying a personal milestone alongside his burgeoning career.",
+      "year": 1874,
+      "location": "France",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "Back in 1874, d'Indy decided to tie the knot with Isabelle de Pampelonne, solidifying a personal milestone alongside his burgeoning career. Guess he figured if he was going to hit all the right notes in his career, he might as well start hitting all the right notes at home too!"
+    },
+    {
+      "section": "Life",
+      "title": "Symphony Performance",
+      "summary": "In 1875, his symphony dedicated to J\u00e1nos Hunyadi was performed, further establishing his profile as a composer.",
+      "year": 1875,
+      "location": "France",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "In 1875, his symphony dedicated to J\u00e1nos Hunyadi was performed, further establishing his profile as a composer. It was so impressive that even the violins were trying to find their own solo careers!"
+    },
+    {
+      "section": "Life",
+      "title": "Exposure to Wagner",
+      "summary": "D'Indy attended the first production of Wagner's Ring cycle at Bayreuth in 1876. This experience profoundly influenced his musical direction and appreciation for Wagnerian opera.",
+      "year": 1876,
+      "location": "Bayreuth, Germany",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "D'Indy attended the first production of Wagner's Ring cycle at Bayreuth in 1876. This experience profoundly influenced his musical direction and his appreciation for Wagnerian opera, changing the course of his musical career forever."
+    },
+    {
+      "section": "Life",
+      "title": "Symphonic Ballad Premiere",
+      "summary": "In 1878, d'Indy's symphonic ballad La For\u00eat enchant\u00e9e was performed, showcasing his growing repertoire of orchestral music.",
+      "year": 1878,
+      "location": "France",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1878, d'Indy\u2019s symphonic ballad La For\u00eat enchant\u00e9e was performed, showcasing his growing repertoire of orchestral music, and people thought they were enchanted by the music\u2014little did they know it was just the violins trying to charm their socks off!"
+    },
+    {
+      "section": "Life",
+      "title": "President of the Soci\u00e9t\u00e9e nationale de musique",
+      "summary": "After Franck's death in 1890, d'Indy became the president of the Soci\u00e9t\u00e9e nationale, playing a key role in the evolution of French music in the society.",
+      "year": 1890,
+      "location": "France",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "After Franck's retirement from the living world in 1890, d'Indy decided to take the conductor's baton and became the head honcho of the Soci\u00e9t\u00e9e nationale. He played a key role in the evolution of French music in the society, jazzing it up along the way."
+    },
+    {
+      "section": "Life",
+      "title": "Founding of Schola Cantorum de Paris",
+      "summary": "In 1894, dissatisfied with the Conservatoire's teaching standard, d'Indy co-founded the Schola Cantorum de Paris, aiming to enhance music education in France.",
+      "year": 1894,
+      "location": "Paris",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1894, being fed up with the Conservatoire's teaching that was about as enlightening as a black hole, d'Indy decided to form the Schola Cantorum de Paris. His goal? To rescue music education in France from the depths of mediocrity!"
+    },
+    {
+      "section": "Works",
+      "title": "Study of Franck and Beethoven",
+      "summary": "D'Indy wrote influential studies on the lives and works of composers Franck and Beethoven, noted for their vivid portrayal and scholarly depth.",
+      "year": 1912,
+      "location": "France",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "D'Indy penned some seriously impressive studies about Franck and Beethoven, proving that even dead composers can inspire life-long discussions\u2014mostly about how to pronounce their names correctly! His work is noted for its vivid portrayal and scholarly depth."
+    },
+    {
+      "section": "Life",
+      "title": "Cultural Missions During WWI",
+      "summary": "During the First World War, d'Indy served in cultural missions to allied countries, reflecting his commitment to music and culture amid global conflict.",
+      "year": 1914,
+      "location": "Allied Countries",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "During the First World War, d'Indy found himself in a musical game of cultural 'Whack-a-Mole' across allied countries, reflecting his commitment to music and culture to keep spirits high during global chaos!"
+    },
+    {
+      "section": "Life",
+      "title": "Marriage to Caroline Janson",
+      "summary": "In 1920, d'Indy married Caroline Janson. This union reportedly led to a creative rebirth, evident in his later compositions, marking a significant personal and artistic renaissance.",
+      "year": 1920,
+      "location": "France",
+      "emoji": "\u2764\ufe0f",
+      "fun_version": "In 1920, d'Indy married Caroline Janson. This wasn't just any ordinary marriage; it was like a creative light bulb flashing on! Suddenly, he experienced a creative rebirth, composing music like he had just discovered espresso, marking a grand personal and artistic renaissance!"
+    },
+    {
+      "section": "Works",
+      "title": "Premiere of Le L\u00e9gende de Saint Christophe",
+      "summary": "D'Indy's music drama, based on themes from Gregorian chant, was premiered at the Paris Op\u00e9ra, showcasing his unique compositional style.",
+      "year": 1920,
+      "location": "Paris Op\u00e9ra",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "So, D'Indy decided to take the old Gregorian chants and throw them into a blender with some opera magic, resulting in a unique music drama that premiered at the Paris Op\u00e9ra. It's like a culinary experiment but for your ears!"
+    },
+    {
+      "section": "Works",
+      "title": "Editing of Monteverdi's L'incoronazione di Poppea",
+      "summary": "D'Indy played a significant role in reviving forgotten Baroque works by creating his own edition of Monteverdi's opera, enhancing the appreciation for early music.",
+      "year": 1922,
+      "location": "France",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "D'Indy decided that the Baroque era was too good to be left in the dusty attic of music history, so he strapped on his superhero cape and dove headfirst into reviving forgotten works like a musical scuba diver. He created his own edition of Monteverdi's opera, significantly enhancing the appreciation for early music."
+    },
+    {
+      "section": "Works",
+      "title": "Publication of Vivaldi's Cello Concerti",
+      "summary": "He edited and republished Antonio Vivaldi's sonatas for cello, contributing to the revival of Vivaldi's works, which were well-received in the music community.",
+      "year": 1922,
+      "location": "France",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Imagine a courageous editor donning a cape, swooping in to save Antonio Vivaldi's cello sonatas from the dusty archives of obscurity! With a flick of his quill and a dash of pizzazz, he republished those musical gems, contributing to the revival of Vivaldi's works, which were well-received in the music community. Suddenly, Vivaldi's sonatas were cooler than a cat wearing sunglasses at a summer concert!"
+    },
+    {
+      "section": "Life",
+      "title": "Death",
+      "summary": "Vincent d'Indy passed away on 2 December 1931 in Paris at the age of 80, leaving behind a rich legacy in the world of music.",
+      "year": 1931,
+      "location": "Paris",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Vincent d'Indy took his final bow on December 2, 1931, at the age of 80 in Paris. His rich musical legacy is so significant that even the ghosts of composers past are remixing his works at the local haunted symphony!"
+    }
+  ],
+  "works": [
+    {
+      "title": "3 Romances sans paroles, Op.1",
+      "imslp_url": "https://imslp.org/wiki/3_Romances_sans_paroles,_Op.1_(Indy,_Vincent_d')",
+      "year": 1869
+    },
+    {
+      "title": "Wallenstein, Op.12",
+      "imslp_url": "https://imslp.org/wiki/Wallenstein,_Op.12_(Indy,_Vincent_d')",
+      "year": 1870
+    },
+    {
+      "title": "Au galop, Op.11",
+      "imslp_url": "https://imslp.org/wiki/Au_galop,_Op.11_(Indy,_Vincent_d')",
+      "year": 1871
+    },
+    {
+      "title": "Clair de lune, Op.13",
+      "imslp_url": "https://imslp.org/wiki/Clair_de_lune,_Op.13_(Indy,_Vincent_d')",
+      "year": 1872
+    },
+    {
+      "title": "Madrigal, Op.4",
+      "imslp_url": "https://imslp.org/wiki/Madrigal,_Op.4_(Indy,_Vincent_d')",
+      "year": 1872
+    },
+    {
+      "title": "Attendez-moi sous l\u2019orme, Op.14",
+      "imslp_url": "https://imslp.org/wiki/Attendez-moi_sous_l\u2019orme,_Op.14_(Indy,_Vincent_d')",
+      "year": 1876
+    },
+    {
+      "title": "La for\u00eat enchant\u00e9e, Op.8",
+      "imslp_url": "https://imslp.org/wiki/La_for\u00eat_enchant\u00e9e,_Op.8_(Indy,_Vincent_d')",
+      "year": 1878
+    },
+    {
+      "title": "Piano Quartet, Op.7",
+      "imslp_url": "https://imslp.org/wiki/Piano_Quartet,_Op.7_(Indy,_Vincent_d')",
+      "year": 1878
+    },
+    {
+      "title": "La Chevauch\u00e9e du Cid, Op.11",
+      "imslp_url": "https://imslp.org/wiki/La_Chevauch\u00e9e_du_Cid,_Op.11_(Indy,_Vincent_d')",
+      "year": 1879
+    },
+    {
+      "title": "Le chant de la cloche, Op.18",
+      "imslp_url": "https://imslp.org/wiki/Le_chant_de_la_cloche,_Op.18_(Indy,_Vincent_d')",
+      "year": 1879
+    },
+    {
+      "title": "Petite Sonate dans la Forme Classique, Op.9",
+      "imslp_url": "https://imslp.org/wiki/Petite_Sonate_dans_la_Forme_Classique,_Op.9_(Indy,_Vincent_d')",
+      "year": 1880
+    },
+    {
+      "title": "Plainte de Th\u00e9cla, Op.10",
+      "imslp_url": "https://imslp.org/wiki/Plainte_de_Th\u00e9cla,_Op.10_(Indy,_Vincent_d')",
+      "year": 1880
+    },
+    {
+      "title": "Po\u00e8me des Montagnes, Op.15",
+      "imslp_url": "https://imslp.org/wiki/Po\u00e8me_des_Montagnes,_Op.15_(Indy,_Vincent_d')",
+      "year": 1881
+    },
+    {
+      "title": "4 Pi\u00e8ces, Op.16",
+      "imslp_url": "https://imslp.org/wiki/4_Pi\u00e8ces,_Op.16_(Indy,_Vincent_d')",
+      "year": 1882
+    },
+    {
+      "title": "Helv\u00e9tia, Op.17",
+      "imslp_url": "https://imslp.org/wiki/Helv\u00e9tia,_Op.17_(Indy,_Vincent_d')",
+      "year": 1882
+    },
+    {
+      "title": "Lied for Cello and Orchestra, Op.19",
+      "imslp_url": "https://imslp.org/wiki/Lied_for_Cello_and_Orchestra,_Op.19_(Indy,_Vincent_d')",
+      "year": 1884
+    },
+    {
+      "title": "Saugefleurie, Op.21",
+      "imslp_url": "https://imslp.org/wiki/Saugefleurie,_Op.21_(Indy,_Vincent_d')",
+      "year": 1884
+    },
+    {
+      "title": "Cantate Domino, Op.22",
+      "imslp_url": "https://imslp.org/wiki/Cantate_Domino,_Op.22_(Indy,_Vincent_d')",
+      "year": 1885
+    },
+    {
+      "title": "Nocturne, Op.26",
+      "imslp_url": "https://imslp.org/wiki/Nocturne,_Op.26_(Indy,_Vincent_d')",
+      "year": 1886
+    },
+    {
+      "title": "Suite dans le style ancien, Op.24",
+      "imslp_url": "https://imslp.org/wiki/Suite_dans_le_style_ancien,_Op.24_(Indy,_Vincent_d')",
+      "year": 1886
+    },
+    {
+      "title": "Symphonie sur un Chant Montagnard Fran\u00e7ais, Op.25",
+      "imslp_url": "https://imslp.org/wiki/Symphonie_sur_un_Chant_Montagnard_Fran\u00e7ais,_Op.25_(Indy,_Vincent_d')",
+      "year": 1886
+    },
+    {
+      "title": "Promenade, Op.27",
+      "imslp_url": "https://imslp.org/wiki/Promenade,_Op.27_(Indy,_Vincent_d')",
+      "year": 1887
+    },
+    {
+      "title": "Schumanniana, Op.30",
+      "imslp_url": "https://imslp.org/wiki/Schumanniana,_Op.30_(Indy,_Vincent_d')",
+      "year": 1887
+    },
+    {
+      "title": "Serenade and Waltz, Op.28",
+      "imslp_url": "https://imslp.org/wiki/Serenade_and_Waltz,_Op.28_(Indy,_Vincent_d')",
+      "year": 1887
+    },
+    {
+      "title": "Trio for Piano, Clarinet (or Violin) and Cello, Op.29",
+      "imslp_url": "https://imslp.org/wiki/Trio_for_Piano,_Clarinet_(or_Violin)_and_Cello,_Op.29_(Indy,_Vincent_d')",
+      "year": 1887
+    },
+    {
+      "title": "Fantaisie sur des Th\u00e8mes Populaires Fran\u00e7ais, Op.31",
+      "imslp_url": "https://imslp.org/wiki/Fantaisie_sur_des_Th\u00e8mes_Populaires_Fran\u00e7ais,_Op.31_(Indy,_Vincent_d')",
+      "year": 1888
+    },
+    {
+      "title": "Sur la mer, Op.32",
+      "imslp_url": "https://imslp.org/wiki/Sur_la_mer,_Op.32_(Indy,_Vincent_d')",
+      "year": 1888
+    },
+    {
+      "title": "Fervaal, Op.40",
+      "imslp_url": "https://imslp.org/wiki/Fervaal,_Op.40_(Indy,_Vincent_d')",
+      "year": 1889
+    },
+    {
+      "title": "Sainte Marie Magdeleine, Op.23",
+      "imslp_url": "https://imslp.org/wiki/Sainte_Marie_Magdeleine,_Op.23_(Indy,_Vincent_d')",
+      "year": 1889
+    },
+    {
+      "title": "Tableaux de Voyage, Op.33",
+      "imslp_url": "https://imslp.org/wiki/Tableaux_de_Voyage,_Op.33_(Indy,_Vincent_d')",
+      "year": 1889
+    },
+    {
+      "title": "Tableaux de Voyage, Op.36",
+      "imslp_url": "https://imslp.org/wiki/Tableaux_de_Voyage,_Op.36_(Indy,_Vincent_d')",
+      "year": 1889
+    },
+    {
+      "title": "Karadec, Op.34",
+      "imslp_url": "https://imslp.org/wiki/Karadec,_Op.34_(Indy,_Vincent_d')",
+      "year": 1890
+    },
+    {
+      "title": "String Quartet No.1, Op.35",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1,_Op.35_(Indy,_Vincent_d')",
+      "year": 1890
+    },
+    {
+      "title": "Pr\u00e9lude et Petit Canon, Op.38",
+      "imslp_url": "https://imslp.org/wiki/Pr\u00e9lude_et_Petit_Canon,_Op.38_(Indy,_Vincent_d')",
+      "year": 1893
+    },
+    {
+      "title": "Deus Israel, Op.41",
+      "imslp_url": "https://imslp.org/wiki/Deus_Israel,_Op.41_(Indy,_Vincent_d')",
+      "year": 1896
+    },
+    {
+      "title": "Istar, Op.42",
+      "imslp_url": "https://imslp.org/wiki/Istar,_Op.42_(Indy,_Vincent_d')",
+      "year": 1896
+    },
+    {
+      "title": "Lied maritime, Op.43",
+      "imslp_url": "https://imslp.org/wiki/Lied_maritime,_Op.43_(Indy,_Vincent_d')",
+      "year": 1896
+    },
+    {
+      "title": "String Quartet No.2, Op.45",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2,_Op.45_(Indy,_Vincent_d')",
+      "year": 1897
+    },
+    {
+      "title": "Chanson et danses, Op.50",
+      "imslp_url": "https://imslp.org/wiki/Chanson_et_danses,_Op.50_(Indy,_Vincent_d')",
+      "year": 1898
+    },
+    {
+      "title": "L'\u00e9tranger, Op.53",
+      "imslp_url": "https://imslp.org/wiki/L'\u00e9tranger,_Op.53_(Indy,_Vincent_d')",
+      "year": 1898
+    },
+    {
+      "title": "M\u00e9d\u00e9e, Op.47",
+      "imslp_url": "https://imslp.org/wiki/M\u00e9d\u00e9e,_Op.47_(Indy,_Vincent_d')",
+      "year": 1898
+    },
+    {
+      "title": "V\u00eapres du commun des martyrs, Op.51",
+      "imslp_url": "https://imslp.org/wiki/V\u00eapres_du_commun_des_martyrs,_Op.51_(Indy,_Vincent_d')",
+      "year": 1899
+    },
+    {
+      "title": "Symphony No.2 in B-flat major, Op.57",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.2_in_B-flat_major,_Op.57_(Indy,_Vincent_d')",
+      "year": 1902
+    },
+    {
+      "title": "Choral vari\u00e9, Op.55",
+      "imslp_url": "https://imslp.org/wiki/Choral_vari\u00e9,_Op.55_(Indy,_Vincent_d')",
+      "year": 1903
+    },
+    {
+      "title": "Marche du 76\u00e8me r\u00e9giment d\u2019infanterie, Op.54",
+      "imslp_url": "https://imslp.org/wiki/Marche_du_76\u00e8me_r\u00e9giment_d\u2019infanterie,_Op.54_(Indy,_Vincent_d')",
+      "year": 1903
+    },
+    {
+      "title": "Mirage, Op.56",
+      "imslp_url": "https://imslp.org/wiki/Mirage,_Op.56_(Indy,_Vincent_d')",
+      "year": 1903
+    },
+    {
+      "title": "Violin Sonata, Op.59",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata,_Op.59_(Indy,_Vincent_d')",
+      "year": 1903
+    },
+    {
+      "title": "Jour d'\u00e9t\u00e9 \u00e0 la montagne, Op.61",
+      "imslp_url": "https://imslp.org/wiki/Jour_d'\u00e9t\u00e9_\u00e0_la_montagne,_Op.61_(Indy,_Vincent_d')",
+      "year": 1905
+    },
+    {
+      "title": "Souvenirs, Op.62",
+      "imslp_url": "https://imslp.org/wiki/Souvenirs,_Op.62_(Indy,_Vincent_d')",
+      "year": 1906
+    },
+    {
+      "title": "Piano Sonata, Op.63",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata,_Op.63_(Indy,_Vincent_d')",
+      "year": 1907
+    },
+    {
+      "title": "13 Pi\u00e8ces Br\u00e8ves, Op.68",
+      "imslp_url": "https://imslp.org/wiki/13_Pi\u00e8ces_Br\u00e8ves,_Op.68_(Indy,_Vincent_d')",
+      "year": 1908
+    },
+    {
+      "title": "La l\u00e9gende de Saint-Christophe, Op.67",
+      "imslp_url": "https://imslp.org/wiki/La_l\u00e9gende_de_Saint-Christophe,_Op.67_(Indy,_Vincent_d')",
+      "year": 1908
+    },
+    {
+      "title": "Menuet sur le nom d\u2019Haydn, Op.65",
+      "imslp_url": "https://imslp.org/wiki/Menuet_sur_le_nom_d\u2019Haydn,_Op.65_(Indy,_Vincent_d')",
+      "year": 1909
+    },
+    {
+      "title": "Pr\u00e9lude pour Grand Orgue, Op.66",
+      "imslp_url": "https://imslp.org/wiki/Pr\u00e9lude_pour_Grand_Orgue,_Op.66_(Indy,_Vincent_d')",
+      "year": 1911
+    },
+    {
+      "title": "Symphony No.3 in D major, Op.70",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.3_in_D_major,_Op.70_(Indy,_Vincent_d')",
+      "year": 1916
+    },
+    {
+      "title": "7 Chants de terroir, Op.73",
+      "imslp_url": "https://imslp.org/wiki/7_Chants_de_terroir,_Op.73_(Indy,_Vincent_d')",
+      "year": 1918
+    },
+    {
+      "title": "Sarabande et menuet, Op.72",
+      "imslp_url": "https://imslp.org/wiki/Sarabande_et_menuet,_Op.72_(Indy,_Vincent_d')",
+      "year": 1918
+    },
+    {
+      "title": "Pour les Enfants de tout \u00e2ge, Op.74",
+      "imslp_url": "https://imslp.org/wiki/Pour_les_Enfants_de_tout_\u00e2ge,_Op.74_(Indy,_Vincent_d')",
+      "year": 1919
+    },
+    {
+      "title": "Po\u00e8me des rivages, Op.77",
+      "imslp_url": "https://imslp.org/wiki/Po\u00e8me_des_rivages,_Op.77_(Indy,_Vincent_d')",
+      "year": 1919
+    },
+    {
+      "title": "Le r\u00eave de Cinyras, Op.80",
+      "imslp_url": "https://imslp.org/wiki/Le_r\u00eave_de_Cinyras,_Op.80_(Indy,_Vincent_d')",
+      "year": 1922
+    },
+    {
+      "title": "Cello Sonata, Op.84",
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata,_Op.84_(Indy,_Vincent_d')",
+      "year": 1924
+    },
+    {
+      "title": "Piano Quintet, Op.81",
+      "imslp_url": "https://imslp.org/wiki/Piano_Quintet,_Op.81_(Indy,_Vincent_d')",
+      "year": 1924
+    },
+    {
+      "title": "Contes de F\u00e9es, Op.86",
+      "imslp_url": "https://imslp.org/wiki/Contes_de_F\u00e9es,_Op.86_(Indy,_Vincent_d')",
+      "year": 1925
+    },
+    {
+      "title": "Diptyque m\u00e9diterran\u00e9en, Op.87",
+      "imslp_url": "https://imslp.org/wiki/Diptyque_m\u00e9diterran\u00e9en,_Op.87_(Indy,_Vincent_d')",
+      "year": 1925
+    },
+    {
+      "title": "Th\u00e8me Vari\u00e9, Fugue et Chanson, Op.85",
+      "imslp_url": "https://imslp.org/wiki/Th\u00e8me_Vari\u00e9,_Fugue_et_Chanson,_Op.85_(Indy,_Vincent_d')",
+      "year": 1925
+    },
+    {
+      "title": "Concert for Piano, Flute, Cello and Strings, Op.89",
+      "imslp_url": "https://imslp.org/wiki/Concert_for_Piano,_Flute,_Cello_and_Strings,_Op.89_(Indy,_Vincent_d')",
+      "year": 1926
+    },
+    {
+      "title": "6 Chants Populaires Fran\u00e7ais (Set 1), Op.90",
+      "imslp_url": "https://imslp.org/wiki/6_Chants_Populaires_Fran\u00e7ais_(Set_1),_Op.90_(Indy,_Vincent_d')",
+      "year": 1927
+    },
+    {
+      "title": "String Sextet, Op.92",
+      "imslp_url": "https://imslp.org/wiki/String_Sextet,_Op.92_(Indy,_Vincent_d')",
+      "year": 1927
+    },
+    {
+      "title": "Suite en Parties, Op.91",
+      "imslp_url": "https://imslp.org/wiki/Suite_en_Parties,_Op.91_(Indy,_Vincent_d')",
+      "year": 1927
+    },
+    {
+      "title": "6 Paraphrases sur des chansons enfantines de France, Op.95",
+      "imslp_url": "https://imslp.org/wiki/6_Paraphrases_sur_des_chansons_enfantines_de_France,_Op.95_(Indy,_Vincent_d')",
+      "year": 1928
+    },
+    {
+      "title": "String Quartet No.3, Op.96",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.3,_Op.96_(Indy,_Vincent_d')",
+      "year": 1928
+    },
+    {
+      "title": "Piano Trio, Op.98",
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio,_Op.98_(Indy,_Vincent_d')",
+      "year": 1929
+    },
+    {
+      "title": "6 Chants Populaires Fran\u00e7ais (Set 2), Op.100",
+      "imslp_url": "https://imslp.org/wiki/6_Chants_Populaires_Fran\u00e7ais_(Set_2),_Op.100_(Indy,_Vincent_d')",
+      "year": 1930
+    },
+    {
+      "title": "Fantaisie sur un Vieil Air de Ronde Fran\u00e7aise, Op.99",
+      "imslp_url": "https://imslp.org/wiki/Fantaisie_sur_un_Vieil_Air_de_Ronde_Fran\u00e7aise,_Op.99_(Indy,_Vincent_d')",
+      "year": 1930
+    }
+  ]
+}

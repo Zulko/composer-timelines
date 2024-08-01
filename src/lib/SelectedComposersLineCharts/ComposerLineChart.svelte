@@ -4,12 +4,13 @@
   export let composerData;
   export let xMin;
   export let xMax;
+  console.log(composerData);
   let chartOptions = {};
 
   $: {
     // Count events and works by year
     let eventsByYear = countByYear(composerData.events);
-    let worksByYear = countByYear(composerData.compositions);
+    let worksByYear = countByYear(composerData.works);
 
     // Extract unique years and sort them
     let allYearsSet = new Set([

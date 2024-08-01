@@ -1,123 +1,211 @@
 {
   "full_name": "Manuel de Falla",
   "first_names": "Manuel",
-  "last_name": "de Falla",
+  "last_name": "de Falla y Matheu",
   "birth_year": 1876,
   "death_year": 1946,
   "wikipedia_url": "https://en.wikipedia.org/wiki/Manuel_de_Falla",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Manuel de Falla pops into the world in C\u00e1diz\u2014just what Spain needed, another future musical genius shaking things up! His parents surely had no idea they were in for a ride when they named him Manuel Mar\u00eda de los Dolores.",
+      "section": "Biography",
+      "title": "Birth",
+      "summary": "Manuel de Falla was born Manuel Mar\u00eda de los Dolores Falla y Matheu in C\u00e1diz. He was the son of Jos\u00e9 Mar\u00eda Falla and Mar\u00eda Jes\u00fas Matheu.",
       "year": 1876,
-      "city": "C\u00e1diz",
-      "country": "Spain"
+      "location": "C\u00e1diz",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Manuel de Falla, also known as Manuel Mar\u00eda de los Dolores Falla y Matheu (that\u2019s a mouthful, right?), was born in C\u00e1diz. His parents, Jos\u00e9 Mar\u00eda Falla and Mar\u00eda Jes\u00fas Matheu, probably had an all-star team picked out for a classical music showdown! The world simply needed to know a little more about this family and their musical legacy!"
     },
     {
-      "event": "Piano Lessons",
-      "summary": "At the tender age of 13, Falla dives headfirst into piano lessons and starts crafting melodies while trying to juggle his teenage angst and budding literary ambitions, creating magazines along the way. Who knew sonatas and sass could mix?",
-      "year": 1889,
-      "city": "C\u00e1diz",
-      "country": "Spain"
+      "section": "Biography",
+      "title": "First Works Premiere",
+      "summary": "In 1899, Falla premiered several of his first works, including Romanza para violonchelo y piano and Serenata andaluza para viol\u00edn y piano, marking his entry into the world of composition.",
+      "year": 1899,
+      "location": "Madrid",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Falla took a leap into the world of composition in 1899, marking his entry into this melodious realm! He whipped out his cello and piano, presenting 'Romanza para violonchelo y piano' and 'Serenata andaluza para viol\u00edn y piano' like they were his shiny new toys, and it was time for a musical showdown!"
     },
     {
-      "event": "Madrid Move",
-      "summary": "Falla relocates to bustling Madrid, where he dives into composition and piano studies, probably hoping to outshine his peers\u2014spoiler alert: he does! He quickly becomes the talk of the town after grabbing first prize in a piano competition\u2014go, Manuel!",
-      "year": 1900,
-      "city": "Madrid",
-      "country": "Spain"
+      "section": "Biography",
+      "title": "Piano Competition Award",
+      "summary": "Falla was awarded the first prize at the piano competition at his school of music by unanimous vote, showcasing his talent early in his career.",
+      "year": 1899,
+      "location": "Madrid",
+      "emoji": "\ud83e\udd47",
+      "fun_version": "Falla was awarded the first prize at the piano competition at his school of music by unanimous vote, proving that he can tickle the ivories better than a cat on a hot tin roof!"
     },
     {
-      "event": "La vida breve",
-      "summary": "After years of hard work and a sprinkle of revisions, Falla whips up a one-act opera, La vida breve, winning him accolades and a cash prize. Unfortunately, the promised grand production falls flat\u2014talk about a dramatic twist!",
-      "year": 1905,
-      "city": "Madrid",
-      "country": "Spain"
+      "section": "Biography",
+      "title": "Spanish Royal Grant",
+      "summary": "In 1908, Falla received a royal grant from King Alfonso XIII, allowing him to continue his work in Paris, highlighting the recognition he had gained during his career.",
+      "year": 1908,
+      "location": "Paris",
+      "emoji": "\ud83d\udc51",
+      "fun_version": "Falla received a royal grant from King Alfonso XIII in 1908, allowing him to continue his work in Paris, highlighting the recognition he had gained during his career."
     },
     {
-      "event": "Parisian Sojourn",
-      "summary": "Falla trades in his flamenco for French flair, moving to Paris to rub elbows with the likes of Ravel and Stravinsky. He feels the excitement of Parisian concerts while trying to figure out how to fit in with the avant-garde crowd.",
-      "year": 1907,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "First Performance of La vida breve",
-      "summary": "Finally, after all the wait, Falla's La vida breve sees the light of day in Nice\u2014a true triumph! One can only imagine the sigh of relief he must have heaved! Finally, a standing ovation for all those years of hard work.",
+      "section": "Biography",
+      "title": "Premiere of La vida breve",
+      "summary": "Falla's first important opera, La vida breve, won him the first prize in a musical competition, although its premiere was delayed until 1913.",
       "year": 1913,
-      "city": "Nice",
-      "country": "France"
+      "location": "Madrid",
+      "emoji": "\ud83c\udfc6",
+      "fun_version": "Falla's first attempt at an opera, 'La vida breve', was such a showstopper that it snagged the first prize in a musical competition! But don\u2019t pop the champagne just yet \u2013 they kept us all waiting until 1913 to see if it was actually worth the hype!"
     },
     {
-      "event": "Return to Madrid",
-      "summary": "With the onset of WWI forcing him back to Madrid, Falla returns to a city less glamorous than before (thanks, world events!). But hey, silver lining: he dives into composing some of his best-known works amid the chaos!",
+      "section": "Biography",
+      "title": "Premiere of Siete canciones populares espa\u00f1olas",
+      "summary": "Falla wrote and finished the Siete canciones populares espa\u00f1olas during his time in Paris, contributing to his reputation as a significant composer of Spanish music.",
       "year": 1914,
-      "city": "Madrid",
-      "country": "Spain"
+      "location": "Paris",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "So there was Falla, armed with a quill in one hand and a baguette in the other, feverishly composing the Siete canciones populares espa\u00f1olas in Paris. Because what's more fun than becoming a significant composer of Spanish music while dodging tourists?"
     },
     {
-      "event": "Granada Period",
-      "summary": "Falla finds solace in the beautiful city of Granada, where he organizes a flamenco contest that turns into a musical love affair\u2014how romantic! Here, he conceives works showcasing the charms of Spanish folk influences and a hint of elegance.",
-      "year": 1921,
-      "city": "Granada",
-      "country": "Spain"
+      "section": "Biography",
+      "title": "Granada Period",
+      "summary": "Falla lived in Granada from 1921 to 1939, where he wrote several major works, including the puppet opera El retablo de maese Pedro, showcasing his devotion to Spanish themes.",
+      "year": 1923,
+      "location": "Granada",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Falla spent his time in Granada between 1921 and 1939. During this time, he composed several major works, including the puppet opera El retablo de maese Pedro, showcasing his devotion to Spanish themes. Because what says 'I love Spanish culture' better than a bunch of wood puppets putting on a show? Talk about getting stringed along!"
     },
     {
-      "event": "Move to Argentina",
-      "summary": "After fleeing to Argentina post-Civil War, Falla continues composing, proving that distance makes the heart grow fonder\u2014even for unfinished works! He sees the bright lights of Buenos Aires while still dreaming of his beloved Spain.",
+      "section": "Honours",
+      "title": "Honours 1935",
+      "summary": "Manuel de Falla was honored as an Associate of the Royal Academy of Science, Letters and Fine Arts of Belgium, recognizing his contributions to music and culture.",
+      "year": 1935,
+      "location": "Belgium",
+      "emoji": "\ud83c\udfc5",
+      "fun_version": "Manuel de Falla didn\u2019t just stop by the Royal Academy of Science, Letters and Fine Arts of Belgium; they straight-up knighted him as an Associate, recognizing his awesome contributions to music and culture! Who knew making music could get you a fancy title?"
+    },
+    {
+      "section": "Biography",
+      "title": "Exile in Argentina",
+      "summary": "Following the Spanish Civil War, Falla moved to Argentina in 1939, where he continued to work on his unfinished cantata Atl\u00e1ntida and premiered his Suite Homenajes.",
       "year": 1939,
-      "city": "Buenos Aires",
-      "country": "Argentina"
+      "location": "Argentina",
+      "emoji": "\ud83c\udf0d",
+      "fun_version": "Following the Spanish Civil War, Falla moved to Argentina in 1939, where he continued to work on his unfinished cantata Atl\u00e1ntida and managed to premiere his Suite Homenajes, which was a hit!"
     },
     {
-      "event": "Death",
-      "summary": "Falla takes his final bow in Alta Gracia, saying adios to the world just shy of his 70th birthday. Surely, the music in him lives on, while he leaves behind a well-deserved legacy of compositions to keep the world dancing!",
+      "section": "Honours",
+      "title": "Honours 1940",
+      "summary": "He received the title of Knight Grand Cross of the Order of Alfonso X the Wise, an acknowledgment of his significant impact and achievements in the arts.",
+      "year": 1940,
+      "location": "Spain",
+      "emoji": "\ud83c\udfc5",
+      "fun_version": "He was awarded the illustrious title of Knight Grand Cross of the Order of Alfonso X the Wise, an acknowledgment of his significant impact and achievements in the arts."
+    },
+    {
+      "section": "Biography",
+      "title": "Death",
+      "summary": "Manuel de Falla died of cardiac arrest, leaving behind a legacy that would influence generations and requesting to be buried in the Sierras de C\u00f3rdoba in Argentina.",
       "year": 1946,
-      "city": "Alta Gracia",
-      "country": "Argentina"
-    },
-    {
-      "event": "First Composition",
-      "summary": "Falla completed his first piano sonata, proving that his musical skills exceeded those of his childhood friends, who mostly just played tag.",
-      "year": 1897,
-      "city": "Cadiz",
-      "country": "Spain"
-    },
-    {
-      "event": "Move to Paris",
-      "summary": "Falla moved to Paris, rubbing shoulders with greats while making enough noise to get kicked out of a caf\u00e9 at least once.",
-      "year": 1907,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "El amor brujo Premieres",
-      "summary": "His ballet 'El amor brujo' premiered, charming audiences with magical dances and the kind of flames only a 'Ritual Fire Dance' could conjure.",
-      "year": 1915,
-      "city": "Madrid",
-      "country": "Spain"
-    },
-    {
-      "event": "The Three-Cornered Hat Complete",
-      "summary": "Falla completed 'The Three-Cornered Hat', a masterpiece which made even triangular hats fashionable again.",
-      "year": 1919,
-      "city": "Madrid",
-      "country": "Spain"
-    },
-    {
-      "event": "Harpsichord Concerto",
-      "summary": "He wrote his Harpsichord Concerto, showcasing the instrument's charming quirks while making most people question their knowledge of baroque instruments.",
-      "year": 1926,
-      "city": "Madrid",
-      "country": "Spain"
-    },
-    {
-      "event": "Return to Spain",
-      "summary": "After years abroad, Falla returned to Spain, perhaps to reconnect with his roots, or maybe just to enjoy some good paella.",
-      "year": 1939,
-      "city": "Granada",
-      "country": "Spain"
+      "location": "Alta Gracia, Argentina",
+      "emoji": "\ud83d\udd4a\ufe0f",
+      "fun_version": "Manuel de Falla decided to play hide and seek with cardiac arrest; his legacy is still celebrating, influencing generations, while he requested a cozy burial spot in the Sierras de C\u00f3rdoba in Argentina \u2013 probably hoping for a permanent vacation!"
     }
   ],
-  "compositions": []
+  "works": [
+    {
+      "title": "Nocturno",
+      "imslp_url": "https://imslp.org/wiki/Nocturno_(Falla,_Manuel_de)",
+      "year": 1896
+    },
+    {
+      "title": "Serenata andaluza",
+      "imslp_url": "https://imslp.org/wiki/Serenata_andaluza_(Falla,_Manuel_de)",
+      "year": 1900
+    },
+    {
+      "title": "La vida breve",
+      "imslp_url": "https://imslp.org/wiki/La_vida_breve_(Falla,_Manuel_de)",
+      "year": 1904
+    },
+    {
+      "title": "Pi\u00e8ces espagnoles",
+      "imslp_url": "https://imslp.org/wiki/Pi\u00e8ces_espagnoles_(Falla,_Manuel_de)",
+      "year": 1906
+    },
+    {
+      "title": "3 M\u00e9lodies",
+      "imslp_url": "https://imslp.org/wiki/3_M\u00e9lodies_(Falla,_Manuel_de)",
+      "year": 1909
+    },
+    {
+      "title": "Noches en los jardines de Espa\u00f1a",
+      "imslp_url": "https://imslp.org/wiki/Noches_en_los_jardines_de_Espa\u00f1a_(Falla,_Manuel_de)",
+      "year": 1909
+    },
+    {
+      "title": "7 Canciones populares espa\u00f1olas",
+      "imslp_url": "https://imslp.org/wiki/7_Canciones_populares_espa\u00f1olas_(Falla,_Manuel_de)",
+      "year": 1914
+    },
+    {
+      "title": "El amor brujo",
+      "imslp_url": "https://imslp.org/wiki/El_amor_brujo_(Falla,_Manuel_de)",
+      "year": 1914
+    },
+    {
+      "title": "El sombrero de tres picos, ballet",
+      "imslp_url": "https://imslp.org/wiki/El_sombrero_de_tres_picos,_ballet_(Falla,_Manuel_de)",
+      "year": 1917
+    },
+    {
+      "title": "El retablo de maese Pedro",
+      "imslp_url": "https://imslp.org/wiki/El_retablo_de_maese_Pedro_(Falla,_Manuel_de)",
+      "year": 1919
+    },
+    {
+      "title": "El sombrero de tres picos, Suite No.1",
+      "imslp_url": "https://imslp.org/wiki/El_sombrero_de_tres_picos,_Suite_No.1_(Falla,_Manuel_de)",
+      "year": 1919
+    },
+    {
+      "title": "Fantas\u00eda b\u00e9tica",
+      "imslp_url": "https://imslp.org/wiki/Fantas\u00eda_b\u00e9tica_(Falla,_Manuel_de)",
+      "year": 1919
+    },
+    {
+      "title": "Homenaje",
+      "imslp_url": "https://imslp.org/wiki/Homenaje_(Falla,_Manuel_de)",
+      "year": 1920
+    },
+    {
+      "title": "El sombrero de tres picos, Suite No.2",
+      "imslp_url": "https://imslp.org/wiki/El_sombrero_de_tres_picos,_Suite_No.2_(Falla,_Manuel_de)",
+      "year": 1921
+    },
+    {
+      "title": "Fanfare pour une f\u00eate",
+      "imslp_url": "https://imslp.org/wiki/Fanfare_pour_une_f\u00eate_(Falla,_Manuel_de)",
+      "year": 1921
+    },
+    {
+      "title": "Harpsichord Concerto",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_(Falla,_Manuel_de)",
+      "year": 1923
+    },
+    {
+      "title": "Psych\u00e9",
+      "imslp_url": "https://imslp.org/wiki/Psych\u00e9_(Falla,_Manuel_de)",
+      "year": 1924
+    },
+    {
+      "title": "El gran teatro del mundo",
+      "imslp_url": "https://imslp.org/wiki/El_gran_teatro_del_mundo_(Falla,_Manuel_de)",
+      "year": 1927
+    },
+    {
+      "title": "Soneto a Cordoba",
+      "imslp_url": "https://imslp.org/wiki/Soneto_a_Cordoba_(Falla,_Manuel_de)",
+      "year": 1927
+    },
+    {
+      "title": "Pour le tombeau de Paul Dukas",
+      "imslp_url": "https://imslp.org/wiki/Pour_le_tombeau_de_Paul_Dukas_(Falla,_Manuel_de)",
+      "year": 1935
+    }
+  ]
 }

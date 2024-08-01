@@ -7,103 +7,140 @@
   "wikipedia_url": "https://en.wikipedia.org/wiki/Zolt\u00e1n_Kod\u00e1ly",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Born in Kecskem\u00e9t, Hungary, where he probably had more dreams than toys, little did anyone know that he would grow up to be a music legend.",
+      "section": "Life",
+      "title": "Birth",
+      "summary": "Zolt\u00e1n Kod\u00e1ly was born in Kecskem\u00e9t, Hungary. He showed an early interest in music, learning to play the violin as a child.",
       "year": 1882,
-      "city": "Kecskem\u00e9t",
-      "country": "Hungary"
+      "location": "Kecskem\u00e9t, Hungary",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "A little boy named Zolt\u00e1n Kod\u00e1ly was born in Kecskem\u00e9t, Hungary. Even as a child, he showed an early interest in music, deciding that playing with toys was overrated and opting for the violin instead, probably because his parents promised him he could serenade all the cute kids at school. Ah, the sweet sounds of childhood!"
     },
     {
-      "event": "Started Music Education",
-      "summary": "Kod\u00e1ly got a double whammy by enrolling in the University of Budapest's Department of Languages while also taking composition classes at the Royal Hungarian Academy of Music. It was like multitasking before it was fashionable!",
+      "section": "Life",
+      "title": "University Studies",
+      "summary": "In 1900, Kod\u00e1ly enrolled in the Department of Languages at the University of Budapest while simultaneously attending Hans von K\u00f6ssler's composition class at the Royal Hungarian Academy of Music.",
       "year": 1900,
-      "city": "Budapest",
-      "country": "Hungary"
+      "location": "Budapest, Hungary",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "In 1900, Kod\u00e1ly decided to multitask like a pro. He took a crash course in languages at the University of Budapest, all while juggling the melodies and madness of Hans von K\u00f6ssler's composition class at the Royal Hungarian Academy of Music\u2014talk about being cultured and musically caffeinated!"
     },
     {
-      "event": "Studied in Paris",
-      "summary": "Keen on international exposure, he decided to study in Paris with Charles Widor. One can only imagine the croissants and music he indulged in!",
-      "year": 1901,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Folk Song Collection",
-      "summary": "Venturing into remote villages to collect songs, Kod\u00e1ly recorded them on phonograph cylinders. A bit like an early music DJ, he was dropping beats from the countryside!",
+      "section": "Life",
+      "title": "Folksong Collecting",
+      "summary": "In 1905, he began visiting remote villages to collect songs, recording them on phonograph cylinders, showcasing his dedication to preserving Hungarian folk music.",
       "year": 1905,
-      "city": "Various villages",
-      "country": "Hungary"
+      "location": "Hungary",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1905, he embarked on a grand quest to visit remote villages, not just for the scenery, but to collect songs! He recorded them on phonograph cylinders, showcasing his dedication to preserving Hungarian folk music\u2014because who wouldn't want to ensure the future generations could awkwardly dance to century-old songs?"
     },
     {
-      "event": "Thesis on Hungarian Folk Song",
-      "summary": "He wrote a thesis titled 'Strophic Construction in Hungarian Folksong' and probably threw in some delightful folk anecdotes that made his professors chuckle.",
+      "section": "Life",
+      "title": "Friendship with Bart\u00f3k",
+      "summary": "At around the same time, Kod\u00e1ly met fellow composer B\u00e9la Bart\u00f3k, mentoring him in folk song collecting, which established a lifelong friendship between the two.",
       "year": 1906,
-      "city": "Budapest",
-      "country": "Hungary"
+      "location": "Hungary",
+      "emoji": "\ud83e\udd1d",
+      "fun_version": "At the same time that Kod\u00e1ly was busy composing, he met fellow composer B\u00e9la Bart\u00f3k and decided to mentor him in folk song collecting. This invaluable partnership led to a lifelong friendship between the two maestros!"
     },
     {
-      "event": "First Major Success",
-      "summary": "Kod\u00e1ly finally hit the big time with the premiere of 'Psalmus Hungaricus', marking his arrival on the concert stage. It was his 'surprise, I'm here!' moment.",
+      "section": "Life",
+      "title": "Thesis on Folk Song",
+      "summary": "In 1906, Kod\u00e1ly wrote a significant thesis entitled 'Strophic Construction in Hungarian Folksong', contributing to the academic study of Hungarian folk music.",
+      "year": 1906,
+      "location": "Hungary",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1906, Kod\u00e1ly penned a significant thesis entitled 'Strophic Construction in Hungarian Folksong', a piece so influential it could make even a long-dead folk musician tip their hat! This academic wonder contributes greatly to the study of Hungarian folk music and is like the secret recipe for goulash, but for understanding melodies instead!"
+    },
+    {
+      "section": "Life",
+      "title": "First Major Success",
+      "summary": "His major public breakthrough came in 1923 when his piece 'Psalmus Hungaricus' premiered at a concert in celebration of the fiftieth anniversary of the union of Buda and Pest.",
       "year": 1923,
-      "city": "Budapest",
-      "country": "Hungary"
+      "location": "Budapest, Hungary",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1923, our musical hero hit the jackpot when his masterpiece 'Psalmus Hungaricus' premiered at a concert celebrating the big 5-0 of Buda and Pest joining forces. It was like a relationship milestone, only instead of anniversaries and gifts, there was just a lot of clapping!"
     },
     {
-      "event": "Marriage to Emma Gruber",
-      "summary": "Kod\u00e1ly married his first wife, Emma, who was like the dedicated fan to his music career. They had a melodious 48 years together before 'not sweet and low' became the tune.",
-      "year": 1910,
-      "city": "Budapest",
-      "country": "Hungary"
+      "section": "Selected works",
+      "title": "Psalmus Hungaricus, Op. 13",
+      "summary": "Composed in 1923, this choral work pays homage to Hungarian heritage through its rich musical language. It employs a blend of choral voices and orchestral accompaniment to create a deeply spiritual and patriotic feel.",
+      "year": 1923,
+      "location": "",
+      "emoji": "\ud83c\udded\ud83c\uddfa",
+      "fun_version": "Written in 1923, this choral masterpiece pays homage to Hungarian heritage with a rich musical language \u2014 if that love letter sang, blended with a choir, and had some brass instruments joining the fun! It's the kind of music that makes you feel as if you're hugging a Hungarian flag while singing along, with a deeply spiritual and patriotic aura."
     },
     {
-      "event": "Second Marriage",
-      "summary": "After losing his first wife, he married his 19-year-old student Sarolta P\u00e9czely. Talk about a plot twist worthy of a rom-com, he spent the remaining years being a very happy octave higher.",
+      "section": "Selected works",
+      "title": "Summer Evening",
+      "summary": "This orchestral work, composed in 1906 and revised in 1929, evokes a serene atmosphere reflecting the beauty of nature. The piece captures the essence of a tranquil summer evening with lush orchestration that invites listeners to experience a moment of peace.",
+      "year": 1929,
+      "location": "",
+      "emoji": "\ud83c\udf05",
+      "fun_version": "This orchestral work, composed in 1906 and revised in 1929, evokes a serene atmosphere where nature is having a wonderful time. Picture a tranquil summer evening filled with lush orchestration, inviting listeners to experience peace\u2014just like a quiet afternoon without any disturbances (like that neighbor's lawnmower)."
+    },
+    {
+      "section": "Kod\u00e1ly methodology of musical education",
+      "title": "Kod\u00e1ly's Music Education Reforms",
+      "summary": "Throughout his adult life, Kod\u00e1ly was very interested in the problems of many types of music education, and he wrote a large amount of material on teaching methods as well as composing plenty of music intended for children's use. Beginning in 1935, along with his colleague Jen\u0151 \u00c1d\u00e1m, he embarked on a long-term project to reform music teaching in Hungary's lower and middle schools. His work resulted in the publication of several highly influential books.",
+      "year": 1935,
+      "location": "Hungary",
+      "emoji": "\ud83c\udfb5",
+      "fun_version": "Kod\u00e1ly, the maestro of music education, couldn't get enough of the melodious conundrums that plagued the world of teaching kids how to hum without sounding like a cat in a blender. He wrote a significant amount of material on teaching methods and composed plenty of music intended for children's use, transforming little ones into music prodigies capable of giving Mozart a run for his money. Starting in 1935, he teamed up with his colleague Jen\u0151 \u00c1d\u00e1m to reform music teaching in Hungary's lower and middle schools, turning classrooms into harmonious havens, just tons of rhythm. Their collaborative effort resulted in the publication of several highly influential books."
+    },
+    {
+      "section": "Selected works",
+      "title": "Te Deum for Buda Castle",
+      "summary": "This significant choral piece from 1936 was commissioned for the Buda Castle and expresses reverence and gratitude through its powerful text and music. It features grand vocal lines that resonate with the audience, underscoring the solemn occasion.",
+      "year": 1936,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "This monumental choral piece from 1936 was commissioned for the Buda Castle, which is fancy talk for 'let's make some noise in a place with great acoustics!' It expresses reverence and gratitude so powerful that even the ghosts in the castle applaud. The grand vocal lines are so resonant that they underscore the solemn occasion."
+    },
+    {
+      "section": "Selected works",
+      "title": "Concerto for Orchestra",
+      "summary": "Completed in 1940, this concerto showcases the diverse colors and textures of the orchestra. It is renowned for its vibrant harmonies and inventive orchestration, reflecting Kod\u00e1ly's mastery in integrating traditional Hungarian themes with contemporary forms.",
+      "year": 1940,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "The concerto completed in 1940 is like an orchestra\u2019s colorful mixtape, showcasing dazzling textures and party-worthy harmonies. Kod\u00e1ly was the DJ blending traditional Hungarian themes with contemporary forms, creating music that even the most serious conductors can\u2019t resist tapping their toes to!"
+    },
+    {
+      "section": "Kod\u00e1ly methodology of musical education",
+      "title": "Development of the Kod\u00e1ly Method",
+      "summary": "The Hungarian music education program that developed in the 1940s became the basis for the Kod\u00e1ly Method. Although Kod\u00e1ly himself did not write down a comprehensive method, he did establish a set of principles to follow in music education, which were widely taken up by pedagogues after World War II. His practices also evolved into Kod\u00e1ly hand signs.",
+      "year": 1940,
+      "location": "Hungary",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "The Hungarian music education program that developed in the 1940s became the basis for the Kod\u00e1ly Method! Although Kod\u00e1ly himself did not write down a comprehensive method (maybe he was waiting for a better pen?), he did establish a set of principles in music education, which were widely taken up by pedagogues after World War II. His practices also evolved into Kod\u00e1ly hand signs!"
+    },
+    {
+      "section": "Legacy and memorials",
+      "title": "Hungarian Revolution Proposal",
+      "summary": "During the Hungarian Revolution of 1956, the Workers Councils, acknowledging Kod\u00e1ly's significant reputation, considered him for the position of president of a proposed government, highlighting his impact on national identity.",
+      "year": 1956,
+      "location": "Hungary",
+      "emoji": "\ud83c\udded\ud83c\uddfa",
+      "fun_version": "During the Hungarian Revolution of 1956, the Workers Councils considered Kod\u00e1ly for the position of president of a proposed government, highlighting his significant impact on national identity while they were brainstorming catchy theme songs!"
+    },
+    {
+      "section": "Life",
+      "title": "Marriage to Sarolta P\u00e9czely",
+      "summary": "In December 1959, thirteen months after the death of his first wife, Kod\u00e1ly married Sarolta P\u00e9czely, a student he had taught, and lived with her until his own death in 1967.",
       "year": 1959,
-      "city": "Budapest",
-      "country": "Hungary"
+      "location": "Budapest, Hungary",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "In December 1959, after taking a year to mourn his first wife, Kod\u00e1ly decided that being a solo act was not for him. He tied the knot with Sarolta P\u00e9czely, one of his students, and they lived together happily until he passed away in 1967."
     },
     {
-      "event": "U.S. Tour and Lecture",
-      "summary": "Kod\u00e1ly packed his bags and toured the United States where he delivered a lecture at Stanford University. It was like a musical TED Talk, showcasing his methods to a new audience!",
+      "section": "Life",
+      "title": "U.S. Tour and Lecture",
+      "summary": "In 1966, Kod\u00e1ly toured the United States, including a notable lecture at Stanford University where some of his music was performed in his presence.",
       "year": 1966,
-      "city": "Stanford",
-      "country": "United States"
-    },
-    {
-      "event": "Death",
-      "summary": "Kod\u00e1ly passed away in Budapest, leaving a legacy as substantial as his influence on music education. The world lost a maestro, but his tunes still linger like a sweet refrain.",
-      "year": 1967,
-      "city": "Budapest",
-      "country": "Hungary"
-    },
-    {
-      "event": "First Musical Education",
-      "summary": "Kod\u00e1ly embarked on his early musical journey, proving early on that he could master the notes better than most people could grasp a simple math problem. He began studying music when he was just a wee lad!",
-      "year": 1894,
-      "city": "Budapest",
-      "country": "Hungary"
-    },
-    {
-      "event": "Debut Concert",
-      "summary": "Kod\u00e1ly took to the stage, marking his performance debut. The audience was never the same again, realizing they were in the presence of a musical genius who had the charm to make their hearts dance.",
-      "year": 1905,
-      "city": "Budapest",
-      "country": "Hungary"
-    },
-    {
-      "event": "First Major Work",
-      "summary": "He composed his first significant piece, earning praise from critics who probably wondered how one man could pack so much brilliance into a single composition. This was the start of a journey that would elevate Hungarian folk music to new heights.",
-      "year": 1911,
-      "city": "Budapest",
-      "country": "Hungary"
-    },
-    {
-      "event": "Establishment of the Kod\u00e1ly Method",
-      "summary": "Kod\u00e1ly devised an innovative method for music education. He transformed musical training, proving that even the most tone-deaf students could learn to tell a g flat from a g sharp. It was a musical revolution, one note at a time!",
-      "year": 1945,
-      "city": "Budapest",
-      "country": "Hungary"
+      "location": "United States",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "In 1966, Kod\u00e1ly went on a tour of the United States. He had a notable lecture at Stanford University\u2014where, if I\u2019m honest, listening to his music was probably more entertaining than a sitcom! Some of his music was even performed right in front of him\u2014imagine him thinking, 'I hope they don\u2019t boo me off the stage!'"
     }
   ],
-  "compositions": []
+  "works": []
 }

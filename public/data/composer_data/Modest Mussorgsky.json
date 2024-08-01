@@ -1,144 +1,472 @@
 {
   "full_name": "Modest Mussorgsky",
-  "first_names": "Modest",
+  "first_names": "Modest Petrovich",
   "last_name": "Mussorgsky",
   "birth_year": 1839,
   "death_year": 1881,
   "wikipedia_url": "https://en.wikipedia.org/wiki/Modest_Mussorgsky",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Modest Petrovich Mussorgsky entered the world in Karevo, where he likely first learned to play the piano and impress family members with children\u2019s concerts featuring works by Liszt. Remarkably, this little boy would grow up to transform Russian music, although he assured friends he never played any encore requests!",
-      "year": 1839,
-      "city": "Karevo",
-      "country": "Russia"
-    },
-    {
-      "event": "Early Music Education",
-      "summary": "At the tender age of six, Mussorgsky started piano lessons with his mother. By the time he was ten, he had performed a concerto, proving to the family that this was more than just a phase\u2014it was a lifelong commitment to music and possibly a way to avoid the family tradition of military service!",
-      "year": 1845,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Commission in the Military",
-      "summary": "Mussorgsky reluctantly followed family tradition and joined the military, where he soon found out that it was not all marching and parades. This is likely when he discovered the joys of alcohol while coping with military life, which, spoiler alert, wouldn\u2019t end very well for him!",
-      "year": 1856,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Resignation to Pursue Music",
-      "summary": "In a bold move, Mussorgsky decided to leave his military post to pursue music full-time. He must have thought that being a composer was far more glamorous than yelling orders in a uniform, and he quickly found that the only thing louder than a trumpet was the sound of creativity!",
-      "year": 1858,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Loss of His Mother",
-      "summary": "The death of Mussorgsky's mother marked a pivotal moment in his life, leading to his first serious encounter with alcoholism. Struggling to cope, he characterized his life with a mix of artistic fury and a good dose of existential dread, much to the surprise of his fellow comrades in the civil service!",
-      "year": 1865,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Completion of Night on Bald Mountain",
-      "summary": "Mussorgsky completed his famous piece Night on Bald Mountain, much to the chagrin of Balakirev who truly believed it was unperformable. This only fueled Mussorgsky's passion for music that didn\u2019t conform to anyone's expectations\u2014after all, who wants to be a good little composer when you can be a revolutionary?",
-      "year": 1867,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Artistic Recognition",
-      "summary": "Though Mussorgsky faced ups and downs as a civil servant, his artistic life began to take off. As he suffered through bureaucratic nonsense, he also produced works that would later be celebrated as masterpieces, proving that sometimes genius can flourish amidst the paperwork!",
-      "year": 1876,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Death",
-      "summary": "Mussorgsky's life came to a close, leaving behind a musical legacy that would later be appreciated in all its glory, despite his struggles and the excessive editing by other composers. It seems his last gift to the world was the music he created that was just waiting for the right audience to embrace its rawness!",
-      "year": 1881,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Formation of The Five",
-      "summary": "Mussorgsky starts to move away from seeking approval from Balakirev and aligns himself with Alexander Dargomyzhsky, showing his independence as a composer. The nickname 'Humour' suits him well because, apparently, he can turn a serious discussion into a laughing matter!",
-      "year": 1867,
-      "city": "St. Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Composition of Zhenitba",
-      "summary": "Mussorgsky dives into setting Gogol's play Marriage to music, prioritizing natural accents in dialogue. After all, who wouldn't want to musically capture awkward date conversations, right? He abandons the project after Act 1, proving he's not one to stick around for the small talk!",
-      "year": 1868,
-      "city": "St. Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Opera Boris Godunov",
-      "summary": "Mussorgsky completes Boris Godunov and goes on a spree of revisions that would make any self-editing author proud. It gets rejected for a lack of a leading lady\u2014guess the prima donna wasn\u2019t keen on playing the tsar! His determination pays off later when it\u2019s finally accepted for performance.",
-      "year": 1871,
-      "city": "St. Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "First production of Boris Godunov",
-      "summary": "The grand day arrives when Boris Godunov is finally produced, marking Mussorgsky's peak. Despite not being a box office hit, the audience loves it! Must've been the snacks\u2014every performance needs good catering, right?",
-      "year": 1874,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Creative peak and decline",
-      "summary": "After some successful compositions, including the famous Pictures at an Exhibition, Mussorgsky's creative high becomes a roller coaster ride. There's creativity, then there's excessive drinking, because what could possibly go wrong when the bar is open?!",
-      "year": 1874,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Dismissal from government service",
-      "summary": "In a plot twist worthy of a soap opera, Mussorgsky is finally dismissed from his government post. Craving stability, he tells a friend he has 'nothing left but begging'. Let\u2019s prioritize the art, shall we? But hey, at least he\u2019s no longer late to work!",
-      "year": 1880,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Final illness and death",
-      "summary": "Mussorgsky struggles with his health and faces a series of ups and downs, akin to a series of dramatic symphonies before he takes his final bow. While he manages to rally briefly in the hospital, he eventually succumbs, leaving behind a legacy that even the toughest critics can\u2019t dismiss!",
-      "year": 1881,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "First Musical Training",
-      "summary": "Mussorgsky started his musical journey, where he learned that practicing scales was just as important as composing dramatic operas. It's like he was trying to cheat at musical Monopoly!",
+      "section": "Life",
+      "title": "Piano Lessons",
+      "summary": "At age six, Mussorgsky began receiving piano lessons from his mother, who was a trained pianist. His progress was rapid, and by the age of nine, he was performing works by notable composers like John Field and Franz Liszt for family and friends.",
       "year": 1849,
-      "city": "Kazan",
-      "country": "Russia"
+      "location": "Karevo, Pskov Governorate, Russian Empire",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "At age six, Modest Mussorgsky began receiving piano lessons from his mother, who was a trained pianist. By age nine, he was performing works by notable composers like John Field and Franz Liszt for family and friends, turning gatherings into musical marathons!"
     },
     {
-      "event": "Composed 'Pictures at an Exhibition'",
-      "summary": "In a moment of inspiration, Mussorgsky sat down and, rather brilliantly, created \u2018Pictures at an Exhibition\u2019. It was his way of saying, 'I can turn your art into music, and probably do it better than this guy over here!'\u201d",
+      "section": "Life",
+      "title": "Graduation from Cadet School",
+      "summary": "In 1856, Mussorgsky graduated from the Cadet School of the Guards. Upon graduation, he received a commission in the Preobrazhensky Regiment, following his family's tradition of military service.",
+      "year": 1856,
+      "location": "Saint Petersburg",
+      "emoji": "\ud83c\udf93",
+      "fun_version": "In 1856, Mussorgsky graduated from the Cadet School of the Guards with a commission in the Preobrazhensky Regiment, following his family's tradition of military service. He was so excited, he almost dropped his sword instead of the diploma!"
+    },
+    {
+      "section": "Life",
+      "title": "Mentorship by Alexander Dargomyzhsky",
+      "summary": "Mussorgsky was introduced to composer Alexander Dargomyzhsky at the military hospital in Saint Petersburg. This introduction would prove significant, marking the beginning of Mussorgsky's true musical life.",
+      "year": 1856,
+      "location": "Saint Petersburg",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "So, there was this guy Mussorgsky, sitting around at a military hospital in Saint Petersburg, probably wondering if he\u2019d ever meet someone who understood his love for music. Enter stage left: Alexander Dargomyzhsky! With a flick of his baton, Mussorgsky\u2019s life went from boring bed rest to orchestral mayhem, marking the beginning of his true musical life!"
+    },
+    {
+      "section": "Life",
+      "title": "First realistic songs",
+      "summary": "In 1866, Mussorgsky composed 'Hopak' and 'Darling Savishna', which were among his first realistic songs and publications, marking a new artistic direction for him after the death of his mother.",
+      "year": 1866,
+      "location": "Saint Petersburg",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1866, while most people were just figuring out how to tie their shoes, Mussorgsky was busy composing 'Hopak' and 'Darling Savishna'. These tunes were like his early realistic selfies, capturing the essence of life (minus the filters)!"
+    },
+    {
+      "section": "Life",
+      "title": "Completion of Night on Bald Mountain",
+      "summary": "In 1867, Mussorgsky finished the original orchestral version of Night on Bald Mountain, although it was never performed during his lifetime due to criticism from Balakirev.",
+      "year": 1867,
+      "location": "Saint Petersburg",
+      "emoji": "\ud83c\udf0c",
+      "fun_version": "In 1867, Mussorgsky wrapped up his orchestral masterpiece, Night on Bald Mountain. But let's be honest, it never saw the stage during his lifetime because Balakirev took one look at it and thought he would rather not deal with music critics!"
+    },
+    {
+      "section": "Works",
+      "title": "The Nursery",
+      "summary": "Among Mussorgsky's contributions are his song cycles, such as The Nursery (1872), Sunless (1874), and Songs and Dances of Death (1877), showcasing his lyrical prowess in vocal compositions.",
+      "year": 1872,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Ah, Mussorgsky! The guy who sang so beautifully that it made the birds jealous. Just look at his song cycles - 'The Nursery,' which sounds like a place where toddlers and parrots hang out (1872), and let\u2019s not forget his more serious side with 'Songs and Dances of Death' (1877). His lyrical prowess could probably charm the socks off a statue!"
+    },
+    {
+      "section": "Works",
+      "title": "Completion of Boris Godunov",
+      "summary": "In 1868/1869, Mussorgsky composed the opera Boris Godunov, centered on the life of the Russian tsar. Although initially rejected by the Mariinsky Opera, he refined it and produced a final version in 1874, known for its darker and more concise early version.",
       "year": 1874,
-      "city": "Saint Petersburg",
-      "country": "Russia"
+      "location": "",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Back in 1868/1869, Mussorgsky was like a musical chef cooking up a storm, whipping up the opera 'Boris Godunov' from the recipe book of the Russian tsar's life! Initially, the Mariinsky Opera gave it a thumbs down, but he rolled up his sleeves and fine-tuned his dish. By 1874, he served up a version that was darker and more concise, further solidifying the original dark themes it was known for!"
     },
     {
-      "event": " Premiered 'Boris Godunov'",
-      "summary": "Mussorgsky unleashed 'Boris Godunov' upon the world. Not just a mere opera, but a thrilling saga that surprised audiences and had critics wondering if they accidentally wandered into a Shakespeare play!",
+      "section": "Life",
+      "title": "First production of Boris Godunov",
+      "summary": "The first production of Mussorgsky's opera Boris Godunov took place in February 1874. Despite its lack of critical success, it received a positive popular reaction, marking the peak of his career.",
       "year": 1874,
-      "city": "Saint Petersburg",
-      "country": "Russia"
+      "location": "Saint Petersburg",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "The first production of Mussorgsky's opera Boris Godunov took place in February 1874. Despite its lack of critical success, the audience loved it! It became the peak of his career in a way no one expected. It was like a group of friends cheering for someone in a school band, proving that sometimes popularity doesn\u2019t mean perfection."
     },
     {
-      "event": "Final Years and Death",
-      "summary": "In his later years, Mussorgsky faced personal demons, but he still managed to compose music that would make his younger self proud. He left us too soon, maybe a little like a musical magician who forgot his grand finale.",
-      "year": 1881,
-      "city": "Saint Petersburg",
-      "country": "Russia"
+      "section": "Works",
+      "title": "Sunless",
+      "summary": "Sunless, composed in 1874, is another notable song cycle by Mussorgsky, reflecting his unique style and thematic depth in a vocal format.",
+      "year": 1874,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Back in 1874, Mussorgsky was furiously composing 'Sunless' \u2013 a notable song cycle so profound that even the sun wondered if it had a chance! It's like a musical diary filled with unique styles and themes, making vocal cords feel a bit insecure!"
+    },
+    {
+      "section": "Works",
+      "title": "Songs and Dances of Death",
+      "summary": "Songs and Dances of Death, completed in 1877, represents Mussorgsky's exploration of life and mortality through poignant musical storytelling in song form.",
+      "year": 1877,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Songs and Dances of Death, completed in 1877, is Mussorgsky's exploration of life and mortality through poignant musical storytelling in song form. This composition cleverly asks, 'Are you dancing with the grim reaper or just moonwalking past him?' It still retains its reflection on life and mortality."
     }
   ],
-  "compositions": []
+  "works": [
+    {
+      "title": "Rustic Song",
+      "imslp_url": "https://imslp.org/wiki/Rustic_Song_(Mussorgsky,_Modest)",
+      "year": 1857
+    },
+    {
+      "title": "Souvenir d'enfance",
+      "imslp_url": "https://imslp.org/wiki/Souvenir_d'enfance_(Mussorgsky,_Modest)",
+      "year": 1857
+    },
+    {
+      "title": "Scherzo",
+      "imslp_url": "https://imslp.org/wiki/Scherzo_(Mussorgsky,_Modest)",
+      "year": 1858
+    },
+    {
+      "title": "Tell Me Why",
+      "imslp_url": "https://imslp.org/wiki/Tell_Me_Why_(Mussorgsky,_Modest)",
+      "year": 1858
+    },
+    {
+      "title": "The Leaves Rustled Sadly",
+      "imslp_url": "https://imslp.org/wiki/The_Leaves_Rustled_Sadly_(Mussorgsky,_Modest)",
+      "year": 1858
+    },
+    {
+      "title": "Thou Longing of My Heart",
+      "imslp_url": "https://imslp.org/wiki/Thou_Longing_of_My_Heart_(Mussorgsky,_Modest)",
+      "year": 1858
+    },
+    {
+      "title": "Ein Kinderscherz",
+      "imslp_url": "https://imslp.org/wiki/Ein_Kinderscherz_(Mussorgsky,_Modest)",
+      "year": 1859
+    },
+    {
+      "title": "Impromptu passione",
+      "imslp_url": "https://imslp.org/wiki/Impromptu_passione_(Mussorgsky,_Modest)",
+      "year": 1859
+    },
+    {
+      "title": "The Joyous Hour",
+      "imslp_url": "https://imslp.org/wiki/The_Joyous_Hour_(Mussorgsky,_Modest)",
+      "year": 1859
+    },
+    {
+      "title": "Intermezzo in modo classico",
+      "imslp_url": "https://imslp.org/wiki/Intermezzo_in_modo_classico_(Mussorgsky,_Modest)",
+      "year": 1860
+    },
+    {
+      "title": "Sonata for Piano Four-hands",
+      "imslp_url": "https://imslp.org/wiki/Sonata_for_Piano_Four-hands_(Mussorgsky,_Modest)",
+      "year": 1860
+    },
+    {
+      "title": "What are Words of Love to You?",
+      "imslp_url": "https://imslp.org/wiki/What_are_Words_of_Love_to_You?_(Mussorgsky,_Modest)",
+      "year": 1860
+    },
+    {
+      "title": "But If I Could Meet You Again",
+      "imslp_url": "https://imslp.org/wiki/But_If_I_Could_Meet_You_Again_(Mussorgsky,_Modest)",
+      "year": 1863
+    },
+    {
+      "title": "I Have Many Palaces and Gardens",
+      "imslp_url": "https://imslp.org/wiki/I_Have_Many_Palaces_and_Gardens_(Mussorgsky,_Modest)",
+      "year": 1863
+    },
+    {
+      "title": "King Saul",
+      "imslp_url": "https://imslp.org/wiki/King_Saul_(Mussorgsky,_Modest)",
+      "year": 1863
+    },
+    {
+      "title": "Old Man\u2019s Song",
+      "imslp_url": "https://imslp.org/wiki/Old_Man\u2019s_Song_(Mussorgsky,_Modest)",
+      "year": 1863
+    },
+    {
+      "title": "Salammb\u00f4",
+      "imslp_url": "https://imslp.org/wiki/Salammb\u00f4_(Mussorgsky,_Modest)",
+      "year": 1863
+    },
+    {
+      "title": "Blow Winds, Wild Winds",
+      "imslp_url": "https://imslp.org/wiki/Blow_Winds,_Wild_Winds_(Mussorgsky,_Modest)",
+      "year": 1864
+    },
+    {
+      "title": "Kalistrat",
+      "imslp_url": "https://imslp.org/wiki/Kalistrat_(Mussorgsky,_Modest)",
+      "year": 1864
+    },
+    {
+      "title": "Night",
+      "imslp_url": "https://imslp.org/wiki/Night_(Mussorgsky,_Modest)",
+      "year": 1864
+    },
+    {
+      "title": "Cradle Song",
+      "imslp_url": "https://imslp.org/wiki/Cradle_Song_(Mussorgsky,_Modest)",
+      "year": 1865
+    },
+    {
+      "title": "La Capricieuse",
+      "imslp_url": "https://imslp.org/wiki/La_Capricieuse_(Mussorgsky,_Modest)",
+      "year": 1865
+    },
+    {
+      "title": "Memories of Childhood",
+      "imslp_url": "https://imslp.org/wiki/Memories_of_Childhood_(Mussorgsky,_Modest)",
+      "year": 1865
+    },
+    {
+      "title": "Prayer",
+      "imslp_url": "https://imslp.org/wiki/Prayer_(Mussorgsky,_Modest)",
+      "year": 1865
+    },
+    {
+      "title": "Reverie",
+      "imslp_url": "https://imslp.org/wiki/Reverie_(Mussorgsky,_Modest)",
+      "year": 1865
+    },
+    {
+      "title": "The Outcast",
+      "imslp_url": "https://imslp.org/wiki/The_Outcast_(Mussorgsky,_Modest)",
+      "year": 1865
+    },
+    {
+      "title": "Ah, You Drunken Sot",
+      "imslp_url": "https://imslp.org/wiki/Ah,_You_Drunken_Sot_(Mussorgsky,_Modest)",
+      "year": 1866
+    },
+    {
+      "title": "Darling Savishna",
+      "imslp_url": "https://imslp.org/wiki/Darling_Savishna_(Mussorgsky,_Modest)",
+      "year": 1866
+    },
+    {
+      "title": "Dearest, Oh Why are Your Eyes Sometimes So Cold?",
+      "imslp_url": "https://imslp.org/wiki/Dearest,_Oh_Why_are_Your_Eyes_Sometimes_So_Cold?_(Mussorgsky,_Modest)",
+      "year": 1866
+    },
+    {
+      "title": "Desire",
+      "imslp_url": "https://imslp.org/wiki/Desire_(Mussorgsky,_Modest)",
+      "year": 1866
+    },
+    {
+      "title": "From My Tears",
+      "imslp_url": "https://imslp.org/wiki/From_My_Tears_(Mussorgsky,_Modest)",
+      "year": 1866
+    },
+    {
+      "title": "Hopak",
+      "imslp_url": "https://imslp.org/wiki/Hopak_(Mussorgsky,_Modest)",
+      "year": 1866
+    },
+    {
+      "title": "The Destruction of Sennacherib",
+      "imslp_url": "https://imslp.org/wiki/The_Destruction_of_Sennacherib_(Mussorgsky,_Modest)",
+      "year": 1866
+    },
+    {
+      "title": "The Seminarist",
+      "imslp_url": "https://imslp.org/wiki/The_Seminarist_(Mussorgsky,_Modest)",
+      "year": 1866
+    },
+    {
+      "title": "A Garden Blooms by the Don",
+      "imslp_url": "https://imslp.org/wiki/A_Garden_Blooms_by_the_Don_(Mussorgsky,_Modest)",
+      "year": 1867
+    },
+    {
+      "title": "Gathering Mushrooms",
+      "imslp_url": "https://imslp.org/wiki/Gathering_Mushrooms_(Mussorgsky,_Modest)",
+      "year": 1867
+    },
+    {
+      "title": "Hebrew Song",
+      "imslp_url": "https://imslp.org/wiki/Hebrew_Song_(Mussorgsky,_Modest)",
+      "year": 1867
+    },
+    {
+      "title": "Night on Bald Mountain",
+      "imslp_url": "https://imslp.org/wiki/Night_on_Bald_Mountain_(Mussorgsky,_Modest)",
+      "year": 1867
+    },
+    {
+      "title": "The Classicist",
+      "imslp_url": "https://imslp.org/wiki/The_Classicist_(Mussorgsky,_Modest)",
+      "year": 1867
+    },
+    {
+      "title": "The Feast",
+      "imslp_url": "https://imslp.org/wiki/The_Feast_(Mussorgsky,_Modest)",
+      "year": 1867
+    },
+    {
+      "title": "The Goat",
+      "imslp_url": "https://imslp.org/wiki/The_Goat_(Mussorgsky,_Modest)",
+      "year": 1867
+    },
+    {
+      "title": "The Magpie",
+      "imslp_url": "https://imslp.org/wiki/The_Magpie_(Mussorgsky,_Modest)",
+      "year": 1867
+    },
+    {
+      "title": "The Ragamuffin",
+      "imslp_url": "https://imslp.org/wiki/The_Ragamuffin_(Mussorgsky,_Modest)",
+      "year": 1867
+    },
+    {
+      "title": "Boris Godunov",
+      "imslp_url": "https://imslp.org/wiki/Boris_Godunov_(Mussorgsky,_Modest)",
+      "year": 1868
+    },
+    {
+      "title": "Child's Song",
+      "imslp_url": "https://imslp.org/wiki/Child's_Song_(Mussorgsky,_Modest)",
+      "year": 1868
+    },
+    {
+      "title": "Eremushka's Lullaby",
+      "imslp_url": "https://imslp.org/wiki/Eremushka's_Lullaby_(Mussorgsky,_Modest)",
+      "year": 1868
+    },
+    {
+      "title": "The Marriage",
+      "imslp_url": "https://imslp.org/wiki/The_Marriage_(Mussorgsky,_Modest)",
+      "year": 1868
+    },
+    {
+      "title": "The Nursery",
+      "imslp_url": "https://imslp.org/wiki/The_Nursery_(Mussorgsky,_Modest)",
+      "year": 1868
+    },
+    {
+      "title": "The Orphan",
+      "imslp_url": "https://imslp.org/wiki/The_Orphan_(Mussorgsky,_Modest)",
+      "year": 1868
+    },
+    {
+      "title": "Rayok",
+      "imslp_url": "https://imslp.org/wiki/Rayok_(Mussorgsky,_Modest)",
+      "year": 1870
+    },
+    {
+      "title": "Evening Song",
+      "imslp_url": "https://imslp.org/wiki/Evening_Song_(Mussorgsky,_Modest)",
+      "year": 1871
+    },
+    {
+      "title": "The Seamstress",
+      "imslp_url": "https://imslp.org/wiki/The_Seamstress_(Mussorgsky,_Modest)",
+      "year": 1871
+    },
+    {
+      "title": "Khovanshchina",
+      "imslp_url": "https://imslp.org/wiki/Khovanshchina_(Mussorgsky,_Modest)",
+      "year": 1872
+    },
+    {
+      "title": "Forgotten",
+      "imslp_url": "https://imslp.org/wiki/Forgotten_(Mussorgsky,_Modest)",
+      "year": 1874
+    },
+    {
+      "title": "Joshua",
+      "imslp_url": "https://imslp.org/wiki/Joshua_(Mussorgsky,_Modest)",
+      "year": 1874
+    },
+    {
+      "title": "Pictures at an Exhibition",
+      "imslp_url": "https://imslp.org/wiki/Pictures_at_an_Exhibition_(Mussorgsky,_Modest)",
+      "year": 1874
+    },
+    {
+      "title": "Sorochinsky Fair",
+      "imslp_url": "https://imslp.org/wiki/Sorochinsky_Fair_(Mussorgsky,_Modest)",
+      "year": 1874
+    },
+    {
+      "title": "Without Sun",
+      "imslp_url": "https://imslp.org/wiki/Without_Sun_(Mussorgsky,_Modest)",
+      "year": 1874
+    },
+    {
+      "title": "Songs and Dances of Death",
+      "imslp_url": "https://imslp.org/wiki/Songs_and_Dances_of_Death_(Mussorgsky,_Modest)",
+      "year": 1875
+    },
+    {
+      "title": "The Misunderstood One",
+      "imslp_url": "https://imslp.org/wiki/The_Misunderstood_One_(Mussorgsky,_Modest)",
+      "year": 1875
+    },
+    {
+      "title": "Hey, Is Spinning a Young Man's Job?",
+      "imslp_url": "https://imslp.org/wiki/Hey,_Is_Spinning_a_Young_Man's_Job?_(Mussorgsky,_Modest)",
+      "year": 1877
+    },
+    {
+      "title": "It Scatters and Breaks",
+      "imslp_url": "https://imslp.org/wiki/It_Scatters_and_Breaks_(Mussorgsky,_Modest)",
+      "year": 1877
+    },
+    {
+      "title": "Pride",
+      "imslp_url": "https://imslp.org/wiki/Pride_(Mussorgsky,_Modest)",
+      "year": 1877
+    },
+    {
+      "title": "Softly the Spirit Flew Up to Heaven",
+      "imslp_url": "https://imslp.org/wiki/Softly_the_Spirit_Flew_Up_to_Heaven_(Mussorgsky,_Modest)",
+      "year": 1877
+    },
+    {
+      "title": "The Vision",
+      "imslp_url": "https://imslp.org/wiki/The_Vision_(Mussorgsky,_Modest)",
+      "year": 1877
+    },
+    {
+      "title": "Unlike the Thunder, Trouble Struck",
+      "imslp_url": "https://imslp.org/wiki/Unlike_the_Thunder,_Trouble_Struck_(Mussorgsky,_Modest)",
+      "year": 1877
+    },
+    {
+      "title": "The Wanderer",
+      "imslp_url": "https://imslp.org/wiki/The_Wanderer_(Mussorgsky,_Modest)",
+      "year": 1878
+    },
+    {
+      "title": "Mephistopheles's Song in Auerbach's Cellar",
+      "imslp_url": "https://imslp.org/wiki/Mephistopheles's_Song_in_Auerbach's_Cellar_(Mussorgsky,_Modest)",
+      "year": 1879
+    },
+    {
+      "title": "On the Dnieper",
+      "imslp_url": "https://imslp.org/wiki/On_the_Dnieper_(Mussorgsky,_Modest)",
+      "year": 1879
+    },
+    {
+      "title": "Pictures from Crimea",
+      "imslp_url": "https://imslp.org/wiki/Pictures_from_Crimea_(Mussorgsky,_Modest)",
+      "year": 1879
+    },
+    {
+      "title": "In the Village",
+      "imslp_url": "https://imslp.org/wiki/In_the_Village_(Mussorgsky,_Modest)",
+      "year": 1880
+    },
+    {
+      "title": "Meditation",
+      "imslp_url": "https://imslp.org/wiki/Meditation_(Mussorgsky,_Modest)",
+      "year": 1880
+    },
+    {
+      "title": "The Capture of Kars",
+      "imslp_url": "https://imslp.org/wiki/The_Capture_of_Kars_(Mussorgsky,_Modest)",
+      "year": 1880
+    },
+    {
+      "title": "Une larme",
+      "imslp_url": "https://imslp.org/wiki/Une_larme_(Mussorgsky,_Modest)",
+      "year": 1880
+    }
+  ]
 }

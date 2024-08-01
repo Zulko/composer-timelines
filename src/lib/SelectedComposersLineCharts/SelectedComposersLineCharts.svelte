@@ -15,7 +15,7 @@
   }
 </script>
 
-<div>
+<div style="margin-top: 1em">
   {#each selectedComposerData as composerData}
     <ComposerLineChart {composerData} {xMin} {xMax} />
   {/each}

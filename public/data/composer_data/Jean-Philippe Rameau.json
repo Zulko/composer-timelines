@@ -7,512 +7,298 @@
   "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Philippe_Rameau",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Jean-Philippe Rameau made his grand entrance into the world on September 25, 1683, in Dijon. Little did his parents know that this baby would grow up to rock the musical world, although at the time he was just another kid in a big family of eleven.",
+      "section": "Life",
+      "title": "Birth",
+      "summary": "Jean-Philippe Rameau was born in Dijon on 25 September 1683, into a musically inclined family where his father was an organist. His early life is largely obscured, but it is noted that he was the seventh of eleven children.",
       "year": 1683,
-      "city": "Dijon",
-      "country": "France"
+      "location": "Dijon",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Jean-Philippe Rameau was born in Dijon on 25 September 1683, into a musically inclined family where his father was an organist. Being the seventh of eleven kids, he had a lot of sibling concerts growing up!"
     },
     {
-      "event": "First compositions",
-      "summary": "In 1706, Rameau decided to stop disrupting his classes with singing and instead leaned into his musical talents, publishing his first book of harpsichord works. Talk about turning your academic career around!",
+      "section": "Life",
+      "title": "Publication of First Compositions",
+      "summary": "In 1706, Rameau published his earliest-known compositions, which are the harpsichord works included in his first book of Pi\u00e8ces de Clavecin. This work shows the influence of his friend Louis Marchand.",
       "year": 1706,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "In 1706, Rameau decided to release his earliest-known compositions. What better way to impress your friends than by publishing harpsichord works? Yes, those ancient keyboard struggles made their grand entrance in his first book, \"Pi\u00e8ces de Clavecin.\" This work shows the influence of his friend Louis Marchand, which promises not just music but also a chance to summon ghosts from 1700s soir\u00e9es!"
     },
     {
-      "event": "Harpsichord works",
-      "summary": "By the 1720s, Rameau was not just a struggling composer but a major player in music theory with his impactful Treatise on Harmony. He had so much musical flair that it was hard for the notes to keep up!",
+      "section": "Theoretical works",
+      "title": "Publication of Treatise on Harmony",
+      "summary": "Rameau's 1722 Treatise on Harmony initiated a revolution in music theory. He posited the discovery of the 'fundamental law' or 'fundamental bass' of all Western music. His methodology incorporated mathematics and a didacticism specifically intended to illuminate the structure and principles of music, resulting in Rameau rising to prominence in France.",
       "year": 1722,
-      "city": "Paris",
-      "country": "France"
+      "location": "France",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Back in 1722, Rameau thought he could revolutionize music theory with a treatise. You know, just another day of making waves in the music world! He introduced the 'fundamental law' of Western music, which sounds like he was trying to play music by the rules of a strict math teacher. His approach was filled with math and a sprinkle of didacticism, all to make sense of the musical chaos! Thanks to his groundbreaking theories, Rameau became a household name in France and a pillar of music theory."
     },
     {
-      "event": "Marriage",
-      "summary": "On February 25, 1726, Rameau tied the knot with the talented Marie-Louise Mangot, whose musical prowess must have made for some lively dinner conversations \u2014 or arguments over whose music was better!",
+      "section": "Life",
+      "title": "Marriage",
+      "summary": "On 25 February 1726, Rameau married Marie-Louise Mangot, who came from a musical family. The couple had four children together and it is said that their marriage was a happy one.",
       "year": 1726,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "On 25 February 1726, Rameau hopped on the love train and married Marie-Louise Mangot, who came from a musical family. The couple hit the jackpot and had four children together, and it is said that their marriage was happier than a cat in a room full of laser pointers."
     },
     {
-      "event": "Operatic debut",
-      "summary": "At nearly 50 years of age, Rameau premiered his opera Hippolyte et Aricie in October 1733. He didn't just dip his toes into opera; he cannonballed, splashing controversy everywhere as Lully's fans were left gasping in shock!",
+      "section": "Life",
+      "title": "Becoming Conducter of La Poupelini\u00e8re's Orchestra",
+      "summary": "In 1731, Rameau became the conductor of La Poupelini\u00e8re's private orchestra, a position he held for 22 years. It allowed him to engage with prominent cultural figures of the time.",
+      "year": 1731,
+      "location": "Paris",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "In 1731, Rameau became the conductor of La Poupeli\u00e8re's private orchestra, a position he held for 22 years, during which he managed to outrun both time and any musicians who tried to play out of tune. This gig let him engage with prominent cultural figures of the time."
+    },
+    {
+      "section": "Life",
+      "title": "Premiere of Hippolyte et Aricie",
+      "summary": "Rameau's opera, Hippolyte et Aricie, premiered at the Acad\u00e9mie Royale de Musique on 1 October 1733. It was recognized as a significant work in the evolution of French opera, though it sparked controversy among music critics of the day.",
       "year": 1733,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Rameau's opera, Hippolyte et Aricie, premiered at the Acad\u00e9mie Royale de Musique on October 1, 1733. It was significant in the evolution of French opera, despite confusing many music critics of the day."
     },
     {
-      "event": "Becoming a recognized composer",
-      "summary": "Thanks to his second act in opera, Rameau garnered fame and respect (even if it came with a side of drama) after winning the hearts \u2014 or at least the ears \u2014 of French audiences in the 1730s.",
-      "year": 1730,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Important commissions",
-      "summary": "In 1745, Rameau's career hit a high note when he received royal commissions celebrating French victories and weddings. He became 'Composer of the King's Cabinet', proving that the French court loved both war and music!",
+      "section": "Life",
+      "title": "Recognition from the Crown",
+      "summary": "In 1745, Rameau received several commissions from the court, which included works to celebrate significant events. This year marked a turning point in his career, bringing him official recognition and a substantial pension.",
       "year": 1745,
-      "city": "Paris",
-      "country": "France"
+      "location": "France",
+      "emoji": "\ud83c\udfc6",
+      "fun_version": "In 1745, Rameau hit the jackpot as the court threw commissions his way! Celebrating significant events? More like a fancy way to say he was the rock star of the 18th century. This year marked a turning point in his career, earning him high-fives from the nobles, official recognition, and a substantial pension that probably made the other composers green with envy!"
     },
     {
-      "event": "Final compositions",
-      "summary": "Rameau's last hurrah included the comic opera Les Paladins in 1760. Even as age slowed him down, he still delivered musical sass that left audiences chuckling \u2014 if not completely bewildered!",
-      "year": 1760,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Death",
-      "summary": "On September 12, 1764, Rameau had his final tune-out session and passed away, leaving behind a legacy and some memorable last words questioning the priest\u2019s singing ability. Talk about going out with flair!",
+      "section": "Life",
+      "title": "Last Work and Death",
+      "summary": "Rameau continued composing until his death on 12 September 1764. His last words expressed his discontent regarding a song being sung to him shortly before he passed away.",
       "year": 1764,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "First Performance of Nouvelles suites de pi\u00e8ces de clavecin",
-      "summary": "Rameau debuted his first book of harpsichord pieces, showcasing his exceptional technical knowledge, much to the amazement and confusion of his contemporaries who were likely thinking, 'What is this wizardry?'",
-      "year": 1728,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Transition to Opera",
-      "summary": "After a while of tickling the ivories and impressing the local organists, Rameau decided to dive into the exuberant world of opera, forever changing the French musical landscape, much to the delight and possible bewilderment of his audience.",
-      "year": 1733,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Official Court Musician",
-      "summary": "Rameau finally achieved the pinnacle of success, becoming the official musician for the court, allowing him to fill the royal halls with his vibrant tunes, while still wearing his same old shoes.",
-      "year": 1740,
-      "city": "Versailles",
-      "country": "France"
-    },
-    {
-      "event": "Release of Pi\u00e8ces de clavecin en concerts",
-      "summary": "During a semi-retirement that could only be described as a 'musical sabbatical', Rameau created one of his greatest works\u2014a collection of pieces that gave the harpsichord its moment in the spotlight, proving that it could rock just as hard as any orchestra.",
-      "year": 1741,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "First Performance of Zoroastre",
-      "summary": "Rameau unveiled his opera 'Zoroastre' to a crowd that surely knew every note by heart before the show was over, solidifying his place as a master of operatic drama and leaving audiences wondering how he made jealousy sound so lovely.",
-      "year": 1749,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Last Composition",
-      "summary": "In his final years, Rameau returned to his roots with works like 'Les Paladins', reminding everyone that even musical giants have nostalgia, much like a chef going back to grandma's recipes.",
-      "year": 1750,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Publication of Treatise on Harmony",
-      "summary": "Rameau published a book that shook the music world, laying down the 'fundamental bass' theory. It was as if he revealed the secret recipe for the perfect souffl\u00e9, and all the composers were scrambling to get a taste.",
-      "year": 1722,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "First opera premiered",
-      "summary": "Rameau debuted with his first opera, bringing a splash of French flair to the genre. Critics were impressed, though some were probably still stuck on figuring out how to pronounce his last name correctly.",
-      "year": 1733,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Collaboration with Louis de Cahusac",
-      "summary": "Teaming up with Cahusac, Rameau created several operas, turning the collaboration into what could be called the 18th-century version of a buddy cop movie, minus the thrills but full of music and emotions.",
-      "year": 1747,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Revisions of Castor et Pollux",
-      "summary": "After facing criticism, Rameau went back to the drawing board (or rather the music stand) to revise his opera, proving that even the greatest of composers sometimes need a little creative reworking\u2014like a painter touching up a masterpiece.",
-      "year": 1754,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Decline in popularity",
-      "summary": "As tastes in music shifted, Rameau's star began to fade. It was like trying to sell rotary phones during the smartphone era\u2014everyone was moving on while he was still writing catchy arias.",
-      "year": 1750,
-      "city": "France",
-      "country": "France"
-    },
-    {
-      "event": "Born",
-      "summary": "Jean-Philippe Rameau entered the world with a little cry and a whole lot of musical potential. His first audience, undoubtedly impressed, probably wondered if he would stick to just being adorable or if he\u2019d turn out to be a musical genius.",
-      "year": 1683,
-      "city": "Dijon",
-      "country": "France"
-    },
-    {
-      "event": "Published Treatise on Harmony",
-      "summary": "Rameau decided that music theory needed a makeover and published his groundbreaking 'Trait\u00e9 de l'harmonie'. Suddenly, every wannabe composer had to reckon with his innovative ideas, which were as flashy as his wigs.",
-      "year": 1722,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "First Opera Premiere",
-      "summary": "Rameau's first opera, 'Hippolyte et Aricie', hit the stage like a rock concert. Audiences were blown away, and it was clear Rameau was not just a theory guy\u2014he could really throw down with the best of them in a musical duel.",
-      "year": 1733,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Recognition as Leading Composer",
-      "summary": "Through a thrilling mix of operatic circus and brilliant compositions, Rameau earned the title of France's 'go-to composer'. He was so popular that even the critics had to cheer, or at least clap politely.",
-      "year": 1735,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Composed 'Les Indes galantes'",
-      "summary": "'Les Indes galantes' premiered and was like a globetrotting adventure in musical form. Rameau took the audience on a whirlwind tour, introducing them to cultures and dances, with just the right amount of French flair.",
-      "year": 1735,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Launched Career as Theoretical Thinker",
-      "summary": "Rameau wasn't just content with composing; he flexed his knowledge of music theory and stirred the pot of music education. He was, at this point, the rock star of ancient musical knowledge\u2014think of him as the Pythagoras of the harpsichord.",
-      "year": 1750,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Led Musical Scene in France",
-      "summary": "Rameau emerged as the leading figure in French opera and music theory, showcasing his musical prowess. His influence was like adding extra cheese to a gourmet pizza\u2014everyone craved a slice of his genius.",
-      "year": 1754,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Final Major Work",
-      "summary": "His opera 'Les Bor\u00e9ades' was presented posthumously, leaving behind a legacy that was quite literally the icing on the cake of French opera. People still talk about it, a bit like a classic movie that keeps getting re-watched\u2014only without the popcorn.",
-      "year": 1763,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Rameau kept composing right up until he became an official member of the 'Great Composers Club' in the sky on September 12, 1764. His last words expressed his discontent about a song being sung to him, including 'Why are you singing that?' and 'Can someone pass me the sheet music for a proper exit tune instead?'"
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/Acante_et_C%C3%A9phise,_RCT_29_(Rameau,_Jean-Philippe)",
-      "year": 1751,
-      "title": "Acante et C\u00e9phise, RCT 29"
+      "title": "Premier livre de pi\u00e8ces de clavecin, RCT 1",
+      "imslp_url": "https://imslp.org/wiki/Premier_livre_de_pi\u00e8ces_de_clavecin,_RCT_1_(Rameau,_Jean-Philippe)",
+      "year": 1706
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Les_Amants_trahis,_RCT_22_(Rameau,_Jean-Philippe)",
-      "year": 1721,
-      "title": "Les Amants trahis, RCT 22"
+      "title": "Th\u00e9tis, RCT 28",
+      "imslp_url": "https://imslp.org/wiki/Th\u00e9tis,_RCT_28_(Rameau,_Jean-Philippe)",
+      "year": 1715
     },
     {
+      "title": "Aquilon et Orithie, RCT 23",
       "imslp_url": "https://imslp.org/wiki/Aquilon_et_Orithie,_RCT_23_(Rameau,_Jean-Philippe)",
-      "year": 1719,
-      "title": "Aquilon et Orithie, RCT 23"
+      "year": 1719
     },
     {
+      "title": "Avec du vin, endormons-nous, RCT 18",
       "imslp_url": "https://imslp.org/wiki/Avec_du_vin,_endormons-nous,_RCT_18_(Rameau,_Jean-Philippe)",
-      "year": 1719,
-      "title": "Avec du vin, endormons-nous, RCT 18"
+      "year": 1719
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Les_Bor%C3%A9ades,_RCT_31_(Rameau,_Jean-Philippe)",
-      "year": 1763,
-      "title": "Les Bor\u00e9ades, RCT 31"
+      "title": "Les Amants trahis, RCT 22",
+      "imslp_url": "https://imslp.org/wiki/Les_Amants_trahis,_RCT_22_(Rameau,_Jean-Philippe)",
+      "year": 1721
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Cantate_pour_le_jour_de_la_Saint-Louis,_RCT_25_(Rameau,_Jean-Philippe)",
-      "year": 1740,
-      "title": "Cantate pour le jour de la Saint-Louis, RCT 25"
+      "title": "Orph\u00e9e, RCT 27",
+      "imslp_url": "https://imslp.org/wiki/Orph\u00e9e,_RCT_27_(Rameau,_Jean-Philippe)",
+      "year": 1721
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Castor_et_Pollux,_RCT_32_(Rameau,_Jean-Philippe)",
-      "year": 1737,
-      "title": "Castor et Pollux, RCT 32"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Les_Courses_de_Temp%C3%A9,_RCT_33_(Rameau,_Jean-Philippe)",
-      "year": 1734,
-      "title": "Les Courses de Temp\u00e9, RCT 33"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Daphnis_et_Egl%C3%A9,_RCT_34_(Rameau,_Jean-Philippe)",
-      "year": 1753,
-      "title": "Daphnis et Egl\u00e9, RCT 34"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Dardanus,_RCT_35_(Rameau,_Jean-Philippe)",
-      "year": 1739,
-      "title": "Dardanus, RCT 35"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_Dauphine,_RCT_12_(Rameau,_Jean-Philippe)",
-      "year": 1747,
-      "title": "La Dauphine, RCT 12"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/L%27enl%C3%A8vement_d%27Adonis_(Rameau,_Jean-Philippe)",
-      "year": 1757,
-      "title": "L'enl\u00e8vement d'Adonis"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Les_F%C3%AAtes_d%27H%C3%A9b%C3%A9,_RCT_41_(Rameau,_Jean-Philippe)",
-      "year": 1739,
-      "title": "Les F\u00eates d'H\u00e9b\u00e9, RCT 41"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Les_F%C3%AAtes_de_l%27Hymen_et_de_l%27Amour,_RCT_38_(Rameau,_Jean-Philippe)",
-      "year": 1747,
-      "title": "Les F\u00eates de l'Hymen et de l'Amour, RCT 38"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Les_F%C3%AAtes_de_Polymnie,_RCT_39_(Rameau,_Jean-Philippe)",
-      "year": 1745,
-      "title": "Les F\u00eates de Polymnie, RCT 39"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Les_F%C3%AAtes_de_Ramire,_RCT_40_(Rameau,_Jean-Philippe)",
-      "year": 1745,
-      "title": "Les F\u00eates de Ramire, RCT 40"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fifth_Concert_in_D_minor,_RCT_11_(Rameau,_Jean-Philippe)",
-      "year": 1726,
-      "title": "Fifth Concert in D minor, RCT 11"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/First_Concert_in_C_minor,_RCT_7_(Rameau,_Jean-Philippe)",
-      "year": 1726,
-      "title": "First Concert in C minor, RCT 7"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fourth_Concert_in_B-flat_major,_RCT_10_(Rameau,_Jean-Philippe)",
-      "year": 1726,
-      "title": "Fourth Concert in B-flat major, RCT 10"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_Guirlande,_RCT_42_(Rameau,_Jean-Philippe)",
-      "year": 1751,
-      "title": "La Guirlande, RCT 42"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Hippolyte_et_Aricie,_RCT_43_(Rameau,_Jean-Philippe)",
-      "year": 1733,
-      "title": "Hippolyte et Aricie, RCT 43"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/In_convertendo_Dominus,_RCT_14_(Rameau,_Jean-Philippe)",
-      "year": 1751,
-      "title": "In convertendo Dominus, RCT 14"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Les_Indes_galantes,_RCT_44_(Rameau,_Jean-Philippe)",
-      "year": 1735,
-      "title": "Les Indes galantes, RCT 44"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Linus,_RCT_46_(Rameau,_Jean-Philippe)",
-      "year": 1750,
-      "title": "Linus, RCT 46"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_Lyre_enchant%C3%A9e_(Rameau,_Jean-Philippe)",
-      "year": 1758,
-      "title": "La Lyre enchant\u00e9e"
-    },
-    {
+      "title": "Menuet en Rondeau, RCT 4",
       "imslp_url": "https://imslp.org/wiki/Menuet_en_Rondeau,_RCT_4_(Rameau,_Jean-Philippe)",
-      "year": 1724,
-      "title": "Menuet en Rondeau, RCT 4"
+      "year": 1724
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Na%C3%AFs,_RCT_49_(Rameau,_Jean-Philippe)",
-      "year": 1749,
-      "title": "Na\u00efs, RCT 49"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Orph%C3%A9e,_RCT_27_(Rameau,_Jean-Philippe)",
-      "year": 1721,
-      "title": "Orph\u00e9e, RCT 27"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Les_Paladins,_RCT_51_(Rameau,_Jean-Philippe)",
-      "year": 1760,
-      "title": "Les Paladins, RCT 51"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Pigmalion,_RCT_52_(Rameau,_Jean-Philippe)",
-      "year": 1748,
-      "title": "Pigmalion, RCT 52"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Plat%C3%A9e,_RCT_53_(Rameau,_Jean-Philippe)",
-      "year": 1745,
-      "title": "Plat\u00e9e, RCT 53"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Premier_livre_de_pi%C3%A8ces_de_clavecin,_RCT_1_(Rameau,_Jean-Philippe)",
-      "year": 1706,
-      "title": "Premier livre de pi\u00e8ces de clavecin, RCT 1"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_Princesse_de_Navarre,_RCT_44_(Rameau,_Jean-Philippe)",
-      "year": 1745,
-      "title": "La Princesse de Navarre, RCT 44"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Second_Concert_in_G_major,_RCT_8_(Rameau,_Jean-Philippe)",
-      "year": 1726,
-      "title": "Second Concert in G major, RCT 8"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Suite_in_A_minor,_RCT_5_(Rameau,_Jean-Philippe)",
-      "year": 1727,
-      "title": "Suite in A minor, RCT 5"
-    },
-    {
+      "title": "Suite in D major, RCT 3",
       "imslp_url": "https://imslp.org/wiki/Suite_in_D_major,_RCT_3_(Rameau,_Jean-Philippe)",
-      "year": 1724,
-      "title": "Suite in D major, RCT 3"
+      "year": 1724
     },
     {
+      "title": "Suite in E minor, RCT 2",
       "imslp_url": "https://imslp.org/wiki/Suite_in_E_minor,_RCT_2_(Rameau,_Jean-Philippe)",
-      "year": 1724,
-      "title": "Suite in E minor, RCT 2"
+      "year": 1724
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Suite_in_G_major,_RCT_6_(Rameau,_Jean-Philippe)",
-      "year": 1727,
-      "title": "Suite in G major, RCT 6"
+      "title": "Fifth Concert in D minor, RCT 11",
+      "imslp_url": "https://imslp.org/wiki/Fifth_Concert_in_D_minor,_RCT_11_(Rameau,_Jean-Philippe)",
+      "year": 1726
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Les_Surprises_de_l%27amour,_RCT_58_(Rameau,_Jean-Philippe)",
-      "year": 1748,
-      "title": "Les Surprises de l'amour, RCT 58"
+      "title": "First Concert in C minor, RCT 7",
+      "imslp_url": "https://imslp.org/wiki/First_Concert_in_C_minor,_RCT_7_(Rameau,_Jean-Philippe)",
+      "year": 1726
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Le_Temple_de_la_gloire,_RCT_59_(Rameau,_Jean-Philippe)",
-      "year": 1745,
-      "title": "Le Temple de la gloire, RCT 59"
+      "title": "Fourth Concert in B-flat major, RCT 10",
+      "imslp_url": "https://imslp.org/wiki/Fourth_Concert_in_B-flat_major,_RCT_10_(Rameau,_Jean-Philippe)",
+      "year": 1726
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Th%C3%A9tis,_RCT_28_(Rameau,_Jean-Philippe)",
-      "year": 1715,
-      "title": "Th\u00e9tis, RCT 28"
+      "title": "Second Concert in G major, RCT 8",
+      "imslp_url": "https://imslp.org/wiki/Second_Concert_in_G_major,_RCT_8_(Rameau,_Jean-Philippe)",
+      "year": 1726
     },
     {
+      "title": "Third Concert in A major, RCT 9",
       "imslp_url": "https://imslp.org/wiki/Third_Concert_in_A_major,_RCT_9_(Rameau,_Jean-Philippe)",
-      "year": 1726,
-      "title": "Third Concert in A major, RCT 9"
+      "year": 1726
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Za%C3%AFs,_RCT_60_(Rameau,_Jean-Philippe)",
-      "year": 1748,
-      "title": "Za\u00efs, RCT 60"
+      "title": "Suite in A minor, RCT 5",
+      "imslp_url": "https://imslp.org/wiki/Suite_in_A_minor,_RCT_5_(Rameau,_Jean-Philippe)",
+      "year": 1727
     },
     {
+      "title": "Suite in G major, RCT 6",
+      "imslp_url": "https://imslp.org/wiki/Suite_in_G_major,_RCT_6_(Rameau,_Jean-Philippe)",
+      "year": 1727
+    },
+    {
+      "title": "Hippolyte et Aricie, RCT 43",
+      "imslp_url": "https://imslp.org/wiki/Hippolyte_et_Aricie,_RCT_43_(Rameau,_Jean-Philippe)",
+      "year": 1733
+    },
+    {
+      "title": "Les Courses de Temp\u00e9, RCT 33",
+      "imslp_url": "https://imslp.org/wiki/Les_Courses_de_Temp\u00e9,_RCT_33_(Rameau,_Jean-Philippe)",
+      "year": 1734
+    },
+    {
+      "title": "Les Indes galantes, RCT 44",
+      "imslp_url": "https://imslp.org/wiki/Les_Indes_galantes,_RCT_44_(Rameau,_Jean-Philippe)",
+      "year": 1735
+    },
+    {
+      "title": "Castor et Pollux, RCT 32",
+      "imslp_url": "https://imslp.org/wiki/Castor_et_Pollux,_RCT_32_(Rameau,_Jean-Philippe)",
+      "year": 1737
+    },
+    {
+      "title": "Dardanus, RCT 35",
+      "imslp_url": "https://imslp.org/wiki/Dardanus,_RCT_35_(Rameau,_Jean-Philippe)",
+      "year": 1739
+    },
+    {
+      "title": "Les F\u00eates d'H\u00e9b\u00e9, RCT 41",
+      "imslp_url": "https://imslp.org/wiki/Les_F\u00eates_d'H\u00e9b\u00e9,_RCT_41_(Rameau,_Jean-Philippe)",
+      "year": 1739
+    },
+    {
+      "title": "Cantate pour le jour de la Saint-Louis, RCT 25",
+      "imslp_url": "https://imslp.org/wiki/Cantate_pour_le_jour_de_la_Saint-Louis,_RCT_25_(Rameau,_Jean-Philippe)",
+      "year": 1740
+    },
+    {
+      "title": "La Princesse de Navarre, RCT 44",
+      "imslp_url": "https://imslp.org/wiki/La_Princesse_de_Navarre,_RCT_44_(Rameau,_Jean-Philippe)",
+      "year": 1745
+    },
+    {
+      "title": "Le Temple de la gloire, RCT 59",
+      "imslp_url": "https://imslp.org/wiki/Le_Temple_de_la_gloire,_RCT_59_(Rameau,_Jean-Philippe)",
+      "year": 1745
+    },
+    {
+      "title": "Les F\u00eates de Polymnie, RCT 39",
+      "imslp_url": "https://imslp.org/wiki/Les_F\u00eates_de_Polymnie,_RCT_39_(Rameau,_Jean-Philippe)",
+      "year": 1745
+    },
+    {
+      "title": "Les F\u00eates de Ramire, RCT 40",
+      "imslp_url": "https://imslp.org/wiki/Les_F\u00eates_de_Ramire,_RCT_40_(Rameau,_Jean-Philippe)",
+      "year": 1745
+    },
+    {
+      "title": "Plat\u00e9e, RCT 53",
+      "imslp_url": "https://imslp.org/wiki/Plat\u00e9e,_RCT_53_(Rameau,_Jean-Philippe)",
+      "year": 1745
+    },
+    {
+      "title": "La Dauphine, RCT 12",
+      "imslp_url": "https://imslp.org/wiki/La_Dauphine,_RCT_12_(Rameau,_Jean-Philippe)",
+      "year": 1747
+    },
+    {
+      "title": "Les F\u00eates de l'Hymen et de l'Amour, RCT 38",
+      "imslp_url": "https://imslp.org/wiki/Les_F\u00eates_de_l'Hymen_et_de_l'Amour,_RCT_38_(Rameau,_Jean-Philippe)",
+      "year": 1747
+    },
+    {
+      "title": "Les Surprises de l'amour, RCT 58",
+      "imslp_url": "https://imslp.org/wiki/Les_Surprises_de_l'amour,_RCT_58_(Rameau,_Jean-Philippe)",
+      "year": 1748
+    },
+    {
+      "title": "Pigmalion, RCT 52",
+      "imslp_url": "https://imslp.org/wiki/Pigmalion,_RCT_52_(Rameau,_Jean-Philippe)",
+      "year": 1748
+    },
+    {
+      "title": "Za\u00efs, RCT 60",
+      "imslp_url": "https://imslp.org/wiki/Za\u00efs,_RCT_60_(Rameau,_Jean-Philippe)",
+      "year": 1748
+    },
+    {
+      "title": "Na\u00efs, RCT 49",
+      "imslp_url": "https://imslp.org/wiki/Na\u00efs,_RCT_49_(Rameau,_Jean-Philippe)",
+      "year": 1749
+    },
+    {
+      "title": "Zoroastre, RCT 62",
       "imslp_url": "https://imslp.org/wiki/Zoroastre,_RCT_62_(Rameau,_Jean-Philippe)",
-      "year": 1749,
-      "title": "Zoroastre, RCT 62"
+      "year": 1749
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Cantates_Fran%C3%A7aises_(Rameau,_Jean-Philippe)",
-      "year": 1728,
-      "title": "Cantates Fran\u00e7aises"
+      "title": "Linus, RCT 46",
+      "imslp_url": "https://imslp.org/wiki/Linus,_RCT_46_(Rameau,_Jean-Philippe)",
+      "year": 1750
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Nouvelles_suites_de_pi%C3%A8ces_de_clavecin,_RCT_5-6_(Rameau,_Jean-Philippe)",
-      "year": 1727,
-      "title": "Nouvelles suites de pi\u00e8ces de clavecin, RCT 5-6"
+      "title": "Acante et C\u00e9phise, RCT 29",
+      "imslp_url": "https://imslp.org/wiki/Acante_et_C\u00e9phise,_RCT_29_(Rameau,_Jean-Philippe)",
+      "year": 1751
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Pi%C3%A8ces_de_clavecin_avec_une_m%C3%A9thode,_RCT_2-4_(Rameau,_Jean-Philippe)",
-      "year": 1724,
-      "title": "Pi\u00e8ces de clavecin avec une m\u00e9thode, RCT 2-4"
+      "title": "In convertendo Dominus, RCT 14",
+      "imslp_url": "https://imslp.org/wiki/In_convertendo_Dominus,_RCT_14_(Rameau,_Jean-Philippe)",
+      "year": 1751
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Pi%C3%A8ces_de_clavecin_en_concerts,_RCT_7-11_(Rameau,_Jean-Philippe)",
-      "year": 1726,
-      "title": "Pi\u00e8ces de clavecin en concerts, RCT 7-11"
+      "title": "La Guirlande, RCT 42",
+      "imslp_url": "https://imslp.org/wiki/La_Guirlande,_RCT_42_(Rameau,_Jean-Philippe)",
+      "year": 1751
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Code_de_musique_pratique_(Rameau,_Jean-Philippe)",
-      "year": 1760,
-      "title": "Code de musique pratique"
+      "title": "Daphnis et Egl\u00e9, RCT 34",
+      "imslp_url": "https://imslp.org/wiki/Daphnis_et_Egl\u00e9,_RCT_34_(Rameau,_Jean-Philippe)",
+      "year": 1753
     },
     {
-      "imslp_url": "https://imslp.org/wiki/D%C3%A9monstration_du_principe_de_l%27harmonie_(Rameau,_Jean-Philippe)",
-      "year": 1750,
-      "title": "D\u00e9monstration du principe de l'harmonie"
+      "title": "L'enl\u00e8vement d'Adonis",
+      "imslp_url": "https://imslp.org/wiki/L'enl\u00e8vement_d'Adonis_(Rameau,_Jean-Philippe)",
+      "year": 1757
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Dissertation_sur_les_diff%C3%A9rentes_m%C3%A9thodes_d%27accompagnement_(Rameau,_Jean-Philippe)",
-      "year": 1732,
-      "title": "Dissertation sur les diff\u00e9rentes m\u00e9thodes d'accompagnement"
+      "title": "La Lyre enchant\u00e9e",
+      "imslp_url": "https://imslp.org/wiki/La_Lyre_enchant\u00e9e_(Rameau,_Jean-Philippe)",
+      "year": 1758
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Erreurs_sur_la_musique_dans_l%27Encyclop%C3%A9die_(Rameau,_Jean-Philippe)",
-      "year": 1755,
-      "title": "Erreurs sur la musique dans l'Encyclop\u00e9die"
+      "title": "Les Paladins, RCT 51",
+      "imslp_url": "https://imslp.org/wiki/Les_Paladins,_RCT_51_(Rameau,_Jean-Philippe)",
+      "year": 1760
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Extrait_d%27une_r%C3%A9ponse_de_M._Rameau_%C3%A0_M._Euler_sur_l%27identit%C3%A9_des_octaves_(Rameau,_Jean-Philippe)",
-      "year": 1753,
-      "title": "Extrait d'une r\u00e9ponse de M. Rameau \u00e0 M. Euler sur l'identit\u00e9 des octaves"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/G%C3%A9n%C3%A9ration_harmonique,_ou_Trait%C3%A9_de_musique_th%C3%A9orique_et_pratique_(Rameau,_Jean-Philippe)",
-      "year": 1737,
-      "title": "G\u00e9n\u00e9ration harmonique, ou Trait\u00e9 de musique th\u00e9orique et pratique"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Nouveau_syst%C3%A8me_de_musique_th%C3%A9orique_(Rameau,_Jean-Philippe)",
-      "year": 1726,
-      "title": "Nouveau syst\u00e8me de musique th\u00e9orique"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Nouvelles_r%C3%A9flexions_de_M._Rameau_sur_sa_D%C3%A9monstration_du_principe_de_l%27harmonie_(Rameau,_Jean-Philippe)",
-      "year": 1752,
-      "title": "Nouvelles r\u00e9flexions de M. Rameau sur sa D\u00e9monstration du principe de l'harmonie"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Observations_sur_notre_instinct_pour_la_musique,_et_sur_son_principe_(Rameau,_Jean-Philippe)",
-      "year": 1754,
-      "title": "Observations sur notre instinct pour la musique, et sur son principe"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Origine_des_sciences_(Rameau,_Jean-Philippe)",
-      "year": 1761,
-      "title": "Origine des sciences"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/R%C3%A9ponse_de_M._Rameau_%C3%A0_MM._les_%C3%A9diteurs_de_l%27Encyclop%C3%A9die_sur_leur_dernier_avertissement_(Rameau,_Jean-Philippe)",
-      "year": 1757,
-      "title": "R\u00e9ponse de M. Rameau \u00e0 MM. les \u00e9diteurs de l'Encyclop\u00e9die sur leur dernier avertissement"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Suite_des_Erreurs_sur_la_musique_dans_l%27Encyclop%C3%A9die_(Rameau,_Jean-Philippe)",
-      "year": 1756,
-      "title": "Suite des Erreurs sur la musique dans l'Encyclop\u00e9die"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Trait%C3%A9_de_l%27harmonie_r%C3%A9duite_%C3%A0_ses_principes_naturels_(Rameau,_Jean-Philippe)",
-      "year": 1722,
-      "title": "Trait\u00e9 de l'harmonie r\u00e9duite \u00e0 ses principes naturels"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Trait%C3%A9_des_accords_et_de_leur_succession_selon_le_syst%C3%A9me_de_la_Basse-fondamentale_(Rameau,_Jean-Philippe)",
-      "year": 1764,
-      "title": "Trait\u00e9 des accords et de leur succession selon le syst\u00e9me de la Basse-fondamentale"
+      "title": "Les Bor\u00e9ades, RCT 31",
+      "imslp_url": "https://imslp.org/wiki/Les_Bor\u00e9ades,_RCT_31_(Rameau,_Jean-Philippe)",
+      "year": 1763
     }
   ]
 }

@@ -1,0 +1,729 @@
+{
+  "full_name": "Jan Dismas Zelenka",
+  "first_names": "Jan Dismas",
+  "last_name": "Zelenka",
+  "birth_year": 1679,
+  "death_year": 1745,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jan_Dismas_Zelenka",
+  "events": [
+    {
+      "section": "Life",
+      "title": "Birth",
+      "summary": "Jan Dismas Zelenka was born in Lou\u0148ovice pod Blan\u00edkem, a market town southeast of Prague, in Bohemia. He was the eldest of eight children born to Marie Magdalena and Ji\u0159\u00ed Zelenka, who was a schoolmaster and organist, likely his first music teacher.",
+      "year": 1679,
+      "location": "Lou\u0148ovice pod Blan\u00edkem, Bohemia",
+      "emoji": "\ud83c\udfb5",
+      "fun_version": "Jan Dismas Zelenka was born in Lou\u0148ovice pod Blan\u00edkem, a market town southeast of Prague, in Bohemia. He was the eldest of eight siblings. His mom, Marie Magdalena, and dad, Ji\u0159\u00ed, who was a schoolmaster and organist, was likely his first music teacher."
+    },
+    {
+      "section": "Life",
+      "title": "First Works",
+      "summary": "Zelenka began his musical training at the Jesuit college Clementinum in Prague and composed his earliest known work, the school drama Via laureta, in 1704, although only the libretto has survived.",
+      "year": 1704,
+      "location": "Prague",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Zelenka kicked off his symphonic journey at the Jesuit college Clementinum in Prague, where he composed his first known masterpiece, a school drama called Via laureta in 1704. Unfortunately, only the script survived."
+    },
+    {
+      "section": "Life",
+      "title": "Appointment at Dresden's Royal Orchestra",
+      "summary": "In 1709, Zelenka served Baron von Johann Hubert von Hartig and was appointed as a violone player in the Dresden royal orchestra, marking an important step in his career.",
+      "year": 1709,
+      "location": "Dresden",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "In the grand year of 1709, Zelenka decided to party with Baron von Johann Hubert von Hartig! He got himself a fancy title as the violone player in the Dresden royal orchestra, marking an important step in his career!"
+    },
+    {
+      "section": "Life",
+      "title": "Missa Sanctae Caeciliae",
+      "summary": "His first major work in Dresden was the Missa Sanctae Caeciliae, composed around 1711, showcasing his creativity and skill in sacred music.",
+      "year": 1711,
+      "location": "Dresden",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "His first major work in Dresden was the Missa Sanctae Caeciliae, composed around 1711. Showcasing his creativity and skill in sacred music, the only thing more sacred than that piece is the fact that it took longer to write than it does to listen to it!"
+    },
+    {
+      "section": "Reception",
+      "title": "Study under J.J. Fux",
+      "summary": "Between 1716 and 1719, Zelenka studied under J.J. Fux in Vienna, who was a prominent music theorist and the author of Gradus ad Parnassum. During this time, he also accepted J.J. Quantz as a student, which indicates his deep involvement in music education and mentorship.",
+      "year": 1716,
+      "location": "Vienna, Austria",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Between 1716 and 1719, Zelenka decided that learning from J.J. Fux in Vienna was way more fun than going to a music festival. After all, who wouldn't want to be taught by the big cheese of music theory? While he was there, he took on J.J. Quantz as a student, showcasing his deep dedication to music education. Imagine these two together \u2013 like maestro and apprentice! Talk about a duet of epic proportions! It\u2019s a music school special that would leave even Mozart green with jealousy!"
+    },
+    {
+      "section": "Life",
+      "title": "Kapellmeister Position",
+      "summary": "After the death of Kapellmeister Johann David Heinichen in 1729, Zelenka unofficially became acting Kapellmeister and took over the direction of sacred music at the court.",
+      "year": 1729,
+      "location": "Dresden",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "After the dramatic exit of Kapellmeister Johann David Heinichen in 1729, Zelenka jumped at the chance to wear the fancy hat of acting Kapellmeister, stepping up to take over the sacred sounds at the court."
+    },
+    {
+      "section": "Life",
+      "title": "Church Composer Position",
+      "summary": "Zelenka was appointed as church composer, essentially the Vice-Kapellmeister, from 1734 on. This role indicated his significant standing at the Dresden court.",
+      "year": 1734,
+      "location": "Dresden",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Zelenka became the church's composer in 1734, which is like being the Vice-Kapellmeister, or as I like to call it, the 'Assistant to the Chief Music Wizard.' His promotion shows he was a big deal at the Dresden court."
+    },
+    {
+      "section": "Life",
+      "title": "Death",
+      "summary": "Zelenka passed away on 23 December 1745, due to dropsy. He was buried the next day on Christmas Eve, leaving behind a legacy of influential compositions and connections with other eminent composers.",
+      "year": 1745,
+      "location": "Dresden",
+      "emoji": "\ud83d\ude22",
+      "fun_version": "Zelenka passed away on December 23, 1745, due to dropsy. He was buried the next day on Christmas Eve. His legacy includes influential compositions and connections with other eminent composers, and he left behind an impressive playlist that could probably turn any composer green with envy!"
+    }
+  ],
+  "works": [
+    {
+      "title": "Chvalte Boha siln\u00e9ho, ZWV 165",
+      "imslp_url": "https://imslp.org/wiki/Chvalte_Boha_siln\u00e9ho,_ZWV_165_(Zelenka,_Jan_Dismas)",
+      "year": 1695
+    },
+    {
+      "title": "Immisit Dominus pestilentiam, ZWV 58",
+      "imslp_url": "https://imslp.org/wiki/Immisit_Dominus_pestilentiam,_ZWV_58_(Zelenka,_Jan_Dismas)",
+      "year": 1709
+    },
+    {
+      "title": "Statio quadruplex pro Processione Theophorica, ZWV 158",
+      "imslp_url": "https://imslp.org/wiki/Statio_quadruplex_pro_Processione_Theophorica,_ZWV_158_(Zelenka,_Jan_Dismas)",
+      "year": 1710
+    },
+    {
+      "title": "Missa Sancta Caeciliae, ZWV 1",
+      "imslp_url": "https://imslp.org/wiki/Missa_Sancta_Caeciliae,_ZWV_1_(Zelenka,_Jan_Dismas)",
+      "year": 1711
+    },
+    {
+      "title": "Attendite et videte, ZWV 59",
+      "imslp_url": "https://imslp.org/wiki/Attendite_et_videte,_ZWV_59_(Zelenka,_Jan_Dismas)",
+      "year": 1712
+    },
+    {
+      "title": "Missa Judica me, ZWV 2",
+      "imslp_url": "https://imslp.org/wiki/Missa_Judica_me,_ZWV_2_(Zelenka,_Jan_Dismas)",
+      "year": 1714
+    },
+    {
+      "title": "Currite ad aras, ZWV 166",
+      "imslp_url": "https://imslp.org/wiki/Currite_ad_aras,_ZWV_166_(Zelenka,_Jan_Dismas)",
+      "year": 1716
+    },
+    {
+      "title": "Da pacem Domine, ZWV 167",
+      "imslp_url": "https://imslp.org/wiki/Da_pacem_Domine,_ZWV_167_(Zelenka,_Jan_Dismas)",
+      "year": 1716
+    },
+    {
+      "title": "Deus dux fortissime, ZWV 60",
+      "imslp_url": "https://imslp.org/wiki/Deus_dux_fortissime,_ZWV_60_(Zelenka,_Jan_Dismas)",
+      "year": 1716
+    },
+    {
+      "title": "9 Canons, ZWV 191",
+      "imslp_url": "https://imslp.org/wiki/9_Canons,_ZWV_191_(Zelenka,_Jan_Dismas)",
+      "year": 1717
+    },
+    {
+      "title": "Capriccio in D major, ZWV 182",
+      "imslp_url": "https://imslp.org/wiki/Capriccio_in_D_major,_ZWV_182_(Zelenka,_Jan_Dismas)",
+      "year": 1717
+    },
+    {
+      "title": "Agnus Dei, ZWV 37",
+      "imslp_url": "https://imslp.org/wiki/Agnus_Dei,_ZWV_37_(Zelenka,_Jan_Dismas)",
+      "year": 1718
+    },
+    {
+      "title": "Capriccio in F major, ZWV 184",
+      "imslp_url": "https://imslp.org/wiki/Capriccio_in_F_major,_ZWV_184_(Zelenka,_Jan_Dismas)",
+      "year": 1718
+    },
+    {
+      "title": "Capriccio in G major, ZWV 183",
+      "imslp_url": "https://imslp.org/wiki/Capriccio_in_G_major,_ZWV_183_(Zelenka,_Jan_Dismas)",
+      "year": 1718
+    },
+    {
+      "title": "Litaniae Lauretanae, ZWV 149",
+      "imslp_url": "https://imslp.org/wiki/Litaniae_Lauretanae,_ZWV_149_(Zelenka,_Jan_Dismas)",
+      "year": 1718
+    },
+    {
+      "title": "Missa Corporis Domini, ZWV 3",
+      "imslp_url": "https://imslp.org/wiki/Missa_Corporis_Domini,_ZWV_3_(Zelenka,_Jan_Dismas)",
+      "year": 1719
+    },
+    {
+      "title": "Salve Regina, ZWV 204",
+      "imslp_url": "https://imslp.org/wiki/Salve_Regina,_ZWV_204_(Zelenka,_Jan_Dismas)",
+      "year": 1719
+    },
+    {
+      "title": "Cantilena circularis Vide Domine, ZWV 179",
+      "imslp_url": "https://imslp.org/wiki/Cantilena_circularis_Vide_Domine,_ZWV_179_(Zelenka,_Jan_Dismas)",
+      "year": 1722
+    },
+    {
+      "title": "Kyrie, Sanctus and Agnus Dei, ZWV 26",
+      "imslp_url": "https://imslp.org/wiki/Kyrie,_Sanctus_and_Agnus_Dei,_ZWV_26_(Zelenka,_Jan_Dismas)",
+      "year": 1722
+    },
+    {
+      "title": "Miserere, ZWV 56",
+      "imslp_url": "https://imslp.org/wiki/Miserere,_ZWV_56_(Zelenka,_Jan_Dismas)",
+      "year": 1722
+    },
+    {
+      "title": "2 Crab Canons 'Emit amor', ZWV 178",
+      "imslp_url": "https://imslp.org/wiki/2_Crab_Canons_'Emit_amor',_ZWV_178_(Zelenka,_Jan_Dismas)",
+      "year": 1723
+    },
+    {
+      "title": "3 Lamentationes pro hebdomada sancta, ZWV 54",
+      "imslp_url": "https://imslp.org/wiki/3_Lamentationes_pro_hebdomada_sancta,_ZWV_54_(Zelenka,_Jan_Dismas)",
+      "year": 1723
+    },
+    {
+      "title": "Concerto \u00e0 8 concertanti in G major, ZWV 186",
+      "imslp_url": "https://imslp.org/wiki/Concerto_\u00e0_8_concertanti_in_G_major,_ZWV_186_(Zelenka,_Jan_Dismas)",
+      "year": 1723
+    },
+    {
+      "title": "Hipocondrie \u00e0 7 Concertanti, ZWV 187",
+      "imslp_url": "https://imslp.org/wiki/Hipocondrie_\u00e0_7_Concertanti,_ZWV_187_(Zelenka,_Jan_Dismas)",
+      "year": 1723
+    },
+    {
+      "title": "Litaniae Xaverianae, ZWV 154",
+      "imslp_url": "https://imslp.org/wiki/Litaniae_Xaverianae,_ZWV_154_(Zelenka,_Jan_Dismas)",
+      "year": 1723
+    },
+    {
+      "title": "Missa Sancti Spiritus, ZWV 4",
+      "imslp_url": "https://imslp.org/wiki/Missa_Sancti_Spiritus,_ZWV_4_(Zelenka,_Jan_Dismas)",
+      "year": 1723
+    },
+    {
+      "title": "Ouverture-Suite in F major, ZWV 188",
+      "imslp_url": "https://imslp.org/wiki/Ouverture-Suite_in_F_major,_ZWV_188_(Zelenka,_Jan_Dismas)",
+      "year": 1723
+    },
+    {
+      "title": "Proh, quos criminis, ZWV 172",
+      "imslp_url": "https://imslp.org/wiki/Proh,_quos_criminis,_ZWV_172_(Zelenka,_Jan_Dismas)",
+      "year": 1723
+    },
+    {
+      "title": "Responsoria pro Hebdomada Sancta, ZWV 55",
+      "imslp_url": "https://imslp.org/wiki/Responsoria_pro_Hebdomada_Sancta,_ZWV_55_(Zelenka,_Jan_Dismas)",
+      "year": 1723
+    },
+    {
+      "title": "Simphonie \u00e0 8 concertanti, ZWV 189",
+      "imslp_url": "https://imslp.org/wiki/Simphonie_\u00e0_8_concertanti,_ZWV_189_(Zelenka,_Jan_Dismas)",
+      "year": 1723
+    },
+    {
+      "title": "Sub olea pacis, ZWV 175",
+      "imslp_url": "https://imslp.org/wiki/Sub_olea_pacis,_ZWV_175_(Zelenka,_Jan_Dismas)",
+      "year": 1723
+    },
+    {
+      "title": "4 Antiphons, ZWV 163",
+      "imslp_url": "https://imslp.org/wiki/4_Antiphons,_ZWV_163_(Zelenka,_Jan_Dismas)",
+      "year": 1724
+    },
+    {
+      "title": "Credo, ZWV 32",
+      "imslp_url": "https://imslp.org/wiki/Credo,_ZWV_32_(Zelenka,_Jan_Dismas)",
+      "year": 1724
+    },
+    {
+      "title": "De profundis, ZWV 97",
+      "imslp_url": "https://imslp.org/wiki/De_profundis,_ZWV_97_(Zelenka,_Jan_Dismas)",
+      "year": 1724
+    },
+    {
+      "title": "Gloria, ZWV 30",
+      "imslp_url": "https://imslp.org/wiki/Gloria,_ZWV_30_(Zelenka,_Jan_Dismas)",
+      "year": 1724
+    },
+    {
+      "title": "Salve Regina, ZWV 139",
+      "imslp_url": "https://imslp.org/wiki/Salve_Regina,_ZWV_139_(Zelenka,_Jan_Dismas)",
+      "year": 1724
+    },
+    {
+      "title": "Te Deum, ZWV 145",
+      "imslp_url": "https://imslp.org/wiki/Te_Deum,_ZWV_145_(Zelenka,_Jan_Dismas)",
+      "year": 1724
+    },
+    {
+      "title": "Alma redemptoris Mater, ZWV 123",
+      "imslp_url": "https://imslp.org/wiki/Alma_redemptoris_Mater,_ZWV_123_(Zelenka,_Jan_Dismas)",
+      "year": 1725
+    },
+    {
+      "title": "Alma redemptoris Mater, ZWV 124",
+      "imslp_url": "https://imslp.org/wiki/Alma_redemptoris_Mater,_ZWV_124_(Zelenka,_Jan_Dismas)",
+      "year": 1725
+    },
+    {
+      "title": "Angelus Domini descendit, ZWV 161",
+      "imslp_url": "https://imslp.org/wiki/Angelus_Domini_descendit,_ZWV_161_(Zelenka,_Jan_Dismas)",
+      "year": 1725
+    },
+    {
+      "title": "Beatus vir, ZWV 75",
+      "imslp_url": "https://imslp.org/wiki/Beatus_vir,_ZWV_75_(Zelenka,_Jan_Dismas)",
+      "year": 1725
+    },
+    {
+      "title": "Beatus vir, ZWV 76",
+      "imslp_url": "https://imslp.org/wiki/Beatus_vir,_ZWV_76_(Zelenka,_Jan_Dismas)",
+      "year": 1725
+    },
+    {
+      "title": "Confitebor tibi Domine, ZWV 72",
+      "imslp_url": "https://imslp.org/wiki/Confitebor_tibi_Domine,_ZWV_72_(Zelenka,_Jan_Dismas)",
+      "year": 1725
+    },
+    {
+      "title": "Creator alme siderum, ZWV 111",
+      "imslp_url": "https://imslp.org/wiki/Creator_alme_siderum,_ZWV_111_(Zelenka,_Jan_Dismas)",
+      "year": 1725
+    },
+    {
+      "title": "Dixit Dominus, ZWV 66",
+      "imslp_url": "https://imslp.org/wiki/Dixit_Dominus,_ZWV_66_(Zelenka,_Jan_Dismas)",
+      "year": 1725
+    },
+    {
+      "title": "In exitu Israel, ZWV 83",
+      "imslp_url": "https://imslp.org/wiki/In_exitu_Israel,_ZWV_83_(Zelenka,_Jan_Dismas)",
+      "year": 1725
+    },
+    {
+      "title": "Kyrie in A minor, ZWV 27",
+      "imslp_url": "https://imslp.org/wiki/Kyrie_in_A_minor,_ZWV_27_(Zelenka,_Jan_Dismas)",
+      "year": 1725
+    },
+    {
+      "title": "Laudate pueri, ZWV 82",
+      "imslp_url": "https://imslp.org/wiki/Laudate_pueri,_ZWV_82_(Zelenka,_Jan_Dismas)",
+      "year": 1725
+    },
+    {
+      "title": "Litaniae Lauretanae, ZWV 150",
+      "imslp_url": "https://imslp.org/wiki/Litaniae_Lauretanae,_ZWV_150_(Zelenka,_Jan_Dismas)",
+      "year": 1725
+    },
+    {
+      "title": "Magnificat, ZWV 108",
+      "imslp_url": "https://imslp.org/wiki/Magnificat,_ZWV_108_(Zelenka,_Jan_Dismas)",
+      "year": 1725
+    },
+    {
+      "title": "Missa Fidei, ZWV 6",
+      "imslp_url": "https://imslp.org/wiki/Missa_Fidei,_ZWV_6_(Zelenka,_Jan_Dismas)",
+      "year": 1725
+    },
+    {
+      "title": "Sanctus and Agnus Dei, ZWV 202",
+      "imslp_url": "https://imslp.org/wiki/Sanctus_and_Agnus_Dei,_ZWV_202_(Zelenka,_Jan_Dismas)",
+      "year": 1725
+    },
+    {
+      "title": "Sanctus, ZWV 35",
+      "imslp_url": "https://imslp.org/wiki/Sanctus,_ZWV_35_(Zelenka,_Jan_Dismas)",
+      "year": 1725
+    },
+    {
+      "title": "Dixit Dominus, ZWV 68",
+      "imslp_url": "https://imslp.org/wiki/Dixit_Dominus,_ZWV_68_(Zelenka,_Jan_Dismas)",
+      "year": 1726
+    },
+    {
+      "title": "Jam sol recessit aureus, ZWV 115",
+      "imslp_url": "https://imslp.org/wiki/Jam_sol_recessit_aureus,_ZWV_115_(Zelenka,_Jan_Dismas)",
+      "year": 1726
+    },
+    {
+      "title": "Laetatus sum, ZWV 88",
+      "imslp_url": "https://imslp.org/wiki/Laetatus_sum,_ZWV_88_(Zelenka,_Jan_Dismas)",
+      "year": 1726
+    },
+    {
+      "title": "Missa Nativitatis Domini, ZWV 8",
+      "imslp_url": "https://imslp.org/wiki/Missa_Nativitatis_Domini,_ZWV_8_(Zelenka,_Jan_Dismas)",
+      "year": 1726
+    },
+    {
+      "title": "Missa Paschalis, ZWV 7",
+      "imslp_url": "https://imslp.org/wiki/Missa_Paschalis,_ZWV_7_(Zelenka,_Jan_Dismas)",
+      "year": 1726
+    },
+    {
+      "title": "Nisi Dominus, ZWV 92",
+      "imslp_url": "https://imslp.org/wiki/Nisi_Dominus,_ZWV_92_(Zelenka,_Jan_Dismas)",
+      "year": 1726
+    },
+    {
+      "title": "Veni Creator Spiritus, ZWV 119",
+      "imslp_url": "https://imslp.org/wiki/Veni_Creator_Spiritus,_ZWV_119_(Zelenka,_Jan_Dismas)",
+      "year": 1726
+    },
+    {
+      "title": "Credidi, ZWV 85",
+      "imslp_url": "https://imslp.org/wiki/Credidi,_ZWV_85_(Zelenka,_Jan_Dismas)",
+      "year": 1727
+    },
+    {
+      "title": "De profundis, ZWV 96",
+      "imslp_url": "https://imslp.org/wiki/De_profundis,_ZWV_96_(Zelenka,_Jan_Dismas)",
+      "year": 1727
+    },
+    {
+      "title": "Lauda Jerusalem, ZWV 104",
+      "imslp_url": "https://imslp.org/wiki/Lauda_Jerusalem,_ZWV_104_(Zelenka,_Jan_Dismas)",
+      "year": 1727
+    },
+    {
+      "title": "Litaniae Xaverianae, ZWV 155",
+      "imslp_url": "https://imslp.org/wiki/Litaniae_Xaverianae,_ZWV_155_(Zelenka,_Jan_Dismas)",
+      "year": 1727
+    },
+    {
+      "title": "Litaniae de Venerabili Sacramento, ZWV 147",
+      "imslp_url": "https://imslp.org/wiki/Litaniae_de_Venerabili_Sacramento,_ZWV_147_(Zelenka,_Jan_Dismas)",
+      "year": 1727
+    },
+    {
+      "title": "Magnificat, ZWV 107",
+      "imslp_url": "https://imslp.org/wiki/Magnificat,_ZWV_107_(Zelenka,_Jan_Dismas)",
+      "year": 1727
+    },
+    {
+      "title": "Missa Charitatis, ZWV 10",
+      "imslp_url": "https://imslp.org/wiki/Missa_Charitatis,_ZWV_10_(Zelenka,_Jan_Dismas)",
+      "year": 1727
+    },
+    {
+      "title": "Missa Corpus Domini, ZWV 9",
+      "imslp_url": "https://imslp.org/wiki/Missa_Corpus_Domini,_ZWV_9_(Zelenka,_Jan_Dismas)",
+      "year": 1727
+    },
+    {
+      "title": "Salve Regina, ZWV 136",
+      "imslp_url": "https://imslp.org/wiki/Salve_Regina,_ZWV_136_(Zelenka,_Jan_Dismas)",
+      "year": 1727
+    },
+    {
+      "title": "3 Regina caeli, ZWV 129",
+      "imslp_url": "https://imslp.org/wiki/3_Regina_caeli,_ZWV_129_(Zelenka,_Jan_Dismas)",
+      "year": 1728
+    },
+    {
+      "title": "Alma redemptoris Mater, ZWV 127",
+      "imslp_url": "https://imslp.org/wiki/Alma_redemptoris_Mater,_ZWV_127_(Zelenka,_Jan_Dismas)",
+      "year": 1728
+    },
+    {
+      "title": "Beati omnes, ZWV 94",
+      "imslp_url": "https://imslp.org/wiki/Beati_omnes,_ZWV_94_(Zelenka,_Jan_Dismas)",
+      "year": 1728
+    },
+    {
+      "title": "Confitebor tibi Domine, ZWV 100",
+      "imslp_url": "https://imslp.org/wiki/Confitebor_tibi_Domine,_ZWV_100_(Zelenka,_Jan_Dismas)",
+      "year": 1728
+    },
+    {
+      "title": "Confitebor tibi Domine, ZWV 70",
+      "imslp_url": "https://imslp.org/wiki/Confitebor_tibi_Domine,_ZWV_70_(Zelenka,_Jan_Dismas)",
+      "year": 1728
+    },
+    {
+      "title": "Confitebor tibi Domine, ZWV 73",
+      "imslp_url": "https://imslp.org/wiki/Confitebor_tibi_Domine,_ZWV_73_(Zelenka,_Jan_Dismas)",
+      "year": 1728
+    },
+    {
+      "title": "De profundis, ZWV 95",
+      "imslp_url": "https://imslp.org/wiki/De_profundis,_ZWV_95_(Zelenka,_Jan_Dismas)",
+      "year": 1728
+    },
+    {
+      "title": "Dixit Dominus, ZWV 67",
+      "imslp_url": "https://imslp.org/wiki/Dixit_Dominus,_ZWV_67_(Zelenka,_Jan_Dismas)",
+      "year": 1728
+    },
+    {
+      "title": "Domine probasti me, ZWV 101",
+      "imslp_url": "https://imslp.org/wiki/Domine_probasti_me,_ZWV_101_(Zelenka,_Jan_Dismas)",
+      "year": 1728
+    },
+    {
+      "title": "In convertendo, ZWV 91",
+      "imslp_url": "https://imslp.org/wiki/In_convertendo,_ZWV_91_(Zelenka,_Jan_Dismas)",
+      "year": 1728
+    },
+    {
+      "title": "In exitu Israel, ZWV 84",
+      "imslp_url": "https://imslp.org/wiki/In_exitu_Israel,_ZWV_84_(Zelenka,_Jan_Dismas)",
+      "year": 1728
+    },
+    {
+      "title": "Lauda Jerusalem, ZWV 102",
+      "imslp_url": "https://imslp.org/wiki/Lauda_Jerusalem,_ZWV_102_(Zelenka,_Jan_Dismas)",
+      "year": 1728
+    },
+    {
+      "title": "Laudate Dominum, ZWV 87",
+      "imslp_url": "https://imslp.org/wiki/Laudate_Dominum,_ZWV_87_(Zelenka,_Jan_Dismas)",
+      "year": 1728
+    },
+    {
+      "title": "Memento Domine David, ZWV 98",
+      "imslp_url": "https://imslp.org/wiki/Memento_Domine_David,_ZWV_98_(Zelenka,_Jan_Dismas)",
+      "year": 1728
+    },
+    {
+      "title": "Missa Circumcisionis, ZWV 11",
+      "imslp_url": "https://imslp.org/wiki/Missa_Circumcisionis,_ZWV_11_(Zelenka,_Jan_Dismas)",
+      "year": 1728
+    },
+    {
+      "title": "O magnum mysterium, ZWV 171",
+      "imslp_url": "https://imslp.org/wiki/O_magnum_mysterium,_ZWV_171_(Zelenka,_Jan_Dismas)",
+      "year": 1728
+    },
+    {
+      "title": "Sanctus and Agnus Dei, ZWV 34",
+      "imslp_url": "https://imslp.org/wiki/Sanctus_and_Agnus_Dei,_ZWV_34_(Zelenka,_Jan_Dismas)",
+      "year": 1728
+    },
+    {
+      "title": "Sanctus et Agnus Dei in D Minor, ZWV 36",
+      "imslp_url": "https://imslp.org/wiki/Sanctus_et_Agnus_Dei_in_D_Minor,_ZWV_36_(Zelenka,_Jan_Dismas)",
+      "year": 1728
+    },
+    {
+      "title": "Alma redemptoris Mater, ZWV 125",
+      "imslp_url": "https://imslp.org/wiki/Alma_redemptoris_Mater,_ZWV_125_(Zelenka,_Jan_Dismas)",
+      "year": 1729
+    },
+    {
+      "title": "Benedictus sit Deus Pater, ZWV 207",
+      "imslp_url": "https://imslp.org/wiki/Benedictus_sit_Deus_Pater,_ZWV_207_(Zelenka,_Jan_Dismas)",
+      "year": 1729
+    },
+    {
+      "title": "Capriccio in G major, ZWV 190",
+      "imslp_url": "https://imslp.org/wiki/Capriccio_in_G_major,_ZWV_190_(Zelenka,_Jan_Dismas)",
+      "year": 1729
+    },
+    {
+      "title": "Confitebor tibi Domine, ZWV 71",
+      "imslp_url": "https://imslp.org/wiki/Confitebor_tibi_Domine,_ZWV_71_(Zelenka,_Jan_Dismas)",
+      "year": 1729
+    },
+    {
+      "title": "Jesu corona virginum, ZWV 116",
+      "imslp_url": "https://imslp.org/wiki/Jesu_corona_virginum,_ZWV_116_(Zelenka,_Jan_Dismas)",
+      "year": 1729
+    },
+    {
+      "title": "Laudate pueri, ZWV 81",
+      "imslp_url": "https://imslp.org/wiki/Laudate_pueri,_ZWV_81_(Zelenka,_Jan_Dismas)",
+      "year": 1729
+    },
+    {
+      "title": "Litaniae Xaverianae, ZWV 156",
+      "imslp_url": "https://imslp.org/wiki/Litaniae_Xaverianae,_ZWV_156_(Zelenka,_Jan_Dismas)",
+      "year": 1729
+    },
+    {
+      "title": "Litaniae de Venerabili Sacramento, ZWV 148",
+      "imslp_url": "https://imslp.org/wiki/Litaniae_de_Venerabili_Sacramento,_ZWV_148_(Zelenka,_Jan_Dismas)",
+      "year": 1729
+    },
+    {
+      "title": "Missa Divi Xaverii, ZWV 12",
+      "imslp_url": "https://imslp.org/wiki/Missa_Divi_Xaverii,_ZWV_12_(Zelenka,_Jan_Dismas)",
+      "year": 1729
+    },
+    {
+      "title": "Regina coeli, ZWV 130",
+      "imslp_url": "https://imslp.org/wiki/Regina_coeli,_ZWV_130_(Zelenka,_Jan_Dismas)",
+      "year": 1729
+    },
+    {
+      "title": "Haec dies quam fecit Dominus, ZWV 169",
+      "imslp_url": "https://imslp.org/wiki/Haec_dies_quam_fecit_Dominus,_ZWV_169_(Zelenka,_Jan_Dismas)",
+      "year": 1730
+    },
+    {
+      "title": "Il Serpente di Bronzo, ZWV 61",
+      "imslp_url": "https://imslp.org/wiki/Il_Serpente_di_Bronzo,_ZWV_61_(Zelenka,_Jan_Dismas)",
+      "year": 1730
+    },
+    {
+      "title": "Missa Gratias agimus tibi, ZWV 13",
+      "imslp_url": "https://imslp.org/wiki/Missa_Gratias_agimus_tibi,_ZWV_13_(Zelenka,_Jan_Dismas)",
+      "year": 1730
+    },
+    {
+      "title": "Qui nihil sortis felicis videt, ZWV 211",
+      "imslp_url": "https://imslp.org/wiki/Qui_nihil_sortis_felicis_videt,_ZWV_211_(Zelenka,_Jan_Dismas)",
+      "year": 1730
+    },
+    {
+      "title": "Salve Regina, ZWV 135",
+      "imslp_url": "https://imslp.org/wiki/Salve_Regina,_ZWV_135_(Zelenka,_Jan_Dismas)",
+      "year": 1730
+    },
+    {
+      "title": "Sollicitus fossor anhelat aurum, ZWV 209",
+      "imslp_url": "https://imslp.org/wiki/Sollicitus_fossor_anhelat_aurum,_ZWV_209_(Zelenka,_Jan_Dismas)",
+      "year": 1730
+    },
+    {
+      "title": "Gaude laetare turba fidelis, ZWV 168",
+      "imslp_url": "https://imslp.org/wiki/Gaude_laetare_turba_fidelis,_ZWV_168_(Zelenka,_Jan_Dismas)",
+      "year": 1731
+    },
+    {
+      "title": "Missa Sancti Josephi, ZWV 14",
+      "imslp_url": "https://imslp.org/wiki/Missa_Sancti_Josephi,_ZWV_14_(Zelenka,_Jan_Dismas)",
+      "year": 1731
+    },
+    {
+      "title": "Te Deum, ZWV 146",
+      "imslp_url": "https://imslp.org/wiki/Te_Deum,_ZWV_146_(Zelenka,_Jan_Dismas)",
+      "year": 1731
+    },
+    {
+      "title": "Crudelis Herodes Deum, ZWV 112",
+      "imslp_url": "https://imslp.org/wiki/Crudelis_Herodes_Deum,_ZWV_112_(Zelenka,_Jan_Dismas)",
+      "year": 1732
+    },
+    {
+      "title": "8 Italian Arias, ZWV 176",
+      "imslp_url": "https://imslp.org/wiki/8_Italian_Arias,_ZWV_176_(Zelenka,_Jan_Dismas)",
+      "year": 1733
+    },
+    {
+      "title": "Barbara dira effera, ZWV 164",
+      "imslp_url": "https://imslp.org/wiki/Barbara_dira_effera,_ZWV_164_(Zelenka,_Jan_Dismas)",
+      "year": 1733
+    },
+    {
+      "title": "Missa Eucharistica, ZWV 15",
+      "imslp_url": "https://imslp.org/wiki/Missa_Eucharistica,_ZWV_15_(Zelenka,_Jan_Dismas)",
+      "year": 1733
+    },
+    {
+      "title": "Officium defunctorum, ZWV 47",
+      "imslp_url": "https://imslp.org/wiki/Officium_defunctorum,_ZWV_47_(Zelenka,_Jan_Dismas)",
+      "year": 1733
+    },
+    {
+      "title": "Requiem, ZWV 46",
+      "imslp_url": "https://imslp.org/wiki/Requiem,_ZWV_46_(Zelenka,_Jan_Dismas)",
+      "year": 1733
+    },
+    {
+      "title": "Ges\u00f9 al calvario, ZWV 62",
+      "imslp_url": "https://imslp.org/wiki/Ges\u00f9_al_calvario,_ZWV_62_(Zelenka,_Jan_Dismas)",
+      "year": 1735
+    },
+    {
+      "title": "Alma redemptoris Mater, ZWV 126",
+      "imslp_url": "https://imslp.org/wiki/Alma_redemptoris_Mater,_ZWV_126_(Zelenka,_Jan_Dismas)",
+      "year": 1736
+    },
+    {
+      "title": "I penitenti al sepolcro del redentore, ZWV 63",
+      "imslp_url": "https://imslp.org/wiki/I_penitenti_al_sepolcro_del_redentore,_ZWV_63_(Zelenka,_Jan_Dismas)",
+      "year": 1736
+    },
+    {
+      "title": "Missa Sanctissimae Trinitatis, ZWV 17",
+      "imslp_url": "https://imslp.org/wiki/Missa_Sanctissimae_Trinitatis,_ZWV_17_(Zelenka,_Jan_Dismas)",
+      "year": 1736
+    },
+    {
+      "title": "6 Ave Regina Coelorum, ZWV 128",
+      "imslp_url": "https://imslp.org/wiki/6_Ave_Regina_Coelorum,_ZWV_128_(Zelenka,_Jan_Dismas)",
+      "year": 1737
+    },
+    {
+      "title": "Il diamante, ZWV 177",
+      "imslp_url": "https://imslp.org/wiki/Il_diamante,_ZWV_177_(Zelenka,_Jan_Dismas)",
+      "year": 1737
+    },
+    {
+      "title": "Requiem, ZWV 45",
+      "imslp_url": "https://imslp.org/wiki/Requiem,_ZWV_45_(Zelenka,_Jan_Dismas)",
+      "year": 1737
+    },
+    {
+      "title": "Miserere, ZWV 57",
+      "imslp_url": "https://imslp.org/wiki/Miserere,_ZWV_57_(Zelenka,_Jan_Dismas)",
+      "year": 1738
+    },
+    {
+      "title": "Ecce nunc benedicite, ZWV 99",
+      "imslp_url": "https://imslp.org/wiki/Ecce_nunc_benedicite,_ZWV_99_(Zelenka,_Jan_Dismas)",
+      "year": 1739
+    },
+    {
+      "title": "Missa Votiva, ZWV 18",
+      "imslp_url": "https://imslp.org/wiki/Missa_Votiva,_ZWV_18_(Zelenka,_Jan_Dismas)",
+      "year": 1739
+    },
+    {
+      "title": "Veni sancte spiritus reple, ZWV 210",
+      "imslp_url": "https://imslp.org/wiki/Veni_sancte_spiritus_reple,_ZWV_210_(Zelenka,_Jan_Dismas)",
+      "year": 1739
+    },
+    {
+      "title": "Christe eleison, ZWV 29",
+      "imslp_url": "https://imslp.org/wiki/Christe_eleison,_ZWV_29_(Zelenka,_Jan_Dismas)",
+      "year": 1740
+    },
+    {
+      "title": "Missa Dei Filii, ZWV 20",
+      "imslp_url": "https://imslp.org/wiki/Missa_Dei_Filii,_ZWV_20_(Zelenka,_Jan_Dismas)",
+      "year": 1740
+    },
+    {
+      "title": "Missa Dei Patris, ZWV 19",
+      "imslp_url": "https://imslp.org/wiki/Missa_Dei_Patris,_ZWV_19_(Zelenka,_Jan_Dismas)",
+      "year": 1740
+    },
+    {
+      "title": "Missa Omnium Sanctorum, ZWV 21",
+      "imslp_url": "https://imslp.org/wiki/Missa_Omnium_Sanctorum,_ZWV_21_(Zelenka,_Jan_Dismas)",
+      "year": 1741
+    },
+    {
+      "title": "Litaniae Lauretanae, ZWV 151",
+      "imslp_url": "https://imslp.org/wiki/Litaniae_Lauretanae,_ZWV_151_(Zelenka,_Jan_Dismas)",
+      "year": 1744
+    },
+    {
+      "title": "Litaniae Lauretanae, ZWV 152",
+      "imslp_url": "https://imslp.org/wiki/Litaniae_Lauretanae,_ZWV_152_(Zelenka,_Jan_Dismas)",
+      "year": 1744
+    }
+  ]
+}

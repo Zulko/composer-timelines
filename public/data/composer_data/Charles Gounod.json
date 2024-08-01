@@ -1,1310 +1,1195 @@
 {
   "full_name": "Charles Gounod",
-  "first_names": "Charles",
+  "first_names": "Charles-Fran\u00e7ois",
   "last_name": "Gounod",
   "birth_year": 1818,
   "death_year": 1893,
   "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Gounod",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Charles Gounod first entered the world amid the artistic milieu of Paris, a place where his passion for music was almost a birthright, considering his mother's piano teaching and father's painting skills. Luckily, he skipped the struggle over who the real artist in the family was.",
+      "section": "Life and career",
+      "title": "Birth of Charles Gounod",
+      "summary": "Charles Gounod was born in the Latin Quarter of Paris, the second son of Fran\u00e7ois Louis Gounod and his wife Victoire. His mother was a talented pianist and provided musical instruction to Charles during his early years. The family lived at the Palace of Versailles following his father's appointment as the official artist to the Duc de Berry.",
       "year": 1818,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris, France",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Charles Gounod popped into this world in the Latin Quarter of Paris, probably thinking, 'Bonjour, it's time to make some 'a-maze-ing' music!' He was the second son for Fran\u00e7oiss Louis Gounod and his wife Victoire, a talented pianist who provided musical instruction to young Charles. The family later moved to the fancy Palace of Versailles because Dad got a sweet gig as the Duke de Berry's official artist."
     },
     {
-      "event": "Studied at Conservatoire de Paris",
-      "summary": "Gounod made his triumphant entry into the Conservatoire de Paris, where he mingled with legends, honed his craft, and realized that being around talented people only makes your own talents shine brighter\u2014eventually crushing the competition in melodious duels!",
+      "section": "Life and career",
+      "title": "Study at the Conservatoire de Paris",
+      "summary": "In 1836, Gounod was admitted to the Conservatoire de Paris where he studied composition and piano. During this time, he was influenced by Hector Berlioz, who became one of the greatest emotional influences on his musical development. Gounod's studies and encounters at the conservatory helped shape his future compositions.",
       "year": 1836,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris, France",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "In 1836, Gounod strutted into the Conservatoire de Paris and began studying composition and piano. He was influenced by Hector Berlioz, who became one of the greatest emotional influences on his musical development. Gounod's studies and encounters at the conservatory helped shape his future compositions, turning him into a musical wizard who conjured up masterpieces that made people's hearts sing."
     },
     {
-      "event": "Won the Prix de Rome",
-      "summary": "After years of taking exams that felt like a bad game show, Gounod finally snagged the coveted Prix de Rome with his cantata Fernand. This victory not only allowed him to study in Italy but was also a solid bragging point over his father's second-place prize in painting\u2014no pressure!",
+      "section": "Life and career",
+      "title": "Winning the Prix de Rome",
+      "summary": "In 1839, after two previous attempts, Gounod won France's prestigious Prix de Rome for his cantata 'Fernand'. This award provided him with two years of subsidized study at the French Institute in Rome, which significantly impacted his musical career and spiritual life.",
       "year": 1839,
-      "city": "Rome",
-      "country": "Italy"
+      "location": "Paris, France",
+      "emoji": "\ud83c\udfc6",
+      "fun_version": "In 1839, after two previous attempts, Gounod finally snagged France\u2019s prestigious Prix de Rome for his cantata 'Fernand'. This award provided him with two years of subsidized study at the French Institute in Rome, which significantly impacted his musical career and spiritual life."
     },
     {
-      "event": "Returned to Paris",
-      "summary": "Having soaked up inspiration across Europe, Gounod returned to Paris just in time to face the music\u2014his own, as he began to compose for the church with a choir small enough to rival a schoolyard band. But hey, even small ensembles deserve their moment in the spotlight!",
-      "year": 1843,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Composed Sapho",
-      "summary": "Gounod decided it was showtime with his opera Sapho, hoping to redefine the genre. Despite being a mix of brilliance and theatrical mischief, the opera closed after only nine performances\u2014turns out, a little Greek legend isn't everyone's cup of tea!",
+      "section": "Life and career",
+      "title": "Marriage to Anna Zimmerman",
+      "summary": "In April 1851, Gounod married Anna Zimmerman, the daughter of his former piano professor. This marriage marked a significant point in Gounod's personal life though it also led to a strained relationship with singer Pauline Viardot.",
       "year": 1851,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris, France",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "In April 1851, Gounod married Anna Zimmerman, the daughter of his former piano professor. This union marked a significant point in Gounod's personal life, though it did create some tension with singer Pauline Viardot."
     },
     {
-      "event": "Great success with Faust",
-      "summary": "With a sense of dramatic flair and a pinch of romance, Gounod unleashed Faust upon the world, catapulting him into the limelight. This operatic masterpiece was his best shot at eternal fame, even if some still pondered if deals with the devil were really worth it!",
+      "section": "Life and career",
+      "title": "Completion of 'Faust'",
+      "summary": "After years of development, Gounod's opera 'Faust' premiered in March 1859. Initially received with moderate enthusiasm, the work ultimately became a major success and has remained one of Gounod's most popular operas.",
       "year": 1859,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris, France",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Gounod's opera 'Faust' premiered in March 1859 after years of development. Initially received with moderate enthusiasm, it quickly transformed into a major success and stays among Gounod's most beloved operas!"
     },
     {
-      "event": "Relocated to England during Franco-Prussian War",
-      "summary": "As war brought chaos to Paris, Gounod fled to England seeking refuge, swapping the City of Light for British tea time. Living with singer Georgina Weldon made for some interesting composing sessions\u2014who knew the opera life could be so dramatic behind the scenes?",
-      "year": 1870,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Returned to France after family's relocation",
-      "summary": "After a prolonged London interlude, Gounod made his grand re-entrance to France, only to find that the musical landscape was evolving and he was now more a respected relic than a revolutionary. But what's a composer to do? Adapt and keep composing, of course!",
-      "year": 1873,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Death",
-      "summary": "Gounod's long and melodious journey came to an end in a picturesque corner of Saint-Cloud, where he passed away peacefully, perhaps contemplating the next great operatic conflict heaven's orchestra would produce. Farewell, maestro, your music will continue to resonate!",
-      "year": 1893,
-      "city": "Saint-Cloud",
-      "country": "France"
-    },
-    {
-      "event": "Marriage to Anna Zimmerman",
-      "summary": "In a plot twist worthy of an opera itself, Gounod tied the knot with Anna Zimmerman, which stirred up some family drama by severing ties with the renowned singer, Viardot. Rumors of a secret romance floated around, but the real reason for the cold shoulder from the Zimmermans remains a mystery, much like the final scene of a not-so-popular opera.",
-      "year": 1851,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Appointment as superintendent of singing instruction",
-      "summary": "Gounod stepped into the role of singing supervisor for Paris' communal schools, filling in for his ailing father-in-law while secretly shaping the future of French opera\u2014one melodramatic ghost story at a time!",
-      "year": 1851,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Commission for Ulysse",
-      "summary": "Despite the audience's indifference to music in a play that was coasting on clunky verse, Gounod seized the opportunity to compose twelve choruses and a few interludes for Ulysse. It was like throwing a musical party that no one showed up to, but at least he got free snacks!",
-      "year": 1852,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "First opera La Nonne sanglante",
-      "summary": "Gounod's operatic journey began with La Nonne sanglante, a ghost story that was poorly received by critics but almost became a blockbuster\u2014until musical politics shut it down faster than his mother-in-law's unsolicited advice at Thanksgiving!",
-      "year": 1854,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Knight of the Legion of Honour",
-      "summary": "Gounod's impressive contributions to music earned him a shiny medal and the title of knight. It was the equivalent of being called the 'rock star' of composers but with a much fancier outfit!",
-      "year": 1856,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Premiere of Le M\u00e9decin malgr\u00e9 lui",
-      "summary": "Just when it seemed like the spotlight was shining on Gounod with his festive opera, tragedy struck\u2014his mother passed away the day after the premiere. If only he could have turned that into an aria!",
-      "year": 1858,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Premiere of Faust",
-      "summary": "Faust, Gounod's magnum opus, launched into the operatic scene amid 'uncommon excitement.' Though it stumbled initially, with the public not quite warming up to it, after some tweaks and clever marketing, it took off like a rocket, becoming the life of the operatic party!",
-      "year": 1859,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Successful operas and ventures",
-      "summary": "From Phil\u00e9mon et Baucis to La Colombe, Gounod himself bounced back from failures, exploring new themes like love and tragedy\u2014sometimes even simultaneously! Each opera was a step closer to solidifying his reputation as a legendary figure in French music.",
-      "year": 1860,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Elected to the Acad\u00e9mie des Beaux-Arts",
-      "summary": "In a ceremony that had to be more glamorous than any awards show, Gounod was elected to a prestigious French academy, proving you could write operas and still be the intellectual darling of Paris!",
+      "section": "Life and career",
+      "title": "Elected to the Acad\u00e9mie des Beaux-Arts",
+      "summary": "In 1866, Gounod was elected to the Acad\u00e9mie des Beaux-Arts, recognizing his contributions to French music. This honor placed him among France's esteemed cultural figures and artists.",
       "year": 1866,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris, France",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1866, Gounod was voted into the Acad\u00e9mie des Beaux-Arts, recognized for his contributions to French music, not merely by popular vote, but by sheer brilliance and possibly a few bribes of croissants. This honor put him right next to France's finest, making him the \"musical sandwich\" in a prestigious French baguette of culture!"
     },
     {
-      "event": "Premiere of Rom\u00e9o et Juliette",
-      "summary": "With boxes filling up thanks to tourists flocking to the Exposition Universelle, Gounod's Rom\u00e9o et Juliette emerged as a hit. It was like he hit the jackpot, or at least scored a great table at an exclusive restaurant!",
-      "year": 1867,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Move to London during Franco-Prussian War",
-      "summary": "In a dramatic twist worthy of a Parisian opera, Gounod and his family fled to London amidst the chaos of war. No one wants their lovely suburban home turned into a battle site\u2014especially not a composer!",
-      "year": 1870,
-      "city": "London",
-      "country": "England"
-    },
-    {
-      "event": "Conducting choral piece at Royal Albert Hall",
-      "summary": "Gounod's music captured the hearts of the English during its grand unveiling at the Royal Albert Hall. Nothing says 'I'm back' like conducting a crowd-pleasing score in one of London's most opulent venues!",
-      "year": 1871,
-      "city": "London",
-      "country": "England"
-    },
-    {
-      "event": "Friendship with Georgina Weldon",
-      "summary": "In a plot twist you'd find in a Victorian novel, Gounod struck up an intriguing relationship with Georgina Weldon. She became an ever-dominating influence, teaching him that royalty from the publishers did not mean royalty from the stage!",
-      "year": 1871,
-      "city": "London",
-      "country": "England"
-    },
-    {
-      "event": "Return to Paris",
-      "summary": "After a nervous breakdown thanks to the pressures of life in London, Gounod made a dramatic return to Paris. It was the ultimate homecoming, like finding your favorite caf\u00e9 had never changed while you were gone!",
-      "year": 1874,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Completion of Polyeucte and Cinq-Mars",
-      "summary": "Back in Paris, Gounod finally finished his long-awaited operas Polyeucte and Cinq-Mars. Unfortunately, they enjoyed about as much box office success as a box of expired chocolates!",
-      "year": 1876,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Last opera Le Tribut de Zamora",
-      "summary": "With Le Tribut de Zamora, Gounod managed to get out one last hurrah at the opera house. It was like hosting a farewell party where only a few familiar faces showed up to say goodbye!",
-      "year": 1881,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Revision of Sapho",
-      "summary": "Gounod tinkered with the familiar notes of Sapho, giving it yet another chance at the limelight in Paris, but much like that final visit to a favorite restaurant, it never quite returned to its former glory!",
-      "year": 1884,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "First Opera Performance",
-      "summary": "Gounod made his grand entrance into the world of opera with 'Sapho', a piece that was so grand it could have used a parade to announce itself. Critics admired its choral work, though some found it as perplexing as modern art. Spoiler alert: It was a flop, proving that no matter how hard you try to be dramatic, success doesn't always follow!",
-      "year": 1851,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Success with Faust",
-      "summary": "Cue the trumpets! Gounod took the opera world by storm with 'Faust', a show that charmed audiences with its catchy tunes and emotional simplicity\u2014plus, it had magic! It was praised for sidestepping the usual opera 'drama' of grandiosity, opting instead for something that resembled actual human feelings. More than 500 performances later, it was clear that Faust was here to party!",
-      "year": 1859,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Popular Religious Works",
-      "summary": "In a surprising twist of fate, Gounod shifted gears to compose several masses and beloved oratorios, proving that he could indeed charm the heaven's gates. The British couldn\u2019t get enough of 'La R\u00e9demption' and 'Mors et vita', hailing them as the next best thing since sliced bread, or at least since Handel's oratorios. Hallelujah to that!",
-      "year": 1882,
-      "city": "Birmingham",
-      "country": "England"
-    },
-    {
-      "event": "Completion of 'Saint Francois d'Assise'",
-      "summary": "With pen in hand (and hopefully some good snacks nearby), Gounod completed 'Saint Francois d'Assise'. It was a testament to his later life\u2019s work, showing that even in the face of mortality, one could still compose music of divine inspiration\u2014at least that's what he told himself while trying to come up with the right notes.",
-      "year": 1891,
-      "city": "Saint-Cloud",
-      "country": "France"
-    },
-    {
-      "event": "Last Performance and Death",
-      "summary": "After playing the organ for Mass like a true maestro, Gounod returned home perhaps dreaming of his next big composition, before suffering a sudden stroke. It sounded more dramatic than any of his operas; if only he'd been rehearsing for the afterlife! He passed away three days later, leaving behind a legacy of musical genius and a to-do list that would remain forever unfinished.",
+      "section": "Life and career",
+      "title": "Death of Charles Gounod",
+      "summary": "Charles Gounod passed away on 18 October 1893, following a stroke. He was remembered as one of France's leading composers, whose works, especially his operas and sacred music, would continue to be celebrated.",
       "year": 1893,
-      "city": "Saint-Cloud",
-      "country": "France"
-    },
-    {
-      "event": "Prix de Rome Winner",
-      "summary": "Gounod won the prestigious Prix de Rome, allowing him to spend time in the Italian capital, where he likely practiced his opera hand gestures in front of the mirror.",
-      "year": 1839,
-      "city": "Rome",
-      "country": "Italy"
-    },
-    {
-      "event": "First Major Opera",
-      "summary": "Gounod\u2019s first major opera, 'Sapho', premiered and was described as a masterpiece, though some critics were probably just trying to be polite.",
-      "year": 1851,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Composition of Faust",
-      "summary": "Gounod composed 'Faust', which became a massive success; it was performed so often that the locals might have thought the characters were family friends.",
-      "year": 1859,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Mass of St Cecilia",
-      "summary": "Gounod penned his 'Mass of St Cecilia', which some claimed was so uplifting it could make even the most stone-faced da Vinci painting smile.",
-      "year": 1855,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Exploration of Sacred Music",
-      "summary": "Gounod delved into religious music, producing numerous masses and oratorios, proving that even the divine can have a catchy tune or two.",
-      "year": 1860,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Peak in Popularity",
-      "summary": "Gounod reached the peak of his popularity, where his music was more common than the street vendors selling baguettes in Paris.",
-      "year": 1870,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Time in England",
-      "summary": "During his time in England, Gounod produced a series of delightful songs that caused a minor uproar among the posh tea drinkers.",
-      "year": 1870,
-      "city": "London",
-      "country": "England"
-    },
-    {
-      "event": "Retirement from Composition",
-      "summary": "Gounod retired from composing after a prolific career, likely to enjoy some guilt-free croissants and people-watching from a caf\u00e9.",
-      "year": 1885,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Last Major Work",
-      "summary": "His last significant work, the 'Petite symphonie', emerged, marking the end of an era with music that remnants would still recall at dinner parties.",
-      "year": 1885,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "First Opera",
-      "summary": "Gounod wrote his first opera, making him the proud parent of a creation that could sing\u2014better than most toddlers, probably. It was the beginning of an illustrious career!",
-      "year": 1851,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Faust Premiere",
-      "summary": "Gounod's opera 'Faust' premiered, and it was such a hit that even the devil himself might have shown up for a front-row seat. It marked his rise to fame and fortune.",
-      "year": 1859,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Royal Choral Society",
-      "summary": "Gounod was involved with the Royal Choral Society in London; he must have felt like a rock star as he conducted and composed for eager audiences across the Channel!",
-      "year": 1872,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Benefit Concert",
-      "summary": "Gounod held a benefit concert, proving that even guys who can write operas know how to throw a good party for a cause. Who doesn\u2019t love music for a good cause?",
-      "year": 1873,
-      "city": "London",
-      "country": "United Kingdom"
+      "location": "Paris, France",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Charles Gounod passed away on 18 October 1893 following a stroke. Known as one of France's leading composers, his operas and sacred music continue to be celebrated."
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/%C3%80_la_brise,_CG_415a_(Gounod,_Charles)",
-      "year": 1875,
-      "title": "\u00c0 la brise, CG 415a"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/%C3%80_la_nuit,_CG_321_(Gounod,_Charles)",
-      "year": 1891,
-      "title": "\u00c0 la nuit, CG 321"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/%C3%80_la_reine_des_ap%C3%B4tres,_CG_370_(Gounod,_Charles)",
-      "year": 1852,
-      "title": "\u00c0 la reine des ap\u00f4tres, CG 370"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/%C3%80_toi_mon_c%C5%93ur,_CG_458a_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "\u00c0 toi mon c\u0153ur, CG 458a"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/%C3%80_une_bourse,_CG_322_(Gounod,_Charles)",
-      "year": 1868,
-      "title": "\u00c0 une bourse, CG 322"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/%C3%80_une_jeune_fille,_CG_323_(Gounod,_Charles)",
-      "year": 1868,
-      "title": "\u00c0 une jeune fille, CG 323"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Abraham%27s_Request,_CG_325_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "Abraham's Request, CG 325"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Absence,_CG_326_(Gounod,_Charles)",
-      "year": 1869,
-      "title": "Absence, CG 326"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/L%27absent,_CG_327_(Gounod,_Charles)",
-      "year": 1876,
-      "title": "L'absent, CG 327"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Adieu,_CG_595_(Gounod,_Charles)",
-      "year": 1859,
-      "title": "Adieu, CG 595"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/L%27aff%C3%BBt,_CG_187_(Gounod,_Charles)",
-      "year": 1869,
-      "title": "L'aff\u00fbt, CG 187"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Aimons-nous,_CG_449_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "Aimons-nous, CG 449"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/All_Ye_who_weep,_CG_189a_(Gounod,_Charles)",
-      "year": 1860,
-      "title": "All Ye who weep, CG 189a"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/L%27%C3%A2me_d%27un_ange,_CG_398b_(Gounod,_Charles)",
-      "year": 1863,
-      "title": "L'\u00e2me d'un ange, CG 398b"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/L%27ang%C3%A9lus,_CG_609_(Gounod,_Charles)",
-      "year": 1858,
-      "title": "L'ang\u00e9lus, CG 609"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/L%27anniversaire_des_martyrs,_CG_329_(Gounod,_Charles)",
-      "year": 1869,
-      "title": "L'anniversaire des martyrs, CG 329"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/L%27arithm%C3%A9tique,_CG_248_(Gounod,_Charles)",
-      "year": 1853,
-      "title": "L'arithm\u00e9tique, CG 248"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Arrow_and_the_Song,_CG_447_(Gounod,_Charles)",
-      "year": 1885,
-      "title": "The Arrow and the Song, CG 447"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Au_printemps,_CG_331_(Gounod,_Charles)",
-      "year": 1867,
-      "title": "Au printemps, CG 331"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Au_rossignol,_CG_332_(Gounod,_Charles)",
-      "year": 1867,
-      "title": "Au rossignol, CG 332"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Aubade,_CG_330_(Gounod,_Charles)",
-      "year": 1849,
-      "title": "Aubade, CG 330"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ave_Maria,_CG_89_(Gounod,_Charles)",
-      "year": 1852,
-      "title": "Ave Maria, CG 89"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ave_verum,_CG_142_(Gounod,_Charles)",
-      "year": 1871,
-      "title": "Ave verum, CG 142"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ave_verum,_CG_155_(Gounod,_Charles)",
-      "year": 1868,
-      "title": "Ave verum, CG 155"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Le_bal_d%27enfants,_CG_577_(Gounod,_Charles)",
-      "year": 1860,
-      "title": "Le bal d'enfants, CG 577"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Le_banc_de_pierre,_CG_335_(Gounod,_Charles)",
-      "year": 1876,
-      "title": "Le banc de pierre, CG 335"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Barcarola,_CG_336_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "Barcarola, CG 336"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Bell,_CG_282_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "The Bell, CG 282"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Bells_Across_the_Snow,_CG_2h_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "Bells Across the Snow, CG 2h"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Bethlehem_(Gounod,_Charles)",
-      "year": 1859,
-      "title": "Bethlehem"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Beware!,_CG_338_(Gounod,_Charles)",
-      "year": 1870,
-      "title": "Beware!, CG 338"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Blessed_Is_the_Man,_CG_351_(Gounod,_Charles)",
-      "year": 1873,
-      "title": "Blessed Is the Man, CG 351"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Blessures,_CG_352_(Gounod,_Charles)",
-      "year": 1885,
-      "title": "Blessures, CG 352"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Boire_%C3%A0_l%27ombre,_CG_353_(Gounod,_Charles)",
-      "year": 1868,
-      "title": "Boire \u00e0 l'ombre, CG 353"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Bol%C3%A9ro,_CG_354_(Gounod,_Charles)",
-      "year": 1871,
-      "title": "Bol\u00e9ro, CG 354"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Cantique_pour_la_premi%C3%A8re_communion,_CG_206a_(Gounod,_Charles)",
-      "year": 1874,
-      "title": "Cantique pour la premi\u00e8re communion, CG 206a"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ce_que_je_suis_sans_toi,_CG_355_(Gounod,_Charles)",
-      "year": 1868,
-      "title": "Ce que je suis sans toi, CG 355"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Les_champs,_CG_356_(Gounod,_Charles)",
-      "year": 1863,
-      "title": "Les champs, CG 356"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Chanson_d%27avril,_CG_357_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "Chanson d'avril, CG 357"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_chanson_de_la_glu,_CG_358_(Gounod,_Charles)",
-      "year": 1883,
-      "title": "La chanson de la glu, CG 358"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Chanson_de_printemps,_CG_359_(Gounod,_Charles)",
-      "year": 1849,
-      "title": "Chanson de printemps, CG 359"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Chant_d%27automne,_CG_360_(Gounod,_Charles)",
-      "year": 1850,
-      "title": "Chant d'automne, CG 360"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Chanter_et_souffrir,_CG_362_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "Chanter et souffrir, CG 362"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Chantez_No%C3%ABl,_CG_184a_(Gounod,_Charles)",
-      "year": 1867,
-      "title": "Chantez No\u00ebl, CG 184a"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Chantez,_voix_b%C3%A9nies,_CG_523b_(Gounod,_Charles)",
-      "year": 1870,
-      "title": "Chantez, voix b\u00e9nies, CG 523b"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_chasse,_CG_183_(Gounod,_Charles)",
-      "year": 1867,
-      "title": "La chasse, CG 183"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Choeur_de_chasseurs,_CG_208_(Gounod,_Charles)",
-      "year": 1855,
-      "title": "Choeur de chasseurs, CG 208"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Choral_et_musette,_CG_554a_(Gounod,_Charles)",
-      "year": 1866,
-      "title": "Choral et musette, CG 554a"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Le_ciel_a_visit%C3%A9_la_terre,_CG_365_(Gounod,_Charles)",
-      "year": 1868,
-      "title": "Le ciel a visit\u00e9 la terre, CG 365"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_cigale_et_la_fourmi,_CG_209_(Gounod,_Charles)",
-      "year": 1856,
-      "title": "La cigale et la fourmi, CG 209"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Cinq-Mars,_CG_10_(Gounod,_Charles)",
-      "year": 1877,
-      "title": "Cinq-Mars, CG 10"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Clos_ta_paupi%C3%A8re,_CG_424a_(Gounod,_Charles)",
-      "year": 1873,
-      "title": "Clos ta paupi\u00e8re, CG 424a"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_colombe,_CG_6_(Gounod,_Charles)",
-      "year": 1860,
-      "title": "La colombe, CG 6"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Communion,_CG_625_(Gounod,_Charles)",
-      "year": 1858,
-      "title": "Communion, CG 625"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Compliment,_CG_366_(Gounod,_Charles)",
-      "year": 1876,
-      "title": "Compliment, CG 366"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Cr%C3%A9puscule,_CG_368_(Gounod,_Charles)",
-      "year": 1866,
-      "title": "Cr\u00e9puscule, CG 368"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Le_crucifix,_CG_189_(Gounod,_Charles)",
-      "year": 1866,
-      "title": "Le crucifix, CG 189"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/D%27un_c%C5%93ur_qui_t%27aime,_CG_185_(Gounod,_Charles)",
-      "year": 1851,
-      "title": "D'un c\u0153ur qui t'aime, CG 185"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Dans_cette_%C3%A9table,_CG_192_(Gounod,_Charles)",
-      "year": 1859,
-      "title": "Dans cette \u00e9table, CG 192"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Danse_roumaine,_CG_521_(Gounod,_Charles)",
-      "year": 1888,
-      "title": "Danse roumaine, CG 521"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/De_profundis,_CG_88_(Gounod,_Charles)",
-      "year": 1871,
-      "title": "De profundis, CG 88"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Le_d%C3%A9part_du_mousse,_CG_371_(Gounod,_Charles)",
-      "year": 1876,
-      "title": "Le d\u00e9part du mousse, CG 371"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/D%C3%A9part,_CG_369_(Gounod,_Charles)",
-      "year": 1868,
-      "title": "D\u00e9part, CG 369"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Les_deux_reines,_CG_28_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "Les deux reines, CG 28"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Deux_vieux_amis,_CG_374_(Gounod,_Charles)",
-      "year": 1856,
-      "title": "Deux vieux amis, CG 374"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Dodelinette,_CG_610_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "Dodelinette, CG 610"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Donne-moi_cette_fleur,_CG_375_(Gounod,_Charles)",
-      "year": 1868,
-      "title": "Donne-moi cette fleur, CG 375"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/En_avant!,_CG_211_(Gounod,_Charles)",
-      "year": 1875,
-      "title": "En avant!, CG 211"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Entreat_Me_Not_to_Leave_Thee,_CG_392_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "Entreat Me Not to Leave Thee, CG 392"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Envoi_de_fleurs,_CG_380_(Gounod,_Charles)",
-      "year": 1868,
-      "title": "Envoi de fleurs, CG 380"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Faust,_CG_4_(Gounod,_Charles)",
-      "year": 1856,
-      "title": "Faust, CG 4"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_fauvette,_CG_383_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "La fauvette, CG 383"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_f%C3%AAte_de_Jupiter_(Gounod,_Charles)",
-      "year": 1876,
-      "title": "La f\u00eate de Jupiter"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Gallia,_CG_40_(Gounod,_Charles)",
-      "year": 1871,
-      "title": "Gallia, CG 40"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Good_Night,_CG_386_(Gounod,_Charles)",
-      "year": 1871,
-      "title": "Good Night, CG 386"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Grande_valse_brillante,_CG_579_(Gounod,_Charles)",
-      "year": 1891,
-      "title": "Grande valse brillante, CG 579"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Heureux_sera_le_jour,_CG_388_(Gounod,_Charles)",
-      "year": 1871,
-      "title": "Heureux sera le jour, CG 388"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Hymne_%C3%A0_la_nuit,_CG_389_(Gounod,_Charles)",
-      "year": 1868,
-      "title": "Hymne \u00e0 la nuit, CG 389"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Hymne_%C3%A0_Sainte_C%C3%A9cile,_CG_557_(Gounod,_Charles)",
-      "year": 1865,
-      "title": "Hymne \u00e0 Sainte C\u00e9cile, CG 557"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/If_Thou_Art_Sleeping,_Maiden,_Awake!,_CG_390_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "If Thou Art Sleeping, Maiden, Awake!, CG 390"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ilala,_CG_391_(Gounod,_Charles)",
-      "year": 1873,
-      "title": "Ilala, CG 391"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Impromptu,_CG_580_(Gounod,_Charles)",
-      "year": 1888,
-      "title": "Impromptu, CG 580"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Invocation,_CG_4f_(Gounod,_Charles)",
-      "year": 1864,
-      "title": "Invocation, CG 4f"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Invocation,_CG_56e1_(Gounod,_Charles)",
-      "year": 1875,
-      "title": "Invocation, CG 56e1"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ivy,_CG_581_(Gounod,_Charles)",
-      "year": 1871,
-      "title": "Ivy, CG 581"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Je_ne_puis_esp%C3%A9rer,_CG_394_(Gounod,_Charles)",
-      "year": 1869,
-      "title": "Je ne puis esp\u00e9rer, CG 394"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Jeanne_d%27Arc,_CG_29_(Gounod,_Charles)",
-      "year": 1873,
-      "title": "Jeanne d'Arc, CG 29"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/J%C3%A9sus_de_Nazareth,_CG_395_(Gounod,_Charles)",
-      "year": 1856,
-      "title": "J\u00e9sus de Nazareth, CG 395"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/J%C3%A9sus_sur_le_lac_de_Tib%C3%A9riade,_CG_41a_(Gounod,_Charles)",
-      "year": 1875,
-      "title": "J\u00e9sus sur le lac de Tib\u00e9riade, CG 41a"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Le_juif_errant,_CG_396_(Gounod,_Charles)",
-      "year": 1861,
-      "title": "Le juif errant, CG 396"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Le_lever,_CG_400_(Gounod,_Charles)",
-      "year": 1849,
-      "title": "Le lever, CG 400"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Les_lilas_blancs,_CG_401_(Gounod,_Charles)",
-      "year": 1876,
-      "title": "Les lilas blancs, CG 401"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Litanies_de_la_Sainte_Vierge_(Gounod,_Charles)",
-      "year": 1888,
-      "title": "Litanies de la Sainte Vierge"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Little_Celandine,_CG_402_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "Little Celandine, CG 402"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Loin_du_pays,_CG_403_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "Loin du pays, CG 403"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ma_belle_amie_est_morte,_CG_404_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "Ma belle amie est morte, CG 404"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ma_fille,_souviens-toi,_CG_405_(Gounod,_Charles)",
-      "year": 1876,
-      "title": "Ma fille, souviens-toi, CG 405"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Magnificat,_CG_162_(Gounod,_Charles)",
-      "year": 1874,
-      "title": "Magnificat, CG 162"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Maid_of_Athens,_CG_406_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "Maid of Athens, CG 406"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Marche_fanfare,_CG_582_(Gounod,_Charles)",
-      "year": 1876,
-      "title": "Marche fanfare, CG 582"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Marche_fun%C3%A8bre_d%27une_marionnette,_CG_583_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "Marche fun\u00e8bre d'une marionnette, CG 583"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Marche_pontificale,_CG_523_(Gounod,_Charles)",
-      "year": 1869,
-      "title": "Marche pontificale, CG 523"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Marche_religieuse,_CG_524_(Gounod,_Charles)",
-      "year": 1876,
-      "title": "Marche religieuse, CG 524"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Marche_solennelle_(Gounod,_Charles)",
-      "year": 1878,
-      "title": "Marche solennelle"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Mass_No.1_in_A-flat_major,_CG_64_(Gounod,_Charles)",
-      "year": 1844,
-      "title": "Mass No.1 in A-flat major, CG 64"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Mass_No.5_in_C_major,_CG_65_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "Mass No.5 in C major, CG 65"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Matin%C3%A9e_dans_la_montagne,_CG_190_(Gounod,_Charles)",
-      "year": 1849,
-      "title": "Matin\u00e9e dans la montagne, CG 190"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Le_m%C3%A9decin_malgr%C3%A9_lui,_CG_3_(Gounod,_Charles)",
-      "year": 1858,
-      "title": "Le m\u00e9decin malgr\u00e9 lui, CG 3"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Medj%C3%A9,_CG_407_(Gounod,_Charles)",
-      "year": 1864,
-      "title": "Medj\u00e9, CG 407"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/M%C3%A9lancolie,_CG_408_(Gounod,_Charles)",
-      "year": 1875,
-      "title": "M\u00e9lancolie, CG 408"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_M%C3%A9lodies_pour_le_cor_%C3%A0_pistons,_CG_566_(Gounod,_Charles)",
-      "year": 1839,
-      "title": "6 M\u00e9lodies pour le cor \u00e0 pistons, CG 566"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Menuet,_CG_611_(Gounod,_Charles)",
-      "year": 1858,
-      "title": "Menuet, CG 611"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Message_of_the_Breeze,_CG_453_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "The Message of the Breeze, CG 453"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Messe_%C3%A0_deux_voix_%C3%A9gales,_CG_72_(Gounod,_Charles)",
-      "year": 1876,
-      "title": "Messe \u00e0 deux voix \u00e9gales, CG 72"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Messe_%C3%A0_grand_orchestre,_CG_55_(Gounod,_Charles)",
-      "year": 1840,
-      "title": "Messe \u00e0 grand orchestre, CG 55"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Messe_%C3%A0_la_m%C3%A9moire_de_Jeanne_d%27Arc,_CG_74_(Gounod,_Charles)",
-      "year": 1887,
-      "title": "Messe \u00e0 la m\u00e9moire de Jeanne d'Arc, CG 74"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Messe_breve_No.7_(Gounod,_Charles)",
-      "year": 1890,
-      "title": "Messe breve No.7"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Messe_br%C3%A8ve_pour_les_morts,_CG_78_(Gounod,_Charles)",
-      "year": 1873,
-      "title": "Messe br\u00e8ve pour les morts, CG 78"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Messe_des_Anges_Gardiens,_CG_73_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "Messe des Anges Gardiens, CG 73"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Messe_dite_de_Clovis,_CG_62_(Gounod,_Charles)",
-      "year": 1890,
-      "title": "Messe dite de Clovis, CG 62"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Messe_du_Sacr%C3%A9-C%C5%93ur_de_J%C3%A9sus,_CG_58_(Gounod,_Charles)",
-      "year": 1876,
-      "title": "Messe du Sacr\u00e9-C\u0153ur de J\u00e9sus, CG 58"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Messe_solennelle_de_P%C3%A2ques,_CG_59_(Gounod,_Charles)",
-      "year": 1882,
-      "title": "Messe solennelle de P\u00e2ques, CG 59"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Messe_solennelle_de_Sainte-C%C3%A9cile,_CG_56_(Gounod,_Charles)",
-      "year": 1855,
-      "title": "Messe solennelle de Sainte-C\u00e9cile, CG 56"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Messe_solennelle_sur_l%27intonation_de_la_liturgie_catholique,_CG_60_(Gounod,_Charles)",
-      "year": 1888,
-      "title": "Messe solennelle sur l'intonation de la liturgie catholique, CG 60"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/M%C3%A9thode_de_cor_%C3%A0_pistons,_CG_640_(Gounod,_Charles)",
-      "year": 1839,
-      "title": "M\u00e9thode de cor \u00e0 pistons, CG 640"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Mignon,_CG_409_(Gounod,_Charles)",
-      "year": 1870,
-      "title": "Mignon, CG 409"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Mireille,_CG_8_(Gounod,_Charles)",
-      "year": 1864,
-      "title": "Mireille, CG 8"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Miserere,_CG_144_(Gounod,_Charles)",
-      "year": 1880,
-      "title": "Miserere, CG 144"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Mon_amour_a_mon_c%C5%93ur,_CG_278a_(Gounod,_Charles)",
-      "year": 1875,
-      "title": "Mon amour a mon c\u0153ur, CG 278a"
-    },
-    {
+      "title": "Mon habit, CG 410",
       "imslp_url": "https://imslp.org/wiki/Mon_habit,_CG_410_(Gounod,_Charles)",
-      "year": 1838,
-      "title": "Mon habit, CG 410"
+      "year": 1838
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Mors_et_vita,_CG_33_(Gounod,_Charles)",
-      "year": 1885,
-      "title": "Mors et vita, CG 33"
+      "title": "6 M\u00e9lodies pour le cor \u00e0 pistons, CG 566",
+      "imslp_url": "https://imslp.org/wiki/6_M\u00e9lodies_pour_le_cor_\u00e0_pistons,_CG_566_(Gounod,_Charles)",
+      "year": 1839
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Musette,_CG_584_(Gounod,_Charles)",
-      "year": 1863,
-      "title": "Musette, CG 584"
+      "title": "M\u00e9thode de cor \u00e0 pistons, CG 640",
+      "imslp_url": "https://imslp.org/wiki/M\u00e9thode_de_cor_\u00e0_pistons,_CG_640_(Gounod,_Charles)",
+      "year": 1839
     },
     {
-      "imslp_url": "https://imslp.org/wiki/My_Beloved_Spake,_CG_411_(Gounod,_Charles)",
-      "year": 1871,
-      "title": "My Beloved Spake, CG 411"
+      "title": "O\u00f9 voulez-vous aller?, CG 419",
+      "imslp_url": "https://imslp.org/wiki/O\u00f9_voulez-vous_aller?,_CG_419_(Gounod,_Charles)",
+      "year": 1839
     },
     {
-      "imslp_url": "https://imslp.org/wiki/No%C3%ABl,_CG_184_(Gounod,_Charles)",
-      "year": 1869,
-      "title": "No\u00ebl, CG 184"
+      "title": "Le soir, CG 441",
+      "imslp_url": "https://imslp.org/wiki/Le_soir,_CG_441_(Gounod,_Charles)",
+      "year": 1840
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Le_nom_de_Marie,_CG_412_(Gounod,_Charles)",
-      "year": 1869,
-      "title": "Le nom de Marie, CG 412"
+      "title": "Le vallon, CG 467",
+      "imslp_url": "https://imslp.org/wiki/Le_vallon,_CG_467_(Gounod,_Charles)",
+      "year": 1840
     },
     {
-      "imslp_url": "https://imslp.org/wiki/La_nonne_sanglante,_CG_2_(Gounod,_Charles)",
-      "year": 1852,
-      "title": "La nonne sanglante, CG 2"
+      "title": "Messe \u00e0 grand orchestre, CG 55",
+      "imslp_url": "https://imslp.org/wiki/Messe_\u00e0_grand_orchestre,_CG_55_(Gounod,_Charles)",
+      "year": 1840
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Notre-Dame_des_petits_enfants,_CG_413_(Gounod,_Charles)",
-      "year": 1869,
-      "title": "Notre-Dame des petits enfants, CG 413"
+      "title": "Seul, CG 438",
+      "imslp_url": "https://imslp.org/wiki/Seul,_CG_438_(Gounod,_Charles)",
+      "year": 1840
     },
     {
-      "imslp_url": "https://imslp.org/wiki/La_nuit,_CG_182_(Gounod,_Charles)",
-      "year": 1867,
-      "title": "La nuit, CG 182"
+      "title": "Mass No.1 in A-flat major, CG 64",
+      "imslp_url": "https://imslp.org/wiki/Mass_No.1_in_A-flat_major,_CG_64_(Gounod,_Charles)",
+      "year": 1844
     },
     {
-      "imslp_url": "https://imslp.org/wiki/%C3%94_ma_belle_rebelle,_CG_414_(Gounod,_Charles)",
-      "year": 1850,
-      "title": "\u00d4 ma belle rebelle, CG 414"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Offertoire,_CG_628_(Gounod,_Charles)",
-      "year": 1876,
-      "title": "Offertoire, CG 628"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Oh!_dille_tu!,_CG_415_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "Oh! dille tu!, CG 415"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Oh!_That_We_Two_Were_Maying,_CG_417_(Gounod,_Charles)",
-      "year": 1871,
-      "title": "Oh! That We Two Were Maying, CG 417"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/O%C3%B9_voulez-vous_aller%3F,_CG_419_(Gounod,_Charles)",
-      "year": 1839,
-      "title": "O\u00f9 voulez-vous aller?, CG 419"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_p%C3%A2querette,_CG_420_(Gounod,_Charles)",
-      "year": 1870,
-      "title": "La p\u00e2querette, CG 420"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Par_une_belle_nuit,_CG_421_(Gounod,_Charles)",
-      "year": 1869,
-      "title": "Par une belle nuit, CG 421"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Passacaille_(Gounod,_Charles)",
-      "year": 1893,
-      "title": "Passacaille"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Pater_noster,_CG_138_(Gounod,_Charles)",
-      "year": 1878,
-      "title": "Pater noster, CG 138"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Pater_noster,_CG_139_(Gounod,_Charles)",
-      "year": 1856,
-      "title": "Pater noster, CG 139"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Les_pauvres_du_bon_Dieu,_CG_236_(Gounod,_Charles)",
-      "year": 1854,
-      "title": "Les pauvres du bon Dieu, CG 236"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Le_pays_bienheureux,_CG_448a_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "Le pays bienheureux, CG 448a"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_pervenche,_CG_585_(Gounod,_Charles)",
-      "year": 1849,
-      "title": "La pervenche, CG 585"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Petit_quatuor_(Gounod,_Charles)",
-      "year": 1885,
-      "title": "Petit quatuor"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Petite_symphonie,_CG_560_(Gounod,_Charles)",
-      "year": 1885,
-      "title": "Petite symphonie, CG 560"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Phil%C3%A9mon_et_Baucis,_CG_5_(Gounod,_Charles)",
-      "year": 1859,
-      "title": "Phil\u00e9mon et Baucis, CG 5"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Les_pifferari,_CG_586_(Gounod,_Charles)",
-      "year": 1863,
-      "title": "Les pifferari, CG 586"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_plaine_est_vaste_(Gounod,_Charles)",
-      "year": 1857,
-      "title": "La plaine est vaste"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Polyeucte,_CG_11_(Gounod,_Charles)",
-      "year": 1878,
-      "title": "Polyeucte, CG 11"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Pr%C3%A9lude,_CG_191b_(Gounod,_Charles)",
-      "year": 1877,
-      "title": "Pr\u00e9lude, CG 191b"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Le_premier_jour_de_mai,_CG_426_(Gounod,_Charles)",
-      "year": 1850,
-      "title": "Le premier jour de mai, CG 426"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Pr%C3%A8s_du_fleuve_%C3%A9tranger,_CG_191_(Gounod,_Charles)",
-      "year": 1859,
-      "title": "Pr\u00e8s du fleuve \u00e9tranger, CG 191"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Pri%C3%A8re_du_soir,_CG_188_(Gounod,_Charles)",
-      "year": 1866,
-      "title": "Pri\u00e8re du soir, CG 188"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Pri%C3%A8re_du_soir,_CG_429_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "Pri\u00e8re du soir, CG 429"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Pri%C3%A8re,_CG_427_(Gounod,_Charles)",
-      "year": 1876,
-      "title": "Pri\u00e8re, CG 427"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Primavera,_CG_430_(Gounod,_Charles)",
-      "year": 1867,
-      "title": "Primavera, CG 430"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Quanti_mai,_CG_432_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "Quanti mai, CG 432"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Que_ta_volont%C3%A9_soit_faite,_CG_461a_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "Que ta volont\u00e9 soit faite, CG 461a"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_R%C3%A9demption,_CG_32_(Gounod,_Charles)",
-      "year": 1882,
-      "title": "La R\u00e9demption, CG 32"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_reine_de_Saba,_CG_7_(Gounod,_Charles)",
-      "year": 1862,
-      "title": "La reine de Saba, CG 7"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_reine_du_matin,_CG_7c_(Gounod,_Charles)",
-      "year": 1853,
-      "title": "La reine du matin, CG 7c"
-    },
-    {
+      "title": "Le rendez-vous, CG 613",
       "imslp_url": "https://imslp.org/wiki/Le_rendez-vous,_CG_613_(Gounod,_Charles)",
-      "year": 1847,
-      "title": "Le rendez-vous, CG 613"
+      "year": 1847
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Repentir,_CG_434_(Gounod,_Charles)",
-      "year": 1893,
-      "title": "Repentir, CG 434"
+      "title": "Aubade, CG 330",
+      "imslp_url": "https://imslp.org/wiki/Aubade,_CG_330_(Gounod,_Charles)",
+      "year": 1849
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Requiem,_CG_80_(Gounod,_Charles)",
-      "year": 1891,
-      "title": "Requiem, CG 80"
+      "title": "Chanson de printemps, CG 359",
+      "imslp_url": "https://imslp.org/wiki/Chanson_de_printemps,_CG_359_(Gounod,_Charles)",
+      "year": 1849
     },
     {
-      "imslp_url": "https://imslp.org/wiki/R%C3%AAverie,_CG_4e_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "R\u00eaverie, CG 4e"
+      "title": "La pervenche, CG 585",
+      "imslp_url": "https://imslp.org/wiki/La_pervenche,_CG_585_(Gounod,_Charles)",
+      "year": 1849
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Ring_Out,_Wild_Bells,_CG_435_(Gounod,_Charles)",
-      "year": 1880,
-      "title": "Ring Out, Wild Bells, CG 435"
+      "title": "Le lever, CG 400",
+      "imslp_url": "https://imslp.org/wiki/Le_lever,_CG_400_(Gounod,_Charles)",
+      "year": 1849
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Rom%C3%A9o_et_Juliette,_CG_9_(Gounod,_Charles)",
-      "year": 1867,
-      "title": "Rom\u00e9o et Juliette, CG 9"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Royal_Menuet,_CG_588_(Gounod,_Charles)",
-      "year": 1861,
-      "title": "Royal Menuet, CG 588"
-    },
-    {
+      "title": "Le ruisseau, CG 589",
       "imslp_url": "https://imslp.org/wiki/Le_ruisseau,_CG_589_(Gounod,_Charles)",
-      "year": 1849,
-      "title": "Le ruisseau, CG 589"
+      "year": 1849
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Saint_Fran%C3%A7ois_d%27Assise,_CG_34_(Gounod,_Charles)",
-      "year": 1891,
-      "title": "Saint Fran\u00e7ois d'Assise, CG 34"
+      "title": "Le vin des Gaulois et la danse de l'\u00e9p\u00e9e, CG 619",
+      "imslp_url": "https://imslp.org/wiki/Le_vin_des_Gaulois_et_la_danse_de_l'\u00e9p\u00e9e,_CG_619_(Gounod,_Charles)",
+      "year": 1849
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Saltarello,_CG_525_(Gounod,_Charles)",
-      "year": 1870,
-      "title": "Saltarello, CG 525"
+      "title": "Matin\u00e9e dans la montagne, CG 190",
+      "imslp_url": "https://imslp.org/wiki/Matin\u00e9e_dans_la_montagne,_CG_190_(Gounod,_Charles)",
+      "year": 1849
     },
     {
-      "imslp_url": "https://imslp.org/wiki/La_salutation_ang%C3%A9lique,_CG_436_(Gounod,_Charles)",
-      "year": 1876,
-      "title": "La salutation ang\u00e9lique, CG 436"
+      "title": "Solitude, CG 443",
+      "imslp_url": "https://imslp.org/wiki/Solitude,_CG_443_(Gounod,_Charles)",
+      "year": 1849
     },
     {
+      "title": "Venise, CG 468",
+      "imslp_url": "https://imslp.org/wiki/Venise,_CG_468_(Gounod,_Charles)",
+      "year": 1849
+    },
+    {
+      "title": "Chant d'automne, CG 360",
+      "imslp_url": "https://imslp.org/wiki/Chant_d'automne,_CG_360_(Gounod,_Charles)",
+      "year": 1850
+    },
+    {
+      "title": "Le premier jour de mai, CG 426",
+      "imslp_url": "https://imslp.org/wiki/Le_premier_jour_de_mai,_CG_426_(Gounod,_Charles)",
+      "year": 1850
+    },
+    {
+      "title": "Sapho, CG 1",
       "imslp_url": "https://imslp.org/wiki/Sapho,_CG_1_(Gounod,_Charles)",
-      "year": 1850,
-      "title": "Sapho, CG 1"
+      "year": 1850
     },
     {
+      "title": "\u00d4 ma belle rebelle, CG 414",
+      "imslp_url": "https://imslp.org/wiki/\u00d4_ma_belle_rebelle,_CG_414_(Gounod,_Charles)",
+      "year": 1850
+    },
+    {
+      "title": "D'un c\u0153ur qui t'aime, CG 185",
+      "imslp_url": "https://imslp.org/wiki/D'un_c\u0153ur_qui_t'aime,_CG_185_(Gounod,_Charles)",
+      "year": 1851
+    },
+    {
+      "title": "Ulysse, CG 26",
+      "imslp_url": "https://imslp.org/wiki/Ulysse,_CG_26_(Gounod,_Charles)",
+      "year": 1851
+    },
+    {
+      "title": "Ave Maria, CG 89",
+      "imslp_url": "https://imslp.org/wiki/Ave_Maria,_CG_89_(Gounod,_Charles)",
+      "year": 1852
+    },
+    {
+      "title": "La nonne sanglante, CG 2",
+      "imslp_url": "https://imslp.org/wiki/La_nonne_sanglante,_CG_2_(Gounod,_Charles)",
+      "year": 1852
+    },
+    {
+      "title": "\u00c0 la reine des ap\u00f4tres, CG 370",
+      "imslp_url": "https://imslp.org/wiki/\u00c0_la_reine_des_ap\u00f4tres,_CG_370_(Gounod,_Charles)",
+      "year": 1852
+    },
+    {
+      "title": "L'arithm\u00e9tique, CG 248",
+      "imslp_url": "https://imslp.org/wiki/L'arithm\u00e9tique,_CG_248_(Gounod,_Charles)",
+      "year": 1853
+    },
+    {
+      "title": "La reine du matin, CG 7c",
+      "imslp_url": "https://imslp.org/wiki/La_reine_du_matin,_CG_7c_(Gounod,_Charles)",
+      "year": 1853
+    },
+    {
+      "title": "Symphony No.1, CG 527",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.1,_CG_527_(Gounod,_Charles)",
+      "year": 1853
+    },
+    {
+      "title": "Les pauvres du bon Dieu, CG 236",
+      "imslp_url": "https://imslp.org/wiki/Les_pauvres_du_bon_Dieu,_CG_236_(Gounod,_Charles)",
+      "year": 1854
+    },
+    {
+      "title": "Tobie, CG 31",
+      "imslp_url": "https://imslp.org/wiki/Tobie,_CG_31_(Gounod,_Charles)",
+      "year": 1854
+    },
+    {
+      "title": "Choeur de chasseurs, CG 208",
+      "imslp_url": "https://imslp.org/wiki/Choeur_de_chasseurs,_CG_208_(Gounod,_Charles)",
+      "year": 1855
+    },
+    {
+      "title": "Les Sept paroles de Notre Seigneur J\u00e9sus-Christ sur la croix, CG 147",
+      "imslp_url": "https://imslp.org/wiki/Les_Sept_paroles_de_Notre_Seigneur_J\u00e9sus-Christ_sur_la_croix,_CG_147_(Gounod,_Charles)",
+      "year": 1855
+    },
+    {
+      "title": "Messe solennelle de Sainte-C\u00e9cile, CG 56",
+      "imslp_url": "https://imslp.org/wiki/Messe_solennelle_de_Sainte-C\u00e9cile,_CG_56_(Gounod,_Charles)",
+      "year": 1855
+    },
+    {
+      "title": "Symphony No.2, CG 528",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.2,_CG_528_(Gounod,_Charles)",
+      "year": 1855
+    },
+    {
+      "title": "Vive l'empereur, CG 217",
+      "imslp_url": "https://imslp.org/wiki/Vive_l'empereur,_CG_217_(Gounod,_Charles)",
+      "year": 1855
+    },
+    {
+      "title": "Deux vieux amis, CG 374",
+      "imslp_url": "https://imslp.org/wiki/Deux_vieux_amis,_CG_374_(Gounod,_Charles)",
+      "year": 1856
+    },
+    {
+      "title": "Faust, CG 4",
+      "imslp_url": "https://imslp.org/wiki/Faust,_CG_4_(Gounod,_Charles)",
+      "year": 1856
+    },
+    {
+      "title": "J\u00e9sus de Nazareth, CG 395",
+      "imslp_url": "https://imslp.org/wiki/J\u00e9sus_de_Nazareth,_CG_395_(Gounod,_Charles)",
+      "year": 1856
+    },
+    {
+      "title": "La cigale et la fourmi, CG 209",
+      "imslp_url": "https://imslp.org/wiki/La_cigale_et_la_fourmi,_CG_209_(Gounod,_Charles)",
+      "year": 1856
+    },
+    {
+      "title": "Pater noster, CG 139",
+      "imslp_url": "https://imslp.org/wiki/Pater_noster,_CG_139_(Gounod,_Charles)",
+      "year": 1856
+    },
+    {
+      "title": "La plaine est vaste",
+      "imslp_url": "https://imslp.org/wiki/La_plaine_est_vaste_(Gounod,_Charles)",
+      "year": 1857
+    },
+    {
+      "title": "S\u00e9r\u00e9nade, CG 437",
+      "imslp_url": "https://imslp.org/wiki/S\u00e9r\u00e9nade,_CG_437_(Gounod,_Charles)",
+      "year": 1857
+    },
+    {
+      "title": "Communion, CG 625",
+      "imslp_url": "https://imslp.org/wiki/Communion,_CG_625_(Gounod,_Charles)",
+      "year": 1858
+    },
+    {
+      "title": "L'ang\u00e9lus, CG 609",
+      "imslp_url": "https://imslp.org/wiki/L'ang\u00e9lus,_CG_609_(Gounod,_Charles)",
+      "year": 1858
+    },
+    {
+      "title": "Le m\u00e9decin malgr\u00e9 lui, CG 3",
+      "imslp_url": "https://imslp.org/wiki/Le_m\u00e9decin_malgr\u00e9_lui,_CG_3_(Gounod,_Charles)",
+      "year": 1858
+    },
+    {
+      "title": "Menuet, CG 611",
+      "imslp_url": "https://imslp.org/wiki/Menuet,_CG_611_(Gounod,_Charles)",
+      "year": 1858
+    },
+    {
+      "title": "Adieu, CG 595",
+      "imslp_url": "https://imslp.org/wiki/Adieu,_CG_595_(Gounod,_Charles)",
+      "year": 1859
+    },
+    {
+      "title": "Dans cette \u00e9table, CG 192",
+      "imslp_url": "https://imslp.org/wiki/Dans_cette_\u00e9table,_CG_192_(Gounod,_Charles)",
+      "year": 1859
+    },
+    {
+      "title": "Phil\u00e9mon et Baucis, CG 5",
+      "imslp_url": "https://imslp.org/wiki/Phil\u00e9mon_et_Baucis,_CG_5_(Gounod,_Charles)",
+      "year": 1859
+    },
+    {
+      "title": "Pr\u00e8s du fleuve \u00e9tranger, CG 191",
+      "imslp_url": "https://imslp.org/wiki/Pr\u00e8s_du_fleuve_\u00e9tranger,_CG_191_(Gounod,_Charles)",
+      "year": 1859
+    },
+    {
+      "title": "All Ye who weep, CG 189a",
+      "imslp_url": "https://imslp.org/wiki/All_Ye_who_weep,_CG_189a_(Gounod,_Charles)",
+      "year": 1860
+    },
+    {
+      "title": "La colombe, CG 6",
+      "imslp_url": "https://imslp.org/wiki/La_colombe,_CG_6_(Gounod,_Charles)",
+      "year": 1860
+    },
+    {
+      "title": "Le bal d'enfants, CG 577",
+      "imslp_url": "https://imslp.org/wiki/Le_bal_d'enfants,_CG_577_(Gounod,_Charles)",
+      "year": 1860
+    },
+    {
+      "title": "Le juif errant, CG 396",
+      "imslp_url": "https://imslp.org/wiki/Le_juif_errant,_CG_396_(Gounod,_Charles)",
+      "year": 1861
+    },
+    {
+      "title": "Royal Menuet, CG 588",
+      "imslp_url": "https://imslp.org/wiki/Royal_Menuet,_CG_588_(Gounod,_Charles)",
+      "year": 1861
+    },
+    {
+      "title": "La reine de Saba, CG 7",
+      "imslp_url": "https://imslp.org/wiki/La_reine_de_Saba,_CG_7_(Gounod,_Charles)",
+      "year": 1862
+    },
+    {
+      "title": "Le temple de l'harmonie, CG 39",
+      "imslp_url": "https://imslp.org/wiki/Le_temple_de_l'harmonie,_CG_39_(Gounod,_Charles)",
+      "year": 1862
+    },
+    {
+      "title": "L'\u00e2me d'un ange, CG 398b",
+      "imslp_url": "https://imslp.org/wiki/L'\u00e2me_d'un_ange,_CG_398b_(Gounod,_Charles)",
+      "year": 1863
+    },
+    {
+      "title": "Les champs, CG 356",
+      "imslp_url": "https://imslp.org/wiki/Les_champs,_CG_356_(Gounod,_Charles)",
+      "year": 1863
+    },
+    {
+      "title": "Les pifferari, CG 586",
+      "imslp_url": "https://imslp.org/wiki/Les_pifferari,_CG_586_(Gounod,_Charles)",
+      "year": 1863
+    },
+    {
+      "title": "Musette, CG 584",
+      "imslp_url": "https://imslp.org/wiki/Musette,_CG_584_(Gounod,_Charles)",
+      "year": 1863
+    },
+    {
+      "title": "Invocation, CG 4f",
+      "imslp_url": "https://imslp.org/wiki/Invocation,_CG_4f_(Gounod,_Charles)",
+      "year": 1864
+    },
+    {
+      "title": "Medj\u00e9, CG 407",
+      "imslp_url": "https://imslp.org/wiki/Medj\u00e9,_CG_407_(Gounod,_Charles)",
+      "year": 1864
+    },
+    {
+      "title": "Mireille, CG 8",
+      "imslp_url": "https://imslp.org/wiki/Mireille,_CG_8_(Gounod,_Charles)",
+      "year": 1864
+    },
+    {
+      "title": "Hymne \u00e0 Sainte C\u00e9cile, CG 557",
+      "imslp_url": "https://imslp.org/wiki/Hymne_\u00e0_Sainte_C\u00e9cile,_CG_557_(Gounod,_Charles)",
+      "year": 1865
+    },
+    {
+      "title": "Le Vendredi-Saint, CG 181",
+      "imslp_url": "https://imslp.org/wiki/Le_Vendredi-Saint,_CG_181_(Gounod,_Charles)",
+      "year": 1865
+    },
+    {
+      "title": "Souvenance, CG 590",
+      "imslp_url": "https://imslp.org/wiki/Souvenance,_CG_590_(Gounod,_Charles)",
+      "year": 1865
+    },
+    {
+      "title": "Valse des fianc\u00e9s, CG 2k",
+      "imslp_url": "https://imslp.org/wiki/Valse_des_fianc\u00e9s,_CG_2k_(Gounod,_Charles)",
+      "year": 1865
+    },
+    {
+      "title": "Choral et musette, CG 554a",
+      "imslp_url": "https://imslp.org/wiki/Choral_et_musette,_CG_554a_(Gounod,_Charles)",
+      "year": 1866
+    },
+    {
+      "title": "Cr\u00e9puscule, CG 368",
+      "imslp_url": "https://imslp.org/wiki/Cr\u00e9puscule,_CG_368_(Gounod,_Charles)",
+      "year": 1866
+    },
+    {
+      "title": "Le crucifix, CG 189",
+      "imslp_url": "https://imslp.org/wiki/Le_crucifix,_CG_189_(Gounod,_Charles)",
+      "year": 1866
+    },
+    {
+      "title": "Pri\u00e8re du soir, CG 188",
+      "imslp_url": "https://imslp.org/wiki/Pri\u00e8re_du_soir,_CG_188_(Gounod,_Charles)",
+      "year": 1866
+    },
+    {
+      "title": "Si la mort est le but, CG 439",
+      "imslp_url": "https://imslp.org/wiki/Si_la_mort_est_le_but,_CG_439_(Gounod,_Charles)",
+      "year": 1866
+    },
+    {
+      "title": "Tombez, mes ailes!, CG 463",
+      "imslp_url": "https://imslp.org/wiki/Tombez,_mes_ailes!,_CG_463_(Gounod,_Charles)",
+      "year": 1866
+    },
+    {
+      "title": "Au printemps, CG 331",
+      "imslp_url": "https://imslp.org/wiki/Au_printemps,_CG_331_(Gounod,_Charles)",
+      "year": 1867
+    },
+    {
+      "title": "Au rossignol, CG 332",
+      "imslp_url": "https://imslp.org/wiki/Au_rossignol,_CG_332_(Gounod,_Charles)",
+      "year": 1867
+    },
+    {
+      "title": "Chantez No\u00ebl, CG 184a",
+      "imslp_url": "https://imslp.org/wiki/Chantez_No\u00ebl,_CG_184a_(Gounod,_Charles)",
+      "year": 1867
+    },
+    {
+      "title": "La chasse, CG 183",
+      "imslp_url": "https://imslp.org/wiki/La_chasse,_CG_183_(Gounod,_Charles)",
+      "year": 1867
+    },
+    {
+      "title": "La nuit, CG 182",
+      "imslp_url": "https://imslp.org/wiki/La_nuit,_CG_182_(Gounod,_Charles)",
+      "year": 1867
+    },
+    {
+      "title": "Primavera, CG 430",
+      "imslp_url": "https://imslp.org/wiki/Primavera,_CG_430_(Gounod,_Charles)",
+      "year": 1867
+    },
+    {
+      "title": "Rom\u00e9o et Juliette, CG 9",
+      "imslp_url": "https://imslp.org/wiki/Rom\u00e9o_et_Juliette,_CG_9_(Gounod,_Charles)",
+      "year": 1867
+    },
+    {
+      "title": "Stabat mater, CG 186",
+      "imslp_url": "https://imslp.org/wiki/Stabat_mater,_CG_186_(Gounod,_Charles)",
+      "year": 1867
+    },
+    {
+      "title": "Ave verum, CG 155",
+      "imslp_url": "https://imslp.org/wiki/Ave_verum,_CG_155_(Gounod,_Charles)",
+      "year": 1868
+    },
+    {
+      "title": "Boire \u00e0 l'ombre, CG 353",
+      "imslp_url": "https://imslp.org/wiki/Boire_\u00e0_l'ombre,_CG_353_(Gounod,_Charles)",
+      "year": 1868
+    },
+    {
+      "title": "Ce que je suis sans toi, CG 355",
+      "imslp_url": "https://imslp.org/wiki/Ce_que_je_suis_sans_toi,_CG_355_(Gounod,_Charles)",
+      "year": 1868
+    },
+    {
+      "title": "Donne-moi cette fleur, CG 375",
+      "imslp_url": "https://imslp.org/wiki/Donne-moi_cette_fleur,_CG_375_(Gounod,_Charles)",
+      "year": 1868
+    },
+    {
+      "title": "D\u00e9part, CG 369",
+      "imslp_url": "https://imslp.org/wiki/D\u00e9part,_CG_369_(Gounod,_Charles)",
+      "year": 1868
+    },
+    {
+      "title": "Envoi de fleurs, CG 380",
+      "imslp_url": "https://imslp.org/wiki/Envoi_de_fleurs,_CG_380_(Gounod,_Charles)",
+      "year": 1868
+    },
+    {
+      "title": "Hymne \u00e0 la nuit, CG 389",
+      "imslp_url": "https://imslp.org/wiki/Hymne_\u00e0_la_nuit,_CG_389_(Gounod,_Charles)",
+      "year": 1868
+    },
+    {
+      "title": "Le ciel a visit\u00e9 la terre, CG 365",
+      "imslp_url": "https://imslp.org/wiki/Le_ciel_a_visit\u00e9_la_terre,_CG_365_(Gounod,_Charles)",
+      "year": 1868
+    },
+    {
+      "title": "Sicut cervus, CG 148",
+      "imslp_url": "https://imslp.org/wiki/Sicut_cervus,_CG_148_(Gounod,_Charles)",
+      "year": 1868
+    },
+    {
+      "title": "\u00c0 une bourse, CG 322",
+      "imslp_url": "https://imslp.org/wiki/\u00c0_une_bourse,_CG_322_(Gounod,_Charles)",
+      "year": 1868
+    },
+    {
+      "title": "\u00c0 une jeune fille, CG 323",
+      "imslp_url": "https://imslp.org/wiki/\u00c0_une_jeune_fille,_CG_323_(Gounod,_Charles)",
+      "year": 1868
+    },
+    {
+      "title": "Absence, CG 326",
+      "imslp_url": "https://imslp.org/wiki/Absence,_CG_326_(Gounod,_Charles)",
+      "year": 1869
+    },
+    {
+      "title": "Je ne puis esp\u00e9rer, CG 394",
+      "imslp_url": "https://imslp.org/wiki/Je_ne_puis_esp\u00e9rer,_CG_394_(Gounod,_Charles)",
+      "year": 1869
+    },
+    {
+      "title": "L'aff\u00fbt, CG 187",
+      "imslp_url": "https://imslp.org/wiki/L'aff\u00fbt,_CG_187_(Gounod,_Charles)",
+      "year": 1869
+    },
+    {
+      "title": "L'anniversaire des martyrs, CG 329",
+      "imslp_url": "https://imslp.org/wiki/L'anniversaire_des_martyrs,_CG_329_(Gounod,_Charles)",
+      "year": 1869
+    },
+    {
+      "title": "Le nom de Marie, CG 412",
+      "imslp_url": "https://imslp.org/wiki/Le_nom_de_Marie,_CG_412_(Gounod,_Charles)",
+      "year": 1869
+    },
+    {
+      "title": "Marche pontificale, CG 523",
+      "imslp_url": "https://imslp.org/wiki/Marche_pontificale,_CG_523_(Gounod,_Charles)",
+      "year": 1869
+    },
+    {
+      "title": "Notre-Dame des petits enfants, CG 413",
+      "imslp_url": "https://imslp.org/wiki/Notre-Dame_des_petits_enfants,_CG_413_(Gounod,_Charles)",
+      "year": 1869
+    },
+    {
+      "title": "No\u00ebl, CG 184",
+      "imslp_url": "https://imslp.org/wiki/No\u00ebl,_CG_184_(Gounod,_Charles)",
+      "year": 1869
+    },
+    {
+      "title": "Par une belle nuit, CG 421",
+      "imslp_url": "https://imslp.org/wiki/Par_une_belle_nuit,_CG_421_(Gounod,_Charles)",
+      "year": 1869
+    },
+    {
+      "title": "Beware!, CG 338",
+      "imslp_url": "https://imslp.org/wiki/Beware!,_CG_338_(Gounod,_Charles)",
+      "year": 1870
+    },
+    {
+      "title": "Chantez, voix b\u00e9nies, CG 523b",
+      "imslp_url": "https://imslp.org/wiki/Chantez,_voix_b\u00e9nies,_CG_523b_(Gounod,_Charles)",
+      "year": 1870
+    },
+    {
+      "title": "La p\u00e2querette, CG 420",
+      "imslp_url": "https://imslp.org/wiki/La_p\u00e2querette,_CG_420_(Gounod,_Charles)",
+      "year": 1870
+    },
+    {
+      "title": "Le souvenir, CG 444",
+      "imslp_url": "https://imslp.org/wiki/Le_souvenir,_CG_444_(Gounod,_Charles)",
+      "year": 1870
+    },
+    {
+      "title": "Mignon, CG 409",
+      "imslp_url": "https://imslp.org/wiki/Mignon,_CG_409_(Gounod,_Charles)",
+      "year": 1870
+    },
+    {
+      "title": "Saltarello, CG 525",
+      "imslp_url": "https://imslp.org/wiki/Saltarello,_CG_525_(Gounod,_Charles)",
+      "year": 1870
+    },
+    {
+      "title": "Ave verum, CG 142",
+      "imslp_url": "https://imslp.org/wiki/Ave_verum,_CG_142_(Gounod,_Charles)",
+      "year": 1871
+    },
+    {
+      "title": "Bol\u00e9ro, CG 354",
+      "imslp_url": "https://imslp.org/wiki/Bol\u00e9ro,_CG_354_(Gounod,_Charles)",
+      "year": 1871
+    },
+    {
+      "title": "De profundis, CG 88",
+      "imslp_url": "https://imslp.org/wiki/De_profundis,_CG_88_(Gounod,_Charles)",
+      "year": 1871
+    },
+    {
+      "title": "Gallia, CG 40",
+      "imslp_url": "https://imslp.org/wiki/Gallia,_CG_40_(Gounod,_Charles)",
+      "year": 1871
+    },
+    {
+      "title": "Good Night, CG 386",
+      "imslp_url": "https://imslp.org/wiki/Good_Night,_CG_386_(Gounod,_Charles)",
+      "year": 1871
+    },
+    {
+      "title": "Heureux sera le jour, CG 388",
+      "imslp_url": "https://imslp.org/wiki/Heureux_sera_le_jour,_CG_388_(Gounod,_Charles)",
+      "year": 1871
+    },
+    {
+      "title": "Ivy, CG 581",
+      "imslp_url": "https://imslp.org/wiki/Ivy,_CG_581_(Gounod,_Charles)",
+      "year": 1871
+    },
+    {
+      "title": "La siesta, CG 399",
+      "imslp_url": "https://imslp.org/wiki/La_siesta,_CG_399_(Gounod,_Charles)",
+      "year": 1871
+    },
+    {
+      "title": "My Beloved Spake, CG 411",
+      "imslp_url": "https://imslp.org/wiki/My_Beloved_Spake,_CG_411_(Gounod,_Charles)",
+      "year": 1871
+    },
+    {
+      "title": "Oh! That We Two Were Maying, CG 417",
+      "imslp_url": "https://imslp.org/wiki/Oh!_That_We_Two_Were_Maying,_CG_417_(Gounod,_Charles)",
+      "year": 1871
+    },
+    {
+      "title": "Si vous n'ouvrez votre fen\u00eatre, CG 440",
+      "imslp_url": "https://imslp.org/wiki/Si_vous_n'ouvrez_votre_fen\u00eatre,_CG_440_(Gounod,_Charles)",
+      "year": 1871
+    },
+    {
+      "title": "Sur la montagne, CG 456a",
+      "imslp_url": "https://imslp.org/wiki/Sur_la_montagne,_CG_456a_(Gounod,_Charles)",
+      "year": 1871
+    },
+    {
+      "title": "Sweet Baby, Sleep, CG 445",
+      "imslp_url": "https://imslp.org/wiki/Sweet_Baby,_Sleep,_CG_445_(Gounod,_Charles)",
+      "year": 1871
+    },
+    {
+      "title": "The Sea Hath Its Pearls, CG 458",
       "imslp_url": "https://imslp.org/wiki/The_Sea_Hath_Its_Pearls,_CG_458_(Gounod,_Charles)",
-      "year": 1871,
-      "title": "The Sea Hath Its Pearls, CG 458"
+      "year": 1871
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Les_Sept_paroles_de_Notre_Seigneur_J%C3%A9sus-Christ_sur_la_croix,_CG_147_(Gounod,_Charles)",
-      "year": 1855,
-      "title": "Les Sept paroles de Notre Seigneur J\u00e9sus-Christ sur la croix, CG 147"
+      "title": "There Is Dew, CG 457",
+      "imslp_url": "https://imslp.org/wiki/There_Is_Dew,_CG_457_(Gounod,_Charles)",
+      "year": 1871
     },
     {
-      "imslp_url": "https://imslp.org/wiki/S%C3%A9r%C3%A9nade,_CG_437_(Gounod,_Charles)",
-      "year": 1857,
-      "title": "S\u00e9r\u00e9nade, CG 437"
+      "title": "There Is a Green Hill Far Away, CG 456",
+      "imslp_url": "https://imslp.org/wiki/There_Is_a_Green_Hill_Far_Away,_CG_456_(Gounod,_Charles)",
+      "year": 1871
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Biondina_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "Biondina"
+      "title": "Abraham's Request, CG 325",
+      "imslp_url": "https://imslp.org/wiki/Abraham's_Request,_CG_325_(Gounod,_Charles)",
+      "year": 1872
     },
     {
-      "imslp_url": "https://imslp.org/wiki/6_Cantiques_(Gounod,_Charles)",
-      "year": 1870,
-      "title": "6 Cantiques"
+      "title": "Aimons-nous, CG 449",
+      "imslp_url": "https://imslp.org/wiki/Aimons-nous,_CG_449_(Gounod,_Charles)",
+      "year": 1872
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Chants_sacr%C3%A9s_(Gounod,_Charles)",
-      "year": 1878,
-      "title": "Chants sacr\u00e9s"
+      "title": "Barcarola, CG 336",
+      "imslp_url": "https://imslp.org/wiki/Barcarola,_CG_336_(Gounod,_Charles)",
+      "year": 1872
     },
     {
-      "imslp_url": "https://imslp.org/wiki/12_Choeurs_et_une_cantate_(Gounod,_Charles)",
-      "year": 1869,
-      "title": "12 Choeurs et une cantate"
+      "title": "Bells Across the Snow, CG 2h",
+      "imslp_url": "https://imslp.org/wiki/Bells_Across_the_Snow,_CG_2h_(Gounod,_Charles)",
+      "year": 1872
     },
     {
-      "imslp_url": "https://imslp.org/wiki/14_Grands_choeurs_(Gounod,_Charles)",
-      "year": 1882,
-      "title": "14 Grands choeurs"
+      "title": "Chanson d'avril, CG 357",
+      "imslp_url": "https://imslp.org/wiki/Chanson_d'avril,_CG_357_(Gounod,_Charles)",
+      "year": 1872
     },
     {
-      "imslp_url": "https://imslp.org/wiki/15_M%C3%A9lodies_enfantines_(Gounod,_Charles)",
-      "year": 1857,
-      "title": "15 M\u00e9lodies enfantines"
+      "title": "Chanter et souffrir, CG 362",
+      "imslp_url": "https://imslp.org/wiki/Chanter_et_souffrir,_CG_362_(Gounod,_Charles)",
+      "year": 1872
     },
     {
-      "imslp_url": "https://imslp.org/wiki/20_M%C3%A9lodies,_1er_recueil_(Gounod,_Charles)",
-      "year": 1863,
-      "title": "20 M\u00e9lodies, 1er recueil"
+      "title": "Dodelinette, CG 610",
+      "imslp_url": "https://imslp.org/wiki/Dodelinette,_CG_610_(Gounod,_Charles)",
+      "year": 1872
     },
     {
-      "imslp_url": "https://imslp.org/wiki/20_M%C3%A9lodies,_2e_recueil_(Gounod,_Charles)",
-      "year": 1869,
-      "title": "20 M\u00e9lodies, 2e recueil"
+      "title": "Entreat Me Not to Leave Thee, CG 392",
+      "imslp_url": "https://imslp.org/wiki/Entreat_Me_Not_to_Leave_Thee,_CG_392_(Gounod,_Charles)",
+      "year": 1872
     },
     {
-      "imslp_url": "https://imslp.org/wiki/20_M%C3%A9lodies,_3%C3%A8me_recueil_(Gounod,_Charles)",
-      "year": 1872,
-      "title": "20 M\u00e9lodies, 3\u00e8me recueil"
+      "title": "If Thou Art Sleeping, Maiden, Awake!, CG 390",
+      "imslp_url": "https://imslp.org/wiki/If_Thou_Art_Sleeping,_Maiden,_Awake!,_CG_390_(Gounod,_Charles)",
+      "year": 1872
     },
     {
-      "imslp_url": "https://imslp.org/wiki/20_M%C3%A9lodies,_4e_recueil_(Gounod,_Charles)",
-      "year": 1877,
-      "title": "20 M\u00e9lodies, 4e recueil"
+      "title": "La fauvette, CG 383",
+      "imslp_url": "https://imslp.org/wiki/La_fauvette,_CG_383_(Gounod,_Charles)",
+      "year": 1872
     },
     {
-      "imslp_url": "https://imslp.org/wiki/6_M%C3%A9lodies_(Gounod,_Charles)",
-      "year": 1842,
-      "title": "6 M\u00e9lodies"
+      "title": "Le pays bienheureux, CG 448a",
+      "imslp_url": "https://imslp.org/wiki/Le_pays_bienheureux,_CG_448a_(Gounod,_Charles)",
+      "year": 1872
     },
     {
-      "imslp_url": "https://imslp.org/wiki/50_Morceaux_religieux,_Op.388_(Gounod,_Charles)",
-      "year": 1880,
-      "title": "50 Morceaux religieux, Op.388"
+      "title": "Les deux reines, CG 28",
+      "imslp_url": "https://imslp.org/wiki/Les_deux_reines,_CG_28_(Gounod,_Charles)",
+      "year": 1872
     },
     {
-      "imslp_url": "https://imslp.org/wiki/6_Romances_sans_paroles_(Gounod,_Charles)",
-      "year": 1849,
-      "title": "6 Romances sans paroles"
+      "title": "Little Celandine, CG 402",
+      "imslp_url": "https://imslp.org/wiki/Little_Celandine,_CG_402_(Gounod,_Charles)",
+      "year": 1872
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Le_Don_Juan_de_Mozart_(Gounod,_Charles)",
-      "year": 1890,
-      "title": "Le Don Juan de Mozart"
+      "title": "Loin du pays, CG 403",
+      "imslp_url": "https://imslp.org/wiki/Loin_du_pays,_CG_403_(Gounod,_Charles)",
+      "year": 1872
+    },
+    {
+      "title": "Ma belle amie est morte, CG 404",
+      "imslp_url": "https://imslp.org/wiki/Ma_belle_amie_est_morte,_CG_404_(Gounod,_Charles)",
+      "year": 1872
+    },
+    {
+      "title": "Maid of Athens, CG 406",
+      "imslp_url": "https://imslp.org/wiki/Maid_of_Athens,_CG_406_(Gounod,_Charles)",
+      "year": 1872
+    },
+    {
+      "title": "Marche fun\u00e8bre d'une marionnette, CG 583",
+      "imslp_url": "https://imslp.org/wiki/Marche_fun\u00e8bre_d'une_marionnette,_CG_583_(Gounod,_Charles)",
+      "year": 1872
+    },
+    {
+      "title": "Mass No.5 in C major, CG 65",
+      "imslp_url": "https://imslp.org/wiki/Mass_No.5_in_C_major,_CG_65_(Gounod,_Charles)",
+      "year": 1872
+    },
+    {
+      "title": "Messe des Anges Gardiens, CG 73",
+      "imslp_url": "https://imslp.org/wiki/Messe_des_Anges_Gardiens,_CG_73_(Gounod,_Charles)",
+      "year": 1872
+    },
+    {
+      "title": "Oh! dille tu!, CG 415",
+      "imslp_url": "https://imslp.org/wiki/Oh!_dille_tu!,_CG_415_(Gounod,_Charles)",
+      "year": 1872
+    },
+    {
+      "title": "Pri\u00e8re du soir, CG 429",
+      "imslp_url": "https://imslp.org/wiki/Pri\u00e8re_du_soir,_CG_429_(Gounod,_Charles)",
+      "year": 1872
+    },
+    {
+      "title": "Quanti mai, CG 432",
+      "imslp_url": "https://imslp.org/wiki/Quanti_mai,_CG_432_(Gounod,_Charles)",
+      "year": 1872
+    },
+    {
+      "title": "Que ta volont\u00e9 soit faite, CG 461a",
+      "imslp_url": "https://imslp.org/wiki/Que_ta_volont\u00e9_soit_faite,_CG_461a_(Gounod,_Charles)",
+      "year": 1872
+    },
+    {
+      "title": "R\u00eaverie, CG 4e",
+      "imslp_url": "https://imslp.org/wiki/R\u00eaverie,_CG_4e_(Gounod,_Charles)",
+      "year": 1872
+    },
+    {
+      "title": "The Bell, CG 282",
+      "imslp_url": "https://imslp.org/wiki/The_Bell,_CG_282_(Gounod,_Charles)",
+      "year": 1872
+    },
+    {
+      "title": "The Message of the Breeze, CG 453",
+      "imslp_url": "https://imslp.org/wiki/The_Message_of_the_Breeze,_CG_453_(Gounod,_Charles)",
+      "year": 1872
+    },
+    {
+      "title": "The Worker, CG 460",
+      "imslp_url": "https://imslp.org/wiki/The_Worker,_CG_460_(Gounod,_Charles)",
+      "year": 1872
+    },
+    {
+      "title": "\u00c0 toi mon c\u0153ur, CG 458a",
+      "imslp_url": "https://imslp.org/wiki/\u00c0_toi_mon_c\u0153ur,_CG_458a_(Gounod,_Charles)",
+      "year": 1872
+    },
+    {
+      "title": "Blessed Is the Man, CG 351",
+      "imslp_url": "https://imslp.org/wiki/Blessed_Is_the_Man,_CG_351_(Gounod,_Charles)",
+      "year": 1873
+    },
+    {
+      "title": "Clos ta paupi\u00e8re, CG 424a",
+      "imslp_url": "https://imslp.org/wiki/Clos_ta_paupi\u00e8re,_CG_424a_(Gounod,_Charles)",
+      "year": 1873
+    },
+    {
+      "title": "Ilala, CG 391",
+      "imslp_url": "https://imslp.org/wiki/Ilala,_CG_391_(Gounod,_Charles)",
+      "year": 1873
+    },
+    {
+      "title": "Jeanne d'Arc, CG 29",
+      "imslp_url": "https://imslp.org/wiki/Jeanne_d'Arc,_CG_29_(Gounod,_Charles)",
+      "year": 1873
+    },
+    {
+      "title": "Messe br\u00e8ve pour les morts, CG 78",
+      "imslp_url": "https://imslp.org/wiki/Messe_br\u00e8ve_pour_les_morts,_CG_78_(Gounod,_Charles)",
+      "year": 1873
+    },
+    {
+      "title": "Cantique pour la premi\u00e8re communion, CG 206a",
+      "imslp_url": "https://imslp.org/wiki/Cantique_pour_la_premi\u00e8re_communion,_CG_206a_(Gounod,_Charles)",
+      "year": 1874
+    },
+    {
+      "title": "La valse des sylphes, CG 592",
+      "imslp_url": "https://imslp.org/wiki/La_valse_des_sylphes,_CG_592_(Gounod,_Charles)",
+      "year": 1874
+    },
+    {
+      "title": "La veneziana, CG 593",
+      "imslp_url": "https://imslp.org/wiki/La_veneziana,_CG_593_(Gounod,_Charles)",
+      "year": 1874
+    },
+    {
+      "title": "Magnificat, CG 162",
+      "imslp_url": "https://imslp.org/wiki/Magnificat,_CG_162_(Gounod,_Charles)",
+      "year": 1874
+    },
+    {
+      "title": "En avant!, CG 211",
+      "imslp_url": "https://imslp.org/wiki/En_avant!,_CG_211_(Gounod,_Charles)",
+      "year": 1875
+    },
+    {
+      "title": "Invocation, CG 56e1",
+      "imslp_url": "https://imslp.org/wiki/Invocation,_CG_56e1_(Gounod,_Charles)",
+      "year": 1875
+    },
+    {
+      "title": "J\u00e9sus sur le lac de Tib\u00e9riade, CG 41a",
+      "imslp_url": "https://imslp.org/wiki/J\u00e9sus_sur_le_lac_de_Tib\u00e9riade,_CG_41a_(Gounod,_Charles)",
+      "year": 1875
+    },
+    {
+      "title": "Mon amour a mon c\u0153ur, CG 278a",
+      "imslp_url": "https://imslp.org/wiki/Mon_amour_a_mon_c\u0153ur,_CG_278a_(Gounod,_Charles)",
+      "year": 1875
+    },
+    {
+      "title": "M\u00e9lancolie, CG 408",
+      "imslp_url": "https://imslp.org/wiki/M\u00e9lancolie,_CG_408_(Gounod,_Charles)",
+      "year": 1875
+    },
+    {
+      "title": "Viens, les gazons sont verts, CG 390a",
+      "imslp_url": "https://imslp.org/wiki/Viens,_les_gazons_sont_verts,_CG_390a_(Gounod,_Charles)",
+      "year": 1875
+    },
+    {
+      "title": "\u00c0 la brise, CG 415a",
+      "imslp_url": "https://imslp.org/wiki/\u00c0_la_brise,_CG_415a_(Gounod,_Charles)",
+      "year": 1875
+    },
+    {
+      "title": "Compliment, CG 366",
+      "imslp_url": "https://imslp.org/wiki/Compliment,_CG_366_(Gounod,_Charles)",
+      "year": 1876
+    },
+    {
+      "title": "L'absent, CG 327",
+      "imslp_url": "https://imslp.org/wiki/L'absent,_CG_327_(Gounod,_Charles)",
+      "year": 1876
+    },
+    {
+      "title": "La f\u00eate de Jupiter",
+      "imslp_url": "https://imslp.org/wiki/La_f\u00eate_de_Jupiter_(Gounod,_Charles)",
+      "year": 1876
+    },
+    {
+      "title": "La salutation ang\u00e9lique, CG 436",
+      "imslp_url": "https://imslp.org/wiki/La_salutation_ang\u00e9lique,_CG_436_(Gounod,_Charles)",
+      "year": 1876
+    },
+    {
+      "title": "Le banc de pierre, CG 335",
+      "imslp_url": "https://imslp.org/wiki/Le_banc_de_pierre,_CG_335_(Gounod,_Charles)",
+      "year": 1876
+    },
+    {
+      "title": "Le d\u00e9part du mousse, CG 371",
+      "imslp_url": "https://imslp.org/wiki/Le_d\u00e9part_du_mousse,_CG_371_(Gounod,_Charles)",
+      "year": 1876
+    },
+    {
+      "title": "Les lilas blancs, CG 401",
+      "imslp_url": "https://imslp.org/wiki/Les_lilas_blancs,_CG_401_(Gounod,_Charles)",
+      "year": 1876
+    },
+    {
+      "title": "Ma fille, souviens-toi, CG 405",
+      "imslp_url": "https://imslp.org/wiki/Ma_fille,_souviens-toi,_CG_405_(Gounod,_Charles)",
+      "year": 1876
+    },
+    {
+      "title": "Marche fanfare, CG 582",
+      "imslp_url": "https://imslp.org/wiki/Marche_fanfare,_CG_582_(Gounod,_Charles)",
+      "year": 1876
+    },
+    {
+      "title": "Marche religieuse, CG 524",
+      "imslp_url": "https://imslp.org/wiki/Marche_religieuse,_CG_524_(Gounod,_Charles)",
+      "year": 1876
+    },
+    {
+      "title": "Messe du Sacr\u00e9-C\u0153ur de J\u00e9sus, CG 58",
+      "imslp_url": "https://imslp.org/wiki/Messe_du_Sacr\u00e9-C\u0153ur_de_J\u00e9sus,_CG_58_(Gounod,_Charles)",
+      "year": 1876
+    },
+    {
+      "title": "Messe \u00e0 deux voix \u00e9gales, CG 72",
+      "imslp_url": "https://imslp.org/wiki/Messe_\u00e0_deux_voix_\u00e9gales,_CG_72_(Gounod,_Charles)",
+      "year": 1876
+    },
+    {
+      "title": "Offertoire, CG 628",
+      "imslp_url": "https://imslp.org/wiki/Offertoire,_CG_628_(Gounod,_Charles)",
+      "year": 1876
+    },
+    {
+      "title": "Pri\u00e8re, CG 427",
+      "imslp_url": "https://imslp.org/wiki/Pri\u00e8re,_CG_427_(Gounod,_Charles)",
+      "year": 1876
+    },
+    {
+      "title": "Cinq-Mars, CG 10",
+      "imslp_url": "https://imslp.org/wiki/Cinq-Mars,_CG_10_(Gounod,_Charles)",
+      "year": 1877
+    },
+    {
+      "title": "Pr\u00e9lude, CG 191b",
+      "imslp_url": "https://imslp.org/wiki/Pr\u00e9lude,_CG_191b_(Gounod,_Charles)",
+      "year": 1877
+    },
+    {
+      "title": "Le tribut de Zamora, CG 12",
+      "imslp_url": "https://imslp.org/wiki/Le_tribut_de_Zamora,_CG_12_(Gounod,_Charles)",
+      "year": 1878
+    },
+    {
+      "title": "Marche solennelle",
+      "imslp_url": "https://imslp.org/wiki/Marche_solennelle_(Gounod,_Charles)",
+      "year": 1878
+    },
+    {
+      "title": "Pater noster, CG 138",
+      "imslp_url": "https://imslp.org/wiki/Pater_noster,_CG_138_(Gounod,_Charles)",
+      "year": 1878
+    },
+    {
+      "title": "Polyeucte, CG 11",
+      "imslp_url": "https://imslp.org/wiki/Polyeucte,_CG_11_(Gounod,_Charles)",
+      "year": 1878
+    },
+    {
+      "title": "Vive la France, CG 216",
+      "imslp_url": "https://imslp.org/wiki/Vive_la_France,_CG_216_(Gounod,_Charles)",
+      "year": 1878
+    },
+    {
+      "title": "Miserere, CG 144",
+      "imslp_url": "https://imslp.org/wiki/Miserere,_CG_144_(Gounod,_Charles)",
+      "year": 1880
+    },
+    {
+      "title": "Ring Out, Wild Bells, CG 435",
+      "imslp_url": "https://imslp.org/wiki/Ring_Out,_Wild_Bells,_CG_435_(Gounod,_Charles)",
+      "year": 1880
+    },
+    {
+      "title": "La R\u00e9demption, CG 32",
+      "imslp_url": "https://imslp.org/wiki/La_R\u00e9demption,_CG_32_(Gounod,_Charles)",
+      "year": 1882
+    },
+    {
+      "title": "Messe solennelle de P\u00e2ques, CG 59",
+      "imslp_url": "https://imslp.org/wiki/Messe_solennelle_de_P\u00e2ques,_CG_59_(Gounod,_Charles)",
+      "year": 1882
+    },
+    {
+      "title": "Wedding March No.1, CG 529",
+      "imslp_url": "https://imslp.org/wiki/Wedding_March_No.1,_CG_529_(Gounod,_Charles)",
+      "year": 1882
+    },
+    {
+      "title": "La chanson de la glu, CG 358",
+      "imslp_url": "https://imslp.org/wiki/La_chanson_de_la_glu,_CG_358_(Gounod,_Charles)",
+      "year": 1883
+    },
+    {
+      "title": "Blessures, CG 352",
+      "imslp_url": "https://imslp.org/wiki/Blessures,_CG_352_(Gounod,_Charles)",
+      "year": 1885
+    },
+    {
+      "title": "Mors et vita, CG 33",
+      "imslp_url": "https://imslp.org/wiki/Mors_et_vita,_CG_33_(Gounod,_Charles)",
+      "year": 1885
+    },
+    {
+      "title": "Petit quatuor",
+      "imslp_url": "https://imslp.org/wiki/Petit_quatuor_(Gounod,_Charles)",
+      "year": 1885
+    },
+    {
+      "title": "Petite symphonie, CG 560",
+      "imslp_url": "https://imslp.org/wiki/Petite_symphonie,_CG_560_(Gounod,_Charles)",
+      "year": 1885
+    },
+    {
+      "title": "String Quartet No.2",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2_(Gounod,_Charles)",
+      "year": 1885
+    },
+    {
+      "title": "The Arrow and the Song, CG 447",
+      "imslp_url": "https://imslp.org/wiki/The_Arrow_and_the_Song,_CG_447_(Gounod,_Charles)",
+      "year": 1885
+    },
+    {
+      "title": "Suite concertante, CG 526",
+      "imslp_url": "https://imslp.org/wiki/Suite_concertante,_CG_526_(Gounod,_Charles)",
+      "year": 1886
+    },
+    {
+      "title": "Until the Day Breaks, CG 466",
+      "imslp_url": "https://imslp.org/wiki/Until_the_Day_Breaks,_CG_466_(Gounod,_Charles)",
+      "year": 1886
+    },
+    {
+      "title": "Messe \u00e0 la m\u00e9moire de Jeanne d'Arc, CG 74",
+      "imslp_url": "https://imslp.org/wiki/Messe_\u00e0_la_m\u00e9moire_de_Jeanne_d'Arc,_CG_74_(Gounod,_Charles)",
+      "year": 1887
+    },
+    {
+      "title": "Vierge d'Ath\u00e8nes, CG 406a",
+      "imslp_url": "https://imslp.org/wiki/Vierge_d'Ath\u00e8nes,_CG_406a_(Gounod,_Charles)",
+      "year": 1887
+    },
+    {
+      "title": "Vision de Jeanne d'Arc, CG 74a",
+      "imslp_url": "https://imslp.org/wiki/Vision_de_Jeanne_d'Arc,_CG_74a_(Gounod,_Charles)",
+      "year": 1887
+    },
+    {
+      "title": "Danse roumaine, CG 521",
+      "imslp_url": "https://imslp.org/wiki/Danse_roumaine,_CG_521_(Gounod,_Charles)",
+      "year": 1888
+    },
+    {
+      "title": "Impromptu, CG 580",
+      "imslp_url": "https://imslp.org/wiki/Impromptu,_CG_580_(Gounod,_Charles)",
+      "year": 1888
+    },
+    {
+      "title": "Litanies de la Sainte Vierge",
+      "imslp_url": "https://imslp.org/wiki/Litanies_de_la_Sainte_Vierge_(Gounod,_Charles)",
+      "year": 1888
+    },
+    {
+      "title": "Messe solennelle sur l'intonation de la liturgie catholique, CG 60",
+      "imslp_url": "https://imslp.org/wiki/Messe_solennelle_sur_l'intonation_de_la_liturgie_catholique,_CG_60_(Gounod,_Charles)",
+      "year": 1888
+    },
+    {
+      "title": "Vieux menuet, CG 567",
+      "imslp_url": "https://imslp.org/wiki/Vieux_menuet,_CG_567_(Gounod,_Charles)",
+      "year": 1888
+    },
+    {
+      "title": "Messe breve No.7",
+      "imslp_url": "https://imslp.org/wiki/Messe_breve_No.7_(Gounod,_Charles)",
+      "year": 1890
+    },
+    {
+      "title": "Messe dite de Clovis, CG 62",
+      "imslp_url": "https://imslp.org/wiki/Messe_dite_de_Clovis,_CG_62_(Gounod,_Charles)",
+      "year": 1890
+    },
+    {
+      "title": "Tout l'univers ob\u00e9it \u00e0 l'amour, CG 464",
+      "imslp_url": "https://imslp.org/wiki/Tout_l'univers_ob\u00e9it_\u00e0_l'amour,_CG_464_(Gounod,_Charles)",
+      "year": 1890
+    },
+    {
+      "title": "Grande valse brillante, CG 579",
+      "imslp_url": "https://imslp.org/wiki/Grande_valse_brillante,_CG_579_(Gounod,_Charles)",
+      "year": 1891
+    },
+    {
+      "title": "Requiem, CG 80",
+      "imslp_url": "https://imslp.org/wiki/Requiem,_CG_80_(Gounod,_Charles)",
+      "year": 1891
+    },
+    {
+      "title": "Saint Fran\u00e7ois d'Assise, CG 34",
+      "imslp_url": "https://imslp.org/wiki/Saint_Fran\u00e7ois_d'Assise,_CG_34_(Gounod,_Charles)",
+      "year": 1891
+    },
+    {
+      "title": "\u00c0 la nuit, CG 321",
+      "imslp_url": "https://imslp.org/wiki/\u00c0_la_nuit,_CG_321_(Gounod,_Charles)",
+      "year": 1891
+    },
+    {
+      "title": "Passacaille",
+      "imslp_url": "https://imslp.org/wiki/Passacaille_(Gounod,_Charles)",
+      "year": 1893
+    },
+    {
+      "title": "Repentir, CG 434",
+      "imslp_url": "https://imslp.org/wiki/Repentir,_CG_434_(Gounod,_Charles)",
+      "year": 1893
+    },
+    {
+      "title": "Tantum ergo, CG 102",
+      "imslp_url": "https://imslp.org/wiki/Tantum_ergo,_CG_102_(Gounod,_Charles)",
+      "year": 1893
     }
   ]
 }

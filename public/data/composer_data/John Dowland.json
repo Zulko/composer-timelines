@@ -1,0 +1,433 @@
+{
+  "full_name": "John Dowland",
+  "first_names": "John",
+  "last_name": "Dowland",
+  "birth_year": 1563,
+  "death_year": 1626,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_Dowland",
+  "events": [
+    {
+      "section": "Career and compositions",
+      "title": "Birth and Early Life",
+      "summary": "Very little is known of Dowland's early life, but it is generally believed he was born in London. Some sources suggest he was born in Dalkey, near Dublin, although there is no corroborating evidence for this. However, he dedicated the song \"From Silent Night\" to a merchant from Dublin, suggesting a potential connection to the city.",
+      "year": 1563,
+      "location": "London or Dublin",
+      "emoji": "\ud83c\udfd9\ufe0f",
+      "fun_version": "It\u2019s a mystery worthy of Sherlock Holmes! Not much is known about the early antics of Dowland, who was generally believed to be born in London\u2014maybe he was busy setting the world record for the longest nap! Some folks think he might have popped out in Dalkey, near Dublin, but we have no proof! Still, in a plot twist worthy of a soap opera, he dedicated 'From Silent Night' to a Dublin merchant, hinting he may have had more than just a passing interest in the city."
+    },
+    {
+      "section": "Career and compositions",
+      "title": "Move to Paris",
+      "summary": "In 1580, Dowland traveled to Paris, where he served under Sir Henry Cobham, the English ambassador to the French court. This period marked his conversion to Roman Catholicism.",
+      "year": 1580,
+      "location": "Paris",
+      "emoji": "\ud83c\uddeb\ud83c\uddf7",
+      "fun_version": "In 1580, Dowland took a trip to Paris, the city of love and pastry \u2014 where he was an understudy to Sir Henry Cobham, the English ambassador who probably spent more time trying to impress the French than actually doing diplomacy. It was during this time that Dowland decided to trade his Protestant shoes for some lovely Roman Catholic slippers."
+    },
+    {
+      "section": "Career and compositions",
+      "title": "Marriage",
+      "summary": "Around 1584, Dowland returned to England and got married, which was a significant personal milestone in his life.",
+      "year": 1584,
+      "location": "England",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "Back in 1584, Dowland decided it was time to trade his lute for a wedding ring and finally tie the knot! This was a significant personal milestone for him. Talk about a major chord change in his life!"
+    },
+    {
+      "section": "Career and compositions",
+      "title": "Musical Qualification",
+      "summary": "In 1588, Dowland was admitted as a Bachelor of Music from Christ Church, Oxford, acknowledging his contributions and studies in music.",
+      "year": 1588,
+      "location": "Oxford",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1588, Dowland waddled his way into Christ Church, Oxford, finally earning his Bachelor of Music, officially acknowledging his contributions and studies in music after playing the lute like a rockstar at a medieval shindig, proving that even back then, music was the key to getting a fancy degree!"
+    },
+    {
+      "section": "Published works",
+      "title": "Whole Book of Psalms",
+      "summary": "Published by Thomas Est in 1592, The Whole Booke of Psalmes includes works from 10 composers, featuring 6 pieces by Dowland, which represent the integration of sacred music into the lute repertoire.",
+      "year": 1592,
+      "location": "",
+      "emoji": "\ud83d\udcd6",
+      "fun_version": "Published by Thomas Est in 1592, The Whole Booke of Psalmes is like a mixtape for your soul, featuring works from 10 composers and 6 pieces by Dowland\u2014the rockstar of sacred lute music\u2014making church a bit more 'string-tastic!' This collection represents a marvelous integration of sacred music into the lute repertoire."
+    },
+    {
+      "section": "Career and compositions",
+      "title": "Application to the English Court",
+      "summary": "In 1594, Dowland applied for a position as a lutenist at the English court. However, his application was unsuccessful, which he attributed to his Catholic faith.",
+      "year": 1594,
+      "location": "England",
+      "emoji": "\ud83d\ude14",
+      "fun_version": "In 1594, Dowland's audition for a lutenist position at the English court was a bit disastrous. Picture Dowland strumming away, desperately trying to charm a bunch of stuffy nobles who probably thought 'lute' was just a fancy word for 'loud.' But alas, despite his efforts, he was told 'thanks, but no thanks.' His failure was attributed to his Catholic faith, which evidently didn\u2019t appeal to the hiring committee."
+    },
+    {
+      "section": "Published works",
+      "title": "New Book of Tablature",
+      "summary": "Published in 1596 by William Barley, this collection contains seven solo lute pieces by Dowland, showcasing his expanding influence on the lute music of the time.",
+      "year": 1596,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Once upon a time in 1596, a fellow named William Barley decided that the world needed more lute music - because apparently, there were not enough enthusiastic cats covering Dowland's hits. So, he published a delightful collection featuring seven solo lute pieces by Dowland that made even the lute-loving squirrels dance with glee, showcasing his expanding influence on the lute music of the time!"
+    },
+    {
+      "section": "Published works",
+      "title": "First Book of Songs",
+      "summary": "Dowland published his First Booke of Songes or Ayres in 1597, comprising 21 lute-songs. This influential collection established Dowland's reputation as a master of the lute.",
+      "year": 1597,
+      "location": "London",
+      "emoji": "\ud83c\udfb5",
+      "fun_version": "In 1597, Dowland cheekily named his collection 'First Booke of Songes or Ayres' \u2013 because who doesn't love a little ambiguity with their music? This influential compilation not only banished all doubts but also crowned Dowland as the lute wizard of his time, establishing his reputation as a master of the lute!"
+    },
+    {
+      "section": "Career and compositions",
+      "title": "Court of Christian IV of Denmark",
+      "summary": "Starting in 1598, Dowland worked at the court of Christian IV of Denmark, where he was highly regarded and well-paid, earning 500 daler annually.",
+      "year": 1598,
+      "location": "Denmark",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "Starting in 1598, Dowland worked at the court of Christian IV of Denmark, where he was highly regarded and well-paid, earning a whopping 500 daler annually. Imagine getting paid in daler! That's like being handed a king's ransom in pizza coupons."
+    },
+    {
+      "section": "Published works",
+      "title": "Second Book of Songs",
+      "summary": "In 1600, Dowland released his Second Booke of Songs, which includes 22 lute songs along with an instrumental piece for Master Oliver Cromwell, marking another significant contribution to the lute repertoire.",
+      "year": 1600,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In the year 1600, Dowland decided it was time to throw a lute party and released his Second Booke of Songs, which boasts not just 22 lute songs, but also a delightful instrumental number for Master Oliver Cromwell. This event marked another significant contribution to the lute repertoire because nothing says \"I care about you\" like a lute serenade!"
+    },
+    {
+      "section": "Published works",
+      "title": "Third Book of Songs",
+      "summary": "The Third and Last Booke of Songs was published in 1603, containing 21 songs that further reflect Dowland's mastery in addressing the themes of love and loss through music.",
+      "year": 1603,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1603, the legendary Dowland released his 'Third and Last Booke of Songs,' featuring 21 tracks that brilliantly encapsulate love and loss. Just grab a drink and sing your sorrows away!"
+    },
+    {
+      "section": "Published works",
+      "title": "Lachrimae",
+      "summary": "Published in 1604, Lachrimae, or Seaven Teares presents a collection of pavans and showcases Dowland's deep engagement with the expression of melancholy through music.",
+      "year": 1604,
+      "location": "",
+      "emoji": "\ud83d\ude22",
+      "fun_version": "Published in 1604, Lachrimae, or Seven Tears, is like Dowland's musical therapy session - a bunch of pavans that could make anyone weep into their lute, showcasing his deep engagement with the expression of melancholy through music."
+    },
+    {
+      "section": "Career and compositions",
+      "title": "Dismissal from the Danish Court",
+      "summary": "Dowland was dismissed from his position at the Danish court in 1606 due to often overstaying his leave for publishing business.",
+      "year": 1606,
+      "location": "Denmark",
+      "emoji": "\ud83d\udcdc",
+      "fun_version": "Dowland was dismissed from his position at the Danish court in 1606 because his idea of a work leave turned into an epic holiday; who knew that a few days for publishing could lead to the longest coffee break record attempt?"
+    },
+    {
+      "section": "Published works",
+      "title": "Micrologus",
+      "summary": "In 1609, Dowland published a translation of the Micrologus of Andreas Ornithoparcus, reflecting his dedication to music theory and lute pedagogy.",
+      "year": 1609,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1609, Dowland published a translation of the Micrologus of Andreas Ornithoparcus, showcasing his dedication to music theory and lute pedagogy\u2014because apparently, 'who even reads Ancient Greek' was on his bucket list."
+    },
+    {
+      "section": "Published works",
+      "title": "A Musicall Banquet",
+      "summary": "Also published in 1610, this work by Dowland's son includes three songs by Dowland, demonstrating the continuation of his musical influence even posthumously.",
+      "year": 1610,
+      "location": "",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Published in 1610, Dowland's son decided to drop an album featuring three of Daddy Dowland's tunes! It's like he said, 'Hey, Dad, your music is still so good, I just had to keep it going - how cool is that?' This shows how Dowland's musical influence continues unabated even after he's taken his final bow."
+    },
+    {
+      "section": "Published works",
+      "title": "Varietie of Lute-Lessons",
+      "summary": "In 1610, this collection, published by Dowland's son, features solo lute works attributed to Dowland and others, emphasizing the educational aspect of his legacy in lute music.",
+      "year": 1610,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1610, Dowland's son published a collection of solo lute works attributed to Dowland and others. This masterpiece emphasizes the educational aspect of his legacy in lute music, because who doesn\u2019t want to serenade their neighbors?"
+    },
+    {
+      "section": "Published works",
+      "title": "A Pilgrimes Solace",
+      "summary": "Dowland's last work, published in 1612, is noted for its contrapuntal style, marking a significant point in the evolution of English lute music.",
+      "year": 1612,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Dowland's last work, published back in 1612, is like the grand finale of a lute concert \u2013 only instead of fireworks, you get some great contrapuntal style! It\u2019s such a pivotal moment in English lute music that even the lutes are patting themselves on the back!"
+    },
+    {
+      "section": "Career and compositions",
+      "title": "Appointment as Lutenist to James I",
+      "summary": "In early 1612, Dowland secured a position as one of the lutenists to King James I, marking a return to England and a significant role in the royal court.",
+      "year": 1612,
+      "location": "England",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Back in early 1612, Dowland managed to wiggle his way back to England\u2014apparently, his lute skills were so good they had to let him in! He secured a position as one of the lutenists to King James I, marking a significant role in the royal court."
+    },
+    {
+      "section": "Career and compositions",
+      "title": "Death",
+      "summary": "Dowland's last payment from the court was on 20 January 1626, and he was buried at St Ann's, Blackfriars, London, on 20 February 1626, marking the end of his life and contributions to music.",
+      "year": 1626,
+      "location": "London",
+      "emoji": "\ud83c\udfb5",
+      "fun_version": "Dowland's last payment from the court was on 20 January 1626. He was buried at St Ann's, Blackfriars, London, on 20 February 1626, marking the end of his life and his contributions to music."
+    }
+  ],
+  "works": [
+    {
+      "title": "My Lady Hunsdon's Puff",
+      "imslp_url": "https://imslp.org/wiki/My_Lady_Hunsdon's_Puff_(Dowland,_John)",
+      "year": 1563
+    },
+    {
+      "title": "Lachrimae Pavan for Lute",
+      "imslp_url": "https://imslp.org/wiki/Lachrimae_Pavan_for_Lute_(Dowland,_John)",
+      "year": 1590
+    },
+    {
+      "title": "My Lord Willoughby's Welcome Home",
+      "imslp_url": "https://imslp.org/wiki/My_Lord_Willoughby's_Welcome_Home_(Dowland,_John)",
+      "year": 1591
+    },
+    {
+      "title": "Fortune",
+      "imslp_url": "https://imslp.org/wiki/Fortune_(Dowland,_John)",
+      "year": 1596
+    },
+    {
+      "title": "Piper's Pavan",
+      "imslp_url": "https://imslp.org/wiki/Piper's_Pavan_(Dowland,_John)",
+      "year": 1596
+    },
+    {
+      "title": "Can She Excuse my Wrongs",
+      "imslp_url": "https://imslp.org/wiki/Can_She_Excuse_my_Wrongs_(Dowland,_John)",
+      "year": 1597
+    },
+    {
+      "title": "Come Again, Sweet Love doth Now Invite",
+      "imslp_url": "https://imslp.org/wiki/Come_Again,_Sweet_Love_doth_Now_Invite_(Dowland,_John)",
+      "year": 1597
+    },
+    {
+      "title": "Lamentatio Henrici Noel",
+      "imslp_url": "https://imslp.org/wiki/Lamentatio_Henrici_Noel_(Dowland,_John)",
+      "year": 1597
+    },
+    {
+      "title": "My Lord Chamberlain, His Galliard",
+      "imslp_url": "https://imslp.org/wiki/My_Lord_Chamberlain,_His_Galliard_(Dowland,_John)",
+      "year": 1597
+    },
+    {
+      "title": "Sleep, Wayward Thoughts",
+      "imslp_url": "https://imslp.org/wiki/Sleep,_Wayward_Thoughts_(Dowland,_John)",
+      "year": 1597
+    },
+    {
+      "title": "Who ever thinks or hopes of love",
+      "imslp_url": "https://imslp.org/wiki/Who_ever_thinks_or_hopes_of_love_(Dowland,_John)",
+      "year": 1597
+    },
+    {
+      "title": "A Shepherd in a Shade his Plaining Made",
+      "imslp_url": "https://imslp.org/wiki/A_Shepherd_in_a_Shade_his_Plaining_Made_(Dowland,_John)",
+      "year": 1600
+    },
+    {
+      "title": "Clear or Cloudy Sweet as April Showering",
+      "imslp_url": "https://imslp.org/wiki/Clear_or_Cloudy_Sweet_as_April_Showering_(Dowland,_John)",
+      "year": 1600
+    },
+    {
+      "title": "Dr. Case's Pavan",
+      "imslp_url": "https://imslp.org/wiki/Dr._Case's_Pavan_(Dowland,_John)",
+      "year": 1600
+    },
+    {
+      "title": "Farewell",
+      "imslp_url": "https://imslp.org/wiki/Farewell_(Dowland,_John)",
+      "year": 1600
+    },
+    {
+      "title": "Fine Knacks for Ladies",
+      "imslp_url": "https://imslp.org/wiki/Fine_Knacks_for_Ladies_(Dowland,_John)",
+      "year": 1600
+    },
+    {
+      "title": "Flow My Tears",
+      "imslp_url": "https://imslp.org/wiki/Flow_My_Tears_(Dowland,_John)",
+      "year": 1600
+    },
+    {
+      "title": "Forlorn Hope",
+      "imslp_url": "https://imslp.org/wiki/Forlorn_Hope_(Dowland,_John)",
+      "year": 1600
+    },
+    {
+      "title": "Mrs Brigide Fleetwood's Pavan",
+      "imslp_url": "https://imslp.org/wiki/Mrs_Brigide_Fleetwood's_Pavan_(Dowland,_John)",
+      "year": 1600
+    },
+    {
+      "title": "Semper Dowland Semper Dolens Pavan for Lute",
+      "imslp_url": "https://imslp.org/wiki/Semper_Dowland_Semper_Dolens_Pavan_for_Lute_(Dowland,_John)",
+      "year": 1600
+    },
+    {
+      "title": "Shall I Sue, Shall I Seeke for Grace",
+      "imslp_url": "https://imslp.org/wiki/Shall_I_Sue,_Shall_I_Seeke_for_Grace_(Dowland,_John)",
+      "year": 1600
+    },
+    {
+      "title": "Solus Cum Sola",
+      "imslp_url": "https://imslp.org/wiki/Solus_Cum_Sola_(Dowland,_John)",
+      "year": 1600
+    },
+    {
+      "title": "White as lilies was her face",
+      "imslp_url": "https://imslp.org/wiki/White_as_lilies_was_her_face_(Dowland,_John)",
+      "year": 1600
+    },
+    {
+      "title": "Daphne was Not so Chaste",
+      "imslp_url": "https://imslp.org/wiki/Daphne_was_Not_so_Chaste_(Dowland,_John)",
+      "year": 1603
+    },
+    {
+      "title": "Flow Not so Fast, Ye Fountains",
+      "imslp_url": "https://imslp.org/wiki/Flow_Not_so_Fast,_Ye_Fountains_(Dowland,_John)",
+      "year": 1603
+    },
+    {
+      "title": "Say Love, if ever Thou didst Find",
+      "imslp_url": "https://imslp.org/wiki/Say_Love,_if_ever_Thou_didst_Find_(Dowland,_John)",
+      "year": 1603
+    },
+    {
+      "title": "What if I Never Speede",
+      "imslp_url": "https://imslp.org/wiki/What_if_I_Never_Speede_(Dowland,_John)",
+      "year": 1603
+    },
+    {
+      "title": "Mr. John Langton's Pavan",
+      "imslp_url": "https://imslp.org/wiki/Mr._John_Langton's_Pavan_(Dowland,_John)",
+      "year": 1604
+    },
+    {
+      "title": "Captain Digorie Piper his Galliard",
+      "imslp_url": "https://imslp.org/wiki/Captain_Digorie_Piper_his_Galliard_(Dowland,_John)",
+      "year": 1605
+    },
+    {
+      "title": "Lachrimae amantis",
+      "imslp_url": "https://imslp.org/wiki/Lachrimae_amantis_(Dowland,_John)",
+      "year": 1605
+    },
+    {
+      "title": "Lachrimae antiquae",
+      "imslp_url": "https://imslp.org/wiki/Lachrimae_antiquae_(Dowland,_John)",
+      "year": 1605
+    },
+    {
+      "title": "Lachrimae antiquae novae",
+      "imslp_url": "https://imslp.org/wiki/Lachrimae_antiquae_novae_(Dowland,_John)",
+      "year": 1605
+    },
+    {
+      "title": "Lachrimae coactae",
+      "imslp_url": "https://imslp.org/wiki/Lachrimae_coactae_(Dowland,_John)",
+      "year": 1605
+    },
+    {
+      "title": "Lachrimae gementes",
+      "imslp_url": "https://imslp.org/wiki/Lachrimae_gementes_(Dowland,_John)",
+      "year": 1605
+    },
+    {
+      "title": "Lachrimae tristes",
+      "imslp_url": "https://imslp.org/wiki/Lachrimae_tristes_(Dowland,_John)",
+      "year": 1605
+    },
+    {
+      "title": "Lachrimae verae",
+      "imslp_url": "https://imslp.org/wiki/Lachrimae_verae_(Dowland,_John)",
+      "year": 1605
+    },
+    {
+      "title": "Mistress Nichols Almand",
+      "imslp_url": "https://imslp.org/wiki/Mistress_Nichols_Almand_(Dowland,_John)",
+      "year": 1605
+    },
+    {
+      "title": "Mr. Bucton's Galliard",
+      "imslp_url": "https://imslp.org/wiki/Mr._Bucton's_Galliard_(Dowland,_John)",
+      "year": 1605
+    },
+    {
+      "title": "Mr. George Whitehead his Almand",
+      "imslp_url": "https://imslp.org/wiki/Mr._George_Whitehead_his_Almand_(Dowland,_John)",
+      "year": 1605
+    },
+    {
+      "title": "Mr. Giles Hobies Galliard",
+      "imslp_url": "https://imslp.org/wiki/Mr._Giles_Hobies_Galliard_(Dowland,_John)",
+      "year": 1605
+    },
+    {
+      "title": "Mr. Henry Noel his Galliard",
+      "imslp_url": "https://imslp.org/wiki/Mr._Henry_Noel_his_Galliard_(Dowland,_John)",
+      "year": 1605
+    },
+    {
+      "title": "Mr. Nicholas Gryffith his Galliard",
+      "imslp_url": "https://imslp.org/wiki/Mr._Nicholas_Gryffith_his_Galliard_(Dowland,_John)",
+      "year": 1605
+    },
+    {
+      "title": "Mr. Thomas Collier his Galliard",
+      "imslp_url": "https://imslp.org/wiki/Mr._Thomas_Collier_his_Galliard_(Dowland,_John)",
+      "year": 1605
+    },
+    {
+      "title": "Semper Dowland semper dolens",
+      "imslp_url": "https://imslp.org/wiki/Semper_Dowland_semper_dolens_(Dowland,_John)",
+      "year": 1605
+    },
+    {
+      "title": "Sir Henry Umpton's Funeral",
+      "imslp_url": "https://imslp.org/wiki/Sir_Henry_Umpton's_Funeral_(Dowland,_John)",
+      "year": 1605
+    },
+    {
+      "title": "Sir John Souch his Galliard",
+      "imslp_url": "https://imslp.org/wiki/Sir_John_Souch_his_Galliard_(Dowland,_John)",
+      "year": 1605
+    },
+    {
+      "title": "The Earl of Essex Galliard",
+      "imslp_url": "https://imslp.org/wiki/The_Earl_of_Essex_Galliard_(Dowland,_John)",
+      "year": 1605
+    },
+    {
+      "title": "The King of Denmark's Galliard",
+      "imslp_url": "https://imslp.org/wiki/The_King_of_Denmark's_Galliard_(Dowland,_John)",
+      "year": 1605
+    },
+    {
+      "title": "Lord Viscount Lisle His Galliard",
+      "imslp_url": "https://imslp.org/wiki/Lord_Viscount_Lisle_His_Galliard_(Dowland,_John)",
+      "year": 1610
+    },
+    {
+      "title": "The Most Sacred Queene Elizabeth, Her Galliard",
+      "imslp_url": "https://imslp.org/wiki/The_Most_Sacred_Queene_Elizabeth,_Her_Galliard_(Dowland,_John)",
+      "year": 1610
+    }
+  ]
+}

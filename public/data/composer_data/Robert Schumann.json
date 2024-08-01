@@ -7,991 +7,822 @@
   "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Schumann",
   "events": [
     {
-      "event": "Birth",
-      "summary": "On a fine June day, Robert Schumann entered the world, much to the delight of his book-selling father and possibly the dismay of any nearby napkins thinking they were safe from being scribbled on with musical ideas.",
+      "section": "Life and career",
+      "title": "Birth",
+      "summary": "Robert Schumann was born into an affluent middle-class family in Zwickau, Saxony on June 8, 1810. He was the fifth and last child of August Schumann, a notable bookseller and translator. His childhood was marked by intermittent stays with foster parents due to his mother's illness.",
       "year": 1810,
-      "city": "Zwickau",
-      "country": "Kingdom of Saxony"
+      "location": "Zwickau",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Robert Schumann, born on June 8, 1810, in Zwickau, Saxony, came from a family so affluent that their piggy bank had its own personal butler! As the fifth child of a notable bookseller, he likely thought bedtime stories came with a price tag. His childhood included intermittent stays with foster parents due to his mother's illness."
     },
     {
-      "event": "Legal Studies",
-      "summary": "Glancing at law books while secretly dreaming of piano melodies, Schumann began his legal education, probably wondering if there was a legal clause against daydreaming during class!",
+      "section": "Life and career",
+      "title": "Early Music Education",
+      "summary": "At the age of seven, Schumann began studying music and piano with the local organist Johann Gottfried Kuntsch. He also took lessons in cello and flute, developing a profound love for both music and literature throughout his youth.",
+      "year": 1817,
+      "location": "Zwickau",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "At the tender age of seven, Schumann wasn't just making silly sounds on the piano; he was under the bewildering tutelage of Johann Gottfried Kuntsch, a budding music maestro. While mastering the piano, he also took lessons in cello and flute, which helped cultivate his profound love for both music and literature throughout his youth."
+    },
+    {
+      "section": "Life and career",
+      "title": "University Enrollment",
+      "summary": "In March 1828, following his final examinations at the Zwickau Lyceum, Robert Schumann entered Leipzig University to study law, though he focused more on reading and music than on his studies.",
       "year": 1828,
-      "city": "Leipzig",
-      "country": "Prussia"
+      "location": "Leipzig",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In March 1828, after failing to impress anyone with his final exams at the Zwickau Lyceum, Robert Schumann decided to trade in his law books for the music sheets at Leipzig University. He figured that following notes was a lot more fun than following the law!"
     },
     {
-      "event": "Change of Career Path",
-      "summary": "Upon realizing that the law would not be his calling, Schumann decided music was far more fun\u2014a field where one could express feelings instead of settling disputes over contracts.",
+      "section": "Life and career",
+      "title": "First Composition Work",
+      "summary": "In 1830, Schumann published his first set of piano variations, Op. 1, which was based on a theme related to the imagined Countess Pauline von Abegg. This piece marked the beginning of his compositional career.",
       "year": 1830,
-      "city": "Heidelberg",
-      "country": "Prussia"
+      "location": "Germany",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "In 1830, Schumann released his first set of piano variations, Op. 1, inspired by the imaginary escapades of Countess Pauline von Abegg. It was akin to his musical debutante ball where he awkwardly stepped onto the stage, marking the start of his wonderful journey into the world of composition!"
     },
     {
-      "event": "Publication of Op. 1",
-      "summary": "Schumann's debut was marked by the whimsical release of his Op. 1, showing off his flair for musical puzzles that only the countess who inspired it was ever likely to understand.",
-      "year": 1830,
-      "city": "Leipzig",
-      "country": "Prussia"
-    },
-    {
-      "event": "Editing Neue Zeitschrift f\u00fcr Musik",
-      "summary": "Taking on a role in music journalism, Schumann launched his editorial career making waves through the publishing industry, igniting debates while playing the piano and critiquing Chopin in his pajamas.",
+      "section": "Life and career",
+      "title": "Engagement to Ernestine von Fricken",
+      "summary": "In 1835, Schumann and Ernestine von Fricken became secretly engaged. However, their relationship faced challenges as Schumann found her personality less engaging than he initially thought, leading to a gradual end of their affair.",
       "year": 1835,
-      "city": "Leipzig",
-      "country": "Prussia"
+      "location": "Germany",
+      "emoji": "\ud83d\udc94",
+      "fun_version": "In 1835, Schumann and Ernestine von Fricken got secretly engaged. But Schumann discovered that communicating with a romantic partner is a lot less 'engaging' than playing the piano, leading to their gradual breakup."
     },
     {
-      "event": "Marriage to Clara Wieck",
-      "summary": "Amidst parental opposition, Schumann tied the knot with Clara, and they likely celebrated by writing equally complicated love letters and sharing a love for the romantic side of music.",
+      "section": "Life and career",
+      "title": "Marriage to Clara Wieck",
+      "summary": "Robert Schumann married Clara Wieck on September 12, 1840, marking a significant turn in his life and career. Clara was a renowned pianist and her marriage to Schumann provided him with emotional stability, fueling his achievements in composition.",
       "year": 1840,
-      "city": "Leipzig",
-      "country": "Prussia"
+      "location": "Germany",
+      "emoji": "\u2764\ufe0f",
+      "fun_version": "Robert Schumann tied the knot with Clara Wieck on September 12, 1840, marking a significant turn in his life and career. Little did he know, he was gaining a full-time emotional support system! Clara's melodious charm provided him with the emotional stability he needed to compose works that would make him a legend."
     },
     {
-      "event": "First Symphony Completed",
-      "summary": "With the ink barely dry on the wedding certificate, Schumann turned his attention to symphonies, hoping they'd be perceived as more romantic than his wedding vows!",
-      "year": 1841,
-      "city": "D\u00fcsseldorf",
-      "country": "Prussia"
-    },
-    {
-      "event": "Mental Health Struggles",
-      "summary": "Despite his musical successes, Schumann's mental health began to fail, leading to questionable decisions like trying to take a permanent swim in the River Rhine\u2014thankfully, he preferred composing to drowning.",
-      "year": 1854,
-      "city": "Bonn",
-      "country": "Prussia"
-    },
-    {
-      "event": "Death",
-      "summary": "After an eventful life filled with music, love, and imaginative alter egos, Schumann left us at the tender age of 46, no doubt searching for a new realm to explore musical mysteries.",
-      "year": 1856,
-      "city": "Bonn",
-      "country": "Prussia"
-    },
-    {
-      "event": "Formation of Davidsb\u00fcndler",
-      "summary": "Schumann formed a whimsical band called the Davidsb\u00fcndler, a name inspired by the Biblical David. This playful creation blurred the lines between imagination and reality and included his musical friends, proving that even in music, one can be both a hero and a goofball.",
-      "year": 1835,
-      "city": "Unknown",
-      "country": "Unknown"
-    },
-    {
-      "event": "Completion of Carnaval and Symphonic Studies",
-      "summary": "In a romantic flurry, Schumann completed two major works: Carnaval and the Symphonic Studies. Each composition was inspired by his relationship with Ernestine von Fricken, connecting musical themes to her hometown and her father's melodies, making music his very own love letter.",
-      "year": 1835,
-      "city": "Unknown",
-      "country": "Unknown"
-    },
-    {
-      "event": "Falling in love with Clara Wieck",
-      "summary": "Schumann found himself smitten with the talented Clara Wieck, a piano virtuoso twelve years his junior. Their love story kicked off with a melodramatic twist, including a series of rebellious legal battles against her protective father. Who knew love could be so legally complicated?",
-      "year": 1836,
-      "city": "Unknown",
-      "country": "Unknown"
-    },
-    {
-      "event": "Premiere of First Symphony",
-      "summary": "Schumann dazzled audiences with the premiere of his First Symphony, aptly titled 'The Spring'. Conducted by Mendelssohn, it was a colorful showcase of emotion, just like spring itself, yet had the added bonus of Clara\u2019s stunning piano performance, proving that teamwork makes the dream work!",
-      "year": 1841,
-      "city": "Leipzig",
-      "country": "Germany"
-    },
-    {
-      "event": "First performances of Das Paradies und die Peri",
-      "summary": "After a bout of health issues and recovering from a mental crisis, Schumann was back in action with the premiere of his secular oratorio \u2018Das Paradies und die Peri\u2019. It became a hit, giving him international acclaim and the opportunity to bask in applause, proving that a dramatic comeback is always in fashion!",
+      "section": "Life and career",
+      "title": "Premiere of 'Das Paradies und die Peri'",
+      "summary": "In December 1843, Schumann's secular oratorio 'Das Paradies und die Peri' premiered at the Gewandhaus in Leipzig. This successful premiere helped bring his work to international attention and showcased his growing reputation as a composer.",
       "year": 1843,
-      "city": "Leipzig",
-      "country": "Germany"
+      "location": "Leipzig",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In December 1843, Schumann's secular oratorio 'Das Paradies und die Peri' made its grand debut at the Gewandhaus in Leipzig. This successful premiere not only showcased his growing reputation as a composer but also helped propel his work to international attention and made it go viral before going viral was cool."
     },
     {
-      "event": "Tour of Russia with Clara",
-      "summary": "The dynamic duo of Robert and Clara embarked on a taxing concert tour across Russia, meeting notable musicians and soaking in the rich musical landscape. While it was a financial success, Schumann returned more worn out than Mozart after an all-night jam session.",
-      "year": 1844,
-      "city": "Russia",
-      "country": "Unknown"
-    },
-    {
-      "event": "Premiere of Genoveva",
-      "summary": "In a theatrical twist, Schumann premiered his opera 'Genoveva' in Leipzig, hoping for applause but instead receiving lukewarm responses. It seems audiences of the time preferred their operas more tuneful, but at least Schumann gave it a shot \u2013 after all, who doesn't love a good medieval legend?",
+      "section": "Life and career",
+      "title": "Director of Music in D\u00fcsseldorf",
+      "summary": "In April 1850, Schumann accepted the position of director of music at D\u00fcsseldorf. Although initially promising, his tenure was marked by struggles with local musicians and eventually led to his removal in 1853.",
       "year": 1850,
-      "city": "Leipzig",
-      "country": "Germany"
+      "location": "D\u00fcsseldorf",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In April 1850, Schumann took on the challenge of being the director of music in D\u00fcsseldorf. It started on a promising note, but instead of making beautiful melodies, he ended up in an endless rehearsal of 'How Not to Win Friends and Influence Musicians'. After plenty of disputes, his time as director was cut short in 1853."
     },
     {
-      "event": "Mental health crisis and admission to sanatorium",
-      "summary": "As the pressures of life mounted, Schumann faced a dramatic decline in mental health, leading him to attempt a dramatic dive into the Rhine River. Once rescued, he found himself in a sanatorium, where he spent over two years contemplating life and likely plotting his next musical masterpiece.",
+      "section": "Life and career",
+      "title": "Attempted Suicide",
+      "summary": "In February 1854, Schumann attempted suicide by jumping into the River Rhine. This event marked a significant decline in his mental health, leading to his admission into a sanatorium shortly after.",
       "year": 1854,
-      "city": "Bonn",
-      "country": "Germany"
-    },
-    {
-      "event": "First Published Work",
-      "summary": "Schumann's career wasn't just a warm-up; it launched with a bang! His first published work, the Abegg Variations, came on the scene, showcasing the showy style of the day. Who knew a series of variations could cause such a stir - certainly not Bach, Mozart, or Beethoven!",
-      "year": 1830,
-      "city": "unknown",
-      "country": "Germany"
-    },
-    {
-      "event": "Year of Song",
-      "summary": "A year when Schumann declared, 'Let there be songs!' 1840 was dubbed his Liederjahr, a time when he composed over 300 songs including the beautiful cycles Dichterliebe and Frauenliebe und Leben. Talk about a productive year - he was basically the Beyonc\u00e9 of romantic songs!",
-      "year": 1840,
-      "city": "unknown",
-      "country": "Germany"
-    },
-    {
-      "event": "First Symphony Premiere",
-      "summary": "The world got its first taste of Schumann's serious orchestral prowess with the premiere of his first symphony. Critics were impressed, saying it was 'well and fluently written,' probably while munching on pretzels and sipping beer. Schumann was officially in the symphonic club, even if he did sometimes feel like a wallflower!",
-      "year": 1841,
-      "city": "D\u00fcsseldorf",
-      "country": "Germany"
-    },
-    {
-      "event": "Piano Concerto Success",
-      "summary": "In 1845, Schumann released his Piano Concerto, which became an instant favorite. It\u2019s like when a movie soundtrack becomes iconic \u2014 suddenly, every pianist was clamoring to play it, referring to it as 'the one large-scale work of Schumann\u2019s which is by general consent an entire success.' No pressure, right?",
-      "year": 1845,
-      "city": "D\u00fcsseldorf",
-      "country": "Germany"
-    },
-    {
-      "event": "Chamber Music Innovation",
-      "summary": "In 1842, Schumann hit the jackpot with his Piano Quintet, forever changing the combo game. This work wasn\u2019t just great music; it set the standard for future composers on how to mix piano with strings. He was the DJ Khaled of chamber music, always looking for the best collaborations!",
-      "year": 1842,
-      "city": "D\u00fcsseldorf",
-      "country": "Germany"
-    },
-    {
-      "event": "Last Works Before Death",
-      "summary": "Leading up to his unfortunate demise in 1856, Schumann produced some quieter, more introspective works. It was like he was creating a cozy caf\u00e9 ambiance while he was actually just trying to make sense of the chaos in his head. Truly the \u2018less is more\u2019 of the Romantic world!",
-      "year": 1851,
-      "city": "unknown",
-      "country": "Germany"
-    },
-    {
-      "event": "Intense Creativity Period",
-      "summary": "In a burst of creative genius that could only be described as musical fireworks, Schumann cranked out three chamber pieces in just two months like he was trying to draft a symphony before the deadline. It was a major productivity boost, giving him serious bragging rights at the composer clubhouse.",
-      "year": 1851,
-      "city": "",
-      "country": ""
-    },
-    {
-      "event": "Genoveva Premiere",
-      "summary": "Schumann's opera Genoveva hit the stage but didn't quite wow the audience or critics. It was a little like showing up to a costume party in everyday clothes; people just didn't get it. Critics panned it for being more of a 'Lieder concert with lilting melodies' than a dramatic opera, but Schumann was just ahead of his time\u2014what's a little Lieder among friends?",
-      "year": 1840,
-      "city": "",
-      "country": ""
-    },
-    {
-      "event": "Das Paradies und die Peri Success",
-      "summary": "Schumann pulled off the amazing feat of composing a secular oratorio that was a hit during his lifetime, making it the music equivalent of winning the lottery. Everyone praised Das Paradies und die Peri, causing composers everywhere to grudgingly admit they'd like to have his talent. Even Wagner found himself enviously scribbling notes on it!",
-      "year": 1843,
-      "city": "",
-      "country": ""
-    },
-    {
-      "event": "Goethe's Faust Performances",
-      "summary": "Szenen aus Goethes Faust was composed, and while Schumann may have thought he was crafting a masterpiece, the audience took their sweet time in appreciating it. Only a few sections were performed to cheers\u2014like finding the last cookie in a jar\u2014while the complete work had to wait several years for its big debut.",
-      "year": 1849,
-      "city": "Dresden, Leipzig, Weimar",
-      "country": "Germany"
-    },
-    {
-      "event": "Published First Works",
-      "summary": "In a move that left publishers scratching their heads, Schumann unleashed his early compositions upon the world, proving that art was indeed subjective and sometimes a bit peculiar.",
-      "year": 1830,
-      "city": "D\u00fcsseldorf",
-      "country": "Germany"
-    },
-    {
-      "event": "Formation of the New Journal for Music",
-      "summary": "Schumann founded 'The New Journal for Music', effectively giving himself a platform to critique others while promoting his own genius\u2014talk about a multi-tasker!",
-      "year": 1834,
-      "city": "Leipzig",
-      "country": "Germany"
-    },
-    {
-      "event": "Decline in Health",
-      "summary": "Like a dramatic final act, Schumann's health began to falter, leaving everyone guessing if he'd mistaken his life for an overly intense opera.",
-      "year": 1854,
-      "city": "Endenich",
-      "country": "Germany"
+      "location": "Rhine River",
+      "emoji": "\ud83c\udf0a",
+      "fun_version": "In February 1854, Schumann took a plunge into the River Rhine for what can only be called an extreme swimming lesson, but thankfully he didn't end up as a part of the local fish community! Unfortunately, this event marked a significant decline in his mental health, leading him to later check into a sanatorium\u2014talk about needing a vacation!"
     }
   ],
-  "compositions": [
+  "works": [
     {
+      "title": "Abegg Variations, Op.1",
       "imslp_url": "https://imslp.org/wiki/Abegg_Variations,_Op.1_(Schumann,_Robert)",
-      "year": 1829,
-      "title": "Abegg Variations, Op.1"
+      "year": 1829
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Adagio_and_Allegro,_Op.70_(Schumann,_Robert)",
-      "year": 1849,
-      "title": "Adagio and Allegro, Op.70"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Adventlied,_Op.71_(Schumann,_Robert)",
-      "year": 1848,
-      "title": "Adventlied, Op.71"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Album_f%C3%BCr_die_Jugend,_Op.68_(Schumann,_Robert)",
-      "year": 1848,
-      "title": "Album f\u00fcr die Jugend, Op.68"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Albumbl%C3%A4tter,_Op.124_(Schumann,_Robert)",
-      "year": 1832,
-      "title": "Albumbl\u00e4tter, Op.124"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Allegro,_Op.8_(Schumann,_Robert)",
-      "year": 1831,
-      "title": "Allegro, Op.8"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Andante_und_Variationen,_Op.46_(Schumann,_Robert)",
-      "year": 1843,
-      "title": "Andante und Variationen, Op.46"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Balladen,_Op.122_(Schumann,_Robert)",
-      "year": 1852,
-      "title": "2 Balladen, Op.122"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Beim_Abschied_zu_Singen,_Op.84_(Schumann,_Robert)",
-      "year": 1847,
-      "title": "Beim Abschied zu Singen, Op.84"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Belsatzar,_Op.57_(Schumann,_Robert)",
-      "year": 1840,
-      "title": "Belsatzar, Op.57"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Bilder_aus_Osten,_Op.66_(Schumann,_Robert)",
-      "year": 1848,
-      "title": "Bilder aus Osten, Op.66"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Blumenst%C3%BCck,_Op.19_(Schumann,_Robert)",
-      "year": 1839,
-      "title": "Blumenst\u00fcck, Op.19"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Die_Braut_von_Messina,_Op.100_(Schumann,_Robert)",
-      "year": 1850,
-      "title": "Die Braut von Messina, Op.100"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Bunte_Bl%C3%A4tter,_Op.99_(Schumann,_Robert)",
-      "year": 1836,
-      "title": "Bunte Bl\u00e4tter, Op.99"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Carnaval,_Op.9_(Schumann,_Robert)",
-      "year": 1833,
-      "title": "Carnaval, Op.9"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Cello_Concerto,_Op.129_(Schumann,_Robert)",
-      "year": 1850,
-      "title": "Cello Concerto, Op.129"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Concert_Etudes_after_Paganini_Caprices,_Op.10_(Schumann,_Robert)",
-      "year": 1833,
-      "title": "6 Concert Etudes after Paganini Caprices, Op.10"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Concertpiece_for_4_Horns_and_Orchestra,_Op.86_(Schumann,_Robert)",
-      "year": 1849,
-      "title": "Concertpiece for 4 Horns and Orchestra, Op.86"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Davidsb%C3%BCndlert%C3%A4nze,_Op.6_(Schumann,_Robert)",
-      "year": 1837,
-      "title": "Davidsb\u00fcndlert\u00e4nze, Op.6"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Der_deutsche_Rhein,_WoO_1_(Schumann,_Robert)",
-      "year": 1840,
-      "title": "Der deutsche Rhein, WoO 1"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Dichterliebe,_Op.48_(Schumann,_Robert)",
-      "year": 1840,
-      "title": "Dichterliebe, Op.48"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Duets,_Op.34_(Schumann,_Robert)",
-      "year": 1840,
-      "title": "4 Duets, Op.34"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Duets,_Op.78_(Schumann,_Robert)",
-      "year": 1849,
-      "title": "4 Duets, Op.78"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Endenicher_Chor%C3%A4le_(Schumann,_Robert)",
-      "year": 1856,
-      "title": "2 Endenicher Chor\u00e4le"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Etudes_after_Paganini_Caprices,_Op.3_(Schumann,_Robert)",
-      "year": 1832,
-      "title": "Etudes after Paganini Caprices, Op.3"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Etudes_in_Variation_Form_on_a_Theme_by_Beethoven,_WoO_31_(Schumann,_Robert)",
-      "year": 1831,
-      "title": "Etudes in Variation Form on a Theme by Beethoven, WoO 31"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fantasie,_Op.17_(Schumann,_Robert)",
-      "year": 1836,
-      "title": "Fantasie, Op.17"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fantasiest%C3%BCcke,_Op.12_(Schumann,_Robert)",
-      "year": 1837,
-      "title": "Fantasiest\u00fccke, Op.12"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fantasiest%C3%BCcke,_Op.73_(Schumann,_Robert)",
-      "year": 1849,
-      "title": "Fantasiest\u00fccke, Op.73"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Faschingsschwank_aus_Wien,_Op.26_(Schumann,_Robert)",
-      "year": 1839,
-      "title": "Faschingsschwank aus Wien, Op.26"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fest_im_Takt,_im_Tone_rein,_Op.68_Anh._(Schumann,_Robert)",
-      "year": 1850,
-      "title": "Fest im Takt, im Tone rein, Op.68 Anh."
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Frauenliebe_und_Leben,_Op.42_(Schumann,_Robert)",
-      "year": 1840,
-      "title": "Frauenliebe und Leben, Op.42"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Fugues_on_B.A.C.H.,_Op.60_(Schumann,_Robert)",
-      "year": 1845,
-      "title": "6 Fugues on B.A.C.H., Op.60"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Fugues,_Op.72_(Schumann,_Robert)",
-      "year": 1845,
-      "title": "4 Fugues, Op.72"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Gedichte_der_K%C3%B6nigin_Maria_Stuart,_Op.135_(Schumann,_Robert)",
-      "year": 1852,
-      "title": "Gedichte der K\u00f6nigin Maria Stuart, Op.135"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Gedichte_von_N._Lenau_und_Requiem,_Op.90_(Schumann,_Robert)",
-      "year": 1850,
-      "title": "6 Gedichte von N. Lenau und Requiem, Op.90"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Gedichte,_Op.30_(Schumann,_Robert)",
-      "year": 1840,
-      "title": "3 Gedichte, Op.30"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/12_Gedichte,_Op.35_(Schumann,_Robert)",
-      "year": 1840,
-      "title": "12 Gedichte, Op.35"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Gedichte,_Op.36_(Schumann,_Robert)",
-      "year": 1840,
-      "title": "6 Gedichte, Op.36"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Gedichte,_Op.119_(Schumann,_Robert)",
-      "year": 1851,
-      "title": "3 Gedichte, Op.119"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Genoveva,_Op.81_(Schumann,_Robert)",
-      "year": 1847,
-      "title": "Genoveva, Op.81"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ges%C3%A4nge_der_Fr%C3%BChe,_Op.133_(Schumann,_Robert)",
-      "year": 1853,
-      "title": "Ges\u00e4nge der Fr\u00fche, Op.133"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Ges%C3%A4nge,_Op.31_(Schumann,_Robert)",
-      "year": 1840,
-      "title": "3 Ges\u00e4nge, Op.31"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Ges%C3%A4nge,_Op.59_(Schumann,_Robert)",
-      "year": 1846,
-      "title": "4 Ges\u00e4nge, Op.59"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Ges%C3%A4nge,_Op.83_(Schumann,_Robert)",
-      "year": 1850,
-      "title": "3 Ges\u00e4nge, Op.83"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Ges%C3%A4nge,_Op.89_(Schumann,_Robert)",
-      "year": 1850,
-      "title": "6 Ges\u00e4nge, Op.89"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Ges%C3%A4nge,_Op.95_(Schumann,_Robert)",
-      "year": 1849,
-      "title": "3 Ges\u00e4nge, Op.95"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Ges%C3%A4nge,_Op.107_(Schumann,_Robert)",
-      "year": 1851,
-      "title": "6 Ges\u00e4nge, Op.107"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Ges%C3%A4nge,_Op.142_(Schumann,_Robert)",
-      "year": 1852,
-      "title": "4 Ges\u00e4nge, Op.142"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Das_Gl%C3%BCck_von_Edenhall,_Op.143_(Schumann,_Robert)",
-      "year": 1852,
-      "title": "Das Gl\u00fcck von Edenhall, Op.143"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Der_Handschuh,_Op.87_(Schumann,_Robert)",
-      "year": 1850,
-      "title": "Der Handschuh, Op.87"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Heitere_Ges%C3%A4nge,_Op.125_(Schumann,_Robert)",
-      "year": 1851,
-      "title": "5 Heitere Ges\u00e4nge, Op.125"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Humoreske,_Op.20_(Schumann,_Robert)",
-      "year": 1839,
-      "title": "Humoreske, Op.20"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Husarenlieder,_Op.117_(Schumann,_Robert)",
-      "year": 1851,
-      "title": "4 Husarenlieder, Op.117"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Impromptus,_Op.5_(Schumann,_Robert)",
-      "year": 1833,
-      "title": "Impromptus, Op.5"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Intermezzi,_Op.4_(Schumann,_Robert)",
-      "year": 1832,
-      "title": "Intermezzi, Op.4"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Introduction_and_Allegro,_Op.134_(Schumann,_Robert)",
-      "year": 1855,
-      "title": "Introduction and Allegro, Op.134"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Jagdlieder,_Op.137_(Schumann,_Robert)",
-      "year": 1849,
-      "title": "Jagdlieder, Op.137"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Julius_Caesar_Ouverture,_Op.128_(Schumann,_Robert)",
-      "year": 1851,
-      "title": "Julius Caesar Ouverture, Op.128"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Kinderball,_Op.130_(Schumann,_Robert)",
-      "year": 1853,
-      "title": "Kinderball, Op.130"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Kinderszenen,_Op.15_(Schumann,_Robert)",
-      "year": 1838,
-      "title": "Kinderszenen, Op.15"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/12_Klavierst%C3%BCcke_f%C3%BCr_kleine_und_gro%C3%9Fe_Kinder,_Op.85_(Schumann,_Robert)",
-      "year": 1849,
-      "title": "12 Klavierst\u00fccke f\u00fcr kleine und gro\u00dfe Kinder, Op.85"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Klavierst%C3%BCcke,_Op.32_(Schumann,_Robert)",
-      "year": 1835,
-      "title": "4 Klavierst\u00fccke, Op.32"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Der_K%C3%B6nigssohn,_Op.116_(Schumann,_Robert)",
-      "year": 1851,
-      "title": "Der K\u00f6nigssohn, Op.116"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Konzertst%C3%BCck,_Op.92_(Schumann,_Robert)",
-      "year": 1852,
-      "title": "Konzertst\u00fcck, Op.92"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Kreisleriana,_Op.16_(Schumann,_Robert)",
-      "year": 1838,
-      "title": "Kreisleriana, Op.16"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Lieder_f%C3%BCr_3_Frauenstimmen,_Op.114_(Schumann,_Robert)",
-      "year": 1853,
-      "title": "3 Lieder f\u00fcr 3 Frauenstimmen, Op.114"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Lieder_und_Ges%C3%A4nge_aus_%27Wilhelm_Meister%27,_Op.98a_(Schumann,_Robert)",
-      "year": 1849,
-      "title": "Lieder und Ges\u00e4nge aus 'Wilhelm Meister', Op.98a"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Lieder_und_Ges%C3%A4nge,_Op.127_(Schumann,_Robert)",
-      "year": 1850,
-      "title": "5 Lieder und Ges\u00e4nge, Op.127"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Lieder_und_Ges%C3%A4nge,_Vol.I,_Op.27_(Schumann,_Robert)",
-      "year": 1840,
-      "title": "Lieder und Ges\u00e4nge, Vol.I, Op.27"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Lieder_und_Ges%C3%A4nge,_Vol.II,_Op.51_(Schumann,_Robert)",
-      "year": 1842,
-      "title": "Lieder und Ges\u00e4nge, Vol.II, Op.51"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Lieder_und_Ges%C3%A4nge,_Vol.III,_Op.77_(Schumann,_Robert)",
-      "year": 1841,
-      "title": "Lieder und Ges\u00e4nge, Vol.III, Op.77"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Lieder_und_Ges%C3%A4nge,_Vol.IV,_Op.96_(Schumann,_Robert)",
-      "year": 1850,
-      "title": "Lieder und Ges\u00e4nge, Vol.IV, Op.96"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.33_(Schumann,_Robert)",
-      "year": 1840,
-      "title": "6 Lieder, Op.33"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Lieder,_Op.40_(Schumann,_Robert)",
-      "year": 1840,
-      "title": "5 Lieder, Op.40"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Lieder,_Op.62_(Schumann,_Robert)",
-      "year": 1847,
-      "title": "3 Lieder, Op.62"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/7_Lieder,_Op.104_(Schumann,_Robert)",
-      "year": 1851,
-      "title": "7 Lieder, Op.104"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Liederalbum_f%C3%BCr_die_Jugend,_Op.79_(Schumann,_Robert)",
-      "year": 1849,
-      "title": "Liederalbum f\u00fcr die Jugend, Op.79"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Liederkreis,_Op.24_(Schumann,_Robert)",
-      "year": 1840,
-      "title": "Liederkreis, Op.24"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)",
-      "year": 1840,
-      "title": "Liederkreis, Op.39"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Manfred,_Op.115_(Schumann,_Robert)",
-      "year": 1848,
-      "title": "Manfred, Op.115"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/M%C3%A4rchenbilder,_Op.113_(Schumann,_Robert)",
-      "year": 1851,
-      "title": "M\u00e4rchenbilder, Op.113"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/M%C3%A4rchenerz%C3%A4hlungen,_Op.132_(Schumann,_Robert)",
-      "year": 1853,
-      "title": "M\u00e4rchenerz\u00e4hlungen, Op.132"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Marches,_Op.76_(Schumann,_Robert)",
-      "year": 1849,
-      "title": "4 Marches, Op.76"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Mass_in_C_minor,_Op.147_(Schumann,_Robert)",
-      "year": 1852,
-      "title": "Mass in C minor, Op.147"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Minnespiel,_Op.101_(Schumann,_Robert)",
-      "year": 1849,
-      "title": "Minnespiel, Op.101"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Myrthen,_Op.25_(Schumann,_Robert)",
-      "year": 1840,
-      "title": "Myrthen, Op.25"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Nachtlied,_Op.108_(Schumann,_Robert)",
-      "year": 1849,
-      "title": "Nachtlied, Op.108"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Nachtst%C3%BCcke,_Op.23_(Schumann,_Robert)",
-      "year": 1839,
-      "title": "4 Nachtst\u00fccke, Op.23"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Neujahrslied,_Op.144_(Schumann,_Robert)",
-      "year": 1849,
-      "title": "Neujahrslied, Op.144"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/8_Novelletten,_Op.21_(Schumann,_Robert)",
-      "year": 1838,
-      "title": "8 Novelletten, Op.21"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Overture,_Scherzo_and_Finale,_Op.52_(Schumann,_Robert)",
-      "year": 1841,
-      "title": "Overture, Scherzo and Finale, Op.52"
-    },
-    {
+      "title": "Papillons, Op.2",
       "imslp_url": "https://imslp.org/wiki/Papillons,_Op.2_(Schumann,_Robert)",
-      "year": 1829,
-      "title": "Papillons, Op.2"
+      "year": 1829
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Das_Paradies_und_die_Peri,_Op.50_(Schumann,_Robert)",
-      "year": 1843,
-      "title": "Das Paradies und die Peri, Op.50"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Phantasie_for_Violin_and_Orchestra,_Op.131_(Schumann,_Robert)",
-      "year": 1853,
-      "title": "Phantasie for Violin and Orchestra, Op.131"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Phantasiest%C3%BCcke,_Op.88_(Schumann,_Robert)",
-      "year": 1842,
-      "title": "Phantasiest\u00fccke, Op.88"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Concerto,_Op.54_(Schumann,_Robert)",
-      "year": 1841,
-      "title": "Piano Concerto, Op.54"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Quartet,_Op.47_(Schumann,_Robert)",
-      "year": 1842,
-      "title": "Piano Quartet, Op.47"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Quintet,_Op.44_(Schumann,_Robert)",
-      "year": 1842,
-      "title": "Piano Quintet, Op.44"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.1,_Op.11_(Schumann,_Robert)",
-      "year": 1832,
-      "title": "Piano Sonata No.1, Op.11"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.2,_Op.22_(Schumann,_Robert)",
-      "year": 1833,
-      "title": "Piano Sonata No.2, Op.22"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.3,_Op.14_(Schumann,_Robert)",
-      "year": 1836,
-      "title": "Piano Sonata No.3, Op.14"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Piano_Sonatas_for_the_Young,_Op.118_(Schumann,_Robert)",
-      "year": 1853,
-      "title": "3 Piano Sonatas for the Young, Op.118"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.1,_Op.63_(Schumann,_Robert)",
-      "year": 1847,
-      "title": "Piano Trio No.1, Op.63"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.2,_Op.80_(Schumann,_Robert)",
-      "year": 1847,
-      "title": "Piano Trio No.2, Op.80"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.3,_Op.110_(Schumann,_Robert)",
-      "year": 1851,
-      "title": "Piano Trio No.3, Op.110"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Presto,_H/K_WoO_5,2_(Schumann,_Robert)",
-      "year": 1830,
-      "title": "Presto, H/K WoO 5,2"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Requiem_f%C3%BCr_Mignon,_Op.98b_(Schumann,_Robert)",
-      "year": 1849,
-      "title": "Requiem f\u00fcr Mignon, Op.98b"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Requiem,_Op.148_(Schumann,_Robert)",
-      "year": 1852,
-      "title": "Requiem, Op.148"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Rheinweinlied-Ouverture,_Op.123_(Schumann,_Robert)",
-      "year": 1853,
-      "title": "Rheinweinlied-Ouverture, Op.123"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ritornelle_in_canonischen_Weisen,_Op.65_(Schumann,_Robert)",
-      "year": 1847,
-      "title": "Ritornelle in canonischen Weisen, Op.65"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Romanzen_f%C3%BCr_Frauenstimmen_Vol.I,_Op.69_(Schumann,_Robert)",
-      "year": 1849,
-      "title": "6 Romanzen f\u00fcr Frauenstimmen Vol.I, Op.69"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Romanzen_und_Balladen,_Vol.I,_Op.45_(Schumann,_Robert)",
-      "year": 1840,
-      "title": "Romanzen und Balladen, Vol.I, Op.45"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Romanzen_und_Balladen,_Vol.II,_Op.49_(Schumann,_Robert)",
-      "year": 1840,
-      "title": "Romanzen und Balladen, Vol.II, Op.49"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Romanzen_und_Balladen,_Vol.III,_Op.53_(Schumann,_Robert)",
-      "year": 1840,
-      "title": "Romanzen und Balladen, Vol.III, Op.53"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Romanzen_und_Balladen,_Vol.IV,_Op.64_(Schumann,_Robert)",
-      "year": 1841,
-      "title": "Romanzen und Balladen, Vol.IV, Op.64"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Romanzen,_Op.28_(Schumann,_Robert)",
-      "year": 1839,
-      "title": "3 Romanzen, Op.28"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Romanzen,_Op.94_(Schumann,_Robert)",
-      "year": 1849,
-      "title": "3 Romanzen, Op.94"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Der_Rose_Pilgerfahrt,_Op.112_(Schumann,_Robert)",
-      "year": 1851,
-      "title": "Der Rose Pilgerfahrt, Op.112"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Des_S%C3%A4ngers_Fluch,_Op.139_(Schumann,_Robert)",
-      "year": 1852,
-      "title": "Des S\u00e4ngers Fluch, Op.139"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Soldatenlied,_WoO_7_(Schumann,_Robert)",
-      "year": 1844,
-      "title": "Soldatenlied, WoO 7"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Sommerruh,_H/K_WoO_9_(Schumann,_Robert)",
-      "year": 1849,
-      "title": "Sommerruh, H/K WoO 9"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Spanische_Liebeslieder,_Op.138_(Schumann,_Robert)",
-      "year": 1849,
-      "title": "Spanische Liebeslieder, Op.138"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1,_Op.41_No.1_(Schumann,_Robert)",
-      "year": 1842,
-      "title": "String Quartet No.1, Op.41 No.1"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2,_Op.41_No.2_(Schumann,_Robert)",
-      "year": 1842,
-      "title": "String Quartet No.2, Op.41 No.2"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.3,_Op.41_No.3_(Schumann,_Robert)",
-      "year": 1842,
-      "title": "String Quartet No.3, Op.41 No.3"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_St%C3%BCcke_im_Volkston,_Op.102_(Schumann,_Robert)",
-      "year": 1849,
-      "title": "5 St\u00fccke im Volkston, Op.102"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Studien_in_kanonischer_Form,_Op.56_(Schumann,_Robert)",
-      "year": 1845,
-      "title": "6 Studien in kanonischer Form, Op.56"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Symphonic_Etudes,_Op.13_(Schumann,_Robert)",
-      "year": 1834,
-      "title": "Symphonic Etudes, Op.13"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Symphony_in_C_minor,_RSW:Anh:A6_(Schumann,_Robert)",
-      "year": 1840,
-      "title": "Symphony in C minor, RSW:Anh:A6"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Symphony_in_G_minor,_WoO_29_(Schumann,_Robert)",
-      "year": 1832,
-      "title": "Symphony in G minor, WoO 29"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.1,_Op.38_(Schumann,_Robert)",
-      "year": 1841,
-      "title": "Symphony No.1, Op.38"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.2,_Op.61_(Schumann,_Robert)",
-      "year": 1845,
-      "title": "Symphony No.2, Op.61"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.3,_Op.97_(Schumann,_Robert)",
-      "year": 1850,
-      "title": "Symphony No.3, Op.97"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.4,_Op.120_(Schumann,_Robert)",
-      "year": 1841,
-      "title": "Symphony No.4, Op.120"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Szenen_aus_Goethes_Faust,_WoO_3_(Schumann,_Robert)",
-      "year": 1844,
-      "title": "Szenen aus Goethes Faust, WoO 3"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Theme_and_Variations,_WoO_24_(Schumann,_Robert)",
-      "year": 1854,
-      "title": "Theme and Variations, WoO 24"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Theme_in_E-flat_major_(Schumann,_Robert)",
-      "year": 1854,
-      "title": "Theme in E-flat major"
-    },
-    {
+      "title": "Toccata, Op.7",
       "imslp_url": "https://imslp.org/wiki/Toccata,_Op.7_(Schumann,_Robert)",
-      "year": 1829,
-      "title": "Toccata, Op.7"
+      "year": 1829
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Variations_on_%22Mit_Gott,%22_RSW:Anh:F7_(Schumann,_Robert)",
-      "year": 1832,
-      "title": "Variations on \"Mit Gott,\" RSW:Anh:F7"
+      "title": "Presto, H/K WoO 5,2",
+      "imslp_url": "https://imslp.org/wiki/Presto,_H/K_WoO_5,2_(Schumann,_Robert)",
+      "year": 1830
     },
     {
+      "title": "Allegro, Op.8",
+      "imslp_url": "https://imslp.org/wiki/Allegro,_Op.8_(Schumann,_Robert)",
+      "year": 1831
+    },
+    {
+      "title": "Etudes in Variation Form on a Theme by Beethoven, WoO 31",
+      "imslp_url": "https://imslp.org/wiki/Etudes_in_Variation_Form_on_a_Theme_by_Beethoven,_WoO_31_(Schumann,_Robert)",
+      "year": 1831
+    },
+    {
+      "title": "Albumbl\u00e4tter, Op.124",
+      "imslp_url": "https://imslp.org/wiki/Albumbl\u00e4tter,_Op.124_(Schumann,_Robert)",
+      "year": 1832
+    },
+    {
+      "title": "Etudes after Paganini Caprices, Op.3",
+      "imslp_url": "https://imslp.org/wiki/Etudes_after_Paganini_Caprices,_Op.3_(Schumann,_Robert)",
+      "year": 1832
+    },
+    {
+      "title": "Intermezzi, Op.4",
+      "imslp_url": "https://imslp.org/wiki/Intermezzi,_Op.4_(Schumann,_Robert)",
+      "year": 1832
+    },
+    {
+      "title": "Piano Sonata No.1, Op.11",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.1,_Op.11_(Schumann,_Robert)",
+      "year": 1832
+    },
+    {
+      "title": "Symphony in G minor, WoO 29",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_G_minor,_WoO_29_(Schumann,_Robert)",
+      "year": 1832
+    },
+    {
+      "title": "Variations on \"Mit Gott,\" RSW:Anh:F7",
+      "imslp_url": "https://imslp.org/wiki/Variations_on_\"Mit_Gott,\"_RSW:Anh:F7_(Schumann,_Robert)",
+      "year": 1832
+    },
+    {
+      "title": "6 Concert Etudes after Paganini Caprices, Op.10",
+      "imslp_url": "https://imslp.org/wiki/6_Concert_Etudes_after_Paganini_Caprices,_Op.10_(Schumann,_Robert)",
+      "year": 1833
+    },
+    {
+      "title": "Carnaval, Op.9",
+      "imslp_url": "https://imslp.org/wiki/Carnaval,_Op.9_(Schumann,_Robert)",
+      "year": 1833
+    },
+    {
+      "title": "Impromptus, Op.5",
+      "imslp_url": "https://imslp.org/wiki/Impromptus,_Op.5_(Schumann,_Robert)",
+      "year": 1833
+    },
+    {
+      "title": "Piano Sonata No.2, Op.22",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.2,_Op.22_(Schumann,_Robert)",
+      "year": 1833
+    },
+    {
+      "title": "Symphonic Etudes, Op.13",
+      "imslp_url": "https://imslp.org/wiki/Symphonic_Etudes,_Op.13_(Schumann,_Robert)",
+      "year": 1834
+    },
+    {
+      "title": "4 Klavierst\u00fccke, Op.32",
+      "imslp_url": "https://imslp.org/wiki/4_Klavierst\u00fccke,_Op.32_(Schumann,_Robert)",
+      "year": 1835
+    },
+    {
+      "title": "Bunte Bl\u00e4tter, Op.99",
+      "imslp_url": "https://imslp.org/wiki/Bunte_Bl\u00e4tter,_Op.99_(Schumann,_Robert)",
+      "year": 1836
+    },
+    {
+      "title": "Fantasie, Op.17",
+      "imslp_url": "https://imslp.org/wiki/Fantasie,_Op.17_(Schumann,_Robert)",
+      "year": 1836
+    },
+    {
+      "title": "Piano Sonata No.3, Op.14",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.3,_Op.14_(Schumann,_Robert)",
+      "year": 1836
+    },
+    {
+      "title": "Davidsb\u00fcndlert\u00e4nze, Op.6",
+      "imslp_url": "https://imslp.org/wiki/Davidsb\u00fcndlert\u00e4nze,_Op.6_(Schumann,_Robert)",
+      "year": 1837
+    },
+    {
+      "title": "Fantasiest\u00fccke, Op.12",
+      "imslp_url": "https://imslp.org/wiki/Fantasiest\u00fccke,_Op.12_(Schumann,_Robert)",
+      "year": 1837
+    },
+    {
+      "title": "8 Novelletten, Op.21",
+      "imslp_url": "https://imslp.org/wiki/8_Novelletten,_Op.21_(Schumann,_Robert)",
+      "year": 1838
+    },
+    {
+      "title": "Kinderszenen, Op.15",
+      "imslp_url": "https://imslp.org/wiki/Kinderszenen,_Op.15_(Schumann,_Robert)",
+      "year": 1838
+    },
+    {
+      "title": "Kreisleriana, Op.16",
+      "imslp_url": "https://imslp.org/wiki/Kreisleriana,_Op.16_(Schumann,_Robert)",
+      "year": 1838
+    },
+    {
+      "title": "3 Romanzen, Op.28",
+      "imslp_url": "https://imslp.org/wiki/3_Romanzen,_Op.28_(Schumann,_Robert)",
+      "year": 1839
+    },
+    {
+      "title": "4 Nachtst\u00fccke, Op.23",
+      "imslp_url": "https://imslp.org/wiki/4_Nachtst\u00fccke,_Op.23_(Schumann,_Robert)",
+      "year": 1839
+    },
+    {
+      "title": "Blumenst\u00fcck, Op.19",
+      "imslp_url": "https://imslp.org/wiki/Blumenst\u00fcck,_Op.19_(Schumann,_Robert)",
+      "year": 1839
+    },
+    {
+      "title": "Faschingsschwank aus Wien, Op.26",
+      "imslp_url": "https://imslp.org/wiki/Faschingsschwank_aus_Wien,_Op.26_(Schumann,_Robert)",
+      "year": 1839
+    },
+    {
+      "title": "Humoreske, Op.20",
+      "imslp_url": "https://imslp.org/wiki/Humoreske,_Op.20_(Schumann,_Robert)",
+      "year": 1839
+    },
+    {
+      "title": "12 Gedichte, Op.35",
+      "imslp_url": "https://imslp.org/wiki/12_Gedichte,_Op.35_(Schumann,_Robert)",
+      "year": 1840
+    },
+    {
+      "title": "3 Gedichte, Op.30",
+      "imslp_url": "https://imslp.org/wiki/3_Gedichte,_Op.30_(Schumann,_Robert)",
+      "year": 1840
+    },
+    {
+      "title": "3 Ges\u00e4nge, Op.31",
+      "imslp_url": "https://imslp.org/wiki/3_Ges\u00e4nge,_Op.31_(Schumann,_Robert)",
+      "year": 1840
+    },
+    {
+      "title": "4 Duets, Op.34",
+      "imslp_url": "https://imslp.org/wiki/4_Duets,_Op.34_(Schumann,_Robert)",
+      "year": 1840
+    },
+    {
+      "title": "5 Lieder, Op.40",
+      "imslp_url": "https://imslp.org/wiki/5_Lieder,_Op.40_(Schumann,_Robert)",
+      "year": 1840
+    },
+    {
+      "title": "6 Gedichte, Op.36",
+      "imslp_url": "https://imslp.org/wiki/6_Gedichte,_Op.36_(Schumann,_Robert)",
+      "year": 1840
+    },
+    {
+      "title": "6 Lieder, Op.33",
+      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.33_(Schumann,_Robert)",
+      "year": 1840
+    },
+    {
+      "title": "Belsatzar, Op.57",
+      "imslp_url": "https://imslp.org/wiki/Belsatzar,_Op.57_(Schumann,_Robert)",
+      "year": 1840
+    },
+    {
+      "title": "Der deutsche Rhein, WoO 1",
+      "imslp_url": "https://imslp.org/wiki/Der_deutsche_Rhein,_WoO_1_(Schumann,_Robert)",
+      "year": 1840
+    },
+    {
+      "title": "Dichterliebe, Op.48",
+      "imslp_url": "https://imslp.org/wiki/Dichterliebe,_Op.48_(Schumann,_Robert)",
+      "year": 1840
+    },
+    {
+      "title": "Frauenliebe und Leben, Op.42",
+      "imslp_url": "https://imslp.org/wiki/Frauenliebe_und_Leben,_Op.42_(Schumann,_Robert)",
+      "year": 1840
+    },
+    {
+      "title": "Lieder und Ges\u00e4nge, Vol.I, Op.27",
+      "imslp_url": "https://imslp.org/wiki/Lieder_und_Ges\u00e4nge,_Vol.I,_Op.27_(Schumann,_Robert)",
+      "year": 1840
+    },
+    {
+      "title": "Liederkreis, Op.24",
+      "imslp_url": "https://imslp.org/wiki/Liederkreis,_Op.24_(Schumann,_Robert)",
+      "year": 1840
+    },
+    {
+      "title": "Liederkreis, Op.39",
+      "imslp_url": "https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)",
+      "year": 1840
+    },
+    {
+      "title": "Myrthen, Op.25",
+      "imslp_url": "https://imslp.org/wiki/Myrthen,_Op.25_(Schumann,_Robert)",
+      "year": 1840
+    },
+    {
+      "title": "Romanzen und Balladen, Vol.I, Op.45",
+      "imslp_url": "https://imslp.org/wiki/Romanzen_und_Balladen,_Vol.I,_Op.45_(Schumann,_Robert)",
+      "year": 1840
+    },
+    {
+      "title": "Romanzen und Balladen, Vol.II, Op.49",
+      "imslp_url": "https://imslp.org/wiki/Romanzen_und_Balladen,_Vol.II,_Op.49_(Schumann,_Robert)",
+      "year": 1840
+    },
+    {
+      "title": "Romanzen und Balladen, Vol.III, Op.53",
+      "imslp_url": "https://imslp.org/wiki/Romanzen_und_Balladen,_Vol.III,_Op.53_(Schumann,_Robert)",
+      "year": 1840
+    },
+    {
+      "title": "Symphony in C minor, RSW:Anh:A6",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_C_minor,_RSW:Anh:A6_(Schumann,_Robert)",
+      "year": 1840
+    },
+    {
+      "title": "Lieder und Ges\u00e4nge, Vol.III, Op.77",
+      "imslp_url": "https://imslp.org/wiki/Lieder_und_Ges\u00e4nge,_Vol.III,_Op.77_(Schumann,_Robert)",
+      "year": 1841
+    },
+    {
+      "title": "Overture, Scherzo and Finale, Op.52",
+      "imslp_url": "https://imslp.org/wiki/Overture,_Scherzo_and_Finale,_Op.52_(Schumann,_Robert)",
+      "year": 1841
+    },
+    {
+      "title": "Piano Concerto, Op.54",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto,_Op.54_(Schumann,_Robert)",
+      "year": 1841
+    },
+    {
+      "title": "Romanzen und Balladen, Vol.IV, Op.64",
+      "imslp_url": "https://imslp.org/wiki/Romanzen_und_Balladen,_Vol.IV,_Op.64_(Schumann,_Robert)",
+      "year": 1841
+    },
+    {
+      "title": "Symphony No.1, Op.38",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.1,_Op.38_(Schumann,_Robert)",
+      "year": 1841
+    },
+    {
+      "title": "Symphony No.4, Op.120",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.4,_Op.120_(Schumann,_Robert)",
+      "year": 1841
+    },
+    {
+      "title": "Lieder und Ges\u00e4nge, Vol.II, Op.51",
+      "imslp_url": "https://imslp.org/wiki/Lieder_und_Ges\u00e4nge,_Vol.II,_Op.51_(Schumann,_Robert)",
+      "year": 1842
+    },
+    {
+      "title": "Phantasiest\u00fccke, Op.88",
+      "imslp_url": "https://imslp.org/wiki/Phantasiest\u00fccke,_Op.88_(Schumann,_Robert)",
+      "year": 1842
+    },
+    {
+      "title": "Piano Quartet, Op.47",
+      "imslp_url": "https://imslp.org/wiki/Piano_Quartet,_Op.47_(Schumann,_Robert)",
+      "year": 1842
+    },
+    {
+      "title": "Piano Quintet, Op.44",
+      "imslp_url": "https://imslp.org/wiki/Piano_Quintet,_Op.44_(Schumann,_Robert)",
+      "year": 1842
+    },
+    {
+      "title": "String Quartet No.1, Op.41 No.1",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1,_Op.41_No.1_(Schumann,_Robert)",
+      "year": 1842
+    },
+    {
+      "title": "String Quartet No.2, Op.41 No.2",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2,_Op.41_No.2_(Schumann,_Robert)",
+      "year": 1842
+    },
+    {
+      "title": "String Quartet No.3, Op.41 No.3",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.3,_Op.41_No.3_(Schumann,_Robert)",
+      "year": 1842
+    },
+    {
+      "title": "Andante und Variationen, Op.46",
+      "imslp_url": "https://imslp.org/wiki/Andante_und_Variationen,_Op.46_(Schumann,_Robert)",
+      "year": 1843
+    },
+    {
+      "title": "Das Paradies und die Peri, Op.50",
+      "imslp_url": "https://imslp.org/wiki/Das_Paradies_und_die_Peri,_Op.50_(Schumann,_Robert)",
+      "year": 1843
+    },
+    {
+      "title": "Soldatenlied, WoO 7",
+      "imslp_url": "https://imslp.org/wiki/Soldatenlied,_WoO_7_(Schumann,_Robert)",
+      "year": 1844
+    },
+    {
+      "title": "Szenen aus Goethes Faust, WoO 3",
+      "imslp_url": "https://imslp.org/wiki/Szenen_aus_Goethes_Faust,_WoO_3_(Schumann,_Robert)",
+      "year": 1844
+    },
+    {
+      "title": "4 Fugues, Op.72",
+      "imslp_url": "https://imslp.org/wiki/4_Fugues,_Op.72_(Schumann,_Robert)",
+      "year": 1845
+    },
+    {
+      "title": "6 Fugues on B.A.C.H., Op.60",
+      "imslp_url": "https://imslp.org/wiki/6_Fugues_on_B.A.C.H.,_Op.60_(Schumann,_Robert)",
+      "year": 1845
+    },
+    {
+      "title": "6 Studien in kanonischer Form, Op.56",
+      "imslp_url": "https://imslp.org/wiki/6_Studien_in_kanonischer_Form,_Op.56_(Schumann,_Robert)",
+      "year": 1845
+    },
+    {
+      "title": "Symphony No.2, Op.61",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.2,_Op.61_(Schumann,_Robert)",
+      "year": 1845
+    },
+    {
+      "title": "4 Ges\u00e4nge, Op.59",
+      "imslp_url": "https://imslp.org/wiki/4_Ges\u00e4nge,_Op.59_(Schumann,_Robert)",
+      "year": 1846
+    },
+    {
+      "title": "3 Lieder, Op.62",
+      "imslp_url": "https://imslp.org/wiki/3_Lieder,_Op.62_(Schumann,_Robert)",
+      "year": 1847
+    },
+    {
+      "title": "Beim Abschied zu Singen, Op.84",
+      "imslp_url": "https://imslp.org/wiki/Beim_Abschied_zu_Singen,_Op.84_(Schumann,_Robert)",
+      "year": 1847
+    },
+    {
+      "title": "Genoveva, Op.81",
+      "imslp_url": "https://imslp.org/wiki/Genoveva,_Op.81_(Schumann,_Robert)",
+      "year": 1847
+    },
+    {
+      "title": "Piano Trio No.1, Op.63",
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.1,_Op.63_(Schumann,_Robert)",
+      "year": 1847
+    },
+    {
+      "title": "Piano Trio No.2, Op.80",
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.2,_Op.80_(Schumann,_Robert)",
+      "year": 1847
+    },
+    {
+      "title": "Ritornelle in canonischen Weisen, Op.65",
+      "imslp_url": "https://imslp.org/wiki/Ritornelle_in_canonischen_Weisen,_Op.65_(Schumann,_Robert)",
+      "year": 1847
+    },
+    {
+      "title": "Adventlied, Op.71",
+      "imslp_url": "https://imslp.org/wiki/Adventlied,_Op.71_(Schumann,_Robert)",
+      "year": 1848
+    },
+    {
+      "title": "Album f\u00fcr die Jugend, Op.68",
+      "imslp_url": "https://imslp.org/wiki/Album_f\u00fcr_die_Jugend,_Op.68_(Schumann,_Robert)",
+      "year": 1848
+    },
+    {
+      "title": "Bilder aus Osten, Op.66",
+      "imslp_url": "https://imslp.org/wiki/Bilder_aus_Osten,_Op.66_(Schumann,_Robert)",
+      "year": 1848
+    },
+    {
+      "title": "Manfred, Op.115",
+      "imslp_url": "https://imslp.org/wiki/Manfred,_Op.115_(Schumann,_Robert)",
+      "year": 1848
+    },
+    {
+      "title": "12 Klavierst\u00fccke f\u00fcr kleine und gro\u00dfe Kinder, Op.85",
+      "imslp_url": "https://imslp.org/wiki/12_Klavierst\u00fccke_f\u00fcr_kleine_und_gro\u00dfe_Kinder,_Op.85_(Schumann,_Robert)",
+      "year": 1849
+    },
+    {
+      "title": "3 Ges\u00e4nge, Op.95",
+      "imslp_url": "https://imslp.org/wiki/3_Ges\u00e4nge,_Op.95_(Schumann,_Robert)",
+      "year": 1849
+    },
+    {
+      "title": "3 Romanzen, Op.94",
+      "imslp_url": "https://imslp.org/wiki/3_Romanzen,_Op.94_(Schumann,_Robert)",
+      "year": 1849
+    },
+    {
+      "title": "4 Duets, Op.78",
+      "imslp_url": "https://imslp.org/wiki/4_Duets,_Op.78_(Schumann,_Robert)",
+      "year": 1849
+    },
+    {
+      "title": "4 Marches, Op.76",
+      "imslp_url": "https://imslp.org/wiki/4_Marches,_Op.76_(Schumann,_Robert)",
+      "year": 1849
+    },
+    {
+      "title": "5 St\u00fccke im Volkston, Op.102",
+      "imslp_url": "https://imslp.org/wiki/5_St\u00fccke_im_Volkston,_Op.102_(Schumann,_Robert)",
+      "year": 1849
+    },
+    {
+      "title": "6 Romanzen f\u00fcr Frauenstimmen Vol.I, Op.69",
+      "imslp_url": "https://imslp.org/wiki/6_Romanzen_f\u00fcr_Frauenstimmen_Vol.I,_Op.69_(Schumann,_Robert)",
+      "year": 1849
+    },
+    {
+      "title": "Adagio and Allegro, Op.70",
+      "imslp_url": "https://imslp.org/wiki/Adagio_and_Allegro,_Op.70_(Schumann,_Robert)",
+      "year": 1849
+    },
+    {
+      "title": "Concertpiece for 4 Horns and Orchestra, Op.86",
+      "imslp_url": "https://imslp.org/wiki/Concertpiece_for_4_Horns_and_Orchestra,_Op.86_(Schumann,_Robert)",
+      "year": 1849
+    },
+    {
+      "title": "Fantasiest\u00fccke, Op.73",
+      "imslp_url": "https://imslp.org/wiki/Fantasiest\u00fccke,_Op.73_(Schumann,_Robert)",
+      "year": 1849
+    },
+    {
+      "title": "Jagdlieder, Op.137",
+      "imslp_url": "https://imslp.org/wiki/Jagdlieder,_Op.137_(Schumann,_Robert)",
+      "year": 1849
+    },
+    {
+      "title": "Lieder und Ges\u00e4nge aus 'Wilhelm Meister', Op.98a",
+      "imslp_url": "https://imslp.org/wiki/Lieder_und_Ges\u00e4nge_aus_'Wilhelm_Meister',_Op.98a_(Schumann,_Robert)",
+      "year": 1849
+    },
+    {
+      "title": "Liederalbum f\u00fcr die Jugend, Op.79",
+      "imslp_url": "https://imslp.org/wiki/Liederalbum_f\u00fcr_die_Jugend,_Op.79_(Schumann,_Robert)",
+      "year": 1849
+    },
+    {
+      "title": "Minnespiel, Op.101",
+      "imslp_url": "https://imslp.org/wiki/Minnespiel,_Op.101_(Schumann,_Robert)",
+      "year": 1849
+    },
+    {
+      "title": "Nachtlied, Op.108",
+      "imslp_url": "https://imslp.org/wiki/Nachtlied,_Op.108_(Schumann,_Robert)",
+      "year": 1849
+    },
+    {
+      "title": "Neujahrslied, Op.144",
+      "imslp_url": "https://imslp.org/wiki/Neujahrslied,_Op.144_(Schumann,_Robert)",
+      "year": 1849
+    },
+    {
+      "title": "Requiem f\u00fcr Mignon, Op.98b",
+      "imslp_url": "https://imslp.org/wiki/Requiem_f\u00fcr_Mignon,_Op.98b_(Schumann,_Robert)",
+      "year": 1849
+    },
+    {
+      "title": "Sommerruh, H/K WoO 9",
+      "imslp_url": "https://imslp.org/wiki/Sommerruh,_H/K_WoO_9_(Schumann,_Robert)",
+      "year": 1849
+    },
+    {
+      "title": "Spanische Liebeslieder, Op.138",
+      "imslp_url": "https://imslp.org/wiki/Spanische_Liebeslieder,_Op.138_(Schumann,_Robert)",
+      "year": 1849
+    },
+    {
+      "title": "3 Ges\u00e4nge, Op.83",
+      "imslp_url": "https://imslp.org/wiki/3_Ges\u00e4nge,_Op.83_(Schumann,_Robert)",
+      "year": 1850
+    },
+    {
+      "title": "5 Lieder und Ges\u00e4nge, Op.127",
+      "imslp_url": "https://imslp.org/wiki/5_Lieder_und_Ges\u00e4nge,_Op.127_(Schumann,_Robert)",
+      "year": 1850
+    },
+    {
+      "title": "6 Gedichte von N. Lenau und Requiem, Op.90",
+      "imslp_url": "https://imslp.org/wiki/6_Gedichte_von_N._Lenau_und_Requiem,_Op.90_(Schumann,_Robert)",
+      "year": 1850
+    },
+    {
+      "title": "6 Ges\u00e4nge, Op.89",
+      "imslp_url": "https://imslp.org/wiki/6_Ges\u00e4nge,_Op.89_(Schumann,_Robert)",
+      "year": 1850
+    },
+    {
+      "title": "Cello Concerto, Op.129",
+      "imslp_url": "https://imslp.org/wiki/Cello_Concerto,_Op.129_(Schumann,_Robert)",
+      "year": 1850
+    },
+    {
+      "title": "Der Handschuh, Op.87",
+      "imslp_url": "https://imslp.org/wiki/Der_Handschuh,_Op.87_(Schumann,_Robert)",
+      "year": 1850
+    },
+    {
+      "title": "Die Braut von Messina, Op.100",
+      "imslp_url": "https://imslp.org/wiki/Die_Braut_von_Messina,_Op.100_(Schumann,_Robert)",
+      "year": 1850
+    },
+    {
+      "title": "Fest im Takt, im Tone rein, Op.68 Anh.",
+      "imslp_url": "https://imslp.org/wiki/Fest_im_Takt,_im_Tone_rein,_Op.68_Anh._(Schumann,_Robert)",
+      "year": 1850
+    },
+    {
+      "title": "Lieder und Ges\u00e4nge, Vol.IV, Op.96",
+      "imslp_url": "https://imslp.org/wiki/Lieder_und_Ges\u00e4nge,_Vol.IV,_Op.96_(Schumann,_Robert)",
+      "year": 1850
+    },
+    {
+      "title": "Symphony No.3, Op.97",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.3,_Op.97_(Schumann,_Robert)",
+      "year": 1850
+    },
+    {
+      "title": "Verzweifle nicht im Schmerzenstal, Op.93",
       "imslp_url": "https://imslp.org/wiki/Verzweifle_nicht_im_Schmerzenstal,_Op.93_(Schumann,_Robert)",
-      "year": 1850,
-      "title": "Verzweifle nicht im Schmerzenstal, Op.93"
+      "year": 1850
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Violin_Concerto_in_D_minor,_WoO_23_(Schumann,_Robert)",
-      "year": 1853,
-      "title": "Violin Concerto in D minor, WoO 23"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.1,_Op.105_(Schumann,_Robert)",
-      "year": 1851,
-      "title": "Violin Sonata No.1, Op.105"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.2,_Op.121_(Schumann,_Robert)",
-      "year": 1851,
-      "title": "Violin Sonata No.2, Op.121"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.3,_WoO_2_(Schumann,_Robert)",
-      "year": 1853,
-      "title": "Violin Sonata No.3, WoO 2"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Vom_Pagen_und_der_K%C3%B6nigstochter,_Op.140_(Schumann,_Robert)",
-      "year": 1852,
-      "title": "Vom Pagen und der K\u00f6nigstochter, Op.140"
-    },
-    {
+      "title": "Waldszenen, Op.82",
       "imslp_url": "https://imslp.org/wiki/Waldszenen,_Op.82_(Schumann,_Robert)",
-      "year": 1850,
-      "title": "Waldszenen, Op.82"
+      "year": 1850
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Gedichte_aus_%27Liebesfr%C3%BChling%27,_Op.37_(Schumann,_Robert)",
-      "year": 1840,
-      "title": "Gedichte aus 'Liebesfr\u00fchling', Op.37"
+      "title": "3 Gedichte, Op.119",
+      "imslp_url": "https://imslp.org/wiki/3_Gedichte,_Op.119_(Schumann,_Robert)",
+      "year": 1851
     },
     {
-      "imslp_url": "https://imslp.org/wiki/3_Ballads_for_Declamation,_Opp.106,_122_(Schumann,_Robert)",
-      "year": 1849,
-      "title": "3 Ballads for Declamation, Opp.106, 122"
+      "title": "4 Husarenlieder, Op.117",
+      "imslp_url": "https://imslp.org/wiki/4_Husarenlieder,_Op.117_(Schumann,_Robert)",
+      "year": 1851
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Klavieralbum_f%C3%BCr_Marie_zum_Geburtstag_(Schumann,_Robert)",
-      "year": 1848,
-      "title": "Klavieralbum f\u00fcr Marie zum Geburtstag"
+      "title": "5 Heitere Ges\u00e4nge, Op.125",
+      "imslp_url": "https://imslp.org/wiki/5_Heitere_Ges\u00e4nge,_Op.125_(Schumann,_Robert)",
+      "year": 1851
     },
     {
-      "imslp_url": "https://imslp.org/wiki/20_Lieder_nach_Gedichten_von_Heinrich_Heine,_Opp.29,_48_(Schumann,_Robert)",
-      "year": 1840,
-      "title": "20 Lieder nach Gedichten von Heinrich Heine, Opp.29, 48"
+      "title": "6 Ges\u00e4nge, Op.107",
+      "imslp_url": "https://imslp.org/wiki/6_Ges\u00e4nge,_Op.107_(Schumann,_Robert)",
+      "year": 1851
     },
     {
-      "imslp_url": "https://imslp.org/wiki/3_String_Quartets,_Op.41_(Schumann,_Robert)",
-      "year": 1842,
-      "title": "3 String Quartets, Op.41"
+      "title": "7 Lieder, Op.104",
+      "imslp_url": "https://imslp.org/wiki/7_Lieder,_Op.104_(Schumann,_Robert)",
+      "year": 1851
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Gesammelte_Schriften_%C3%BCber_Musik_und_Musiker_(Schumann,_Robert)",
-      "year": 1854,
-      "title": "Gesammelte Schriften \u00fcber Musik und Musiker"
+      "title": "Der K\u00f6nigssohn, Op.116",
+      "imslp_url": "https://imslp.org/wiki/Der_K\u00f6nigssohn,_Op.116_(Schumann,_Robert)",
+      "year": 1851
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Gesammelte_Schriften_%C3%BCber_Musik_und_Musiker_(Schumann,_Robert)",
-      "year": 1854,
-      "title": "Gesammelte Schriften \u00fcber Musik und Musiker"
+      "title": "Der Rose Pilgerfahrt, Op.112",
+      "imslp_url": "https://imslp.org/wiki/Der_Rose_Pilgerfahrt,_Op.112_(Schumann,_Robert)",
+      "year": 1851
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Musikalische_Haus-_und_Lebensregeln_(Schumann,_Robert)",
-      "year": 1850,
-      "title": "Musikalische Haus- und Lebensregeln"
+      "title": "Julius Caesar Ouverture, Op.128",
+      "imslp_url": "https://imslp.org/wiki/Julius_Caesar_Ouverture,_Op.128_(Schumann,_Robert)",
+      "year": 1851
+    },
+    {
+      "title": "M\u00e4rchenbilder, Op.113",
+      "imslp_url": "https://imslp.org/wiki/M\u00e4rchenbilder,_Op.113_(Schumann,_Robert)",
+      "year": 1851
+    },
+    {
+      "title": "Piano Trio No.3, Op.110",
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.3,_Op.110_(Schumann,_Robert)",
+      "year": 1851
+    },
+    {
+      "title": "Violin Sonata No.1, Op.105",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.1,_Op.105_(Schumann,_Robert)",
+      "year": 1851
+    },
+    {
+      "title": "Violin Sonata No.2, Op.121",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.2,_Op.121_(Schumann,_Robert)",
+      "year": 1851
+    },
+    {
+      "title": "2 Balladen, Op.122",
+      "imslp_url": "https://imslp.org/wiki/2_Balladen,_Op.122_(Schumann,_Robert)",
+      "year": 1852
+    },
+    {
+      "title": "4 Ges\u00e4nge, Op.142",
+      "imslp_url": "https://imslp.org/wiki/4_Ges\u00e4nge,_Op.142_(Schumann,_Robert)",
+      "year": 1852
+    },
+    {
+      "title": "Das Gl\u00fcck von Edenhall, Op.143",
+      "imslp_url": "https://imslp.org/wiki/Das_Gl\u00fcck_von_Edenhall,_Op.143_(Schumann,_Robert)",
+      "year": 1852
+    },
+    {
+      "title": "Des S\u00e4ngers Fluch, Op.139",
+      "imslp_url": "https://imslp.org/wiki/Des_S\u00e4ngers_Fluch,_Op.139_(Schumann,_Robert)",
+      "year": 1852
+    },
+    {
+      "title": "Gedichte der K\u00f6nigin Maria Stuart, Op.135",
+      "imslp_url": "https://imslp.org/wiki/Gedichte_der_K\u00f6nigin_Maria_Stuart,_Op.135_(Schumann,_Robert)",
+      "year": 1852
+    },
+    {
+      "title": "Konzertst\u00fcck, Op.92",
+      "imslp_url": "https://imslp.org/wiki/Konzertst\u00fcck,_Op.92_(Schumann,_Robert)",
+      "year": 1852
+    },
+    {
+      "title": "Mass in C minor, Op.147",
+      "imslp_url": "https://imslp.org/wiki/Mass_in_C_minor,_Op.147_(Schumann,_Robert)",
+      "year": 1852
+    },
+    {
+      "title": "Requiem, Op.148",
+      "imslp_url": "https://imslp.org/wiki/Requiem,_Op.148_(Schumann,_Robert)",
+      "year": 1852
+    },
+    {
+      "title": "Vom Pagen und der K\u00f6nigstochter, Op.140",
+      "imslp_url": "https://imslp.org/wiki/Vom_Pagen_und_der_K\u00f6nigstochter,_Op.140_(Schumann,_Robert)",
+      "year": 1852
+    },
+    {
+      "title": "3 Lieder f\u00fcr 3 Frauenstimmen, Op.114",
+      "imslp_url": "https://imslp.org/wiki/3_Lieder_f\u00fcr_3_Frauenstimmen,_Op.114_(Schumann,_Robert)",
+      "year": 1853
+    },
+    {
+      "title": "3 Piano Sonatas for the Young, Op.118",
+      "imslp_url": "https://imslp.org/wiki/3_Piano_Sonatas_for_the_Young,_Op.118_(Schumann,_Robert)",
+      "year": 1853
+    },
+    {
+      "title": "Ges\u00e4nge der Fr\u00fche, Op.133",
+      "imslp_url": "https://imslp.org/wiki/Ges\u00e4nge_der_Fr\u00fche,_Op.133_(Schumann,_Robert)",
+      "year": 1853
+    },
+    {
+      "title": "Kinderball, Op.130",
+      "imslp_url": "https://imslp.org/wiki/Kinderball,_Op.130_(Schumann,_Robert)",
+      "year": 1853
+    },
+    {
+      "title": "M\u00e4rchenerz\u00e4hlungen, Op.132",
+      "imslp_url": "https://imslp.org/wiki/M\u00e4rchenerz\u00e4hlungen,_Op.132_(Schumann,_Robert)",
+      "year": 1853
+    },
+    {
+      "title": "Phantasie for Violin and Orchestra, Op.131",
+      "imslp_url": "https://imslp.org/wiki/Phantasie_for_Violin_and_Orchestra,_Op.131_(Schumann,_Robert)",
+      "year": 1853
+    },
+    {
+      "title": "Rheinweinlied-Ouverture, Op.123",
+      "imslp_url": "https://imslp.org/wiki/Rheinweinlied-Ouverture,_Op.123_(Schumann,_Robert)",
+      "year": 1853
+    },
+    {
+      "title": "Violin Concerto in D minor, WoO 23",
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto_in_D_minor,_WoO_23_(Schumann,_Robert)",
+      "year": 1853
+    },
+    {
+      "title": "Violin Sonata No.3, WoO 2",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.3,_WoO_2_(Schumann,_Robert)",
+      "year": 1853
+    },
+    {
+      "title": "Theme and Variations, WoO 24",
+      "imslp_url": "https://imslp.org/wiki/Theme_and_Variations,_WoO_24_(Schumann,_Robert)",
+      "year": 1854
+    },
+    {
+      "title": "Theme in E-flat major",
+      "imslp_url": "https://imslp.org/wiki/Theme_in_E-flat_major_(Schumann,_Robert)",
+      "year": 1854
+    },
+    {
+      "title": "Introduction and Allegro, Op.134",
+      "imslp_url": "https://imslp.org/wiki/Introduction_and_Allegro,_Op.134_(Schumann,_Robert)",
+      "year": 1855
+    },
+    {
+      "title": "2 Endenicher Chor\u00e4le",
+      "imslp_url": "https://imslp.org/wiki/2_Endenicher_Chor\u00e4le_(Schumann,_Robert)",
+      "year": 1856
     }
   ]
 }

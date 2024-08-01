@@ -1,0 +1,687 @@
+{
+  "full_name": "Alexander Glazunov",
+  "first_names": "Alexander Konstantinovich",
+  "last_name": "Glazunov",
+  "birth_year": 1865,
+  "death_year": 1936,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_Glazunov",
+  "events": [
+    {
+      "section": "Biography",
+      "title": "Birth",
+      "summary": "Alexander Glazunov was born in Saint Petersburg, the son of a wealthy publisher. His father later obtained hereditary nobility status.",
+      "year": 1865,
+      "location": "Saint Petersburg",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Alexander Glazunov showed up in Saint Petersburg, nourished by the riches of his father's publishing empire, who later became a hereditary noble. Little did his dad know that while collecting books, his son would one day compose symphonies instead of just reading them!"
+    },
+    {
+      "section": "Biography",
+      "title": "Early Musical Education",
+      "summary": "He began studying piano at the age of nine and started composing at 11. His talent was recognized by Mily Balakirev, who introduced him to Nikolai Rimsky-Korsakov.",
+      "year": 1876,
+      "location": "Saint Petersburg",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "At the tender age of nine, he decided to tickle the ivories and started learning piano. By 11, he was composing music! His talent was recognized by Mily Balakirev, who thought, 'This kid should meet the legendary Nikolai Rimsky-Korsakov; they might just hit it off!'"
+    },
+    {
+      "section": "Biography",
+      "title": "Composition Premiered",
+      "summary": "Rimsky-Korsakov premiered Glazunov's orchestral score, showcasing his talent at the age of 16 which received admiration from leading composers at the time.",
+      "year": 1882,
+      "location": "Saint Petersburg",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "Rimsky-Korsakov debuted Glazunov's orchestral score at the spry age of 16, showcasing his talent which received admiration from leading composers at the time. Instead, this young prodigy was showcasing his talent and impressing composers who were probably thinking, 'Great, now we have to step up our game because a teenager can out-compose us!'"
+    },
+    {
+      "section": "Biography",
+      "title": "Trip to Western Europe",
+      "summary": "Mitrofan Belyayev took Glazunov on a trip to Western Europe, where he met Liszt in Weimar, and his First Symphony was performed.",
+      "year": 1884,
+      "location": "Weimar",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "Mitrofan Belyayev took Glazunov on a trip to Western Europe, where he met Liszt in Weimar. They weren\u2019t just sightseeing, Belyayev\u2019s First Symphony was performed, making it quite the memorable trip!"
+    },
+    {
+      "section": "Biography",
+      "title": "Conducting Debut",
+      "summary": "Glazunov made his conducting debut, showcasing his works and later conducting at the World Exhibition in Paris.",
+      "year": 1888,
+      "location": "Paris",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Glazunov made his conducting debut, proving that he could make an orchestra not just play notes, but dance like they're at a wedding! Later, he took his talents to the World Exhibition in Paris, where he arguably outshone the Eiffel Tower\u2014after all, what\u2019s more impressive than a guy waving a stick at a bunch of musicians?"
+    },
+    {
+      "section": "Biography",
+      "title": "International Acclaim",
+      "summary": "Emerging from a creative crisis, Glazunov gained international recognition during the 1890s with various compositions and concerts.",
+      "year": 1890,
+      "location": "International",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "After a face-off with his own creative crisis, Glazunov burst onto the scene in the 1890s, earning international fame with compositions and concerts that kept the audience on the edge of their seats!"
+    },
+    {
+      "section": "Biography",
+      "title": "Director of the Saint Petersburg Conservatory",
+      "summary": "In 1905, Glazunov was elected director of the Saint Petersburg Conservatory, marking the peak of his creative powers.",
+      "year": 1905,
+      "location": "Saint Petersburg",
+      "emoji": "\ud83c\udfdb\ufe0f",
+      "fun_version": "In 1905, Glazunov was elected director of the Saint Petersburg Conservatory, marking the peak of his creative powers and finally giving him the key to the music room, where he could unleash his chaos upon unsuspecting students. It was like being crowned the King of Musical Mayhem!"
+    },
+    {
+      "section": "Biography",
+      "title": "Russian Historical Concerts",
+      "summary": "He conducted the last of the Russian Historical Concerts in Paris, receiving honorary degrees from prestigious universities.",
+      "year": 1907,
+      "location": "Paris",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "He successfully wrapped up the last of the Russian Historical Concerts in Paris, where he received so many honorary degrees that he might as well open a degree shop!"
+    },
+    {
+      "section": "Biography",
+      "title": "Emigration to Paris",
+      "summary": "Glazunov settled in Paris in 1929 after touring Europe and the United States, stating his reason as ill health, ensuring his respect in the Soviet Union.",
+      "year": 1929,
+      "location": "Paris",
+      "emoji": "\ud83c\udfd9\ufe0f",
+      "fun_version": "Glazunov settled in Paris in 1929 after touring Europe and the United States, citing ill health as his reason, while ensuring his respect in the Soviet Union."
+    },
+    {
+      "section": "Biography",
+      "title": "Death",
+      "summary": "Glazunov passed away in Neuilly-sur-Seine, near Paris, at the age of 70. His remains were later reinterred at the Alexander Nevsky Monastery in Leningrad.",
+      "year": 1936,
+      "location": "Neuilly-sur-Seine",
+      "emoji": "\ud83d\ude22",
+      "fun_version": "Glazunov chose to leave this world at the ripe age of 70 in Neuilly-sur-Seine. His remains were later reinterred at the Alexander Nevsky Monastery in Leningrad."
+    }
+  ],
+  "works": [
+    {
+      "title": "Symphony No.1, Op.5",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.1,_Op.5_(Glazunov,_Aleksandr)",
+      "year": 1880
+    },
+    {
+      "title": "Overture No.1 on 3 Greek Themes, Op.3",
+      "imslp_url": "https://imslp.org/wiki/Overture_No.1_on_3_Greek_Themes,_Op.3_(Glazunov,_Aleksandr)",
+      "year": 1881
+    },
+    {
+      "title": "5 Romances, Op.4",
+      "imslp_url": "https://imslp.org/wiki/5_Romances,_Op.4_(Glazunov,_Aleksandr)",
+      "year": 1882
+    },
+    {
+      "title": "String Quartet No.1, Op.1",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1,_Op.1_(Glazunov,_Aleksandr)",
+      "year": 1882
+    },
+    {
+      "title": "Overture No.2 on Greek Themes, Op.6",
+      "imslp_url": "https://imslp.org/wiki/Overture_No.2_on_Greek_Themes,_Op.6_(Glazunov,_Aleksandr)",
+      "year": 1883
+    },
+    {
+      "title": "Serenade No.1, Op.7",
+      "imslp_url": "https://imslp.org/wiki/Serenade_No.1,_Op.7_(Glazunov,_Aleksandr)",
+      "year": 1883
+    },
+    {
+      "title": "Suite on the Name 'Sascha', Op.2",
+      "imslp_url": "https://imslp.org/wiki/Suite_on_the_Name_'Sascha',_Op.2_(Glazunov,_Aleksandr)",
+      "year": 1883
+    },
+    {
+      "title": "Po\u00e8me lyrique, Op.12",
+      "imslp_url": "https://imslp.org/wiki/Po\u00e8me_lyrique,_Op.12_(Glazunov,_Aleksandr)",
+      "year": 1884
+    },
+    {
+      "title": "Serenade No.2, Op.11",
+      "imslp_url": "https://imslp.org/wiki/Serenade_No.2,_Op.11_(Glazunov,_Aleksandr)",
+      "year": 1884
+    },
+    {
+      "title": "String Quartet No.2, Op.10",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2,_Op.10_(Glazunov,_Aleksandr)",
+      "year": 1884
+    },
+    {
+      "title": "Suite caract\u00e9ristique, Op.9",
+      "imslp_url": "https://imslp.org/wiki/Suite_caract\u00e9ristique,_Op.9_(Glazunov,_Aleksandr)",
+      "year": 1884
+    },
+    {
+      "title": "Symphony No.2, Op.16",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.2,_Op.16_(Glazunov,_Aleksandr)",
+      "year": 1884
+    },
+    {
+      "title": "Stenka Razin, Op.13",
+      "imslp_url": "https://imslp.org/wiki/Stenka_Razin,_Op.13_(Glazunov,_Aleksandr)",
+      "year": 1885
+    },
+    {
+      "title": "To the Memory of a Hero, Op.8",
+      "imslp_url": "https://imslp.org/wiki/To_the_Memory_of_a_Hero,_Op.8_(Glazunov,_Aleksandr)",
+      "year": 1885
+    },
+    {
+      "title": "2 Pieces for Orchestra, Op.14",
+      "imslp_url": "https://imslp.org/wiki/2_Pieces_for_Orchestra,_Op.14_(Glazunov,_Aleksandr)",
+      "year": 1886
+    },
+    {
+      "title": "5 Novelettes, Op.15",
+      "imslp_url": "https://imslp.org/wiki/5_Novelettes,_Op.15_(Glazunov,_Aleksandr)",
+      "year": 1886
+    },
+    {
+      "title": "R\u00eaverie orientale",
+      "imslp_url": "https://imslp.org/wiki/R\u00eaverie_orientale_(Glazunov,_Aleksandr)",
+      "year": 1886
+    },
+    {
+      "title": "Barcarolle sur les touches noires",
+      "imslp_url": "https://imslp.org/wiki/Barcarolle_sur_les_touches_noires_(Glazunov,_Aleksandr)",
+      "year": 1887
+    },
+    {
+      "title": "Elegy, Op.17",
+      "imslp_url": "https://imslp.org/wiki/Elegy,_Op.17_(Glazunov,_Aleksandr)",
+      "year": 1887
+    },
+    {
+      "title": "La for\u00eat, Op.19",
+      "imslp_url": "https://imslp.org/wiki/La_for\u00eat,_Op.19_(Glazunov,_Aleksandr)",
+      "year": 1887
+    },
+    {
+      "title": "Suite for String Quartet, Op.35",
+      "imslp_url": "https://imslp.org/wiki/Suite_for_String_Quartet,_Op.35_(Glazunov,_Aleksandr)",
+      "year": 1887
+    },
+    {
+      "title": "2 M\u00e9lodies, Op.27",
+      "imslp_url": "https://imslp.org/wiki/2_M\u00e9lodies,_Op.27_(Glazunov,_Aleksandr)",
+      "year": 1888
+    },
+    {
+      "title": "2 Pieces for Cello and Orchestra, Op.20",
+      "imslp_url": "https://imslp.org/wiki/2_Pieces_for_Cello_and_Orchestra,_Op.20_(Glazunov,_Aleksandr)",
+      "year": 1888
+    },
+    {
+      "title": "Mazurka, Op.18",
+      "imslp_url": "https://imslp.org/wiki/Mazurka,_Op.18_(Glazunov,_Aleksandr)",
+      "year": 1888
+    },
+    {
+      "title": "Prelude and 2 Mazurkas, Op.25",
+      "imslp_url": "https://imslp.org/wiki/Prelude_and_2_Mazurkas,_Op.25_(Glazunov,_Aleksandr)",
+      "year": 1888
+    },
+    {
+      "title": "Slavonic Festival, Op.26a",
+      "imslp_url": "https://imslp.org/wiki/Slavonic_Festival,_Op.26a_(Glazunov,_Aleksandr)",
+      "year": 1888
+    },
+    {
+      "title": "String Quartet No.3, Op.26",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.3,_Op.26_(Glazunov,_Aleksandr)",
+      "year": 1888
+    },
+    {
+      "title": "2 Pieces for Piano, Op.22",
+      "imslp_url": "https://imslp.org/wiki/2_Pieces_for_Piano,_Op.22_(Glazunov,_Aleksandr)",
+      "year": 1889
+    },
+    {
+      "title": "3 Etudes, Op.31",
+      "imslp_url": "https://imslp.org/wiki/3_Etudes,_Op.31_(Glazunov,_Aleksandr)",
+      "year": 1889
+    },
+    {
+      "title": "Grande valse de concert, Op.41",
+      "imslp_url": "https://imslp.org/wiki/Grande_valse_de_concert,_Op.41_(Glazunov,_Aleksandr)",
+      "year": 1889
+    },
+    {
+      "title": "La mer, Op.28",
+      "imslp_url": "https://imslp.org/wiki/La_mer,_Op.28_(Glazunov,_Aleksandr)",
+      "year": 1889
+    },
+    {
+      "title": "Nocturne pour Piano, Op.37",
+      "imslp_url": "https://imslp.org/wiki/Nocturne_pour_Piano,_Op.37_(Glazunov,_Aleksandr)",
+      "year": 1889
+    },
+    {
+      "title": "Rhapsodie orientale, Op.29",
+      "imslp_url": "https://imslp.org/wiki/Rhapsodie_orientale,_Op.29_(Glazunov,_Aleksandr)",
+      "year": 1889
+    },
+    {
+      "title": "Wedding March, Op.21",
+      "imslp_url": "https://imslp.org/wiki/Wedding_March,_Op.21_(Glazunov,_Aleksandr)",
+      "year": 1889
+    },
+    {
+      "title": "R\u00eaverie, Op.24",
+      "imslp_url": "https://imslp.org/wiki/R\u00eaverie,_Op.24_(Glazunov,_Aleksandr)",
+      "year": 1890
+    },
+    {
+      "title": "Symphony No.3, Op.33",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.3,_Op.33_(Glazunov,_Aleksandr)",
+      "year": 1890
+    },
+    {
+      "title": "The Kremlin, Op.30",
+      "imslp_url": "https://imslp.org/wiki/The_Kremlin,_Op.30_(Glazunov,_Aleksandr)",
+      "year": 1890
+    },
+    {
+      "title": "Walzer \u00fcber das Thema Sabela, Op.23",
+      "imslp_url": "https://imslp.org/wiki/Walzer_\u00fcber_das_Thema_Sabela,_Op.23_(Glazunov,_Aleksandr)",
+      "year": 1890
+    },
+    {
+      "title": "Meditation, Op.32",
+      "imslp_url": "https://imslp.org/wiki/Meditation,_Op.32_(Glazunov,_Aleksandr)",
+      "year": 1891
+    },
+    {
+      "title": "Spring, Op.34",
+      "imslp_url": "https://imslp.org/wiki/Spring,_Op.34_(Glazunov,_Aleksandr)",
+      "year": 1891
+    },
+    {
+      "title": "Carnaval, Op.45",
+      "imslp_url": "https://imslp.org/wiki/Carnaval,_Op.45_(Glazunov,_Aleksandr)",
+      "year": 1892
+    },
+    {
+      "title": "Chopiniana, Op.46",
+      "imslp_url": "https://imslp.org/wiki/Chopiniana,_Op.46_(Glazunov,_Aleksandr)",
+      "year": 1892
+    },
+    {
+      "title": "In modo religioso, Op.38",
+      "imslp_url": "https://imslp.org/wiki/In_modo_religioso,_Op.38_(Glazunov,_Aleksandr)",
+      "year": 1892
+    },
+    {
+      "title": "Petite valse, Op.36",
+      "imslp_url": "https://imslp.org/wiki/Petite_valse,_Op.36_(Glazunov,_Aleksandr)",
+      "year": 1892
+    },
+    {
+      "title": "String Quintet, Op.39",
+      "imslp_url": "https://imslp.org/wiki/String_Quintet,_Op.39_(Glazunov,_Aleksandr)",
+      "year": 1892
+    },
+    {
+      "title": "Triumphal March, Op.40",
+      "imslp_url": "https://imslp.org/wiki/Triumphal_March,_Op.40_(Glazunov,_Aleksandr)",
+      "year": 1892
+    },
+    {
+      "title": "3 Miniatures, Op.42",
+      "imslp_url": "https://imslp.org/wiki/3_Miniatures,_Op.42_(Glazunov,_Aleksandr)",
+      "year": 1893
+    },
+    {
+      "title": "Concert Waltz No.1, Op.47",
+      "imslp_url": "https://imslp.org/wiki/Concert_Waltz_No.1,_Op.47_(Glazunov,_Aleksandr)",
+      "year": 1893
+    },
+    {
+      "title": "Elegy, Op.44",
+      "imslp_url": "https://imslp.org/wiki/Elegy,_Op.44_(Glazunov,_Aleksandr)",
+      "year": 1893
+    },
+    {
+      "title": "Symphony No.4, Op.48",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.4,_Op.48_(Glazunov,_Aleksandr)",
+      "year": 1893
+    },
+    {
+      "title": "Valse de salon, Op.43",
+      "imslp_url": "https://imslp.org/wiki/Valse_de_salon,_Op.43_(Glazunov,_Aleksandr)",
+      "year": 1893
+    },
+    {
+      "title": "3 Pieces for Piano, Op.49",
+      "imslp_url": "https://imslp.org/wiki/3_Pieces_for_Piano,_Op.49_(Glazunov,_Aleksandr)",
+      "year": 1894
+    },
+    {
+      "title": "Concert Waltz No.2, Op.51",
+      "imslp_url": "https://imslp.org/wiki/Concert_Waltz_No.2,_Op.51_(Glazunov,_Aleksandr)",
+      "year": 1894
+    },
+    {
+      "title": "Cort\u00e8ge solennel, Op.50",
+      "imslp_url": "https://imslp.org/wiki/Cort\u00e8ge_solennel,_Op.50_(Glazunov,_Aleksandr)",
+      "year": 1894
+    },
+    {
+      "title": "Fantasy, Op.53",
+      "imslp_url": "https://imslp.org/wiki/Fantasy,_Op.53_(Glazunov,_Aleksandr)",
+      "year": 1894
+    },
+    {
+      "title": "Sc\u00e8nes de ballet, Op.52",
+      "imslp_url": "https://imslp.org/wiki/Sc\u00e8nes_de_ballet,_Op.52_(Glazunov,_Aleksandr)",
+      "year": 1894
+    },
+    {
+      "title": "String Quartet No.4, Op.64",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.4,_Op.64_(Glazunov,_Aleksandr)",
+      "year": 1894
+    },
+    {
+      "title": "2 Impromptus, Op.54",
+      "imslp_url": "https://imslp.org/wiki/2_Impromptus,_Op.54_(Glazunov,_Aleksandr)",
+      "year": 1895
+    },
+    {
+      "title": "Coronation Cantata, Op.56",
+      "imslp_url": "https://imslp.org/wiki/Coronation_Cantata,_Op.56_(Glazunov,_Aleksandr)",
+      "year": 1895
+    },
+    {
+      "title": "Symphony No.5, Op.55",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.5,_Op.55_(Glazunov,_Aleksandr)",
+      "year": 1895
+    },
+    {
+      "title": "Theme and Variations for String Orchestra, Op.97",
+      "imslp_url": "https://imslp.org/wiki/Theme_and_Variations_for_String_Orchestra,_Op.97_(Glazunov,_Aleksandr)",
+      "year": 1895
+    },
+    {
+      "title": "Raymonda, Op.57",
+      "imslp_url": "https://imslp.org/wiki/Raymonda,_Op.57_(Glazunov,_Aleksandr)",
+      "year": 1896
+    },
+    {
+      "title": "Symphony No.6, Op.58",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.6,_Op.58_(Glazunov,_Aleksandr)",
+      "year": 1896
+    },
+    {
+      "title": "6 M\u00e9lodies, Op.59",
+      "imslp_url": "https://imslp.org/wiki/6_M\u00e9lodies,_Op.59_(Glazunov,_Aleksandr)",
+      "year": 1898
+    },
+    {
+      "title": "6 M\u00e9lodies, Op.60",
+      "imslp_url": "https://imslp.org/wiki/6_M\u00e9lodies,_Op.60_(Glazunov,_Aleksandr)",
+      "year": 1898
+    },
+    {
+      "title": "Festive Cantata, Op.63",
+      "imslp_url": "https://imslp.org/wiki/Festive_Cantata,_Op.63_(Glazunov,_Aleksandr)",
+      "year": 1898
+    },
+    {
+      "title": "Raymonda Suite, Op.57a",
+      "imslp_url": "https://imslp.org/wiki/Raymonda_Suite,_Op.57a_(Glazunov,_Aleksandr)",
+      "year": 1898
+    },
+    {
+      "title": "Ruses d'amour, Op.61",
+      "imslp_url": "https://imslp.org/wiki/Ruses_d'amour,_Op.61_(Glazunov,_Aleksandr)",
+      "year": 1898
+    },
+    {
+      "title": "String Quartet No.5, Op.70",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.5,_Op.70_(Glazunov,_Aleksandr)",
+      "year": 1898
+    },
+    {
+      "title": "Albumblatt",
+      "imslp_url": "https://imslp.org/wiki/Albumblatt_(Glazunov,_Aleksandr)",
+      "year": 1899
+    },
+    {
+      "title": "Memorial Cantata, Op.65",
+      "imslp_url": "https://imslp.org/wiki/Memorial_Cantata,_Op.65_(Glazunov,_Aleksandr)",
+      "year": 1899
+    },
+    {
+      "title": "Pas de caract\u00e8re, Op.68",
+      "imslp_url": "https://imslp.org/wiki/Pas_de_caract\u00e8re,_Op.68_(Glazunov,_Aleksandr)",
+      "year": 1899
+    },
+    {
+      "title": "Pr\u00e9lude et fugue, Op.62",
+      "imslp_url": "https://imslp.org/wiki/Pr\u00e9lude_et_fugue,_Op.62_(Glazunov,_Aleksandr)",
+      "year": 1899
+    },
+    {
+      "title": "Intermezzo romantico, Op.69",
+      "imslp_url": "https://imslp.org/wiki/Intermezzo_romantico,_Op.69_(Glazunov,_Aleksandr)",
+      "year": 1900
+    },
+    {
+      "title": "Ouverture solennelle, Op.73",
+      "imslp_url": "https://imslp.org/wiki/Ouverture_solennelle,_Op.73_(Glazunov,_Aleksandr)",
+      "year": 1900
+    },
+    {
+      "title": "The Seasons, Op.67",
+      "imslp_url": "https://imslp.org/wiki/The_Seasons,_Op.67_(Glazunov,_Aleksandr)",
+      "year": 1900
+    },
+    {
+      "title": "Th\u00e8me et Variations, Op.72",
+      "imslp_url": "https://imslp.org/wiki/Th\u00e8me_et_Variations,_Op.72_(Glazunov,_Aleksandr)",
+      "year": 1900
+    },
+    {
+      "title": "Chant du m\u00e9nestrel, Op.71",
+      "imslp_url": "https://imslp.org/wiki/Chant_du_m\u00e9nestrel,_Op.71_(Glazunov,_Aleksandr)",
+      "year": 1901
+    },
+    {
+      "title": "Marche sur un th\u00e8me russe, Op.76",
+      "imslp_url": "https://imslp.org/wiki/Marche_sur_un_th\u00e8me_russe,_Op.76_(Glazunov,_Aleksandr)",
+      "year": 1901
+    },
+    {
+      "title": "Piano Sonata No.1, Op.74",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.1,_Op.74_(Glazunov,_Aleksandr)",
+      "year": 1901
+    },
+    {
+      "title": "Piano Sonata No.2, Op.75",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.2,_Op.75_(Glazunov,_Aleksandr)",
+      "year": 1901
+    },
+    {
+      "title": "Ballade, Op.78",
+      "imslp_url": "https://imslp.org/wiki/Ballade,_Op.78_(Glazunov,_Aleksandr)",
+      "year": 1902
+    },
+    {
+      "title": "From the Middle Ages, Op.79",
+      "imslp_url": "https://imslp.org/wiki/From_the_Middle_Ages,_Op.79_(Glazunov,_Aleksandr)",
+      "year": 1902
+    },
+    {
+      "title": "Symphony No.7, Op.77",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.7,_Op.77_(Glazunov,_Aleksandr)",
+      "year": 1902
+    },
+    {
+      "title": "Violin Concerto, Op.82",
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto,_Op.82_(Glazunov,_Aleksandr)",
+      "year": 1904
+    },
+    {
+      "title": "Sc\u00e8ne dansante, Op.81",
+      "imslp_url": "https://imslp.org/wiki/Sc\u00e8ne_dansante,_Op.81_(Glazunov,_Aleksandr)",
+      "year": 1905
+    },
+    {
+      "title": "Symphony No.8, Op.83",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.8,_Op.83_(Glazunov,_Aleksandr)",
+      "year": 1905
+    },
+    {
+      "title": "Pr\u00e9lude et fugue, Op.93",
+      "imslp_url": "https://imslp.org/wiki/Pr\u00e9lude_et_fugue,_Op.93_(Glazunov,_Aleksandr)",
+      "year": 1906
+    },
+    {
+      "title": "Russian Fantasy, Op.86",
+      "imslp_url": "https://imslp.org/wiki/Russian_Fantasy,_Op.86_(Glazunov,_Aleksandr)",
+      "year": 1906
+    },
+    {
+      "title": "Love, Op.94",
+      "imslp_url": "https://imslp.org/wiki/Love,_Op.94_(Glazunov,_Aleksandr)",
+      "year": 1907
+    },
+    {
+      "title": "2 Preludes, Op.85",
+      "imslp_url": "https://imslp.org/wiki/2_Preludes,_Op.85_(Glazunov,_Aleksandr)",
+      "year": 1908
+    },
+    {
+      "title": "Le chant du destin, Op.84",
+      "imslp_url": "https://imslp.org/wiki/Le_chant_du_destin,_Op.84_(Glazunov,_Aleksandr)",
+      "year": 1908
+    },
+    {
+      "title": "A la m\u00e9moire de Gogol, Op.87",
+      "imslp_url": "https://imslp.org/wiki/A_la_m\u00e9moire_de_Gogol,_Op.87_(Glazunov,_Aleksandr)",
+      "year": 1909
+    },
+    {
+      "title": "Finnish Fantasy, Op.88",
+      "imslp_url": "https://imslp.org/wiki/Finnish_Fantasy,_Op.88_(Glazunov,_Aleksandr)",
+      "year": 1909
+    },
+    {
+      "title": "Cort\u00e8ge solennel, Op.91",
+      "imslp_url": "https://imslp.org/wiki/Cort\u00e8ge_solennel,_Op.91_(Glazunov,_Aleksandr)",
+      "year": 1910
+    },
+    {
+      "title": "Piano Concerto No.1, Op.92",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.1,_Op.92_(Glazunov,_Aleksandr)",
+      "year": 1910
+    },
+    {
+      "title": "Gagliarde and Mazurka",
+      "imslp_url": "https://imslp.org/wiki/Gagliarde_and_Mazurka_(Glazunov,_Aleksandr)",
+      "year": 1911
+    },
+    {
+      "title": "Finnish Sketches, Op.89",
+      "imslp_url": "https://imslp.org/wiki/Finnish_Sketches,_Op.89_(Glazunov,_Aleksandr)",
+      "year": 1912
+    },
+    {
+      "title": "Introduction et la Danse de Salom\u00e9e, Op.90",
+      "imslp_url": "https://imslp.org/wiki/Introduction_et_la_Danse_de_Salom\u00e9e,_Op.90_(Glazunov,_Aleksandr)",
+      "year": 1912
+    },
+    {
+      "title": "The King of the Jews, Op.95",
+      "imslp_url": "https://imslp.org/wiki/The_King_of_the_Jews,_Op.95_(Glazunov,_Aleksandr)",
+      "year": 1913
+    },
+    {
+      "title": "Paraphrase on the Hymns of the Allies, Op.96",
+      "imslp_url": "https://imslp.org/wiki/Paraphrase_on_the_Hymns_of_the_Allies,_Op.96_(Glazunov,_Aleksandr)",
+      "year": 1914
+    },
+    {
+      "title": "Pr\u00e9lude et fugue, Op.98",
+      "imslp_url": "https://imslp.org/wiki/Pr\u00e9lude_et_fugue,_Op.98_(Glazunov,_Aleksandr)",
+      "year": 1914
+    },
+    {
+      "title": "Karelian Legend, Op.99",
+      "imslp_url": "https://imslp.org/wiki/Karelian_Legend,_Op.99_(Glazunov,_Aleksandr)",
+      "year": 1916
+    },
+    {
+      "title": "Romance de Nina, Op.102",
+      "imslp_url": "https://imslp.org/wiki/Romance_de_Nina,_Op.102_(Glazunov,_Aleksandr)",
+      "year": 1916
+    },
+    {
+      "title": "2 Po\u00e8mes-improvisations",
+      "imslp_url": "https://imslp.org/wiki/2_Po\u00e8mes-improvisations_(Glazunov,_Aleksandr)",
+      "year": 1917
+    },
+    {
+      "title": "Mazurka-oberek",
+      "imslp_url": "https://imslp.org/wiki/Mazurka-oberek_(Glazunov,_Aleksandr)",
+      "year": 1917
+    },
+    {
+      "title": "Piano Concerto No.2, Op.100",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.2,_Op.100_(Glazunov,_Aleksandr)",
+      "year": 1917
+    },
+    {
+      "title": "4 Preludes and Fugues, Op.101",
+      "imslp_url": "https://imslp.org/wiki/4_Preludes_and_Fugues,_Op.101_(Glazunov,_Aleksandr)",
+      "year": 1918
+    },
+    {
+      "title": "Fantaisie, Op.104",
+      "imslp_url": "https://imslp.org/wiki/Fantaisie,_Op.104_(Glazunov,_Aleksandr)",
+      "year": 1920
+    },
+    {
+      "title": "String Quartet No.6, Op.106",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.6,_Op.106_(Glazunov,_Aleksandr)",
+      "year": 1921
+    },
+    {
+      "title": "Idylle, Op.103",
+      "imslp_url": "https://imslp.org/wiki/Idylle,_Op.103_(Glazunov,_Aleksandr)",
+      "year": 1926
+    },
+    {
+      "title": "Elegy, Op.105",
+      "imslp_url": "https://imslp.org/wiki/Elegy,_Op.105_(Glazunov,_Aleksandr)",
+      "year": 1928
+    },
+    {
+      "title": "String Quartet No.7, Op.107",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.7,_Op.107_(Glazunov,_Aleksandr)",
+      "year": 1930
+    },
+    {
+      "title": "Concerto Ballata, Op.108",
+      "imslp_url": "https://imslp.org/wiki/Concerto_Ballata,_Op.108_(Glazunov,_Aleksandr)",
+      "year": 1931
+    },
+    {
+      "title": "Saxophone Quartet, Op.109",
+      "imslp_url": "https://imslp.org/wiki/Saxophone_Quartet,_Op.109_(Glazunov,_Aleksandr)",
+      "year": 1932
+    },
+    {
+      "title": "Saxophone Concerto, Op.109",
+      "imslp_url": "https://imslp.org/wiki/Saxophone_Concerto,_Op.109_(Glazunov,_Aleksandr)",
+      "year": 1934
+    },
+    {
+      "title": "Fantaisie, Op.110",
+      "imslp_url": "https://imslp.org/wiki/Fantaisie,_Op.110_(Glazunov,_Aleksandr)",
+      "year": 1935
+    }
+  ]
+}

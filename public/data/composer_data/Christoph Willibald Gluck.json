@@ -7,292 +7,162 @@
   "wikipedia_url": "https://en.wikipedia.org/wiki/Christoph_Willibald_Gluck",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Christoph Willibald Gluck was born in Erasbach, a picturesque spot in the Upper Palatinate. It\u2019s a case of music in the genes, as he likely composed his first lullaby in the cradle, though his parents probably just rolled their eyes and wished for sleep.",
+      "section": "Life and career",
+      "title": "Birth",
+      "summary": "Christoph Willibald Gluck was baptized as Christophorus Willibaldus on 4 July 1714 in Weidenwang. Although no contemporaneous records confirm his birthdate, he listed it as 2 July 1714 on a document in 1785.",
       "year": 1714,
-      "city": "Erasbach",
-      "country": "Germany"
+      "location": "Weidenwang",
+      "emoji": "\ud83d\udc76",
+      "fun_version": "Christoph Willibald Gluck, known for his legendary status, was baptized as Christophorus Willibaldus on the 4th of July 1714\u2014just in time for the fireworks! Although no one seems to have noted down his birthday, he boldly penned it as 2 July 1714 on a document in 1785."
     },
     {
-      "event": "Opera Reform",
-      "summary": "Gluck made waves in the opera world by shaking up the old Metastasian opera seria fashion with his radical new works in the 1760s. He became the talk of the town, introducing orchestral recitative and enhancing drama \u2013 basically the \u2018reality TV\u2019 of his time!",
-      "year": 1760,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Move to Paris",
-      "summary": "In a bold move that would have made anyone\u2019s Instagram feed pop, Gluck relocated to the opera capital of Paris. This was a grand artistic adventure, combining Italian flair with French production; a bit like putting croissants in spaghetti.",
-      "year": 1773,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Success of Iphig\u00e9nie en Tauride",
-      "summary": "Gluck\u2019s opera Iphig\u00e9nie en Tauride hit Paris like a blockbuster, dazzling audiences and critics alike. It was like the summer blockbuster of the operatic world, leading to standing ovations and sold-out shows!",
-      "year": 1779,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Return to Vienna",
-      "summary": "After the unimpressive reception of his last opera Echo et Narcisse, Gluck took a dramatic exit from Paris, full of disgust. He returned to Vienna, which felt a bit like coming home after being at a party that just didn\u2019t go as planned.",
-      "year": 1779,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Death",
-      "summary": "Gluck passed away in Vienna at the ripe old age of 73. His legacy brought music lovers together, and one can imagine a heartfelt farewell, with musical tributes and perhaps a \u2018you will be missed\u2019 opera singing competition in his honor.",
-      "year": 1787,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "First concert with Gluck",
-      "summary": "In a historic gathering of talent, Handel and Gluck teamed up for a concert that showcased their musical prowess. One can imagine the excitement as these two titans of music graced the stage together, proving that the combination of their talents was quite the 'Hallelujah' moment\u2014pun intended!",
-      "year": 1747,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Marriage to Maria Anna Bergin",
-      "summary": "Gluck took a sweet plunge into matrimony with Maria Anna Bergin, at the youthful age of 18. This union was like the perfect chord progression in a symphony\u2014harmonious and just the right blend of notes to carry on their musical journey together!",
+      "section": "Life and career",
+      "title": "Marriage",
+      "summary": "On 15 September 1750, Gluck married Maria Anna Bergin, who was 18 years old at the time and the daughter of a deceased Viennese merchant.",
       "year": 1750,
-      "city": "Prague",
-      "country": "Czech Republic"
+      "location": "Prague",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "On 15 September 1750, Gluck married Maria Anna Bergin, who was 18 years old at the time and the daughter of a deceased Viennese merchant."
     },
     {
-      "event": "Commission for La clemenza di Tito",
-      "summary": "In a twist of fate that had the music world buzzing, Gluck received a prestigious commission for La clemenza di Tito. The pressure was on, but Gluck's pen danced across the paper, and the result was an aria so legendary it made the critics swoon\u2014talk about pressure turning notes into diamonds!",
-      "year": 1752,
-      "city": "Naples",
-      "country": "Italy"
+      "section": "Life and career",
+      "title": "Appointment as Kapellmeister",
+      "summary": "Gluck was appointed as the Kapellmeister by Prince Joseph of Saxe-Hildburghausen after settling in Vienna, where he created various works, including Le cinesi and La danza.",
+      "year": 1755,
+      "location": "Vienna",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Gluck got the gig as Kapellmeister from Prince Joseph of Saxe-Hildburghausen after moving to Vienna. It\u2019s like the prince said, 'Hey Gluck, I need some tunes, and you seem to know your way around a musical score!' So, Gluck got to work creating masterpieces like Le cinesi and La danza."
     },
     {
-      "event": "Knighted by Pope Benedict XIV",
-      "summary": "After delighting the masses with his heavenly tunes, Gluck was honored by Pope Benedict XIV with a knighthood. Suddenly, he wasn't just Johann, he was 'Sir Gluck'! It\u2019s a title that carried a certain dramatic flair\u2014perfect for a composer who thrived on theatrics.",
-      "year": 1756,
-      "city": "Rome",
-      "country": "Italy"
-    },
-    {
-      "event": "First performance of Orfeo ed Euridice",
-      "summary": "Gluck's innovative vision took center stage at the premiere of Orfeo ed Euridice. The audience must have been spellbound, witnessing the birth of something new: an opera that actually cared about the story rather than just shows off vocal gymnastics. Take that, opera seria!",
-      "year": 1762,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Introduction of new operatic reforms",
-      "summary": "With a courageous spirit, Gluck and librettist Calzabigi released a manifesto against the excesses of opera seria. Their call for simpler melodies and focus on drama was like a breath of fresh air, invigorating opera and letting audiences finally breathe again between the arias!",
-      "year": 1767,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Premiere of Iphig\u00e9nie en Aulide",
-      "summary": "The Parisian premiere of Iphig\u00e9nie en Aulide stirred up quite the ruckus\u2014so much so that it could have been mistaken for a rugby match, as the battle lines were drawn between 'Gluckists' and 'Piccinnists'. Gluck didn\u2019t shy away; he turned the controversy into an exhilarating spectacle for the ages!",
-      "year": 1774,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Composer to the imperial court appointment",
-      "summary": "Gluck's talents finally received the royal stamp of approval when he was appointed composer to the imperial court in Vienna. It was like winning the lottery of musical careers\u2014now he could compose for an audience that truly mattered, without needing to bribe anyone with fancy pastries!",
-      "year": 1774,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Gluck's Illness and Return to Vienna",
-      "summary": "In a dramatic twist of fate, Gluck fell dangerously ill while in Narcisse, prompting his swift return to Vienna, a city he clearly enjoyed more than temporary hospital beds. Unfortunately, the opera he was associated with flopped, making its brief 12-performance run a subject of whispered opera house gossip.",
-      "year": 1779,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Collaboration with Salieri",
-      "summary": "Gluck, in a gesture that can only be described as 'passing the baton,' collaborated with his prot\u00e9g\u00e9, Antonio Salieri, on the opera Les Dana\u00efdes. After a spectacular premiere, Gluck slyly revealed that Salieri had done most of the heavy lifting - a classic case of 'you get credit, I get the glory!'",
-      "year": 1784,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "German Version of Iphig\u00e9nie en Tauride",
-      "summary": "Gluck, demonstrating his knack for adaptation, brought out a German version of Iphig\u00e9nie en Tauride, showcasing his ability to cater to local tastes and double-dip into the opera market. Notably, this clever move led to a grand total of 32 performances in one season!",
-      "year": 1781,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Concert by Mozart",
-      "summary": "In a delightful \u2018reunion of musical giants,' Gluck attended a concert where Mozart played his variations on Gluck's own work. It was less of a concert and more of a 'musical family affair,' as composers took a moment to appreciate each other's genius.",
-      "year": 1783,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Gluck's Death",
-      "summary": "During a casual lunch with friends, Gluck suddenly experienced a heart arrhythmia and passed away. One can only imagine the bewilderment at the table as conversations abruptly shifted from lunch dishes to the afterlife, leaving his friends wandering if they should order dessert.",
+      "section": "Life and career",
+      "title": "Death",
+      "summary": "Christoph Willibald Gluck died on 15 November 1787 after suffering a heart arrhythmia. He had been experiencing health issues in the years prior but was still able to play his piano.",
       "year": 1787,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "First Opera Composition",
-      "summary": "At the age when most are busy figuring out the best way to play hide and seek, Gluck penned his first opera, 'Demofoonte'. A brave choice for a debut but hey, who needs practice when you're a prodigy?",
-      "year": 1743,
-      "city": "Milan",
-      "country": "Italy"
-    },
-    {
-      "event": "Reform of Opera",
-      "summary": "With a flourish that was part music and part magic, Gluck introduced his reform of opera, dramatically proclaiming that less is more. His operas featured straightforward plots and music that didn\u2019t require a PhD to appreciate, much to the joy of many audiences who appreciated not needing to take notes!",
-      "year": 1762,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Creation of 'Orfeo ed Euridice'",
-      "summary": "'Orfeo ed Euridice' made waves in the musical community, reinforcing that sometimes heartbreak and a lyre are all you need to create an emotional masterpiece. It was a hit, and Gluck probably felt like the rock star of his time, minus the groupies!",
-      "year": 1762,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Iphig\u00e9nie en Aulide Premiere",
-      "summary": "When Gluck released 'Iphig\u00e9nie en Aulide', opera lovers rejoiced. It was like he threw a lavish party that no one wanted to leave because it was just so melodically infectious. Who knew Greek mythology could sound so good?",
-      "year": 1774,
-      "city": "Paris",
-      "country": "France"
+      "location": "Vienna",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Christoph Willibald Gluck died on 15 November 1787 after suffering a heart arrhythmia. He had been experiencing health issues for years but was still able to play his piano!"
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/Alceste,_Wq.44_(Gluck,_Christoph_Willibald)",
-      "year": 1767,
-      "title": "Alceste, Wq.44"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Alessandro,_Wq.2A.3_(Gluck,_Christoph_Willibald)",
-      "year": 1755,
-      "title": "Alessandro, Wq.2A.3"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Armide,_Wq.45_(Gluck,_Christoph_Willibald)",
-      "year": 1777,
-      "title": "Armide, Wq.45"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Artamene,_Wq.11_(Gluck,_Christoph_Willibald)",
-      "year": 1743,
-      "title": "Artamene, Wq.11"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Le_cadi_dup%C3%A9,_Wq.29_(Gluck,_Christoph_Willibald)",
-      "year": 1761,
-      "title": "Le cadi dup\u00e9, Wq.29"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_caduta_de%27_giganti,_Wq.10_(Gluck,_Christoph_Willibald)",
-      "year": 1745,
-      "title": "La caduta de' giganti, Wq.10"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Le_Cinesi,_Wq.18_(Gluck,_Christoph_Willibald)",
-      "year": 1754,
-      "title": "Le Cinesi, Wq.18"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_clemenza_di_Tito,_Wq.16_(Gluck,_Christoph_Willibald)",
-      "year": 1752,
-      "title": "La clemenza di Tito, Wq.16"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_contesa_dei_numi,_Wq.14_(Gluck,_Christoph_Willibald)",
-      "year": 1749,
-      "title": "La contesa dei numi, Wq.14"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_corona,_Wq.35_(Gluck,_Christoph_Willibald)",
-      "year": 1765,
-      "title": "La corona, Wq.35"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/De_profundis,_Wq.50_(Gluck,_Christoph_Willibald)",
-      "year": 1787,
-      "title": "De profundis, Wq.50"
-    },
-    {
+      "title": "Demofoonte, Wq.3",
       "imslp_url": "https://imslp.org/wiki/Demofoonte,_Wq.3_(Gluck,_Christoph_Willibald)",
-      "year": 1742,
-      "title": "Demofoonte, Wq.3"
+      "year": 1742
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Don_Juan,_Wq.52_(Gluck,_Christoph_Willibald)",
-      "year": 1761,
-      "title": "Don Juan, Wq.52"
+      "title": "Artamene, Wq.11",
+      "imslp_url": "https://imslp.org/wiki/Artamene,_Wq.11_(Gluck,_Christoph_Willibald)",
+      "year": 1743
     },
     {
-      "imslp_url": "https://imslp.org/wiki/%C3%89cho_et_Narcisse,_Wq.47_(Gluck,_Christoph_Willibald)",
-      "year": 1779,
-      "title": "\u00c9cho et Narcisse, Wq.47"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ipermestra,_Wq.7_(Gluck,_Christoph_Willibald)",
-      "year": 1744,
-      "title": "Ipermestra, Wq.7"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Iphig%C3%A9nie_en_Aulide,_Wq.40_(Gluck,_Christoph_Willibald)",
-      "year": 1774,
-      "title": "Iphig\u00e9nie en Aulide, Wq.40"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Iphig%C3%A9nie_en_Tauride,_Wq.46_(Gluck,_Christoph_Willibald)",
-      "year": 1779,
-      "title": "Iphig\u00e9nie en Tauride, Wq.46"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Le_nozze_d%27Ercole_e_d%27Ebe,_Wq.12_(Gluck,_Christoph_Willibald)",
-      "year": 1747,
-      "title": "Le nozze d'Ercole e d'Ebe, Wq.12"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Orfeo_ed_Euridice,_Wq.30_(Gluck,_Christoph_Willibald)",
-      "year": 1762,
-      "title": "Orfeo ed Euridice, Wq.30"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Orph%C3%A9e_et_Eurydice,_Wq.41_(Gluck,_Christoph_Willibald)",
-      "year": 1774,
-      "title": "Orph\u00e9e et Eurydice, Wq.41"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Paride_ed_Elena,_Wq.39_(Gluck,_Christoph_Willibald)",
-      "year": 1770,
-      "title": "Paride ed Elena, Wq.39"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Semiramis,_Wq.Anh.C/1_(Gluck,_Christoph_Willibald)",
-      "year": 1762,
-      "title": "Semiramis, Wq.Anh.C/1"
-    },
-    {
+      "title": "La Sofonisba, Wq.5",
       "imslp_url": "https://imslp.org/wiki/La_Sofonisba,_Wq.5_(Gluck,_Christoph_Willibald)",
-      "year": 1743,
-      "title": "La Sofonisba, Wq.5"
+      "year": 1743
     },
     {
+      "title": "Ipermestra, Wq.7",
+      "imslp_url": "https://imslp.org/wiki/Ipermestra,_Wq.7_(Gluck,_Christoph_Willibald)",
+      "year": 1744
+    },
+    {
+      "title": "La caduta de' giganti, Wq.10",
+      "imslp_url": "https://imslp.org/wiki/La_caduta_de'_giganti,_Wq.10_(Gluck,_Christoph_Willibald)",
+      "year": 1745
+    },
+    {
+      "title": "Le nozze d'Ercole e d'Ebe, Wq.12",
+      "imslp_url": "https://imslp.org/wiki/Le_nozze_d'Ercole_e_d'Ebe,_Wq.12_(Gluck,_Christoph_Willibald)",
+      "year": 1747
+    },
+    {
+      "title": "La contesa dei numi, Wq.14",
+      "imslp_url": "https://imslp.org/wiki/La_contesa_dei_numi,_Wq.14_(Gluck,_Christoph_Willibald)",
+      "year": 1749
+    },
+    {
+      "title": "Telemaco, Wq.34",
       "imslp_url": "https://imslp.org/wiki/Telemaco,_Wq.34_(Gluck,_Christoph_Willibald)",
-      "year": 1749,
-      "title": "Telemaco, Wq.34"
+      "year": 1749
     },
     {
-      "imslp_url": "https://imslp.org/wiki/6_Trio_Sonatas,_Wq.53_(Gluck,_Christoph_Willibald)",
-      "year": 1746,
-      "title": "6 Trio Sonatas, Wq.53"
+      "title": "La clemenza di Tito, Wq.16",
+      "imslp_url": "https://imslp.org/wiki/La_clemenza_di_Tito,_Wq.16_(Gluck,_Christoph_Willibald)",
+      "year": 1752
+    },
+    {
+      "title": "Le Cinesi, Wq.18",
+      "imslp_url": "https://imslp.org/wiki/Le_Cinesi,_Wq.18_(Gluck,_Christoph_Willibald)",
+      "year": 1754
+    },
+    {
+      "title": "Alessandro, Wq.2A.3",
+      "imslp_url": "https://imslp.org/wiki/Alessandro,_Wq.2A.3_(Gluck,_Christoph_Willibald)",
+      "year": 1755
+    },
+    {
+      "title": "Don Juan, Wq.52",
+      "imslp_url": "https://imslp.org/wiki/Don_Juan,_Wq.52_(Gluck,_Christoph_Willibald)",
+      "year": 1761
+    },
+    {
+      "title": "Le cadi dup\u00e9, Wq.29",
+      "imslp_url": "https://imslp.org/wiki/Le_cadi_dup\u00e9,_Wq.29_(Gluck,_Christoph_Willibald)",
+      "year": 1761
+    },
+    {
+      "title": "Orfeo ed Euridice, Wq.30",
+      "imslp_url": "https://imslp.org/wiki/Orfeo_ed_Euridice,_Wq.30_(Gluck,_Christoph_Willibald)",
+      "year": 1762
+    },
+    {
+      "title": "Semiramis, Wq.Anh.C/1",
+      "imslp_url": "https://imslp.org/wiki/Semiramis,_Wq.Anh.C/1_(Gluck,_Christoph_Willibald)",
+      "year": 1762
+    },
+    {
+      "title": "La corona, Wq.35",
+      "imslp_url": "https://imslp.org/wiki/La_corona,_Wq.35_(Gluck,_Christoph_Willibald)",
+      "year": 1765
+    },
+    {
+      "title": "Alceste, Wq.44",
+      "imslp_url": "https://imslp.org/wiki/Alceste,_Wq.44_(Gluck,_Christoph_Willibald)",
+      "year": 1767
+    },
+    {
+      "title": "Paride ed Elena, Wq.39",
+      "imslp_url": "https://imslp.org/wiki/Paride_ed_Elena,_Wq.39_(Gluck,_Christoph_Willibald)",
+      "year": 1770
+    },
+    {
+      "title": "Iphig\u00e9nie en Aulide, Wq.40",
+      "imslp_url": "https://imslp.org/wiki/Iphig\u00e9nie_en_Aulide,_Wq.40_(Gluck,_Christoph_Willibald)",
+      "year": 1774
+    },
+    {
+      "title": "Orph\u00e9e et Eurydice, Wq.41",
+      "imslp_url": "https://imslp.org/wiki/Orph\u00e9e_et_Eurydice,_Wq.41_(Gluck,_Christoph_Willibald)",
+      "year": 1774
+    },
+    {
+      "title": "Armide, Wq.45",
+      "imslp_url": "https://imslp.org/wiki/Armide,_Wq.45_(Gluck,_Christoph_Willibald)",
+      "year": 1777
+    },
+    {
+      "title": "Iphig\u00e9nie en Tauride, Wq.46",
+      "imslp_url": "https://imslp.org/wiki/Iphig\u00e9nie_en_Tauride,_Wq.46_(Gluck,_Christoph_Willibald)",
+      "year": 1779
+    },
+    {
+      "title": "\u00c9cho et Narcisse, Wq.47",
+      "imslp_url": "https://imslp.org/wiki/\u00c9cho_et_Narcisse,_Wq.47_(Gluck,_Christoph_Willibald)",
+      "year": 1779
+    },
+    {
+      "title": "De profundis, Wq.50",
+      "imslp_url": "https://imslp.org/wiki/De_profundis,_Wq.50_(Gluck,_Christoph_Willibald)",
+      "year": 1787
     }
   ]
 }

@@ -1,0 +1,444 @@
+{
+  "full_name": "Arthur Honegger",
+  "first_names": "Arthur",
+  "last_name": "Honegger",
+  "birth_year": 1892,
+  "death_year": 1955,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Arthur_Honegger",
+  "events": [
+    {
+      "section": "Biography",
+      "title": "Birth",
+      "summary": "Arthur Honegger was born Oscar-Arthur Honegger to Swiss parents in Le Havre, France. His first name was never used throughout his life.",
+      "year": 1892,
+      "location": "Le Havre, France",
+      "emoji": "\ud83c\udf82",
+      "fun_version": "Meet Arthur Honegger, a man who was supposedly named Oscar-Arthur Honegger but quickly dropped the Oscar part! Born to Swiss parents in Le Havre, France, Arthur decided that his first name was so last century that it deserved retirement!"
+    },
+    {
+      "section": "Biography",
+      "title": "Compositional Debut",
+      "summary": "Honegger made his Paris compositional debut in 1916, marking the beginning of his significant contributions to music.",
+      "year": 1916,
+      "location": "Paris, France",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "In 1916, Honegger made his Paris compositional debut, marking the beginning of his significant contributions to music \u2013 opting for this over a mime show!"
+    },
+    {
+      "section": "Biography",
+      "title": "Le Roi David",
+      "summary": "Honegger gained fame in the early 1920s with his \"dramatic psalm\" Le Roi David, which remains a significant part of the choral repertoire today.",
+      "year": 1921,
+      "location": "France",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Back in the roaring '20s, Honegger gained fame with his \u2018dramatic psalm\u2019 Le Roi David, which remains a significant part of the choral repertoire today."
+    },
+    {
+      "section": "Biography",
+      "title": "Marriage",
+      "summary": "In 1926, he married Andr\u00e9 Vaurabourg, a pianist and fellow student at the Paris Conservatoire, on the condition that they live in separate apartments to allow him solitude for composing.",
+      "year": 1926,
+      "location": "Paris, France",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "In 1926, he married Andr\u00e9 Vaurabourg, a pianist known for her piano skills and for being his fellow student at the Paris Conservatoire\u2014though it came with a quirky clause: they agreed to live in separate apartments! Apparently, the secret to a happy marriage was giving him enough solitude to compose his convoluted symphonies."
+    },
+    {
+      "section": "Biography",
+      "title": "Music for Napol\u00e9on",
+      "summary": "He composed the music for Abel Gance's 1927 film, Napol\u00e9on, enhancing his reputation in the film industry and beyond.",
+      "year": 1927,
+      "location": "France",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "The guy who whipped up the tunes for Abel Gance's silent film 'Napol\u00e9on' in 1927 must have been a maestro, because after that, everyone in the film industry started calling him for a 'note-worthy' collaboration! This masterpiece enhanced his reputation in the film industry and beyond."
+    },
+    {
+      "section": "Legacy",
+      "title": "Recording of Rugby",
+      "summary": "Honegger's symphonic movement Rugby was recorded with him conducting the Paris Symphony Orchestra in 1929 as part of an electrical recording.",
+      "year": 1929,
+      "location": "Paris",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Honegger's symphonic movement 'Rugby' was recorded in 1929 with him conducting the Paris Symphony Orchestra, and it's hard to believe they didn't get into a musical mess while trying to play at the same time! It's quite astonishing how they managed not to step on each other\u2019s toes while making history with this electrical recording!"
+    },
+    {
+      "section": "Biography",
+      "title": "Joining French Resistance",
+      "summary": "Honegger joined the French Resistance during World War II, standing against the Nazi regime while continuing his compositional work.",
+      "year": 1939,
+      "location": "Paris, France",
+      "emoji": "\u270a",
+      "fun_version": "Honegger joined the French Resistance during World War II, resisting the Nazis while composing symphonies as if he were Beethoven in a spy movie."
+    },
+    {
+      "section": "Biography",
+      "title": "Death",
+      "summary": "Arthur Honegger passed away at home due to a heart attack on 27 November 1955, after a prolonged illness.",
+      "year": 1955,
+      "location": "Paris, France",
+      "emoji": "\u26b0\ufe0f",
+      "fun_version": "Arthur Honegger, a composer who managed to orchestrate a heart attack at home on the 'unlucky' 27th of November, 1955, after taking an extended vacation in the realm of illness. He left us after a prolonged illness."
+    }
+  ],
+  "works": [
+    {
+      "title": "4 Po\u00e8mes, H.7",
+      "imslp_url": "https://imslp.org/wiki/4_Po\u00e8mes,_H.7_(Honegger,_Arthur)",
+      "year": 1914
+    },
+    {
+      "title": "3 Pieces, H.23",
+      "imslp_url": "https://imslp.org/wiki/3_Pieces,_H.23_(Honegger,_Arthur)",
+      "year": 1915
+    },
+    {
+      "title": "3 Po\u00e8mes de Paul Fort, H.9",
+      "imslp_url": "https://imslp.org/wiki/3_Po\u00e8mes_de_Paul_Fort,_H.9_(Honegger,_Arthur)",
+      "year": 1916
+    },
+    {
+      "title": "6 Po\u00e8mes d'Apollinaire, H.12",
+      "imslp_url": "https://imslp.org/wiki/6_Po\u00e8mes_d'Apollinaire,_H.12_(Honegger,_Arthur)",
+      "year": 1916
+    },
+    {
+      "title": "Toccata et variations, H.8",
+      "imslp_url": "https://imslp.org/wiki/Toccata_et_variations,_H.8_(Honegger,_Arthur)",
+      "year": 1916
+    },
+    {
+      "title": "Violin Sonata No.1, H.17",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.1,_H.17_(Honegger,_Arthur)",
+      "year": 1916
+    },
+    {
+      "title": "Fugue et choral, H.14",
+      "imslp_url": "https://imslp.org/wiki/Fugue_et_choral,_H.14_(Honegger,_Arthur)",
+      "year": 1917
+    },
+    {
+      "title": "Le chant de Nigamon, H.16",
+      "imslp_url": "https://imslp.org/wiki/Le_chant_de_Nigamon,_H.16_(Honegger,_Arthur)",
+      "year": 1917
+    },
+    {
+      "title": "String Quartet No.1, H.15",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1,_H.15_(Honegger,_Arthur)",
+      "year": 1917
+    },
+    {
+      "title": "Cantique de P\u00e2ques, H.18",
+      "imslp_url": "https://imslp.org/wiki/Cantique_de_P\u00e2ques,_H.18_(Honegger,_Arthur)",
+      "year": 1918
+    },
+    {
+      "title": "Le dit des jeux du monde, H.19",
+      "imslp_url": "https://imslp.org/wiki/Le_dit_des_jeux_du_monde,_H.19_(Honegger,_Arthur)",
+      "year": 1918
+    },
+    {
+      "title": "7 Pi\u00e8ces br\u00e8ves, H.25",
+      "imslp_url": "https://imslp.org/wiki/7_Pi\u00e8ces_br\u00e8ves,_H.25_(Honegger,_Arthur)",
+      "year": 1919
+    },
+    {
+      "title": "Violin Sonata No.2, H.24",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.2,_H.24_(Honegger,_Arthur)",
+      "year": 1919
+    },
+    {
+      "title": "6 Po\u00e9sies de Jean Cocteau, H.51",
+      "imslp_url": "https://imslp.org/wiki/6_Po\u00e9sies_de_Jean_Cocteau,_H.51_(Honegger,_Arthur)",
+      "year": 1920
+    },
+    {
+      "title": "Cello Sonata, H.32",
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata,_H.32_(Honegger,_Arthur)",
+      "year": 1920
+    },
+    {
+      "title": "Horace victorieux, H.38",
+      "imslp_url": "https://imslp.org/wiki/Horace_victorieux,_H.38_(Honegger,_Arthur)",
+      "year": 1920
+    },
+    {
+      "title": "Pastorale d'\u00e9t\u00e9, H.31",
+      "imslp_url": "https://imslp.org/wiki/Pastorale_d'\u00e9t\u00e9,_H.31_(Honegger,_Arthur)",
+      "year": 1920
+    },
+    {
+      "title": "P\u00e2ques \u00e0 New York, H.30",
+      "imslp_url": "https://imslp.org/wiki/P\u00e2ques_\u00e0_New_York,_H.30_(Honegger,_Arthur)",
+      "year": 1920
+    },
+    {
+      "title": "Sarabande for 'L'album des Six', H.26",
+      "imslp_url": "https://imslp.org/wiki/Sarabande_for_'L'album_des_Six',_H.26_(Honegger,_Arthur)",
+      "year": 1920
+    },
+    {
+      "title": "Sonatine for 2 Violins, H.29",
+      "imslp_url": "https://imslp.org/wiki/Sonatine_for_2_Violins,_H.29_(Honegger,_Arthur)",
+      "year": 1920
+    },
+    {
+      "title": "Viola Sonata, H.28",
+      "imslp_url": "https://imslp.org/wiki/Viola_Sonata,_H.28_(Honegger,_Arthur)",
+      "year": 1920
+    },
+    {
+      "title": "Danse de la ch\u00e8vre, H.39",
+      "imslp_url": "https://imslp.org/wiki/Danse_de_la_ch\u00e8vre,_H.39_(Honegger,_Arthur)",
+      "year": 1921
+    },
+    {
+      "title": "Le cahier romand, H.52",
+      "imslp_url": "https://imslp.org/wiki/Le_cahier_romand,_H.52_(Honegger,_Arthur)",
+      "year": 1921
+    },
+    {
+      "title": "Le roi David, H.37",
+      "imslp_url": "https://imslp.org/wiki/Le_roi_David,_H.37_(Honegger,_Arthur)",
+      "year": 1921
+    },
+    {
+      "title": "Sonatine for Clarinet and Piano, H.42",
+      "imslp_url": "https://imslp.org/wiki/Sonatine_for_Clarinet_and_Piano,_H.42_(Honegger,_Arthur)",
+      "year": 1921
+    },
+    {
+      "title": "3 Contrepoints, H.43",
+      "imslp_url": "https://imslp.org/wiki/3_Contrepoints,_H.43_(Honegger,_Arthur)",
+      "year": 1922
+    },
+    {
+      "title": "Chant de joie, H.47",
+      "imslp_url": "https://imslp.org/wiki/Chant_de_joie,_H.47_(Honegger,_Arthur)",
+      "year": 1923
+    },
+    {
+      "title": "La temp\u00eate, H.48",
+      "imslp_url": "https://imslp.org/wiki/La_temp\u00eate,_H.48_(Honegger,_Arthur)",
+      "year": 1923
+    },
+    {
+      "title": "Pacific 231, H.53",
+      "imslp_url": "https://imslp.org/wiki/Pacific_231,_H.53_(Honegger,_Arthur)",
+      "year": 1923
+    },
+    {
+      "title": "Rapsodie, H.13",
+      "imslp_url": "https://imslp.org/wiki/Rapsodie,_H.13_(Honegger,_Arthur)",
+      "year": 1923
+    },
+    {
+      "title": "Antigone, H.65",
+      "imslp_url": "https://imslp.org/wiki/Antigone,_H.65_(Honegger,_Arthur)",
+      "year": 1924
+    },
+    {
+      "title": "Chanson de Ronsard, H.54",
+      "imslp_url": "https://imslp.org/wiki/Chanson_de_Ronsard,_H.54_(Honegger,_Arthur)",
+      "year": 1924
+    },
+    {
+      "title": "Concertino for Piano and Orchestra, H.55",
+      "imslp_url": "https://imslp.org/wiki/Concertino_for_Piano_and_Orchestra,_H.55_(Honegger,_Arthur)",
+      "year": 1924
+    },
+    {
+      "title": "Judith (opera), H.57b",
+      "imslp_url": "https://imslp.org/wiki/Judith_(opera),_H.57b_(Honegger,_Arthur)",
+      "year": 1925
+    },
+    {
+      "title": "L'imp\u00e9ratrice aux rochers, H.60",
+      "imslp_url": "https://imslp.org/wiki/L'imp\u00e9ratrice_aux_rochers,_H.60_(Honegger,_Arthur)",
+      "year": 1925
+    },
+    {
+      "title": "3 Chansons de 'La petite sir\u00e8ne', H.63",
+      "imslp_url": "https://imslp.org/wiki/3_Chansons_de_'La_petite_sir\u00e8ne',_H.63_(Honegger,_Arthur)",
+      "year": 1926
+    },
+    {
+      "title": "Hommage \u00e0 Albert Roussel, H.69",
+      "imslp_url": "https://imslp.org/wiki/Hommage_\u00e0_Albert_Roussel,_H.69_(Honegger,_Arthur)",
+      "year": 1928
+    },
+    {
+      "title": "Rugby, H.67",
+      "imslp_url": "https://imslp.org/wiki/Rugby,_H.67_(Honegger,_Arthur)",
+      "year": 1928
+    },
+    {
+      "title": "Cello Concerto, H.72",
+      "imslp_url": "https://imslp.org/wiki/Cello_Concerto,_H.72_(Honegger,_Arthur)",
+      "year": 1929
+    },
+    {
+      "title": "Les aventures du roi Pausole, H.76",
+      "imslp_url": "https://imslp.org/wiki/Les_aventures_du_roi_Pausole,_H.76_(Honegger,_Arthur)",
+      "year": 1929
+    },
+    {
+      "title": "Symphony No.1, H.75",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.1,_H.75_(Honegger,_Arthur)",
+      "year": 1929
+    },
+    {
+      "title": "Cris du monde, H.77",
+      "imslp_url": "https://imslp.org/wiki/Cris_du_monde,_H.77_(Honegger,_Arthur)",
+      "year": 1931
+    },
+    {
+      "title": "Mouvement symphonique No.3, H.83",
+      "imslp_url": "https://imslp.org/wiki/Mouvement_symphonique_No.3,_H.83_(Honegger,_Arthur)",
+      "year": 1932
+    },
+    {
+      "title": "Pr\u00e9lude, arioso et fughette sur le nom de BACH, H.81",
+      "imslp_url": "https://imslp.org/wiki/Pr\u00e9lude,_arioso_et_fughette_sur_le_nom_de_BACH,_H.81_(Honegger,_Arthur)",
+      "year": 1932
+    },
+    {
+      "title": "Sonatine for Violin and Cello, H.80",
+      "imslp_url": "https://imslp.org/wiki/Sonatine_for_Violin_and_Cello,_H.80_(Honegger,_Arthur)",
+      "year": 1932
+    },
+    {
+      "title": "Les Mis\u00e9rables, H.88a",
+      "imslp_url": "https://imslp.org/wiki/Les_Mis\u00e9rables,_H.88a_(Honegger,_Arthur)",
+      "year": 1934
+    },
+    {
+      "title": "String Quartet No.2, H.103",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2,_H.103_(Honegger,_Arthur)",
+      "year": 1934
+    },
+    {
+      "title": "Jeanne d'Arc au b\u00fbcher, H.99",
+      "imslp_url": "https://imslp.org/wiki/Jeanne_d'Arc_au_b\u00fbcher,_H.99_(Honegger,_Arthur)",
+      "year": 1935
+    },
+    {
+      "title": "Nocturne, H.102",
+      "imslp_url": "https://imslp.org/wiki/Nocturne,_H.102_(Honegger,_Arthur)",
+      "year": 1936
+    },
+    {
+      "title": "String Quartet No.3, H.114",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.3,_H.114_(Honegger,_Arthur)",
+      "year": 1936
+    },
+    {
+      "title": "2 Chansons de 'La construction d'une cit\u00e9', H.119a",
+      "imslp_url": "https://imslp.org/wiki/2_Chansons_de_'La_construction_d'une_cit\u00e9',_H.119a_(Honegger,_Arthur)",
+      "year": 1937
+    },
+    {
+      "title": "Scenic Railway, H.115",
+      "imslp_url": "https://imslp.org/wiki/Scenic_Railway,_H.115_(Honegger,_Arthur)",
+      "year": 1937
+    },
+    {
+      "title": "La danse des morts, H.131",
+      "imslp_url": "https://imslp.org/wiki/La_danse_des_morts,_H.131_(Honegger,_Arthur)",
+      "year": 1938
+    },
+    {
+      "title": "3 Po\u00e8mes de Claudel, H.138",
+      "imslp_url": "https://imslp.org/wiki/3_Po\u00e8mes_de_Claudel,_H.138_(Honegger,_Arthur)",
+      "year": 1939
+    },
+    {
+      "title": "3 Psalms, H.144",
+      "imslp_url": "https://imslp.org/wiki/3_Psalms,_H.144_(Honegger,_Arthur)",
+      "year": 1940
+    },
+    {
+      "title": "4 Chansons pour voix grave, H.184",
+      "imslp_url": "https://imslp.org/wiki/4_Chansons_pour_voix_grave,_H.184_(Honegger,_Arthur)",
+      "year": 1940
+    },
+    {
+      "title": "Sonata for Solo Violin, H.143",
+      "imslp_url": "https://imslp.org/wiki/Sonata_for_Solo_Violin,_H.143_(Honegger,_Arthur)",
+      "year": 1940
+    },
+    {
+      "title": "Symphony No.2, H.153",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.2,_H.153_(Honegger,_Arthur)",
+      "year": 1940
+    },
+    {
+      "title": "Une cantate de No\u00ebl, H.212",
+      "imslp_url": "https://imslp.org/wiki/Une_cantate_de_No\u00ebl,_H.212_(Honegger,_Arthur)",
+      "year": 1940
+    },
+    {
+      "title": "Petit cours de morale, H.148",
+      "imslp_url": "https://imslp.org/wiki/Petit_cours_de_morale,_H.148_(Honegger,_Arthur)",
+      "year": 1941
+    },
+    {
+      "title": "2 Esquisses, H.173",
+      "imslp_url": "https://imslp.org/wiki/2_Esquisses,_H.173_(Honegger,_Arthur)",
+      "year": 1943
+    },
+    {
+      "title": "3 Pi\u00e8ces de 'Un ami viendra ce soir', H.183a",
+      "imslp_url": "https://imslp.org/wiki/3_Pi\u00e8ces_de_'Un_ami_viendra_ce_soir',_H.183a_(Honegger,_Arthur)",
+      "year": 1945
+    },
+    {
+      "title": "Symphony No.3, H.186",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.3,_H.186_(Honegger,_Arthur)",
+      "year": 1945
+    },
+    {
+      "title": "Mimaamaquim, H.192",
+      "imslp_url": "https://imslp.org/wiki/Mimaamaquim,_H.192_(Honegger,_Arthur)",
+      "year": 1946
+    },
+    {
+      "title": "Symphony No.4, H.191",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.4,_H.191_(Honegger,_Arthur)",
+      "year": 1946
+    },
+    {
+      "title": "Intrada, H.193",
+      "imslp_url": "https://imslp.org/wiki/Intrada,_H.193_(Honegger,_Arthur)",
+      "year": 1947
+    },
+    {
+      "title": "Concerto da camera, H.196",
+      "imslp_url": "https://imslp.org/wiki/Concerto_da_camera,_H.196_(Honegger,_Arthur)",
+      "year": 1948
+    },
+    {
+      "title": "Pr\u00e9lude, fugue et postlude, H.71a",
+      "imslp_url": "https://imslp.org/wiki/Pr\u00e9lude,_fugue_et_postlude,_H.71a_(Honegger,_Arthur)",
+      "year": 1948
+    },
+    {
+      "title": "Suite archa\u00efque, H.203",
+      "imslp_url": "https://imslp.org/wiki/Suite_archa\u00efque,_H.203_(Honegger,_Arthur)",
+      "year": 1950
+    },
+    {
+      "title": "Symphony No.5, H.202",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.5,_H.202_(Honegger,_Arthur)",
+      "year": 1950
+    },
+    {
+      "title": "Monopartita, H.204",
+      "imslp_url": "https://imslp.org/wiki/Monopartita,_H.204_(Honegger,_Arthur)",
+      "year": 1951
+    },
+    {
+      "title": "Romance, H.211",
+      "imslp_url": "https://imslp.org/wiki/Romance,_H.211_(Honegger,_Arthur)",
+      "year": 1952
+    }
+  ]
+}

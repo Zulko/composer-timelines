@@ -1,0 +1,1364 @@
+{
+  "full_name": "Carl Philipp Emanuel Bach",
+  "first_names": "Carl Philipp Emanuel",
+  "last_name": "Bach",
+  "birth_year": 1714,
+  "death_year": 1788,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach",
+  "events": [
+    {
+      "section": "Life",
+      "title": "Birth",
+      "summary": "C. P. E. Bach was born in Weimar to a prominent musical family, being the fifth child of Johann Sebastian Bach. His early environment was heavily influenced by music, with his father serving as a key figure in his education.",
+      "year": 1714,
+      "location": "Weimar",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "C. P. E. Bach was born in Weimar to a prominent musical family, so posh that even the cat had a violin! Being the fifth child of Johann Sebastian Bach, there was no shortage of jamming sessions. His early environment was heavily influenced by music, and with a father who was a maestro, little C. P. E. probably thought music was as essential as brushing his teeth!"
+    },
+    {
+      "section": "Life",
+      "title": "Education at St. Thomas School",
+      "summary": "At the age of ten, Bach entered St. Thomas School in Leipzig, where he began to receive a formal education in music, further shaped by his father's role as cantor there.",
+      "year": 1724,
+      "location": "Leipzig",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Bach at ten was not just another kid at St. Thomas School; he was the tiny maestro in training, receiving a formal education in music! His dad, the cantor there, was probably thinking, \"If I'm going to be stuck with this kid, he better play something catchy!\""
+    },
+    {
+      "section": "Life",
+      "title": "Appointment in Berlin",
+      "summary": "Shortly after graduation, Bach was appointed to the service of Crown Prince Frederick of Prussia, marking the beginning of his influential years in Berlin.",
+      "year": 1738,
+      "location": "Berlin",
+      "emoji": "\ud83c\udf93",
+      "fun_version": "Right after his grand finale at the graduation ceremony, Bach landed a gig with Crown Prince Frederick of Prussia. I mean, who wouldn\u2019t want a ruler who can also appreciate a good symphony? It was the beginning of his influential years and big-time popularity in the big, bustling Berlin!"
+    },
+    {
+      "section": "Life",
+      "title": "Degree in Jurisprudence",
+      "summary": "Bach pursued studies in jurisprudence and graduated with a degree, although he would not practice law and instead devoted himself to music.",
+      "year": 1738,
+      "location": "",
+      "emoji": "\ud83c\udf93",
+      "fun_version": "Bach pursued studies in jurisprudence and graduated with a degree, but instead of practicing law, he humorously traded his legal briefs for musical sheets. Who needs courtroom drama when you can have a symphony of strings, right?"
+    },
+    {
+      "section": "Life",
+      "title": "Promoted to Chamber Musician",
+      "summary": "In 1746, Bach was promoted to the position of chamber musician, which allowed him to collaborate with other prominent musicians of his time.",
+      "year": 1746,
+      "location": "Berlin",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1746, Bach finally got a promotion to chamber musician, allowing him to collaborate with other prominent musicians of his time. But let\u2019s be honest \u2013 he was just tired of playing hide and seek with them! Who knew collaborating could be so much fun?"
+    },
+    {
+      "section": "Life",
+      "title": "Success at Hamburg",
+      "summary": "After moving to Hamburg, Bach began producing significant ecclesiastical music, including the oratorio 'Die Israeliten in der W\u00fcste,' showcasing his growing influence.",
+      "year": 1769,
+      "location": "Hamburg",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Bach didn't just move to Hamburg; he practically packed his bags and said, \"I'm off to compose music so good, it might just have the angels dancing!\" Between writing tunes, he\u2019s putting the \u201cfun\u201d in \"funeral oratorio\" with his significant piece 'Die Israeliten in der W\u00fcste,' showcasing his growing influence and the impact of his move on his ecclesiastical music."
+    },
+    {
+      "section": "Life",
+      "title": "Publication of Treatise",
+      "summary": "Bach published a seminal treatise on keyboard techniques, establishing himself at the forefront of European music and laying the groundwork for future musicians.",
+      "year": 1780,
+      "location": "",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Bach published a seminal treatise on keyboard techniques, establishing himself as the rockstar of European music and laying the groundwork for future musicians\u2014talk about setting the bar high!"
+    },
+    {
+      "section": "Life",
+      "title": "Death",
+      "summary": "Emanuel Bach passed away, leaving behind a rich legacy of music that had a lasting impact on future composers.",
+      "year": 1788,
+      "location": "Hamburg",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Emanuel Bach shuffled off this mortal coil, leaving behind a musical treasure chest that future composers will pick through like kids in a candy store, and his melodies will ensure that he\u2019s not forgotten anytime soon!"
+    }
+  ],
+  "works": [
+    {
+      "title": "4 Pieces for Anna Magdalena Bach, H.1",
+      "imslp_url": "https://imslp.org/wiki/4_Pieces_for_Anna_Magdalena_Bach,_H.1_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1725
+    },
+    {
+      "title": "March in E-flat major, H deest",
+      "imslp_url": "https://imslp.org/wiki/March_in_E-flat_major,_H_deest_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1725
+    },
+    {
+      "title": "Flute Sonata in E-flat major, H.545",
+      "imslp_url": "https://imslp.org/wiki/Flute_Sonata_in_E-flat_major,_H.545_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1730
+    },
+    {
+      "title": "Keyboard Sonata in B-flat major, H.2",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_B-flat_major,_H.2_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1731
+    },
+    {
+      "title": "Trio Sonata in A major, H.570",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_A_major,_H.570_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1731
+    },
+    {
+      "title": "Trio Sonata in B minor, H.567",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_B_minor,_H.567_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1731
+    },
+    {
+      "title": "Trio Sonata in C major, H.571",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_C_major,_H.571_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1731
+    },
+    {
+      "title": "Trio Sonata in D minor, H.569",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_D_minor,_H.569_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1731
+    },
+    {
+      "title": "Violin Sonata in D minor",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_in_D_minor_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1731
+    },
+    {
+      "title": "Violin Sonata in D minor, H.503",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_in_D_minor,_H.503_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1731
+    },
+    {
+      "title": "Harpsichord Concerto in A minor, H.403",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_A_minor,_H.403_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1733
+    },
+    {
+      "title": "Harpsichord Concerto in E-flat major, H.404",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_E-flat_major,_H.404_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1734
+    },
+    {
+      "title": "Violin Sonata in G minor, H.542.5",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_in_G_minor,_H.542.5_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1734
+    },
+    {
+      "title": "Flute Sonata in G major, H.550",
+      "imslp_url": "https://imslp.org/wiki/Flute_Sonata_in_G_major,_H.550_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1735
+    },
+    {
+      "title": "Oboe Sonata in G minor, H.549",
+      "imslp_url": "https://imslp.org/wiki/Oboe_Sonata_in_G_minor,_H.549_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1735
+    },
+    {
+      "title": "Trio Sonata in A minor, H.572",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_A_minor,_H.572_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1735
+    },
+    {
+      "title": "Keyboard Sonata in G major, H.15",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_G_major,_H.15_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1736
+    },
+    {
+      "title": "Flute Sonata in E minor, H.551",
+      "imslp_url": "https://imslp.org/wiki/Flute_Sonata_in_E_minor,_H.551_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1737
+    },
+    {
+      "title": "Harpsichord Concerto in G major, H.405",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_G_major,_H.405_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1737
+    },
+    {
+      "title": "Keyboard Sonata in C major, H.17",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_C_major,_H.17_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1737
+    },
+    {
+      "title": "Flute Sonata in B-flat major, H.552",
+      "imslp_url": "https://imslp.org/wiki/Flute_Sonata_in_B-flat_major,_H.552_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1738
+    },
+    {
+      "title": "Harpsichord Concerto in C minor, H.407",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_C_minor,_H.407_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1739
+    },
+    {
+      "title": "Keyboard Sonata in G minor, H.21",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_G_minor,_H.21_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1739
+    },
+    {
+      "title": "Concerto for 2 Harpsichords in F major, H.408",
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_2_Harpsichords_in_F_major,_H.408_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1740
+    },
+    {
+      "title": "Flute Sonata in A minor, H.555",
+      "imslp_url": "https://imslp.org/wiki/Flute_Sonata_in_A_minor,_H.555_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1740
+    },
+    {
+      "title": "Harpsichord Concerto in A major, H.410",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_A_major,_H.410_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1740
+    },
+    {
+      "title": "Harpsichord Concerto in G minor, H.409",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_G_minor,_H.409_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1740
+    },
+    {
+      "title": "Harpsichord Sonata in B-flat major, H.25",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Sonata_in_B-flat_major,_H.25_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1740
+    },
+    {
+      "title": "Keyboard Sonata in G major, H.23",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_G_major,_H.23_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1740
+    },
+    {
+      "title": "Harpsichord Concerto in A major, H.411",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_A_major,_H.411_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1741
+    },
+    {
+      "title": "Symphony in G major, H.648",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_G_major,_H.648_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1741
+    },
+    {
+      "title": "Harpsichord Concerto in G major, H.412",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_G_major,_H.412_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1742
+    },
+    {
+      "title": "Harpsichord Concerto in D major, H.414",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_D_major,_H.414_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1743
+    },
+    {
+      "title": "Keyboard Sonata in B minor, H.32.5",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_B_minor,_H.32.5_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1743
+    },
+    {
+      "title": "Harpsichord Concerto in E major, H.417",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_E_major,_H.417_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1744
+    },
+    {
+      "title": "Harpsichord Concerto in F major, H.415",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_F_major,_H.415_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1744
+    },
+    {
+      "title": "Keyboard Sonata in C major, H.41",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_C_major,_H.41_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1744
+    },
+    {
+      "title": "Keyboard Sonata in D major, H.42",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_D_major,_H.42_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1744
+    },
+    {
+      "title": "Keyboard Sonata in D minor, H.38",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_D_minor,_H.38_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1744
+    },
+    {
+      "title": "Keyboard Sonata in E major, H.39",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_E_major,_H.39_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1744
+    },
+    {
+      "title": "Keyboard Sonata in F minor, H.40",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_F_minor,_H.40_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1744
+    },
+    {
+      "title": "Harpsichord Concerto in D major, H.421",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_D_major,_H.421_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1745
+    },
+    {
+      "title": "Harpsichord Concerto in D minor, H.420",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_D_minor,_H.420_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1745
+    },
+    {
+      "title": "Harpsichord Concerto in E minor, H.418",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_E_minor,_H.418_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1745
+    },
+    {
+      "title": "Menuet con 5 Variazioni, H.44",
+      "imslp_url": "https://imslp.org/wiki/Menuet_con_5_Variazioni,_H.44_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1745
+    },
+    {
+      "title": "Trio Sonata in C major, H.573",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_C_major,_H.573_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1745
+    },
+    {
+      "title": "Harpsichord Concerto in A major, H.422",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_A_major,_H.422_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1746
+    },
+    {
+      "title": "Harpsichord Concerto in C major, H.423",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_C_major,_H.423_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1746
+    },
+    {
+      "title": "Keyboard Sonata in G minor, H.47",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_G_minor,_H.47_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1746
+    },
+    {
+      "title": "Viola da Gamba Sonata in D major, H.559",
+      "imslp_url": "https://imslp.org/wiki/Viola_da_Gamba_Sonata_in_D_major,_H.559_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1746
+    },
+    {
+      "title": "Flute Sonata in A minor, H.562",
+      "imslp_url": "https://imslp.org/wiki/Flute_Sonata_in_A_minor,_H.562_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1747
+    },
+    {
+      "title": "Flute Sonata in D major, H.561",
+      "imslp_url": "https://imslp.org/wiki/Flute_Sonata_in_D_major,_H.561_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1747
+    },
+    {
+      "title": "Harpsichord Concerto in D minor, H.425",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_D_minor,_H.425_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1747
+    },
+    {
+      "title": "Keyboard Sonata in B-flat major, H.51",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_B-flat_major,_H.51_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1747
+    },
+    {
+      "title": "Keyboard Sonata in D minor, H.53",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_D_minor,_H.53_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1747
+    },
+    {
+      "title": "Keyboard Sonata in F major, H.52",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_F_major,_H.52_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1747
+    },
+    {
+      "title": "Trio Sonata in D major, H.575",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_D_major,_H.575_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1747
+    },
+    {
+      "title": "Trio Sonata in E minor, H.577",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_E_minor,_H.577_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1747
+    },
+    {
+      "title": "Trio Sonata in F major, H.576",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_F_major,_H.576_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1747
+    },
+    {
+      "title": "Trio Sonata in G major, H.574",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_G_major,_H.574_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1747
+    },
+    {
+      "title": "Duet for Flute and Violin, H.598",
+      "imslp_url": "https://imslp.org/wiki/Duet_for_Flute_and_Violin,_H.598_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1748
+    },
+    {
+      "title": "Harpsichord Concerto in D minor, H.427",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_D_minor,_H.427_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1748
+    },
+    {
+      "title": "Keyboard Sonata in F major, H.55",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_F_major,_H.55_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1748
+    },
+    {
+      "title": "Trio Sonata in B-flat major, H.578",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_B-flat_major,_H.578_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1748
+    },
+    {
+      "title": "Flute Sonata in E major, H.506",
+      "imslp_url": "https://imslp.org/wiki/Flute_Sonata_in_E_major,_H.506_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1749
+    },
+    {
+      "title": "Harpsichord Concerto in B-flat major, H.429",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_B-flat_major,_H.429_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1749
+    },
+    {
+      "title": "Keyboard Sonata in A minor, H.61",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_A_minor,_H.61_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1749
+    },
+    {
+      "title": "Keyboard Sonata in C major, H.59",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_C_major,_H.59_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1749
+    },
+    {
+      "title": "Keyboard Sonata in D minor, H.60",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_D_minor,_H.60_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1749
+    },
+    {
+      "title": "Keyboard Sonata in F major, H.58",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_F_major,_H.58_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1749
+    },
+    {
+      "title": "Magnificat in D major, H.772",
+      "imslp_url": "https://imslp.org/wiki/Magnificat_in_D_major,_H.772_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1749
+    },
+    {
+      "title": "Trio Sonata in C minor, H.579",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_C_minor,_H.579_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1749
+    },
+    {
+      "title": "Cello Concerto in A minor, H.432",
+      "imslp_url": "https://imslp.org/wiki/Cello_Concerto_in_A_minor,_H.432_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1750
+    },
+    {
+      "title": "Harpsichord Concerto in A minor, H.430",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_A_minor,_H.430_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1750
+    },
+    {
+      "title": "Harpsichord Concerto in D major, H.433",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_D_major,_H.433_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1750
+    },
+    {
+      "title": "Cello Concerto in B-flat major, H.436",
+      "imslp_url": "https://imslp.org/wiki/Cello_Concerto_in_B-flat_major,_H.436_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1751
+    },
+    {
+      "title": "Keyboard Sonata in E minor, H.66",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_E_minor,_H.66_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1751
+    },
+    {
+      "title": "Cello Concerto in A major, H.439",
+      "imslp_url": "https://imslp.org/wiki/Cello_Concerto_in_A_major,_H.439_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1753
+    },
+    {
+      "title": "Flute Concerto in A major, H.438",
+      "imslp_url": "https://imslp.org/wiki/Flute_Concerto_in_A_major,_H.438_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1753
+    },
+    {
+      "title": "Harpsichord Concerto in B minor, H.440",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_B_minor,_H.440_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1753
+    },
+    {
+      "title": "Harpsichord Concerto in C minor, H.441",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_C_minor,_H.441_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1753
+    },
+    {
+      "title": "Fantasia and Fugue in C minor, H.75.5",
+      "imslp_url": "https://imslp.org/wiki/Fantasia_and_Fugue_in_C_minor,_H.75.5_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1754
+    },
+    {
+      "title": "Harpsichord Concerto in G minor, H.442",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_G_minor,_H.442_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1754
+    },
+    {
+      "title": "Keyboard Sonata in E-flat major, H.78",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_E-flat_major,_H.78_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1754
+    },
+    {
+      "title": "La Boehmer, H.81",
+      "imslp_url": "https://imslp.org/wiki/La_Boehmer,_H.81_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1754
+    },
+    {
+      "title": "Trio Sonata in B-flat major, H.584",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_B-flat_major,_H.584_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1754
+    },
+    {
+      "title": "Trio Sonata in G major, H.583",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_G_major,_H.583_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1754
+    },
+    {
+      "title": "Flute Concerto in G major, H.445",
+      "imslp_url": "https://imslp.org/wiki/Flute_Concerto_in_G_major,_H.445_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1755
+    },
+    {
+      "title": "Fugue in D minor, H.99",
+      "imslp_url": "https://imslp.org/wiki/Fugue_in_D_minor,_H.99_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1755
+    },
+    {
+      "title": "Fugue in E-flat major, H.102",
+      "imslp_url": "https://imslp.org/wiki/Fugue_in_E-flat_major,_H.102_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1755
+    },
+    {
+      "title": "Fugue in F major, H.100",
+      "imslp_url": "https://imslp.org/wiki/Fugue_in_F_major,_H.100_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1755
+    },
+    {
+      "title": "Fugue in G minor, H.101.5",
+      "imslp_url": "https://imslp.org/wiki/Fugue_in_G_minor,_H.101.5_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1755
+    },
+    {
+      "title": "Harpsichord Concerto in F major, H.443",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_F_major,_H.443_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1755
+    },
+    {
+      "title": "Keyboard Concerto in G major, H.444",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Concerto_in_G_major,_H.444_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1755
+    },
+    {
+      "title": "Keyboard Sonata in E major, H.83",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_E_major,_H.83_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1755
+    },
+    {
+      "title": "Symphony in C major, H.649",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_C_major,_H.649_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1755
+    },
+    {
+      "title": "Symphony in D major, H.651",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_D_major,_H.651_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1755
+    },
+    {
+      "title": "Trio Sonata in B-flat major, H.587",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_B-flat_major,_H.587_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1755
+    },
+    {
+      "title": "Trio Sonata in F major, H.588",
+      "imslp_url": "https://imslp.org/wiki/Trio_Sonata_in_F_major,_H.588_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1755
+    },
+    {
+      "title": "Keyboard Sonata in D minor, H.105",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_D_minor,_H.105_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1756
+    },
+    {
+      "title": "La Bergius, H.90",
+      "imslp_url": "https://imslp.org/wiki/La_Bergius,_H.90_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1756
+    },
+    {
+      "title": "La Borchward, H.79",
+      "imslp_url": "https://imslp.org/wiki/La_Borchward,_H.79_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1756
+    },
+    {
+      "title": "La Complaisante, H.109",
+      "imslp_url": "https://imslp.org/wiki/La_Complaisante,_H.109_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1756
+    },
+    {
+      "title": "La Gleim, H.89",
+      "imslp_url": "https://imslp.org/wiki/La_Gleim,_H.89_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1756
+    },
+    {
+      "title": "La Pott, H.80",
+      "imslp_url": "https://imslp.org/wiki/La_Pott,_H.80_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1756
+    },
+    {
+      "title": "La Prinzette, H.91",
+      "imslp_url": "https://imslp.org/wiki/La_Prinzette,_H.91_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1756
+    },
+    {
+      "title": "Les langueurs tendres, H.110",
+      "imslp_url": "https://imslp.org/wiki/Les_langueurs_tendres,_H.110_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1756
+    },
+    {
+      "title": "Preludio per organo in D major, H.107",
+      "imslp_url": "https://imslp.org/wiki/Preludio_per_organo_in_D_major,_H.107_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1756
+    },
+    {
+      "title": "Symphony in E minor, H.653",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_E_minor,_H.653_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1756
+    },
+    {
+      "title": "Fugue in A major, H.101",
+      "imslp_url": "https://imslp.org/wiki/Fugue_in_A_major,_H.101_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1757
+    },
+    {
+      "title": "Keyboard Sonata in B-flat major, H.116",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_B-flat_major,_H.116_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1757
+    },
+    {
+      "title": "Keyboard Sonata in C minor, H.121",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_C_minor,_H.121_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1757
+    },
+    {
+      "title": "Keyboard Sonata in E major, H.117",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_E_major,_H.117_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1757
+    },
+    {
+      "title": "Keyboard Sonata in G major, H.119",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_G_major,_H.119_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1757
+    },
+    {
+      "title": "Keyboard Sonata in G minor, H.118",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_G_minor,_H.118_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1757
+    },
+    {
+      "title": "L'Auguste, H.122",
+      "imslp_url": "https://imslp.org/wiki/L'Auguste,_H.122_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1757
+    },
+    {
+      "title": "La X\u00e9nophone et La Sybille, H.123",
+      "imslp_url": "https://imslp.org/wiki/La_X\u00e9nophone_et_La_Sybille,_H.123_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1757
+    },
+    {
+      "title": "Keyboard Sonata in A major, H.133",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_A_major,_H.133_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1758
+    },
+    {
+      "title": "Keyboard Sonata in A minor, H.131",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_A_minor,_H.131_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1758
+    },
+    {
+      "title": "Keyboard Sonata in B minor, H.132",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_B_minor,_H.132_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1758
+    },
+    {
+      "title": "Keyboard Sonata in D minor, H.128",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_D_minor,_H.128_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1758
+    },
+    {
+      "title": "Keyboard Sonata in F major, H.130",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_F_major,_H.130_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1758
+    },
+    {
+      "title": "Viola da Gamba Sonata in G minor, H.510",
+      "imslp_url": "https://imslp.org/wiki/Viola_da_Gamba_Sonata_in_G_minor,_H.510_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1759
+    },
+    {
+      "title": "La Capricieuse, H.113",
+      "imslp_url": "https://imslp.org/wiki/La_Capricieuse,_H.113_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1760
+    },
+    {
+      "title": "L'Ernestine, H.124",
+      "imslp_url": "https://imslp.org/wiki/L'Ernestine,_H.124_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1761
+    },
+    {
+      "title": "L'Irr\u00e9solue, H.111",
+      "imslp_url": "https://imslp.org/wiki/L'Irr\u00e9solue,_H.111_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1761
+    },
+    {
+      "title": "La Caroline, H.98",
+      "imslp_url": "https://imslp.org/wiki/La_Caroline,_H.98_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1761
+    },
+    {
+      "title": "La Gabriel, H.97",
+      "imslp_url": "https://imslp.org/wiki/La_Gabriel,_H.97_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1761
+    },
+    {
+      "title": "La Journali\u00e8re, H.112",
+      "imslp_url": "https://imslp.org/wiki/La_Journali\u00e8re,_H.112_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1761
+    },
+    {
+      "title": "La Louise, H.114",
+      "imslp_url": "https://imslp.org/wiki/La_Louise,_H.114_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1761
+    },
+    {
+      "title": "La Philippine, H.96",
+      "imslp_url": "https://imslp.org/wiki/La_Philippine,_H.96_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1761
+    },
+    {
+      "title": "Variations on 'Ich schlief da tr\u00e4umte mir', H.69",
+      "imslp_url": "https://imslp.org/wiki/Variations_on_'Ich_schlief_da_tr\u00e4umte_mir',_H.69_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1761
+    },
+    {
+      "title": "Harp Sonata in G major, H.563",
+      "imslp_url": "https://imslp.org/wiki/Harp_Sonata_in_G_major,_H.563_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1762
+    },
+    {
+      "title": "Harpsichord Concerto in B-flat major, H.447",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_B-flat_major,_H.447_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1762
+    },
+    {
+      "title": "Harpsichord Concerto in C minor, H.448",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_C_minor,_H.448_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1762
+    },
+    {
+      "title": "L'Aly Rupalich, H.95",
+      "imslp_url": "https://imslp.org/wiki/L'Aly_Rupalich,_H.95_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1762
+    },
+    {
+      "title": "Minuet in A major, H.169",
+      "imslp_url": "https://imslp.org/wiki/Minuet_in_A_major,_H.169_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1762
+    },
+    {
+      "title": "Sonatina in D major, H.449",
+      "imslp_url": "https://imslp.org/wiki/Sonatina_in_D_major,_H.449_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1762
+    },
+    {
+      "title": "Harpsichord Concerto in F major, H.454",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_F_major,_H.454_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1763
+    },
+    {
+      "title": "Keyboard Sonata in A major, H.174",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_A_major,_H.174_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1763
+    },
+    {
+      "title": "Keyboard Sonata in D major, H.177",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_D_major,_H.177_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1763
+    },
+    {
+      "title": "Keyboard Sonata in E minor, H.176",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_E_minor,_H.176_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1763
+    },
+    {
+      "title": "Keyboard Sonata in F major, H.136",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_F_major,_H.136_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1763
+    },
+    {
+      "title": "Keyboard Sonata in F minor, H.173",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_F_minor,_H.173_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1763
+    },
+    {
+      "title": "Minuet in E-flat Major, H.171",
+      "imslp_url": "https://imslp.org/wiki/Minuet_in_E-flat_Major,_H.171_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1763
+    },
+    {
+      "title": "Sonatina in B-flat major, H.459",
+      "imslp_url": "https://imslp.org/wiki/Sonatina_in_B-flat_major,_H.459_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1763
+    },
+    {
+      "title": "Sonatina in C major, H.460",
+      "imslp_url": "https://imslp.org/wiki/Sonatina_in_C_major,_H.460_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1763
+    },
+    {
+      "title": "Violin Sonata in B minor, H.512",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_in_B_minor,_H.512_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1763
+    },
+    {
+      "title": "Violin Sonata in B-flat major, H.513",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_in_B-flat_major,_H.513_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1763
+    },
+    {
+      "title": "Violin Sonata in C minor, H.514",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_in_C_minor,_H.514_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1763
+    },
+    {
+      "title": "Violin Sonata in F major, H.511",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_in_F_major,_H.511_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1763
+    },
+    {
+      "title": "Sonatina in C major, H.458",
+      "imslp_url": "https://imslp.org/wiki/Sonatina_in_C_major,_H.458_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1764
+    },
+    {
+      "title": "Sonatina in D minor, H.461",
+      "imslp_url": "https://imslp.org/wiki/Sonatina_in_D_minor,_H.461_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1764
+    },
+    {
+      "title": "Sonatina in E-flat major, H.462",
+      "imslp_url": "https://imslp.org/wiki/Sonatina_in_E-flat_major,_H.462_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1764
+    },
+    {
+      "title": "Keyboard Sonata in A major, H.186",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_A_major,_H.186_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1765
+    },
+    {
+      "title": "Keyboard Sonata in G major, H.187",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_G_major,_H.187_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1765
+    },
+    {
+      "title": "Oboe Concerto in B-flat major, H.466",
+      "imslp_url": "https://imslp.org/wiki/Oboe_Concerto_in_B-flat_major,_H.466_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1765
+    },
+    {
+      "title": "Oboe Concerto in E-flat major, H.468",
+      "imslp_url": "https://imslp.org/wiki/Oboe_Concerto_in_E-flat_major,_H.468_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1765
+    },
+    {
+      "title": "Der Wirt und die G\u00e4ste, H.699",
+      "imslp_url": "https://imslp.org/wiki/Der_Wirt_und_die_G\u00e4ste,_H.699_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1766
+    },
+    {
+      "title": "Flute Sonata in C major, H.515",
+      "imslp_url": "https://imslp.org/wiki/Flute_Sonata_in_C_major,_H.515_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1766
+    },
+    {
+      "title": "Keyboard Sonata in B-flat major, H.211",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_B-flat_major,_H.211_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1766
+    },
+    {
+      "title": "Keyboard Sonata in C minor, H.209",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_C_minor,_H.209_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1766
+    },
+    {
+      "title": "Keyboard Sonata in D minor, H.208",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_D_minor,_H.208_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1766
+    },
+    {
+      "title": "Keyboard Sonata in E major, H.213",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_E_major,_H.213_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1766
+    },
+    {
+      "title": "Keyboard Sonata in G minor, H.210",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_G_minor,_H.210_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1766
+    },
+    {
+      "title": "Solfeggio in A major, H.222",
+      "imslp_url": "https://imslp.org/wiki/Solfeggio_in_A_major,_H.222_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1766
+    },
+    {
+      "title": "Solfeggio in C minor, H.220",
+      "imslp_url": "https://imslp.org/wiki/Solfeggio_in_C_minor,_H.220_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1766
+    },
+    {
+      "title": "Solfeggio in E-flat major, H.221",
+      "imslp_url": "https://imslp.org/wiki/Solfeggio_in_E-flat_major,_H.221_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1766
+    },
+    {
+      "title": "Die Israeliten in der W\u00fcste, H.775",
+      "imslp_url": "https://imslp.org/wiki/Die_Israeliten_in_der_W\u00fcste,_H.775_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1768
+    },
+    {
+      "title": "Matth\u00e4us-Passion, H.782",
+      "imslp_url": "https://imslp.org/wiki/Matth\u00e4us-Passion,_H.782_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1768
+    },
+    {
+      "title": "Presto in C minor, H.230",
+      "imslp_url": "https://imslp.org/wiki/Presto_in_C_minor,_H.230_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1768
+    },
+    {
+      "title": "Die letzten Leiden des Erl\u00f6sers, H.776",
+      "imslp_url": "https://imslp.org/wiki/Die_letzten_Leiden_des_Erl\u00f6sers,_H.776_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1769
+    },
+    {
+      "title": "Harpsichord Concerto in E-flat major, H.469",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_E-flat_major,_H.469_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1769
+    },
+    {
+      "title": "Markus-Passion, H.783",
+      "imslp_url": "https://imslp.org/wiki/Markus-Passion,_H.783_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1769
+    },
+    {
+      "title": "Alla polacca in D major, H.217",
+      "imslp_url": "https://imslp.org/wiki/Alla_polacca_in_D_major,_H.217_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1770
+    },
+    {
+      "title": "Clavierst\u00fcck f\u00fcr die rechte oder linke Hand allein, H.241",
+      "imslp_url": "https://imslp.org/wiki/Clavierst\u00fcck_f\u00fcr_die_rechte_oder_linke_Hand_allein,_H.241_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1770
+    },
+    {
+      "title": "Fantasia in D minor, H.224",
+      "imslp_url": "https://imslp.org/wiki/Fantasia_in_D_minor,_H.224_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1770
+    },
+    {
+      "title": "Fantasia in G minor, H.225",
+      "imslp_url": "https://imslp.org/wiki/Fantasia_in_G_minor,_H.225_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1770
+    },
+    {
+      "title": "Harpsichord Concerto in F major, H.470",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_F_major,_H.470_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1770
+    },
+    {
+      "title": "Keyboard Sonata in F major, H.240",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_F_major,_H.240_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1770
+    },
+    {
+      "title": "Menuet in C major, H.216",
+      "imslp_url": "https://imslp.org/wiki/Menuet_in_C_major,_H.216_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1770
+    },
+    {
+      "title": "Menuet in F major, H.218",
+      "imslp_url": "https://imslp.org/wiki/Menuet_in_F_major,_H.218_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1770
+    },
+    {
+      "title": "Harpsichord Concerto in C major, H.476",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_C_major,_H.476_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1771
+    },
+    {
+      "title": "Harpsichord Concerto in C minor, H.474",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_C_minor,_H.474_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1771
+    },
+    {
+      "title": "Harpsichord Concerto in D major, H.472",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_D_major,_H.472_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1771
+    },
+    {
+      "title": "Harpsichord Concerto in E-flat major, H.473",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_E-flat_major,_H.473_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1771
+    },
+    {
+      "title": "Harpsichord Concerto in F major, H.471",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_F_major,_H.471_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1771
+    },
+    {
+      "title": "Harpsichord Concerto in G major, H.475",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_G_major,_H.475_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1771
+    },
+    {
+      "title": "Johannes-Passion, H.785",
+      "imslp_url": "https://imslp.org/wiki/Johannes-Passion,_H.785_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1771
+    },
+    {
+      "title": "Lukas-Passion, H.784",
+      "imslp_url": "https://imslp.org/wiki/Lukas-Passion,_H.784_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1771
+    },
+    {
+      "title": "Keyboard Sonata in F major, H.243",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_F_major,_H.243_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1772
+    },
+    {
+      "title": "Matth\u00e4us-Passion, H.786",
+      "imslp_url": "https://imslp.org/wiki/Matth\u00e4us-Passion,_H.786_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1772
+    },
+    {
+      "title": "Keyboard Sonata in C major, H.244",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_C_major,_H.244_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1773
+    },
+    {
+      "title": "Markus-Passion, H.787",
+      "imslp_url": "https://imslp.org/wiki/Markus-Passion,_H.787_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1773
+    },
+    {
+      "title": "Symphony in A major, H.660",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_A_major,_H.660_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1773
+    },
+    {
+      "title": "Symphony in B minor, H.661",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_B_minor,_H.661_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1773
+    },
+    {
+      "title": "Symphony in B-flat major, H.658",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_B-flat_major,_H.658_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1773
+    },
+    {
+      "title": "Symphony in C major, H.659",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_C_major,_H.659_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1773
+    },
+    {
+      "title": "Symphony in E major, H.662",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_E_major,_H.662_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1773
+    },
+    {
+      "title": "Symphony in G major, H.657",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_G_major,_H.657_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1773
+    },
+    {
+      "title": "Vaterlandslied, H.731",
+      "imslp_url": "https://imslp.org/wiki/Vaterlandslied,_H.731_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1773
+    },
+    {
+      "title": "Die Auferstehung und Himmelfahrt Jesu, H.777",
+      "imslp_url": "https://imslp.org/wiki/Die_Auferstehung_und_Himmelfahrt_Jesu,_H.777_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1774
+    },
+    {
+      "title": "Keyboard Sonata in A minor, H.247",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_A_minor,_H.247_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1774
+    },
+    {
+      "title": "Keyboard Sonata in B minor, H.245",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_B_minor,_H.245_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1774
+    },
+    {
+      "title": "Keyboard Sonata in G major, H.246",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_G_major,_H.246_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1774
+    },
+    {
+      "title": "Johannes-Passion, H. 789",
+      "imslp_url": "https://imslp.org/wiki/Johannes-Passion,_H._789_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1775
+    },
+    {
+      "title": "Keyboard Trio in A minor, H.522",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Trio_in_A_minor,_H.522_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1775
+    },
+    {
+      "title": "Keyboard Trio in C major, H.524",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Trio_in_C_major,_H.524_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1775
+    },
+    {
+      "title": "Keyboard Trio in G major, H.523",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Trio_in_G_major,_H.523_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1775
+    },
+    {
+      "title": "Symphony in D major, H.663",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_D_major,_H.663_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1775
+    },
+    {
+      "title": "Symphony in E-flat major, H.664",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_E-flat_major,_H.664_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1775
+    },
+    {
+      "title": "Symphony in F major, H.665",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_F_major,_H.665_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1775
+    },
+    {
+      "title": "Heilig, H.778",
+      "imslp_url": "https://imslp.org/wiki/Heilig,_H.778_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1776
+    },
+    {
+      "title": "Keyboard Trio in A major, H.527",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Trio_in_A_major,_H.527_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1776
+    },
+    {
+      "title": "Keyboard Trio in B-flat major, H.525",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Trio_in_B-flat_major,_H.525_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1776
+    },
+    {
+      "title": "Keyboard Trio in C major, H.526",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Trio_in_C_major,_H.526_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1776
+    },
+    {
+      "title": "Keyboard Trio in D major, H.530",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Trio_in_D_major,_H.530_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1776
+    },
+    {
+      "title": "Keyboard Trio in E minor, H.529",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Trio_in_E_minor,_H.529_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1776
+    },
+    {
+      "title": "Keyboard Trio in E-flat major, H.528",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Trio_in_E-flat_major,_H.528_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1776
+    },
+    {
+      "title": "Matth\u00e4us-Passion, H.790",
+      "imslp_url": "https://imslp.org/wiki/Matth\u00e4us-Passion,_H.790_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1776
+    },
+    {
+      "title": "Symphony in G major, H.666",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_G_major,_H.666_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1776
+    },
+    {
+      "title": "Keyboard Trio in C major, H.534",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Trio_in_C_major,_H.534_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1777
+    },
+    {
+      "title": "Keyboard Trio in D major, H.532",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Trio_in_D_major,_H.532_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1777
+    },
+    {
+      "title": "Keyboard Trio in E minor, H.531",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Trio_in_E_minor,_H.531_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1777
+    },
+    {
+      "title": "Keyboard Trio in F major, H.533",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Trio_in_F_major,_H.533_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1777
+    },
+    {
+      "title": "Markus-Passion, H.791",
+      "imslp_url": "https://imslp.org/wiki/Markus-Passion,_H.791_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1777
+    },
+    {
+      "title": "12 Variations \u00fcber die Folie d'Espagne, H.263",
+      "imslp_url": "https://imslp.org/wiki/12_Variations_\u00fcber_die_Folie_d'Espagne,_H.263_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1778
+    },
+    {
+      "title": "Harpsichord Concerto in D major, H.478",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_D_major,_H.478_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1778
+    },
+    {
+      "title": "Harpsichord Concerto in G major, H.477",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_G_major,_H.477_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1778
+    },
+    {
+      "title": "Rondo in A minor, H.262",
+      "imslp_url": "https://imslp.org/wiki/Rondo_in_A_minor,_H.262_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1778
+    },
+    {
+      "title": "Rondo in C major, H.260",
+      "imslp_url": "https://imslp.org/wiki/Rondo_in_C_major,_H.260_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1778
+    },
+    {
+      "title": "Rondo in D major, H.261",
+      "imslp_url": "https://imslp.org/wiki/Rondo_in_D_major,_H.261_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1778
+    },
+    {
+      "title": "Rondo in E major, H.265",
+      "imslp_url": "https://imslp.org/wiki/Rondo_in_E_major,_H.265_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1779
+    },
+    {
+      "title": "Rondo in F major, H.266",
+      "imslp_url": "https://imslp.org/wiki/Rondo_in_F_major,_H.266_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1779
+    },
+    {
+      "title": "Keyboard Sonata in A major, H.270",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_A_major,_H.270_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1780
+    },
+    {
+      "title": "Keyboard Sonata in F major, H.269",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_F_major,_H.269_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1780
+    },
+    {
+      "title": "Keyboard Sonata in G major",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_G_major_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1780
+    },
+    {
+      "title": "Rondo in G major, H.271",
+      "imslp_url": "https://imslp.org/wiki/Rondo_in_G_major,_H.271_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1780
+    },
+    {
+      "title": "6 Variations on a Canzonette, H.275",
+      "imslp_url": "https://imslp.org/wiki/6_Variations_on_a_Canzonette,_H.275_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1781
+    },
+    {
+      "title": "Abschied von meinem Silbermannischen Claviere in einem Rondo, H.272",
+      "imslp_url": "https://imslp.org/wiki/Abschied_von_meinem_Silbermannischen_Claviere_in_einem_Rondo,_H.272_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1781
+    },
+    {
+      "title": "Fantasia in C major, H.284",
+      "imslp_url": "https://imslp.org/wiki/Fantasia_in_C_major,_H.284_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1784
+    },
+    {
+      "title": "Keyboard Sonata in B-flat major, H.282",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_B-flat_major,_H.282_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1784
+    },
+    {
+      "title": "Keyboard Sonata in E minor, H.281",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_E_minor,_H.281_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1784
+    },
+    {
+      "title": "Morgengesang am Sch\u00f6pfungsfeste, H.779",
+      "imslp_url": "https://imslp.org/wiki/Morgengesang_am_Sch\u00f6pfungsfeste,_H.779_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1784
+    },
+    {
+      "title": "Keyboard Sonata in E minor, H.287",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_E_minor,_H.287_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1785
+    },
+    {
+      "title": "Fantasia in C major, H.291",
+      "imslp_url": "https://imslp.org/wiki/Fantasia_in_C_major,_H.291_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1786
+    },
+    {
+      "title": "Flute Sonata in G major, H.564",
+      "imslp_url": "https://imslp.org/wiki/Flute_Sonata_in_G_major,_H.564_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1786
+    },
+    {
+      "title": "Rondo in E-flat major, H.288",
+      "imslp_url": "https://imslp.org/wiki/Rondo_in_E-flat_major,_H.288_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1786
+    },
+    {
+      "title": "Fantasia in F-sharp minor, H.300",
+      "imslp_url": "https://imslp.org/wiki/Fantasia_in_F-sharp_minor,_H.300_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1787
+    },
+    {
+      "title": "Fantasia in F-sharp minor, H.536",
+      "imslp_url": "https://imslp.org/wiki/Fantasia_in_F-sharp_minor,_H.536_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1787
+    },
+    {
+      "title": "Keyboard Sonata in D major, H.286",
+      "imslp_url": "https://imslp.org/wiki/Keyboard_Sonata_in_D_major,_H.286_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1787
+    },
+    {
+      "title": "Lukas-Passion, H.800",
+      "imslp_url": "https://imslp.org/wiki/Lukas-Passion,_H.800_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1787
+    },
+    {
+      "title": "Concerto for Harpsichord and Fortepiano in E-flat major, H.479",
+      "imslp_url": "https://imslp.org/wiki/Concerto_for_Harpsichord_and_Fortepiano_in_E-flat_major,_H.479_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1788
+    },
+    {
+      "title": "Flute Quartet in A minor, H.537",
+      "imslp_url": "https://imslp.org/wiki/Flute_Quartet_in_A_minor,_H.537_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1788
+    },
+    {
+      "title": "Matth\u00e4us-Passion, H.802",
+      "imslp_url": "https://imslp.org/wiki/Matth\u00e4us-Passion,_H.802_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1788
+    },
+    {
+      "title": "Quartet in D major, H.538",
+      "imslp_url": "https://imslp.org/wiki/Quartet_in_D_major,_H.538_(Bach,_Carl_Philipp_Emanuel)",
+      "year": 1788
+    }
+  ]
+}

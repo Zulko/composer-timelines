@@ -1,0 +1,827 @@
+{
+  "full_name": "Anton Bruckner",
+  "first_names": "Josef Anton",
+  "last_name": "Bruckner",
+  "birth_year": 1824,
+  "death_year": 1896,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Anton_Bruckner",
+  "events": [
+    {
+      "section": "Life and career",
+      "title": "Birth of Anton Bruckner",
+      "summary": "Anton Bruckner was born in Ansfelden, Austria. His family had a history of being farmers and craftsmen, and his father was a schoolmaster. Bruckner showed an early dedication to music and began learning the organ as a child.",
+      "year": 1824,
+      "location": "Ansfelden, Austria",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Anton Bruckner was born in Ansfelden, Austria. His family was a mix of farmers and craftsmen\u2014quite the multitasking crew! His dad was a schoolmaster, giving him an early start in music. Bruckner showed an early dedication to music and began learning the organ as a child. Who knew that hammers and farming would lead to such beautiful harmonies?"
+    },
+    {
+      "section": "Life and career",
+      "title": "Early Education",
+      "summary": "At the age of six, Bruckner began school and proved to be a diligent student, eventually helping his father in teaching. He moved to Horsching to continue his education after his confirmation and refined his skills as an organist.",
+      "year": 1833,
+      "location": "H\u00f6rsching, Austria",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "At age six, Bruckner's school adventures began\u2014not with crayons and finger paints, but with the seriousness of being a mini teacher! After his big confirmation party, he decided to move to Horsching to continue his education. Who needs a diploma when you have refined organ skills and a knack for sorting out his father's homework?"
+    },
+    {
+      "section": "Life and career",
+      "title": "Death of Bruckner's Father",
+      "summary": "Anton Bruckner's father passed away when Bruckner was just 13 years old. This led him to be sent to the Augustinian monastery in Sankt Florian to become a choirboy, where he also received organ lessons.",
+      "year": 1837,
+      "location": "Sankt Florian, Austria",
+      "emoji": "\ud83d\ude22",
+      "fun_version": "At the tender age of 13, Anton Bruckner became a choirboy at the Augustinian monastery in Sankt Florian. You see, when your dad checks out early from life, the next best thing is to find solace in choir music. He also received organ lessons there to play his own tunes!"
+    },
+    {
+      "section": "Life and career",
+      "title": "Assistant Teacher Position",
+      "summary": "After completing his teacher's seminar, Bruckner was appointed as an assistant teacher in Windhaag, a position that was challenging due to poor living conditions and treatment from his superior.",
+      "year": 1841,
+      "location": "Windhaag, Austria",
+      "emoji": "\ud83e\uddd1\u200d\ud83c\udfeb",
+      "fun_version": "Bruckner finished his teacher's seminar and got a shiny new job as an assistant teacher in Windhaag! It sounds fancy, right? But hold on! The living conditions were so bad that even the rats were sending in their resignation letters, and he was struggling with poor treatment from his superior."
+    },
+    {
+      "section": "Life and career",
+      "title": "Return to Sankt Florian",
+      "summary": "Anton Bruckner returned to Sankt Florian, where he worked as a teacher and an organist for the next decade, improving his education and teaching at a local village school with a rich musical repertoire.",
+      "year": 1845,
+      "location": "Sankt Florian, Austria",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Anton Bruckner returned to Sankt Florian, where he donned his teacher hat and organist cape\u2014yes, it was a fashion statement! For the next decade, he worked diligently as both a teacher and an organist, transforming the local village school into a symphonic playground rich with musical repertoire. Who knew teaching could be a cacophony of musical genius and hilarious detours?"
+    },
+    {
+      "section": "Life and career",
+      "title": "Study with Simon Sechter",
+      "summary": "Bruckner began studying music theory and counterpoint under the renowned theorist Simon Sechter, which would have a profound impact on his future compositions and teaching approach.",
+      "year": 1855,
+      "location": "Vienna, Austria",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Bruckner began his musical journey under the wing of Simon Sechter, a theorist so renowned that his strategies inspired symphonies! His teachings in music theory and counterpoint had such an impactful effect on Bruckner that you could say he took notes in the coolest way possible\u2014like an ancient bard in a rock concert!"
+    },
+    {
+      "section": "Life and career",
+      "title": "Teaching at the Vienna Conservatory",
+      "summary": "After the death of Simon Sechter, Bruckner accepted a post at the Vienna Conservatory where he focused on music theory while writing several symphonies that faced critical challenges.",
+      "year": 1868,
+      "location": "Vienna, Austria",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "After the death of Simon Sechter, Bruckner accepted a post at the Vienna Conservatory where he focused on music theory while writing several symphonies."
+    },
+    {
+      "section": "Life and career",
+      "title": "Decorated by the Emperor",
+      "summary": "Emperor Franz Joseph decorated Bruckner with the Order of Franz Joseph, recognizing his contributions to music.",
+      "year": 1886,
+      "location": "Vienna, Austria",
+      "emoji": "\ud83c\udf96\ufe0f",
+      "fun_version": "Emperor Franz Joseph honored Bruckner with the Order of Franz Joseph, because who doesn\u2019t love a little bling for making tunes? It's like giving a medal to a pasta chef for inventing spaghetti \u2013 both make life a lot more delightful!"
+    },
+    {
+      "section": "Life and career",
+      "title": "Retirement from University",
+      "summary": "Bruckner likely retired from his teaching position at the University of Vienna, having made significant contributions to music education and composition.",
+      "year": 1892,
+      "location": "Vienna, Austria",
+      "emoji": "\ud83c\udf93",
+      "fun_version": "Bruckner probably hung up his teaching hat at the University of Vienna, having made significant contributions to music education and composing more music than a caffeinated walrus in a symphony orchestra! He made such a splash in music education that even the textbooks are taking extended coffee breaks!"
+    },
+    {
+      "section": "Life and career",
+      "title": "Death of Anton Bruckner",
+      "summary": "Anton Bruckner passed away in Vienna at the age of 72. He had a deep fascination with death and had specified his burial arrangements.",
+      "year": 1896,
+      "location": "Vienna, Austria",
+      "emoji": "\u26b0\ufe0f",
+      "fun_version": "Anton Bruckner kicked the bucket in Vienna at the age of 72. He had such a deep fascination with death that he even arranged all his burial details ahead of time. Apparently, he planned his eternal nap in style!"
+    }
+  ],
+  "works": [
+    {
+      "title": "Pange, lingua, gloriosi Corporis mysterium, WAB 31",
+      "imslp_url": "https://imslp.org/wiki/Pange,_lingua,_gloriosi_Corporis_mysterium,_WAB_31_(Bruckner,_Anton)",
+      "year": 1835
+    },
+    {
+      "title": "3 Preludes for Organ, WAB 127",
+      "imslp_url": "https://imslp.org/wiki/3_Preludes_for_Organ,_WAB_127_(Bruckner,_Anton)",
+      "year": 1836
+    },
+    {
+      "title": "4 Preludes for Organ, WAB 128",
+      "imslp_url": "https://imslp.org/wiki/4_Preludes_for_Organ,_WAB_128_(Bruckner,_Anton)",
+      "year": 1836
+    },
+    {
+      "title": "Windhaager Messe, WAB 25",
+      "imslp_url": "https://imslp.org/wiki/Windhaager_Messe,_WAB_25_(Bruckner,_Anton)",
+      "year": 1842
+    },
+    {
+      "title": "2 Asperges me, WAB 3",
+      "imslp_url": "https://imslp.org/wiki/2_Asperges_me,_WAB_3_(Bruckner,_Anton)",
+      "year": 1843
+    },
+    {
+      "title": "An dem Feste, WAB 59a",
+      "imslp_url": "https://imslp.org/wiki/An_dem_Feste,_WAB_59a_(Bruckner,_Anton)",
+      "year": 1843
+    },
+    {
+      "title": "Asperges me, WAB 4",
+      "imslp_url": "https://imslp.org/wiki/Asperges_me,_WAB_4_(Bruckner,_Anton)",
+      "year": 1843
+    },
+    {
+      "title": "Kronstorfer Messe, WAB 146",
+      "imslp_url": "https://imslp.org/wiki/Kronstorfer_Messe,_WAB_146_(Bruckner,_Anton)",
+      "year": 1843
+    },
+    {
+      "title": "Libera me, WAB 21",
+      "imslp_url": "https://imslp.org/wiki/Libera_me,_WAB_21_(Bruckner,_Anton)",
+      "year": 1843
+    },
+    {
+      "title": "Messe f\u00fcr den Gr\u00fcndonnerstag, WAB 9",
+      "imslp_url": "https://imslp.org/wiki/Messe_f\u00fcr_den_Gr\u00fcndonnerstag,_WAB_9_(Bruckner,_Anton)",
+      "year": 1844
+    },
+    {
+      "title": "Das Lied vom deutschen Vaterland, WAB 78",
+      "imslp_url": "https://imslp.org/wiki/Das_Lied_vom_deutschen_Vaterland,_WAB_78_(Bruckner,_Anton)",
+      "year": 1845
+    },
+    {
+      "title": "Des Dankes Wort sei mir verg\u00f6nnt, WAB 62",
+      "imslp_url": "https://imslp.org/wiki/Des_Dankes_Wort_sei_mir_verg\u00f6nnt,_WAB_62_(Bruckner,_Anton)",
+      "year": 1845
+    },
+    {
+      "title": "Dir, Herr, dir will ich mich ergeben, WAB 12",
+      "imslp_url": "https://imslp.org/wiki/Dir,_Herr,_dir_will_ich_mich_ergeben,_WAB_12_(Bruckner,_Anton)",
+      "year": 1845
+    },
+    {
+      "title": "Herz-Jesu-Lied, WAB 144",
+      "imslp_url": "https://imslp.org/wiki/Herz-Jesu-Lied,_WAB_144_(Bruckner,_Anton)",
+      "year": 1845
+    },
+    {
+      "title": "Mild wie B\u00e4che, die durch Blumen wallen, WAB 138",
+      "imslp_url": "https://imslp.org/wiki/Mild_wie_B\u00e4che,_die_durch_Blumen_wallen,_WAB_138_(Bruckner,_Anton)",
+      "year": 1845
+    },
+    {
+      "title": "Missa pro Quadragesima, WAB 140",
+      "imslp_url": "https://imslp.org/wiki/Missa_pro_Quadragesima,_WAB_140_(Bruckner,_Anton)",
+      "year": 1845
+    },
+    {
+      "title": "O du liebes Jesu Kind, WAB 145",
+      "imslp_url": "https://imslp.org/wiki/O_du_liebes_Jesu_Kind,_WAB_145_(Bruckner,_Anton)",
+      "year": 1845
+    },
+    {
+      "title": "Tantum ergo, WAB 32",
+      "imslp_url": "https://imslp.org/wiki/Tantum_ergo,_WAB_32_(Bruckner,_Anton)",
+      "year": 1845
+    },
+    {
+      "title": "Tantum ergo, WAB 43",
+      "imslp_url": "https://imslp.org/wiki/Tantum_ergo,_WAB_43_(Bruckner,_Anton)",
+      "year": 1845
+    },
+    {
+      "title": "Vergissmeinnicht, WAB 93",
+      "imslp_url": "https://imslp.org/wiki/Vergissmeinnicht,_WAB_93_(Bruckner,_Anton)",
+      "year": 1845
+    },
+    {
+      "title": "Wie des B\u00e4chleins Silberquelle, WAB 84.1/137",
+      "imslp_url": "https://imslp.org/wiki/Wie_des_B\u00e4chleins_Silberquelle,_WAB_84.1/137_(Bruckner,_Anton)",
+      "year": 1845
+    },
+    {
+      "title": "4 Tantum ergo, WAB 41",
+      "imslp_url": "https://imslp.org/wiki/4_Tantum_ergo,_WAB_41_(Bruckner,_Anton)",
+      "year": 1846
+    },
+    {
+      "title": "Mass in E-flat major, WAB 139",
+      "imslp_url": "https://imslp.org/wiki/Mass_in_E-flat_major,_WAB_139_(Bruckner,_Anton)",
+      "year": 1846
+    },
+    {
+      "title": "Pr\u00e9lude in D minor, WAB 126/2",
+      "imslp_url": "https://imslp.org/wiki/Pr\u00e9lude_in_D_minor,_WAB_126/2_(Bruckner,_Anton)",
+      "year": 1846
+    },
+    {
+      "title": "St\u00e4ndchen, WAB 84.2",
+      "imslp_url": "https://imslp.org/wiki/St\u00e4ndchen,_WAB_84.2_(Bruckner,_Anton)",
+      "year": 1846
+    },
+    {
+      "title": "Tantum ergo, WAB 42",
+      "imslp_url": "https://imslp.org/wiki/Tantum_ergo,_WAB_42_(Bruckner,_Anton)",
+      "year": 1846
+    },
+    {
+      "title": "Aequale, WAB 114",
+      "imslp_url": "https://imslp.org/wiki/Aequale,_WAB_114_(Bruckner,_Anton)",
+      "year": 1847
+    },
+    {
+      "title": "Aequale, WAB 149",
+      "imslp_url": "https://imslp.org/wiki/Aequale,_WAB_149_(Bruckner,_Anton)",
+      "year": 1847
+    },
+    {
+      "title": "Der Lehrerstand, WAB 77",
+      "imslp_url": "https://imslp.org/wiki/Der_Lehrerstand,_WAB_77_(Bruckner,_Anton)",
+      "year": 1847
+    },
+    {
+      "title": "Vorspiel und Fuge, WAB 131",
+      "imslp_url": "https://imslp.org/wiki/Vorspiel_und_Fuge,_WAB_131_(Bruckner,_Anton)",
+      "year": 1847
+    },
+    {
+      "title": "In jener letzten der N\u00e4chte, WAB 17",
+      "imslp_url": "https://imslp.org/wiki/In_jener_letzten_der_N\u00e4chte,_WAB_17_(Bruckner,_Anton)",
+      "year": 1848
+    },
+    {
+      "title": "Requiem, WAB 39",
+      "imslp_url": "https://imslp.org/wiki/Requiem,_WAB_39_(Bruckner,_Anton)",
+      "year": 1848
+    },
+    {
+      "title": "Sternschnuppen, WAB 85",
+      "imslp_url": "https://imslp.org/wiki/Sternschnuppen,_WAB_85_(Bruckner,_Anton)",
+      "year": 1848
+    },
+    {
+      "title": "4 Lancier-Quadrilles, WAB 120",
+      "imslp_url": "https://imslp.org/wiki/4_Lancier-Quadrilles,_WAB_120_(Bruckner,_Anton)",
+      "year": 1850
+    },
+    {
+      "title": "Der Mondabend, WAB 200",
+      "imslp_url": "https://imslp.org/wiki/Der_Mondabend,_WAB_200_(Bruckner,_Anton)",
+      "year": 1850
+    },
+    {
+      "title": "Psalm 146, WAB 37",
+      "imslp_url": "https://imslp.org/wiki/Psalm_146,_WAB_37_(Bruckner,_Anton)",
+      "year": 1850
+    },
+    {
+      "title": "Steierm\u00e4rker, WAB 122",
+      "imslp_url": "https://imslp.org/wiki/Steierm\u00e4rker,_WAB_122_(Bruckner,_Anton)",
+      "year": 1850
+    },
+    {
+      "title": "2 S\u00e4ngspr\u00fcche, WAB 83",
+      "imslp_url": "https://imslp.org/wiki/2_S\u00e4ngspr\u00fcche,_WAB_83_(Bruckner,_Anton)",
+      "year": 1851
+    },
+    {
+      "title": "Aus dem Zauberschleier, WAB 264",
+      "imslp_url": "https://imslp.org/wiki/Aus_dem_Zauberschleier,_WAB_264_(Bruckner,_Anton)",
+      "year": 1851
+    },
+    {
+      "title": "Das edle Herz, WAB 65",
+      "imslp_url": "https://imslp.org/wiki/Das_edle_Herz,_WAB_65_(Bruckner,_Anton)",
+      "year": 1851
+    },
+    {
+      "title": "Entsagen, WAB 14",
+      "imslp_url": "https://imslp.org/wiki/Entsagen,_WAB_14_(Bruckner,_Anton)",
+      "year": 1851
+    },
+    {
+      "title": "Fr\u00fchlingslied, WAB 68",
+      "imslp_url": "https://imslp.org/wiki/Fr\u00fchlingslied,_WAB_68_(Bruckner,_Anton)",
+      "year": 1851
+    },
+    {
+      "title": "3 Kleine Vortragsst\u00fccke, WAB 124",
+      "imslp_url": "https://imslp.org/wiki/3_Kleine_Vortragsst\u00fccke,_WAB_124_(Bruckner,_Anton)",
+      "year": 1852
+    },
+    {
+      "title": "Arneth Cantata, WAB 61",
+      "imslp_url": "https://imslp.org/wiki/Arneth_Cantata,_WAB_61_(Bruckner,_Anton)",
+      "year": 1852
+    },
+    {
+      "title": "Die Geburt, WAB 69",
+      "imslp_url": "https://imslp.org/wiki/Die_Geburt,_WAB_69_(Bruckner,_Anton)",
+      "year": 1852
+    },
+    {
+      "title": "Magnificat, WAB 24",
+      "imslp_url": "https://imslp.org/wiki/Magnificat,_WAB_24_(Bruckner,_Anton)",
+      "year": 1852
+    },
+    {
+      "title": "Postlude in D minor, WAB 126/1",
+      "imslp_url": "https://imslp.org/wiki/Postlude_in_D_minor,_WAB_126/1_(Bruckner,_Anton)",
+      "year": 1852
+    },
+    {
+      "title": "Psalm 114, WAB 36",
+      "imslp_url": "https://imslp.org/wiki/Psalm_114,_WAB_36_(Bruckner,_Anton)",
+      "year": 1852
+    },
+    {
+      "title": "Psalm 22, WAB 34",
+      "imslp_url": "https://imslp.org/wiki/Psalm_22,_WAB_34_(Bruckner,_Anton)",
+      "year": 1852
+    },
+    {
+      "title": "Totenlied No.1, WAB 47/1",
+      "imslp_url": "https://imslp.org/wiki/Totenlied_No.1,_WAB_47/1_(Bruckner,_Anton)",
+      "year": 1852
+    },
+    {
+      "title": "Totenlied No.2, WAB 47/2",
+      "imslp_url": "https://imslp.org/wiki/Totenlied_No.2,_WAB_47/2_(Bruckner,_Anton)",
+      "year": 1852
+    },
+    {
+      "title": "Lasst Jubelt\u00f6ne laut erklingen, WAB 76",
+      "imslp_url": "https://imslp.org/wiki/Lasst_Jubelt\u00f6ne_laut_erklingen,_WAB_76_(Bruckner,_Anton)",
+      "year": 1854
+    },
+    {
+      "title": "Libera me, WAB 22",
+      "imslp_url": "https://imslp.org/wiki/Libera_me,_WAB_22_(Bruckner,_Anton)",
+      "year": 1854
+    },
+    {
+      "title": "Missa solemnis, WAB 29",
+      "imslp_url": "https://imslp.org/wiki/Missa_solemnis,_WAB_29_(Bruckner,_Anton)",
+      "year": 1854
+    },
+    {
+      "title": "Quadrille, WAB 121",
+      "imslp_url": "https://imslp.org/wiki/Quadrille,_WAB_121_(Bruckner,_Anton)",
+      "year": 1854
+    },
+    {
+      "title": "Tantum ergo, WAB 44",
+      "imslp_url": "https://imslp.org/wiki/Tantum_ergo,_WAB_44_(Bruckner,_Anton)",
+      "year": 1854
+    },
+    {
+      "title": "Vor Arneths Grab, WAB 53",
+      "imslp_url": "https://imslp.org/wiki/Vor_Arneths_Grab,_WAB_53_(Bruckner,_Anton)",
+      "year": 1854
+    },
+    {
+      "title": "Festgesang, WAB 15",
+      "imslp_url": "https://imslp.org/wiki/Festgesang,_WAB_15_(Bruckner,_Anton)",
+      "year": 1855
+    },
+    {
+      "title": "Mayer Cantata, WAB 60",
+      "imslp_url": "https://imslp.org/wiki/Mayer_Cantata,_WAB_60_(Bruckner,_Anton)",
+      "year": 1855
+    },
+    {
+      "title": "Ave Maria, WAB 5",
+      "imslp_url": "https://imslp.org/wiki/Ave_Maria,_WAB_5_(Bruckner,_Anton)",
+      "year": 1856
+    },
+    {
+      "title": "Klavierst\u00fcck, WAB 119",
+      "imslp_url": "https://imslp.org/wiki/Klavierst\u00fcck,_WAB_119_(Bruckner,_Anton)",
+      "year": 1856
+    },
+    {
+      "title": "Wie bist du, Fr\u00fchling, gut und treu, WAB 58",
+      "imslp_url": "https://imslp.org/wiki/Wie_bist_du,_Fr\u00fchling,_gut_und_treu,_WAB_58_(Bruckner,_Anton)",
+      "year": 1856
+    },
+    {
+      "title": "Das edle Herz, WAB 66",
+      "imslp_url": "https://imslp.org/wiki/Das_edle_Herz,_WAB_66_(Bruckner,_Anton)",
+      "year": 1857
+    },
+    {
+      "title": "Afferentur regi, WAB 1",
+      "imslp_url": "https://imslp.org/wiki/Afferentur_regi,_WAB_1_(Bruckner,_Anton)",
+      "year": 1861
+    },
+    {
+      "title": "Am Grabe, WAB 2",
+      "imslp_url": "https://imslp.org/wiki/Am_Grabe,_WAB_2_(Bruckner,_Anton)",
+      "year": 1861
+    },
+    {
+      "title": "Ave Maria, WAB 6",
+      "imslp_url": "https://imslp.org/wiki/Ave_Maria,_WAB_6_(Bruckner,_Anton)",
+      "year": 1861
+    },
+    {
+      "title": "Du bist wie eine Blume, WAB 64",
+      "imslp_url": "https://imslp.org/wiki/Du_bist_wie_eine_Blume,_WAB_64_(Bruckner,_Anton)",
+      "year": 1861
+    },
+    {
+      "title": "Fugue in D minor, WAB 125",
+      "imslp_url": "https://imslp.org/wiki/Fugue_in_D_minor,_WAB_125_(Bruckner,_Anton)",
+      "year": 1861
+    },
+    {
+      "title": "3 Pieces for Orchestra, WAB 97",
+      "imslp_url": "https://imslp.org/wiki/3_Pieces_for_Orchestra,_WAB_97_(Bruckner,_Anton)",
+      "year": 1862
+    },
+    {
+      "title": "Der Abendhimmel, WAB 55",
+      "imslp_url": "https://imslp.org/wiki/Der_Abendhimmel,_WAB_55_(Bruckner,_Anton)",
+      "year": 1862
+    },
+    {
+      "title": "Festkantate, WAB 16",
+      "imslp_url": "https://imslp.org/wiki/Festkantate,_WAB_16_(Bruckner,_Anton)",
+      "year": 1862
+    },
+    {
+      "title": "March in D minor, WAB 96",
+      "imslp_url": "https://imslp.org/wiki/March_in_D_minor,_WAB_96_(Bruckner,_Anton)",
+      "year": 1862
+    },
+    {
+      "title": "Overture in G minor, WAB 98",
+      "imslp_url": "https://imslp.org/wiki/Overture_in_G_minor,_WAB_98_(Bruckner,_Anton)",
+      "year": 1862
+    },
+    {
+      "title": "Rondo in C minor, WAB 208",
+      "imslp_url": "https://imslp.org/wiki/Rondo_in_C_minor,_WAB_208_(Bruckner,_Anton)",
+      "year": 1862
+    },
+    {
+      "title": "Sonatensatz in G minor, WAB 243",
+      "imslp_url": "https://imslp.org/wiki/Sonatensatz_in_G_minor,_WAB_243_(Bruckner,_Anton)",
+      "year": 1862
+    },
+    {
+      "title": "String Quartet, WAB 111",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet,_WAB_111_(Bruckner,_Anton)",
+      "year": 1862
+    },
+    {
+      "title": "Germanenzug, WAB 70",
+      "imslp_url": "https://imslp.org/wiki/Germanenzug,_WAB_70_(Bruckner,_Anton)",
+      "year": 1863
+    },
+    {
+      "title": "Psalm 112, WAB 35",
+      "imslp_url": "https://imslp.org/wiki/Psalm_112,_WAB_35_(Bruckner,_Anton)",
+      "year": 1863
+    },
+    {
+      "title": "Stille Betrachtung an einem Herbstabend, WAB 123",
+      "imslp_url": "https://imslp.org/wiki/Stille_Betrachtung_an_einem_Herbstabend,_WAB_123_(Bruckner,_Anton)",
+      "year": 1863
+    },
+    {
+      "title": "Symphony in F minor, WAB 99",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_F_minor,_WAB_99_(Bruckner,_Anton)",
+      "year": 1863
+    },
+    {
+      "title": "Herbstkummer, WAB 72",
+      "imslp_url": "https://imslp.org/wiki/Herbstkummer,_WAB_72_(Bruckner,_Anton)",
+      "year": 1864
+    },
+    {
+      "title": "Herbstlied, WAB 73",
+      "imslp_url": "https://imslp.org/wiki/Herbstlied,_WAB_73_(Bruckner,_Anton)",
+      "year": 1864
+    },
+    {
+      "title": "Mass No.1 in D minor, WAB 26",
+      "imslp_url": "https://imslp.org/wiki/Mass_No.1_in_D_minor,_WAB_26_(Bruckner,_Anton)",
+      "year": 1864
+    },
+    {
+      "title": "Um Mitternacht, WAB 89",
+      "imslp_url": "https://imslp.org/wiki/Um_Mitternacht,_WAB_89_(Bruckner,_Anton)",
+      "year": 1864
+    },
+    {
+      "title": "Im April, WAB 75",
+      "imslp_url": "https://imslp.org/wiki/Im_April,_WAB_75_(Bruckner,_Anton)",
+      "year": 1865
+    },
+    {
+      "title": "Military March in E-flat major, WAB 116",
+      "imslp_url": "https://imslp.org/wiki/Military_March_in_E-flat_major,_WAB_116_(Bruckner,_Anton)",
+      "year": 1865
+    },
+    {
+      "title": "Symphony No.1 in C minor, WAB 101",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.1_in_C_minor,_WAB_101_(Bruckner,_Anton)",
+      "year": 1865
+    },
+    {
+      "title": "Trauungslied, WAB 49",
+      "imslp_url": "https://imslp.org/wiki/Trauungslied,_WAB_49_(Bruckner,_Anton)",
+      "year": 1865
+    },
+    {
+      "title": "Abendkl\u00e4nge, WAB 110",
+      "imslp_url": "https://imslp.org/wiki/Abendkl\u00e4nge,_WAB_110_(Bruckner,_Anton)",
+      "year": 1866
+    },
+    {
+      "title": "Der Abendhimmel, WAB 56",
+      "imslp_url": "https://imslp.org/wiki/Der_Abendhimmel,_WAB_56_(Bruckner,_Anton)",
+      "year": 1866
+    },
+    {
+      "title": "Mass No.2 in E minor, WAB 27",
+      "imslp_url": "https://imslp.org/wiki/Mass_No.2_in_E_minor,_WAB_27_(Bruckner,_Anton)",
+      "year": 1866
+    },
+    {
+      "title": "Vaterlandslied, WAB 92",
+      "imslp_url": "https://imslp.org/wiki/Vaterlandslied,_WAB_92_(Bruckner,_Anton)",
+      "year": 1866
+    },
+    {
+      "title": "Vaterl\u00e4ndisch Weinlied, WAB 91",
+      "imslp_url": "https://imslp.org/wiki/Vaterl\u00e4ndisch_Weinlied,_WAB_91_(Bruckner,_Anton)",
+      "year": 1866
+    },
+    {
+      "title": "2 Wahlspr\u00fcche, WAB 95",
+      "imslp_url": "https://imslp.org/wiki/2_Wahlspr\u00fcche,_WAB_95_(Bruckner,_Anton)",
+      "year": 1868
+    },
+    {
+      "title": "Erinnerung, WAB 117",
+      "imslp_url": "https://imslp.org/wiki/Erinnerung,_WAB_117_(Bruckner,_Anton)",
+      "year": 1868
+    },
+    {
+      "title": "Fantasie in G major, WAB 118",
+      "imslp_url": "https://imslp.org/wiki/Fantasie_in_G_major,_WAB_118_(Bruckner,_Anton)",
+      "year": 1868
+    },
+    {
+      "title": "Iam lucis orto sidere, WAB 18",
+      "imslp_url": "https://imslp.org/wiki/Iam_lucis_orto_sidere,_WAB_18_(Bruckner,_Anton)",
+      "year": 1868
+    },
+    {
+      "title": "Inveni David, WAB 19",
+      "imslp_url": "https://imslp.org/wiki/Inveni_David,_WAB_19_(Bruckner,_Anton)",
+      "year": 1868
+    },
+    {
+      "title": "Mass No.3 in F minor, WAB 28",
+      "imslp_url": "https://imslp.org/wiki/Mass_No.3_in_F_minor,_WAB_28_(Bruckner,_Anton)",
+      "year": 1868
+    },
+    {
+      "title": "Mein Herz und deine Stimme, WAB 79",
+      "imslp_url": "https://imslp.org/wiki/Mein_Herz_und_deine_Stimme,_WAB_79_(Bruckner,_Anton)",
+      "year": 1868
+    },
+    {
+      "title": "Pange, lingua, gloriosi Corporis mysterium, WAB 33",
+      "imslp_url": "https://imslp.org/wiki/Pange,_lingua,_gloriosi_Corporis_mysterium,_WAB_33_(Bruckner,_Anton)",
+      "year": 1868
+    },
+    {
+      "title": "2 Mottos, WAB 148",
+      "imslp_url": "https://imslp.org/wiki/2_Mottos,_WAB_148_(Bruckner,_Anton)",
+      "year": 1869
+    },
+    {
+      "title": "Locus iste, WAB 23",
+      "imslp_url": "https://imslp.org/wiki/Locus_iste,_WAB_23_(Bruckner,_Anton)",
+      "year": 1869
+    },
+    {
+      "title": "Mitternacht, WAB 80",
+      "imslp_url": "https://imslp.org/wiki/Mitternacht,_WAB_80_(Bruckner,_Anton)",
+      "year": 1869
+    },
+    {
+      "title": "Symphony in B-flat major, WAB 142",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_B-flat_major,_WAB_142_(Bruckner,_Anton)",
+      "year": 1869
+    },
+    {
+      "title": "Symphony in D minor 'Nullte', WAB 100",
+      "imslp_url": "https://imslp.org/wiki/Symphony_in_D_minor_'Nullte',_WAB_100_(Bruckner,_Anton)",
+      "year": 1869
+    },
+    {
+      "title": "Symphony No.2 in C minor, WAB 102",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.2_in_C_minor,_WAB_102_(Bruckner,_Anton)",
+      "year": 1872
+    },
+    {
+      "title": "Christus factus est, WAB 10",
+      "imslp_url": "https://imslp.org/wiki/Christus_factus_est,_WAB_10_(Bruckner,_Anton)",
+      "year": 1873
+    },
+    {
+      "title": "Symphony No.3 in D minor, WAB 103",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.3_in_D_minor,_WAB_103_(Bruckner,_Anton)",
+      "year": 1873
+    },
+    {
+      "title": "Freier Sinn und froher Mut, WAB 147",
+      "imslp_url": "https://imslp.org/wiki/Freier_Sinn_und_froher_Mut,_WAB_147_(Bruckner,_Anton)",
+      "year": 1874
+    },
+    {
+      "title": "Symphony No.4 in E-flat major, WAB 104",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.4_in_E-flat_major,_WAB_104_(Bruckner,_Anton)",
+      "year": 1874
+    },
+    {
+      "title": "Requiem, WAB 141",
+      "imslp_url": "https://imslp.org/wiki/Requiem,_WAB_141_(Bruckner,_Anton)",
+      "year": 1875
+    },
+    {
+      "title": "Das hohe Lied, WAB 74",
+      "imslp_url": "https://imslp.org/wiki/Das_hohe_Lied,_WAB_74_(Bruckner,_Anton)",
+      "year": 1876
+    },
+    {
+      "title": "Symphony No.5 in B-flat major, WAB 105",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.5_in_B-flat_major,_WAB_105_(Bruckner,_Anton)",
+      "year": 1876
+    },
+    {
+      "title": "Nachruf, WAB 81a",
+      "imslp_url": "https://imslp.org/wiki/Nachruf,_WAB_81a_(Bruckner,_Anton)",
+      "year": 1877
+    },
+    {
+      "title": "Abendzauber, WAB 57",
+      "imslp_url": "https://imslp.org/wiki/Abendzauber,_WAB_57_(Bruckner,_Anton)",
+      "year": 1878
+    },
+    {
+      "title": "String Quintet, WAB 112",
+      "imslp_url": "https://imslp.org/wiki/String_Quintet,_WAB_112_(Bruckner,_Anton)",
+      "year": 1878
+    },
+    {
+      "title": "Tota pulchra es, WAB 46",
+      "imslp_url": "https://imslp.org/wiki/Tota_pulchra_es,_WAB_46_(Bruckner,_Anton)",
+      "year": 1878
+    },
+    {
+      "title": "Zur Verm\u00e4hlungsfeier, WAB 54",
+      "imslp_url": "https://imslp.org/wiki/Zur_Verm\u00e4hlungsfeier,_WAB_54_(Bruckner,_Anton)",
+      "year": 1878
+    },
+    {
+      "title": "Intermezzo, WAB 113",
+      "imslp_url": "https://imslp.org/wiki/Intermezzo,_WAB_113_(Bruckner,_Anton)",
+      "year": 1879
+    },
+    {
+      "title": "Os justi, WAB 30",
+      "imslp_url": "https://imslp.org/wiki/Os_justi,_WAB_30_(Bruckner,_Anton)",
+      "year": 1879
+    },
+    {
+      "title": "Symphony No.6 in A major, WAB 106",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.6_in_A_major,_WAB_106_(Bruckner,_Anton)",
+      "year": 1881
+    },
+    {
+      "title": "Te Deum, WAB 45",
+      "imslp_url": "https://imslp.org/wiki/Te_Deum,_WAB_45_(Bruckner,_Anton)",
+      "year": 1881
+    },
+    {
+      "title": "Ave Maria, WAB 7",
+      "imslp_url": "https://imslp.org/wiki/Ave_Maria,_WAB_7_(Bruckner,_Anton)",
+      "year": 1882
+    },
+    {
+      "title": "S\u00e4ngerbund, WAB 82",
+      "imslp_url": "https://imslp.org/wiki/S\u00e4ngerbund,_WAB_82_(Bruckner,_Anton)",
+      "year": 1882
+    },
+    {
+      "title": "Volkslied, WAB 94",
+      "imslp_url": "https://imslp.org/wiki/Volkslied,_WAB_94_(Bruckner,_Anton)",
+      "year": 1882
+    },
+    {
+      "title": "Symphony No.7 in E major, WAB 107",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.7_in_E_major,_WAB_107_(Bruckner,_Anton)",
+      "year": 1883
+    },
+    {
+      "title": "3 Themes for an Organ Improvisation, WAB 241",
+      "imslp_url": "https://imslp.org/wiki/3_Themes_for_an_Organ_Improvisation,_WAB_241_(Bruckner,_Anton)",
+      "year": 1884
+    },
+    {
+      "title": "Christus factus est, WAB 11",
+      "imslp_url": "https://imslp.org/wiki/Christus_factus_est,_WAB_11_(Bruckner,_Anton)",
+      "year": 1884
+    },
+    {
+      "title": "Perger Pr\u00e4ludium in C major, WAB 129",
+      "imslp_url": "https://imslp.org/wiki/Perger_Pr\u00e4ludium_in_C_major,_WAB_129_(Bruckner,_Anton)",
+      "year": 1884
+    },
+    {
+      "title": "Salvum fac populum, WAB 40",
+      "imslp_url": "https://imslp.org/wiki/Salvum_fac_populum,_WAB_40_(Bruckner,_Anton)",
+      "year": 1884
+    },
+    {
+      "title": "Veni creator spiritus, WAB 50",
+      "imslp_url": "https://imslp.org/wiki/Veni_creator_spiritus,_WAB_50_(Bruckner,_Anton)",
+      "year": 1884
+    },
+    {
+      "title": "Ecce sacerdos magnus, WAB 13",
+      "imslp_url": "https://imslp.org/wiki/Ecce_sacerdos_magnus,_WAB_13_(Bruckner,_Anton)",
+      "year": 1885
+    },
+    {
+      "title": "Virga Jesse, WAB 52",
+      "imslp_url": "https://imslp.org/wiki/Virga_Jesse,_WAB_52_(Bruckner,_Anton)",
+      "year": 1885
+    },
+    {
+      "title": "Ave Regina caelorum, WAB 8",
+      "imslp_url": "https://imslp.org/wiki/Ave_Regina_caelorum,_WAB_8_(Bruckner,_Anton)",
+      "year": 1886
+    },
+    {
+      "title": "Um Mitternacht, WAB 90",
+      "imslp_url": "https://imslp.org/wiki/Um_Mitternacht,_WAB_90_(Bruckner,_Anton)",
+      "year": 1886
+    },
+    {
+      "title": "Symphony No.8 in C minor, WAB 108",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.8_in_C_minor,_WAB_108_(Bruckner,_Anton)",
+      "year": 1887
+    },
+    {
+      "title": "Heut kommt ja Freund Klose zum Gause, WAB 203",
+      "imslp_url": "https://imslp.org/wiki/Heut_kommt_ja_Freund_Klose_zum_Gause,_WAB_203_(Bruckner,_Anton)",
+      "year": 1889
+    },
+    {
+      "title": "Improvisationskizze Ischl, WAB 240",
+      "imslp_url": "https://imslp.org/wiki/Improvisationskizze_Ischl,_WAB_240_(Bruckner,_Anton)",
+      "year": 1890
+    },
+    {
+      "title": "Tr\u00e4umen und Wachen, WAB 87",
+      "imslp_url": "https://imslp.org/wiki/Tr\u00e4umen_und_Wachen,_WAB_87_(Bruckner,_Anton)",
+      "year": 1890
+    },
+    {
+      "title": "Der deutsche Gesang, WAB 63",
+      "imslp_url": "https://imslp.org/wiki/Der_deutsche_Gesang,_WAB_63_(Bruckner,_Anton)",
+      "year": 1892
+    },
+    {
+      "title": "Psalm 150, WAB 38",
+      "imslp_url": "https://imslp.org/wiki/Psalm_150,_WAB_38_(Bruckner,_Anton)",
+      "year": 1892
+    },
+    {
+      "title": "Vexilla regis, WAB 51",
+      "imslp_url": "https://imslp.org/wiki/Vexilla_regis,_WAB_51_(Bruckner,_Anton)",
+      "year": 1892
+    },
+    {
+      "title": "Helgoland, WAB 71",
+      "imslp_url": "https://imslp.org/wiki/Helgoland,_WAB_71_(Bruckner,_Anton)",
+      "year": 1893
+    },
+    {
+      "title": "Symphony No.9 in D minor, WAB 109/143",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.9_in_D_minor,_WAB_109/143_(Bruckner,_Anton)",
+      "year": 1894
+    }
+  ]
+}

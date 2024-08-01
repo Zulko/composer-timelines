@@ -1,786 +1,542 @@
 {
   "full_name": "Sergei Rachmaninoff",
-  "first_names": "Sergei",
+  "first_names": "Sergei Vasilyevich",
   "last_name": "Rachmaninoff",
   "birth_year": 1873,
   "death_year": 1943,
   "wikipedia_url": "https://en.wikipedia.org/wiki/Sergei_Rachmaninoff",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Rachmaninoff made his grand entrance into the world on April Fool's Day, and trust me, nobody was laughing at that moment! Born into a musical family, it was clear that little Sergei was destined for greatness. His early beginnings in the Russian Empire were filled with music from the get-go.",
+      "section": "Life and career",
+      "title": "Birth",
+      "summary": "Sergei Rachmaninoff was born on 1 April 1873 into a family of Russian aristocracy in the Russian Empire. His family had strong musical and military traditions, which influenced his upbringing and early exposure to music.",
       "year": 1873,
-      "city": "Semyonovo",
-      "country": "Russian Empire"
+      "location": "Semyonovo, Novgorod Governorate, Russia",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Sergei Rachmaninoff was born on April Fool's Day 1873 into a family of Russian aristocracy. His family had strong musical and military traditions, which influenced his upbringing and early exposure to music, along with a talent for musical noise that tickled the ivories!"
     },
     {
-      "event": "First Piano Lessons",
-      "summary": "By the blossoming age of four, Sergei was already tickling the ivories and charming his family with his musical prowess. His mother noticed his talent when he flawlessly reproduced passages, so she hired a teacher to ensure he wouldn\u2019t grow up only playing 'Chopsticks'.",
+      "section": "Life and career",
+      "title": "Early Music Training",
+      "summary": "At the age of four, Rachmaninoff began piano and music lessons organized by his mother, who recognized his exceptional ability to reproduce music from memory.",
       "year": 1877,
-      "city": "Oneg estate",
-      "country": "Russian Empire"
+      "location": "Oneg estate, Russia",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Rachmaninoff's mother must have been quite the talent scout! At the tender age of four, while other kids were busy riding tricycles and drawing on walls, Rachmaninoff was already hitting the keys like a tiny musical genius! She recognized his exceptional ability to reproduce music from memory, which is pretty impressive for a toddler!"
     },
     {
-      "event": "Moscow Conservatory Admission",
-      "summary": "At age ten, Sergei was ushered into the hallowed halls of the Saint Petersburg Conservatory. This was like enrolling in Hogwarts for musicians, where he would spend hours pretending to study while dreaming of composing.",
+      "section": "Life and career",
+      "title": "Studying at the Saint Petersburg Conservatory",
+      "summary": "In 1883, at the age of ten, Rachmaninoff was arranged by his teacher Anna Ornatskaya to study music at the Saint Petersburg Conservatory, marking the beginning of his formal musical education.",
       "year": 1883,
-      "city": "Saint Petersburg",
-      "country": "Russian Empire"
+      "location": "Saint Petersburg, Russia",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1883, at the age of ten, a tiny Rachmaninoff gets handed a violin by his teacher Anna Ornatskaya, who decided to throw this kid into the grand musical world of the Saint Petersburg Conservatory! And just like that, Rachmaninoff's formal musical education began!"
     },
     {
-      "event": "Move to Moscow Conservatory",
-      "summary": "After taking a series of questionable academic decisions, Rachmaninoff switched conservatories like people change socks. This move came with stricter teachers, a roommate less fun than a dry sponge, and an environment that turned out to be much more productive for our young maestro.",
-      "year": 1885,
-      "city": "Moscow",
-      "country": "Russian Empire"
-    },
-    {
-      "event": "Graduation with Honors",
-      "summary": "In a twist worthy of a soap opera, Rachmaninoff defied the odds, passed his final exams with flying colors, and secured a diploma. Not just any diploma, mind you; this was a ticket to the illustrious title of 'Free Artist'. It was like a golden key to composer-land!",
+      "section": "Life and career",
+      "title": "Premiere of Aleko",
+      "summary": "Rachmaninoff wrote his one-act opera Aleko in just seventeen days, which premiered successfully at the Bolshoi Theatre in May 1892, earning him the highest mark at the Conservatory.",
       "year": 1892,
-      "city": "Moscow",
-      "country": "Russian Empire"
+      "location": "Moscow, Russia",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Rachmaninoff dashed off his one-act opera Aleko in just seventeen days \u2013 talk about a deadline! The opera premiered successfully at the Bolshoi Theatre in May 1892, earning him the highest mark at the Conservatory."
     },
     {
-      "event": "Premiere of Aleko",
-      "summary": "Against all his worried predictions, Rachmaninoff\u2019s one-act opera 'Aleko' premiered and became a hit! Even Tchaikovsky showed up to cheer him on, probably hoping for free snacks at the after-party. Turns out, the gamble paid off!",
-      "year": 1892,
-      "city": "Moscow",
-      "country": "Russian Empire"
-    },
-    {
-      "event": "Symphony No. 1 Completion",
-      "summary": "Just when he thought he\u2019d catch a break, Rachmaninoff poured his soul into Symphony No. 1, which he completed after much coffee and angst. But hold your horses! The premiere would sadly turn out to be disastrous, leading him on a four-year depressive detour.",
-      "year": 1895,
-      "city": "Moscow",
-      "country": "Russian Empire"
-    },
-    {
-      "event": "Successful Comeback with Piano Concerto No. 2",
-      "summary": "After four years in what could only be described as a composer\u2019s version of a 'staycation', Rachmaninoff bounced back with his Piano Concerto No. 2. Reception was enthusiastic, and suddenly Sergei was back in the game, wowing audiences and striking dramatic poses at the piano.",
-      "year": 1901,
-      "city": "Moscow",
-      "country": "Russian Empire"
-    },
-    {
-      "event": "First U.S. Tour",
-      "summary": "Sergei packed his bags and crossed the ocean, embarking on his first U.S. tour. It was a hit, and audiences were left bewildered and delighted, like kids at a candy store\u2014especially when he sat down at the piano like he owned the place.",
-      "year": 1909,
-      "city": "New York",
-      "country": "United States"
-    },
-    {
-      "event": "Permanent Move to the U.S.",
-      "summary": "Following the Russian Revolution, Rachmaninoff said goodbye to the Motherland and became an American citizen. It was like relocating from a cozy village to a bustling city, and he quickly made a name for himself as the classic 'foreigner who plays the piano better than anyone else'.",
-      "year": 1918,
-      "city": "New York",
-      "country": "United States"
-    },
-    {
-      "event": "Health Issues and Move to Beverly Hills",
-      "summary": "In his later years, Rachmaninoff\u2019s health started playing tricks on him, leading to a move to sunny Beverly Hills. If you're going to fall ill, might as well do it in style! He lived out his days surrounded by palm trees and warmth until he decided to take his final bow.",
-      "year": 1942,
-      "city": "Beverly Hills",
-      "country": "United States"
-    },
-    {
-      "event": "Symphony No. 1 premiere",
-      "summary": "Rachmaninoff's first symphony debuted in Moscow, only to be roasted by critics, most notably C\u00e9sar Cui, who must have had some wild imagery in mind when he claimed it sounded like the seven plagues of Egypt. This poor showing left Rachmaninoff 'not at all affected' but mentally wrecked enough to write nothing for three years!",
+      "section": "Conductor",
+      "title": "Conductor Performances",
+      "summary": "Apart from several performances, including two of his opera Aleko in 1893, Rachmaninoff first began conducting in 1897, and performed as a conductor every year until 1914. After leaving Russia permanently in 1917, Rachmaninoff prioritized performing as a pianist to conducting, giving only seven more recitals as a conductor until the end of his life.",
       "year": 1897,
-      "city": "Moscow",
-      "country": "Russia"
+      "location": "",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Imagine a young Rachmaninoff, back in 1893, juggling offers like a circus clown with his opera 'Aleko'! He decided to do a little conducting in 1897. He performed as a conductor every year until 1914, but then it seems he got tired of waving his stick and decided to leave Russia permanently in 1917. After that, he prioritized performing as a pianist, giving just seven more recitals as a conductor until the end of his life."
     },
     {
-      "event": "Depression and writer's block",
-      "summary": "After the symphonic disaster, Rachmaninoff experienced a depression that could rival a long, rainy day in Seattle. With writer's block as his unwelcome companion, the composer turned to teaching piano to make ends meet while desperately trying to revive his creative juices.",
-      "year": 1898,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Piano Concerto No. 2 completion",
-      "summary": "After a little self-care therapy with hypnotherapy, Rachmaninoff finally crafted the famous Piano Concerto No. 2. This masterpiece was received so well, it was as if the audience had found the holy grail of piano concertos! Rachmaninoff won his first Glinka Award for this effort, too!",
+      "section": "Life and career",
+      "title": "Completion of Piano Concerto No. 2",
+      "summary": "Rachmaninoff completed his Piano Concerto No. 2 in April 1901. The piece was enthusiastically received and established him as a prominent composer.",
       "year": 1901,
-      "city": "Moscow",
-      "country": "Russia"
+      "location": "Moscow, Russia",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Picture Rachmaninoff in April 1901, probably sweating bullets with his Piano Concerto No. 2, which was enthusiastically received and helped him secure his throne as a prominent composer. The audience didn't just applaud; they practically threw their hats in the air! Who knew that one composer could make piano keys sound like they were having a party?"
     },
     {
-      "event": "Marriage to Natalia Satina",
-      "summary": "Rachmaninoff tied the knot with his cousin Natalia in a top-secret ceremony at an army barracks, dodging a church ban like a pro! The couple spent their honeymoon across Europe\u2014managing not to let any scandals ruin their romantic escapade!",
+      "section": "Life and career",
+      "title": "Marriage",
+      "summary": "On 12 May 1902, Rachmaninoff married Natalia Satina after a three-year engagement, in a ceremony that circumvented church opposition due to their familial ties.",
       "year": 1902,
-      "city": "Moscow",
-      "country": "Russia"
+      "location": "Moscow, Russia",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "On 12 May 1902, Rachmaninoff married Natalia Satina after a three-year engagement in a ceremony that circumvented church opposition due to their familial ties. After three long years of dodging the church\u2019s watchful eye, who knew love could be this complicated!"
     },
     {
-      "event": "Symphony No. 2 premiere",
-      "summary": "Rachmaninoff celebrated a triumphant comeback with the premiere of his Symphony No. 2, which received applause like it was on fire. This time, he was showered with accolades and his second Glinka Award\u2014talk about a comeback kid!",
+      "section": "Life and career",
+      "title": "Premiere of Symphony No. 2",
+      "summary": "Rachmaninoff's Symphony No. 2 premiered in early 1908 to enthusiastic acclaim, reviving his confidence as a composer.",
       "year": 1908,
-      "city": "Moscow",
-      "country": "Russia"
+      "location": "Moscow, Russia",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Rachmaninoff's Symphony No. 2 had its grand debut in early 1908, reviving his confidence as a composer, and the audience was so enthusiastic that they probably would have given him a standing ovation even if he had played his grocery lists!"
     },
     {
-      "event": "First U.S. tour",
-      "summary": "Rachmaninoff embarked on his maiden concert tour in the United States, performing his soon-to-be-cult-classic, the Piano Concerto No. 3. Despite the string of concerts, he still managed to miss home so much that he politely declined future U.S. offers. Who knew fame could be so lonely?",
+      "section": "Life and career",
+      "title": "First Tour of the US",
+      "summary": "In 1909, Rachmaninoff embarked on his first tour of the United States, performing 26 recitals which significantly increased his popularity in America.",
       "year": 1909,
-      "city": "Boston",
-      "country": "USA"
+      "location": "United States",
+      "emoji": "\ud83c\uddfa\ud83c\uddf8",
+      "fun_version": "Rachmaninoff, in 1909, decided it was high time to take his talents to the United States and performed 26 recitals, significantly increasing his popularity in America. As he played, the audience couldn't help but gasp, \"Who is this wizard with flying fingers?\" His popularity skyrocketed!"
     },
     {
-      "event": "Inspector of Music position",
-      "summary": "Upon his return to Russia, Rachmaninoff became Inspector of Music at a girls' school. With a title like that, you can imagine him wielding a baton\u2014and maybe even a clipboard\u2014making sure music lessons went off without a hitch!",
-      "year": 1910,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "The Bells premiere",
-      "summary": "In 1913, Rachmaninoff conducted the premiere of his choral symphony The Bells, a work that struck everyone like\u2014well, the sound of bells! It was another step in his illustrious journey through music, capturing audiences and critics alike.",
-      "year": 1913,
-      "city": "St. Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Piano recital for soldiers",
-      "summary": "When the February Revolution broke out in 1917, Rachmaninoff seized the moment to perform a piano recital in Moscow for wounded soldiers, not letting a little chaos stop him from sharing his talent. Truly, the show must go on\u2014even amidst revolution!",
-      "year": 1917,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Piano Recital for Soldiers",
-      "summary": "Rachmaninoff performed a piano recital in Moscow to raise funds for wounded soldiers, proving that even in tough times, music can bring a little joy and dough! Armed only with his piano skills, he hoped to fight the chaos of war, although it turns out that chaos won this round.",
-      "year": 1917,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Family's Escape from Russia",
-      "summary": "In a bid to escape the political turmoil, Rachmaninoff and his family made a daring exit from Russia, traveling through the snowy landscapes like a scene from a Russian winter fairy tale\u2014only this one didn\u2019t have a happy ending back home. They somehow managed to carry enough belongings to survive, including musical scores, because what's a composer without his scribbles?",
-      "year": 1917,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "First Concert in the US",
-      "summary": "Rachmaninoff made his big splash in the States with a concert in Providence, Rhode Island, right after recovering from the Spanish flu! He even included his own arrangement of 'The Star-Spangled Banner', proving that patriotism was strong, even in sickness. Talk about making an entrance!",
-      "year": 1918,
-      "city": "Providence",
-      "country": "USA"
-    },
-    {
-      "event": "The Happy Householder",
-      "summary": "Settling into life in the US, Rachmaninoff transformed into the quintessential upper-middle-class family man, complete with servants and a taste for the finer things in life. Sometimes he held Russian-themed soir\u00e9es to keep his culture alive, dining on pirozhki while wearing a suit that could rival any Hollywood star!",
+      "section": "Pianist",
+      "title": "Hungarian Rhapsody No. 2",
+      "summary": "Rachmaninoff performed the first 4 minutes of Liszt's Hungarian Rhapsody No. 2, illustrating his ability to interpret complex works with clarity and precision.",
       "year": 1919,
-      "city": "New York City",
-      "country": "USA"
+      "location": "",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Rachmaninoff took the crowd on a thrilling ride through the first 4 minutes of Liszt's Hungarian Rhapsody No. 2, proving he could make musical complexity as clear as mud while interpreting complex works with remarkable clarity and precision!"
     },
     {
-      "event": "Recording Contract with Victor",
-      "summary": "Rachmaninoff signed a recording contract that was music to his ears, or at least his wallet, with the Victor Talking Machine Company. This was the start of a beautiful friendship, as recordings became his lifeline in a new land filled with unfamiliar melodies, making money instead of just playing for fun!",
-      "year": 1920,
-      "city": "New York City",
-      "country": "USA"
-    },
-    {
-      "event": "Visit to Europe after Emigration",
-      "summary": "Rachmaninoff paid a long-awaited visit to Europe, taking the concert stage by storm in London. The reunion tour wasn't full of nostalgia, but at least he got to show the locals what they were missing out on! Even his daughters made a cameo, and it was a proud family affair.",
-      "year": 1922,
-      "city": "London",
-      "country": "UK"
-    },
-    {
-      "event": "Construction of Villa Senar",
-      "summary": "Rachmaninoff became a weekend architect, building his dream home, Villa Senar, in Switzerland. It was the perfect getaway from concert tours where he could compose and enjoy the serene lakes. Who knew composing could be done amidst lakeside views and leisurely boat trips?",
-      "year": 1930,
-      "city": "Hertenstein",
-      "country": "Switzerland"
-    },
-    {
-      "event": "Sixtieth Birthday Celebration",
-      "summary": "Rachmaninoff celebrated his sixtieth birthday with a concert tour that felt like a grand reunion of friends and admirers. It was like a musical birthday bash where instead of cake, he had a scroll and a wreath sent by Russian friends! If only all birthdays could be so full of music!",
-      "year": 1933,
-      "city": "Various",
-      "country": "USA and Europe"
-    },
-    {
-      "event": "Final Composition",
-      "summary": "In a flurry of creativity, Rachmaninoff completed his last work, the Symphonic Dances, which showed that he still had plenty of musical fire left. Not wanting to exit stage left quietly, he made sure to be present at its premiere, giving audiences one last performance to remember him by!",
-      "year": 1941,
-      "city": "Philadelphia",
-      "country": "USA"
-    },
-    {
-      "event": "Final Concert in Europe",
-      "summary": "Rachmaninoff performed his last concert in Europe before the chaos of World War II ensued. It was a bittersweet farewell performance as he would never return to the continent that largely shaped his early career. The audience likely left wondering how one man could play the piano so beautifully while looking like he was on the verge of needing a vacation!",
-      "year": 1939,
-      "city": "Lucerne",
-      "country": "Switzerland"
-    },
-    {
-      "event": "Recording Period",
-      "summary": "In December 1939, Rachmaninoff dove into an extensive recording period. He whipped out his Piano Concerto Nos. 1 and 3 and Symphony No. 3, proving that even a well-respected composer loves a good audio session. It's like the ultimate mixtape, but classy!",
-      "year": 1939,
-      "city": "Philadelphia",
-      "country": "USA"
-    },
-    {
-      "event": "Health Move to California",
-      "summary": "In early 1942, Rachmaninoff, tired of feeling like a human pretzel with all his ailments, decided it was time for a move to a warmer climate. After some indecision, he and his wife opted for Beverly Hills, where he could lounge and indulge in all things sunny.",
-      "year": 1942,
-      "city": "Beverly Hills",
-      "country": "USA"
-    },
-    {
-      "event": "Concerts & Citizenship",
-      "summary": "On February 1, 1943, Rachmaninoff was among 220 lucky folks who became naturalized American citizens in New York City. After this, he continued touring, even as he felt worse than an overcooked spaghetti noodle during performances!",
-      "year": 1943,
-      "city": "New York City",
-      "country": "USA"
-    },
-    {
-      "event": "Final Performances",
-      "summary": "Rachmaninoff's last hurrah as a concerto soloist was on February 11 and 12, playing at the Chicago Symphony Orchestra. After a finale filled with deep emotions, he popped over to Knoxville on February 17 for his last recital, leaving audiences with awe and maybe slightly sore ears!",
-      "year": 1943,
-      "city": "Knoxville",
-      "country": "USA"
-    },
-    {
-      "event": "Declining Health and Death",
-      "summary": "In March 1943, Rachmaninoff's health took a nosedive. After losing consciousness, he passed away at home, proving that even great composers can\u2019t escape the trials of old age, but at least he avoided being fine dining at a hospital!",
-      "year": 1943,
-      "city": "Beverly Hills",
-      "country": "USA"
-    },
-    {
-      "event": "Composed Prelude in C\u266f minor",
-      "summary": "When Rachmaninoff was just 19, he composed the Prelude in C\u266f minor, instantly becoming a sensation in America. It's like he threw a musical firecracker and everyone was left saying, 'Wow, who is that genius?!'",
+      "section": "Pianist",
+      "title": "Prelude in C\u266f minor, Op. 3, No. 2",
+      "summary": "Composed when he was 19, this piece helped establish Rachmaninoff's fame in America. It showcases his virtuosic technique and musical expression.",
       "year": 1919,
-      "city": "New York",
-      "country": "USA"
+      "location": "",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Created at the tender age of 19, this masterpiece helped establish Rachmaninoff's fame in America\u2014like winning the musical lottery! Showcasing his virtuosic technique, it's like watching a pianist juggle flaming torches while reciting Shakespeare, but with less risk of fire and more chances to score a standing ovation!"
     },
     {
-      "event": "Signed with Victor Talking Machine Company",
-      "summary": "After parting ways with Edison Records, Rachmaninoff signed a deal with Victor Talking Machine Company, where he was treated like a superstar. It's like moving from a dingy diner to a five-star restaurant \u2014 the menu got a whole lot tastier!",
-      "year": 1920,
-      "city": "New York",
-      "country": "USA"
+      "section": "Pianist",
+      "title": "Waltz in E-flat major, Op. 18",
+      "summary": "In this performance of Chopin's waltz, Rachmaninoff demonstrated his refined touch and emotive playing, recorded in early 1921.",
+      "year": 1921,
+      "location": "",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "In this performance of Chopin's waltz, Rachmaninoff\u2019s fingers danced like they were auditioning for a ballet! His refined touch and emotive playing were so heartfelt that it was recorded in early 1921."
     },
     {
-      "event": "Recorded popular piano pieces",
-      "summary": "Throughout the 1920s and 1930s, Rachmaninoff recorded a slew of his piano works for Victor, showcasing his peerless talent. It was his way of saying, 'Hey, world, listen to this incredible buffet of sound I\u2019m serving up!'",
-      "year": 1939,
-      "city": "Philadelphia",
-      "country": "USA"
+      "section": "Pianist",
+      "title": "Liszt Second Polonaise",
+      "summary": "Rachmaninoff's recording of this work in 1925 showcases his intense drive and monumental conception, distinguishing his interpretation from others.",
+      "year": 1925,
+      "location": "",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Rachmaninoff's 1925 recording of this work is so intense, it could probably power a small city! His monumental conception distinguishes his interpretation from others, who sadly sound like they were just playing \u2018Chopsticks\u2019 at a piano recital."
     },
     {
-      "event": "Completed Rhapsody on a Theme of Paganini",
-      "summary": "In a stroke of brilliance, Rachmaninoff composed the Rhapsody on a Theme of Paganini in 1934, possibly thinking, 'What if I play someone else's theme and just make it way cooler?' Spoiler: it worked!",
+      "section": "Life and career",
+      "title": "Completion of Rhapsody on a Theme of Paganini",
+      "summary": "Rachmaninoff completed his famed composition, Rhapsody on a Theme of Paganini, in 1934 at his Villa Senar, showcasing his mature compositional style.",
       "year": 1934,
-      "city": "Philadelphia",
-      "country": "USA"
+      "location": "Lucerne, Switzerland",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Rachmaninoff completed his famed composition, Rhapsody on a Theme of Paganini, in 1934, showcasing his mature compositional style\u2014adrift in musical genius at his Villa Senar!"
     },
     {
-      "event": "Died",
-      "summary": "Rachmaninoff passed away in 1943, after leaving behind a treasure trove of music that still moves hearts today. His final exit was less of a farewell and more of a 'Catch you on the flip side with a symphony!'",
+      "section": "Life and career",
+      "title": "Final Concert in Knoxville",
+      "summary": "Rachmaninoff gave his last recital at the University of Tennessee in Knoxville on 17 February 1943, marking the end of his performance career due to declining health.",
       "year": 1943,
-      "city": "Los Angeles",
-      "country": "USA"
-    },
-    {
-      "event": "Departure from Russia",
-      "summary": "In a grand plot twist typifying a dramatic opera, Rachmaninoff packed up and left Russia forever in 1917. He might have thought, 'Alright, let's try something different, like living anywhere else.'",
-      "year": 1917,
-      "city": "Russia",
-      "country": "Russia"
-    },
-    {
-      "event": "First Conducting Experience",
-      "summary": "Rachmaninoff decided to don the conductor's hat for the first time in 1897. Apparently, waving a stick around while looking serious was just too tempting to resist.",
-      "year": 1897,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Recording for Ampico",
-      "summary": "Between 1919 and 1929, Rachmaninoff turned into a recording machine, churning out piano rolls like he was on a musical assembly line. Who knew playing piano could be so productive?",
-      "year": 1919,
-      "city": "New York",
-      "country": "USA"
-    },
-    {
-      "event": "Final Conducting Recitals",
-      "summary": "After his grand exit from his homeland, Rachmaninoff took on a leadership role in the musical chaos that is conducting \u2013 but only seven times before he decided he'd rather stick with piano. Clearly he felt less is more.",
-      "year": 1917,
-      "city": "New York",
-      "country": "USA"
-    },
-    {
-      "event": "First piano lessons",
-      "summary": "At a young age, Rachmaninoff began his formal education in music, which involved more than just banging on the piano, much to the relief of his parents. They had hoped he would become the next musical prodigy rather than merely a home entertainer.",
-      "year": 1882,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Graduation from Conservatory",
-      "summary": "Rachmaninoff received his diploma from the Conservatory, which he promptly used as a ticket to fame. It was like receiving a golden ticket to the Willy Wonka factory, except with less chocolate and more orchestral compositions.",
-      "year": 1892,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "First major composition",
-      "summary": "He completed his Symphony No. 1, which was so ambitious it could give a blockbuster movie a run for its money. Unfortunately, it did not receive a warm welcome - it was a bit like trying to impress everyone at a party and being met with crickets instead.",
-      "year": 1895,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Conducting debut",
-      "summary": "Rachmaninoff made his conducting debut, giving him the chance to wave a stick around in front of musicians and feel incredibly important. The orchestra, as it turns out, really appreciated his enthusiasm, even if they sometimes suspected he was just pretending to know what he was doing.",
-      "year": 1897,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Exile",
-      "summary": "After the Russian Revolution, Rachmaninoff took his talents abroad, leaving behind a country that had become a little too chaotic for his tastes. His departure was like a dramatic final act, complete with a somber piano concerto as he bid farewell to his homeland.",
-      "year": 1917,
-      "city": "New York",
-      "country": "USA"
-    },
-    {
-      "event": "American tour",
-      "summary": "Rachmaninoff embarked on a concert tour across America, charming audiences with his captivating performances. It was like a rock star tour, only instead of guitar riffs, the crowds were treated to breathtaking piano solos that made everyone forget their troubles.",
-      "year": 1919,
-      "city": "Various",
-      "country": "USA"
-    },
-    {
-      "event": "Final years in Switzerland",
-      "summary": "Rachmaninoff settled in Switzerland, where he continued to compose and play music surrounded by stunning landscapes. It was a picturesque ending, much like a postcard from a holiday destination, except it came with deeply emotional melodies instead of tourist traps.",
-      "year": 1943,
-      "city": "Luzern",
-      "country": "Switzerland"
-    },
-    {
-      "event": "Death",
-      "summary": "Rachmaninoff passed away, leaving a legacy that would echo through concert halls for decades. Many said he went out with a flourish, as if crafting a final symphony that faded into silence, leaving everyone wanting an encore.",
-      "year": 1943,
-      "city": "Beaufort",
-      "country": "Switzerland"
+      "location": "Knoxville, Tennessee, USA",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "So, Rachmaninoff took to the stage one last time at the University of Tennessee on February 17, 1943. It was his final performance, and deep down, we all know he was just testing the waters, like a musician trying to find the right note, but his declining health unfortunately meant he had to bow out."
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/Aleko_(Rachmaninoff,_Sergei)",
-      "year": 1892,
-      "title": "Aleko"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/All-Night_Vigil,_Op.37_(Rachmaninoff,_Sergei)",
-      "year": 1915,
-      "title": "All-Night Vigil, Op.37"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Bells,_Op.35_(Rachmaninoff,_Sergei)",
-      "year": 1913,
-      "title": "The Bells, Op.35"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Burlesque_Song_(Rachmaninoff,_Sergei)",
-      "year": 1891,
-      "title": "Burlesque Song"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Canon_in_E_minor_(Rachmaninoff,_Sergei)",
-      "year": 1890,
-      "title": "Canon in E minor"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Capriccio_on_Gypsy_Themes,_Op.12_(Rachmaninoff,_Sergei)",
-      "year": 1892,
-      "title": "Capriccio on Gypsy Themes, Op.12"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Cello_Sonata,_Op.19_(Rachmaninoff,_Sergei)",
-      "year": 1901,
-      "title": "Cello Sonata, Op.19"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Chorus_of_Spirits_(Rachmaninoff,_Sergei)",
-      "year": 1893,
-      "title": "Chorus of Spirits"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Choruses,_Op.15_(Rachmaninoff,_Sergei)",
-      "year": 1895,
-      "title": "6 Choruses, Op.15"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Deus_meus_(Rachmaninoff,_Sergei)",
-      "year": 1890,
-      "title": "Deus meus"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Etudes-tableaux,_Op.33_(Rachmaninoff,_Sergei)",
-      "year": 1911,
-      "title": "Etudes-tableaux, Op.33"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Etudes-tableaux,_Op.39_(Rachmaninoff,_Sergei)",
-      "year": 1916,
-      "title": "Etudes-tableaux, Op.39"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fragments_(Rachmaninoff,_Sergei)",
-      "year": 1917,
-      "title": "Fragments"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Francesca_da_Rimini,_Op.25_(Rachmaninoff,_Sergei)",
-      "year": 1900,
-      "title": "Francesca da Rimini, Op.25"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Isle_of_the_Dead,_Op.29_(Rachmaninoff,_Sergei)",
-      "year": 1909,
-      "title": "Isle of the Dead, Op.29"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Lied_(Rachmaninoff,_Sergei)",
-      "year": 1890,
-      "title": "Lied"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Liturgy_of_St_John_Chrysostom,_Op.31_(Rachmaninoff,_Sergei)",
-      "year": 1910,
-      "title": "Liturgy of St John Chrysostom, Op.31"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Miserly_Knight,_Op.24_(Rachmaninoff,_Sergei)",
-      "year": 1903,
-      "title": "The Miserly Knight, Op.24"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Moments_musicaux,_Op.16_(Rachmaninoff,_Sergei)",
-      "year": 1896,
-      "title": "Moments musicaux, Op.16"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Monologues_from_%27Boris_Godunov%27_(Rachmaninoff,_Sergei)",
-      "year": 1891,
-      "title": "2 Monologues from 'Boris Godunov'"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Morceaux_de_fantaisie,_Op.3_(Rachmaninoff,_Sergei)",
-      "year": 1892,
-      "title": "Morceaux de fantaisie, Op.3"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Morceaux_de_salon,_Op.6_(Rachmaninoff,_Sergei)",
-      "year": 1893,
-      "title": "2 Morceaux de salon, Op.6"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/7_Morceaux_de_salon,_Op.10_(Rachmaninoff,_Sergei)",
-      "year": 1893,
-      "title": "7 Morceaux de salon, Op.10"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Morceaux,_Op.11_(Rachmaninoff,_Sergei)",
-      "year": 1894,
-      "title": "6 Morceaux, Op.11"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/A_Night_Spent_without_Dreams_(Rachmaninoff,_Sergei)",
-      "year": 1891,
-      "title": "A Night Spent without Dreams"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Nocturnes_(Rachmaninoff,_Sergei)",
-      "year": 1887,
-      "title": "3 Nocturnes"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/O_Mother_of_God_(Rachmaninoff,_Sergei)",
-      "year": 1893,
-      "title": "O Mother of God"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Oriental_Sketch_(Rachmaninoff,_Sergei)",
-      "year": 1917,
-      "title": "Oriental Sketch"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Panteley_the_Healer_(Rachmaninoff,_Sergei)",
-      "year": 1899,
-      "title": "Panteley the Healer"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.1,_Op.1_(Rachmaninoff,_Sergei)",
-      "year": 1890,
-      "title": "Piano Concerto No.1, Op.1"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.2,_Op.18_(Rachmaninoff,_Sergei)",
-      "year": 1900,
-      "title": "Piano Concerto No.2, Op.18"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.3,_Op.30_(Rachmaninoff,_Sergei)",
-      "year": 1909,
-      "title": "Piano Concerto No.3, Op.30"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.4,_Op.40_(Rachmaninoff,_Sergei)",
-      "year": 1926,
-      "title": "Piano Concerto No.4, Op.40"
-    },
-    {
+      "title": "Piano Piece in D minor",
       "imslp_url": "https://imslp.org/wiki/Piano_Piece_in_D_minor_(Rachmaninoff,_Sergei)",
-      "year": 1884,
-      "title": "Piano Piece in D minor"
+      "year": 1884
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.1,_Op.28_(Rachmaninoff,_Sergei)",
-      "year": 1907,
-      "title": "Piano Sonata No.1, Op.28"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.2,_Op.36_(Rachmaninoff,_Sergei)",
-      "year": 1913,
-      "title": "Piano Sonata No.2, Op.36"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Pieces_(Rachmaninoff,_Sergei)",
-      "year": 1899,
-      "title": "2 Pieces"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Pieces_(Rachmaninoff,_Sergei)",
-      "year": 1887,
-      "title": "4 Pieces"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Pieces,_Op.2_(Rachmaninoff,_Sergei)",
-      "year": 1891,
-      "title": "2 Pieces, Op.2"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Polka_de_W.R._(Rachmaninoff,_Sergei)",
-      "year": 1911,
-      "title": "Polka de W.R."
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Polka_italienne_(Rachmaninoff,_Sergei)",
-      "year": 1906,
-      "title": "Polka italienne"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Prelude_in_D_minor_(Rachmaninoff,_Sergei)",
-      "year": 1917,
-      "title": "Prelude in D minor"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Prelude_in_F_major_(Rachmaninoff,_Sergei)",
-      "year": 1891,
-      "title": "Prelude in F major"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/10_Preludes,_Op.23_(Rachmaninoff,_Sergei)",
-      "year": 1901,
-      "title": "10 Preludes, Op.23"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/13_Preludes,_Op.32_(Rachmaninoff,_Sergei)",
-      "year": 1910,
-      "title": "13 Preludes, Op.32"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Prince_Rostislav_(Rachmaninoff,_Sergei)",
-      "year": 1891,
-      "title": "Prince Rostislav"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Quickly,_Quickly_from_My_Cheeks_(Rachmaninoff,_Sergei)",
-      "year": 1926,
-      "title": "Quickly, Quickly from My Cheeks"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Rhapsody_on_a_Theme_of_Paganini,_Op.43_(Rachmaninoff,_Sergei)",
-      "year": 1934,
-      "title": "Rhapsody on a Theme of Paganini, Op.43"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Rock,_Op.7_(Rachmaninoff,_Sergei)",
-      "year": 1893,
-      "title": "The Rock, Op.7"
-    },
-    {
+      "title": "Romance in A minor",
       "imslp_url": "https://imslp.org/wiki/Romance_in_A_minor_(Rachmaninoff,_Sergei)",
-      "year": 1885,
-      "title": "Romance in A minor"
+      "year": 1885
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Romance_in_G_major_(Rachmaninoff,_Sergei)",
-      "year": 1894,
-      "title": "Romance in G major"
+      "title": "3 Nocturnes",
+      "imslp_url": "https://imslp.org/wiki/3_Nocturnes_(Rachmaninoff,_Sergei)",
+      "year": 1887
     },
     {
-      "imslp_url": "https://imslp.org/wiki/6_Romances,_Op.4_(Rachmaninoff,_Sergei)",
-      "year": 1890,
-      "title": "6 Romances, Op.4"
+      "title": "4 Pieces",
+      "imslp_url": "https://imslp.org/wiki/4_Pieces_(Rachmaninoff,_Sergei)",
+      "year": 1887
     },
     {
-      "imslp_url": "https://imslp.org/wiki/6_Romances,_Op.8_(Rachmaninoff,_Sergei)",
-      "year": 1893,
-      "title": "6 Romances, Op.8"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/12_Romances,_Op.14_(Rachmaninoff,_Sergei)",
-      "year": 1894,
-      "title": "12 Romances, Op.14"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/12_Romances,_Op.21_(Rachmaninoff,_Sergei)",
-      "year": 1900,
-      "title": "12 Romances, Op.21"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/15_Romances,_Op.26_(Rachmaninoff,_Sergei)",
-      "year": 1906,
-      "title": "15 Romances, Op.26"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/14_Romances,_Op.34_(Rachmaninoff,_Sergei)",
-      "year": 1912,
-      "title": "14 Romances, Op.34"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Romances,_Op.38_(Rachmaninoff,_Sergei)",
-      "year": 1916,
-      "title": "6 Romances, Op.38"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Russian_Rhapsody_(Rachmaninoff,_Sergei)",
-      "year": 1891,
-      "title": "Russian Rhapsody"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Russian_Songs_(Rachmaninoff,_Sergei)",
-      "year": 1899,
-      "title": "2 Russian Songs"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Russian_Songs,_Op.41_(Rachmaninoff,_Sergei)",
-      "year": 1926,
-      "title": "3 Russian Songs, Op.41"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Sacred_Songs_(Rachmaninoff,_Sergei)",
-      "year": 1916,
-      "title": "2 Sacred Songs"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Scherzo_in_D_minor_(Rachmaninoff,_Sergei)",
-      "year": 1888,
-      "title": "Scherzo in D minor"
-    },
-    {
+      "title": "Songs without Words",
       "imslp_url": "https://imslp.org/wiki/Songs_without_Words_(Rachmaninoff,_Sergei)",
-      "year": 1887,
-      "title": "Songs without Words"
+      "year": 1887
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Spring,_Op.20_(Rachmaninoff,_Sergei)",
-      "year": 1902,
-      "title": "Spring, Op.20"
+      "title": "Scherzo in D minor",
+      "imslp_url": "https://imslp.org/wiki/Scherzo_in_D_minor_(Rachmaninoff,_Sergei)",
+      "year": 1888
     },
     {
+      "title": "String Quartet No.1",
       "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1_(Rachmaninoff,_Sergei)",
-      "year": 1889,
-      "title": "String Quartet No.1"
+      "year": 1889
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2_(Rachmaninoff,_Sergei)",
-      "year": 1896,
-      "title": "String Quartet No.2"
+      "title": "6 Romances, Op.4",
+      "imslp_url": "https://imslp.org/wiki/6_Romances,_Op.4_(Rachmaninoff,_Sergei)",
+      "year": 1890
     },
     {
+      "title": "Canon in E minor",
+      "imslp_url": "https://imslp.org/wiki/Canon_in_E_minor_(Rachmaninoff,_Sergei)",
+      "year": 1890
+    },
+    {
+      "title": "Deus meus",
+      "imslp_url": "https://imslp.org/wiki/Deus_meus_(Rachmaninoff,_Sergei)",
+      "year": 1890
+    },
+    {
+      "title": "Lied",
+      "imslp_url": "https://imslp.org/wiki/Lied_(Rachmaninoff,_Sergei)",
+      "year": 1890
+    },
+    {
+      "title": "Piano Concerto No.1, Op.1",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.1,_Op.1_(Rachmaninoff,_Sergei)",
+      "year": 1890
+    },
+    {
+      "title": "2 Monologues from 'Boris Godunov'",
+      "imslp_url": "https://imslp.org/wiki/2_Monologues_from_'Boris_Godunov'_(Rachmaninoff,_Sergei)",
+      "year": 1891
+    },
+    {
+      "title": "2 Pieces, Op.2",
+      "imslp_url": "https://imslp.org/wiki/2_Pieces,_Op.2_(Rachmaninoff,_Sergei)",
+      "year": 1891
+    },
+    {
+      "title": "A Night Spent without Dreams",
+      "imslp_url": "https://imslp.org/wiki/A_Night_Spent_without_Dreams_(Rachmaninoff,_Sergei)",
+      "year": 1891
+    },
+    {
+      "title": "Burlesque Song",
+      "imslp_url": "https://imslp.org/wiki/Burlesque_Song_(Rachmaninoff,_Sergei)",
+      "year": 1891
+    },
+    {
+      "title": "Prelude in F major",
+      "imslp_url": "https://imslp.org/wiki/Prelude_in_F_major_(Rachmaninoff,_Sergei)",
+      "year": 1891
+    },
+    {
+      "title": "Prince Rostislav",
+      "imslp_url": "https://imslp.org/wiki/Prince_Rostislav_(Rachmaninoff,_Sergei)",
+      "year": 1891
+    },
+    {
+      "title": "Russian Rhapsody",
+      "imslp_url": "https://imslp.org/wiki/Russian_Rhapsody_(Rachmaninoff,_Sergei)",
+      "year": 1891
+    },
+    {
+      "title": "Suite for Orchestra",
       "imslp_url": "https://imslp.org/wiki/Suite_for_Orchestra_(Rachmaninoff,_Sergei)",
-      "year": 1891,
-      "title": "Suite for Orchestra"
+      "year": 1891
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Suite_No.1,_Op.5_(Rachmaninoff,_Sergei)",
-      "year": 1893,
-      "title": "Suite No.1, Op.5"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Suite_No.2,_Op.17_(Rachmaninoff,_Sergei)",
-      "year": 1900,
-      "title": "Suite No.2, Op.17"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Symphonic_Dances,_Op.45_(Rachmaninoff,_Sergei)",
-      "year": 1940,
-      "title": "Symphonic Dances, Op.45"
-    },
-    {
+      "title": "Symphony in D minor",
       "imslp_url": "https://imslp.org/wiki/Symphony_in_D_minor_(Rachmaninoff,_Sergei)",
-      "year": 1891,
-      "title": "Symphony in D minor"
+      "year": 1891
     },
     {
+      "title": "Aleko",
+      "imslp_url": "https://imslp.org/wiki/Aleko_(Rachmaninoff,_Sergei)",
+      "year": 1892
+    },
+    {
+      "title": "Capriccio on Gypsy Themes, Op.12",
+      "imslp_url": "https://imslp.org/wiki/Capriccio_on_Gypsy_Themes,_Op.12_(Rachmaninoff,_Sergei)",
+      "year": 1892
+    },
+    {
+      "title": "Morceaux de fantaisie, Op.3",
+      "imslp_url": "https://imslp.org/wiki/Morceaux_de_fantaisie,_Op.3_(Rachmaninoff,_Sergei)",
+      "year": 1892
+    },
+    {
+      "title": "Trio \u00e9l\u00e9giaque No.1 in G minor",
+      "imslp_url": "https://imslp.org/wiki/Trio_\u00e9l\u00e9giaque_No.1_in_G_minor_(Rachmaninoff,_Sergei)",
+      "year": 1892
+    },
+    {
+      "title": "2 Morceaux de salon, Op.6",
+      "imslp_url": "https://imslp.org/wiki/2_Morceaux_de_salon,_Op.6_(Rachmaninoff,_Sergei)",
+      "year": 1893
+    },
+    {
+      "title": "6 Romances, Op.8",
+      "imslp_url": "https://imslp.org/wiki/6_Romances,_Op.8_(Rachmaninoff,_Sergei)",
+      "year": 1893
+    },
+    {
+      "title": "7 Morceaux de salon, Op.10",
+      "imslp_url": "https://imslp.org/wiki/7_Morceaux_de_salon,_Op.10_(Rachmaninoff,_Sergei)",
+      "year": 1893
+    },
+    {
+      "title": "Chorus of Spirits",
+      "imslp_url": "https://imslp.org/wiki/Chorus_of_Spirits_(Rachmaninoff,_Sergei)",
+      "year": 1893
+    },
+    {
+      "title": "O Mother of God",
+      "imslp_url": "https://imslp.org/wiki/O_Mother_of_God_(Rachmaninoff,_Sergei)",
+      "year": 1893
+    },
+    {
+      "title": "Suite No.1, Op.5",
+      "imslp_url": "https://imslp.org/wiki/Suite_No.1,_Op.5_(Rachmaninoff,_Sergei)",
+      "year": 1893
+    },
+    {
+      "title": "The Rock, Op.7",
+      "imslp_url": "https://imslp.org/wiki/The_Rock,_Op.7_(Rachmaninoff,_Sergei)",
+      "year": 1893
+    },
+    {
+      "title": "Trio \u00e9l\u00e9giaque No.2 in D minor, Op.9",
+      "imslp_url": "https://imslp.org/wiki/Trio_\u00e9l\u00e9giaque_No.2_in_D_minor,_Op.9_(Rachmaninoff,_Sergei)",
+      "year": 1893
+    },
+    {
+      "title": "12 Romances, Op.14",
+      "imslp_url": "https://imslp.org/wiki/12_Romances,_Op.14_(Rachmaninoff,_Sergei)",
+      "year": 1894
+    },
+    {
+      "title": "6 Morceaux, Op.11",
+      "imslp_url": "https://imslp.org/wiki/6_Morceaux,_Op.11_(Rachmaninoff,_Sergei)",
+      "year": 1894
+    },
+    {
+      "title": "Romance in G major",
+      "imslp_url": "https://imslp.org/wiki/Romance_in_G_major_(Rachmaninoff,_Sergei)",
+      "year": 1894
+    },
+    {
+      "title": "6 Choruses, Op.15",
+      "imslp_url": "https://imslp.org/wiki/6_Choruses,_Op.15_(Rachmaninoff,_Sergei)",
+      "year": 1895
+    },
+    {
+      "title": "Symphony No.1, Op.13",
       "imslp_url": "https://imslp.org/wiki/Symphony_No.1,_Op.13_(Rachmaninoff,_Sergei)",
-      "year": 1895,
-      "title": "Symphony No.1, Op.13"
+      "year": 1895
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.2,_Op.27_(Rachmaninoff,_Sergei)",
-      "year": 1906,
-      "title": "Symphony No.2, Op.27"
+      "title": "Moments musicaux, Op.16",
+      "imslp_url": "https://imslp.org/wiki/Moments_musicaux,_Op.16_(Rachmaninoff,_Sergei)",
+      "year": 1896
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.3,_Op.44_(Rachmaninoff,_Sergei)",
-      "year": 1935,
-      "title": "Symphony No.3, Op.44"
+      "title": "String Quartet No.2",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2_(Rachmaninoff,_Sergei)",
+      "year": 1896
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Trio_%C3%A9l%C3%A9giaque_No.1_in_G_minor_(Rachmaninoff,_Sergei)",
-      "year": 1892,
-      "title": "Trio \u00e9l\u00e9giaque No.1 in G minor"
+      "title": "2 Pieces",
+      "imslp_url": "https://imslp.org/wiki/2_Pieces_(Rachmaninoff,_Sergei)",
+      "year": 1899
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Trio_%C3%A9l%C3%A9giaque_No.2_in_D_minor,_Op.9_(Rachmaninoff,_Sergei)",
-      "year": 1893,
-      "title": "Trio \u00e9l\u00e9giaque No.2 in D minor, Op.9"
+      "title": "2 Russian Songs",
+      "imslp_url": "https://imslp.org/wiki/2_Russian_Songs_(Rachmaninoff,_Sergei)",
+      "year": 1899
     },
     {
+      "title": "Panteley the Healer",
+      "imslp_url": "https://imslp.org/wiki/Panteley_the_Healer_(Rachmaninoff,_Sergei)",
+      "year": 1899
+    },
+    {
+      "title": "12 Romances, Op.21",
+      "imslp_url": "https://imslp.org/wiki/12_Romances,_Op.21_(Rachmaninoff,_Sergei)",
+      "year": 1900
+    },
+    {
+      "title": "Francesca da Rimini, Op.25",
+      "imslp_url": "https://imslp.org/wiki/Francesca_da_Rimini,_Op.25_(Rachmaninoff,_Sergei)",
+      "year": 1900
+    },
+    {
+      "title": "Piano Concerto No.2, Op.18",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.2,_Op.18_(Rachmaninoff,_Sergei)",
+      "year": 1900
+    },
+    {
+      "title": "Suite No.2, Op.17",
+      "imslp_url": "https://imslp.org/wiki/Suite_No.2,_Op.17_(Rachmaninoff,_Sergei)",
+      "year": 1900
+    },
+    {
+      "title": "10 Preludes, Op.23",
+      "imslp_url": "https://imslp.org/wiki/10_Preludes,_Op.23_(Rachmaninoff,_Sergei)",
+      "year": 1901
+    },
+    {
+      "title": "Cello Sonata, Op.19",
+      "imslp_url": "https://imslp.org/wiki/Cello_Sonata,_Op.19_(Rachmaninoff,_Sergei)",
+      "year": 1901
+    },
+    {
+      "title": "Spring, Op.20",
+      "imslp_url": "https://imslp.org/wiki/Spring,_Op.20_(Rachmaninoff,_Sergei)",
+      "year": 1902
+    },
+    {
+      "title": "Variations on a Theme of Chopin, Op.22",
       "imslp_url": "https://imslp.org/wiki/Variations_on_a_Theme_of_Chopin,_Op.22_(Rachmaninoff,_Sergei)",
-      "year": 1902,
-      "title": "Variations on a Theme of Chopin, Op.22"
+      "year": 1902
     },
     {
+      "title": "The Miserly Knight, Op.24",
+      "imslp_url": "https://imslp.org/wiki/The_Miserly_Knight,_Op.24_(Rachmaninoff,_Sergei)",
+      "year": 1903
+    },
+    {
+      "title": "15 Romances, Op.26",
+      "imslp_url": "https://imslp.org/wiki/15_Romances,_Op.26_(Rachmaninoff,_Sergei)",
+      "year": 1906
+    },
+    {
+      "title": "Polka italienne",
+      "imslp_url": "https://imslp.org/wiki/Polka_italienne_(Rachmaninoff,_Sergei)",
+      "year": 1906
+    },
+    {
+      "title": "Symphony No.2, Op.27",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.2,_Op.27_(Rachmaninoff,_Sergei)",
+      "year": 1906
+    },
+    {
+      "title": "Piano Sonata No.1, Op.28",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.1,_Op.28_(Rachmaninoff,_Sergei)",
+      "year": 1907
+    },
+    {
+      "title": "Isle of the Dead, Op.29",
+      "imslp_url": "https://imslp.org/wiki/Isle_of_the_Dead,_Op.29_(Rachmaninoff,_Sergei)",
+      "year": 1909
+    },
+    {
+      "title": "Piano Concerto No.3, Op.30",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.3,_Op.30_(Rachmaninoff,_Sergei)",
+      "year": 1909
+    },
+    {
+      "title": "13 Preludes, Op.32",
+      "imslp_url": "https://imslp.org/wiki/13_Preludes,_Op.32_(Rachmaninoff,_Sergei)",
+      "year": 1910
+    },
+    {
+      "title": "Liturgy of St John Chrysostom, Op.31",
+      "imslp_url": "https://imslp.org/wiki/Liturgy_of_St_John_Chrysostom,_Op.31_(Rachmaninoff,_Sergei)",
+      "year": 1910
+    },
+    {
+      "title": "Etudes-tableaux, Op.33",
+      "imslp_url": "https://imslp.org/wiki/Etudes-tableaux,_Op.33_(Rachmaninoff,_Sergei)",
+      "year": 1911
+    },
+    {
+      "title": "Polka de W.R.",
+      "imslp_url": "https://imslp.org/wiki/Polka_de_W.R._(Rachmaninoff,_Sergei)",
+      "year": 1911
+    },
+    {
+      "title": "14 Romances, Op.34",
+      "imslp_url": "https://imslp.org/wiki/14_Romances,_Op.34_(Rachmaninoff,_Sergei)",
+      "year": 1912
+    },
+    {
+      "title": "Piano Sonata No.2, Op.36",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.2,_Op.36_(Rachmaninoff,_Sergei)",
+      "year": 1913
+    },
+    {
+      "title": "The Bells, Op.35",
+      "imslp_url": "https://imslp.org/wiki/The_Bells,_Op.35_(Rachmaninoff,_Sergei)",
+      "year": 1913
+    },
+    {
+      "title": "All-Night Vigil, Op.37",
+      "imslp_url": "https://imslp.org/wiki/All-Night_Vigil,_Op.37_(Rachmaninoff,_Sergei)",
+      "year": 1915
+    },
+    {
+      "title": "2 Sacred Songs",
+      "imslp_url": "https://imslp.org/wiki/2_Sacred_Songs_(Rachmaninoff,_Sergei)",
+      "year": 1916
+    },
+    {
+      "title": "6 Romances, Op.38",
+      "imslp_url": "https://imslp.org/wiki/6_Romances,_Op.38_(Rachmaninoff,_Sergei)",
+      "year": 1916
+    },
+    {
+      "title": "Etudes-tableaux, Op.39",
+      "imslp_url": "https://imslp.org/wiki/Etudes-tableaux,_Op.39_(Rachmaninoff,_Sergei)",
+      "year": 1916
+    },
+    {
+      "title": "Fragments",
+      "imslp_url": "https://imslp.org/wiki/Fragments_(Rachmaninoff,_Sergei)",
+      "year": 1917
+    },
+    {
+      "title": "Oriental Sketch",
+      "imslp_url": "https://imslp.org/wiki/Oriental_Sketch_(Rachmaninoff,_Sergei)",
+      "year": 1917
+    },
+    {
+      "title": "Prelude in D minor",
+      "imslp_url": "https://imslp.org/wiki/Prelude_in_D_minor_(Rachmaninoff,_Sergei)",
+      "year": 1917
+    },
+    {
+      "title": "3 Russian Songs, Op.41",
+      "imslp_url": "https://imslp.org/wiki/3_Russian_Songs,_Op.41_(Rachmaninoff,_Sergei)",
+      "year": 1926
+    },
+    {
+      "title": "Piano Concerto No.4, Op.40",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.4,_Op.40_(Rachmaninoff,_Sergei)",
+      "year": 1926
+    },
+    {
+      "title": "Quickly, Quickly from My Cheeks",
+      "imslp_url": "https://imslp.org/wiki/Quickly,_Quickly_from_My_Cheeks_(Rachmaninoff,_Sergei)",
+      "year": 1926
+    },
+    {
+      "title": "Variations on a Theme of Corelli, Op.42",
       "imslp_url": "https://imslp.org/wiki/Variations_on_a_Theme_of_Corelli,_Op.42_(Rachmaninoff,_Sergei)",
-      "year": 1931,
-      "title": "Variations on a Theme of Corelli, Op.42"
+      "year": 1931
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Vocalise_(Rachmaninoff,_Sergei)",
-      "year": 1912,
-      "title": "Vocalise"
+      "title": "Rhapsody on a Theme of Paganini, Op.43",
+      "imslp_url": "https://imslp.org/wiki/Rhapsody_on_a_Theme_of_Paganini,_Op.43_(Rachmaninoff,_Sergei)",
+      "year": 1934
     },
     {
-      "imslp_url": "https://imslp.org/wiki/2_Pieces_for_6_Hands_(Rachmaninoff,_Sergei)",
-      "year": 1890,
-      "title": "2 Pieces for 6 Hands"
+      "title": "Symphony No.3, Op.44",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.3,_Op.44_(Rachmaninoff,_Sergei)",
+      "year": 1935
     },
     {
-      "imslp_url": "https://imslp.org/wiki/12_Songs_without_Opus_(Rachmaninoff,_Sergei)",
-      "year": 1890,
-      "title": "12 Songs without Opus"
+      "title": "Symphonic Dances, Op.45",
+      "imslp_url": "https://imslp.org/wiki/Symphonic_Dances,_Op.45_(Rachmaninoff,_Sergei)",
+      "year": 1940
     }
   ]
 }

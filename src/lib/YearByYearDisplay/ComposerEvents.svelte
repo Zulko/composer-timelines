@@ -2,44 +2,79 @@
   export let composerData;
   export let showWorks = true;
   export let showLifeEvents = true;
+  export let makeItFunny = false;
   export let year;
+
   let sectionId;
+  let nthYear;
 
   $: {
     sectionId = `${encodeURIComponent(composerData.full_name)}-${year}`;
+    nthYear = withOrdinalSuffix(year - composerData.birth_year + 1);
   }
-  function youtubeSearchTerm(composition) {
-    return encodeURIComponent(composerData.last_name + " " + composition.title);
+  function youtubeSearchUrl(composition) {
+    const term = composerData.full_name + " " + composition.title;
+    const encodedTerm = encodeURIComponent(term);
+    return `https://www.youtube.com/results?search_query=${encodedTerm}`;
+  }
+
+  function withOrdinalSuffix(number) {
+    // Convert number to an integer
+    const n = Math.abs(number);
+    const lastDigit = n % 10;
+    const lastTwoDigits = n % 100;
+
+    if (lastTwoDigits >= 11 && lastTwoDigits <= 13) {
+      return number + "th";
+    }
+
+    switch (lastDigit) {
+      case 1:
+        return number + "st";
+      case 2:
+        return number + "nd";
+      case 3:
+        return number + "rd";
+      default:
+        return number + "th";
+    }
   }
 </script>
 
 <div class="composer-events" id={sectionId}>
-  {#if composerData.events.length > 0 || composerData.compositions.length > 0}
-    <h3>
-      <a
+  {#if composerData.events.length > 0 || composerData.works.length > 0}
+    <h4>
+      <!-- <a
         href={composerData.wikipedia_url}
         class="icon"
         target="_blank"
         title="Go to Wikipedia"
       >
         <i class="fab fa-wikipedia-w"></i>
-      </a>
-      {composerData.full_name}
-    </h3>
+      </a> -->
+      {composerData.full_name} <span class="nth-year">— {nthYear} year </span>
+    </h4>
   {/if}
   {#if showLifeEvents}
     <ul>
       {#each composerData.events as event}
         <li class="event-icon">
-          <b>{event.event} ({event.city}, {event.country})</b>
-          {event.summary}
+          {event.emoji}
+          <b>{event.title} ({event.location})</b>
+          {makeItFunny ? event.fun_version : event.summary} (<a
+            href="{composerData.wikipedia_url}#{event.section}"
+            target="_blank"
+          >
+            <i class="fab fa-wikipedia-w"></i>
+            learn more</a
+          >)
         </li>
       {/each}
     </ul>
   {/if}
   {#if showWorks}
     <ul class="works">
-      {#each composerData.compositions as composition}
+      {#each composerData.works as composition}
         <li>
           <a
             href={composition.imslp_url}
@@ -50,9 +85,7 @@
             <i class="fas fa-file-pdf"></i>
           </a>
           <a
-            href="https://www.youtube.com/results?search_query={youtubeSearchTerm(
-              composition
-            )}"
+            href={youtubeSearchUrl(composition)}
             class="icon"
             target="_blank"
             title="Search YouTube"
@@ -74,20 +107,13 @@
 
   .composer-events li {
     margin-bottom: 10px;
-    padding-left: 25px; /* Adjust padding to accommodate the icon */
+    /* padding-left: 25px; Adjust padding to accommodate the icon */
+
     position: relative;
   }
 
-  /* Icon for events */
-  .composer-events .event-icon::before {
-    content: "\f1ea"; /* Unicode for Font Awesome 'book' icon */
-    font-family: "Font Awesome 5 Free";
-    font-weight: 900; /* Font Awesome free icons have a font-weight of 900 */
-    position: absolute;
-    left: 0;
-    top: 0;
-    font-size: 1rem;
-    color: #555;
+  .nth-year {
+    font-weight: normal;
   }
 
   /* Icon for compositions */

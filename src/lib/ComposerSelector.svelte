@@ -3,6 +3,7 @@
   import Select from "svelte-select";
 
   export let composerListWithMetadata = [];
+  export let selectedComposers;
 
   const dispatch = createEventDispatcher();
 
@@ -24,6 +25,7 @@
       value: composer.full_name,
     }))}
   multiple={true}
+  value={selectedComposers}
   on:change={(e) => handleChange(e.detail)}
   on:clear={(e) => handleUnselect(e.detail)}
   placeholder="Select composers"

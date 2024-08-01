@@ -7,607 +7,524 @@
   "wikipedia_url": "https://en.wikipedia.org/wiki/Arnold_Schoenberg",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Arnold Schoenberg made his grand entrance into Vienna, Austria, completing the puzzle of a lower middle-class Jewish family. It was just a regular day, but who knew this infant would later turn music upside down?",
+      "section": "Biography",
+      "title": "Birth of Arnold Schoenberg",
+      "summary": "Arnold Schoenberg was born into a lower middle-class Jewish family in the Leopoldstadt district of Vienna, with his father being a shoe-shopkeeper and mother a piano teacher. He was largely self-taught and took only counterpoint lessons with Alexander Zemlinsky.",
       "year": 1874,
-      "city": "Vienna",
-      "country": "Austria-Hungary"
+      "location": "Vienna, Austria",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Arnold Schoenberg came from a lower middle-class Jewish family in Leopoldstadt, Vienna. His dad sold shoes, while his mom was a piano teacher. Self-taught, Arnold only took counterpoint lessons from Alexander Zemlinsky."
     },
     {
-      "event": "Orchestration Career",
-      "summary": "In his twenties, Schoenberg dabbled in orchestrating operettas, making some coins while crafting his own musical masterpieces like 'Verkl\u00e4rte Nacht.' It's like he was balancing his day job while plotting to revolutionize music.",
-      "year": 1899,
-      "city": "Vienna",
-      "country": "Austria-Hungary"
-    },
-    {
-      "event": "Marriage",
-      "summary": "Schoenberg tied the knot with Mathilde Zemlinsky, making him part of a family tree that saw him circulate among musicians and composers. Little did he know; marital bliss would soon become a temporary relocation to Drama City.",
+      "section": "Biography",
+      "title": "Marriage to Mathilde Zemlinsky",
+      "summary": "In October 1901, Schoenberg married Mathilde Zemlinsky, the sister of conductor Alexander von Zemlinsky.",
       "year": 1901,
-      "city": "Vienna",
-      "country": "Austria-Hungary"
+      "location": "Vienna, Austria",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "In October 1901, Schoenberg tied the knot with Mathilde Zemlinsky, which proves that even composers can find their symphony in life. And guess what? She's the sister of conductor Alexander von Zemlinsky, which makes family gatherings a real crescendo!"
     },
     {
-      "event": "Atonal Compositions",
-      "summary": "While wrestling with personal heartache, Schoenberg decided it was time to throw out keys entirely and composed 'You lean against a silver-willow.' In a bold move, he bid farewell to key signatures forever! A brave new world of sound!",
-      "year": 1908,
-      "city": "Vienna",
-      "country": "Austria-Hungary"
-    },
-    {
-      "event": "Pierrot Lunaire",
-      "summary": "In 1912, Schoenberg unleashed 'Pierrot lunaire', a cycle that blended poetry with music, creating a genre explosion nobody saw coming. It was so avant-garde that it left some listeners wondering if they had accidentally entered an art gallery instead of a concert hall.",
-      "year": 1912,
-      "city": "Berlin",
-      "country": "Germany"
-    },
-    {
-      "event": "World War I",
-      "summary": "Drafted into military service in his forties, Schoenberg humorously compared his own musical battles with the war, while secretly mulling over unfinished works. Clearly, the universe had other plans for his productivity!",
-      "year": 1914,
-      "city": "Vienna",
-      "country": "Austria-Hungary"
-    },
-    {
-      "event": "Society for Private Musical Performances",
-      "summary": "Schoenberg, in response to a lack of modern music appreciation, founded the Society for Private Musical Performances to showcase contemporary composers. It\u2019s like he created an exclusive club where only the coolest kids were allowed in!",
-      "year": 1918,
-      "city": "Vienna",
-      "country": "Austria-Hungary"
-    },
-    {
-      "event": "Development of Twelve-tone Technique",
-      "summary": "Schoenberg didn't just break the rules; he reinvented them with his twelve-tone method. This new system of organizing pitches was so revolutionary it's like he established a new order in the music galaxy, where only he understood the map!",
-      "year": 1921,
-      "city": "Berlin",
-      "country": "Germany"
-    },
-    {
-      "event": "Emigration to the US",
-      "summary": "As the Nazis began their ascent, Schoenberg hopped on a boat to America. He came seeking a new life, musical freedom, and a lack of folks following him around with pitchforks. Imagine arriving in a new land like a musical superhero!",
-      "year": 1933,
-      "city": "Los Angeles",
-      "country": "USA"
-    },
-    {
-      "event": "Citizenship and War Commentary",
-      "summary": "After becoming a US citizen in 1941, Schoenberg decided to let off some steam by mocking fascism in 'Ode to Napoleon.' One could say he relished being both a composer and a satirist, using melodies to take a jab at tyranny. Talk about double-duty!",
-      "year": 1942,
-      "city": "Los Angeles",
-      "country": "USA"
-    },
-    {
-      "event": "A Survivor from Warsaw",
-      "summary": "In 1947, Schoenberg poured his grief and reflections on the Holocaust into 'A Survivor from Warsaw', a piece that was both a tribute and a testament to resilience. It showed that even in heavy themes, there's a space for the power of sound.",
-      "year": 1947,
-      "city": "Los Angeles",
-      "country": "USA"
-    },
-    {
-      "event": "Death",
-      "summary": "Schoenberg, after a remarkable and often quirky career, took his final bow in Los Angeles. The music world paused to reflect on the master of modernism who danced with dissonance and explored the outer realms of tonality. What a send-off!",
-      "year": 1951,
-      "city": "Los Angeles",
-      "country": "USA"
-    },
-    {
-      "event": "Emigration to the United States",
-      "summary": "After a vacation in France, Schoenberg got the memo that Germany was no longer a safe spot for him, leading to his big move across the pond. Membership in the Jewish religion was reclaimed, and he embraced American life with a flair that even made him change the spelling of his name for local convenience. Comic relief: he probably thought adding a 'c' would make him sound more American, like he was fitting in with a crowd that just loved 'cheese on their nachos'.",
-      "year": 1933,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Teaching at UCLA",
-      "summary": "Once in the US, Schoenberg needed to find a way to pay the rent. So, he began teaching at various music schools including the fancy University of California, Los Angeles. His salary was friendly enough to afford a house near Shirley Temple, which surely led to some interesting neighborhood gatherings \u2013 coffee and pastries around the piano while the Temple kids threw in some tap dancing for good measure!",
-      "year": 1936,
-      "city": "Los Angeles",
-      "country": "USA"
-    },
-    {
-      "event": "Becoming a US Citizen",
-      "summary": "Finally feeling at home, Schoenberg decided to seal the deal and became a US citizen. He probably celebrated with a barbecue, or at least some cookies, feeling a swell of patriotism as he waved his new flag \u2013 or, more likely, a music sheet!",
-      "year": 1941,
-      "city": "Los Angeles",
-      "country": "USA"
-    },
-    {
-      "event": "Composing A Survivor from Warsaw",
-      "summary": "In what might be his most profound work, Schoenberg channeled his emotions into 'A Survivor from Warsaw.' It's almost like he could hear the cries of history echoing, all while crafting a piece that doubled as a reminder of both pain and resilience. A bit like ordering a deeply emotional Berliner donut \u2013 it's sweet, but you can't ignore the bittersweet stuff inside.",
-      "year": 1947,
-      "city": "Los Angeles",
-      "country": "USA"
-    },
-    {
-      "event": "His Death",
-      "summary": "In a twist of fate befitting his notorious superstition about dying on multiples of 13, Schoenberg passed away on his 76th birthday, which magically added up to 13. Ironically, it seems astrology might have been the only thing that made him nervous enough to spend his birthday in bed. Poor guy didn't even get cake!",
-      "year": 1951,
-      "city": "Los Angeles",
-      "country": "USA"
-    },
-    {
-      "event": "Public Acceptance",
-      "summary": "After some early hiccups, Schoenberg finally got a thumbs up from the audience with his tone poem Pelleas und Melisande in Berlin. Talk about a glow-up, right?",
+      "section": "Reception and legacy",
+      "title": "Reception of Pelleas und Melisande",
+      "summary": "Schoenberg began to gain public acceptance through works like Pelleas und Melisande. The piece was notably performed in Berlin in 1907, marking a pivotal moment in his early career.",
       "year": 1907,
-      "city": "Berlin",
-      "country": "Germany"
+      "location": "Berlin",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Schoenberg was like that kid in class who finally gets picked for the team when he delivers a smashing rendition of Pelleas und Melisande! The highlight of 1907 was performing it in Berlin, marking a pivotal moment in his early career; it was also the moment people realized he wasn't just the weird kid in the back doodling music notes!"
     },
     {
-      "event": "Ovations for Gurre-Lieder",
-      "summary": "During the Vienna premi\u00e8re of Gurre-Lieder, Schoenberg must have thought he was at a rock concert with a 15-minute ovation and a fancy laurel crown to top it off. Who knew classical music could get that wild?",
-      "year": 1913,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Skandalkonzert",
-      "summary": "The Chamber Symphony No. 1 felt like a wallflower at its premi\u00e8re, but when it hit the stage again at the Skandalkonzert, it became the talk of the town\u2014complete with audience drama involving door keys and fistfights. Now that's how you make an entrance!",
-      "year": 1913,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Critique of Stravinsky",
-      "summary": "Schoenberg took a little jab at Igor Stravinsky's neoclassical trend in his poem 'Vielseitigkeit'. Apparently, Stravinsky was 'Der kleine Modernsky' to Schoenberg's discerning eye, a true mark of witty rivalry!",
-      "year": 1913,
-      "city": "Austria",
-      "country": "Austria"
-    },
-    {
-      "event": "Adrian Leverk\u00fchn in Doctor Faustus",
-      "summary": "Schoenberg wasn't too thrilled when a character in Mann\u2019s Doctor Faustus mirrored his twelve-tone technique. He wrote letters to Mann, likely filled with musical grumbles about letting literary figures steal his thunder!",
-      "year": 1947,
-      "city": "Austria",
-      "country": "Austria"
-    },
-    {
-      "event": "Influence on American Composers",
-      "summary": "Schoenberg's twelve-tone system became the hottest topic among musicians, acting like a spark that ignited the creativity of many American composers. You could say his ideas spread like musical wildfire!",
-      "year": 1940,
-      "city": "United States",
-      "country": "USA"
-    },
-    {
-      "event": "First Published Composition",
-      "summary": "Just when people thought he'd fade into the backdrop, Schoenberg's first composition found its way into the world. The critics had their fun trying to decipher what this new kid on the block was up to.",
-      "year": 1901,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Pierrot Lunaire Premiere",
-      "summary": "The world was treated to a blend of voice and instruments when Schoenberg premiered 'Pierrot Lunaire'. Audiences were either mesmerized or confused, but one thing was clear: it was a theatrical spectacle!",
-      "year": 1912,
-      "city": "Berlin",
-      "country": "Germany"
-    },
-    {
-      "event": "Developed Twelve-Tone Technique",
-      "summary": "Schoenberg decided that the world of music could use a bit more chaos and less predictability with the invention of his twelve-tone technique. Music theorists everywhere grabbed their pencils and papers to catch up!",
-      "year": 1923,
-      "city": "Berlin",
-      "country": "Germany"
-    },
-    {
-      "event": "Founding of the Society for Private Musical Performance",
-      "summary": "Schoenberg established this exclusive musical society, proving once again that he loved music more than the average listener. Invitations were limited, but the impact of the performances? Far-reaching!",
-      "year": 1918,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Influence on Hollywood Music",
-      "summary": "Schoenberg's unique style influenced film scoring, leading to a fusion of his innovative sounds with the glitz and glamour of Hollywood. Even cinema couldn\u2019t resist his musical charm!",
-      "year": 1940,
-      "city": "Los Angeles",
-      "country": "USA"
-    },
-    {
-      "event": "First Major Work",
-      "summary": "In a fit of artistic inspiration, Schoenberg composed 'Verkl\u00e4rte Nacht', a piece so compelling that it made everyone wonder what else they were missing in music. It was as if he was saying, 'Hey, listen up, I mean business!'",
-      "year": 1899,
-      "city": "Berlin",
-      "country": "Germany"
-    },
-    {
-      "event": "Atonality Exploration",
-      "summary": "Schoenberg decided that traditional harmony was so last century. He kicked it to the curb and made a bold leap into atonality, proving that rules are meant to be broken, especially in music!",
+      "section": "Biography",
+      "title": "Development of Atonality",
+      "summary": "Schoenberg composed \"You lean against a silver-willow\" during his wife's absence, marking it as his first composition without any reference to a key, indicating a shift in his compositional style.",
       "year": 1908,
-      "city": "Vienna",
-      "country": "Austria"
+      "location": "Vienna, Austria",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Schoenberg composed 'You lean against a silver-willow' during his wife's absence, marking it as his first keyless wonder, indicating a bold shift in his musical style like moving from training wheels to a skateboard!"
     },
     {
-      "event": "First Operatic Work",
-      "summary": "With 'Erwartung', Schoenberg brought drama and emotion to the operatic stage. Apparently, he wasn't satisfied with just music alone; he needed to add a little melodrama to keep things spicy!",
-      "year": 1909,
-      "city": "Vienna",
-      "country": "Austria"
+      "section": "Biography",
+      "title": "Marriage Troubles",
+      "summary": "During the summer of 1908, Schoenberg's wife Mathilde left him for several months for a young painter, Richard Gerstl. This absence marked a distinct change in Schoenberg's work.",
+      "year": 1908,
+      "location": "Vienna, Austria",
+      "emoji": "\ud83c\udfa8",
+      "fun_version": "Back in the summer of 1908, Schoenberg found himself in a bit of a pickle when his wife Mathilde decided she needed some \u2018artistic inspiration\u2019 and took off for several months with a dashing young painter named Richard Gerstl. This absence marked a distinct change in Schoenberg\u2019s work!"
     },
     {
-      "event": "Introduction of Twelve-tone Technique",
-      "summary": "Schoenberg invented the twelve-tone technique, creating a musical recipe that was as revolutionary as any grand culinary invention. He basically turned musical notes into the ultimate gourmet dish!",
-      "year": 1921,
-      "city": "Vienna",
-      "country": "Austria"
+      "section": "Biography",
+      "title": "Composition of Pierrot lunaire",
+      "summary": "In 1912, Schoenberg composed the influential cycle of expressionist songs, Pierrot lunaire, using the technique of Sprechstimme.",
+      "year": 1912,
+      "location": "Vienna, Austria",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1912, Schoenberg decided to spice up the classical music scene by composing 'Pierrot lunaire,' a collection of expressionist songs. He thought, why not sing in a way that sounded like talking with a mouthful of marbles? Enter Sprechstimme - the technique that makes karaoke night a Broadway show!"
     },
     {
-      "event": "Later Works and Legacy",
-      "summary": "In Los Angeles, Schoenberg kept composing and influencing the future of music. It's like he found the fountain of youth for composers\u2014while the world was busy with swing and jazz, he was revolutionizing music behind the scenes!",
+      "section": "Reception and legacy",
+      "title": "Criticism of Stravinsky",
+      "summary": "Schoenberg criticized Igor Stravinsky's neoclassical trend in his poem 'Vielseitigkeit', reflecting his opposition to the emerging style and underscoring his own compositional philosophy.",
+      "year": 1913,
+      "location": "Berlin",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Schoenberg took one look at Stravinsky's neoclassical trend and said, 'Is this a music style or a fancy dessert? Because it's sweet, but all I taste is confusion!' In his poem 'Vielseitigkeit', he digs in with a spoon to reflect on his own compositional philosophy."
+    },
+    {
+      "section": "Reception and legacy",
+      "title": "Premi\u00e8re of Gurre-Lieder",
+      "summary": "At the 1913 Vienna premiere of Gurre-Lieder, Schoenberg received a significant ovation lasting a quarter of an hour, culminating with a laurel crown presentation.",
+      "year": 1913,
+      "location": "Vienna",
+      "emoji": "\ud83c\udf1f",
+      "fun_version": "At the 1913 Vienna premiere of Gurre-Lieder, Schoenberg received a standing ovation that lasted a whole quarter of an hour! And just when you thought it couldn\u2019t get any better, he was presented with a laurel crown. I mean, who needs a trophy when you've got a leafy headpiece?"
+    },
+    {
+      "section": "Reception and legacy",
+      "title": "Skandalkonzert",
+      "summary": "The Chamber Symphony No. 1 had an unremarkable premiere in 1907 but gained notoriety during the Skandalkonzert on March 31, 1913, which featured violent interactions among the audience.",
+      "year": 1913,
+      "location": "Vienna",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "The Chamber Symphony No. 1 premiered in 1907 and was about as exciting as watching paint dry. But, hold onto your hats! Things got wild during the infamous Skandalkonzert on March 31, 1913, which featured violent interactions among the audience turning the concert into a wrestling match!"
+    },
+    {
+      "section": "Biography",
+      "title": "Founding of the Society for Private Musical Performances",
+      "summary": "In 1918, Schoenberg founded the Society to provide a forum for modern compositions, allowing difficult contemporary works to be performed amidst the challenges of the public's tastes.",
+      "year": 1918,
+      "location": "Vienna, Austria",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "In 1918, Schoenberg formed the Society to provide a forum for modern compositions, tackling works that were as intriguing as a cat trying to swim. They believed that if the audience could endure the public's preference for bland music, they could surely appreciate the difficult contemporary pieces, embracing the challenges of the day like true music enthusiasts!"
+    },
+    {
+      "section": "Textbooks",
+      "title": "Harmonielehre, third edition",
+      "summary": "In 1922, Arnold Schoenberg published the third edition of 'Harmonielehre' in Vienna, a significant textbook that contributed to music theory and education.",
+      "year": 1922,
+      "location": "Vienna",
+      "emoji": "\ud83d\udcda",
+      "fun_version": "In 1922, Arnold Schoenberg decided it was time for an upgrade and published the third edition of 'Harmonielehre' in Vienna! This significant textbook not only contributed to music theory but also practically threw a musical party, inviting all the rules to join in."
+    },
+    {
+      "section": "Biography",
+      "title": "Emigration to the United States",
+      "summary": "Schoenberg emigrated to the United States in 1933 due to rising anti-Semitism in Germany and reclaimed his Jewish identity at a Paris synagogue before leaving.",
+      "year": 1933,
+      "location": "United States",
+      "emoji": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+      "fun_version": "Schoenberg packed his bags and headed to the U.S. in 1933, where the only thing rising faster than the anti-Semitism in Germany was the number of people trying to get a good bagel in New York. Before he left for the land of opportunity, he made a pit stop at a Paris synagogue to reclaim his Jewish identity, which was particularly important given the context."
+    },
+    {
+      "section": "Biography",
+      "title": "Naturalization as US Citizen",
+      "summary": "In 1941, after years of residence in the United States, Schoenberg became a citizen, marking his final settlement after fleeing the Nazi regime.",
+      "year": 1941,
+      "location": "United States",
+      "emoji": "\ud83c\uddfa\ud83c\uddf8",
+      "fun_version": "In 1941, after years of attempting to blend in and fleeing the Nazi regime, Schoenberg finally took the plunge and became a U.S. citizen!"
+    },
+    {
+      "section": "Textbooks",
+      "title": "Models for Beginners in Composition",
+      "summary": "In 1943, Schoenberg's 'Models for Beginners in Composition' was published in New York, aimed to assist novice composers in understanding musical structure and form.",
+      "year": 1943,
+      "location": "New York",
+      "emoji": "\ud83d\udcda",
+      "fun_version": "In 1943, Schoenberg published 'Models for Beginners in Composition' in New York, aimed to assist novice composers in understanding musical structure and form while dropping a hot new take on how to not just be musically challenged!"
+    },
+    {
+      "section": "Writings",
+      "title": "The Musician",
+      "summary": "In 1947, Schoenberg contributed to a compilation titled \"The Musician\" which was included in \"The Works of the Mind.\" This work reflects his thoughts and theories surrounding the essence of music and its interaction with human cognition.",
       "year": 1947,
-      "city": "Los Angeles",
-      "country": "USA"
+      "location": "Chicago",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "In 1947, Schoenberg contributed to a compilation titled \"The Musician,\" included in \"The Works of the Mind.\" This work reflects his thoughts and theories on music\u2014like a quirky guide to enjoying tunes while our brains groove!"
+    },
+    {
+      "section": "Writings",
+      "title": "Style and Idea: Selected Writings of Arnold Schoenberg",
+      "summary": "In 1950, Schoenberg's influential collection, edited and translated by Dika Newlin, was published. This compilation of writings provides insights into his musical philosophies and artistic concepts, impacting the understanding of modern music.",
+      "year": 1950,
+      "location": "New York",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1950, Schoenberg's influential collection was published, thanks to Dika Newlin's magic translating wand. It's like a treasure map for music enthusiasts, offering insights into his quirky mind and artistic concepts, significantly impacting the understanding of modern music!"
+    },
+    {
+      "section": "Biography",
+      "title": "Death",
+      "summary": "Schoenberg's superstitions about the number 13 may have contributed to his anxiety leading up to his death. He died on Friday, July 13, 1951, shortly before midnight.",
+      "year": 1951,
+      "location": "Los Angeles, California, United States",
+      "emoji": "\ud83d\ude31",
+      "fun_version": "Schoenberg had a superstitious fear of the number 13 which contributed to his anxiety. Ironically, he died shortly before midnight on Friday, July 13, 1951. Maybe he just needed a good luck charm!"
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/Am_Strande_(Schoenberg,_Arnold)",
-      "year": 1909,
-      "title": "Am Strande"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Balladen,_Op.12_(Schoenberg,_Arnold)",
-      "year": 1907,
-      "title": "2 Balladen, Op.12"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Begleitungsmusik_zu_einer_Lichtspielscene,_Op.34_(Schoenberg,_Arnold)",
-      "year": 1929,
-      "title": "Begleitungsmusik zu einer Lichtspielscene, Op.34"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Brettllieder_(Schoenberg,_Arnold)",
-      "year": 1901,
-      "title": "Brettllieder"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Das_Buch_der_h%C3%A4ngenden_G%C3%A4rten,_Op.15_(Schoenberg,_Arnold)",
-      "year": 1907,
-      "title": "Das Buch der h\u00e4ngenden G\u00e4rten, Op.15"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/30_Canons_(Schoenberg,_Arnold)",
-      "year": 1905,
-      "title": "30 Canons"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Cello_Concerto_(Schoenberg,_Arnold)",
-      "year": 1932,
-      "title": "Cello Concerto"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Deutsche_Volkslieder_(Schoenberg,_Arnold)",
-      "year": 1930,
-      "title": "Deutsche Volkslieder"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Dreimal_tausend_Jahre,_Op.50a_(Schoenberg,_Arnold)",
-      "year": 1949,
-      "title": "Dreimal tausend Jahre, Op.50a"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Erwartung,_Op.17_(Schoenberg,_Arnold)",
-      "year": 1909,
-      "title": "Erwartung, Op.17"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Folk_Songs_(Schoenberg,_Arnold)",
-      "year": 1928,
-      "title": "3 Folk Songs"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Folk_Songs,_Op.49_(Schoenberg,_Arnold)",
-      "year": 1948,
-      "title": "3 Folk Songs, Op.49"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Fragments_from_the_Organ_Sonata_(Schoenberg,_Arnold)",
-      "year": 1941,
-      "title": "2 Fragments from the Organ Sonata"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Friede_auf_Erden,_Op.13_(Schoenberg,_Arnold)",
-      "year": 1907,
-      "title": "Friede auf Erden, Op.13"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fr%C3%BChlings_Tod_(Schoenberg,_Arnold)",
-      "year": 1898,
-      "title": "Fr\u00fchlings Tod"
-    },
-    {
+      "title": "Gedenken",
       "imslp_url": "https://imslp.org/wiki/Gedenken_(Schoenberg,_Arnold)",
-      "year": 1893,
-      "title": "Gedenken"
+      "year": 1893
     },
     {
-      "imslp_url": "https://imslp.org/wiki/2_Ges%C3%A4nge,_Op.1_(Schoenberg,_Arnold)",
-      "year": 1898,
-      "title": "2 Ges\u00e4nge, Op.1"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Die_gl%C3%BCckliche_Hand,_Op.18_(Schoenberg,_Arnold)",
-      "year": 1910,
-      "title": "Die gl\u00fcckliche Hand, Op.18"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Gurre-Lieder_(Schoenberg,_Arnold)",
-      "year": 1900,
-      "title": "Gurre-Lieder"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Herzgew%C3%A4chse,_Op.20_(Schoenberg,_Arnold)",
-      "year": 1911,
-      "title": "Herzgew\u00e4chse, Op.20"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Die_Jakobsleiter_(Schoenberg,_Arnold)",
-      "year": 1915,
-      "title": "Die Jakobsleiter"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Kammersymphonie_No.1,_Op.9_(Schoenberg,_Arnold)",
-      "year": 1906,
-      "title": "Kammersymphonie No.1, Op.9"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Kammersymphonie_No.2,_Op.38_(Schoenberg,_Arnold)",
-      "year": 1906,
-      "title": "Kammersymphonie No.2, Op.38"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Klavierst%C3%BCcke,_Op.33_(Schoenberg,_Arnold)",
-      "year": 1929,
-      "title": "Klavierst\u00fccke, Op.33"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Kol_Nidre,_Op.39_(Schoenberg,_Arnold)",
-      "year": 1938,
-      "title": "Kol Nidre, Op.39"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Lieder,_Op.2_(Schoenberg,_Arnold)",
-      "year": 1899,
-      "title": "4 Lieder, Op.2"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.3_(Schoenberg,_Arnold)",
-      "year": 1899,
-      "title": "6 Lieder, Op.3"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/8_Lieder,_Op.6_(Schoenberg,_Arnold)",
-      "year": 1903,
-      "title": "8 Lieder, Op.6"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Lieder,_Op.14_(Schoenberg,_Arnold)",
-      "year": 1907,
-      "title": "2 Lieder, Op.14"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Lieder,_Op.22_(Schoenberg,_Arnold)",
-      "year": 1913,
-      "title": "4 Lieder, Op.22"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Lieder,_Op.48_(Schoenberg,_Arnold)",
-      "year": 1933,
-      "title": "3 Lieder, Op.48"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Little_Piano_Pieces,_Op.19_(Schoenberg,_Arnold)",
-      "year": 1911,
-      "title": "6 Little Piano Pieces, Op.19"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/M%C3%A4dchenfr%C3%BChling_(Schoenberg,_Arnold)",
-      "year": 1897,
-      "title": "M\u00e4dchenfr\u00fchling"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Moderner_Psalm,_Op.50c_(Schoenberg,_Arnold)",
-      "year": 1950,
-      "title": "Moderner Psalm, Op.50c"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Moses_und_Aron_(Schoenberg,_Arnold)",
-      "year": 1930,
-      "title": "Moses und Aron"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Nicht_doch!_(Schoenberg,_Arnold)",
-      "year": 1897,
-      "title": "Nicht doch!"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Notturno_for_Harp_and_Strings_(Schoenberg,_Arnold)",
-      "year": 1895,
-      "title": "Notturno for Harp and Strings"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ode_to_Napoleon_Buonaparte,_Op.41_(Schoenberg,_Arnold)",
-      "year": 1942,
-      "title": "Ode to Napoleon Buonaparte, Op.41"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Orchester-Lieder,_Op.8_(Schoenberg,_Arnold)",
-      "year": 1903,
-      "title": "6 Orchester-Lieder, Op.8"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Pelleas_und_Melisande,_Op.5_(Schoenberg,_Arnold)",
-      "year": 1902,
-      "title": "Pelleas und Melisande, Op.5"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Phantasy_for_Violin_and_Piano,_Op.47_(Schoenberg,_Arnold)",
-      "year": 1949,
-      "title": "Phantasy for Violin and Piano, Op.47"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Concerto,_Op.42_(Schoenberg,_Arnold)",
-      "year": 1942,
-      "title": "Piano Concerto, Op.42"
-    },
-    {
+      "title": "3 Piano Pieces",
       "imslp_url": "https://imslp.org/wiki/3_Piano_Pieces_(Schoenberg,_Arnold)",
-      "year": 1894,
-      "title": "3 Piano Pieces"
+      "year": 1894
     },
     {
-      "imslp_url": "https://imslp.org/wiki/3_Pieces_for_Chamber_Orchestra_(Schoenberg,_Arnold)",
-      "year": 1910,
-      "title": "3 Pieces for Chamber Orchestra"
+      "title": "Notturno for Harp and Strings",
+      "imslp_url": "https://imslp.org/wiki/Notturno_for_Harp_and_Strings_(Schoenberg,_Arnold)",
+      "year": 1895
     },
     {
-      "imslp_url": "https://imslp.org/wiki/5_Pieces_for_Orchestra,_Op.16_(Schoenberg,_Arnold)",
-      "year": 1909,
-      "title": "5 Pieces for Orchestra, Op.16"
-    },
-    {
+      "title": "6 Pieces for Piano Four Hands",
       "imslp_url": "https://imslp.org/wiki/6_Pieces_for_Piano_Four_Hands_(Schoenberg,_Arnold)",
-      "year": 1896,
-      "title": "6 Pieces for Piano Four Hands"
+      "year": 1896
     },
     {
-      "imslp_url": "https://imslp.org/wiki/3_Pieces,_Op.11_(Schoenberg,_Arnold)",
-      "year": 1909,
-      "title": "3 Pieces, Op.11"
+      "title": "M\u00e4dchenfr\u00fchling",
+      "imslp_url": "https://imslp.org/wiki/M\u00e4dchenfr\u00fchling_(Schoenberg,_Arnold)",
+      "year": 1897
     },
     {
-      "imslp_url": "https://imslp.org/wiki/5_Pieces,_Op.23_(Schoenberg,_Arnold)",
-      "year": 1920,
-      "title": "5 Pieces, Op.23"
+      "title": "Nicht doch!",
+      "imslp_url": "https://imslp.org/wiki/Nicht_doch!_(Schoenberg,_Arnold)",
+      "year": 1897
     },
     {
-      "imslp_url": "https://imslp.org/wiki/4_Pieces,_Op.27_(Schoenberg,_Arnold)",
-      "year": 1925,
-      "title": "4 Pieces, Op.27"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Pieces,_Op.35_(Schoenberg,_Arnold)",
-      "year": 1929,
-      "title": "6 Pieces, Op.35"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Pierrot_lunaire,_Op.21_(Schoenberg,_Arnold)",
-      "year": 1912,
-      "title": "Pierrot lunaire, Op.21"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Prelude,_Op.44_(Schoenberg,_Arnold)",
-      "year": 1945,
-      "title": "Prelude, Op.44"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Psalm_130,_Op.50b_(Schoenberg,_Arnold)",
-      "year": 1950,
-      "title": "Psalm 130, Op.50b"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Satiren,_Op.28_(Schoenberg,_Arnold)",
-      "year": 1925,
-      "title": "3 Satiren, Op.28"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Serenade,_Op.24_(Schoenberg,_Arnold)",
-      "year": 1923,
-      "title": "Serenade, Op.24"
-    },
-    {
+      "title": "String Quartet in D major",
       "imslp_url": "https://imslp.org/wiki/String_Quartet_in_D_major_(Schoenberg,_Arnold)",
-      "year": 1897,
-      "title": "String Quartet in D major"
+      "year": 1897
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1,_Op.7_(Schoenberg,_Arnold)",
-      "year": 1904,
-      "title": "String Quartet No.1, Op.7"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2,_Op.10_(Schoenberg,_Arnold)",
-      "year": 1907,
-      "title": "String Quartet No.2, Op.10"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.3,_Op.30_(Schoenberg,_Arnold)",
-      "year": 1927,
-      "title": "String Quartet No.3, Op.30"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.4,_Op.37_(Schoenberg,_Arnold)",
-      "year": 1936,
-      "title": "String Quartet No.4, Op.37"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/String_Trio,_Op.45_(Schoenberg,_Arnold)",
-      "year": 1946,
-      "title": "String Trio, Op.45"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Suite_for_String_Orchestra_(Schoenberg,_Arnold)",
-      "year": 1934,
-      "title": "Suite for String Orchestra"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Suite,_Op.25_(Schoenberg,_Arnold)",
-      "year": 1921,
-      "title": "Suite, Op.25"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Suite,_Op.29_(Schoenberg,_Arnold)",
-      "year": 1926,
-      "title": "Suite, Op.29"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/A_Survivor_from_Warsaw,_Op.46_(Schoenberg,_Arnold)",
-      "year": 1947,
-      "title": "A Survivor from Warsaw, Op.46"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Theme_and_Variations,_Op.43_(Schoenberg,_Arnold)",
-      "year": 1943,
-      "title": "Theme and Variations, Op.43"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Variations_for_Orchestra,_Op.31_(Schoenberg,_Arnold)",
-      "year": 1928,
-      "title": "Variations for Orchestra, Op.31"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Variations_on_a_Recitative,_Op.40_(Schoenberg,_Arnold)",
-      "year": 1941,
-      "title": "Variations on a Recitative, Op.40"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Verkl%C3%A4rte_Nacht,_Op.4_(Schoenberg,_Arnold)",
-      "year": 1899,
-      "title": "Verkl\u00e4rte Nacht, Op.4"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Violin_Concerto,_Op.36_(Schoenberg,_Arnold)",
-      "year": 1936,
-      "title": "Violin Concerto, Op.36"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Von_heute_auf_morgen,_Op.32_(Schoenberg,_Arnold)",
-      "year": 1928,
-      "title": "Von heute auf morgen, Op.32"
-    },
-    {
+      "title": "Waldesnacht",
       "imslp_url": "https://imslp.org/wiki/Waldesnacht_(Schoenberg,_Arnold)",
-      "year": 1897,
-      "title": "Waldesnacht"
+      "year": 1897
     },
     {
+      "title": "2 Ges\u00e4nge, Op.1",
+      "imslp_url": "https://imslp.org/wiki/2_Ges\u00e4nge,_Op.1_(Schoenberg,_Arnold)",
+      "year": 1898
+    },
+    {
+      "title": "Fr\u00fchlings Tod",
+      "imslp_url": "https://imslp.org/wiki/Fr\u00fchlings_Tod_(Schoenberg,_Arnold)",
+      "year": 1898
+    },
+    {
+      "title": "4 Lieder, Op.2",
+      "imslp_url": "https://imslp.org/wiki/4_Lieder,_Op.2_(Schoenberg,_Arnold)",
+      "year": 1899
+    },
+    {
+      "title": "6 Lieder, Op.3",
+      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.3_(Schoenberg,_Arnold)",
+      "year": 1899
+    },
+    {
+      "title": "Verkl\u00e4rte Nacht, Op.4",
+      "imslp_url": "https://imslp.org/wiki/Verkl\u00e4rte_Nacht,_Op.4_(Schoenberg,_Arnold)",
+      "year": 1899
+    },
+    {
+      "title": "Gurre-Lieder",
+      "imslp_url": "https://imslp.org/wiki/Gurre-Lieder_(Schoenberg,_Arnold)",
+      "year": 1900
+    },
+    {
+      "title": "Brettllieder",
+      "imslp_url": "https://imslp.org/wiki/Brettllieder_(Schoenberg,_Arnold)",
+      "year": 1901
+    },
+    {
+      "title": "Pelleas und Melisande, Op.5",
+      "imslp_url": "https://imslp.org/wiki/Pelleas_und_Melisande,_Op.5_(Schoenberg,_Arnold)",
+      "year": 1902
+    },
+    {
+      "title": "6 Orchester-Lieder, Op.8",
+      "imslp_url": "https://imslp.org/wiki/6_Orchester-Lieder,_Op.8_(Schoenberg,_Arnold)",
+      "year": 1903
+    },
+    {
+      "title": "8 Lieder, Op.6",
+      "imslp_url": "https://imslp.org/wiki/8_Lieder,_Op.6_(Schoenberg,_Arnold)",
+      "year": 1903
+    },
+    {
+      "title": "String Quartet No.1, Op.7",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.1,_Op.7_(Schoenberg,_Arnold)",
+      "year": 1904
+    },
+    {
+      "title": "30 Canons",
+      "imslp_url": "https://imslp.org/wiki/30_Canons_(Schoenberg,_Arnold)",
+      "year": 1905
+    },
+    {
+      "title": "Kammersymphonie No.1, Op.9",
+      "imslp_url": "https://imslp.org/wiki/Kammersymphonie_No.1,_Op.9_(Schoenberg,_Arnold)",
+      "year": 1906
+    },
+    {
+      "title": "Kammersymphonie No.2, Op.38",
+      "imslp_url": "https://imslp.org/wiki/Kammersymphonie_No.2,_Op.38_(Schoenberg,_Arnold)",
+      "year": 1906
+    },
+    {
+      "title": "2 Balladen, Op.12",
+      "imslp_url": "https://imslp.org/wiki/2_Balladen,_Op.12_(Schoenberg,_Arnold)",
+      "year": 1907
+    },
+    {
+      "title": "2 Lieder, Op.14",
+      "imslp_url": "https://imslp.org/wiki/2_Lieder,_Op.14_(Schoenberg,_Arnold)",
+      "year": 1907
+    },
+    {
+      "title": "Das Buch der h\u00e4ngenden G\u00e4rten, Op.15",
+      "imslp_url": "https://imslp.org/wiki/Das_Buch_der_h\u00e4ngenden_G\u00e4rten,_Op.15_(Schoenberg,_Arnold)",
+      "year": 1907
+    },
+    {
+      "title": "Friede auf Erden, Op.13",
+      "imslp_url": "https://imslp.org/wiki/Friede_auf_Erden,_Op.13_(Schoenberg,_Arnold)",
+      "year": 1907
+    },
+    {
+      "title": "String Quartet No.2, Op.10",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.2,_Op.10_(Schoenberg,_Arnold)",
+      "year": 1907
+    },
+    {
+      "title": "3 Pieces, Op.11",
+      "imslp_url": "https://imslp.org/wiki/3_Pieces,_Op.11_(Schoenberg,_Arnold)",
+      "year": 1909
+    },
+    {
+      "title": "5 Pieces for Orchestra, Op.16",
+      "imslp_url": "https://imslp.org/wiki/5_Pieces_for_Orchestra,_Op.16_(Schoenberg,_Arnold)",
+      "year": 1909
+    },
+    {
+      "title": "Am Strande",
+      "imslp_url": "https://imslp.org/wiki/Am_Strande_(Schoenberg,_Arnold)",
+      "year": 1909
+    },
+    {
+      "title": "Erwartung, Op.17",
+      "imslp_url": "https://imslp.org/wiki/Erwartung,_Op.17_(Schoenberg,_Arnold)",
+      "year": 1909
+    },
+    {
+      "title": "3 Pieces for Chamber Orchestra",
+      "imslp_url": "https://imslp.org/wiki/3_Pieces_for_Chamber_Orchestra_(Schoenberg,_Arnold)",
+      "year": 1910
+    },
+    {
+      "title": "Die gl\u00fcckliche Hand, Op.18",
+      "imslp_url": "https://imslp.org/wiki/Die_gl\u00fcckliche_Hand,_Op.18_(Schoenberg,_Arnold)",
+      "year": 1910
+    },
+    {
+      "title": "6 Little Piano Pieces, Op.19",
+      "imslp_url": "https://imslp.org/wiki/6_Little_Piano_Pieces,_Op.19_(Schoenberg,_Arnold)",
+      "year": 1911
+    },
+    {
+      "title": "Herzgew\u00e4chse, Op.20",
+      "imslp_url": "https://imslp.org/wiki/Herzgew\u00e4chse,_Op.20_(Schoenberg,_Arnold)",
+      "year": 1911
+    },
+    {
+      "title": "Pierrot lunaire, Op.21",
+      "imslp_url": "https://imslp.org/wiki/Pierrot_lunaire,_Op.21_(Schoenberg,_Arnold)",
+      "year": 1912
+    },
+    {
+      "title": "4 Lieder, Op.22",
+      "imslp_url": "https://imslp.org/wiki/4_Lieder,_Op.22_(Schoenberg,_Arnold)",
+      "year": 1913
+    },
+    {
+      "title": "Die Jakobsleiter",
+      "imslp_url": "https://imslp.org/wiki/Die_Jakobsleiter_(Schoenberg,_Arnold)",
+      "year": 1915
+    },
+    {
+      "title": "5 Pieces, Op.23",
+      "imslp_url": "https://imslp.org/wiki/5_Pieces,_Op.23_(Schoenberg,_Arnold)",
+      "year": 1920
+    },
+    {
+      "title": "Suite, Op.25",
+      "imslp_url": "https://imslp.org/wiki/Suite,_Op.25_(Schoenberg,_Arnold)",
+      "year": 1921
+    },
+    {
+      "title": "Serenade, Op.24",
+      "imslp_url": "https://imslp.org/wiki/Serenade,_Op.24_(Schoenberg,_Arnold)",
+      "year": 1923
+    },
+    {
+      "title": "Wind Quintet, Op.26",
       "imslp_url": "https://imslp.org/wiki/Wind_Quintet,_Op.26_(Schoenberg,_Arnold)",
-      "year": 1923,
-      "title": "Wind Quintet, Op.26"
+      "year": 1923
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Harmonielehre_(Schoenberg,_Arnold)",
-      "year": 1910,
-      "title": "Harmonielehre"
+      "title": "3 Satiren, Op.28",
+      "imslp_url": "https://imslp.org/wiki/3_Satiren,_Op.28_(Schoenberg,_Arnold)",
+      "year": 1925
+    },
+    {
+      "title": "4 Pieces, Op.27",
+      "imslp_url": "https://imslp.org/wiki/4_Pieces,_Op.27_(Schoenberg,_Arnold)",
+      "year": 1925
+    },
+    {
+      "title": "Suite, Op.29",
+      "imslp_url": "https://imslp.org/wiki/Suite,_Op.29_(Schoenberg,_Arnold)",
+      "year": 1926
+    },
+    {
+      "title": "String Quartet No.3, Op.30",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.3,_Op.30_(Schoenberg,_Arnold)",
+      "year": 1927
+    },
+    {
+      "title": "3 Folk Songs",
+      "imslp_url": "https://imslp.org/wiki/3_Folk_Songs_(Schoenberg,_Arnold)",
+      "year": 1928
+    },
+    {
+      "title": "Variations for Orchestra, Op.31",
+      "imslp_url": "https://imslp.org/wiki/Variations_for_Orchestra,_Op.31_(Schoenberg,_Arnold)",
+      "year": 1928
+    },
+    {
+      "title": "Von heute auf morgen, Op.32",
+      "imslp_url": "https://imslp.org/wiki/Von_heute_auf_morgen,_Op.32_(Schoenberg,_Arnold)",
+      "year": 1928
+    },
+    {
+      "title": "6 Pieces, Op.35",
+      "imslp_url": "https://imslp.org/wiki/6_Pieces,_Op.35_(Schoenberg,_Arnold)",
+      "year": 1929
+    },
+    {
+      "title": "Begleitungsmusik zu einer Lichtspielscene, Op.34",
+      "imslp_url": "https://imslp.org/wiki/Begleitungsmusik_zu_einer_Lichtspielscene,_Op.34_(Schoenberg,_Arnold)",
+      "year": 1929
+    },
+    {
+      "title": "Klavierst\u00fccke, Op.33",
+      "imslp_url": "https://imslp.org/wiki/Klavierst\u00fccke,_Op.33_(Schoenberg,_Arnold)",
+      "year": 1929
+    },
+    {
+      "title": "Deutsche Volkslieder",
+      "imslp_url": "https://imslp.org/wiki/Deutsche_Volkslieder_(Schoenberg,_Arnold)",
+      "year": 1930
+    },
+    {
+      "title": "Moses und Aron",
+      "imslp_url": "https://imslp.org/wiki/Moses_und_Aron_(Schoenberg,_Arnold)",
+      "year": 1930
+    },
+    {
+      "title": "Cello Concerto",
+      "imslp_url": "https://imslp.org/wiki/Cello_Concerto_(Schoenberg,_Arnold)",
+      "year": 1932
+    },
+    {
+      "title": "3 Lieder, Op.48",
+      "imslp_url": "https://imslp.org/wiki/3_Lieder,_Op.48_(Schoenberg,_Arnold)",
+      "year": 1933
+    },
+    {
+      "title": "Suite for String Orchestra",
+      "imslp_url": "https://imslp.org/wiki/Suite_for_String_Orchestra_(Schoenberg,_Arnold)",
+      "year": 1934
+    },
+    {
+      "title": "String Quartet No.4, Op.37",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_No.4,_Op.37_(Schoenberg,_Arnold)",
+      "year": 1936
+    },
+    {
+      "title": "Violin Concerto, Op.36",
+      "imslp_url": "https://imslp.org/wiki/Violin_Concerto,_Op.36_(Schoenberg,_Arnold)",
+      "year": 1936
+    },
+    {
+      "title": "Kol Nidre, Op.39",
+      "imslp_url": "https://imslp.org/wiki/Kol_Nidre,_Op.39_(Schoenberg,_Arnold)",
+      "year": 1938
+    },
+    {
+      "title": "2 Fragments from the Organ Sonata",
+      "imslp_url": "https://imslp.org/wiki/2_Fragments_from_the_Organ_Sonata_(Schoenberg,_Arnold)",
+      "year": 1941
+    },
+    {
+      "title": "Variations on a Recitative, Op.40",
+      "imslp_url": "https://imslp.org/wiki/Variations_on_a_Recitative,_Op.40_(Schoenberg,_Arnold)",
+      "year": 1941
+    },
+    {
+      "title": "Ode to Napoleon Buonaparte, Op.41",
+      "imslp_url": "https://imslp.org/wiki/Ode_to_Napoleon_Buonaparte,_Op.41_(Schoenberg,_Arnold)",
+      "year": 1942
+    },
+    {
+      "title": "Piano Concerto, Op.42",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto,_Op.42_(Schoenberg,_Arnold)",
+      "year": 1942
+    },
+    {
+      "title": "Theme and Variations, Op.43",
+      "imslp_url": "https://imslp.org/wiki/Theme_and_Variations,_Op.43_(Schoenberg,_Arnold)",
+      "year": 1943
+    },
+    {
+      "title": "Prelude, Op.44",
+      "imslp_url": "https://imslp.org/wiki/Prelude,_Op.44_(Schoenberg,_Arnold)",
+      "year": 1945
+    },
+    {
+      "title": "String Trio, Op.45",
+      "imslp_url": "https://imslp.org/wiki/String_Trio,_Op.45_(Schoenberg,_Arnold)",
+      "year": 1946
+    },
+    {
+      "title": "A Survivor from Warsaw, Op.46",
+      "imslp_url": "https://imslp.org/wiki/A_Survivor_from_Warsaw,_Op.46_(Schoenberg,_Arnold)",
+      "year": 1947
+    },
+    {
+      "title": "3 Folk Songs, Op.49",
+      "imslp_url": "https://imslp.org/wiki/3_Folk_Songs,_Op.49_(Schoenberg,_Arnold)",
+      "year": 1948
+    },
+    {
+      "title": "Dreimal tausend Jahre, Op.50a",
+      "imslp_url": "https://imslp.org/wiki/Dreimal_tausend_Jahre,_Op.50a_(Schoenberg,_Arnold)",
+      "year": 1949
+    },
+    {
+      "title": "Phantasy for Violin and Piano, Op.47",
+      "imslp_url": "https://imslp.org/wiki/Phantasy_for_Violin_and_Piano,_Op.47_(Schoenberg,_Arnold)",
+      "year": 1949
+    },
+    {
+      "title": "Moderner Psalm, Op.50c",
+      "imslp_url": "https://imslp.org/wiki/Moderner_Psalm,_Op.50c_(Schoenberg,_Arnold)",
+      "year": 1950
+    },
+    {
+      "title": "Psalm 130, Op.50b",
+      "imslp_url": "https://imslp.org/wiki/Psalm_130,_Op.50b_(Schoenberg,_Arnold)",
+      "year": 1950
     }
   ]
 }

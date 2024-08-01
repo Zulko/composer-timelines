@@ -7,474 +7,113 @@
   "wikipedia_url": "https://en.wikipedia.org/wiki/Karlheinz_Stockhausen",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Karlheinz Stockhausen made his grand entrance into the world in a manor house that fancied itself a castle, proving that even from birth, he had a taste for the dramatic. He certainly set the stage for a life as a musical maverick!",
+      "section": "Biography",
+      "title": "Birth",
+      "summary": "Karlheinz Stockhausen was born in Burg M\u00f6drath, a village near Kerpen in the Cologne region. His early life was significantly shaped by the history of the village and its surroundings, particularly the displacement for lignite strip mining in 1956. The castle where he was born, though originally a maternity home and later an orphanage, now serves as an exhibition space for modern art.",
       "year": 1928,
-      "city": "M\u00f6drath",
-      "country": "Germany"
+      "location": "Burg M\u00f6drath, Germany",
+      "emoji": "\ud83c\udff0",
+      "fun_version": "Karlheinz Stockhausen popped into this world in Burg M\u00f6drath, a quaint little village near Kerpen. This place had quite the history tied to the displacement caused by lignite strip mining in 1956. As for the castle where he made his grand entrance, it was later turned into an orphanage. Now, it's not just a home for brave little souls; it doubles as a gallery for modern art!"
     },
     {
-      "event": "Piano Lessons",
-      "summary": "At the tender age of seven, Stockhausen kicked off his musical journey with piano lessons from a local organist. Little did Franz-Josef Kloth know that he was nurturing a future maestro who would eventually redefine music with an electronic twist!",
+      "section": "Biography",
+      "title": "First Music Lessons",
+      "summary": "Beginning at the age of seven, Stockhausen received his first piano lessons from the Protestant organist of the Altenberger Dom, Franz-Josef Kloth. This early exposure to music laid the foundation for his future career as a composer.",
       "year": 1935,
-      "city": "Altenberg",
-      "country": "Germany"
+      "location": "Altenberg, Germany",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "At the age of seven, Stockhausen began piano lessons with the Protestant organist of the Altenberger Dom, Franz-Josef Kloth. This early experience laid the foundation and taught him about music, setting the stage for his future career as a composer!"
     },
     {
-      "event": "Conscription",
-      "summary": "In a turn of historical events, young Stockhausen was conscripted to serve as a stretcher bearer during the final years of World War II. Talk about getting drafted into an orchestra of chaos!",
+      "section": "Biography",
+      "title": "Mother's Death",
+      "summary": "In 1941, Stockhausen learned of his mother's death, which was officially attributed to leukemia. However, it was later revealed that she was murdered in a gas chamber as part of the Nazi regime's actions. This tragic event had a profound effect on him, and he dramatized it in one of his operas.",
+      "year": 1941,
+      "location": "Hadamar, Germany",
+      "emoji": "\ud83d\udc94",
+      "fun_version": "In 1941, Stockhausen learned about his mother's departure from this mortal coil, which folks initially blamed on leukemia. However, she actually experienced her fate in a gas chamber, courtesy of some historical bad guys. This traumatic revelation had a profound effect on him and inspired him to channel his feelings into an opera\u2014he really hit the high notes amid tragedy!"
+    },
+    {
+      "section": "Biography",
+      "title": "Conscription",
+      "summary": "In late 1944, as World War II raged on, Stockhausen was conscripted to serve as a stretcher bearer. This military experience marked a difficult period in his life as he faced the horrors of war.",
       "year": 1944,
-      "city": "Bedburg",
-      "country": "Germany"
+      "location": "Bedburg, Germany",
+      "emoji": "\u2694\ufe0f",
+      "fun_version": "In late 1944, as World War II raged on, Stockhausen was drafted as a stretcher bearer. Instead of composing symphonies, he faced the horrors of battle in a role he could never have anticipated."
     },
     {
-      "event": "Higher Education",
-      "summary": "Stockhausen threw himself into the world of academia, soaking up music pedagogy, philosophy, and more at two prestigious institutions. He must have thought, 'Why settle for one degree when you can rack up a few?'",
-      "year": 1947,
-      "city": "Cologne",
-      "country": "Germany"
-    },
-    {
-      "event": "Darmstadt Encounter",
-      "summary": "At the Darmst\u00e4dter Ferienkurse, Stockhausen crossed paths with Karel Goeyvaerts, sparking the idea that he could study composition in Paris like a true avant-garde see-and-be-seen artist!",
+      "section": "Biography",
+      "title": "Marriage to Doris Andreae",
+      "summary": "On 29 December 1951, Stockhausen married Doris Andreae in Hamburg. Their union marked an important personal milestone and led to the birth of four children, integrating his family life with his professional music career.",
       "year": 1951,
-      "city": "Darmstadt",
-      "country": "Germany"
+      "location": "Hamburg, Germany",
+      "emoji": "\ud83d\udc70\ud83e\udd35",
+      "fun_version": "On 29 December 1951, Stockhausen tied the knot with Doris Andreae in Hamburg, setting a record for \u2018Most Kids Born While Composing,\u2019 as they welcomed four little maestros into the world, blending family life and symphonic creativity in a harmonious yet chaotic life."
     },
     {
-      "event": "Move to Paris",
-      "summary": "Taking a leap of faith, Stockhausen moved to Paris to learn from the esteemed Olivier Messiaen. It was here that he discovered that avant-garde education comes with a hefty dose of disillusionment\u2014even the composers have their off days!",
-      "year": 1952,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Electronic Music Studio",
-      "summary": "Stockhausen struck gold when he became an assistant at the Electronic Music Studio in Cologne. It was the musical equivalent of discovering Wi-Fi: suddenly everything was connected in electrifying ways!",
-      "year": 1953,
-      "city": "Cologne",
-      "country": "Germany"
-    },
-    {
-      "event": "Director of Studio",
-      "summary": "In a plot twist fit for a musical, Stockhausen became the director of the Electronic Music Studio. If he thought assisting was thrilling, now he was at the helm of a sonic spaceship!",
-      "year": 1963,
-      "city": "Cologne",
-      "country": "Germany"
-    },
-    {
-      "event": "Marriage to Doris Andreae",
-      "summary": "In a matrimonial overture, Stockhausen married Doris Andreae, which would later be remixed into a divorce that played out like a tragic opera. Love may not have been his forte, but it sure gave him plenty of material!",
-      "year": 1951,
-      "city": "Hamburg",
-      "country": "Germany"
-    },
-    {
-      "event": "Birth of Children",
-      "summary": "Stockhausen welcomed a small ensemble of children into the world, turning family life into a delightful cacophony as several of them decided to pursue music professionally. Clearly, the apple doesn\u2019t fall far from the musical tree!",
-      "year": 1953,
-      "city": "Germany",
-      "country": "Germany"
-    },
-    {
-      "event": "House in K\u00fcrten",
-      "summary": "Stockhausen took his creative ventures into home-building, designing a house that matched his eclectic artistic persona. If there\u2019s one way to ensure inspiration, it\u2019s to live in a 'work of art'!",
-      "year": 1965,
-      "city": "K\u00fcrten",
-      "country": "Germany"
-    },
-    {
-      "event": "Founding Stockhausen Courses",
-      "summary": "In a move that cemented his legacy, Stockhausen founded the Stockhausen Courses, where aspiring composers could experience a dose of avant-garde lunacy. Who knew education could be so avant-garde-opera-like?",
-      "year": 1998,
-      "city": "K\u00fcrten",
-      "country": "Germany"
-    },
-    {
-      "event": "Death",
-      "summary": "Stockhausen's heart suddenly called it a day after a life spent stretching the boundaries of music. Ironically, he had just finished a commissioned work, leaving behind a legacy that was anything but ordinary!",
-      "year": 2007,
-      "city": "K\u00fcrten",
-      "country": "Germany"
-    },
-    {
-      "event": "Composition of Konkrete Et\u00fcde",
-      "summary": "In a fabulous twist of fate, our beloved composer took a pilgrimage to Pierre Schaeffer's Paris studio in December 1952 to compose the Konkrete Et\u00fcde, playing with sounds like a child in a candy store full of audio candy.",
-      "year": 1952,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Arrival at NWDR studio",
-      "summary": "Our adventurous composer decided Cologne was the place to be in March 1953. He rolled up his sleeves and dove headfirst into the electrifying world of electronic music, whipping up two Electronic Studies quicker than you can say 'synthesize!'.",
-      "year": 1953,
-      "city": "Cologne",
-      "country": "Germany"
-    },
-    {
-      "event": "Introduction of spatial music with Gesang der J\u00fcnglinge",
-      "summary": "He transformed sound into an out-of-this-world experience with Gesang der J\u00fcnglinge, creating music that danced around like it was at a disco in 1955-56, making spatial placements as stylish as a well-tailored suit.",
-      "year": 1955,
-      "city": "Cologne",
-      "country": "Germany"
-    },
-    {
-      "event": "Publication of theoretical article",
-      "summary": "In 1957, he shared his genius with the world through the article '... wie die Zeit vergeht ...', making everyone rethink time like it was a philosophy class with a twist. This piece became the icing on the cake of his already formidable reputation.",
+      "section": "Theories",
+      "title": "Publication of '...\u00a0wie die Zeit vergeht\u00a0...'",
+      "summary": "In 1957, Karlheinz Stockhausen published his celebrated article which elaborated on temporal conceptions integral to his instrumental compositions. This work presented concepts such as a scale of twelve tempos and the technique of creating smaller subdivisions over a fundamental duration, influencing postwar compositional theory significantly.",
       "year": 1957,
-      "city": "Cologne",
-      "country": "Germany"
+      "location": "",
+      "emoji": "\u23f3",
+      "fun_version": "In 1957, Karlheinz Stockhausen dropped a musical bombshell with his celebrated article! He introduced the wild idea of twelve tempos, because why stop at just one when you can be a tempo buffet? He elaborated on temporal conceptions integral to his instrumental compositions and taught folks how to slice and dice time into smaller parts, making it easier to mess with your audience's minds. Thanks to him, postwar composers had a significant playground of time."
     },
     {
-      "event": "Exploration of variable form",
-      "summary": "Taking a turn into the unpredictable, he embraced 'variable form' in his works, even inviting performers to take a shot at defining the music, turning each performance into a thrilling game of musical roulette.",
+      "section": "Theories",
+      "title": "Publication of important articles in music theory",
+      "summary": "Throughout the late 1950s and early 1960s, Stockhausen produced seminal articles that explored various aspects of music theory, including compositions related to electronic and instrumental music. His works contributed to the understanding of music in space and the unity of musical time, shaping contemporary thought in music analysis.",
       "year": 1958,
-      "city": "Cologne",
-      "country": "Germany"
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In the late '50s and early '60s, Stockhausen was composing groundbreaking articles on music theory. He explored electronic sounds and instrumental music, contributing significantly to our understanding of music in space and the unity of musical time."
     },
     {
-      "event": "Composition of Carr\u00e9",
-      "summary": "He re-entered the world of vocal music in 1960 with Carr\u00e9, a dazzling piece for multiple orchestras and choirs, proving that he could juggle more performers than a circus clown at a birthday party.",
-      "year": 1960,
-      "city": "Cologne",
-      "country": "Germany"
-    },
-    {
-      "event": "Creation of Plus-Minus",
-      "summary": "In a stroke of genius in 1963, he invented Plus-Minus, allowing musicians to create countless different compositions from a single note, like making a gourmet meal from just a can of beans.",
+      "section": "Biography",
+      "title": "Director of Electronic Music Studio",
+      "summary": "In 1963, Stockhausen became the director of the Electronic Music Studio at WDR in Cologne, succeeding Herbert Eimert. This role solidified his impact on modern electronic music and the compositional techniques of the time.",
       "year": 1963,
-      "city": "Cologne",
-      "country": "Germany"
+      "location": "Cologne, Germany",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1963, Karlheinz Stockhausen became the director of the Electronic Music Studio at WDR in Cologne, succeeding Herbert Eimert. This groundbreaking role solidified his impact on modern electronic music as he had unlimited power over sound and began crafting innovative tunes!"
     },
     {
-      "event": "Composition of Stimmung",
-      "summary": "In 1968, he crafted Stimmung, where six singers harmonized overtones of a low B-flat for an hour, proving you don't need high notes to hit a high with audiences \u2013 just a little creativity!",
-      "year": 1968,
-      "city": "Cologne",
-      "country": "Germany"
-    },
-    {
-      "event": "Collaboration for Expo '70",
-      "summary": "In a bid to take music global, he dazzled millions with daily performances at Expo '70, where his music flowed like a fine wine, and visitors found refuge in the calm of his spherical auditorium amidst the Expo chaos.",
+      "section": "Theories",
+      "title": "Seminars at Darmst\u00e4dter Ferienkurse",
+      "summary": "In 1970, after a period of little published theory, Stockhausen resumed his theoretical contributions with his seminars covering various innovative topics in music. These seminars culminated in the publication of the abstract 'Kriterien' detailing his lectures.",
       "year": 1970,
-      "city": "Osaka",
-      "country": "Japan"
+      "location": "",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "In 1970, after a dry spell in the theory department that made the Sahara look like a water park, Stockhausen dusted off his theoretical hat and started throwing out gems at seminars, covering music topics so innovative they\u2019d make Beethoven rethink his life choices. These seminars morphed into the abstract 'Kriterien'\u2014basically his lecture notes with a catchy title, perfect for impressing friends at parties."
     },
     {
-      "event": "Transition to formula composition",
-      "summary": "In 1970, he started using formula composition, like a chef perfecting his signature dish over the years, ensuring every piece packed the right flavor of melody and creativity.",
-      "year": 1970,
-      "city": "Cologne",
-      "country": "Germany"
-    },
-    {
-      "event": "Completion of Licht cycle",
-      "summary": "Between 1977 and 2003, he crafted the epic Licht cycle, seven operas that were nothing short of musical soap operas, chronicling diverse traits like a daytime drama on more complicated relationships than an episode of \u2018Days of Our Lives\u2019.",
-      "year": 2003,
-      "city": "Cologne",
-      "country": "Germany"
-    },
-    {
-      "event": "Composition of Licht",
-      "summary": "Stockhausen didn't just wake up one day and decide to write seven operas in an orderly fashion. He started with the easy 'solo' operas and had a wild ride into complexity, climbing from Jahreslauf, to Freitag, and ending with the full-blown opera of Sonntag. It's like assembling IKEA furniture, you don\u2019t always follow the instructions, but you eventually get there!",
-      "year": 1977,
-      "city": "Cologne",
-      "country": "Germany"
-    },
-    {
-      "event": "Helikopter-Streichquartett Completion",
-      "summary": "What do you get when you mix a string quartet with helicopters? The Helikopter-Streichquartett! Finished in 1993, this piece turned heads (and maybe a few stomachs) as musicians performed in choppers, making it possibly the most airborne concert ever. Who needs a stage when you have the sky?",
-      "year": 1993,
-      "city": "Cologne",
-      "country": "Germany"
-    },
-    {
-      "event": "First Performance of Helikopter-Streichquartett",
-      "summary": "The world got its first taste of the grinding, soaring music of the Helikopter-Streichquartett in Amsterdam. Talk about a flight of fancy\u2014audiences didn't just listen; they watched musicians soar above them, proving once again that Stockhausen liked to take music to new heights\u2014literally!",
+      "section": "Documentary films",
+      "title": "Karlheinz Stockhausen: Helicopter String Quartet",
+      "summary": "This documentary explores the unique performance piece known as the Helicopter String Quartet, in which musicians perform in helicopters while being filmed. It delves into the innovative nature of Stockhausen's work and its impact on the music world.",
       "year": 1995,
-      "city": "Amsterdam",
-      "country": "Netherlands"
+      "location": "The Netherlands",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Ever wondered what happens when you mix musicians with helicopters? Prepare for takeoff! The Helicopter String Quartet is a unique performance that elevates music to new heights. This documentary takes you through the world of aerial performances and highlights Stockhausen, the innovator whose work has significantly impacted the music world."
     },
     {
-      "event": "Klang Composition Cycle Begins",
-      "summary": "After wrapping up Licht, Stockhausen was not done making magic. He jumped into composing Klang, a series focused on the hours of the day. Completed pieces included everything from the 'First Hour' featuring heavenly sounds to 'Thirteenth Hour' mixing twenty-four layers of sound like a DJ at a cosmic rave. Who's ready for a time party?",
-      "year": 2003,
-      "city": "Cologne",
-      "country": "Germany"
+      "section": "Biography",
+      "title": "Founding of the Stockhausen Courses",
+      "summary": "In 1998, Stockhausen founded the Stockhausen Courses, an educational initiative held annually in K\u00fcrten. This initiative reflects his commitment to music education and the sharing of his innovative approaches to composition.",
+      "year": 1998,
+      "location": "K\u00fcrten, Germany",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1998, Stockhausen thought it was a great idea to kick off the Stockhausen Courses, an annual musical extravaganza in K\u00fcrten, reflecting his commitment to music education and pioneering a style of composition that\u2019s as innovative as a cat video!"
     },
     {
-      "event": "Fresco premiere scandal",
-      "summary": "The premiere of Stockhausen's work Fresco turned into a circus with musicians protesting against unusual directions and the music being replaced with humorous signs. Imagine having to perform while dealing with such shenanigans\u2014260 minutes later, most musicians opted for a swift exit, leaving Stockhausen with a truly unforgettable experience.",
-      "year": 1969,
-      "city": "K\u00f6ln",
-      "country": "Germany"
-    },
-    {
-      "event": "Influence on musicians",
-      "summary": "Jazz giants and rock legends alike were caught singing the praises of Stockhausen, with musicians from Miles Davis to Peter Townshend citing his influence. It was as if he was the glue that held together some of the most colorful genres of music\u2014a musical magician with his wand of innovation.",
-      "year": 1960,
-      "city": "Multiple",
-      "country": "Various"
-    },
-    {
-      "event": "Sirius statements",
-      "summary": "In a move that definitely turned heads, Stockhausen claimed to have been educated at Sirius. Such an outlandish statement left some musicians in horror while making others chuckle about cosmic education. Clearly, Stockhausen had a flair for the dramatic, mixing music with a sprinkle of extraterrestrial charm.",
-      "year": 2001,
-      "city": "K\u00fcrten",
-      "country": "Germany"
-    },
-    {
-      "event": "Cultural impact",
-      "summary": "Stockhausen's reach extended beyond just music, with The Beatles giving him a nod on the cover of their iconic album. His influence rang out in popular culture so loud, it echoed through the pages of literature and even made it into cartoons. You know you've made it when your name becomes a punchline!",
-      "year": 1967,
-      "city": "Liverpool",
-      "country": "England"
-    },
-    {
-      "event": "First Music Composition",
-      "summary": "At the tender age of 15, Stockhausen composed his first piece, which perhaps sounded more like a cat walking across a piano than classical music. But it was the first step on a journey towards becoming a musical legend!",
-      "year": 1943,
-      "city": "K\u00fcrten",
-      "country": "Germany"
-    },
-    {
-      "event": "Study of Composition",
-      "summary": "Venturing to Stuttgart, Stockhausen began his formal studies in music composition. Rumor has it he spent more time imagining avant-garde ideas than actually studying, but hey, that's what legends do!",
-      "year": 1947,
-      "city": "Stuttgart",
-      "country": "Germany"
-    },
-    {
-      "event": "Introduction to Electronic Music",
-      "summary": "In a dramatic twist, Stockhausen encountered the world of electronic music, which we can only assume felt like the first time someone discovered peanut butter and chocolate could be combined. This led him to create sounds previously unheard by human ears!",
-      "year": 1952,
-      "city": "D\u00fcsseldorf",
-      "country": "Germany"
-    },
-    {
-      "event": "Premiering 'Kreuzspiel'",
-      "summary": "Stockhausen's work 'Kreuzspiel' premiered to much fanfare and confusion, causing listeners to ask 'Is that music or just an expensive way to scrape metal?'. Either way, it solidified his reputation as an innovative composer.",
-      "year": 1953,
-      "city": "D\u00fcsseldorf",
-      "country": "Germany"
-    },
-    {
-      "event": "Establishment of GEMA",
-      "summary": "In a move that certainly puzzled many at cocktail parties, Stockhausen became involved in the founding of GEMA, a rights management organization for composers. Clearly, he was thinking about the future \u2013 and his own royalties!",
-      "year": 1953,
-      "city": "Berlin",
-      "country": "Germany"
-    },
-    {
-      "event": "First International Recognition",
-      "summary": "Stockhausen's work began to receive international attention, leading some to wonder if he\u2019d ever stop reinventing music and just pick a style. Spoiler: he didn\u2019t, and music was better for it!",
-      "year": 1955,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Creation of 'Gesang der J\u00fcnglinge'",
-      "summary": "When he finished 'Gesang der J\u00fcnglinge', it became the art piece equivalent of a blockbuster movie. Audiences were left in awe, partially because they had never heard anything like it \u2013 a mix of boys' choir, electronics, and sheer genius!",
-      "year": 1956,
-      "city": "D\u00fcsseldorf",
-      "country": "Germany"
-    },
-    {
-      "event": "Exploration of 'Intuitive Music'",
-      "summary": "In the 1960s, Stockhausen ventured into 'Intuitive Music', where musicians were encouraged to follow their instincts more than sheet music, resulting in ensembles that resembled chaotic jam sessions \u2013 except, of course, they were geniuses at play!",
-      "year": 1960,
-      "city": "D\u00fcsseldorf",
-      "country": "Germany"
-    },
-    {
-      "event": "Teaching at Darmstadt School",
-      "summary": "Stockhausen started teaching at the Darmstadt Summer Courses, where he certainly enchanted, confused, and bewildered students all at once. Many left with more questions than answers and a newfound respect for their own sanity!",
-      "year": 1965,
-      "city": "Darmstadt",
-      "country": "Germany"
-    },
-    {
-      "event": "Honors and Accolades",
-      "summary": "Throughout his life, Stockhausen gathered numerous awards like Halloween candy, creating an impressive collection of accolades that would make any trophy case blush in envy. Winning made it clear he was on everyone's radar, even after they tuned out his music!",
-      "year": 1986,
-      "city": "Berlin",
-      "country": "Germany"
-    },
-    {
-      "event": "Final Composition",
-      "summary": "In a final flourish of creativity, Stockhausen composed what he termed his last major work, leaving behind a legacy so influential that future generations would be left asking, 'What would Stockhausen do?' \u2013 likely answer: something completely unexpected.",
-      "year": 2005,
-      "city": "K\u00fcrten",
-      "country": "Germany"
-    },
-    {
-      "event": "First Composition",
-      "summary": "Stockhausen wrote his first composition, perhaps confusing the family dining table for a grand concert hall. This ambitious debut set him on a path to changing the music scene forever.",
-      "year": 1945,
-      "city": "Bonn",
-      "country": "Germany"
-    },
-    {
-      "event": "Study in Paris",
-      "summary": "Off to Paris Stockhausen went, like a musical adventurer in search of elusive sounds, studying under the tutelage of the great Olivier Messiaen. It's here that he honed his craft and probably picked up the knack for making avant-garde art look surprisingly stylish.",
-      "year": 1951,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "First Electronic Works",
-      "summary": "He began working on electronic music, diving into the world of sounds that could be manipulated at will, much like turning a radio dial while dodging the static. His innovations opened up the musical universe and made him a pioneer.",
-      "year": 1953,
-      "city": "Cologne",
-      "country": "Germany"
-    },
-    {
-      "event": "Premier of 'Gesang der J\u00fcnglinge'",
-      "summary": "The premiere of his groundbreaking work, 'Gesang der J\u00fcnglinge', sent shockwaves through the musical community. Audiences were treated to a sound experience that was so innovative, it might as well have come from another planet!",
-      "year": 1956,
-      "city": "D\u00fcsseldorf",
-      "country": "Germany"
-    },
-    {
-      "event": "Formation of the Stockhausen Studio",
-      "summary": "Stockhausen established a studio for electronic music, basically saying, 'Let there be sound!' This studio became the birthplace of numerous compositions, and it was here that creativity flowed like soda from an overzealous soda fountain.",
-      "year": 1963,
-      "city": "Cologne",
-      "country": "Germany"
-    },
-    {
-      "event": "Premiere of 'Licht'",
-      "summary": "The premiere of his week-long opera cycle 'Licht' was a monumental event, transforming the classical landscape into what could only be described as a colorful musical extravaganza, much like a carnival for the ears.",
-      "year": 1977,
-      "city": "Hamburg",
-      "country": "Germany"
-    },
-    {
-      "event": "Last Composition",
-      "summary": "Even as he aged and the world changed, Stockhausen composed his final piece, proving once again that true artists never really retire; they simply become even more creative just when you think they've done it all.",
+      "section": "Biography",
+      "title": "Death",
+      "summary": "Karlheinz Stockhausen passed away from sudden heart failure on the morning of 5 December 2007. His death occurred shortly after completing a commissioned work, underscoring his lifelong dedication to music creation.",
       "year": 2007,
-      "city": "K\u00fcrten",
-      "country": "Germany"
-    },
-    {
-      "event": "First Music Studies",
-      "summary": "Stockhausen dived into music studies, which would later inform the wildly unique compositions that had a tendency to push boundaries. Little did his teachers know they were igniting the fuse of avant-garde music!",
-      "year": 1947,
-      "city": "Cologne",
-      "country": "Germany"
-    },
-    {
-      "event": "First Electronic Music",
-      "summary": "In a quest to rebel against tradition, Stockhausen began experimenting with electronic music, creating sounds that many thought were straight out of a sci-fi movie. His neighbors probably wondered if he was serving up a futuristic dinner party.",
-      "year": 1953,
-      "city": "Cologne",
-      "country": "Germany"
-    },
-    {
-      "event": "Dieter Schnebel Initiative",
-      "summary": "Teaming up with Dieter Schnebel, Stockhausen worked on various contemporary music projects, proving collaboration could spark innovation, or at the very least, some creative disagreements worthy of a sitcom episode.",
-      "year": 1955,
-      "city": "Cologne",
-      "country": "Germany"
-    },
-    {
-      "event": "International Recognition",
-      "summary": "Stockhausen\u2019s works began receiving international accolades, leading him to travel the world. He probably found it amusing when people claimed they didn\u2019t understand his music, as if that could deter a true avant-garde composer!",
-      "year": 1960,
-      "city": "Various",
-      "country": "Various"
-    },
-    {
-      "event": "Zodiac Compositions",
-      "summary": "In his artistic zenith, he composed 'Tierkreis', inspired by the zodiac signs. It\u2019s the only time anyone made astrology fashionable in contemporary classical music\u2014take that, horoscopes!",
-      "year": 1970,
-      "city": "K\u00fcrten",
-      "country": "Germany"
-    },
-    {
-      "event": "Helikopter-Streichquartett Premiere",
-      "summary": "The premiere of 'Helikopter-Streichquartett' turned into an unexpected aerial performance, showcasing musicians in helicopters. Why play on stage when you can defy gravity, right?",
-      "year": 1995,
-      "city": "Donaueschingen",
-      "country": "Germany"
-    },
-    {
-      "event": "Debut in Darmstadt",
-      "summary": "Stockhausen made his debut at the Darmstadt Summer Courses for New Music, shaking up the classical music world and probably baffling a few traditionalists who didn\u2019t know what hit them.",
-      "year": 1951,
-      "city": "Darmstadt",
-      "country": "Germany"
-    },
-    {
-      "event": "Gesang der J\u00fcnglinge Premiere",
-      "summary": "The premiere of 'Gesang der J\u00fcnglinge' was not just a mouthful to pronounce but also a groundbreaking work in electronic music, ensuring that the coolest kids in the music scene would be able to say they had heard it firsthand!",
-      "year": 1956,
-      "city": "D\u00fcsseldorf",
-      "country": "Germany"
-    },
-    {
-      "event": "Gruppen Premiere",
-      "summary": "'Gruppen' premiered, solidifying Stockhausen's reputation as a musical daredevil. The scores were so complex that even music professors needed a GPS to navigate through them!",
-      "year": 1957,
-      "city": "Cologne",
-      "country": "Germany"
-    },
-    {
-      "event": "Licht Cycle Completion",
-      "summary": "He completed his monumental opera cycle 'Licht', which took a decade and involved more plot twists than a telenovela. It\u2019s said that even his notebook got tired from all the ideas!",
-      "year": 2003,
-      "city": "K\u00fcrten",
-      "country": "Germany"
-    },
-    {
-      "event": "Passing",
-      "summary": "Stockhausen left this earthly plane, but not before leaving behind a legacy that would make even Beethoven drool. The avant-garde community was left buzzing, wondering who could possibly fill his eccentric shoes.",
-      "year": 2007,
-      "city": "K\u00fcrten",
-      "country": "Germany"
-    },
-    {
-      "event": "Career Launch",
-      "summary": "The composer's career took off like a rocket, capturing audiences with sounds they didn't know they needed to hear. It turned out that modern music could be as unpredictable as the weather\u2014sunny one moment, ominous clouds the next!",
-      "year": 1950,
-      "city": "D\u00fcsseldorf",
-      "country": "Germany"
-    },
-    {
-      "event": "Stimmung Premiere",
-      "summary": "His work 'Stimmung' premiered, showcasing vocals that made more waves than a sudden rainstorm. Audiences were left wondering if they had stumbled into an avant-garde orchestra or a group of vocal yoga practitioners!",
-      "year": 1968,
-      "city": "Darmstadt",
-      "country": "Germany"
-    },
-    {
-      "event": "Composition of 'In Freundschaft'",
-      "summary": "'In Freundschaft' was composed as a musical love letter, proving that even in the realm of avant-garde, one's emotions can still blur the lines of normalcy\u2014who knew squawking could also be romantic?",
-      "year": 1977,
-      "city": "K\u00f6ln",
-      "country": "Germany"
-    },
-    {
-      "event": "First International Festival",
-      "summary": "He organized the first international festival for his works, attracting composers and musicians like bees to honey. Who wouldn't want to cluster around a genius with enough knowledge to fill a symphonic-sized book?",
-      "year": 1980,
-      "city": "Stockhausen Foundation",
-      "country": "Germany"
-    },
-    {
-      "event": "Vortex Temporum Release",
-      "summary": "'Vortex Temporum' hit the scene, captivating listeners with its complexity. Imagine an intricate puzzle where every piece is a sound and the end result is an exhilarating auditory spa day\u2014leave the stresses of everyday life behind!",
-      "year": 1996,
-      "city": "K\u00f6ln",
-      "country": "Germany"
-    },
-    {
-      "event": "Last Public Performance",
-      "summary": "He gave his last public performance, leaving an audience equally mesmerized and confused. Many left pondering how to explain to their friends what they had just experienced\u2014something between a concert and an abstract art installation!",
-      "year": 2007,
-      "city": "K\u00f6ln",
-      "country": "Germany"
+      "location": "K\u00fcrten, Germany",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "On the morning of December 5, 2007, Karlheinz Stockhausen decided to take a trip after his heart unexpectedly said, 'I\u2019m outta here!' This happened just after he wrapped up a commissioned piece, underscoring his lifelong dedication to music creation."
     }
   ],
-  "compositions": []
+  "works": []
 }

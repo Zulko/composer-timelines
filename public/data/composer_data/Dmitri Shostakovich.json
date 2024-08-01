@@ -1,364 +1,132 @@
 {
   "full_name": "Dmitri Shostakovich",
-  "first_names": "Dmitri",
+  "first_names": "Dmitri Dmitriyevich",
   "last_name": "Shostakovich",
   "birth_year": 1906,
   "death_year": 1975,
   "wikipedia_url": "https://en.wikipedia.org/wiki/Dmitri_Shostakovich",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Dmitri Shostakovich burst into the world, much to the surprise of his parents, who had probably been expecting a quiet day instead of the start of a musical genius. He was born in Saint Petersburg to a Russian family, marking the beginning of a life filled with piano keys and government intrigue.",
+      "section": "Biography",
+      "title": "Birth of Dmitri Shostakovich",
+      "summary": "Dmitri Shostakovich was born into a Russian family on Podolskaya Street in Saint Petersburg. He was the second of three children and displayed musical talent from a young age, beginning piano lessons with his mother at age nine.",
       "year": 1906,
-      "city": "Saint Petersburg",
-      "country": "Russia"
+      "location": "Saint Petersburg, Russian Empire",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Dmitri Shostakovich was born into a Russian family on Podolskaya Street in Saint Petersburg. He was the second of three children and displayed musical talent from a young age, beginning piano lessons with his mother at age nine."
     },
     {
-      "event": "First Piano Lessons",
-      "summary": "At the tender age of nine, young Dmitri began piano lessons with his mother, displaying such talent that one might argue she was teaching a future prodigy or perhaps just a very persistent child with a great memory. His ability to recall previous lessons made traditional music reading look like child's play.",
-      "year": 1915,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Admission to Conservatory",
-      "summary": "By 13, Shostakovich was admitted to the conservatory, where he was introduced to a world of music theory that might have made his little head spin. Imagine a teenager juggling piano practice and music history while trying to look cool\u2014he mastered this art, or so his teachers thought!",
-      "year": 1919,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "First Symphony Premiere",
-      "summary": "With the audacity of a true rock star, Shostakovich premiered his First Symphony as a graduation piece at just 19 years old. The audience loved it so much they demanded an encore, which is like asking the guy who just finished his final exam to take a victory lap!",
+      "section": "Biography",
+      "title": "First Symphony Premiered",
+      "summary": "Shostakovich's First Symphony was premiered by the Leningrad Philharmonic Orchestra, conducted by Nikolai Malko, after being initially intended for private performance. The audience received the symphony with great enthusiasm, demanding an encore of the scherzo.",
       "year": 1926,
-      "city": "Leningrad",
-      "country": "Russia"
+      "location": "Leningrad",
+      "emoji": "\ud83c\udfb5",
+      "fun_version": "Shostakovich's First Symphony was so good, it practically waltzed off the stage! It premiered, conducted by Nikolai Malko, by the Leningrad Philharmonic Orchestra. Initially intended for private performance, the symphony had the audience going wild, demanding an encore of the scherzo!"
     },
     {
-      "event": "Recognition in Piano Competition",
-      "summary": "Despite falling ill with appendicitis, Shostakovich participated in the International Chopin Piano Competition. Picture this: a young composer doing his best to play piano while also trying to not double over in pain. He didn\u2019t win but got a diploma, which is kind of like receiving a participation trophy.",
-      "year": 1927,
-      "city": "Warsaw",
-      "country": "Poland"
-    },
-    {
-      "event": "Success of Lady Macbeth of Mtsensk",
-      "summary": "Shostakovich's opera Lady Macbeth of Mtsensk premiered to much acclaim, making him the talk of the town. It was hailed as a shining example of Soviet culture, proving that even in music, it was possible to have both a good time and a state-approved smile.",
-      "year": 1934,
-      "city": "Leningrad",
-      "country": "Russia"
-    },
-    {
-      "event": "Denunciation by Soviet Authorities",
-      "summary": "Just when he thought everything was going swimmingly, Shostakovich received a nasty surprise when his opera was criticized in Pravda, basically a Yelp review from the government saying, \"We don't like this!\" Talk about a major plot twist in his career!",
-      "year": 1936,
-      "city": "Leningrad",
-      "country": "Russia"
-    },
-    {
-      "event": "Entry into the Supreme Soviet",
-      "summary": "In a twist of fate that only Shostakovich could manage, he became a member of the Supreme Soviet of the RSFSR. This was like getting a VIP pass to the political elite while carrying the weight of a conflicted relationship with the very government that raised him to fame.",
-      "year": 1947,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Censure Rescinded",
-      "summary": "The musical tides turned for Shostakovich when his previous censure was lifted in the 1950s. It was like a musical version of the groundhog emerging from its hole\u2014only this time, instead of predicting spring, he got to perform without constant state scrutiny!",
-      "year": 1956,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Completion of Thirteenth Symphony",
-      "summary": "In 1962, Shostakovich decided to push the boundaries once again with his Thirteenth Symphony. Of course, he had to do it while keeping an eye on state interventions\u2014because nothing says 'artistic freedom' quite like waiting for approval from the folks in government!",
-      "year": 1962,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Chairman of the RSFSR Union of Composers",
-      "summary": "Stepping into a leadership role, Shostakovich became chairman of the RSFSR Union of Composers. Imagine a group of composers meeting to discuss important matters like the best key signature for state-approved patriotic songs. Hilarity must have ensued!",
-      "year": 1960,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Birth of Daughter",
-      "summary": "In the midst of turmoil and a chaotic political landscape, Shostakovich welcomed his daughter, Galina, into the world. To say that she arrived during a dramatic time is an understatement, yet she likely came into the world without care for the stern music critics of her father's day.",
-      "year": 1936,
-      "city": "Leningrad",
-      "country": "Russia"
-    },
-    {
-      "event": "Birth of Son",
-      "summary": "Two years after Galina, Shostakovich's son, Maxim, was born, further expanding the composer's entourage of talented youths. With both a daughter and a son, one might wonder if he had plans to form a musical dynasty, or just to survive the day-to-day challenges of parenting in a tumultuous era.",
-      "year": 1938,
-      "city": "Leningrad",
-      "country": "Russia"
-    },
-    {
-      "event": "Fourth Symphony Withdrawal",
-      "summary": "Shostakovich, faced with increasing pressure and the threat of arrest, took the unusual step of withdrawing his Fourth Symphony. It was as if he thought, 'Why fight with an audience that might not exist tomorrow?' The symphony was eventually heard, but only after a quietly dramatic wait of decades!",
-      "year": 1936,
-      "city": "Leningrad",
-      "country": "Russia"
-    },
-    {
-      "event": "Fifth Symphony Premiere",
-      "summary": "The world breathed a sigh of relief when Shostakovich premiered his Fifth Symphony, a piece that struck emotional chords and brought many to tears. It was like he had hit the reset button on his career, and critics scrambled to reclassify him as 'the good Soviet composer.' A triumph that many believe was deeply layered with coded meanings.",
-      "year": 1937,
-      "city": "Leningrad",
-      "country": "Russia"
-    },
-    {
-      "event": "Seventh Symphony Composition",
-      "summary": "Amidst the siege of Leningrad, Shostakovich composed his Seventh Symphony, in a move that was equal parts defiance and duty. It was as if he said, 'If you can\u2019t beat \u2018em, write them an epic!' The piece became a symbol of resilience, and its first performances had people more patriotic than a Red Army concert.",
-      "year": 1941,
-      "city": "Leningrad",
-      "country": "Russia"
-    },
-    {
-      "event": "Eighth Symphony Reception",
-      "summary": "The premiere of Shostakovich's Eighth Symphony was met with confusion\u2014it was as if he had shown up to a party in a formal suit while everyone else wore t-shirts. Despite its serious tone, many audience members seemed to miss the deeper message behind the music, leaving Shostakovich scratching his head.",
-      "year": 1943,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Ninth Symphony Composition",
-      "summary": "Shostakovich completed his Ninth Symphony, a light-hearted piece after a series of heavyweights. He likely thought, 'A little joy couldn't hurt!' But it was met with skepticism, as critics wondered if he had indeed gone too playful in a time that called for grandeur.",
-      "year": 1945,
-      "city": "Leningrad",
-      "country": "Russia"
-    },
-    {
-      "event": "Deputy to Supreme Soviet",
-      "summary": "In a rather unexpected career twist, Shostakovich was made a deputy to the Supreme Soviet, which perhaps left him wondering if he would have to trade his baton for a gavel. While it might not have been his dream job, it did come with new rules and regulations to navigate.",
-      "year": 1947,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Second Denunciation",
-      "summary": "Just when Shostakovich thought things had settled, he faced another denunciation for formalism. It felt like d\u00e9j\u00e0 vu, but this time it came with added consequences for his family. One might imagine him thinking, 'Do I have to apologize again? What\u2019s next, a musical exam?'",
-      "year": 1948,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Stalin's Death and Tenth Symphony",
-      "summary": "With Stalin's passing came a wave of relief for many artists, including Shostakovich. He responded with his Tenth Symphony, a powerful piece that perhaps contained a bit of everything\u2014from vindication to relief\u2014and people loved it. It was like he was finally free to dance in his own musical playground!",
-      "year": 1953,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Marriage to Nina Varzar",
-      "summary": "Shostakovich tied the knot with Nina Varzar, presumably thinking he could finally settle down and escape the single life. Little did he know, it was just the beginning of a life filled with musical drama and a few too many 'do I have to?'-style symphonies.",
+      "section": "Biography",
+      "title": "Marriage to Nina Varzar",
+      "summary": "Shostakovich married his first wife, Nina Varzar. Their relationship experienced difficulties that led to a divorce in 1935, although they soon remarried after Nina became pregnant with their first child, Galina.",
       "year": 1932,
-      "city": "Leningrad",
-      "country": "Soviet Union"
+      "location": "Unspecified",
+      "emoji": "\u2764\ufe0f",
+      "fun_version": "Shostakovich married his first wife, Nina Varzar. Their relationship went through some serious turbulence, leading to a divorce in 1935. But hold on! They remarry after Nina becomes pregnant with their first child, Galina."
     },
     {
-      "event": "First Heart Attack",
-      "summary": "After coming face to face with the stress of a somewhat chaotic life and perhaps too many late-night composing sessions, Shostakovich had his first heart attack. He probably thought, 'Well, at least I have an excuse to take a break from the piano!'",
-      "year": 1966,
-      "city": "Moscow",
-      "country": "Soviet Union"
+      "section": "Biography",
+      "title": "Premiere of the Fifth Symphony",
+      "summary": "The Fifth Symphony, composed as a response to Shostakovich's denunciation, was premi\u00e8red in Leningrad and received phenomenal success, moving the audience to tears and restoring the composer's standing in Soviet society.",
+      "year": 1937,
+      "location": "Leningrad",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "The Fifth Symphony, composed in response to Shostakovich's \"You're Not Gonna Believe This\" call-out, had its grand debut in Leningrad, where it received phenomenal success and moved the audience to tears. It turned the composer's standing around in Soviet society faster than a Soviet leader's mood at a vodka party!"
     },
     {
-      "event": "Composition of the Twelfth Symphony",
-      "summary": "In an act of artistic commitment overshadowed by political turmoil, Shostakovich composed the Twelfth Symphony, which was as bold as declaring, 'I have important things to say, and they are not all pleasant!', dedicated to Lenin.",
-      "year": 1961,
-      "city": "Moscow",
-      "country": "Soviet Union"
+      "section": "Recorded legacy",
+      "title": "Collaborative Recordings of Chamber Works",
+      "summary": "Shostakovich played piano solos in recordings of the Cello Sonata, Op. 40, alongside cellist Daniil Shafran and cellist Mstislav Rostropovich. He also recorded the Violin Sonata, Op. 134, in a private session with violinist David Oistrakh, and collaborated with Oistrakh and cellist Milo\u0161 \u0160\u00e1dl\u00f3 on the Piano Trio, Op. 67.",
+      "year": 1958,
+      "location": "Moscow",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Shostakovich played piano solos in recordings of the Cello Sonata, Op. 40, alongside cellists Daniil Shafran and Mstislav Rostropovich. He also recorded the Violin Sonata, Op. 134, in a private session with violinist David Oistrakh. Together with Oistrakh and cellist Milo\u0161 \u0160\u00e1dl\u00f3, Shostakovich created the Piano Trio, Op. 67."
     },
     {
-      "event": "Last Public Conducting",
-      "summary": "In a rare moment of bravery, Shostakovich conducted his own works publicly for the first and only time; after this, he likely thought, 'Okay, that's enough conducting for a lifetime!'",
-      "year": 1962,
-      "city": "Gorky",
-      "country": "Soviet Union"
+      "section": "Recorded legacy",
+      "title": "Recording of Piano Concertos in Paris",
+      "summary": "In May 1958, during a visit to Paris, Shostakovich recorded two piano concertos with conductor Andr\u00e9 Cluytens. These recordings were issued on LP by EMI and later reissued on CD. Additionally, he recorded the two concertos in stereo in Moscow for Melodiya.",
+      "year": 1958,
+      "location": "Paris",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "In May 1958, while hunting for the best croissant in Paris, Shostakovich decided to squeeze in some piano concertos with conductor Andr\u00e9 Cluytens. They created recordings so good that EMI would rush to put them on LP, and later they made their way to CD! Later, not to be outdone by the French, he recorded the same concertos in stereo in Moscow for Melodiya."
     },
     {
-      "event": "Marriage to Irina Supinskaya",
-      "summary": "Shostakovich took the plunge for a third time, marrying Irina Supinskaya. He famously noted her only flaw was that she was 27\u2014talk about a man not letting age get in the way of true love, or at least domestic peace!",
-      "year": 1962,
-      "city": "Moscow",
-      "country": "Soviet Union"
-    },
-    {
-      "event": "Composition of the Eighth String Quartet",
-      "summary": "In an impressive burst of creativity, Shostakovich cranked out the Eighth String Quartet in just three days, perhaps thinking, 'If I don\u2019t write it down, I might forget it, or worse, someone might steal my ideas!'",
+      "section": "Biography",
+      "title": "Composition of the Eighth String Quartet",
+      "summary": "Shostakovich composed the Eighth String Quartet in just three days, dedicating it \"To the victims of fascism and war.\" It reflected on the devastation of war and incorporated themes from his earlier works.",
       "year": 1960,
-      "city": "Moscow",
-      "country": "Soviet Union"
+      "location": "Unspecified",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "Shostakovich whipped up the Eighth String Quartet in just three days, dedicating it 'To the victims of fascism and war.' Reflecting the devastation of war, the quartet also incorporates themes from his earlier works."
     },
     {
-      "event": "Joining the Communist Party",
-      "summary": "Caught in a whirlwind of political pressures, Shostakovich joined the Communist Party, leading to a few tears and a lot of complicated feelings about his newest membership card, which he probably wished came with a refund policy.",
-      "year": 1960,
-      "city": "Moscow",
-      "country": "Soviet Union"
+      "section": "Recorded legacy",
+      "title": "Supervising Film of The Nose Revival",
+      "summary": "A color film was produced in 1974, capturing Shostakovich supervising the Soviet revival of his opera The Nose. This portrayal reflects his continued involvement in the arts during the later years of his career.",
+      "year": 1974,
+      "location": "Soviet Union",
+      "emoji": "\ud83c\udfac",
+      "fun_version": "In 1974, a color film showcased the legendary Shostakovich, supervising the Soviet revival of his quirky opera, The Nose. This portrayal reflects his continued involvement in the arts during the later years of his career."
     },
     {
-      "event": "Composition of the Fourth Symphony",
-      "summary": "Shostakovich wrote the Fourth Symphony, showcasing a colossal spectrum of his musical journey. He must have thought, 'The more, the merrier!' as he combined various styles to bewilder and amaze listeners.",
-      "year": 1936,
-      "city": "Leningrad",
-      "country": "Soviet Union"
-    },
-    {
-      "event": "Last Work: Viola Sonata",
-      "summary": "Despite battling health issues, Shostakovich completed his Viola Sonata, showcasing his knack for perseverance, or perhaps just sheer stubbornness, ensuring his voice would be felt even when his hands became achy.",
+      "section": "Biography",
+      "title": "Death of Dmitri Shostakovich",
+      "summary": "Shostakovich passed away, resulting in a civic funeral and interment at Novodevichy Cemetery in Moscow, marking the end of a significant musical career",
       "year": 1975,
-      "city": "Moscow",
-      "country": "Soviet Union"
+      "location": "Moscow",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Shostakovich decided to take an eternal intermission, marking the end of a significant musical career and leaving behind a symphony of confusion as they all figured out how to explain his absence at the party at Novodevichy Cemetery!"
     },
     {
-      "event": "Death",
-      "summary": "Shostakovich finally took a permanent curtain call, leaving behind a legacy of music that people still can't stop debating over\u2014and isn't that the ultimate goal for any composer?",
+      "section": "Biography",
+      "title": "Final Work - Viola Sonata",
+      "summary": "Shostakovich completed his last work, the Viola Sonata, which was first performed in 1975, shortly before his death. It encapsulated his reflections on mortality and artistic legacy.",
       "year": 1975,
-      "city": "Moscow",
-      "country": "Soviet Union"
-    },
-    {
-      "event": "First Composition",
-      "summary": "At just 12 years old, Shostakovich composed his first piece, presumably causing his parents to wonder if they inadvertently bought him a grand piano instead of a toy.",
-      "year": 1918,
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    {
-      "event": "Entry to Leningrad Conservatory",
-      "summary": "Shostakovich enrolled at the Leningrad Conservatory, where he probably thought that if he couldn\u2019t conduct, he might as well compose and disrupt the world with his genius.",
-      "year": 1923,
-      "city": "Leningrad",
-      "country": "Russia"
-    },
-    {
-      "event": "First Symphony",
-      "summary": "His First Symphony premiered, showcasing a youthful exuberance that likely made every other composer wishing they had a time machine to steal some of his melodies.",
-      "year": 1926,
-      "city": "Leningrad",
-      "country": "Russia"
-    },
-    {
-      "event": "Official Recognition",
-      "summary": "Shostakovich received recognition for his talents, proving that even in the strict world of Soviet arts, talent was sometimes hard to ignore, like a loud sneeze in a library.",
-      "year": 1930,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Lady Macbeth of Mtsensk Premiere",
-      "summary": "His opera 'Lady Macbeth of Mtsensk' premiered, causing quite a stir and leaving audiences wondering if Shostakovich had accidentally dropped a wild script into a serious music piece.",
-      "year": 1934,
-      "city": "Leningrad",
-      "country": "Russia"
-    },
-    {
-      "event": "Official Criticism",
-      "summary": "After facing a scathing review from the government, Shostakovich learned that being a composer in the Soviet Union was reminiscent of playing musical chairs, only the music stopped abruptly, and there were fewer seats.",
-      "year": 1936,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Symphony No. 7 Premiere",
-      "summary": "He premiered his Seventh Symphony, famously known as the Leningrad Symphony, which turned concert halls into venues of both tragic narrative and profound orchestral badassery.",
-      "year": 1941,
-      "city": "Leningrad",
-      "country": "Russia"
-    },
-    {
-      "event": "World War II Experiences",
-      "summary": "During WWII, Shostakovich's experiences would inspire much of his music, making it sound like a mix of despair and a fight to keep a sense of humor while dodging explosions.",
-      "year": 1941,
-      "city": "Leningrad",
-      "country": "Russia"
-    },
-    {
-      "event": "Self-Exile Period",
-      "summary": "In the years that followed, he navigated through personal and professional perils that could rival a game of chess played on a battlefield, all while crafting music that echoed his tumultuous life.",
-      "year": 1945,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Final Compositions",
-      "summary": "His later works, including string quartets and symphonies, hinted at a humorous yet profound reflection on life, music, and the occasional absurdity of the human experience.",
-      "year": 1970,
-      "city": "Leningrad",
-      "country": "Russia"
-    },
-    {
-      "event": "Lady Macbeth of Mtsensk",
-      "summary": "The opera 'Lady Macbeth of Mtsensk' premiered, proving that Shostakovich could turn scandalous subject matter into a hit\u2014just the kind of drama needed for a good dinner conversation.",
-      "year": 1934,
-      "city": "Leningrad",
-      "country": "Russia"
-    },
-    {
-      "event": "Severe Criticism",
-      "summary": "After his opera was pilloried by the authorities, Shostakovich learned that sometimes silence is golden\u2014but composing more music is silver, much to the delight (or dismay) of his audiences.",
-      "year": 1936,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Seventh Symphony Premiere",
-      "summary": "The Leningrad Symphony, also known as the Seventh Symphony, premiered during the war, making it an instant classic, though some thought it was just very long background music for the chaos raging outside.",
-      "year": 1942,
-      "city": "Kuibyshev",
-      "country": "Russia"
-    },
-    {
-      "event": "Relations with Stalin",
-      "summary": "Shostakovich found himself in a not-so-secret friendship with Stalin, leading him to navigate the tricky waters of creativity and survival, resembling a bureaucratic rom-com without the happy ending.",
-      "year": 1941,
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    {
-      "event": "Doctor Zhivago Film Score",
-      "summary": "His contributions to the film score of 'Doctor Zhivago' highlighted Shostakovich's versatility, although it also left him wondering if he'd ever get a night off from composing.",
-      "year": 1965,
-      "city": "Moscow",
-      "country": "Russia"
+      "location": "Unspecified",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "So, Shostakovich decided to throw together his last piece, the Viola Sonata, in 1975! You could say it was his way of saying, 'I\u2019m outta here, but here are my deep thoughts on life and legacy\u2014hope you enjoy!' It\u2019s like a parting gift wrapped in a bow of introspection on mortality and artistic legacy!"
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/Aphorisms,_Op.13_(Shostakovich,_Dmitry)",
-      "year": 1927,
-      "title": "Aphorisms, Op.13"
-    },
-    {
+      "title": "3 Fantastic Dances, Op.5",
       "imslp_url": "https://imslp.org/wiki/3_Fantastic_Dances,_Op.5_(Shostakovich,_Dmitry)",
-      "year": 1920,
-      "title": "3 Fantastic Dances, Op.5"
+      "year": 1920
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.1,_Op.12_(Shostakovich,_Dmitry)",
-      "year": 1926,
-      "title": "Piano Sonata No.1, Op.12"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Prelude_and_Scherzo,_Op.11_(Shostakovich,_Dmitry)",
-      "year": 1924,
-      "title": "Prelude and Scherzo, Op.11"
-    },
-    {
+      "title": "Symphony No.1, Op.10",
       "imslp_url": "https://imslp.org/wiki/Symphony_No.1,_Op.10_(Shostakovich,_Dmitry)",
-      "year": 1923,
-      "title": "Symphony No.1, Op.10"
+      "year": 1923
     },
     {
+      "title": "Prelude and Scherzo, Op.11",
+      "imslp_url": "https://imslp.org/wiki/Prelude_and_Scherzo,_Op.11_(Shostakovich,_Dmitry)",
+      "year": 1924
+    },
+    {
+      "title": "Piano Sonata No.1, Op.12",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.1,_Op.12_(Shostakovich,_Dmitry)",
+      "year": 1926
+    },
+    {
+      "title": "Aphorisms, Op.13",
+      "imslp_url": "https://imslp.org/wiki/Aphorisms,_Op.13_(Shostakovich,_Dmitry)",
+      "year": 1927
+    },
+    {
+      "title": "Symphony No.2, Op.14",
       "imslp_url": "https://imslp.org/wiki/Symphony_No.2,_Op.14_(Shostakovich,_Dmitry)",
-      "year": 1927,
-      "title": "Symphony No.2, Op.14"
+      "year": 1927
     }
   ]
 }

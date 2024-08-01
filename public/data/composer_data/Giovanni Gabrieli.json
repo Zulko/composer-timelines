@@ -1,0 +1,342 @@
+{
+  "full_name": "Giovanni Gabrieli",
+  "first_names": "Giovanni",
+  "last_name": "Gabrieli",
+  "birth_year": 1557,
+  "death_year": 1612,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_Gabrieli",
+  "events": [
+    {
+      "section": "Biography",
+      "title": "Study with Orlando de Lassus",
+      "summary": "Gabrieli travelled to Munich to study with the renowned composer Orlando de Lassus at the court of Duke Albert V. He likely stayed there until about 1579, during which time Lassus significantly influenced his musical style.",
+      "year": 1579,
+      "location": "Munich",
+      "emoji": "\ud83c\udfb5",
+      "fun_version": "Gabrieli took a musical road trip to Munich to learn from the legendary composer Orlando de Lassus, who had a significant influence on his musical style at the court of Duke Albert V. He was soaking up those musical vibes until about 1579, and Lassus was tuning his style like a fine Bavarian beer\u2014hoppy and distinctive!"
+    },
+    {
+      "section": "Biography",
+      "title": "Organist at Scuola Grande di San Rocco",
+      "summary": "In addition to his role at St Mark's, he became the organist at the prestigious Scuola Grande di San Rocco, a position he maintained for his entire life, contributing significantly to its renowned musical establishment.",
+      "year": 1585,
+      "location": "Venice",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "In addition to his role at St Mark's, he took on the gig as the organist at Scuola Grande di San Rocco. He played there for so long that when the organ broke, they considered making him the replacement! Throughout all this time, he contributed significantly to its renowned musical establishment."
+    },
+    {
+      "section": "Biography",
+      "title": "Principal Organist at St Mark's Basilica",
+      "summary": "Gabrieli returned to Venice by 1584 and became the principal organist at St Mark's Basilica in 1585, following the departure of Claudio Merulo. He took on the role of principal composer after his uncle Andrea Gabrieli passed away in 1586.",
+      "year": 1585,
+      "location": "Venice",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Imagine Gabrieli waddling back to Venice in 1584, ready to spread some musical cheer! In 1585, he tickled the ivories at St Mark's Basilica, after Claudio Merulo stepped out. When his uncle Andrea passed away in 1586, Gabrieli took on the role of principal composer, preserving the musical legacy of their family!"
+    },
+    {
+      "section": "Biography",
+      "title": "Publication of Sacrae symphoniae",
+      "summary": "Gabrieli's influential volume Sacrae symphoniae was published in 1597, marking a significant point in his career and establishing him as a notable composer in Europe.",
+      "year": 1597,
+      "location": "Venice",
+      "emoji": "\ud83d\udcd6",
+      "fun_version": "In 1597, when the biggest worry was running out of cheese, Gabrieli unleashed his influential volume 'Sacrae symphoniae' upon the world. This significant moment in his career catapulted him to fame, tossing his name into the orchestral hall of fame. Who knew music could be so tasty and transformative?"
+    },
+    {
+      "section": "Biography",
+      "title": "Death",
+      "summary": "Giovanni Gabrieli passed away in Venice due to complications from a kidney stone. His declining health led church authorities to appoint deputies for his duties in the years preceding his death.",
+      "year": 1612,
+      "location": "Venice",
+      "emoji": "\u26b0\ufe0f",
+      "fun_version": "You know you've had a tough time when not only do you have a kidney stone, but it also decides it's time for a trip to Venice! Giovanni Gabrieli, a man of music, passed away from complications related to it, composing a final symphony in the afterlife as he decided to take a very long 'rest' from his duties. In the months leading up to his departure, church authorities were already appointing deputies to fill in for him."
+    }
+  ],
+  "works": [
+    {
+      "title": "Quand'io ero giovinetto, Ch.91",
+      "imslp_url": "https://imslp.org/wiki/Quand'io_ero_giovinetto,_Ch.91_(Gabrieli,_Giovanni)",
+      "year": 1575
+    },
+    {
+      "title": "Sacro tempio d'honor spechio, Ch.95",
+      "imslp_url": "https://imslp.org/wiki/Sacro_tempio_d'honor_spechio,_Ch.95_(Gabrieli,_Giovanni)",
+      "year": 1586
+    },
+    {
+      "title": "Dolce nemica mia",
+      "imslp_url": "https://imslp.org/wiki/Dolce_nemica_mia_(Gabrieli,_Giovanni)",
+      "year": 1587
+    },
+    {
+      "title": "Inclina Domine aurem tuam",
+      "imslp_url": "https://imslp.org/wiki/Inclina_Domine_aurem_tuam_(Gabrieli,_Giovanni)",
+      "year": 1587
+    },
+    {
+      "title": "Lieto godea sedendo, Ch.113",
+      "imslp_url": "https://imslp.org/wiki/Lieto_godea_sedendo,_Ch.113_(Gabrieli,_Giovanni)",
+      "year": 1587
+    },
+    {
+      "title": "O magnum mysterium, Ch.3",
+      "imslp_url": "https://imslp.org/wiki/O_magnum_mysterium,_Ch.3_(Gabrieli,_Giovanni)",
+      "year": 1587
+    },
+    {
+      "title": "Sacre di Giove augei, Ch.119",
+      "imslp_url": "https://imslp.org/wiki/Sacre_di_Giove_augei,_Ch.119_(Gabrieli,_Giovanni)",
+      "year": 1587
+    },
+    {
+      "title": "Dimmi, dimmi ben mio",
+      "imslp_url": "https://imslp.org/wiki/Dimmi,_dimmi_ben_mio_(Gabrieli,_Giovanni)",
+      "year": 1589
+    },
+    {
+      "title": "Queste felice erbette",
+      "imslp_url": "https://imslp.org/wiki/Queste_felice_erbette_(Gabrieli,_Giovanni)",
+      "year": 1589
+    },
+    {
+      "title": "Vaghi amorosi e fortunati allori",
+      "imslp_url": "https://imslp.org/wiki/Vaghi_amorosi_e_fortunati_allori_(Gabrieli,_Giovanni)",
+      "year": 1589
+    },
+    {
+      "title": "Alma cortes'e bella, Ch.85",
+      "imslp_url": "https://imslp.org/wiki/Alma_cortes'e_bella,_Ch.85_(Gabrieli,_Giovanni)",
+      "year": 1590
+    },
+    {
+      "title": "Chiar' angioletta, Ch.117",
+      "imslp_url": "https://imslp.org/wiki/Chiar'_angioletta,_Ch.117_(Gabrieli,_Giovanni)",
+      "year": 1590
+    },
+    {
+      "title": "Intonazione del duodecimo tono, Ch.250",
+      "imslp_url": "https://imslp.org/wiki/Intonazione_del_duodecimo_tono,_Ch.250_(Gabrieli,_Giovanni)",
+      "year": 1593
+    },
+    {
+      "title": "Toccata del secondo tono, Ch.236",
+      "imslp_url": "https://imslp.org/wiki/Toccata_del_secondo_tono,_Ch.236_(Gabrieli,_Giovanni)",
+      "year": 1593
+    },
+    {
+      "title": "Labra amarose \u00e8 care, Ch.90",
+      "imslp_url": "https://imslp.org/wiki/Labra_amarose_\u00e8_care,_Ch.90_(Gabrieli,_Giovanni)",
+      "year": 1595
+    },
+    {
+      "title": "Beata es, virgo Maria, Ch.8",
+      "imslp_url": "https://imslp.org/wiki/Beata_es,_virgo_Maria,_Ch.8_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Beati immaculati, Ch.18",
+      "imslp_url": "https://imslp.org/wiki/Beati_immaculati,_Ch.18_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Cantate Domino, Ch.6",
+      "imslp_url": "https://imslp.org/wiki/Cantate_Domino,_Ch.6_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Canzon in echo duodecimi toni \u00e0 10, Ch.180",
+      "imslp_url": "https://imslp.org/wiki/Canzon_in_echo_duodecimi_toni_\u00e0_10,_Ch.180_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Canzon per sonar duodecimi toni a 10, Ch.177",
+      "imslp_url": "https://imslp.org/wiki/Canzon_per_sonar_duodecimi_toni_a_10,_Ch.177_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Canzon per sonar duodecimi toni a 10, Ch.178",
+      "imslp_url": "https://imslp.org/wiki/Canzon_per_sonar_duodecimi_toni_a_10,_Ch.178_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Canzon per sonar duodecimi toni a 10, Ch.179",
+      "imslp_url": "https://imslp.org/wiki/Canzon_per_sonar_duodecimi_toni_a_10,_Ch.179_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Canzon per sonar duodecimi toni a 8, Ch.174",
+      "imslp_url": "https://imslp.org/wiki/Canzon_per_sonar_duodecimi_toni_a_8,_Ch.174_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Canzon per sonar noni toni a 12, Ch.183",
+      "imslp_url": "https://imslp.org/wiki/Canzon_per_sonar_noni_toni_a_12,_Ch.183_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Canzon per sonar noni toni a 8, Ch.173",
+      "imslp_url": "https://imslp.org/wiki/Canzon_per_sonar_noni_toni_a_8,_Ch.173_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Canzon per sonar primi toni a 10, Ch.176",
+      "imslp_url": "https://imslp.org/wiki/Canzon_per_sonar_primi_toni_a_10,_Ch.176_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Canzon per sonar primi toni a 8, Ch.170",
+      "imslp_url": "https://imslp.org/wiki/Canzon_per_sonar_primi_toni_a_8,_Ch.170_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Canzon per sonar quarti toni a 15, Ch.185",
+      "imslp_url": "https://imslp.org/wiki/Canzon_per_sonar_quarti_toni_a_15,_Ch.185_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Canzon per sonar septimi toni a 8, Ch.171",
+      "imslp_url": "https://imslp.org/wiki/Canzon_per_sonar_septimi_toni_a_8,_Ch.171_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Canzon per sonar septimi toni a 8, Ch.172",
+      "imslp_url": "https://imslp.org/wiki/Canzon_per_sonar_septimi_toni_a_8,_Ch.172_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Canzon septimi et octavi toni a 12, Ch.182",
+      "imslp_url": "https://imslp.org/wiki/Canzon_septimi_et_octavi_toni_a_12,_Ch.182_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Deus, qui beatum Marcum, Ch.36",
+      "imslp_url": "https://imslp.org/wiki/Deus,_qui_beatum_Marcum,_Ch.36_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Domine exaudi orationem meam, Ch.15",
+      "imslp_url": "https://imslp.org/wiki/Domine_exaudi_orationem_meam,_Ch.15_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Gloria a 12, Ch.46",
+      "imslp_url": "https://imslp.org/wiki/Gloria_a_12,_Ch.46_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Hodie Christus natus est, Ch.40",
+      "imslp_url": "https://imslp.org/wiki/Hodie_Christus_natus_est,_Ch.40_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Jam non dicam vos servos, Ch.20",
+      "imslp_url": "https://imslp.org/wiki/Jam_non_dicam_vos_servos,_Ch.20_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Jubilate Deo Omnis Terra, Ch.51",
+      "imslp_url": "https://imslp.org/wiki/Jubilate_Deo_Omnis_Terra,_Ch.51_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Jubilate Deo, Ch.16",
+      "imslp_url": "https://imslp.org/wiki/Jubilate_Deo,_Ch.16_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Kyrie, Ch.43-45",
+      "imslp_url": "https://imslp.org/wiki/Kyrie,_Ch.43-45_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Laudate nomen Domini, Ch.19",
+      "imslp_url": "https://imslp.org/wiki/Laudate_nomen_Domini,_Ch.19_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Magnificat, Ch.48",
+      "imslp_url": "https://imslp.org/wiki/Magnificat,_Ch.48_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Maria Virgo, Ch.35",
+      "imslp_url": "https://imslp.org/wiki/Maria_Virgo,_Ch.35_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Miserere mei, Deus, Ch.9",
+      "imslp_url": "https://imslp.org/wiki/Miserere_mei,_Deus,_Ch.9_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Misericordias Domini, Ch.17",
+      "imslp_url": "https://imslp.org/wiki/Misericordias_Domini,_Ch.17_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Nunc dimittis, Ch.50",
+      "imslp_url": "https://imslp.org/wiki/Nunc_dimittis,_Ch.50_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "O Domine Jesu Christe",
+      "imslp_url": "https://imslp.org/wiki/O_Domine_Jesu_Christe_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Omnes gentes plaudite manibus, Ch.52",
+      "imslp_url": "https://imslp.org/wiki/Omnes_gentes_plaudite_manibus,_Ch.52_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Plaudite, psallite, jubilate Deo omnis terra, Ch.41",
+      "imslp_url": "https://imslp.org/wiki/Plaudite,_psallite,_jubilate_Deo_omnis_terra,_Ch.41_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Sancta Maria succurre miseris, Ch.13",
+      "imslp_url": "https://imslp.org/wiki/Sancta_Maria_succurre_miseris,_Ch.13_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Sonata octavi toni a 12, Ch.184",
+      "imslp_url": "https://imslp.org/wiki/Sonata_octavi_toni_a_12,_Ch.184_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Sonata pian e forte, Ch.175",
+      "imslp_url": "https://imslp.org/wiki/Sonata_pian_e_forte,_Ch.175_(Gabrieli,_Giovanni)",
+      "year": 1597
+    },
+    {
+      "title": "Canzon a 4, Ch.194",
+      "imslp_url": "https://imslp.org/wiki/Canzon_a_4,_Ch.194_(Gabrieli,_Giovanni)",
+      "year": 1599
+    },
+    {
+      "title": "Canzon 'sol-sol-la-sol-fa-mi', Ch.191",
+      "imslp_url": "https://imslp.org/wiki/Canzon_'sol-sol-la-sol-fa-mi',_Ch.191_(Gabrieli,_Giovanni)",
+      "year": 1608
+    },
+    {
+      "title": "Canzon I 'La Spiritata', Ch.186",
+      "imslp_url": "https://imslp.org/wiki/Canzon_I_'La_Spiritata',_Ch.186_(Gabrieli,_Giovanni)",
+      "year": 1608
+    },
+    {
+      "title": "Canzon II a 4, Ch.187",
+      "imslp_url": "https://imslp.org/wiki/Canzon_II_a_4,_Ch.187_(Gabrieli,_Giovanni)",
+      "year": 1608
+    },
+    {
+      "title": "Canzon III a 4, Ch.188",
+      "imslp_url": "https://imslp.org/wiki/Canzon_III_a_4,_Ch.188_(Gabrieli,_Giovanni)",
+      "year": 1608
+    },
+    {
+      "title": "Canzon IV a 4, Ch.189",
+      "imslp_url": "https://imslp.org/wiki/Canzon_IV_a_4,_Ch.189_(Gabrieli,_Giovanni)",
+      "year": 1608
+    }
+  ]
+}

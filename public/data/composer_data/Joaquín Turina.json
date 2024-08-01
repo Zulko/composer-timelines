@@ -1,0 +1,502 @@
+{
+  "full_name": "Joaqu\u00edn Turina",
+  "first_names": "Joaqu\u00edn",
+  "last_name": "Turina",
+  "birth_year": 1882,
+  "death_year": 1949,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Joaqu\u00edn_Turina",
+  "events": [
+    {
+      "section": "Biography",
+      "title": "Marriage to Obdulia Garz\u00f3n",
+      "summary": "On 10 December 1908, Joaqu\u00edn Turina married Obdulia Garz\u00f3n. Together they had five children, and she was the dedicatee of his piece Danzas fant\u00e1sticas, which he completed later in 1919.",
+      "year": 1908,
+      "location": "Seville",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "On 10 December 1908, Joaqu\u00edn Turina took the ultimate plunge by marrying Obdulia Garz\u00f3n. Together, they went on to have five children. Obdulia, the dedicatee of Joaqu\u00edn's piece Danzas fant\u00e1sticas, inspired him to finish it in 1919!"
+    },
+    {
+      "section": "Biography",
+      "title": "Joining the Madrid Symphony Orchestra",
+      "summary": "On 28 March 1916, Turina joined the Madrid Symphony Orchestra at the Hotel Ritz of Madrid to perform the premiere of Manuel de Falla's revised orchestral version of El amor brujo. This event marked an important milestone in his career as he collaborated closely with other prominent composers.",
+      "year": 1916,
+      "location": "Madrid",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "On March 28, 1916, Turina decided it was a fabulous day to join the Madrid Symphony Orchestra at the posh Hotel Ritz of Madrid for the premiere of Manuel de Falla's fancy new orchestral version of El amor brujo. This event was a big deal in his career; after all, collaborating closely with other prominent composers is important!"
+    },
+    {
+      "section": "Works",
+      "title": "Premiere of Jueves Santo a medianoche",
+      "summary": "On 23 October 1928, Joaqu\u00edn Turina premiered the transcription for a cello and piano of his piece 'Jueves Santo a medianoche', which is from the Seville suite, alongside renowned cellist Pablo Casals at the Palau de la M\u00fasica Catalana.",
+      "year": 1928,
+      "location": "Palau de la M\u00fasica Catalana",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "On 23 October 1928, Joaqu\u00edn Turina had a bright idea to premiere his transcription for cello and piano of 'Jueves Santo a medianoche', which is from the Seville suite, alongside the legendary cellist Pablo Casals. This charming performance took place at the Palau de la M\u00fasica Catalana, where the audience surely left with their ears tinged and their hearts dancing!"
+    },
+    {
+      "section": "Biography",
+      "title": "Lectures in Havana",
+      "summary": "In the early months of 1929, Turina visited Havana, Cuba, where he gave a series of seven lectures at the Hispanic-Cuban Institute of Culture. This trip showcased his commitment to cultural exchange and education in music.",
+      "year": 1929,
+      "location": "Havana, Cuba",
+      "emoji": "\ud83c\udf93",
+      "fun_version": "In the early months of 1929, Turina took a trip to Havana, Cuba! He gave seven lectures at the Hispanic-Cuban Institute of Culture. I guess he had more slides than a playground! This trip showcased his commitment to cultural exchange and his belief that music should not just be heard but should also occasionally dance the salsa!"
+    },
+    {
+      "section": "Biography",
+      "title": "Professorship at the Madrid Royal Conservatory",
+      "summary": "In 1931, Turina was made professor of composition at the Madrid Royal Conservatory. He taught many notable pupils, helping to shape the future of Spanish music education.",
+      "year": 1931,
+      "location": "Madrid",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Did you hear about Turina getting a promotion back in 1931? He became the professor of composition at the Madrid Royal Conservatory! He taught many notable pupils, and it was said that he was so good that even their doodles began to sound like symphonies, helping shape the future of Spanish music education!"
+    }
+  ],
+  "works": [
+    {
+      "title": "Piano Quintet, Op.1",
+      "imslp_url": "https://imslp.org/wiki/Piano_Quintet,_Op.1_(Turina,_Joaqu\u00edn)",
+      "year": 1907
+    },
+    {
+      "title": "Sevilla, Op.2",
+      "imslp_url": "https://imslp.org/wiki/Sevilla,_Op.2_(Turina,_Joaqu\u00edn)",
+      "year": 1908
+    },
+    {
+      "title": "La Romanza del quiero y no puedo",
+      "imslp_url": "https://imslp.org/wiki/La_Romanza_del_quiero_y_no_puedo_(Turina,_Joaqu\u00edn)",
+      "year": 1909
+    },
+    {
+      "title": "Sonata Rom\u00e1ntica, Op.3",
+      "imslp_url": "https://imslp.org/wiki/Sonata_Rom\u00e1ntica,_Op.3_(Turina,_Joaqu\u00edn)",
+      "year": 1909
+    },
+    {
+      "title": "Rima, Op.6",
+      "imslp_url": "https://imslp.org/wiki/Rima,_Op.6_(Turina,_Joaqu\u00edn)",
+      "year": 1910
+    },
+    {
+      "title": "Rincones Sevillanos, Op.5",
+      "imslp_url": "https://imslp.org/wiki/Rincones_Sevillanos,_Op.5_(Turina,_Joaqu\u00edn)",
+      "year": 1911
+    },
+    {
+      "title": "3 Danzas Andaluzas, Op.8",
+      "imslp_url": "https://imslp.org/wiki/3_Danzas_Andaluzas,_Op.8_(Turina,_Joaqu\u00edn)",
+      "year": 1912
+    },
+    {
+      "title": "La Procesi\u00f3n del Roc\u00edo, Op.9",
+      "imslp_url": "https://imslp.org/wiki/La_Procesi\u00f3n_del_Roc\u00edo,_Op.9_(Turina,_Joaqu\u00edn)",
+      "year": 1912
+    },
+    {
+      "title": "String Quartet, Op.4",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet,_Op.4_(Turina,_Joaqu\u00edn)",
+      "year": 1912
+    },
+    {
+      "title": "Preludio, Op.10",
+      "imslp_url": "https://imslp.org/wiki/Preludio,_Op.10_(Turina,_Joaqu\u00edn)",
+      "year": 1913
+    },
+    {
+      "title": "Scene andalouse",
+      "imslp_url": "https://imslp.org/wiki/Scene_andalouse_(Turina,_Joaqu\u00edn)",
+      "year": 1913
+    },
+    {
+      "title": "Margot, Op.11",
+      "imslp_url": "https://imslp.org/wiki/Margot,_Op.11_(Turina,_Joaqu\u00edn)",
+      "year": 1914
+    },
+    {
+      "title": "Recuerdos de mi rinc\u00f3n, Op.14",
+      "imslp_url": "https://imslp.org/wiki/Recuerdos_de_mi_rinc\u00f3n,_Op.14_(Turina,_Joaqu\u00edn)",
+      "year": 1914
+    },
+    {
+      "title": "\u00c1lbum de viaje, Op.15",
+      "imslp_url": "https://imslp.org/wiki/\u00c1lbum_de_viaje,_Op.15_(Turina,_Joaqu\u00edn)",
+      "year": 1915
+    },
+    {
+      "title": "Mujeres Espa\u00f1olas, Series 1, Op.17",
+      "imslp_url": "https://imslp.org/wiki/Mujeres_Espa\u00f1olas,_Series_1,_Op.17_(Turina,_Joaqu\u00edn)",
+      "year": 1916
+    },
+    {
+      "title": "Navidad, Op.16",
+      "imslp_url": "https://imslp.org/wiki/Navidad,_Op.16_(Turina,_Joaqu\u00edn)",
+      "year": 1916
+    },
+    {
+      "title": "Cuentos de Espa\u00f1a, Series 1, Op.20",
+      "imslp_url": "https://imslp.org/wiki/Cuentos_de_Espa\u00f1a,_Series_1,_Op.20_(Turina,_Joaqu\u00edn)",
+      "year": 1918
+    },
+    {
+      "title": "Danzas fant\u00e1sticas, Op.22",
+      "imslp_url": "https://imslp.org/wiki/Danzas_fant\u00e1sticas,_Op.22_(Turina,_Joaqu\u00edn)",
+      "year": 1919
+    },
+    {
+      "title": "Ni\u00f1er\u00edas, Series 1, Op.21",
+      "imslp_url": "https://imslp.org/wiki/Ni\u00f1er\u00edas,_Series_1,_Op.21_(Turina,_Joaqu\u00edn)",
+      "year": 1919
+    },
+    {
+      "title": "Sinfon\u00eda sevillana, Op.23",
+      "imslp_url": "https://imslp.org/wiki/Sinfon\u00eda_sevillana,_Op.23_(Turina,_Joaqu\u00edn)",
+      "year": 1920
+    },
+    {
+      "title": "Jard\u00edn de Oriente, Op.25",
+      "imslp_url": "https://imslp.org/wiki/Jard\u00edn_de_Oriente,_Op.25_(Turina,_Joaqu\u00edn)",
+      "year": 1922
+    },
+    {
+      "title": "Sanl\u00facar de Barrameda, Op.24",
+      "imslp_url": "https://imslp.org/wiki/Sanl\u00facar_de_Barrameda,_Op.24_(Turina,_Joaqu\u00edn)",
+      "year": 1922
+    },
+    {
+      "title": "3 Arias, Op.26",
+      "imslp_url": "https://imslp.org/wiki/3_Arias,_Op.26_(Turina,_Joaqu\u00edn)",
+      "year": 1923
+    },
+    {
+      "title": "El Cristo de la Calavera, Op.30",
+      "imslp_url": "https://imslp.org/wiki/El_Cristo_de_la_Calavera,_Op.30_(Turina,_Joaqu\u00edn)",
+      "year": 1923
+    },
+    {
+      "title": "La Anunciaci\u00f3n, Op.27",
+      "imslp_url": "https://imslp.org/wiki/La_Anunciaci\u00f3n,_Op.27_(Turina,_Joaqu\u00edn)",
+      "year": 1923
+    },
+    {
+      "title": "El poema de una sanluque\u00f1a, Op.28",
+      "imslp_url": "https://imslp.org/wiki/El_poema_de_una_sanluque\u00f1a,_Op.28_(Turina,_Joaqu\u00edn)",
+      "year": 1924
+    },
+    {
+      "title": "Jardines de Andaluc\u00eda, Op.31",
+      "imslp_url": "https://imslp.org/wiki/Jardines_de_Andaluc\u00eda,_Op.31_(Turina,_Joaqu\u00edn)",
+      "year": 1924
+    },
+    {
+      "title": "La Venta de los Gatos, Op.32",
+      "imslp_url": "https://imslp.org/wiki/La_Venta_de_los_Gatos,_Op.32_(Turina,_Joaqu\u00edn)",
+      "year": 1924
+    },
+    {
+      "title": "El barrio de Santa Cruz, Op.33",
+      "imslp_url": "https://imslp.org/wiki/El_barrio_de_Santa_Cruz,_Op.33_(Turina,_Joaqu\u00edn)",
+      "year": 1925
+    },
+    {
+      "title": "Fandanguillo, Op.36",
+      "imslp_url": "https://imslp.org/wiki/Fandanguillo,_Op.36_(Turina,_Joaqu\u00edn)",
+      "year": 1925
+    },
+    {
+      "title": "La oraci\u00f3n del torero, Op.34",
+      "imslp_url": "https://imslp.org/wiki/La_oraci\u00f3n_del_torero,_Op.34_(Turina,_Joaqu\u00edn)",
+      "year": 1925
+    },
+    {
+      "title": "La Leyenda de la Giralda, Op.40",
+      "imslp_url": "https://imslp.org/wiki/La_Leyenda_de_la_Giralda,_Op.40_(Turina,_Joaqu\u00edn)",
+      "year": 1926
+    },
+    {
+      "title": "Piano Trio No.1, Op.35",
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.1,_Op.35_(Turina,_Joaqu\u00edn)",
+      "year": 1926
+    },
+    {
+      "title": "Verbena madrile\u00f1a, Op.42",
+      "imslp_url": "https://imslp.org/wiki/Verbena_madrile\u00f1a,_Op.42_(Turina,_Joaqu\u00edn)",
+      "year": 1926
+    },
+    {
+      "title": "2 Danzas sobre temas populares espa\u00f1olas, Op.41",
+      "imslp_url": "https://imslp.org/wiki/2_Danzas_sobre_temas_populares_espa\u00f1olas,_Op.41_(Turina,_Joaqu\u00edn)",
+      "year": 1927
+    },
+    {
+      "title": "Canto a Sevilla, Op.37",
+      "imslp_url": "https://imslp.org/wiki/Canto_a_Sevilla,_Op.37_(Turina,_Joaqu\u00edn)",
+      "year": 1927
+    },
+    {
+      "title": "Mallorca, Op.44",
+      "imslp_url": "https://imslp.org/wiki/Mallorca,_Op.44_(Turina,_Joaqu\u00edn)",
+      "year": 1927
+    },
+    {
+      "title": "Ritmos, Op.43",
+      "imslp_url": "https://imslp.org/wiki/Ritmos,_Op.43_(Turina,_Joaqu\u00edn)",
+      "year": 1927
+    },
+    {
+      "title": "Tr\u00edptico, Op.45",
+      "imslp_url": "https://imslp.org/wiki/Tr\u00edptico,_Op.45_(Turina,_Joaqu\u00edn)",
+      "year": 1927
+    },
+    {
+      "title": "Cuentos de Espa\u00f1a, Series 2, Op.47",
+      "imslp_url": "https://imslp.org/wiki/Cuentos_de_Espa\u00f1a,_Series_2,_Op.47_(Turina,_Joaqu\u00edn)",
+      "year": 1928
+    },
+    {
+      "title": "Evocaciones, Op.46",
+      "imslp_url": "https://imslp.org/wiki/Evocaciones,_Op.46_(Turina,_Joaqu\u00edn)",
+      "year": 1928
+    },
+    {
+      "title": "Miniaturas, Op.52",
+      "imslp_url": "https://imslp.org/wiki/Miniaturas,_Op.52_(Turina,_Joaqu\u00edn)",
+      "year": 1929
+    },
+    {
+      "title": "Recuerdos de la Antigua Espa\u00f1a, Op.48",
+      "imslp_url": "https://imslp.org/wiki/Recuerdos_de_la_Antigua_Espa\u00f1a,_Op.48_(Turina,_Joaqu\u00edn)",
+      "year": 1929
+    },
+    {
+      "title": "Viaje mar\u00edtimo, Op.49",
+      "imslp_url": "https://imslp.org/wiki/Viaje_mar\u00edtimo,_Op.49_(Turina,_Joaqu\u00edn)",
+      "year": 1929
+    },
+    {
+      "title": "Violin Sonata No.1, Op.51",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.1,_Op.51_(Turina,_Joaqu\u00edn)",
+      "year": 1929
+    },
+    {
+      "title": "3 Sonetos, Op.54",
+      "imslp_url": "https://imslp.org/wiki/3_Sonetos,_Op.54_(Turina,_Joaqu\u00edn)",
+      "year": 1930
+    },
+    {
+      "title": "5 Danzas Gitanas, Series 1, Op.55",
+      "imslp_url": "https://imslp.org/wiki/5_Danzas_Gitanas,_Series_1,_Op.55_(Turina,_Joaqu\u00edn)",
+      "year": 1930
+    },
+    {
+      "title": "Ni\u00f1er\u00edas, Series 2, Op.56",
+      "imslp_url": "https://imslp.org/wiki/Ni\u00f1er\u00edas,_Series_2,_Op.56_(Turina,_Joaqu\u00edn)",
+      "year": 1930
+    },
+    {
+      "title": "Partita in C major, Op.57",
+      "imslp_url": "https://imslp.org/wiki/Partita_in_C_major,_Op.57_(Turina,_Joaqu\u00edn)",
+      "year": 1930
+    },
+    {
+      "title": "Saeta, Op.60",
+      "imslp_url": "https://imslp.org/wiki/Saeta,_Op.60_(Turina,_Joaqu\u00edn)",
+      "year": 1930
+    },
+    {
+      "title": "Sonata fantas\u00eda, Op.59",
+      "imslp_url": "https://imslp.org/wiki/Sonata_fantas\u00eda,_Op.59_(Turina,_Joaqu\u00edn)",
+      "year": 1930
+    },
+    {
+      "title": "Tarjetas Postales, Op.58",
+      "imslp_url": "https://imslp.org/wiki/Tarjetas_Postales,_Op.58_(Turina,_Joaqu\u00edn)",
+      "year": 1930
+    },
+    {
+      "title": "El Circo, Op.68",
+      "imslp_url": "https://imslp.org/wiki/El_Circo,_Op.68_(Turina,_Joaqu\u00edn)",
+      "year": 1931
+    },
+    {
+      "title": "El castillo de Almod\u00f3var, Op.65",
+      "imslp_url": "https://imslp.org/wiki/El_castillo_de_Almod\u00f3var,_Op.65_(Turina,_Joaqu\u00edn)",
+      "year": 1931
+    },
+    {
+      "title": "Jard\u00edn de ni\u00f1os, Op.63",
+      "imslp_url": "https://imslp.org/wiki/Jard\u00edn_de_ni\u00f1os,_Op.63_(Turina,_Joaqu\u00edn)",
+      "year": 1931
+    },
+    {
+      "title": "Piano Quartet in A minor, Op.67",
+      "imslp_url": "https://imslp.org/wiki/Piano_Quartet_in_A_minor,_Op.67_(Turina,_Joaqu\u00edn)",
+      "year": 1931
+    },
+    {
+      "title": "Pieza rom\u00e1ntica, Op.64",
+      "imslp_url": "https://imslp.org/wiki/Pieza_rom\u00e1ntica,_Op.64_(Turina,_Joaqu\u00edn)",
+      "year": 1931
+    },
+    {
+      "title": "Radio Madrid, Op.62",
+      "imslp_url": "https://imslp.org/wiki/Radio_Madrid,_Op.62_(Turina,_Joaqu\u00edn)",
+      "year": 1931
+    },
+    {
+      "title": "Rapsodia sinf\u00f3nica, Op.66",
+      "imslp_url": "https://imslp.org/wiki/Rapsodia_sinf\u00f3nica,_Op.66_(Turina,_Joaqu\u00edn)",
+      "year": 1931
+    },
+    {
+      "title": "Fantas\u00eda italiana, Op.75",
+      "imslp_url": "https://imslp.org/wiki/Fantas\u00eda_italiana,_Op.75_(Turina,_Joaqu\u00edn)",
+      "year": 1932
+    },
+    {
+      "title": "Mujeres Espa\u00f1olas, Series 2, Op.73",
+      "imslp_url": "https://imslp.org/wiki/Mujeres_Espa\u00f1olas,_Series_2,_Op.73_(Turina,_Joaqu\u00edn)",
+      "year": 1932
+    },
+    {
+      "title": "Piano Trio No.2, Op.76",
+      "imslp_url": "https://imslp.org/wiki/Piano_Trio_No.2,_Op.76_(Turina,_Joaqu\u00edn)",
+      "year": 1932
+    },
+    {
+      "title": "Silhouettes, Op.70",
+      "imslp_url": "https://imslp.org/wiki/Silhouettes,_Op.70_(Turina,_Joaqu\u00edn)",
+      "year": 1932
+    },
+    {
+      "title": "Variaciones cl\u00e1sicas, Op.72",
+      "imslp_url": "https://imslp.org/wiki/Variaciones_cl\u00e1sicas,_Op.72_(Turina,_Joaqu\u00edn)",
+      "year": 1932
+    },
+    {
+      "title": "Vocalizaciones, Op.74",
+      "imslp_url": "https://imslp.org/wiki/Vocalizaciones,_Op.74_(Turina,_Joaqu\u00edn)",
+      "year": 1932
+    },
+    {
+      "title": "3 Poemas, Op.81",
+      "imslp_url": "https://imslp.org/wiki/3_Poemas,_Op.81_(Turina,_Joaqu\u00edn)",
+      "year": 1933
+    },
+    {
+      "title": "Bailete, Op.79",
+      "imslp_url": "https://imslp.org/wiki/Bailete,_Op.79_(Turina,_Joaqu\u00edn)",
+      "year": 1933
+    },
+    {
+      "title": "El Poema Infinito, Op.77",
+      "imslp_url": "https://imslp.org/wiki/El_Poema_Infinito,_Op.77_(Turina,_Joaqu\u00edn)",
+      "year": 1933
+    },
+    {
+      "title": "En la zapater\u00eda, Op.71",
+      "imslp_url": "https://imslp.org/wiki/En_la_zapater\u00eda,_Op.71_(Turina,_Joaqu\u00edn)",
+      "year": 1933
+    },
+    {
+      "title": "Preludios, Op.80",
+      "imslp_url": "https://imslp.org/wiki/Preludios,_Op.80_(Turina,_Joaqu\u00edn)",
+      "year": 1933
+    },
+    {
+      "title": "Serenata, Op.87",
+      "imslp_url": "https://imslp.org/wiki/Serenata,_Op.87_(Turina,_Joaqu\u00edn)",
+      "year": 1933
+    },
+    {
+      "title": "5 Danzas Gitanas, Series 2, Op.84",
+      "imslp_url": "https://imslp.org/wiki/5_Danzas_Gitanas,_Series_2,_Op.84_(Turina,_Joaqu\u00edn)",
+      "year": 1934
+    },
+    {
+      "title": "Fantas\u00eda sobre cinco notas, Op.83",
+      "imslp_url": "https://imslp.org/wiki/Fantas\u00eda_sobre_cinco_notas,_Op.83_(Turina,_Joaqu\u00edn)",
+      "year": 1934
+    },
+    {
+      "title": "Hip\u00f3crates, Op.86",
+      "imslp_url": "https://imslp.org/wiki/Hip\u00f3crates,_Op.86_(Turina,_Joaqu\u00edn)",
+      "year": 1934
+    },
+    {
+      "title": "Ofrenda, Op.85",
+      "imslp_url": "https://imslp.org/wiki/Ofrenda,_Op.85_(Turina,_Joaqu\u00edn)",
+      "year": 1934
+    },
+    {
+      "title": "Rincones de Sanl\u00facar, Op.78",
+      "imslp_url": "https://imslp.org/wiki/Rincones_de_Sanl\u00facar,_Op.78_(Turina,_Joaqu\u00edn)",
+      "year": 1934
+    },
+    {
+      "title": "Violin Sonata No.2, Op.82",
+      "imslp_url": "https://imslp.org/wiki/Violin_Sonata_No.2,_Op.82_(Turina,_Joaqu\u00edn)",
+      "year": 1934
+    },
+    {
+      "title": "Concierto sin Orquesta, Op.88",
+      "imslp_url": "https://imslp.org/wiki/Concierto_sin_Orquesta,_Op.88_(Turina,_Joaqu\u00edn)",
+      "year": 1935
+    },
+    {
+      "title": "Homenaje a Lope de Vega, Op.90",
+      "imslp_url": "https://imslp.org/wiki/Homenaje_a_Lope_de_Vega,_Op.90_(Turina,_Joaqu\u00edn)",
+      "year": 1935
+    },
+    {
+      "title": "Mujeres de Sevilla, Op.89",
+      "imslp_url": "https://imslp.org/wiki/Mujeres_de_Sevilla,_Op.89_(Turina,_Joaqu\u00edn)",
+      "year": 1935
+    },
+    {
+      "title": "En el Cortijo, Op.92",
+      "imslp_url": "https://imslp.org/wiki/En_el_Cortijo,_Op.92_(Turina,_Joaqu\u00edn)",
+      "year": 1936
+    },
+    {
+      "title": "C\u00edrculo, Op.91",
+      "imslp_url": "https://imslp.org/wiki/C\u00edrculo,_Op.91_(Turina,_Joaqu\u00edn)",
+      "year": 1942
+    },
+    {
+      "title": "Las musas de Andaluc\u00eda, Op.93",
+      "imslp_url": "https://imslp.org/wiki/Las_musas_de_Andaluc\u00eda,_Op.93_(Turina,_Joaqu\u00edn)",
+      "year": 1942
+    },
+    {
+      "title": "Rinc\u00f3n m\u00e1gicos, Op.97",
+      "imslp_url": "https://imslp.org/wiki/Rinc\u00f3n_m\u00e1gicos,_Op.97_(Turina,_Joaqu\u00edn)",
+      "year": 1943
+    },
+    {
+      "title": "Contemplaci\u00f3n, Op.99",
+      "imslp_url": "https://imslp.org/wiki/Contemplaci\u00f3n,_Op.99_(Turina,_Joaqu\u00edn)",
+      "year": 1944
+    },
+    {
+      "title": "Homenaje a Navarra, Op.102",
+      "imslp_url": "https://imslp.org/wiki/Homenaje_a_Navarra,_Op.102_(Turina,_Joaqu\u00edn)",
+      "year": 1945
+    },
+    {
+      "title": "Tema y variaciones, Op.100",
+      "imslp_url": "https://imslp.org/wiki/Tema_y_variaciones,_Op.100_(Turina,_Joaqu\u00edn)",
+      "year": 1945
+    },
+    {
+      "title": "Por las Calles de Sevilla, Op.96",
+      "imslp_url": "https://imslp.org/wiki/Por_las_Calles_de_Sevilla,_Op.96_(Turina,_Joaqu\u00edn)",
+      "year": 1946
+    },
+    {
+      "title": "Desde mi terraza, Op.104",
+      "imslp_url": "https://imslp.org/wiki/Desde_mi_terraza,_Op.104_(Turina,_Joaqu\u00edn)",
+      "year": 1947
+    }
+  ]
+}

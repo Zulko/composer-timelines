@@ -7,166 +7,303 @@
   "wikipedia_url": "https://en.wikipedia.org/wiki/Enrique_Granados",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Pantale\u00f3n Enrique Joaqu\u00edn Granados Campi\u00f1a was born, marking the arrival of a future musical genius and piano virtuoso. Little did his parents know they were just one toddler tantrum away from perplexing concert halls around the world.",
+      "section": "Life",
+      "title": "Birth",
+      "summary": "Enrique Joaqu\u00edn Granados Campi\u00f1a was born in Lleida, Spain as the son of a Spanish army captain and a woman from Santander. His early life and family background laid the foundation for his future endeavors in music.",
       "year": 1867,
-      "city": "Lleida",
-      "country": "Spain"
+      "location": "Lleida, Spain",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Once upon a time in Lleida, Spain, a legend was born! Enrique Joaqu\u00edn Granados Campi\u00f1a popped out, son of a Spanish army captain and a lady from Santander who could probably salsa dance in her sleep. With a family background that laid the foundation for his future endeavors in music, it's no surprise he jumped straight into music instead of a military career."
     },
     {
-      "event": "Piano Studies",
-      "summary": "Granados began his piano studies in Barcelona. It was like musical kindergarten where he learned to tickle the ivories from teachers who probably hoped he wouldn't just play Chopsticks.",
-      "year": 1880,
-      "city": "Barcelona",
-      "country": "Spain"
-    },
-    {
-      "event": "Paris Studies",
-      "summary": "Moved to Paris for further studies, where he took private lessons with a renowned professor. Although he couldn't get into the conservatoire, he certainly was a 'private student' and made the most of it, probably impressing the French with his Catalan charm.",
+      "section": "Life",
+      "title": "Studies in Barcelona",
+      "summary": "As a young man, Granados studied piano in Barcelona under notable instructors, which significantly shaped his musical style and abilities.",
       "year": 1887,
-      "city": "Paris",
-      "country": "France"
+      "location": "Barcelona, Spain",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "As a young man, Granados tickled the ivories in Barcelona, learning from famous instructors who not only molded his musical skills like a potter shaping clay but also gave him a style so unique, it could make a cat sing opera!"
     },
     {
-      "event": "Return to Barcelona",
-      "summary": "Granados returned to Barcelona, bringing back a suitcase full of French sophistication and a few extra musical skills, setting the stage for a thriving career ahead.",
-      "year": 1889,
-      "city": "Barcelona",
-      "country": "Spain"
+      "section": "Some important works",
+      "title": "Danza Espa\u00f1ola",
+      "summary": "A collection of twelve dances for piano, structured into four volumes. Each volume features various traditional Spanish dance forms, showcasing Granados's ability to capture the essence of Spanish culture through music.",
+      "year": 1890,
+      "location": "",
+      "emoji": "\ud83d\udc83",
+      "fun_version": "Imagine a fiesta with twelve piano dances struttin' around like they own the place! Packed into four fabulous volumes, these records feature traditional Spanish dance forms, making Granados's dance-off a vibrant showcase of Spanish culture!"
     },
     {
-      "event": "First Opera Success",
-      "summary": "His opera Mar\u00eda del Carmen debuted to much acclaim, winning the attention of King Alfonso XIII. It was the kind of royal reception every composer dreams of, minus the tiaras.",
+      "section": "Some important works",
+      "title": "Mar\u00eda del Carmen",
+      "summary": "An opera that highlights Granados's compositional skills and emotional depth in storytelling through music, embodying the strong influences of Spanish themes.",
       "year": 1898,
-      "city": "Barcelona",
-      "country": "Spain"
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Imagine an opera where the characters are as dramatic as your cousin at family parties! Granados is here to show off his extraordinary compositional skills and emotional depth through music, making the audience feel emotions while sprinkling in some overpowering Spanish flair that\u2019s spicier than a hot salsa dance!"
     },
     {
-      "event": "Competition Win",
-      "summary": "Winning a national competition for his concert piece Allegro de concierto brought Granados into the spotlight, proving he could not only play the piano but also make it sing for him (or at least make the judges dance with joy).",
+      "section": "Life",
+      "title": "Competition Win",
+      "summary": "Granados gained national recognition when he won a prestigious competition at the Madrid Royal Conservatory for his 'Allegro de concierto, Op. 46'.",
       "year": 1903,
-      "city": "Madrid",
-      "country": "Spain"
+      "location": "Madrid, Spain",
+      "emoji": "\ud83c\udfc6",
+      "fun_version": "Granados gained national recognition after winning a prestigious competition at the Madrid Royal Conservatory with his 'Allegro de concierto, Op. 46'. At least that\u2019s what he told the cats in his orchestra\u2014they were his biggest fans!"
     },
     {
-      "event": "Premier of Goyescas",
-      "summary": "The suite Goyescas premiered and sent the audience into a frenzy. It was like a musical painting; patrons were pretty much dancing through the gallery of sounds inspired by Francisco Goya's work!",
+      "section": "Some important works",
+      "title": "Escenas Rom\u00e1nticas",
+      "summary": "A series of individual piano pieces that explore various romantic themes, each presenting a unique character and emotional journey.",
+      "year": 1903,
+      "location": "",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "A collection of piano pieces that dive headfirst into romantic themes, each presenting a unique character. Every piece flaunts its emotional quirks like an overzealous Tinder profile!"
+    },
+    {
+      "section": "Some important works",
+      "title": "Allegro de Concierto",
+      "summary": "Composed for piano, this work reflects Granados's virtuosic style and intricate melodies, contributing to the piano repertoire.",
+      "year": 1904,
+      "location": "",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Composed for piano, this piece reflects Granados's dazzling piano skills and intricate melodies\u2014like a cat walking on a keyboard, but with much better results! Who knew these captivating melodies could contribute so playfully to the piano repertoire?"
+    },
+    {
+      "section": "Some important works",
+      "title": "Dante",
+      "summary": "A symphonic poem that presents a musical interpretation of Dante Alighieri's literary themes, bringing literature to life through orchestral music.",
+      "year": 1908,
+      "location": "",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "Imagine if Dante Alighieri and Mozart had a jam session! A symphonic poem that attempts to put Dante's deep literary themes to music."
+    },
+    {
+      "section": "Some important works",
+      "title": "Canciones espa\u00f1olas",
+      "summary": "A set of songs designed for voice and piano, capturing the diverse emotions and stories inherent in Spanish folklore and musical heritage.",
+      "year": 1910,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Join us for an unforgettable experience where melodies meet mischief! This set of tunes for voice and piano is so packed with emotions that you might just end up dancing! Dive into the colorful chaos of Spanish folklore and musical heritage, where the stories are as tangled as your earphones!"
+    },
+    {
+      "section": "Some important works",
+      "title": "Tonadillas al estilo antiguo",
+      "summary": "A collection for voice and piano that pays homage to traditional Spanish songs, embodying the lyrical beauty and cultural depth of the era.",
+      "year": 1910,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Imagine traditional Spanish songs throwing a karaoke night! This collection for voice and piano isn\u2019t just a mixtape; it\u2019s a heartfelt celebration of the lyrical beauty and cultural depth that could make anyone want to join the fiesta. Grab your maracas, and let\u2019s dance like no one's watching \u2013 even if the neighbors might be slightly disturbed!"
+    },
+    {
+      "section": "Some important works",
+      "title": "Goyescas",
+      "summary": "This suite for piano presents a rich tapestry of themes related to love and traditional Spanish life, often performed in two books, each with distinct movements.",
       "year": 1911,
-      "city": "Barcelona",
-      "country": "Spain"
+      "location": "",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Imagine a piano that decided to throw a fiesta instead of just sitting there gathering dust! This suite for piano weaves together a delightful mix of romantic themes and traditional Spanish life\u2014it's like the piano is trying to woo your ears while channeling its inner flamenco dancer! There are two distinct books of movements that will make you feel like you've stepped right into a churro-filled carnival!"
     },
     {
-      "event": "Goyescas Opera Premiere",
-      "summary": "The opera version of Goyescas debuted in New York City to rave reviews, making Granados the toast of the town. Nothing like a little transatlantic success to make one's heart swell!",
-      "year": 1916,
-      "city": "New York City",
-      "country": "USA"
+      "section": "Life",
+      "title": "Premiere of Goyescas",
+      "summary": "The suite for piano 'Goyescas' premiered in 1911, showcasing Granados's talents and creativity, and marked a turning point in his career.",
+      "year": 1911,
+      "location": "",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "The suite for piano 'Goyescas' premiered in 1911. Granados, showcasing his talents and creativity, played it so well that the pianos had to take a break to recover from all the tickling! This hilarious masterpiece marked a turning point in his career."
     },
     {
-      "event": "Final Concert and Recordings",
-      "summary": "Before his untimely death, Granados treated audiences to a final recital and made live player piano recordings. You could say he went out with a bang\u2014or perhaps a symphony!",
-      "year": 1916,
-      "city": "New York City",
-      "country": "USA"
+      "section": "Some important works",
+      "title": "Bocetos",
+      "summary": "A collection of small pieces for piano that explores various themes and moods, highlighting Granados's lyrical and expressive style.",
+      "year": 1912,
+      "location": "",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "A bunch of tiny piano snacks, each exploring its own theme and mood\u2014because who knew Granados was on a musical flavor adventure? His expressive style really knows how to tickle the ivories!"
     },
     {
-      "event": "Tragic Death",
-      "summary": "Granados drowned after the ferry he was on was torpedoed during World War I. A romantic hero, he made the ultimate sacrifice for love, refusing to forsake his wife in a moment of chaos \u2013 a true testament to his character!",
+      "section": "Some important works",
+      "title": "Colecci\u00f3n de canciones amatorias",
+      "summary": "A compilation of love songs for voice and piano, displaying Granados's lyrical gift and deep understanding of romantic themes.",
+      "year": 1915,
+      "location": "",
+      "emoji": "\u2764\ufe0f",
+      "fun_version": "Get ready for an ears-on love fest! We've got a compilation of love songs for voice and piano that will make you swoon like a soap opera star! Granados serves us his lyrical magic and shows off his deep understanding of romantic themes better than most of our relatives on Valentine's Day!"
+    },
+    {
+      "section": "Some important works",
+      "title": "6 Estudios expresivos",
+      "summary": "A collection of expressive studies composed for piano, aimed at developing technical skills while also conveying deep emotions.",
       "year": 1916,
-      "city": "English Channel",
-      "country": "France"
+      "location": "",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "We've gathered a bunch of expressive piano studies designed to sharpen your technical skills while also making your heart do the cha-cha! Because who said music practice can't be as emotional as a soap opera?"
+    },
+    {
+      "section": "Some important works",
+      "title": "6 Piezas sobre cantos populares espa\u00f1oles",
+      "summary": "A work comprising several pieces that draw inspiration from popular Spanish songs and dances, showcasing Granados's cultural roots.",
+      "year": 1916,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "A collection of pieces inspired by popular Spanish songs and dances, showcasing Granados's cultural roots\u2014so much so that even the castanets are putting on a performance! And yes, he brought his picnic basket\u2014sangria and all!"
+    },
+    {
+      "section": "Some important works",
+      "title": "8 Valses Po\u00e9ticos",
+      "summary": "A selection of poetic waltzes for piano, known for their lyrical quality and emotional expressiveness, further enriching the piano repertoire.",
+      "year": 1916,
+      "location": "",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "A group of poetic waltzes for piano that are so lyrical and emotional, they might just make the piano cry and ask for a hug! Perfect for those times when you want your piano to have a mood swing."
+    },
+    {
+      "section": "Death",
+      "title": "Death of Enrique Granados",
+      "summary": "Enrique Granados tragically died during a maritime disaster while attempting to return to Spain from a recital in New York. After missing his boat, he boarded the SS Sussex bound for Dieppe, France. The ferry was torpedoed by a German U-boat, and Granados chose to stay with his wife, Amparo, who could not board a lifeboat. Both of them drowned in the English Channel, leaving behind six children.",
+      "year": 1916,
+      "location": "English Channel",
+      "emoji": "\u2693\ufe0f",
+      "fun_version": "Enrique Granados missed his boat after a recital in New York and boarded the SS Sussex, bound for Dieppe, France. Unfortunately, it was torpedoed by a German U-boat. He chose to stay with his wife, Amparo, who couldn't board a lifeboat. They tragically drowned in the English Channel, leaving behind six children."
+    },
+    {
+      "section": "Some important works",
+      "title": "Goyescas (opera)",
+      "summary": "An opera based on themes from his earlier piano suite, expanding the narrative and emotional depth of the story designated for the stage.",
+      "year": 1916,
+      "location": "",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "An opera inspired by his earlier piano suite! You know, the one where the piano has more drama than a reality TV show. We're talking about emotional depth so profound that even the stage might need a lifeguard!"
+    },
+    {
+      "section": "Some important works",
+      "title": "Madrigal",
+      "summary": "A work for cello and piano that beautifully intertwines lyrical melodies and harmonies, reflecting Granados's romantic influences.",
+      "year": 1916,
+      "location": "",
+      "emoji": "\ud83c\udfbb\ud83c\udfb9",
+      "fun_version": "Imagine a cello and piano having a romantic dinner date, whispering sweet melodies and harmonies to each other, all while Granados teases them with his romantic influences\u2014turning a heartfelt concert into a melodious love triangle!"
+    },
+    {
+      "section": "Some important works",
+      "title": "Military March",
+      "summary": "A composition for piano reflecting the martial spirit, characterized by rhythmic vitality and significant melodic lines.",
+      "year": 1916,
+      "location": "",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Imagine a piano that's been hitting the gym, reflecting our martial spirit! This composition pumps iron and flexes its rhythmic muscles while serenading you with melodies so significant they might just get their own fan club!"
+    },
+    {
+      "section": "Life",
+      "title": "New York Performance",
+      "summary": "Granados's opera, based on 'Goyescas', premiered in New York City in 1916 after the European premiere was canceled due to World War I, receiving an enthusiastic reception.",
+      "year": 1916,
+      "location": "New York City, USA",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Granados's opera, based on 'Goyescas', finally made its big splash in New York City in 1916 after the European premiere was canceled due to World War I! When it finally hit NYC, it received a reception so enthusiastic, it probably made the cannoli jealous!"
+    },
+    {
+      "section": "Some important works",
+      "title": "Tr\u00edo",
+      "summary": "A trio for piano, violin, and cello that emphasizes dialogue between the instruments, showcasing Granados's collaborative spirit in chamber music.",
+      "year": 1916,
+      "location": "",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Join a piano, a violin, and a cello as they engage in a lively debate on who gets to be the loudest \u2013 showcasing Granados's collaborative spirit in chamber music \u2013 because nothing says 'collaboration' quite like a string battle!"
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/Allegro_de_Concierto,_Op.46_(Granados,_Enrique)",
-      "year": 1903,
-      "title": "Allegro de Concierto, Op.46"
+      "title": "12 Danzas espa\u00f1olas",
+      "imslp_url": "https://imslp.org/wiki/12_Danzas_espa\u00f1olas_(Granados,_Enrique)",
+      "year": 1890
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Bocetos_(Granados,_Enrique)",
-      "year": 1912,
-      "title": "Bocetos"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/A_la_Cubana,_Op.36_(Granados,_Enrique)",
-      "year": 1914,
-      "title": "A la Cubana, Op.36"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Cuentos_de_la_juventud,_Op.1_(Granados,_Enrique)",
-      "year": 1906,
-      "title": "Cuentos de la juventud, Op.1"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Dante,_Op.21_(Granados,_Enrique)",
-      "year": 1908,
-      "title": "Dante, Op.21"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/12_Danzas_espa%C3%B1olas_(Granados,_Enrique)",
-      "year": 1890,
-      "title": "12 Danzas espa\u00f1olas"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Danzas_Espa%C3%B1olas,_Op.37_(Granados,_Enrique)",
-      "year": 1915,
-      "title": "2 Danzas Espa\u00f1olas, Op.37"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Elegia_eterna_(Granados,_Enrique)",
-      "year": 1914,
-      "title": "Elegia eterna"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Escenas_Po%C3%A9ticas_(Granados,_Enrique)",
-      "year": 1912,
-      "title": "Escenas Po\u00e9ticas"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Goyescas_(opera)_(Granados,_Enrique)",
-      "year": 1913,
-      "title": "Goyescas"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Goyescas_(piano_suite)_(Granados,_Enrique)",
-      "year": 1909,
-      "title": "Goyescas"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/El_jard%C3%AD_d%E2%80%99Elisenda_(Granados,_Enrique)",
-      "year": 1912,
-      "title": "El jard\u00ed d\u2019Elisenda"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Jota_de_Miel_de_la_Alcarria_(Granados,_Enrique)",
-      "year": 1897,
-      "title": "Jota de Miel de la Alcarria"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/El_pelele_(Granados,_Enrique)",
-      "year": 1913,
-      "title": "El pelele"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Quintet_in_G_minor,_Op.49_(Granados,_Enrique)",
-      "year": 1894,
-      "title": "Piano Quintet in G minor, Op.49"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/12_Tonadillas_en_estilo_antiguo_(Granados,_Enrique)",
-      "year": 1914,
-      "title": "12 Tonadillas en estilo antiguo"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Valse_de_concert,_Op.35_(Granados,_Enrique)",
-      "year": 1914,
-      "title": "Valse de concert, Op.35"
-    },
-    {
+      "title": "8 Valses poeticos",
       "imslp_url": "https://imslp.org/wiki/8_Valses_poeticos_(Granados,_Enrique)",
-      "year": 1894,
-      "title": "8 Valses poeticos"
+      "year": 1894
+    },
+    {
+      "title": "Piano Quintet in G minor, Op.49",
+      "imslp_url": "https://imslp.org/wiki/Piano_Quintet_in_G_minor,_Op.49_(Granados,_Enrique)",
+      "year": 1894
+    },
+    {
+      "title": "Jota de Miel de la Alcarria",
+      "imslp_url": "https://imslp.org/wiki/Jota_de_Miel_de_la_Alcarria_(Granados,_Enrique)",
+      "year": 1897
+    },
+    {
+      "title": "Allegro de Concierto, Op.46",
+      "imslp_url": "https://imslp.org/wiki/Allegro_de_Concierto,_Op.46_(Granados,_Enrique)",
+      "year": 1903
+    },
+    {
+      "title": "Cuentos de la juventud, Op.1",
+      "imslp_url": "https://imslp.org/wiki/Cuentos_de_la_juventud,_Op.1_(Granados,_Enrique)",
+      "year": 1906
+    },
+    {
+      "title": "Dante, Op.21",
+      "imslp_url": "https://imslp.org/wiki/Dante,_Op.21_(Granados,_Enrique)",
+      "year": 1908
+    },
+    {
+      "title": "Goyescas (piano suite)",
+      "imslp_url": "https://imslp.org/wiki/Goyescas_(piano_suite)_(Granados,_Enrique)",
+      "year": 1909
+    },
+    {
+      "title": "Bocetos",
+      "imslp_url": "https://imslp.org/wiki/Bocetos_(Granados,_Enrique)",
+      "year": 1912
+    },
+    {
+      "title": "El jard\u00ed d\u2019Elisenda",
+      "imslp_url": "https://imslp.org/wiki/El_jard\u00ed_d\u2019Elisenda_(Granados,_Enrique)",
+      "year": 1912
+    },
+    {
+      "title": "Escenas Po\u00e9ticas",
+      "imslp_url": "https://imslp.org/wiki/Escenas_Po\u00e9ticas_(Granados,_Enrique)",
+      "year": 1912
+    },
+    {
+      "title": "El pelele",
+      "imslp_url": "https://imslp.org/wiki/El_pelele_(Granados,_Enrique)",
+      "year": 1913
+    },
+    {
+      "title": "Goyescas (opera)",
+      "imslp_url": "https://imslp.org/wiki/Goyescas_(opera)_(Granados,_Enrique)",
+      "year": 1913
+    },
+    {
+      "title": "12 Tonadillas en estilo antiguo",
+      "imslp_url": "https://imslp.org/wiki/12_Tonadillas_en_estilo_antiguo_(Granados,_Enrique)",
+      "year": 1914
+    },
+    {
+      "title": "A la Cubana, Op.36",
+      "imslp_url": "https://imslp.org/wiki/A_la_Cubana,_Op.36_(Granados,_Enrique)",
+      "year": 1914
+    },
+    {
+      "title": "Elegia eterna",
+      "imslp_url": "https://imslp.org/wiki/Elegia_eterna_(Granados,_Enrique)",
+      "year": 1914
+    },
+    {
+      "title": "Valse de concert, Op.35",
+      "imslp_url": "https://imslp.org/wiki/Valse_de_concert,_Op.35_(Granados,_Enrique)",
+      "year": 1914
+    },
+    {
+      "title": "2 Danzas Espa\u00f1olas, Op.37",
+      "imslp_url": "https://imslp.org/wiki/2_Danzas_Espa\u00f1olas,_Op.37_(Granados,_Enrique)",
+      "year": 1915
     }
   ]
 }

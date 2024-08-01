@@ -7,1023 +7,770 @@
   "wikipedia_url": "https://en.wikipedia.org/wiki/Jean_Sibelius",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Jean Sibelius was born on 8 December in H\u00e4meenlinna, Finland, which was quite the event for a new family without a musical legacy\u2014after all, how often does a composer come along to serenade the world?",
+      "section": "Life",
+      "title": "Birth",
+      "summary": "Jean Sibelius was born in H\u00e4meenlinna, Grand Duchy of Finland, as the son of a medical doctor. His family faced financial difficulties after his father's death, which shaped his early environment.",
       "year": 1865,
-      "city": "H\u00e4meenlinna",
-      "country": "Finland"
+      "location": "H\u00e4meenlinna",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Jean Sibelius was born in H\u00e4meenlinna, Grand Duchy of Finland, as the son of a medical doctor. He reportedly learned to compose long before he figured out that the ice is not a good place for his musical career. A life of financial woes struck after his father's death, which shaped his early environment."
     },
     {
-      "event": "First Violin",
-      "summary": "At the tender age of 10, Sibelius received a violin from his Uncle Pehr. It's like he was gifted a magic wand that would eventually create melodic spells instead of mere epic magic shows!",
+      "section": "Life",
+      "title": "Early Music Education",
+      "summary": "Sibelius showed an early interest in music, receiving a violin from his uncle, Pehr Ferdinand, who became a significant musical influence in his life. He participated in music ensembles and began composing at a young age.",
       "year": 1875,
-      "city": "H\u00e4meenlinna",
-      "country": "Finland"
+      "location": "Loviisa",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "Sibelius caught the music bug early, thanks to his uncle Pehr Ferdinand, who gifted him a violin\u2014because nothing says \u2018family bonding\u2019 like making questionable noises together! As he participated in music ensembles, he was composing music while other kids were still trying to figure out how to tie their shoelaces, laying the groundwork for a legendary career."
     },
     {
-      "event": "First Composition",
-      "summary": "Sibelius began to dabble in composition, stating he was working on some rather poor trios. Little did he know these humble beginnings would sprout into national treasures!",
-      "year": 1883,
-      "city": "H\u00e4meenlinna",
-      "country": "Finland"
-    },
-    {
-      "event": "Graduation from High School",
-      "summary": "After repeating a year, Sibelius finally graduated in 1885, proving that persistence pays off, or at least that math and botany might have their redeeming qualities!",
+      "section": "Life",
+      "title": "Enrollment at Helsinki Music Institute",
+      "summary": "Sibelius shifted his studies from law to music at the Helsinki Music Institute, where he received formal lessons in composition from his teacher, Martin Wegelius.",
       "year": 1885,
-      "city": "H\u00e4meenlinna",
-      "country": "Finland"
+      "location": "Helsinki",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Sibelius forgot about the boring law books and decided to dive into the wild world of music at the Helsinki Music Institute! Not that juries are not fun; he just preferred the company of notes over judges. There, he got schooled in composition by the maestro Martin Wegelius."
     },
     {
-      "event": "Study at Helsinki Music Institute",
-      "summary": "In 1885, he abandoned his law studies for the sweet siren call of music at the Helsinki Music Institute, like a lawyer trading briefs for concertos!",
+      "section": "Life",
+      "title": "Graduation from High School",
+      "summary": "After a somewhat troubled academic career, Sibelius graduated from H\u00e4melinna Normal Lyceum, enabling him to pursue higher education. He became known as Jean, inspired by his uncle's business card.",
       "year": 1885,
-      "city": "Helsinki",
-      "country": "Finland"
+      "location": "H\u00e4meenlinna",
+      "emoji": "\ud83c\udf93",
+      "fun_version": "After a slightly misadventurous academic journey, Sibelius finally got his diploma from H\u00e4meenlinna Normal Lyceum. He could finally chase after higher education like a dog chases its tail! It\u2019s said he adopted the name Jean, inspired by the coolness of his uncle's ultra-modern business card, which certainly beats the name 'that guy who just graduated'."
     },
     {
-      "event": "Marriage",
-      "summary": "Jean met Aino J\u00e4rnefelt in 1888, instantly fell in love, and got married in 1892. Who knew that love could spark such bright symphonic creations, making romance a true muse!",
+      "section": "Life",
+      "title": "Marriage to Aino J\u00e4rnefelt",
+      "summary": "During his studies in Helsinki, Sibelius fell in love with Aino J\u00e4rnefelt, and they married at a ceremony in Maxmo, which also inspired his later compositions.",
       "year": 1892,
-      "city": "Maxmo",
-      "country": "Finland"
+      "location": "Maxmo",
+      "emoji": "\u2764\ufe0f",
+      "fun_version": "During his studies in Helsinki, Sibelius fell head over heels for Aino J\u00e4rnefelt. They got married at a ceremony in Maxmo, probably thinking, 'If our music doesn't inspire people, at least our wedding cake will!' Rumor has it, his later compositions were just his attempts to write love letters disguised as symphonies, inspired by their wedding day."
     },
     {
-      "event": "Kullervo Premiere",
-      "summary": "Sibelius's orchestral work 'Kullervo' premiered in 1892, described as a 'volcanic eruption'\u2014proving that Finnish music could erupt in flair and upon hearing it, volcanoes definitely blushed!",
-      "year": 1892,
-      "city": "Helsinki",
-      "country": "Finland"
+      "section": "Life",
+      "title": "Johannes Sibelius's Death",
+      "summary": "Sibelius's first child, Eva, was born, marking a significant moment in his family life. It was followed by the birth of several daughters.",
+      "year": 1893,
+      "location": "Helsinki",
+      "emoji": "\ud83d\udc76",
+      "fun_version": "Sibelius welcomed his first child, Eva, into the world, marking a significant moment in his family life\u2014so significant that even his symphonies paused to applaud! This was just the beginning; soon after, he had a whole choir of daughters joining the family ensemble!"
     },
     {
-      "event": "Completion of Ainola",
-      "summary": "His family home Ainola was finished in 1904. This was not just a house, but rather a nest for symphonic magic, hosting the joys and cacophonies of six daughters!",
-      "year": 1904,
-      "city": "J\u00e4rvenp\u00e4\u00e4",
-      "country": "Finland"
-    },
-    {
-      "event": "Composed Finlandia",
-      "summary": "In 1899, Sibelius composed 'Finlandia', a stirring piece that helped Finland assert its identity\u2014when one rejoices through music, nations pay attention, as if a trumpet called them to arms!",
+      "section": "Music",
+      "title": "Finlandia Premiere",
+      "summary": "Finlandia, one of Sibelius's most iconic works, was first performed in 1899 during the Finnish Press Celebrations. This patriotic piece became a symbol of Finnish nationalism and a world favorite for choirs.",
       "year": 1899,
-      "city": "Helsinki",
-      "country": "Finland"
+      "location": "Helsinki, Finland",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Once upon a time in 1899, during the Finnish Press Celebrations, a group of people decided to throw a musical party with Sibelius's iconic work, Finlandia. This patriotic piece quickly morphed into a national anthem for Finnish nationalism and became a world favorite for choirs!"
     },
     {
-      "event": "Retirement from Major Compositions",
-      "summary": "After completing his Seventh Symphony in 1924, Sibelius entered a self-imposed 'silence'. Perhaps he just figured he had enough melodies up his sleeve to last a lifetime!",
-      "year": 1924,
-      "city": "J\u00e4rvenp\u00e4\u00e4",
-      "country": "Finland"
-    },
-    {
-      "event": "Death",
-      "summary": "Jean Sibelius passed away in 1957 in J\u00e4rvenp\u00e4\u00e4, leaving behind a legacy as deep and watery as Finland's lakes\u2014truly, the notes he left us will echo forever, no silence can snuff that out!",
-      "year": 1957,
-      "city": "J\u00e4rvenp\u00e4\u00e4",
-      "country": "Finland"
-    },
-    {
-      "event": "Premiere of Lemmink\u00e4inen Suite",
-      "summary": "Sibelius's Lemmink\u00e4inen Suite, made up of four legends based on Finnish folklore, finally saw the light in Helsinki. It was a full house, but the critics had mixed feelings, proving that even legends can get somewhat longer and boring solos in the wrong hands.",
-      "year": 1896,
-      "city": "Helsinki",
-      "country": "Finland"
-    },
-    {
-      "event": "Award of substantial grant",
-      "summary": "In a stroke of luck, Sibelius received a generous grant that allowed him to stop worrying about bills and get back to composing. His first complete work in this newfound freedom was for King Christian II, which the public found catchy - they probably couldn't help but hum it in the shower!",
-      "year": 1898,
-      "city": "Helsinki",
-      "country": "Finland"
-    },
-    {
-      "event": "Premiere of First Symphony",
-      "summary": "Feeling particularly patriotic, Sibelius premiered his First Symphony amidst rising tensions with Russia. The ensuing success catapulted him into national hero status; it was like being voted Prom King, but way cooler, with symphonies instead of crowns.",
+      "section": "Life",
+      "title": "First Symphony Premiere",
+      "summary": "Sibelius's First Symphony was premiered in Helsinki, earning him praise and marking a significant milestone at a time of increasing nationalistic sentiment in Finland.",
       "year": 1899,
-      "city": "Helsinki",
-      "country": "Finland"
+      "location": "Helsinki",
+      "emoji": "\ud83c\uddeb\ud83c\uddee",
+      "fun_version": "Sibelius's First Symphony made its grand entrance in Helsinki, receiving all the tail wags and barks of praise and marking a significant milestone at a time of increasing nationalistic sentiment in Finland."
     },
     {
-      "event": "International tour",
-      "summary": "Sibelius unleashed his works across Europe, charming audiences from Stockholm to Paris. He couldn\u2019t have asked for better critics, who virtually sang his praises. Talk about a European vacation turning into a symphonic success!",
-      "year": 1900,
-      "city": "Various",
-      "country": "Europe"
+      "section": "Music",
+      "title": "First Symphony Premiere",
+      "summary": "Sibelius's First Symphony was first performed to an enthusiastic audience in 1899 at a time when Finnish nationalism was evolving. The performance was conducted by the composer himself, marking a critical moment in his early career.",
+      "year": 1899,
+      "location": "Helsinki, Finland",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Sibelius's First Symphony premiered in 1899 to an audience so enthusiastic, they almost threw their hats on stage! Finland was experiencing a surge in nationalism, much like a toddler learning to walk\u2014wobbly but determined. The performance was conducted by Sibelius himself, marking a critical moment in his early career."
     },
     {
-      "event": "Completion of Second Symphony",
-      "summary": "Inspired by a trip to Italy and other dramatic tales, Sibelius completed his Second Symphony, which was embraced like a long-lost relative by the Finnish public. The excitement was so palpable that local critics barely had time to put their pens down!",
+      "section": "Music",
+      "title": "Second Symphony Premiere",
+      "summary": "The Second Symphony, the most popular of Sibelius's symphonies, was first performed by the Helsinki Philharmonic Society in 1902, with the composer conducting. This piece solidified his reputation as a national hero during a period of Russian oppression.",
       "year": 1902,
-      "city": "Helsinki",
-      "country": "Finland"
+      "location": "Helsinki, Finland",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "First performed by the Helsinki Philharmonic Society in 1902, conducted by the composer, The Second Symphony won the hearts of Sibelius fans! This masterpiece solidified Sibelius as Finland's national hero during a time of Russian oppression while he juggled symphonic notes."
     },
     {
-      "event": "Establishment of Ainola",
-      "summary": "Sibelius finally built Ainola, his dream home, where he could compose and entertain artist friends. It became the hub for creative collaboration, and probably some rather lively dinner conversations as well!",
+      "section": "Music",
+      "title": "Violin Concerto Premiere",
+      "summary": "The Violin Concerto was premiered on February 8, 1904, but due to inadequate preparation by the soloist, the performance was considered a disaster. A revised version premiered successfully on October 19, 1905, solidifying its place in concert repertoire.",
       "year": 1904,
-      "city": "J\u00e4rvenp\u00e4\u00e4",
-      "country": "Finland"
+      "location": "Berlin, Germany",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "The Violin Concerto made its grand entrance on February 8, 1904, but the soloist must've thought they were preparing for a game of charades instead of a concerto because the performance was a comedic disaster! However, a revised version premiered successfully on October 19, 1905, solidifying its place in concert repertoire."
     },
     {
-      "event": "Conducting in Britain",
-      "summary": "On his first visit to Britain, Sibelius conducted his works to widespread acclaim, proving that not only the Finns had taste! The British loved him, a testament that music transcends borders - and perhaps even tea.",
-      "year": 1905,
-      "city": "Liverpool",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "Completion of Fourth Symphony",
-      "summary": "After grappling with his health and many a drink, Sibelius completed his Fourth Symphony; it was like a quiet conversation at a loud party, where you either get it or you don't. Sadly, the audience had the latter reaction initially.",
-      "year": 1910,
-      "city": "Helsinki",
-      "country": "Finland"
-    },
-    {
-      "event": "Honorary doctorate from Yale",
-      "summary": "Sibelius received an honorary doctorate, showcasing his global fame. He must have felt like the coolest kid on campus, especially since even dead composers were vying for some Yale recognition!",
-      "year": 1913,
-      "city": "New Haven",
-      "country": "United States"
-    },
-    {
-      "event": "Inspired by swans for Fifth Symphony",
-      "summary": "While working on his Fifth Symphony, Sibelius spotted a majestic flight of swans. The moment inspired him profoundly, proving that sometimes nature just knows how to deliver a spectacular 'aha!' moment in the life of a composer.",
-      "year": 1915,
-      "city": "Gothenburg",
-      "country": "Sweden"
-    },
-    {
-      "event": "Premiere of the Fifth Symphony",
-      "summary": "Sibelius conducted the premiere of his Fifth Symphony on his 50th birthday. It was a night to remember, though he personally felt it needed a bit more pizzazz, which is probably why he couldn't stop revising it afterward.",
-      "year": 1915,
-      "city": "Helsinki",
-      "country": "Finland"
-    },
-    {
-      "event": "Revised version of the Fifth Symphony",
-      "summary": "Sibelius proudly presented the revised version of his Fifth Symphony, now with fewer movements and a simplified finale. This revision brought mixed reviews, proving that even great composers have to deal with the occasional stern face in the audience.",
-      "year": 1916,
-      "city": "Turku",
-      "country": "Finland"
-    },
-    {
-      "event": "Composition of the J\u00e4ger March",
-      "summary": "With a surge of creativity inspired by the excitement of the Russian Revolution, Sibelius composed the J\u00e4ger March, which won the love of the Helsinki elite faster than you can say 'independence'.",
-      "year": 1917,
-      "city": "Helsinki",
-      "country": "Finland"
-    },
-    {
-      "event": "Conducted the J\u00e4ger March during German occupation",
-      "summary": "Amidst the chaos of the Finnish Civil War, Sibelius conducted the J\u00e4ger March to honor the German commander. It was the most intense game of 'musical chairs' he'd ever played, with no chairs to be found.",
-      "year": 1918,
-      "city": "Helsinki",
-      "country": "Finland"
-    },
-    {
-      "event": "Final version of the Fifth Symphony",
-      "summary": "After multiple revisions, Sibelius finally conducted the final version of his Fifth Symphony amidst enthusiastic applause. It's said he felt like a magician, pulling rabbits out of a hat\u2014or symphonies out of a hat.",
-      "year": 1919,
-      "city": "Helsinki",
-      "country": "Finland"
-    },
-    {
-      "event": "Birth of the Sixth Symphony",
-      "summary": "Just as whispers of weariness crept in, Sibelius unveiled his Sixth Symphony, which Evert Katila described as 'pure idyll'. Talk about setting the bar high for the rest of his career!",
-      "year": 1923,
-      "city": "",
-      "country": ""
-    },
-    {
-      "event": "Completion of the Seventh Symphony",
-      "summary": "Despite indulging in fine wines and clearing some overdue debts, Sibelius managed to finish his Seventh Symphony. It was almost as if the alcohol fuelled not just his hands, but also his creative spirit!",
-      "year": 1924,
-      "city": "Stockholm",
-      "country": "Sweden"
-    },
-    {
-      "event": "Incidental music for The Tempest",
-      "summary": "During a brief return to form, Sibelius composed incidental music for Shakespeare's The Tempest. It was the closest he got to some dramatic flair, and we can only imagine the fun he had with the leading characters!",
-      "year": 1926,
-      "city": "Copenhagen",
-      "country": "Denmark"
-    },
-    {
-      "event": "Awarded the Goethe-Medal",
-      "summary": "On his 70th birthday, Sibelius received the Goethe-Medal from the German Nazi regime amid global tensions. It was the kind of birthday present that left him both bemused and wondering what to do with it.",
-      "year": 1935,
-      "city": "",
-      "country": ""
-    },
-    {
-      "event": "International radio broadcast",
-      "summary": "In a rare public performance, Sibelius conducted his Andante Festivo for an international radio broadcast. It was basically his version of a 'greatest hits' album, before they even existed!",
-      "year": 1939,
-      "city": "",
-      "country": ""
-    },
-    {
-      "event": "Finlandia Premiere",
-      "summary": "Sibelius unveiled his patriotic masterpiece, Finlandia, during the Finnish Press Celebrations. It was so stirring that it became the unofficial anthem of Finnish nationalism, making it a must-play for every patriotic gathering and choir performance, eventually leading to its transformation from a mere orchestral piece to a choral favorite.",
-      "year": 1899,
-      "city": "Helsinki",
-      "country": "Finland"
-    },
-    {
-      "event": "First Symphony Performance",
-      "summary": "At the age of 33, Sibelius's Symphony No. 1 debuted with much applause. This symphonic sensation had a clarinet solo so forlorn, it could make a whole orchestra feel emo, which clearly struck a chord with the audience, propelling him into the hearts of Finnish nationalists everywhere.",
-      "year": 1899,
-      "city": "Helsinki",
-      "country": "Finland"
-    },
-    {
-      "event": "Second Symphony Premiere",
-      "summary": "The Helsinki Philharmonic Society premiered Sibelius's Second Symphony to roaring success. Its heroic themes somehow made it the soundtrack of a nation amid Russian oppression, cementing Sibelius's status as a national hero\u2014who needed a cape when you had a symphony?",
-      "year": 1902,
-      "city": "Helsinki",
-      "country": "Finland"
-    },
-    {
-      "event": "Third Symphony Performance",
-      "summary": "With the Helsinki Philharmonic, Sibelius showcased his Third Symphony, which was deceptively simple yet triumphant. It was like the musical equivalent of a friendly handshake that turned into a victory parade, highlighting his lyrical mastery.",
+      "section": "Music",
+      "title": "Third Symphony Premiere",
+      "summary": "The Third Symphony was premiered on September 25, 1907, by the Helsinki Philharmonic Society, conducted by Sibelius. This work, depicting themes from Finnish folk music, marked his move to Ainola and exhibited a new clarity in expression.",
       "year": 1907,
-      "city": "Helsinki",
-      "country": "Finland"
+      "location": "Helsinki, Finland",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "The Third Symphony had its grand debut on September 25, 1907, courtesy of the Helsinki Philharmonic Society, led by the maestro Sibelius himself. This event marked his move to Ainola and showcased a new clarity in expression, all while Sibelius inspired Finland with beautiful noise rooted in the themes of Finnish folk music!"
     },
     {
-      "event": "Fourth Symphony Premiere",
-      "summary": "Amid health challenges, Sibelius's Fourth Symphony premiered, resonating with a grimness that could make even the sun shy away. It was like the composer was sending out subliminal messages about the importance of not drinking too much or else, you'll end up with this symphony!",
+      "section": "Music",
+      "title": "Fourth Symphony Premiere",
+      "summary": "Sibelius's Fourth Symphony premiered in Helsinki on April 3, 1911, during a period of personal struggle as he dealt with health issues. The composition mirrored his emotional state and brought a new approach to symphonic timing.",
       "year": 1911,
-      "city": "Helsinki",
-      "country": "Finland"
+      "location": "Helsinki, Finland",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Sibelius's Fourth Symphony premiered in Helsinki on April 3, 1911, during a period of personal struggle due to health issues. This composition mirrored his emotional state and introduced a new approach to symphonic timing, resembling an emotional rollercoaster."
     },
     {
-      "event": "Fifth Symphony Debut",
-      "summary": "On his 50th birthday, Sibelius conducted the premiere of his Fifth Symphony. It started softly with horns and built up to a majestic swan hymn, proving that aging in artistry definitely comes with a grand finale\u2014like a birthday party everyone remembers!",
+      "section": "Life",
+      "title": "Completion of the Fifth Symphony",
+      "summary": "Sibelius conducted the premiere of his Fifth Symphony in Helsinki, celebrating his 50th birthday with its presentation to great acclaim.",
       "year": 1915,
-      "city": "Helsinki",
-      "country": "Finland"
+      "location": "Helsinki",
+      "emoji": "\ud83c\udf89",
+      "fun_version": "Picture this: Sibelius, the maestro himself, prancing around on stage for the premiere of his Fifth Symphony in Helsinki, while simultaneously throwing himself a fabulous 50th birthday bash! Who needs candles when you have a symphony that\u2019s practically singing your praises?"
     },
     {
-      "event": "Tapiola Composition",
-      "summary": "Sibelius composed Tapiola, his last major orchestral work, providing a severe and concentrated musical statement inspired by forest spirits. It's what happens when you blend your love for nature with an urge to terrify listeners into respecting the woods.",
-      "year": 1926,
-      "city": "New York",
-      "country": "USA"
-    },
-    {
-      "event": "Completion of Seventh Symphony",
-      "summary": "Sibelius completed his Seventh Symphony, a unique one-movement wonder that defied traditional symphonic forms. It\u2019s like he decided instead of throwing a standard birthday bash, he'd whip up a surprise party that gradually revealed itself in unexpected ways\u2014total artistic curveball!",
+      "section": "Music",
+      "title": "Seventh Symphony Premiere",
+      "summary": "The Seventh Symphony, completed in 1924, was first performed in Stockholm and is noted for its unique single movement form. It represents Sibelius's culmination of compositional mastery, being described as subtly original.",
       "year": 1924,
-      "city": "Stockholm",
-      "country": "Sweden"
+      "location": "Stockholm, Sweden",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "The Seventh Symphony, completed in 1924, hit the stage in Stockholm, represents a unique single movement form, ditching the traditional multiple movements for a solo career! Some say it's the pinnacle of Sibelius's musical mastery, while others might just hear it as 'the pi\u00e8ce de r\u00e9sistance of original compositions.'"
     },
     {
-      "event": "Burning of the Eighth Symphony",
-      "summary": "In a fit of creative frustration, Sibelius famously burned his Eighth Symphony draft. The act was less of a tragic loss and more like a dramatic plot twist in his life story\u2014turns out the composer was his own biggest critic, setting flames to his unfinished work instead of just letting it simmer.",
-      "year": 1950,
-      "city": "Ainola",
-      "country": "Finland"
-    },
-    {
-      "event": "Premiere of Kullervo",
-      "summary": "Sibelius conducted his early work Kullervo, a suite that resembles tone poems, with a chorus and orchestra. The performance was as notable as a cat playing the piano\u2014an unexpected delight in the world of classical music!",
-      "year": 1892,
-      "city": "Helsinki",
-      "country": "Finland"
-    },
-    {
-      "event": "Valse triste performance",
-      "summary": "Originally composed for a play featuring a post-death waltz with ghosts, Sibelius's Valse triste became a smash hit after a 1904 revision, proving that even ghosts appreciate a good dance!",
-      "year": 1904,
-      "city": "Helsinki",
-      "country": "Finland"
-    },
-    {
-      "event": "Violin Concerto premiere",
-      "summary": "The debut performance of Sibelius's Violin Concerto was a bit of a fiasco, with the soloist barely prepared. But, like a good comeback story, it was later introduced as a massive success, becoming the darling of violinists!",
-      "year": 1905,
-      "city": "Berlin",
-      "country": "Germany"
-    },
-    {
-      "event": "Founding of Suomi Lodge",
-      "summary": "Sibelius became a founding member of the Suomi Lodge in 1922 and took on the role of Grand Organist. This experience perhaps helped him appreciate the intricacies of rituals\u2014both in music and in Masonic ceremonies!",
-      "year": 1922,
-      "city": "Helsinki",
-      "country": "Finland"
-    },
-    {
-      "event": "Composition of ritual music",
-      "summary": "Sibelius composed ritual music for Masonic gatherings, diving into an artistic interpretation of solemnity. This music added a touch of class to Masonic meetings, securing his legacy as a composer of ceremonies!",
-      "year": 1927,
-      "city": "Helsinki",
-      "country": "Finland"
-    },
-    {
-      "event": "Education in Music",
-      "summary": "Sibelius took a musical plunge as he decided to turn his hobby into a serious pursuit, diving headfirst into the academic waters of music. Little did he know that this would eventually result in symphonies that would have audiences swooning.",
-      "year": 1881,
-      "city": "Helsinki",
-      "country": "Finland"
-    },
-    {
-      "event": "Studies in Vienna",
-      "summary": "Off to the city of waltzes, Sibelius found himself in Vienna, sipping coffee while pondering the meaning of life\u2014or maybe just the next glorious symphonic line. His time there fueled his burgeoning genius with a dash of panache.",
-      "year": 1890,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "First Symphony",
-      "summary": "Sibelius unleashed his first symphonic masterpiece upon the world. The audience was as surprised as a cat in a dog park; no one expected music this captivating to come from a newcomer. Talk about setting the bar high!",
-      "year": 1899,
-      "city": "Helsinki",
-      "country": "Finland"
-    },
-    {
-      "event": "National Symbol",
-      "summary": "During a turbulent time for Finland, Sibelius's music became the soundtrack of a national uprising. His compositions turned into rallying cries that made people feel like they were organizing a grand party against oppression, complete with banners and smiles!",
-      "year": 1900,
-      "city": "Helsinki",
-      "country": "Finland"
-    },
-    {
-      "event": "Creation of Finlandia",
-      "summary": "Sibelius composed 'Finlandia', and suddenly his music wasn't just notes on a page; it was a national anthem waiting to inspire the masses. It was as if he'd created musical fireworks that sparked pride and joy throughout the country.",
-      "year": 1899,
-      "city": "Helsinki",
-      "country": "Finland"
-    },
-    {
-      "event": "Move to Ainola",
-      "summary": "Taking inspiration from nature, Sibelius moved to Ainola, where he could compose in peace\u2014unless the local birds were singing off-key. It was his sanctuary, and the perfect backdrop for some serious musical genius to flourish.",
-      "year": 1904,
-      "city": "Ainola",
-      "country": "Finland"
-    },
-    {
-      "event": "Fifth Symphony",
-      "summary": "After spending a good chunk of time pondering the universe, Sibelius finished his Fifth Symphony, which became iconic enough to prompt much nodding and enthusiastic 'bravos' from delighted concertgoers. It was his own musical celebration, and the world was invited!",
-      "year": 1915,
-      "city": "Ainola",
-      "country": "Finland"
-    },
-    {
-      "event": "Final Public Performance",
-      "summary": "Jean Sibelius took to the concert hall one last time as he conducted his own music; it was like the curtain call for a grand theatrical production where the hero finally acknowledges the audience's love. With that, he waved goodbye to the public stage.",
-      "year": 1926,
-      "city": "Helsinki",
-      "country": "Finland"
-    },
-    {
-      "event": "Finland's Independence",
-      "summary": "As Finland declared its independence, Sibelius found his music hailed as the soundtrack of the nation, proving that a good symphony can unite a country and maybe even distract from all the Cold War drama.",
-      "year": 1917,
-      "city": "Helsinki",
-      "country": "Finland"
-    },
-    {
-      "event": "Seven Symphonies Completed",
-      "summary": "After many notes, drafts, and maybe a few grumpy compositions, Sibelius remarkably finished his seventh symphony, leaving the musical world wondering if he had discovered the secret to perfect symphonic structure or just taken up knitting instead.",
-      "year": 1924,
-      "city": "J\u00e4rvenp\u00e4\u00e4",
-      "country": "Finland"
-    },
-    {
-      "event": "Retirement from Public Life",
-      "summary": "Deciding enough was enough, Sibelius retired into a peaceful life of solitude, perhaps considering which fish to catch next, while letting the world wonder what an eighth symphony might have sounded like.",
-      "year": 1929,
-      "city": "J\u00e4rvenp\u00e4\u00e4",
-      "country": "Finland"
+      "section": "Life",
+      "title": "Death",
+      "summary": "Jean Sibelius died from a brain hemorrhage at the age of 91, leaving behind a rich musical legacy that influenced generations.",
+      "year": 1957,
+      "location": "Ainola",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Jean Sibelius decided to hit the high notes one last time at the age of 91 due to a brain hemorrhage, leaving behind such an impressive musical legacy that even the ghosts of composers past are shaking their heads in envy!"
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/Andante_festivo_(Sibelius,_Jean)",
-      "year": 1922,
-      "title": "Andante festivo"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Arioso,_Op.3_(Sibelius,_Jean)",
-      "year": 1911,
-      "title": "Arioso, Op.3"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/10_Bagatelles,_Op.34_(Sibelius,_Jean)",
-      "year": 1914,
-      "title": "10 Bagatelles, Op.34"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Bagatelles,_Op.97_(Sibelius,_Jean)",
-      "year": 1920,
-      "title": "6 Bagatelles, Op.97"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Bard,_Op.64_(Sibelius,_Jean)",
-      "year": 1913,
-      "title": "The Bard, Op.64"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Belshazzar%27s_Feast,_Op.51_(Sibelius,_Jean)",
-      "year": 1906,
-      "title": "Belshazzar's Feast, Op.51"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Captive_Queen,_Op.48_(Sibelius,_Jean)",
-      "year": 1906,
-      "title": "The Captive Queen, Op.48"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Carminalia_(Sibelius,_Jean)",
-      "year": 1898,
-      "title": "Carminalia"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Characteristic_Impressions,_Op.103_(Sibelius,_Jean)",
-      "year": 1923,
-      "title": "5 Characteristic Impressions, Op.103"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Dance_Intermezzo,_Op.45_No.2_(Sibelius,_Jean)",
-      "year": 1904,
-      "title": "Dance Intermezzo, Op.45 No.2"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Danses_champ%C3%AAtres,_Op.106_(Sibelius,_Jean)",
-      "year": 1924,
-      "title": "5 Danses champ\u00eatres, Op.106"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Dryad,_Op.45_No.1_(Sibelius,_Jean)",
-      "year": 1910,
-      "title": "The Dryad, Op.45 No.1"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/En_Saga,_Op.9_(Sibelius,_Jean)",
-      "year": 1892,
-      "title": "En Saga, Op.9"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Esquisses,_Op.114_(Sibelius,_Jean)",
-      "year": 1929,
-      "title": "5 Esquisses, Op.114"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Ferryman%27s_Bride,_Op.33_(Sibelius,_Jean)",
-      "year": 1897,
-      "title": "The Ferryman's Bride, Op.33"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Finlandia,_Op.26_(Sibelius,_Jean)",
-      "year": 1900,
-      "title": "Finlandia, Op.26"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Finnish_Folksongs_(Sibelius,_Jean)",
-      "year": 1902,
-      "title": "6 Finnish Folksongs"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Fridolin%27s_Folly_(Sibelius,_Jean)",
-      "year": 1917,
-      "title": "Fridolin's Folly"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Humoresques_for_Violin_and_Orchestra,_Op.87_(Sibelius,_Jean)",
-      "year": 1940,
-      "title": "2 Humoresques for Violin and Orchestra, Op.87"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Humoresques_for_Violin_and_Orchestra,_Op.89_(Sibelius,_Jean)",
-      "year": 1917,
-      "title": "4 Humoresques for Violin and Orchestra, Op.89"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Hymn_to_Tha%C3%AFs_(Sibelius,_Jean)",
-      "year": 1909,
-      "title": "Hymn to Tha\u00efs"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Hymn,_Op.21_(Sibelius,_Jean)",
-      "year": 1896,
-      "title": "Hymn, Op.21"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Impromptu,_Op.19_(Sibelius,_Jean)",
-      "year": 1902,
-      "title": "Impromptu, Op.19"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Impromptus,_Op.5_(Sibelius,_Jean)",
-      "year": 1893,
-      "title": "6 Impromptus, Op.5"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/In_memoriam,_Op.59_(Sibelius,_Jean)",
-      "year": 1909,
-      "title": "In memoriam, Op.59"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Karelia_Overture,_Op.10_(Sibelius,_Jean)",
-      "year": 1893,
-      "title": "Karelia Overture, Op.10"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Karelia_Suite,_Op.11_(Sibelius,_Jean)",
-      "year": 1893,
-      "title": "Karelia Suite, Op.11"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Karelia%27s_Fate_(Sibelius,_Jean)",
-      "year": 1930,
-      "title": "Karelia's Fate"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/King_Christian_II_(incidental_music)_(Sibelius,_Jean)",
-      "year": 1898,
-      "title": "King Christian II"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/King_Christian_II_(suite),_Op.27_(Sibelius,_Jean)",
-      "year": 1898,
-      "title": "King Christian II"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Kullervo,_Op.7_(Sibelius,_Jean)",
-      "year": 1892,
-      "title": "Kullervo, Op.7"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Kyllikki,_Op.41_(Sibelius,_Jean)",
-      "year": 1904,
-      "title": "Kyllikki, Op.41"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Lemmink%C3%A4inen_and_the_Maidens_of_the_Island,_Op.22_No.1_(Sibelius,_Jean)",
-      "year": 1893,
-      "title": "Lemmink\u00e4inen and the Maidens of the Island, Op.22 No.1"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Lemmink%C3%A4inen_in_Tuonela,_Op.22_No.3_(Sibelius,_Jean)",
-      "year": 1893,
-      "title": "Lemmink\u00e4inen in Tuonela, Op.22 No.3"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Lemmink%C3%A4inen_Suite,_Op.22_(Sibelius,_Jean)",
-      "year": 1893,
-      "title": "Lemmink\u00e4inen Suite, Op.22"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Lemmink%C3%A4inen%27s_Return,_Op.22_No.4_(Sibelius,_Jean)",
-      "year": 1895,
-      "title": "Lemmink\u00e4inen's Return, Op.22 No.4"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Little_Girls_(Sibelius,_Jean)",
-      "year": 1920,
-      "title": "The Little Girls"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Lonely_Ski_Trail_(Sibelius,_Jean)",
-      "year": 1925,
-      "title": "The Lonely Ski Trail"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Lullaby_for_Violin_and_Kantele,_JS_222_(Sibelius,_Jean)",
-      "year": 1899,
-      "title": "Lullaby for Violin and Kantele, JS 222"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Luonnotar,_Op.70_(Sibelius,_Jean)",
-      "year": 1913,
-      "title": "Luonnotar, Op.70"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Lyric_Pieces,_Op.74_(Sibelius,_Jean)",
-      "year": 1914,
-      "title": "4 Lyric Pieces, Op.74"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Maan_virsi,_Op.95_(Sibelius,_Jean)",
-      "year": 1920,
-      "title": "Maan virsi, Op.95"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Malinconia,_Op.20_(Sibelius,_Jean)",
-      "year": 1900,
-      "title": "Malinconia, Op.20"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Mandolinato_(Sibelius,_Jean)",
-      "year": 1917,
-      "title": "Mandolinato"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Marches,_Op.91_(Sibelius,_Jean)",
-      "year": 1917,
-      "title": "2 Marches, Op.91"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Narciss_(Sibelius,_Jean)",
-      "year": 1925,
-      "title": "Narciss"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Night_Ride_and_Sunrise,_Op.55_(Sibelius,_Jean)",
-      "year": 1908,
-      "title": "Night Ride and Sunrise, Op.55"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Not_with_lamentation_(Sibelius,_Jean)",
-      "year": 1905,
-      "title": "Not with lamentation"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Novelette_for_Violin_and_Piano,_Op.102_(Sibelius,_Jean)",
-      "year": 1922,
-      "title": "Novelette for Violin and Piano, Op.102"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Oceanides,_Op.73_(Sibelius,_Jean)",
-      "year": 1914,
-      "title": "The Oceanides, Op.73"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Oma_maa,_Op.92_(Sibelius,_Jean)",
-      "year": 1918,
-      "title": "Oma maa, Op.92"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Origin_of_Fire,_Op.32_(Sibelius,_Jean)",
-      "year": 1902,
-      "title": "The Origin of Fire, Op.32"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Pan_and_Echo,_Op.53a_(Sibelius,_Jean)",
-      "year": 1906,
-      "title": "Pan and Echo, Op.53a"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Partsongs,_Op.18_(Sibelius,_Jean)",
-      "year": 1893,
-      "title": "6 Partsongs, Op.18"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Pell%C3%A9as_et_M%C3%A9lisande,_suite,_Op.46_(Sibelius,_Jean)",
-      "year": 1904,
-      "title": "Pell\u00e9as et M\u00e9lisande, suite, Op.46"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/10_Pens%C3%A9es_lyriques,_Op.40_(Sibelius,_Jean)",
-      "year": 1912,
-      "title": "10 Pens\u00e9es lyriques, Op.40"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Piano_Sonata,_Op.12_(Sibelius,_Jean)",
-      "year": 1893,
-      "title": "Piano Sonata, Op.12"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Pieces_for_Organ,_Op.111_(Sibelius,_Jean)",
-      "year": 1925,
-      "title": "2 Pieces for Organ, Op.111"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/10_Pieces_for_Piano,_Op.24_(Sibelius,_Jean)",
-      "year": 1895,
-      "title": "10 Pieces for Piano, Op.24"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/10_Pieces_for_Piano,_Op.58_(Sibelius,_Jean)",
-      "year": 1909,
-      "title": "10 Pieces for Piano, Op.58"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Pieces_for_Piano,_Op.75_(Sibelius,_Jean)",
-      "year": 1914,
-      "title": "5 Pieces for Piano, Op.75"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/13_Pieces_for_Piano,_Op.76_(Sibelius,_Jean)",
-      "year": 1911,
-      "title": "13 Pieces for Piano, Op.76"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Pieces_for_Piano,_Op.85_(Sibelius,_Jean)",
-      "year": 1916,
-      "title": "5 Pieces for Piano, Op.85"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Pieces_for_Piano,_Op.94_(Sibelius,_Jean)",
-      "year": 1914,
-      "title": "6 Pieces for Piano, Op.94"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/8_Pieces_for_Piano,_Op.99_(Sibelius,_Jean)",
-      "year": 1922,
-      "title": "8 Pieces for Piano, Op.99"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Pieces_for_Violin_and_Orchestra,_Op.77_(Sibelius,_Jean)",
-      "year": 1914,
-      "title": "2 Pieces for Violin and Orchestra, Op.77"
-    },
-    {
+      "title": "2 Pieces for Violin and Piano, Op.2",
       "imslp_url": "https://imslp.org/wiki/2_Pieces_for_Violin_and_Piano,_Op.2_(Sibelius,_Jean)",
-      "year": 1888,
-      "title": "2 Pieces for Violin and Piano, Op.2"
+      "year": 1888
     },
     {
-      "imslp_url": "https://imslp.org/wiki/4_Pieces_for_Violin_and_Piano,_Op.78_(Sibelius,_Jean)",
-      "year": 1915,
-      "title": "4 Pieces for Violin and Piano, Op.78"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/6_Pieces_for_Violin_and_Piano,_Op.79_(Sibelius,_Jean)",
-      "year": 1915,
-      "title": "6 Pieces for Violin and Piano, Op.79"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Pieces_for_Violin_and_Piano,_Op.81_(Sibelius,_Jean)",
-      "year": 1915,
-      "title": "5 Pieces for Violin and Piano, Op.81"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/4_Pieces_for_Violin_and_Piano,_Op.115_(Sibelius,_Jean)",
-      "year": 1929,
-      "title": "4 Pieces for Violin and Piano, Op.115"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Pieces_for_Violin_and_Piano,_Op.116_(Sibelius,_Jean)",
-      "year": 1929,
-      "title": "3 Pieces for Violin and Piano, Op.116"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Pieces_from_Kuolema,_Op.44_(Sibelius,_Jean)",
-      "year": 1903,
-      "title": "2 Pieces from Kuolema, Op.44"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Pieces_from_Kuolema,_Op.62_(Sibelius,_Jean)",
-      "year": 1911,
-      "title": "2 Pieces from Kuolema, Op.62"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Pi%C3%A8ces_pour_Orchestre,_Op.96_(Sibelius,_Jean)",
-      "year": 1919,
-      "title": "3 Pi\u00e8ces pour Orchestre, Op.96"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Pohjola%27s_Daughter,_Op.49_(Sibelius,_Jean)",
-      "year": 1905,
-      "title": "Pohjola's Daughter, Op.49"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Rakastava,_Op.14_(Sibelius,_Jean)",
-      "year": 1911,
-      "title": "Rakastava, Op.14"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/The_Roaring_of_a_Wave_(Sibelius,_Jean)",
-      "year": 1918,
-      "title": "The Roaring of a Wave"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Romance,_Op.42_(Sibelius,_Jean)",
-      "year": 1904,
-      "title": "Romance, Op.42"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Romantic_Pieces,_Op.101_(Sibelius,_Jean)",
-      "year": 1924,
-      "title": "5 Romantic Pieces, Op.101"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Rondinos,_Op.68_(Sibelius,_Jean)",
-      "year": 1912,
-      "title": "2 Rondinos, Op.68"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Row,_row,_duck_(Sibelius,_Jean)",
-      "year": 1899,
-      "title": "Row, row, duck"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Scaramouche,_Op.71_(Sibelius,_Jean)",
-      "year": 1913,
-      "title": "Scaramouche, Op.71"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Sc%C3%A8nes_historiques_I,_Op.25_(Sibelius,_Jean)",
-      "year": 1911,
-      "title": "Sc\u00e8nes historiques I, Op.25"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Sc%C3%A8nes_historiques_II,_Op.66_(Sibelius,_Jean)",
-      "year": 1912,
-      "title": "Sc\u00e8nes historiques II, Op.66"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Serenades_for_Violin_and_Orchestra,_Op.69_(Sibelius,_Jean)",
-      "year": 1912,
-      "title": "2 Serenades for Violin and Orchestra, Op.69"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Sn%C3%B6frid,_Op.29_(Sibelius,_Jean)",
-      "year": 1900,
-      "title": "Sn\u00f6frid, Op.29"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Sonatinas,_Op.67_(Sibelius,_Jean)",
-      "year": 1912,
-      "title": "3 Sonatinas, Op.67"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/9_Songs_for_Chorus,_Op.23_(Sibelius,_Jean)",
-      "year": 1897,
-      "title": "9 Songs for Chorus, Op.23"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/3_Songs_for_Chorus,_Op.31_(Sibelius,_Jean)",
-      "year": 1896,
-      "title": "3 Songs for Chorus, Op.31"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Songs_for_Mixed_Choir,_Op.65_(Sibelius,_Jean)",
-      "year": 1912,
-      "title": "2 Songs for Mixed Choir, Op.65"
-    },
-    {
+      "title": "7 Songs, Op.13",
       "imslp_url": "https://imslp.org/wiki/7_Songs,_Op.13_(Sibelius,_Jean)",
-      "year": 1891,
-      "title": "7 Songs, Op.13"
+      "year": 1891
     },
     {
+      "title": "7 Songs, Op.17",
       "imslp_url": "https://imslp.org/wiki/7_Songs,_Op.17_(Sibelius,_Jean)",
-      "year": 1891,
-      "title": "7 Songs, Op.17"
+      "year": 1891
     },
     {
-      "imslp_url": "https://imslp.org/wiki/2_Songs,_Op.35_(Sibelius,_Jean)",
-      "year": 1907,
-      "title": "2 Songs, Op.35"
+      "title": "En Saga, Op.9",
+      "imslp_url": "https://imslp.org/wiki/En_Saga,_Op.9_(Sibelius,_Jean)",
+      "year": 1892
     },
     {
-      "imslp_url": "https://imslp.org/wiki/6_Songs,_Op.36_(Sibelius,_Jean)",
-      "year": 1899,
-      "title": "6 Songs, Op.36"
+      "title": "Kullervo, Op.7",
+      "imslp_url": "https://imslp.org/wiki/Kullervo,_Op.7_(Sibelius,_Jean)",
+      "year": 1892
     },
     {
-      "imslp_url": "https://imslp.org/wiki/5_Songs,_Op.37_(Sibelius,_Jean)",
-      "year": 1900,
-      "title": "5 Songs, Op.37"
+      "title": "6 Impromptus, Op.5",
+      "imslp_url": "https://imslp.org/wiki/6_Impromptus,_Op.5_(Sibelius,_Jean)",
+      "year": 1893
     },
     {
-      "imslp_url": "https://imslp.org/wiki/5_Songs,_Op.38_(Sibelius,_Jean)",
-      "year": 1903,
-      "title": "5 Songs, Op.38"
+      "title": "6 Partsongs, Op.18",
+      "imslp_url": "https://imslp.org/wiki/6_Partsongs,_Op.18_(Sibelius,_Jean)",
+      "year": 1893
     },
     {
-      "imslp_url": "https://imslp.org/wiki/6_Songs,_Op.50_(Sibelius,_Jean)",
-      "year": 1906,
-      "title": "6 Songs, Op.50"
+      "title": "Karelia Overture, Op.10",
+      "imslp_url": "https://imslp.org/wiki/Karelia_Overture,_Op.10_(Sibelius,_Jean)",
+      "year": 1893
     },
     {
-      "imslp_url": "https://imslp.org/wiki/8_Songs,_Op.57_(Sibelius,_Jean)",
-      "year": 1909,
-      "title": "8 Songs, Op.57"
+      "title": "Karelia Suite, Op.11",
+      "imslp_url": "https://imslp.org/wiki/Karelia_Suite,_Op.11_(Sibelius,_Jean)",
+      "year": 1893
     },
     {
-      "imslp_url": "https://imslp.org/wiki/8_Songs,_Op.61_(Sibelius,_Jean)",
-      "year": 1910,
-      "title": "8 Songs, Op.61"
+      "title": "Lemmink\u00e4inen Suite, Op.22",
+      "imslp_url": "https://imslp.org/wiki/Lemmink\u00e4inen_Suite,_Op.22_(Sibelius,_Jean)",
+      "year": 1893
     },
     {
-      "imslp_url": "https://imslp.org/wiki/6_Songs,_Op.72_(Sibelius,_Jean)",
-      "year": 1914,
-      "title": "6 Songs, Op.72"
+      "title": "Lemmink\u00e4inen and the Maidens of the Island, Op.22 No.1",
+      "imslp_url": "https://imslp.org/wiki/Lemmink\u00e4inen_and_the_Maidens_of_the_Island,_Op.22_No.1_(Sibelius,_Jean)",
+      "year": 1893
     },
     {
-      "imslp_url": "https://imslp.org/wiki/6_Songs,_Op.86_(Sibelius,_Jean)",
-      "year": 1916,
-      "title": "6 Songs, Op.86"
+      "title": "Lemmink\u00e4inen in Tuonela, Op.22 No.3",
+      "imslp_url": "https://imslp.org/wiki/Lemmink\u00e4inen_in_Tuonela,_Op.22_No.3_(Sibelius,_Jean)",
+      "year": 1893
     },
     {
-      "imslp_url": "https://imslp.org/wiki/6_Songs,_Op.88_(Sibelius,_Jean)",
-      "year": 1917,
-      "title": "6 Songs, Op.88"
+      "title": "Piano Sonata, Op.12",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata,_Op.12_(Sibelius,_Jean)",
+      "year": 1893
     },
     {
-      "imslp_url": "https://imslp.org/wiki/6_Songs,_Op.90_(Sibelius,_Jean)",
-      "year": 1917,
-      "title": "6 Songs, Op.90"
-    },
-    {
+      "title": "Spring Song, Op.16",
       "imslp_url": "https://imslp.org/wiki/Spring_Song,_Op.16_(Sibelius,_Jean)",
-      "year": 1894,
-      "title": "Spring Song, Op.16"
+      "year": 1894
     },
     {
-      "imslp_url": "https://imslp.org/wiki/String_Quartet_%E2%80%98Voces_intimae%E2%80%99,_Op.56_(Sibelius,_Jean)",
-      "year": 1908,
-      "title": "String Quartet \u2018Voces intimae\u2019, Op.56"
+      "title": "10 Pieces for Piano, Op.24",
+      "imslp_url": "https://imslp.org/wiki/10_Pieces_for_Piano,_Op.24_(Sibelius,_Jean)",
+      "year": 1895
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Suite_caract%C3%A9ristique,_Op.100_(Sibelius,_Jean)",
-      "year": 1922,
-      "title": "Suite caract\u00e9ristique, Op.100"
+      "title": "Lemmink\u00e4inen's Return, Op.22 No.4",
+      "imslp_url": "https://imslp.org/wiki/Lemmink\u00e4inen's_Return,_Op.22_No.4_(Sibelius,_Jean)",
+      "year": 1895
     },
     {
-      "imslp_url": "https://imslp.org/wiki/2_Suites_for_Orchestra,_Op.98_(Sibelius,_Jean)",
-      "year": 1921,
-      "title": "2 Suites for Orchestra, Op.98"
-    },
-    {
+      "title": "The Swan of Tuonela, Op.22 No.2",
       "imslp_url": "https://imslp.org/wiki/The_Swan_of_Tuonela,_Op.22_No.2_(Sibelius,_Jean)",
-      "year": 1895,
-      "title": "The Swan of Tuonela, Op.22 No.2"
+      "year": 1895
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Swanwhite,_suite,_Op.54a_(Sibelius,_Jean)",
-      "year": 1908,
-      "title": "Swanwhite, suite, Op.54a"
+      "title": "3 Songs for Chorus, Op.31",
+      "imslp_url": "https://imslp.org/wiki/3_Songs_for_Chorus,_Op.31_(Sibelius,_Jean)",
+      "year": 1896
     },
     {
+      "title": "Hymn, Op.21",
+      "imslp_url": "https://imslp.org/wiki/Hymn,_Op.21_(Sibelius,_Jean)",
+      "year": 1896
+    },
+    {
+      "title": "9 Songs for Chorus, Op.23",
+      "imslp_url": "https://imslp.org/wiki/9_Songs_for_Chorus,_Op.23_(Sibelius,_Jean)",
+      "year": 1897
+    },
+    {
+      "title": "The Ferryman's Bride, Op.33",
+      "imslp_url": "https://imslp.org/wiki/The_Ferryman's_Bride,_Op.33_(Sibelius,_Jean)",
+      "year": 1897
+    },
+    {
+      "title": "Carminalia",
+      "imslp_url": "https://imslp.org/wiki/Carminalia_(Sibelius,_Jean)",
+      "year": 1898
+    },
+    {
+      "title": "King Christian II (incidental music)",
+      "imslp_url": "https://imslp.org/wiki/King_Christian_II_(incidental_music)_(Sibelius,_Jean)",
+      "year": 1898
+    },
+    {
+      "title": "King Christian II (suite), Op.27",
+      "imslp_url": "https://imslp.org/wiki/King_Christian_II_(suite),_Op.27_(Sibelius,_Jean)",
+      "year": 1898
+    },
+    {
+      "title": "6 Songs, Op.36",
+      "imslp_url": "https://imslp.org/wiki/6_Songs,_Op.36_(Sibelius,_Jean)",
+      "year": 1899
+    },
+    {
+      "title": "Lullaby for Violin and Kantele, JS 222",
+      "imslp_url": "https://imslp.org/wiki/Lullaby_for_Violin_and_Kantele,_JS_222_(Sibelius,_Jean)",
+      "year": 1899
+    },
+    {
+      "title": "Row, row, duck",
+      "imslp_url": "https://imslp.org/wiki/Row,_row,_duck_(Sibelius,_Jean)",
+      "year": 1899
+    },
+    {
+      "title": "Symphony No.1, Op.39",
       "imslp_url": "https://imslp.org/wiki/Symphony_No.1,_Op.39_(Sibelius,_Jean)",
-      "year": 1899,
-      "title": "Symphony No.1, Op.39"
+      "year": 1899
     },
     {
+      "title": "5 Songs, Op.37",
+      "imslp_url": "https://imslp.org/wiki/5_Songs,_Op.37_(Sibelius,_Jean)",
+      "year": 1900
+    },
+    {
+      "title": "Finlandia, Op.26",
+      "imslp_url": "https://imslp.org/wiki/Finlandia,_Op.26_(Sibelius,_Jean)",
+      "year": 1900
+    },
+    {
+      "title": "Malinconia, Op.20",
+      "imslp_url": "https://imslp.org/wiki/Malinconia,_Op.20_(Sibelius,_Jean)",
+      "year": 1900
+    },
+    {
+      "title": "Sn\u00f6frid, Op.29",
+      "imslp_url": "https://imslp.org/wiki/Sn\u00f6frid,_Op.29_(Sibelius,_Jean)",
+      "year": 1900
+    },
+    {
+      "title": "Symphony No.2, Op.43",
       "imslp_url": "https://imslp.org/wiki/Symphony_No.2,_Op.43_(Sibelius,_Jean)",
-      "year": 1901,
-      "title": "Symphony No.2, Op.43"
+      "year": 1901
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.3,_Op.52_(Sibelius,_Jean)",
-      "year": 1906,
-      "title": "Symphony No.3, Op.52"
+      "title": "6 Finnish Folksongs",
+      "imslp_url": "https://imslp.org/wiki/6_Finnish_Folksongs_(Sibelius,_Jean)",
+      "year": 1902
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.4,_Op.63_(Sibelius,_Jean)",
-      "year": 1910,
-      "title": "Symphony No.4, Op.63"
+      "title": "Impromptu, Op.19",
+      "imslp_url": "https://imslp.org/wiki/Impromptu,_Op.19_(Sibelius,_Jean)",
+      "year": 1902
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.5,_Op.82_(Sibelius,_Jean)",
-      "year": 1915,
-      "title": "Symphony No.5, Op.82"
+      "title": "The Origin of Fire, Op.32",
+      "imslp_url": "https://imslp.org/wiki/The_Origin_of_Fire,_Op.32_(Sibelius,_Jean)",
+      "year": 1902
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.6,_Op.104_(Sibelius,_Jean)",
-      "year": 1923,
-      "title": "Symphony No.6, Op.104"
+      "title": "Till Th\u00e9r\u00e8se Hahl",
+      "imslp_url": "https://imslp.org/wiki/Till_Th\u00e9r\u00e8se_Hahl_(Sibelius,_Jean)",
+      "year": 1902
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Symphony_No.7,_Op.105_(Sibelius,_Jean)",
-      "year": 1918,
-      "title": "Symphony No.7, Op.105"
+      "title": "2 Pieces from Kuolema, Op.44",
+      "imslp_url": "https://imslp.org/wiki/2_Pieces_from_Kuolema,_Op.44_(Sibelius,_Jean)",
+      "year": 1903
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Tapiola,_Op.112_(Sibelius,_Jean)",
-      "year": 1926,
-      "title": "Tapiola, Op.112"
+      "title": "5 Songs, Op.38",
+      "imslp_url": "https://imslp.org/wiki/5_Songs,_Op.38_(Sibelius,_Jean)",
+      "year": 1903
     },
     {
-      "imslp_url": "https://imslp.org/wiki/The_Tempest,_Op.109_(Sibelius,_Jean)",
-      "year": 1925,
-      "title": "The Tempest, Op.109"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Till_Th%C3%A9r%C3%A8se_Hahl_(Sibelius,_Jean)",
-      "year": 1902,
-      "title": "Till Th\u00e9r\u00e8se Hahl"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Twelfth_Night,_Op.60_(Sibelius,_Jean)",
-      "year": 1909,
-      "title": "Twelfth Night, Op.60"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/V%C3%A4in%C3%B6%27s_Song,_Op.110_(Sibelius,_Jean)",
-      "year": 1926,
-      "title": "V\u00e4in\u00f6's Song, Op.110"
-    },
-    {
+      "title": "Violin Concerto, Op.47",
       "imslp_url": "https://imslp.org/wiki/Violin_Concerto,_Op.47_(Sibelius,_Jean)",
-      "year": 1903,
-      "title": "Violin Concerto, Op.47"
+      "year": 1903
     },
     {
+      "title": "Dance Intermezzo, Op.45 No.2",
+      "imslp_url": "https://imslp.org/wiki/Dance_Intermezzo,_Op.45_No.2_(Sibelius,_Jean)",
+      "year": 1904
+    },
+    {
+      "title": "Kyllikki, Op.41",
+      "imslp_url": "https://imslp.org/wiki/Kyllikki,_Op.41_(Sibelius,_Jean)",
+      "year": 1904
+    },
+    {
+      "title": "Pell\u00e9as et M\u00e9lisande, suite, Op.46",
+      "imslp_url": "https://imslp.org/wiki/Pell\u00e9as_et_M\u00e9lisande,_suite,_Op.46_(Sibelius,_Jean)",
+      "year": 1904
+    },
+    {
+      "title": "Romance, Op.42",
+      "imslp_url": "https://imslp.org/wiki/Romance,_Op.42_(Sibelius,_Jean)",
+      "year": 1904
+    },
+    {
+      "title": "Not with lamentation",
+      "imslp_url": "https://imslp.org/wiki/Not_with_lamentation_(Sibelius,_Jean)",
+      "year": 1905
+    },
+    {
+      "title": "Pohjola's Daughter, Op.49",
+      "imslp_url": "https://imslp.org/wiki/Pohjola's_Daughter,_Op.49_(Sibelius,_Jean)",
+      "year": 1905
+    },
+    {
+      "title": "6 Songs, Op.50",
+      "imslp_url": "https://imslp.org/wiki/6_Songs,_Op.50_(Sibelius,_Jean)",
+      "year": 1906
+    },
+    {
+      "title": "Belshazzar's Feast, Op.51",
+      "imslp_url": "https://imslp.org/wiki/Belshazzar's_Feast,_Op.51_(Sibelius,_Jean)",
+      "year": 1906
+    },
+    {
+      "title": "Pan and Echo, Op.53a",
+      "imslp_url": "https://imslp.org/wiki/Pan_and_Echo,_Op.53a_(Sibelius,_Jean)",
+      "year": 1906
+    },
+    {
+      "title": "Symphony No.3, Op.52",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.3,_Op.52_(Sibelius,_Jean)",
+      "year": 1906
+    },
+    {
+      "title": "The Captive Queen, Op.48",
+      "imslp_url": "https://imslp.org/wiki/The_Captive_Queen,_Op.48_(Sibelius,_Jean)",
+      "year": 1906
+    },
+    {
+      "title": "2 Songs, Op.35",
+      "imslp_url": "https://imslp.org/wiki/2_Songs,_Op.35_(Sibelius,_Jean)",
+      "year": 1907
+    },
+    {
+      "title": "Night Ride and Sunrise, Op.55",
+      "imslp_url": "https://imslp.org/wiki/Night_Ride_and_Sunrise,_Op.55_(Sibelius,_Jean)",
+      "year": 1908
+    },
+    {
+      "title": "String Quartet \u2018Voces intimae\u2019, Op.56",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_\u2018Voces_intimae\u2019,_Op.56_(Sibelius,_Jean)",
+      "year": 1908
+    },
+    {
+      "title": "Swanwhite, suite, Op.54a",
+      "imslp_url": "https://imslp.org/wiki/Swanwhite,_suite,_Op.54a_(Sibelius,_Jean)",
+      "year": 1908
+    },
+    {
+      "title": "10 Pieces for Piano, Op.58",
+      "imslp_url": "https://imslp.org/wiki/10_Pieces_for_Piano,_Op.58_(Sibelius,_Jean)",
+      "year": 1909
+    },
+    {
+      "title": "8 Songs, Op.57",
+      "imslp_url": "https://imslp.org/wiki/8_Songs,_Op.57_(Sibelius,_Jean)",
+      "year": 1909
+    },
+    {
+      "title": "Hymn to Tha\u00efs",
+      "imslp_url": "https://imslp.org/wiki/Hymn_to_Tha\u00efs_(Sibelius,_Jean)",
+      "year": 1909
+    },
+    {
+      "title": "In memoriam, Op.59",
+      "imslp_url": "https://imslp.org/wiki/In_memoriam,_Op.59_(Sibelius,_Jean)",
+      "year": 1909
+    },
+    {
+      "title": "Twelfth Night, Op.60",
+      "imslp_url": "https://imslp.org/wiki/Twelfth_Night,_Op.60_(Sibelius,_Jean)",
+      "year": 1909
+    },
+    {
+      "title": "8 Songs, Op.61",
+      "imslp_url": "https://imslp.org/wiki/8_Songs,_Op.61_(Sibelius,_Jean)",
+      "year": 1910
+    },
+    {
+      "title": "Symphony No.4, Op.63",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.4,_Op.63_(Sibelius,_Jean)",
+      "year": 1910
+    },
+    {
+      "title": "The Dryad, Op.45 No.1",
+      "imslp_url": "https://imslp.org/wiki/The_Dryad,_Op.45_No.1_(Sibelius,_Jean)",
+      "year": 1910
+    },
+    {
+      "title": "13 Pieces for Piano, Op.76",
+      "imslp_url": "https://imslp.org/wiki/13_Pieces_for_Piano,_Op.76_(Sibelius,_Jean)",
+      "year": 1911
+    },
+    {
+      "title": "2 Pieces from Kuolema, Op.62",
+      "imslp_url": "https://imslp.org/wiki/2_Pieces_from_Kuolema,_Op.62_(Sibelius,_Jean)",
+      "year": 1911
+    },
+    {
+      "title": "Arioso, Op.3",
+      "imslp_url": "https://imslp.org/wiki/Arioso,_Op.3_(Sibelius,_Jean)",
+      "year": 1911
+    },
+    {
+      "title": "Rakastava, Op.14",
+      "imslp_url": "https://imslp.org/wiki/Rakastava,_Op.14_(Sibelius,_Jean)",
+      "year": 1911
+    },
+    {
+      "title": "Sc\u00e8nes historiques I, Op.25",
+      "imslp_url": "https://imslp.org/wiki/Sc\u00e8nes_historiques_I,_Op.25_(Sibelius,_Jean)",
+      "year": 1911
+    },
+    {
+      "title": "10 Pens\u00e9es lyriques, Op.40",
+      "imslp_url": "https://imslp.org/wiki/10_Pens\u00e9es_lyriques,_Op.40_(Sibelius,_Jean)",
+      "year": 1912
+    },
+    {
+      "title": "2 Rondinos, Op.68",
+      "imslp_url": "https://imslp.org/wiki/2_Rondinos,_Op.68_(Sibelius,_Jean)",
+      "year": 1912
+    },
+    {
+      "title": "2 Serenades for Violin and Orchestra, Op.69",
+      "imslp_url": "https://imslp.org/wiki/2_Serenades_for_Violin_and_Orchestra,_Op.69_(Sibelius,_Jean)",
+      "year": 1912
+    },
+    {
+      "title": "2 Songs for Mixed Choir, Op.65",
+      "imslp_url": "https://imslp.org/wiki/2_Songs_for_Mixed_Choir,_Op.65_(Sibelius,_Jean)",
+      "year": 1912
+    },
+    {
+      "title": "3 Sonatinas, Op.67",
+      "imslp_url": "https://imslp.org/wiki/3_Sonatinas,_Op.67_(Sibelius,_Jean)",
+      "year": 1912
+    },
+    {
+      "title": "Sc\u00e8nes historiques II, Op.66",
+      "imslp_url": "https://imslp.org/wiki/Sc\u00e8nes_historiques_II,_Op.66_(Sibelius,_Jean)",
+      "year": 1912
+    },
+    {
+      "title": "Luonnotar, Op.70",
+      "imslp_url": "https://imslp.org/wiki/Luonnotar,_Op.70_(Sibelius,_Jean)",
+      "year": 1913
+    },
+    {
+      "title": "Scaramouche, Op.71",
+      "imslp_url": "https://imslp.org/wiki/Scaramouche,_Op.71_(Sibelius,_Jean)",
+      "year": 1913
+    },
+    {
+      "title": "The Bard, Op.64",
+      "imslp_url": "https://imslp.org/wiki/The_Bard,_Op.64_(Sibelius,_Jean)",
+      "year": 1913
+    },
+    {
+      "title": "10 Bagatelles, Op.34",
+      "imslp_url": "https://imslp.org/wiki/10_Bagatelles,_Op.34_(Sibelius,_Jean)",
+      "year": 1914
+    },
+    {
+      "title": "2 Pieces for Violin and Orchestra, Op.77",
+      "imslp_url": "https://imslp.org/wiki/2_Pieces_for_Violin_and_Orchestra,_Op.77_(Sibelius,_Jean)",
+      "year": 1914
+    },
+    {
+      "title": "4 Lyric Pieces, Op.74",
+      "imslp_url": "https://imslp.org/wiki/4_Lyric_Pieces,_Op.74_(Sibelius,_Jean)",
+      "year": 1914
+    },
+    {
+      "title": "5 Pieces for Piano, Op.75",
+      "imslp_url": "https://imslp.org/wiki/5_Pieces_for_Piano,_Op.75_(Sibelius,_Jean)",
+      "year": 1914
+    },
+    {
+      "title": "6 Pieces for Piano, Op.94",
+      "imslp_url": "https://imslp.org/wiki/6_Pieces_for_Piano,_Op.94_(Sibelius,_Jean)",
+      "year": 1914
+    },
+    {
+      "title": "6 Songs, Op.72",
+      "imslp_url": "https://imslp.org/wiki/6_Songs,_Op.72_(Sibelius,_Jean)",
+      "year": 1914
+    },
+    {
+      "title": "The Oceanides, Op.73",
+      "imslp_url": "https://imslp.org/wiki/The_Oceanides,_Op.73_(Sibelius,_Jean)",
+      "year": 1914
+    },
+    {
+      "title": "4 Pieces for Violin and Piano, Op.78",
+      "imslp_url": "https://imslp.org/wiki/4_Pieces_for_Violin_and_Piano,_Op.78_(Sibelius,_Jean)",
+      "year": 1915
+    },
+    {
+      "title": "5 Pieces for Violin and Piano, Op.81",
+      "imslp_url": "https://imslp.org/wiki/5_Pieces_for_Violin_and_Piano,_Op.81_(Sibelius,_Jean)",
+      "year": 1915
+    },
+    {
+      "title": "6 Pieces for Violin and Piano, Op.79",
+      "imslp_url": "https://imslp.org/wiki/6_Pieces_for_Violin_and_Piano,_Op.79_(Sibelius,_Jean)",
+      "year": 1915
+    },
+    {
+      "title": "Symphony No.5, Op.82",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.5,_Op.82_(Sibelius,_Jean)",
+      "year": 1915
+    },
+    {
+      "title": "Violin Sonatina, Op.80",
       "imslp_url": "https://imslp.org/wiki/Violin_Sonatina,_Op.80_(Sibelius,_Jean)",
-      "year": 1915,
-      "title": "Violin Sonatina, Op.80"
+      "year": 1915
     },
     {
-      "imslp_url": "https://imslp.org/wiki/From_the_Land_of_Thousand_Lakes_(Sibelius,_Jean)",
-      "year": 1910,
-      "title": "From the Land of Thousand Lakes"
+      "title": "5 Pieces for Piano, Op.85",
+      "imslp_url": "https://imslp.org/wiki/5_Pieces_for_Piano,_Op.85_(Sibelius,_Jean)",
+      "year": 1916
+    },
+    {
+      "title": "6 Songs, Op.86",
+      "imslp_url": "https://imslp.org/wiki/6_Songs,_Op.86_(Sibelius,_Jean)",
+      "year": 1916
+    },
+    {
+      "title": "2 Marches, Op.91",
+      "imslp_url": "https://imslp.org/wiki/2_Marches,_Op.91_(Sibelius,_Jean)",
+      "year": 1917
+    },
+    {
+      "title": "4 Humoresques for Violin and Orchestra, Op.89",
+      "imslp_url": "https://imslp.org/wiki/4_Humoresques_for_Violin_and_Orchestra,_Op.89_(Sibelius,_Jean)",
+      "year": 1917
+    },
+    {
+      "title": "6 Songs, Op.88",
+      "imslp_url": "https://imslp.org/wiki/6_Songs,_Op.88_(Sibelius,_Jean)",
+      "year": 1917
+    },
+    {
+      "title": "6 Songs, Op.90",
+      "imslp_url": "https://imslp.org/wiki/6_Songs,_Op.90_(Sibelius,_Jean)",
+      "year": 1917
+    },
+    {
+      "title": "Fridolin's Folly",
+      "imslp_url": "https://imslp.org/wiki/Fridolin's_Folly_(Sibelius,_Jean)",
+      "year": 1917
+    },
+    {
+      "title": "Mandolinato",
+      "imslp_url": "https://imslp.org/wiki/Mandolinato_(Sibelius,_Jean)",
+      "year": 1917
+    },
+    {
+      "title": "Oma maa, Op.92",
+      "imslp_url": "https://imslp.org/wiki/Oma_maa,_Op.92_(Sibelius,_Jean)",
+      "year": 1918
+    },
+    {
+      "title": "Symphony No.7, Op.105",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.7,_Op.105_(Sibelius,_Jean)",
+      "year": 1918
+    },
+    {
+      "title": "The Roaring of a Wave",
+      "imslp_url": "https://imslp.org/wiki/The_Roaring_of_a_Wave_(Sibelius,_Jean)",
+      "year": 1918
+    },
+    {
+      "title": "3 Pi\u00e8ces pour Orchestre, Op.96",
+      "imslp_url": "https://imslp.org/wiki/3_Pi\u00e8ces_pour_Orchestre,_Op.96_(Sibelius,_Jean)",
+      "year": 1919
+    },
+    {
+      "title": "6 Bagatelles, Op.97",
+      "imslp_url": "https://imslp.org/wiki/6_Bagatelles,_Op.97_(Sibelius,_Jean)",
+      "year": 1920
+    },
+    {
+      "title": "Maan virsi, Op.95",
+      "imslp_url": "https://imslp.org/wiki/Maan_virsi,_Op.95_(Sibelius,_Jean)",
+      "year": 1920
+    },
+    {
+      "title": "The Little Girls",
+      "imslp_url": "https://imslp.org/wiki/The_Little_Girls_(Sibelius,_Jean)",
+      "year": 1920
+    },
+    {
+      "title": "2 Suites for Orchestra, Op.98",
+      "imslp_url": "https://imslp.org/wiki/2_Suites_for_Orchestra,_Op.98_(Sibelius,_Jean)",
+      "year": 1921
+    },
+    {
+      "title": "8 Pieces for Piano, Op.99",
+      "imslp_url": "https://imslp.org/wiki/8_Pieces_for_Piano,_Op.99_(Sibelius,_Jean)",
+      "year": 1922
+    },
+    {
+      "title": "Andante festivo",
+      "imslp_url": "https://imslp.org/wiki/Andante_festivo_(Sibelius,_Jean)",
+      "year": 1922
+    },
+    {
+      "title": "Novelette for Violin and Piano, Op.102",
+      "imslp_url": "https://imslp.org/wiki/Novelette_for_Violin_and_Piano,_Op.102_(Sibelius,_Jean)",
+      "year": 1922
+    },
+    {
+      "title": "Suite caract\u00e9ristique, Op.100",
+      "imslp_url": "https://imslp.org/wiki/Suite_caract\u00e9ristique,_Op.100_(Sibelius,_Jean)",
+      "year": 1922
+    },
+    {
+      "title": "5 Characteristic Impressions, Op.103",
+      "imslp_url": "https://imslp.org/wiki/5_Characteristic_Impressions,_Op.103_(Sibelius,_Jean)",
+      "year": 1923
+    },
+    {
+      "title": "Symphony No.6, Op.104",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.6,_Op.104_(Sibelius,_Jean)",
+      "year": 1923
+    },
+    {
+      "title": "5 Danses champ\u00eatres, Op.106",
+      "imslp_url": "https://imslp.org/wiki/5_Danses_champ\u00eatres,_Op.106_(Sibelius,_Jean)",
+      "year": 1924
+    },
+    {
+      "title": "5 Romantic Pieces, Op.101",
+      "imslp_url": "https://imslp.org/wiki/5_Romantic_Pieces,_Op.101_(Sibelius,_Jean)",
+      "year": 1924
+    },
+    {
+      "title": "2 Pieces for Organ, Op.111",
+      "imslp_url": "https://imslp.org/wiki/2_Pieces_for_Organ,_Op.111_(Sibelius,_Jean)",
+      "year": 1925
+    },
+    {
+      "title": "Narciss",
+      "imslp_url": "https://imslp.org/wiki/Narciss_(Sibelius,_Jean)",
+      "year": 1925
+    },
+    {
+      "title": "The Lonely Ski Trail",
+      "imslp_url": "https://imslp.org/wiki/The_Lonely_Ski_Trail_(Sibelius,_Jean)",
+      "year": 1925
+    },
+    {
+      "title": "The Tempest, Op.109",
+      "imslp_url": "https://imslp.org/wiki/The_Tempest,_Op.109_(Sibelius,_Jean)",
+      "year": 1925
+    },
+    {
+      "title": "Tapiola, Op.112",
+      "imslp_url": "https://imslp.org/wiki/Tapiola,_Op.112_(Sibelius,_Jean)",
+      "year": 1926
+    },
+    {
+      "title": "V\u00e4in\u00f6's Song, Op.110",
+      "imslp_url": "https://imslp.org/wiki/V\u00e4in\u00f6's_Song,_Op.110_(Sibelius,_Jean)",
+      "year": 1926
+    },
+    {
+      "title": "3 Pieces for Violin and Piano, Op.116",
+      "imslp_url": "https://imslp.org/wiki/3_Pieces_for_Violin_and_Piano,_Op.116_(Sibelius,_Jean)",
+      "year": 1929
+    },
+    {
+      "title": "4 Pieces for Violin and Piano, Op.115",
+      "imslp_url": "https://imslp.org/wiki/4_Pieces_for_Violin_and_Piano,_Op.115_(Sibelius,_Jean)",
+      "year": 1929
+    },
+    {
+      "title": "5 Esquisses, Op.114",
+      "imslp_url": "https://imslp.org/wiki/5_Esquisses,_Op.114_(Sibelius,_Jean)",
+      "year": 1929
+    },
+    {
+      "title": "Karelia's Fate",
+      "imslp_url": "https://imslp.org/wiki/Karelia's_Fate_(Sibelius,_Jean)",
+      "year": 1930
+    },
+    {
+      "title": "2 Humoresques for Violin and Orchestra, Op.87",
+      "imslp_url": "https://imslp.org/wiki/2_Humoresques_for_Violin_and_Orchestra,_Op.87_(Sibelius,_Jean)",
+      "year": 1940
     }
   ]
 }

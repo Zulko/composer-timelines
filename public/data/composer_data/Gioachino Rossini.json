@@ -1,644 +1,387 @@
 {
   "full_name": "Gioachino Rossini",
-  "first_names": "Gioachino",
+  "first_names": "Gioachino Antonio",
   "last_name": "Rossini",
   "birth_year": 1792,
   "death_year": 1868,
   "wikipedia_url": "https://en.wikipedia.org/wiki/Gioachino_Rossini",
   "events": [
     {
-      "event": "Birth",
-      "summary": "Gioachino Antonio Rossini was born on a leap day, which meant he had a birthday every four years\u2014talk about a great excuse for a party! Growing up in a musical family, it's no surprise he showed a flair for creating tunes early on.",
+      "section": "Life and career",
+      "title": "Birth",
+      "summary": "Gioachino Rossini was born in Pesaro, a town on the Adriatic coast of Italy, on February 29, 1792. He was the only child of Giuseppe Rossini, a trumpeter and horn player, and his wife Anna, a seamstress.",
       "year": 1792,
-      "city": "Pesaro",
-      "country": "Italy"
+      "location": "Pesaro, Italy",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Gioachino Rossini was born in the picturesque Pesaro, a tiny resort on the Adriatic coast of Italy, on February 29, 1792. He was the only child of Giuseppe Rossini, a trumpeter and horn player, and his wife Anna, a seamstress."
     },
     {
-      "event": "First Opera Success",
-      "summary": "At the tender age of eighteen, Rossini debuted his first opera, a one-act comedy that wowed audiences and earned him a nice pocketful of cash. Who knew making people laugh could also pay the bills?",
+      "section": "Life and career",
+      "title": "Mother's Singing Career",
+      "summary": "In 1798, when Rossini was six years old, his mother began her career as a professional singer in comic opera and enjoyed considerable success for over a decade in cities such as Trieste and Bologna.",
+      "year": 1798,
+      "location": "Various cities, Italy",
+      "emoji": "\ud83c\udfa4",
+      "fun_version": "In 1798, when Rossini was six, his mom sashayed onto the comic opera stage, belting out tunes. Talk about a mother-son duo where the mom\u2019s success was louder than a toddler tantrum for over a decade in cities like Trieste and Bologna!"
+    },
+    {
+      "section": "Life and career",
+      "title": "First Composition",
+      "summary": "At the age of twelve, Rossini composed a set of six sonatas for four stringed instruments, which were performed under the aegis of a rich patron in 1804, showcasing his early talent.",
+      "year": 1804,
+      "location": "Lugo, Italy",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "Imagine a twelve-year-old Rossini trying to compose six sonatas for four stringed instruments! It\u2019s like he figured, 'I\u2019ll need a string quartet for my kid genius hits.' And there was a rich patron backing him in 1804, making an investment that seemed way better than listening to neighbors argue about whose cow mooed the loudest!"
+    },
+    {
+      "section": "Life and career",
+      "title": "Success with La cambiale di matrimonio",
+      "summary": "Rossini's first opera to be staged, La cambiale di matrimonio, premiered in November 1810 at the Teatro San Mois\u00e8, marking the start of his successful operatic career.",
       "year": 1810,
-      "city": "Venice",
-      "country": "Italy"
+      "location": "Teatro San Mois\u00e8, Italy",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Once upon a time in November 1810, at the Teatro San Mois\u00e8, an opera popped onto the stage like a well-prepared souffl\u00e9 \u2013 it was Rossini\u2019s first mix of musical magic, *La cambiale di matrimonio*. This moment marked the glorious start of his operatic saga."
     },
     {
-      "event": "Naples Engagement",
-      "summary": "In a pivotal career move, Rossini strutted his stuff to Naples, where he was officially engaged to churn out operas and manage theaters. It was like being hired as the star chef in a world-class restaurant!",
+      "section": "Life and career",
+      "title": "First Opera",
+      "summary": "In 1810, at the request of tenor Domenico Mombelli, Rossini wrote his first operatic score, Demetrio e Polibio. It was publicly staged in 1812 following his earlier successes as a composer.",
+      "year": 1812,
+      "location": "Not specified",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "In 1810, asked by tenor Domenico Mombelli, and riding high on his earlier successes, Rossini decided to try his hand at composing opera. He whipped up \u2018Demetrio e Polibio\u2019! It finally hit the stage in 1812."
+    },
+    {
+      "section": "Life and career",
+      "title": "Move to Naples",
+      "summary": "In May 1815, Rossini moved to Naples to take up the position of director of music for the royal theatres, which included the Teatro di San Carlo, enhancing his career significantly.",
       "year": 1815,
-      "city": "Naples",
-      "country": "Italy"
+      "location": "Naples, Italy",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In May 1815, Rossini moved to Naples to take up the prestigious job of director of music for the royal theatres, which included the Teatro di San Carlo. This position enhanced his career significantly and allowed him to show off his musical talent."
     },
     {
-      "event": "Creation of Il barbiere di Siviglia",
-      "summary": "Despite a rocky start with a botched premiere, Rossini's adaptation of The Barber of Seville soon became a perpetual favorite, proving that a bad opening night is just a warm-up act for a legendary career.",
-      "year": 1816,
-      "city": "Rome",
-      "country": "Italy"
-    },
-    {
-      "event": "Paris Contract",
-      "summary": "Rossini became a hot commodity when he signed a contract with the Paris Opera. He basically became the go-to guy for lavish productions and elegant soir\u00e9es, proving that opera was as much about the social scene as it was about the music.",
-      "year": 1824,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Last Opera",
-      "summary": "After a brief whirlwind of creativity, Rossini decided to hang up his composing hat at fifty, leaving behind a legacy with a dramatic flair. His last opera was a riveting piece, fittingly tied to his love of grand gestures, showcasing an exit that rivaled even the most elaborate of operatic finales.",
-      "year": 1829,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Musical Salons",
-      "summary": "In his later years, Rossini found joy in hosting vibrant musical salons that drew the cr\u00e8me de la cr\u00e8me of the artistic world. Guests marveled at his witty compositions, proving that even in retirement, he could throw the best parties in town.",
-      "year": 1855,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Last Major Work",
-      "summary": "Rossini made a grand artistic statement with his Petite messe solennelle, reminding everyone that even after stepping back from the limelight, his flair for drama and innovation was still very much alive!",
-      "year": 1863,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Marriage to Colbran",
-      "summary": "In a romantic twist of fate, Rossini married his beloved Colbran in a small church, showcasing that even amidst opera and insurrection, love finds a way. They broke their journey at Bologna for this momentous occasion, making it clear that dinner plans were not the only things on the menu!",
+      "section": "Life and career",
+      "title": "Marriage to Isabella Colbran",
+      "summary": "In March 1822, Rossini married Isabella Colbran, the prima donna of the Teatro San Carlo, in a private ceremony in Bologna.",
       "year": 1822,
-      "city": "Bologna",
-      "country": "Italy"
+      "location": "Bologna, Italy",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "In March 1822, Rossini tied the knot with Isabella Colbran, the diva of the Teatro San Carlo, in a private ceremony in Bologna. Guess he realized that having an opera star as a wife means you\u2019ll always have a soprano to sing your praises, all while keeping the ceremony just between the two of them!"
     },
     {
-      "event": "Hero's welcome in Vienna",
-      "summary": "Upon arriving in Vienna, Rossini was greeted with such fervor that it was described as 'Rossini fever'\u2014a remarkable reception that could rival modern fan conventions. His music was so adored that even Beethoven's assistant suggested the audience was caught in an 'idolatrous orgy' of applause!",
-      "year": 1822,
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    {
-      "event": "Premiere of Semiramide",
-      "summary": "The premiere of Semiramide saw Colbran in the leading role, but unfortunately, her voice wasn't ready for the grand finale\u2014talk about a plot twist! Despite the drama, the opera became a staple of the repertoire and marked a sparkling end note to Rossini's Italian career.",
-      "year": 1823,
-      "city": "Venice",
-      "country": "Italy"
-    },
-    {
-      "event": "Arrival in London",
-      "summary": "Rossini landed in London, where he was welcomed by King George IV\u2014though it seems the composer had reached a point in his life where royal greetings were no longer the high point. After signing lucrative contracts, he still felt more aligned with French culture and vowed never to let British cuisine ruin his appetite again!",
-      "year": 1823,
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    {
-      "event": "First new work for Paris",
-      "summary": "Rossini composed Il viaggio a Reims, celebrating Charles X's coronation with a grand \u2018operatic entertainment.\u2019 Too bad he didn't stick around for its success\u2014because he only permitted a mere four performances! It was his way of keeping things exclusive, like a VIP club for opera enthusiasts.",
+      "section": "Life and career",
+      "title": "Completion of Il viaggio a Reims",
+      "summary": "Rossini's first new opera for Paris was Il viaggio a Reims, premiered in June 1825 to celebrate the coronation of King Charles X, marking the beginning of his major work in Paris.",
       "year": 1825,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris, France",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Imagine Rossini, the opera magician, whipping up his first show in Paris just in time to throw a coronation party for King Charles X! \u2018Il viaggio a Reims\u2019 debuted in June 1825, marking the beginning of his major works in Paris. Clearly, he knew that a big crown demands an even bigger tune! Who needs a royal entourage when you can have a dramatic aria?"
     },
     {
-      "event": "Loss of his mother",
-      "summary": "In a bittersweet twist, Rossini experienced the profound loss of his mother, Anna. With her passing, he entered a new chapter that didn't just shake emotional foundations but also his personal life, making his wife the only woman left at home to claim his attention\u2014poor Colbran!",
-      "year": 1827,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Creation of Le comte Ory",
-      "summary": "Rossini wrote Le comte Ory, creating his only French-language comic opera. The catch? He reused music from Il viaggio a Reims which, let\u2019s say, made things a tad complicated for his librettists. It was a musical puzzle that somehow paid off when it became a smash hit!",
-      "year": 1828,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Premiere of Guillaume Tell",
-      "summary": "With the release of Guillaume Tell, Rossini unleashed a grand opera that had the public and orchestra celebrating outside his window. Even the critics agreed that it was exquisite, zeroing in on the classic Rossini magic while also prompting the awkward discussion about whether God helped with the middle act\u2014who could blame them for asking?",
+      "section": "Life and career",
+      "title": "Premier of Guillaume Tell",
+      "summary": "Guillaume Tell, Rossini's final opera, was well received upon its premiere, with audiences gathering outside his house to celebrate the occasion.",
       "year": 1829,
-      "city": "Paris",
-      "country": "France"
+      "location": "Paris, France",
+      "emoji": "\ud83c\udf89",
+      "fun_version": "Guillaume Tell, Rossini's last opera, had audiences so excited at the premiere that they practically turned his house into a party venue! Just imagine everyone outside celebrating and singing, 'Hooray for the man who shot an apple off a guy's head!' They were really thrilled about the occasion."
     },
     {
-      "event": "Withdrawal from opera",
-      "summary": "In a plot twist that would shock the audience, Rossini decided to retire from opera after Guillaume Tell. At just thirty-seven, he was likened to Shakespeare, leaving performers and composers puzzled by the mystery of his sudden disappearance from the stage\u2014perhaps he simply needed a snack and a nap!",
-      "year": 1830,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Married Olympe P\u00e9lissier",
-      "summary": "After years of artistic separation from Colbran, Rossini ultimately tied the knot with Olympe P\u00e9lissier, a dramatic turn indeed! This occasion concluded an era and opened a new chapter filled with gourmet delights and much less opera, because who needs that when you have love?",
-      "year": 1846,
-      "city": "Bologna",
-      "country": "Italy"
-    },
-    {
-      "event": "Marriage to P\u00e9lissier",
-      "summary": "Rossini tied the knot with his beloved P\u00e9lissier in Bologna, proving that even a music genius can find time for romance amidst the chaos of his career.",
-      "year": 1849,
-      "city": "Bologna",
-      "country": "Italy"
-    },
-    {
-      "event": "Move to Florence",
-      "summary": "In the wake of the 1848 revolutions, Rossini fled Bologna like a startled pigeon, setting up shop in Florence and claiming it as his musical HQ until 1855.",
-      "year": 1848,
-      "city": "Florence",
-      "country": "Italy"
-    },
-    {
-      "event": "Final Journey to Paris",
-      "summary": "After realizing that his health was in worse shape than a poorly tuned piano, Rossini and his wife packed their bags for Paris, where he was once again about to experience a second act in life.",
-      "year": 1855,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "First Saturday Evening Salon",
-      "summary": "Rossini kicked off his infamous Saturday evening salons, where the musical elite gathered like moths to a flame, proving his social life was just as extravagant as his operas.",
-      "year": 1858,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Presentation of Musique anodine",
-      "summary": "He dedicated the song cycle Musique anodine to his wife, capturing the essence of gratitude with a sprinkle of comedic irony \u2013 is there a better way to say 'I love you' than with music?",
-      "year": 1857,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "First Performance of Petite messe solennelle",
-      "summary": "Rossini decided to unveil one of his few public pieces, the Petite messe solennelle, proving that he hadn't entirely retired but was just waiting for the right moment.",
-      "year": 1864,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Awarded Legion of Honour",
-      "summary": "In recognition of his contributions, Napoleon III made Rossini a grand officer of the Legion of Honour \u2013 apparently, musical genius really does come with perks!",
-      "year": 1864,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Death",
-      "summary": "After a remarkable life filled with music, salons, and a touch of celebrity, Rossini passed away, leaving behind a legacy that would ensure his music never went out of style, much like a timeless fashion.",
+      "section": "Life and career",
+      "title": "Death",
+      "summary": "Rossini passed away at the age of seventy-six after a brief illness following an unsuccessful operation to treat colorectal cancer, marking the end of a distinguished career.",
       "year": 1868,
-      "city": "Passy",
-      "country": "France"
-    },
-    {
-      "event": "Premiered Tancredi",
-      "summary": "In a spectacular rising star moment, Rossini premiered his opera Tancredi in Venice, instantly elevating him to the ranks of the top opera composers. The audience was so amazed they probably considered him the Mozart of their time, minus the wigs!",
-      "year": 1813,
-      "city": "Venice",
-      "country": "Italy"
-    },
-    {
-      "event": "Premiered L'italiana in Algeri",
-      "summary": "Barely a few months after Tancredi, Rossini unleashed another hit with L'italiana in Algeri. The comic opera was so entertaining that it became the talk of the town, proving that Rossini could not only bring the drama but also the laughs!",
-      "year": 1813,
-      "city": "Venice",
-      "country": "Italy"
-    },
-    {
-      "event": "Contract with Domenico Barbaja",
-      "summary": "Rossini snagged a seven-year contract in Naples with Theatre manager Domenico Barbaja, marking his royal entry into the opera scene. It was like a season ticket to creativity, giving him the freedom to flex his musical muscles!",
-      "year": 1815,
-      "city": "Naples",
-      "country": "Italy"
-    },
-    {
-      "event": "Premiered Otello",
-      "summary": "With Otello, Rossini not only showed off his mastery over dramatic composition but also revealed his talent for jolly vocal lines, leaving the audience wondering if they were at a poetry slam or an opera house!",
-      "year": 1816,
-      "city": "Naples",
-      "country": "Italy"
-    },
-    {
-      "event": "Premiered Il barbiere di Siviglia",
-      "summary": "Rossini's Il barbiere di Siviglia premiered, leaving everyone in stitches with Figaro's shenanigans. This opera became so popular that it practically received its own VIP backstage pass in the opera world!",
-      "year": 1816,
-      "city": "Rome",
-      "country": "Italy"
-    },
-    {
-      "event": "Wrote Stabat Mater",
-      "summary": "Even when he took a break from making audiences laugh, Rossini composed the Stabat Mater, making it a sacred work that was about as serious as a musical piece could get, but with enough flair for the opera alum!",
-      "year": 1831,
-      "city": "Bologna",
-      "country": "Italy"
-    },
-    {
-      "event": "Directed Th\u00e9\u00e2tre-Italien",
-      "summary": "Rossini took the reins as director of the Th\u00e9\u00e2tre-Italien in Paris. This gig allowed him to bring Italian opera glamour to the French capital, proving that he could indeed get a crowd on their feet in any city!",
-      "year": 1824,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Premiered Guillaume Tell",
-      "summary": "Rossini celebrated his love for drama and folk music with the premiere of Guillaume Tell, which became such a hit that, just like a great party, it kept getting invited back for encores \u2013 500 performances later, he still had a fan club!",
-      "year": 1829,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Created P\u00e9ch\u00e9s de vieillesse",
-      "summary": "In his twilight years, Rossini humorously churned out a collection called P\u00e9ch\u00e9s de vieillesse (Sins of Old Age), proving that even the greatest can't resist a bit of joviality and nostalgia, leaving plenty of chuckles in his wake!",
-      "year": 1857,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Wrote Petite messe solennelle",
-      "summary": "And then came the Petite messe solennelle, a piece that somehow decided it was too big for the 'petite' label and included a mix of jolly melodies and heartfelt moments, truly a celebration of Rossini's unique style!",
-      "year": 1863,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "First Composition",
-      "summary": "Rossini composed his first opera at a tender age, showcasing his prodigious talent early on. It was a sign that he was not just a little boy singing in the shower, but rather someone destined for the grand stages!",
-      "year": 1810,
-      "city": "Bologna",
-      "country": "Italy"
-    },
-    {
-      "event": "Breakthrough Opera",
-      "summary": "His opera 'Tancredi' premiered, finally allowing him to break free from the clutches of mere mortal existence and step into the world of operatic fame. The applause must have been deafening, or maybe just a lot of over-the-top 'bravos'!",
-      "year": 1813,
-      "city": "Venice",
-      "country": "Italy"
-    },
-    {
-      "event": "Marriage",
-      "summary": "Rossini tied the knot with the famous soprano Isabella Colbran, proving that marrying your muse can definitely spark some fire in your compositions\u2014if not your kitchen!",
-      "year": 1822,
-      "city": "Madrid",
-      "country": "Spain"
-    },
-    {
-      "event": "Rise to Fame",
-      "summary": "He reached the zenith of his career with operas like 'Il barbiere di Siviglia' which became an instant hit. People were swooning over the melodies, while Rossini probably had to swat away flocks of admirers!",
-      "year": 1824,
-      "city": "Rome",
-      "country": "Italy"
-    },
-    {
-      "event": "Retirement Announcement",
-      "summary": "In a plot twist that startled everyone, Rossini announced his retirement from composing operas before he really ran out of ideas, leaving fans wondering if he had taken a permanent vacation from creativity!",
-      "year": 1829,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Return to Composition",
-      "summary": "Despite retiring, Rossini couldn't resist the call of the piano and returned to the drawing board to write his famous 'Stabat Mater', proving that once a composer, always a composer. Who could resist the urge to serenade, after all?",
-      "year": 1841,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "First Operatic Success",
-      "summary": "At a tender age, Rossini composed his first opera and shocked the audience, not with the music but with the amount of arias he packed into one evening.",
-      "year": 1810,
-      "city": "Venice",
-      "country": "Italy"
-    },
-    {
-      "event": "The Barber of Seville Premiere",
-      "summary": "This comedic masterpiece premiered to thunderous applause, proving that sometimes laughter is indeed the best medicine\u2014even if it comes wrapped in an opera.",
-      "year": 1816,
-      "city": "Rome",
-      "country": "Italy"
-    },
-    {
-      "event": "Retirement from Composing Operas",
-      "summary": "After a prolific career, Rossini decided that composing operas was taxing, opting instead for leisurely meals and exquisite desserts\u2014an art form in itself.",
-      "year": 1829,
-      "city": "Paris",
-      "country": "France"
-    },
-    {
-      "event": "Final Work Presentation",
-      "summary": "In a surprising twist, Rossini revealed his final composition in a grand performance, leaving his audience in awe, and perhaps a little curious about what he was cooking up next.",
-      "year": 1864,
-      "city": "Paris",
-      "country": "France"
+      "location": "Passy, France",
+      "emoji": "\ud83d\ude22",
+      "fun_version": "So, Rossini decided to bow out at seventy-six after a brief illness, which followed an unsuccessful colorectal cancer operation. The whole thing turned into an unforgettable career exit!"
     }
   ],
-  "compositions": [
+  "works": [
     {
-      "imslp_url": "https://imslp.org/wiki/Adina_(Rossini,_Gioacchino)",
-      "year": 1818,
-      "title": "Adina"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Amore_mi_assisti_(Rossini,_Gioacchino)",
-      "year": 1814,
-      "title": "Amore mi assisti"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Armida_(Rossini,_Gioacchino)",
-      "year": 1823,
-      "title": "Armida"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Aureliano_in_Palmira_(Rossini,_Gioacchino)",
-      "year": 1812,
-      "title": "Aureliano in Palmira"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Il_barbiere_di_Siviglia_(Rossini,_Gioacchino)",
-      "year": 1816,
-      "title": "Il barbiere di Siviglia"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_cambiale_di_matrimonio_(Rossini,_Gioacchino)",
-      "year": 1810,
-      "title": "La cambiale di matrimonio"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Canone_scherzoso_a_quattro_soprani_democratici_(Rossini,_Gioacchino)",
-      "year": 1849,
-      "title": "Canone scherzoso a quattro soprani democratici"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Canzonetta_spagnuola_(Rossini,_Gioacchino)",
-      "year": 1821,
-      "title": "Canzonetta spagnuola"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Il_Carnevale_di_Venezia_(Rossini,_Gioacchino)",
-      "year": 1821,
-      "title": "Il Carnevale di Venezia"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_Cenerentola_(Rossini,_Gioacchino)",
-      "year": 1817,
-      "title": "La Cenerentola"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ciro_in_Babilonia_(Rossini,_Gioacchino)",
-      "year": 1812,
-      "title": "Ciro in Babilonia"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Le_comte_Ory_(Rossini,_Gioacchino)",
-      "year": 1828,
-      "title": "Le comte Ory"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_Danza_(Rossini,_Gioacchino)",
-      "year": 1830,
-      "title": "La Danza"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Duet_for_Cello_and_Double_Bass_in_D_major_(Rossini,_Gioacchino)",
-      "year": 1824,
-      "title": "Duet for Cello and Double Bass in D major"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Duets_for_2_Horns_(Rossini,_Gioacchino)",
-      "year": 1806,
-      "title": "5 Duets for 2 Horns"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/L%27equivoco_stravagante_(Rossini,_Gioacchino)",
-      "year": 1811,
-      "title": "L'equivoco stravagante"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/L%27Esperance_(Rossini,_Gioacchino)",
-      "year": 1844,
-      "title": "L'Esperance"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Far%C3%B2_come_colui_che_piange_e_dice_(Rossini,_Gioacchino)",
-      "year": 1865,
-      "title": "Far\u00f2 come colui che piange e dice"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_gazza_ladra_(Rossini,_Gioacchino)",
-      "year": 1817,
-      "title": "La gazza ladra"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/A_Grenade_!_(Rossini,_Gioacchino)",
-      "year": 1864,
-      "title": "A Grenade !"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Guillaume_Tell_(Rossini,_Gioacchino)",
-      "year": 1824,
-      "title": "Guillaume Tell"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/L%27inganno_felice_(Rossini,_Gioacchino)",
-      "year": 1812,
-      "title": "L'inganno felice"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Introduzione,_tema_e_variazioni_(Rossini,_Gioacchino)",
-      "year": 1819,
-      "title": "Introduzione, tema e variazioni"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/L%27italiana_in_Algeri_(Rossini,_Gioacchino)",
-      "year": 1813,
-      "title": "L'italiana in Algeri"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Ivanho%C3%A9_(Rossini,_Gioacchino)",
-      "year": 1826,
-      "title": "Ivanho\u00e9"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Maometto_secondo_(Rossini,_Gioacchino)",
-      "year": 1823,
-      "title": "Maometto secondo"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Marche_Militaire_No.1_(Rossini,_Gioacchino)",
-      "year": 1850,
-      "title": "Marche Militaire No.1"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Matilde_di_Shabran_(Rossini,_Gioacchino)",
-      "year": 1822,
-      "title": "Matilde di Shabran"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Messa_di_Gloria_(Rossini,_Gioacchino)",
-      "year": 1820,
-      "title": "Messa di Gloria"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Mos%C3%A8_in_Egitto_(Rossini,_Gioacchino)",
-      "year": 1822,
-      "title": "Mos\u00e8 in Egitto"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/2_Nocturnes_(Rossini,_Gioacchino)",
-      "year": 1836,
-      "title": "2 Nocturnes"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/O_salutaris_Hostia_(Rossini,_Gioacchino)",
-      "year": 1857,
-      "title": "O salutaris Hostia"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/L%27occasione_fa_il_ladro_(Rossini,_Gioacchino)",
-      "year": 1812,
-      "title": "L'occasione fa il ladro"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/L%27orgia_(Rossini,_Gioacchino)",
-      "year": 1835,
-      "title": "L'orgia"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Otello_(Rossini,_Gioacchino)",
-      "year": 1816,
-      "title": "Otello"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_Pastorella_(Rossini,_Gioacchino)",
-      "year": 1840,
-      "title": "La Pastorella"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Per_la_collezione_della_Biblioteca_Reale_di_Berlino_(Rossini,_Gioacchino)",
-      "year": 1844,
-      "title": "Per la collezione della Biblioteca Reale di Berlino"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Petite_messe_solennelle_(Rossini,_Gioacchino)",
-      "year": 1863,
-      "title": "Petite messe solennelle"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_pietra_del_paragone_(Rossini,_Gioacchino)",
-      "year": 1812,
-      "title": "La pietra del paragone"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_Prima_Vera_(Rossini,_Gioacchino)",
-      "year": 1845,
-      "title": "La Prima Vera"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/5_Quatuors_Concertants_(Rossini,_Gioacchino)",
-      "year": 1804,
-      "title": "5 Quatuors Concertants"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Quoniam_(Rossini,_Gioacchino)",
-      "year": 1851,
-      "title": "Quoniam"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_regata_veneziana_(Rossini,_Gioacchino)",
-      "year": 1835,
-      "title": "La regata veneziana"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Le_rendez-vous_de_chasse_(Rossini,_Gioacchino)",
-      "year": 1828,
-      "title": "Le rendez-vous de chasse"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Le_saule_pleureur_(Rossini,_Gioacchino)",
-      "year": 1840,
-      "title": "Le saule pleureur"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/La_scala_di_seta_(Rossini,_Gioacchino)",
-      "year": 1812,
-      "title": "La scala di seta"
-    },
-    {
+      "title": "Se il vuol la molinara",
       "imslp_url": "https://imslp.org/wiki/Se_il_vuol_la_molinara_(Rossini,_Gioacchino)",
-      "year": 1801,
-      "title": "Se il vuol la molinara"
+      "year": 1801
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Semiramide_(Rossini,_Gioacchino)",
-      "year": 1823,
-      "title": "Semiramide"
+      "title": "5 Duets for 2 Horns",
+      "imslp_url": "https://imslp.org/wiki/5_Duets_for_2_Horns_(Rossini,_Gioacchino)",
+      "year": 1806
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Serenata_(Rossini,_Gioacchino)",
-      "year": 1823,
-      "title": "Serenata"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Le_si%C3%A8ge_de_Corinthe_(Rossini,_Gioacchino)",
-      "year": 1826,
-      "title": "Le si\u00e8ge de Corinthe"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Il_signor_Bruschino_(Rossini,_Gioacchino)",
-      "year": 1813,
-      "title": "Il signor Bruschino"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Soir%C3%A9es_musicales_(Rossini,_Gioacchino)",
-      "year": 1830,
-      "title": "Soir\u00e9es musicales"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Stabat_Mater_(Rossini,_Gioacchino)",
-      "year": 1831,
-      "title": "Stabat Mater"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Tancredi_(Rossini,_Gioacchino)",
-      "year": 1813,
-      "title": "Tancredi"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Torvaldo_e_Dorliska_(Rossini,_Gioacchino)",
-      "year": 1815,
-      "title": "Torvaldo e Dorliska"
-    },
-    {
-      "imslp_url": "https://imslp.org/wiki/Il_turco_in_Italia_(Rossini,_Gioacchino)",
-      "year": 1813,
-      "title": "Il turco in Italia"
-    },
-    {
+      "title": "Variazzioni di clarinetto",
       "imslp_url": "https://imslp.org/wiki/Variazzioni_di_clarinetto_(Rossini,_Gioacchino)",
-      "year": 1809,
-      "title": "Variazzioni di clarinetto"
+      "year": 1809
     },
     {
-      "imslp_url": "https://imslp.org/wiki/La_Veuve_andalouse_(Rossini,_Gioacchino)",
-      "year": 1864,
-      "title": "La Veuve andalouse"
+      "title": "La cambiale di matrimonio",
+      "imslp_url": "https://imslp.org/wiki/La_cambiale_di_matrimonio_(Rossini,_Gioacchino)",
+      "year": 1810
     },
     {
+      "title": "L'equivoco stravagante",
+      "imslp_url": "https://imslp.org/wiki/L'equivoco_stravagante_(Rossini,_Gioacchino)",
+      "year": 1811
+    },
+    {
+      "title": "Aureliano in Palmira",
+      "imslp_url": "https://imslp.org/wiki/Aureliano_in_Palmira_(Rossini,_Gioacchino)",
+      "year": 1812
+    },
+    {
+      "title": "Ciro in Babilonia",
+      "imslp_url": "https://imslp.org/wiki/Ciro_in_Babilonia_(Rossini,_Gioacchino)",
+      "year": 1812
+    },
+    {
+      "title": "L'inganno felice",
+      "imslp_url": "https://imslp.org/wiki/L'inganno_felice_(Rossini,_Gioacchino)",
+      "year": 1812
+    },
+    {
+      "title": "L'occasione fa il ladro",
+      "imslp_url": "https://imslp.org/wiki/L'occasione_fa_il_ladro_(Rossini,_Gioacchino)",
+      "year": 1812
+    },
+    {
+      "title": "La pietra del paragone",
+      "imslp_url": "https://imslp.org/wiki/La_pietra_del_paragone_(Rossini,_Gioacchino)",
+      "year": 1812
+    },
+    {
+      "title": "La scala di seta",
+      "imslp_url": "https://imslp.org/wiki/La_scala_di_seta_(Rossini,_Gioacchino)",
+      "year": 1812
+    },
+    {
+      "title": "Il signor Bruschino",
+      "imslp_url": "https://imslp.org/wiki/Il_signor_Bruschino_(Rossini,_Gioacchino)",
+      "year": 1813
+    },
+    {
+      "title": "Il turco in Italia",
+      "imslp_url": "https://imslp.org/wiki/Il_turco_in_Italia_(Rossini,_Gioacchino)",
+      "year": 1813
+    },
+    {
+      "title": "L'italiana in Algeri",
+      "imslp_url": "https://imslp.org/wiki/L'italiana_in_Algeri_(Rossini,_Gioacchino)",
+      "year": 1813
+    },
+    {
+      "title": "Tancredi",
+      "imslp_url": "https://imslp.org/wiki/Tancredi_(Rossini,_Gioacchino)",
+      "year": 1813
+    },
+    {
+      "title": "Amore mi assisti",
+      "imslp_url": "https://imslp.org/wiki/Amore_mi_assisti_(Rossini,_Gioacchino)",
+      "year": 1814
+    },
+    {
+      "title": "Torvaldo e Dorliska",
+      "imslp_url": "https://imslp.org/wiki/Torvaldo_e_Dorliska_(Rossini,_Gioacchino)",
+      "year": 1815
+    },
+    {
+      "title": "Il barbiere di Siviglia",
+      "imslp_url": "https://imslp.org/wiki/Il_barbiere_di_Siviglia_(Rossini,_Gioacchino)",
+      "year": 1816
+    },
+    {
+      "title": "Otello",
+      "imslp_url": "https://imslp.org/wiki/Otello_(Rossini,_Gioacchino)",
+      "year": 1816
+    },
+    {
+      "title": "La Cenerentola",
+      "imslp_url": "https://imslp.org/wiki/La_Cenerentola_(Rossini,_Gioacchino)",
+      "year": 1817
+    },
+    {
+      "title": "La gazza ladra",
+      "imslp_url": "https://imslp.org/wiki/La_gazza_ladra_(Rossini,_Gioacchino)",
+      "year": 1817
+    },
+    {
+      "title": "Adina",
+      "imslp_url": "https://imslp.org/wiki/Adina_(Rossini,_Gioacchino)",
+      "year": 1818
+    },
+    {
+      "title": "Introduzione, tema e variazioni",
+      "imslp_url": "https://imslp.org/wiki/Introduzione,_tema_e_variazioni_(Rossini,_Gioacchino)",
+      "year": 1819
+    },
+    {
+      "title": "Messa di Gloria",
+      "imslp_url": "https://imslp.org/wiki/Messa_di_Gloria_(Rossini,_Gioacchino)",
+      "year": 1820
+    },
+    {
+      "title": "Canzonetta spagnuola",
+      "imslp_url": "https://imslp.org/wiki/Canzonetta_spagnuola_(Rossini,_Gioacchino)",
+      "year": 1821
+    },
+    {
+      "title": "Il Carnevale di Venezia",
+      "imslp_url": "https://imslp.org/wiki/Il_Carnevale_di_Venezia_(Rossini,_Gioacchino)",
+      "year": 1821
+    },
+    {
+      "title": "Matilde di Shabran",
+      "imslp_url": "https://imslp.org/wiki/Matilde_di_Shabran_(Rossini,_Gioacchino)",
+      "year": 1822
+    },
+    {
+      "title": "Mos\u00e8 in Egitto",
+      "imslp_url": "https://imslp.org/wiki/Mos\u00e8_in_Egitto_(Rossini,_Gioacchino)",
+      "year": 1822
+    },
+    {
+      "title": "Armida",
+      "imslp_url": "https://imslp.org/wiki/Armida_(Rossini,_Gioacchino)",
+      "year": 1823
+    },
+    {
+      "title": "Maometto secondo",
+      "imslp_url": "https://imslp.org/wiki/Maometto_secondo_(Rossini,_Gioacchino)",
+      "year": 1823
+    },
+    {
+      "title": "Semiramide",
+      "imslp_url": "https://imslp.org/wiki/Semiramide_(Rossini,_Gioacchino)",
+      "year": 1823
+    },
+    {
+      "title": "Serenata",
+      "imslp_url": "https://imslp.org/wiki/Serenata_(Rossini,_Gioacchino)",
+      "year": 1823
+    },
+    {
+      "title": "Duet for Cello and Double Bass in D major",
+      "imslp_url": "https://imslp.org/wiki/Duet_for_Cello_and_Double_Bass_in_D_major_(Rossini,_Gioacchino)",
+      "year": 1824
+    },
+    {
+      "title": "Guillaume Tell",
+      "imslp_url": "https://imslp.org/wiki/Guillaume_Tell_(Rossini,_Gioacchino)",
+      "year": 1824
+    },
+    {
+      "title": "Il viaggio a Reims",
       "imslp_url": "https://imslp.org/wiki/Il_viaggio_a_Reims_(Rossini,_Gioacchino)",
-      "year": 1825,
-      "title": "Il viaggio a Reims"
+      "year": 1825
     },
     {
-      "imslp_url": "https://imslp.org/wiki/Robert_Bruce_(Rossini,_Gioacchino)",
-      "year": 1847,
-      "title": "Robert Bruce"
+      "title": "Ivanho\u00e9",
+      "imslp_url": "https://imslp.org/wiki/Ivanho\u00e9_(Rossini,_Gioacchino)",
+      "year": 1826
     },
     {
-      "imslp_url": "https://imslp.org/wiki/P%C3%A9ch%C3%A9s_de_vieillesse_(Rossini,_Gioacchino)",
-      "year": 1857,
-      "title": "P\u00e9ch\u00e9s de vieillesse"
+      "title": "Le si\u00e8ge de Corinthe",
+      "imslp_url": "https://imslp.org/wiki/Le_si\u00e8ge_de_Corinthe_(Rossini,_Gioacchino)",
+      "year": 1826
     },
     {
-      "imslp_url": "https://imslp.org/wiki/6_Sonate_a_quattro_(Rossini,_Gioacchino)",
-      "year": 1804,
-      "title": "6 Sonate a quattro"
+      "title": "Le comte Ory",
+      "imslp_url": "https://imslp.org/wiki/Le_comte_Ory_(Rossini,_Gioacchino)",
+      "year": 1828
+    },
+    {
+      "title": "Le rendez-vous de chasse",
+      "imslp_url": "https://imslp.org/wiki/Le_rendez-vous_de_chasse_(Rossini,_Gioacchino)",
+      "year": 1828
+    },
+    {
+      "title": "Soir\u00e9es musicales",
+      "imslp_url": "https://imslp.org/wiki/Soir\u00e9es_musicales_(Rossini,_Gioacchino)",
+      "year": 1830
+    },
+    {
+      "title": "Stabat Mater",
+      "imslp_url": "https://imslp.org/wiki/Stabat_Mater_(Rossini,_Gioacchino)",
+      "year": 1831
+    },
+    {
+      "title": "L'orgia",
+      "imslp_url": "https://imslp.org/wiki/L'orgia_(Rossini,_Gioacchino)",
+      "year": 1835
+    },
+    {
+      "title": "La regata veneziana",
+      "imslp_url": "https://imslp.org/wiki/La_regata_veneziana_(Rossini,_Gioacchino)",
+      "year": 1835
+    },
+    {
+      "title": "2 Nocturnes",
+      "imslp_url": "https://imslp.org/wiki/2_Nocturnes_(Rossini,_Gioacchino)",
+      "year": 1836
+    },
+    {
+      "title": "La Pastorella",
+      "imslp_url": "https://imslp.org/wiki/La_Pastorella_(Rossini,_Gioacchino)",
+      "year": 1840
+    },
+    {
+      "title": "Le saule pleureur",
+      "imslp_url": "https://imslp.org/wiki/Le_saule_pleureur_(Rossini,_Gioacchino)",
+      "year": 1840
+    },
+    {
+      "title": "L'Esperance",
+      "imslp_url": "https://imslp.org/wiki/L'Esperance_(Rossini,_Gioacchino)",
+      "year": 1844
+    },
+    {
+      "title": "Per la collezione della Biblioteca Reale di Berlino",
+      "imslp_url": "https://imslp.org/wiki/Per_la_collezione_della_Biblioteca_Reale_di_Berlino_(Rossini,_Gioacchino)",
+      "year": 1844
+    },
+    {
+      "title": "La Prima Vera",
+      "imslp_url": "https://imslp.org/wiki/La_Prima_Vera_(Rossini,_Gioacchino)",
+      "year": 1845
+    },
+    {
+      "title": "Canone scherzoso a quattro soprani democratici",
+      "imslp_url": "https://imslp.org/wiki/Canone_scherzoso_a_quattro_soprani_democratici_(Rossini,_Gioacchino)",
+      "year": 1849
+    },
+    {
+      "title": "Marche Militaire No.1",
+      "imslp_url": "https://imslp.org/wiki/Marche_Militaire_No.1_(Rossini,_Gioacchino)",
+      "year": 1850
+    },
+    {
+      "title": "Quoniam",
+      "imslp_url": "https://imslp.org/wiki/Quoniam_(Rossini,_Gioacchino)",
+      "year": 1851
+    },
+    {
+      "title": "O salutaris Hostia",
+      "imslp_url": "https://imslp.org/wiki/O_salutaris_Hostia_(Rossini,_Gioacchino)",
+      "year": 1857
+    },
+    {
+      "title": "Petite messe solennelle",
+      "imslp_url": "https://imslp.org/wiki/Petite_messe_solennelle_(Rossini,_Gioacchino)",
+      "year": 1863
+    },
+    {
+      "title": "A Grenade !",
+      "imslp_url": "https://imslp.org/wiki/A_Grenade_!_(Rossini,_Gioacchino)",
+      "year": 1864
+    },
+    {
+      "title": "La Veuve andalouse",
+      "imslp_url": "https://imslp.org/wiki/La_Veuve_andalouse_(Rossini,_Gioacchino)",
+      "year": 1864
+    },
+    {
+      "title": "Far\u00f2 come colui che piange e dice",
+      "imslp_url": "https://imslp.org/wiki/Far\u00f2_come_colui_che_piange_e_dice_(Rossini,_Gioacchino)",
+      "year": 1865
     }
   ]
 }

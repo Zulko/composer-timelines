@@ -1,0 +1,388 @@
+{
+  "full_name": "Mily Balakirev",
+  "first_names": "Mily Alexeyevich",
+  "last_name": "Balakirev",
+  "birth_year": 1837,
+  "death_year": 1910,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mily_Balakirev",
+  "events": [
+    {
+      "section": "Life",
+      "title": "Birth",
+      "summary": "Mily Balakirev was born into a noble Russian family and showed musical talents from an early age. His mother, a piano teacher, gave him lessons starting at the age of four.",
+      "year": 1837,
+      "location": "Nizhny Novgorod",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "Mily Balakirev was born into a noble Russian family, where playing music was about as mandatory as wearing a fur hat. His mother, a piano teacher, started giving him lessons at the age of four\u2014because nothing says 'noble upbringing' like turning your toddler into a tiny Chopin!"
+    },
+    {
+      "section": "Life",
+      "title": "Early Musical Training",
+      "summary": "After the death of his mother, Balakirev was transferred to a noble institute where his musical abilities were recognized. He had a patron, Alexander Ulybyshev, who supported his musical education and provided him opportunities to explore music.",
+      "year": 1849,
+      "location": "Nizhny Novgorod",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Balakirev's life took a dramatic twist after his mother passed away, and he was sent to a noble institute, where his musical talents were recognized. Thankfully, he had a patron named Alexander Ulybyshev, who believed in his musical genius and supported his education. Ulybyshev provided him opportunities to explore music and turn his dreams into a symphony."
+    },
+    {
+      "section": "Life",
+      "title": "Debut Performance",
+      "summary": "Balakirev made his debut in a university concert performing his First Piano Concerto, showcasing his growing reputation as a composer and pianist.",
+      "year": 1856,
+      "location": "Saint Petersburg",
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "You know it\u2019s a big deal when Balakirev struts into a university concert like he owns the stage, playing his First Piano Concerto to showcase his growing reputation as a composer and pianist! They say he's got a rising star on the piano\u2026and no, it\u2019s not just the stage lights blinding everyone!"
+    },
+    {
+      "section": "Life",
+      "title": "Formation of The Five",
+      "summary": "Balakirev assembled a group of composers known as The Five, which included prominent musicians who shared his vision of a distinctly Russian school of music. This collaboration was a response to Western influences in Russian classical music.",
+      "year": 1858,
+      "location": "Russia",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Balakirev gathered a group of composers known as The Five, akin to a superhero squad on a musical mission, determined to respond to Western influences by creating a distinctly Russian school of music. Together, they aimed to preserve the authenticity of Russian classical music with a vision all their own."
+    },
+    {
+      "section": "Life",
+      "title": "Directorship of Free School of Music",
+      "summary": "Balakirev accepted the directorship of the Free School of Music, which aimed to provide music education without charge and support the development of a distinct Russian music tradition.",
+      "year": 1862,
+      "location": "Saint Petersburg",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Balakirev, a brave soul, took on the monumental task of directing the Free School of Music, where they educate music enthusiasts for free! Yes, you heard that right\u2014gratis! It's like getting a gourmet meal without the bill, but instead of a fancy chef, you have Balakirev trying to bake some distinctly Russian music pies, all while supporting the development of a unique Russian music tradition!"
+    },
+    {
+      "section": "Life",
+      "title": "Collaboration with Tchaikovsky",
+      "summary": "He developed a significant friendship with Pyotr Ilyich Tchaikovsky, helping him produce his first masterpiece, the fantasy-overture Romeo and Juliet, which marked a collaborative peak in Balakirev's career.",
+      "year": 1869,
+      "location": "Saint Petersburg",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Once upon a time, in a land where high notes were as plentiful as concert snacks, a fellow named Balakirev developed a significant friendship with the musical wizard Pyotr Ilyich Tchaikovsky. Together, they produced Tchaikovsky's first masterpiece: the fantasy-overture 'Romeo and Juliet.' This collaboration marked a significant peak in Balakirev's career, and the music world was never the same again!"
+    },
+    {
+      "section": "Life",
+      "title": "Leadership Changes at RMS",
+      "summary": "Following his dismissal from the Russian Musical Society, Balakirev faced challenges in promoting modern repertoire, leading to the decline of the Free School and his own reputation in the music scene.",
+      "year": 1869,
+      "location": "Saint Petersburg",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Balakirev was kicked out of the Russian Musical Society, which is about as welcome as a cat at a dog show. Now he's trying to promote modern music, but it\u2019s going as smoothly as a tap-dancing elephant. With the Free School falling apart and his own reputation in the music scene going down, it looks like he might need a new plan!"
+    },
+    {
+      "section": "Life",
+      "title": "Return to Composition",
+      "summary": "After a five-year break due to mental health issues, Balakirev began to slowly reemerge into the music world, working on various compositions and engaging with former colleagues.",
+      "year": 1876,
+      "location": "Saint Petersburg",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "After a five-year break due to mental health issues, Balakirev slowly decided to rejoin the music world! He\u2019s been working on various compositions and reconnecting with his former colleagues."
+    },
+    {
+      "section": "Life",
+      "title": "Final Years and Death",
+      "summary": "Balakirev returned to composing intensively, completing numerous works until his death in 1910, spanning a long and impactful career in Russian music.",
+      "year": 1910,
+      "location": "Saint Petersburg",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Balakirev returned to composing intensively, churning out works like a machine at a bakery until he eventually ran out of time in 1910. He completed numerous works and had a long and impactful career in Russian music that was longer than a Russian winter and had more impact than a bear at a picnic!"
+    }
+  ],
+  "works": [
+    {
+      "title": "Octet, Op.3",
+      "imslp_url": "https://imslp.org/wiki/Octet,_Op.3_(Balakirev,_Mily)",
+      "year": 1855
+    },
+    {
+      "title": "Reminiscences from 'A Life for the Tsar'",
+      "imslp_url": "https://imslp.org/wiki/Reminiscences_from_'A_Life_for_the_Tsar'_(Balakirev,_Mily)",
+      "year": 1855
+    },
+    {
+      "title": "Piano Sonata No.1, Op.5",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.1,_Op.5_(Balakirev,_Mily)",
+      "year": 1856
+    },
+    {
+      "title": "Scherzo No.1",
+      "imslp_url": "https://imslp.org/wiki/Scherzo_No.1_(Balakirev,_Mily)",
+      "year": 1856
+    },
+    {
+      "title": "Overture on a Spanish March Theme, Op.6",
+      "imslp_url": "https://imslp.org/wiki/Overture_on_a_Spanish_March_Theme,_Op.6_(Balakirev,_Mily)",
+      "year": 1857
+    },
+    {
+      "title": "Polka",
+      "imslp_url": "https://imslp.org/wiki/Polka_(Balakirev,_Mily)",
+      "year": 1857
+    },
+    {
+      "title": "King Lear",
+      "imslp_url": "https://imslp.org/wiki/King_Lear_(Balakirev,_Mily)",
+      "year": 1858
+    },
+    {
+      "title": "Ouverture on 3 Russian Themes No.1",
+      "imslp_url": "https://imslp.org/wiki/Ouverture_on_3_Russian_Themes_No.1_(Balakirev,_Mily)",
+      "year": 1858
+    },
+    {
+      "title": "Mazurka No.1",
+      "imslp_url": "https://imslp.org/wiki/Mazurka_No.1_(Balakirev,_Mily)",
+      "year": 1859
+    },
+    {
+      "title": "Mazurka No.2",
+      "imslp_url": "https://imslp.org/wiki/Mazurka_No.2_(Balakirev,_Mily)",
+      "year": 1860
+    },
+    {
+      "title": "Piano Concerto No.2",
+      "imslp_url": "https://imslp.org/wiki/Piano_Concerto_No.2_(Balakirev,_Mily)",
+      "year": 1862
+    },
+    {
+      "title": "Georgian Song",
+      "imslp_url": "https://imslp.org/wiki/Georgian_Song_(Balakirev,_Mily)",
+      "year": 1863
+    },
+    {
+      "title": "On the Volga",
+      "imslp_url": "https://imslp.org/wiki/On_the_Volga_(Balakirev,_Mily)",
+      "year": 1863
+    },
+    {
+      "title": "Russia",
+      "imslp_url": "https://imslp.org/wiki/Russia_(Balakirev,_Mily)",
+      "year": 1863
+    },
+    {
+      "title": "Symphony No.1 in C major",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.1_in_C_major_(Balakirev,_Mily)",
+      "year": 1864
+    },
+    {
+      "title": "Symphony No.2 in D minor",
+      "imslp_url": "https://imslp.org/wiki/Symphony_No.2_in_D_minor_(Balakirev,_Mily)",
+      "year": 1864
+    },
+    {
+      "title": "Overture on Czech Themes 'In Bohemia'",
+      "imslp_url": "https://imslp.org/wiki/Overture_on_Czech_Themes_'In_Bohemia'_(Balakirev,_Mily)",
+      "year": 1867
+    },
+    {
+      "title": "Tamara",
+      "imslp_url": "https://imslp.org/wiki/Tamara_(Balakirev,_Mily)",
+      "year": 1867
+    },
+    {
+      "title": "Islamey, Op.18",
+      "imslp_url": "https://imslp.org/wiki/Islamey,_Op.18_(Balakirev,_Mily)",
+      "year": 1869
+    },
+    {
+      "title": "Au jardin",
+      "imslp_url": "https://imslp.org/wiki/Au_jardin_(Balakirev,_Mily)",
+      "year": 1884
+    },
+    {
+      "title": "Mazurka No.3",
+      "imslp_url": "https://imslp.org/wiki/Mazurka_No.3_(Balakirev,_Mily)",
+      "year": 1884
+    },
+    {
+      "title": "Mazurka No.4",
+      "imslp_url": "https://imslp.org/wiki/Mazurka_No.4_(Balakirev,_Mily)",
+      "year": 1884
+    },
+    {
+      "title": "Nocturne No.1",
+      "imslp_url": "https://imslp.org/wiki/Nocturne_No.1_(Balakirev,_Mily)",
+      "year": 1898
+    },
+    {
+      "title": "The Wilderness",
+      "imslp_url": "https://imslp.org/wiki/The_Wilderness_(Balakirev,_Mily)",
+      "year": 1898
+    },
+    {
+      "title": "2 Walzer-Capriccios of Aleksandr Taneyev",
+      "imslp_url": "https://imslp.org/wiki/2_Walzer-Capriccios_of_Aleksandr_Taneyev_(Balakirev,_Mily)",
+      "year": 1900
+    },
+    {
+      "title": "Dumka",
+      "imslp_url": "https://imslp.org/wiki/Dumka_(Balakirev,_Mily)",
+      "year": 1900
+    },
+    {
+      "title": "Mazurka No.5",
+      "imslp_url": "https://imslp.org/wiki/Mazurka_No.5_(Balakirev,_Mily)",
+      "year": 1900
+    },
+    {
+      "title": "Piano Sonata No.2",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_No.2_(Balakirev,_Mily)",
+      "year": 1900
+    },
+    {
+      "title": "R\u00eaverie de Sapolski",
+      "imslp_url": "https://imslp.org/wiki/R\u00eaverie_de_Sapolski_(Balakirev,_Mily)",
+      "year": 1900
+    },
+    {
+      "title": "Scherzo No.2",
+      "imslp_url": "https://imslp.org/wiki/Scherzo_No.2_(Balakirev,_Mily)",
+      "year": 1900
+    },
+    {
+      "title": "Waltz No.1",
+      "imslp_url": "https://imslp.org/wiki/Waltz_No.1_(Balakirev,_Mily)",
+      "year": 1900
+    },
+    {
+      "title": "Waltz No.2",
+      "imslp_url": "https://imslp.org/wiki/Waltz_No.2_(Balakirev,_Mily)",
+      "year": 1900
+    },
+    {
+      "title": "Gondolier's Song",
+      "imslp_url": "https://imslp.org/wiki/Gondolier's_Song_(Balakirev,_Mily)",
+      "year": 1901
+    },
+    {
+      "title": "Nocturne No.2",
+      "imslp_url": "https://imslp.org/wiki/Nocturne_No.2_(Balakirev,_Mily)",
+      "year": 1901
+    },
+    {
+      "title": "Scherzo No.3",
+      "imslp_url": "https://imslp.org/wiki/Scherzo_No.3_(Balakirev,_Mily)",
+      "year": 1901
+    },
+    {
+      "title": "Tarantella",
+      "imslp_url": "https://imslp.org/wiki/Tarantella_(Balakirev,_Mily)",
+      "year": 1901
+    },
+    {
+      "title": "Waltz No.3",
+      "imslp_url": "https://imslp.org/wiki/Waltz_No.3_(Balakirev,_Mily)",
+      "year": 1901
+    },
+    {
+      "title": "Berceuse",
+      "imslp_url": "https://imslp.org/wiki/Berceuse_(Balakirev,_Mily)",
+      "year": 1902
+    },
+    {
+      "title": "Capriccio",
+      "imslp_url": "https://imslp.org/wiki/Capriccio_(Balakirev,_Mily)",
+      "year": 1902
+    },
+    {
+      "title": "Mazurka No.6",
+      "imslp_url": "https://imslp.org/wiki/Mazurka_No.6_(Balakirev,_Mily)",
+      "year": 1902
+    },
+    {
+      "title": "Nocturne No.3",
+      "imslp_url": "https://imslp.org/wiki/Nocturne_No.3_(Balakirev,_Mily)",
+      "year": 1902
+    },
+    {
+      "title": "Phantasiest\u00fcck",
+      "imslp_url": "https://imslp.org/wiki/Phantasiest\u00fcck_(Balakirev,_Mily)",
+      "year": 1902
+    },
+    {
+      "title": "Spanish Melody",
+      "imslp_url": "https://imslp.org/wiki/Spanish_Melody_(Balakirev,_Mily)",
+      "year": 1902
+    },
+    {
+      "title": "Spanish Serenade",
+      "imslp_url": "https://imslp.org/wiki/Spanish_Serenade_(Balakirev,_Mily)",
+      "year": 1902
+    },
+    {
+      "title": "Toccata",
+      "imslp_url": "https://imslp.org/wiki/Toccata_(Balakirev,_Mily)",
+      "year": 1902
+    },
+    {
+      "title": "Tyrolean Dance",
+      "imslp_url": "https://imslp.org/wiki/Tyrolean_Dance_(Balakirev,_Mily)",
+      "year": 1902
+    },
+    {
+      "title": "Waltz No.4",
+      "imslp_url": "https://imslp.org/wiki/Waltz_No.4_(Balakirev,_Mily)",
+      "year": 1902
+    },
+    {
+      "title": "Chant du p\u00eacheur",
+      "imslp_url": "https://imslp.org/wiki/Chant_du_p\u00eacheur_(Balakirev,_Mily)",
+      "year": 1903
+    },
+    {
+      "title": "Humoresque",
+      "imslp_url": "https://imslp.org/wiki/Humoresque_(Balakirev,_Mily)",
+      "year": 1903
+    },
+    {
+      "title": "R\u00eaverie in F major",
+      "imslp_url": "https://imslp.org/wiki/R\u00eaverie_in_F_major_(Balakirev,_Mily)",
+      "year": 1903
+    },
+    {
+      "title": "Waltz No.5",
+      "imslp_url": "https://imslp.org/wiki/Waltz_No.5_(Balakirev,_Mily)",
+      "year": 1903
+    },
+    {
+      "title": "Waltz No.6",
+      "imslp_url": "https://imslp.org/wiki/Waltz_No.6_(Balakirev,_Mily)",
+      "year": 1903
+    },
+    {
+      "title": "Cantata on the Inauguration of the Glinka Memorial",
+      "imslp_url": "https://imslp.org/wiki/Cantata_on_the_Inauguration_of_the_Glinka_Memorial_(Balakirev,_Mily)",
+      "year": 1904
+    },
+    {
+      "title": "La Fileuse",
+      "imslp_url": "https://imslp.org/wiki/La_Fileuse_(Balakirev,_Mily)",
+      "year": 1906
+    },
+    {
+      "title": "Mazurka No.7",
+      "imslp_url": "https://imslp.org/wiki/Mazurka_No.7_(Balakirev,_Mily)",
+      "year": 1906
+    },
+    {
+      "title": "Novellette",
+      "imslp_url": "https://imslp.org/wiki/Novellette_(Balakirev,_Mily)",
+      "year": 1906
+    },
+    {
+      "title": "Waltz No.7",
+      "imslp_url": "https://imslp.org/wiki/Waltz_No.7_(Balakirev,_Mily)",
+      "year": 1906
+    },
+    {
+      "title": "Impromptu",
+      "imslp_url": "https://imslp.org/wiki/Impromptu_(Balakirev,_Mily)",
+      "year": 1907
+    },
+    {
+      "title": "Sonatina",
+      "imslp_url": "https://imslp.org/wiki/Sonatina_(Balakirev,_Mily)",
+      "year": 1909
+    }
+  ]
+}

@@ -1,27 +1,26 @@
 <div class="About">
   <p>
-    This web app displays timelines of events and works for selected composers.
-    Ever wondered what Haydn was about when Mozart composed his first symphony,
-    what Wagner was brewing when Bizet released Carmen, or what was happening in
-    the world the year Chopin released his Etudes? This app is for you!
-  </p>
-  <p>
-    The events were collected and summarized by ChatGPT (read more <a
+    This page explore the lives of famous composers, with major events collected
+    and summarized from Wikipedia by ChatGPT (read more <a
       href="https://github.com/Zulko/composer-timelines/blob/main/docs/write-up.md"
       target="_blank">here</a
-    > !) and yes, they can be janky at times, but overall I found them pretty useful.
-    The compositions (and links to PDFs) are scraped from IMSLP, so only works in
-    the public domain are referenced. >.
+    >), and lists of works scraped from <a href="https://imslp.org/">IMSLP</a>.
+    The project's
+    <a href="https://github.com/Zulko/composer-timelines" target="_blank">
+      Github page</a
+    > explains how to report issues and add/request other composers.
   </p>
   <p>
-    Go to <a href="https://github.com/Zulko/composer-timelines" target="_blank"
-      >the project's Github page</a
-    > to learn more about the project and how to add/request other composers.
+    Because all these people had depressing lives, I asked ChatGPT to "add some
+    fun" to the write-ups. However ChatGPT is very difficult to rein in when it
+    comes to humor. Watch it as it often misses the mark, abuses tired dad-puns,
+    resorts to stereotypes, and mocks tragic events through the lives of your
+    favorite artists!
   </p>
 </div>
 
 <style>
   .About {
-    margin-top: 3em;
+    margin-bottom: 3em;
   }
 </style>
