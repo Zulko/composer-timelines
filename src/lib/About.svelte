@@ -1,6 +1,6 @@
 <div class="About">
   <p>
-    This page explore the life and work of famous composers, with major events
+    This page explores the life and work of famous composers, with major events
     collected and summarized from Wikipedia by ChatGPT (learn more <a
       href="https://github.com/Zulko/composer-timelines/blob/main/data_collection/collect_data.ipynb"
       target="_blank">here</a
