@@ -31,24 +31,24 @@ jobs:
       - name: Run script.py
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: touch "test.txt"
+        run: echo "boom" > test.txt
         # run: |
         #  python data_collection/add_composer.py --composer "${{ github.event.inputs.composer }}" --target=public/data
 
-      - name: Configure Git
-        run: |
-          git config --global user.name "${{ github.actor }}"
-          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+      # - name: Configure Git
+      #   run: |
+      #     git config --global user.name "${{ github.actor }}"
+      #     git config --global user.email "${{ github.actor }}@users.noreply.github.com"
 
-      - name: Create new branch and commit changes
-        run: |
-          git checkout -b ${{ github.event.inputs.branch_name }}
-          git add .
-          git commit -m "Add composer: ${{ github.event.inputs.composer }}"
+      # - name: Create new branch and commit changes
+      #   run: |
+      #     git checkout -b ${{ github.event.inputs.branch_name }}
+      #     git add .
+      #     git commit -m "Add composer: ${{ github.event.inputs.composer }}"
 
-      - name: Push new branch
-        run: |
-          git push origin ${{ github.event.inputs.branch_name }}
+      # - name: Push new branch
+      #   run: |
+      #     git push origin ${{ github.event.inputs.branch_name }}
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
