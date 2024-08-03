@@ -32,7 +32,7 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
-          python data_collection/script.py --composer "${{ github.event.inputs.composer }}" --target=public/data
+          python data_collection/add_composer.py --composer "${{ github.event.inputs.composer }}" --target=public/data
 
       - name: Configure Git
         run: |

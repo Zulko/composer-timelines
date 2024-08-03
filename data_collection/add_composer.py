@@ -25,8 +25,7 @@ def add_composer(composer_name, target_folder):
     full_name = metadata["full_name"]
 
     if full_name in [c["full_name"] for c in composers]:
-        logging.info(f"{full_name} already in the list.")
-        return
+        raise ValueError(f"{full_name} already in the list.")
 
     birth, death = metadata["birth_year"], metadata["death_year"]
     logging.info(f"Basic info found from wikipedia: {metadata}")
