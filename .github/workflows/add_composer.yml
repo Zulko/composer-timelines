@@ -48,14 +48,12 @@ jobs:
 
       - name: Push new branch
         run: |
-          git push -u origin ${{ github.event.inputs.branch_name }}
+          git push origin ${{ github.event.inputs.branch_name }}
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          base: main # Change this if your default branch is not 'main'
-          branch: ${{ github.event.inputs.branch_name }}
           title: ${{ github.event.inputs.commit_message }}
           body: "This PR was created automatically by GitHub Actions."
           reviewers: "zulko"
