@@ -61,7 +61,7 @@ def _extract_sections_from_wikipedia_page(
     # Adding the intro section, before the first h2 tag
     paragraphs = []
     for element in soup.find_all(["p", "h2"]):
-        if element.name == "h2":
+        if element.name == "h2" and element.get_text() != "Contents":
             break
         if element.name == "p":
             paragraphs.append(element.get_text())
