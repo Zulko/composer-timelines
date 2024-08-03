@@ -27,5 +27,5 @@ dist-ssr
 /data_collection/data/
 /data_collection/utils/web-cache.sqlite
 /data_collection/.ipynb_checkpoints
-
+/data_collection/__pycache__
 .DS_Store
