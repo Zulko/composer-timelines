@@ -1,0 +1,59 @@
+name: Add a composer
+
+on:
+  workflow_dispatch:
+    inputs:
+      composer:
+        description: "The composer to add"
+        required: true
+      branch_name:
+        description: "The name of the branch to create"
+        required: true
+
+jobs:
+  run_add_composers_and_create_pr:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x" # Adjust this to your required Python version
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r data_collection/requirements.txt
+
+      - name: Run script.py
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python data_collection/script.py --composer "${{ github.event.inputs.composer }}" --target=public/data
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+
+      - name: Create new branch and commit changes
+        run: |
+          git checkout -b ${{ github.event.inputs.branch_name }}
+          git add .
+          git commit -m "Add composer: ${{ github.event.inputs.composer }}"
+
+      - name: Push new branch
+        run: |
+          git push origin ${{ github.event.inputs.branch_name }}
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: main # Change this if your default branch is not 'main'
+          head: ${{ github.event.inputs.branch_name }}
+          title: ${{ github.event.inputs.commit_message }}
+          body: "This PR was created automatically by GitHub Actions."
