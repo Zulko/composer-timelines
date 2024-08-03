@@ -46,6 +46,8 @@ jobs:
           git commit -m "Add composer: ${{ github.event.inputs.composer }}"
 
       - name: Push new branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git push origin ${{ github.event.inputs.branch_name }}
 
