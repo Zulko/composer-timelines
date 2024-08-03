@@ -6,8 +6,8 @@ on:
       composer:
         description: "The composer to add"
         required: true
-      branch_name:
-        description: "The name of the branch to create"
+      branch_suffix:
+        description: "The suffix of the branch to create"
         required: true
 
 jobs:
@@ -39,7 +39,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           base: "main"
-          branch: add-composer-${{ github.event.inputs.branch_name }}
+          branch: add-composer-${{ github.event.inputs.branch_suffix }}
           commit-message: Add composer ${{ github.event.inputs.composer }}
           title: Add composer ${{ github.event.inputs.composer }}
           body: "This PR was created automatically by GitHub Actions."
