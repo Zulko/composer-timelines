@@ -1,0 +1,664 @@
+{
+  "full_name": "Johann Strauss I",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Strauss_I",
+  "first_names": "Johann Baptist",
+  "last_name": "Strauss I",
+  "birth_year": 1804,
+  "death_year": 1849,
+  "events": [
+    {
+      "section": "Life and work",
+      "title": "Birth",
+      "summary": "Johann Strauss I was born in Leopoldstadt, which is now part of Vienna. He came from a family of innkeepers and was raised as a Roman Catholic. His mother passed away when he was young, which had a significant impact on his life.",
+      "year": 1804,
+      "location": "Leopoldstadt, Vienna",
+      "emoji": "\ud83c\udfbb",
+      "fun_version": "Johann Strauss I popped onto the scene in Leopoldstadt, which nowadays likes to flaunt its fancy name as Vienna. He came from a family of innkeepers and was raised as a Roman Catholic, which explains his darn good taste in food and music!"
+    },
+    {
+      "section": "Life and work",
+      "title": "Completion of Apprenticeship",
+      "summary": "Strauss completed his apprenticeship as a bookbinder in 1822, which allowed him to pursue music more seriously. He took lessons in violin and viola during this period, marking the beginning of his musical career.",
+      "year": 1822,
+      "location": "Vienna",
+      "emoji": "\ud83d\udcda",
+      "fun_version": "Once upon a time in 1822, Strauss said goodbye to his bookbinding gig and decided to 'string' together a music career. He took lessons in violin and viola, and thus began his melodic rollercoaster!"
+    },
+    {
+      "section": "Life and work",
+      "title": "Formation of Own Band",
+      "summary": "In 1825, Strauss formed his own band and began writing dance music, which led to his eventual success in Vienna's music scene. This decision shaped the future of his career in music composition.",
+      "year": 1825,
+      "location": "Vienna",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "In 1825, Strauss formed his own band, probably thinking, 'If I can\u2019t find a great dance partner, I might as well create my own entourage!' He began writing dance music, which eventually led to his success in Vienna's music scene and ultimately shaped his career in music composition."
+    },
+    {
+      "section": "Life and work",
+      "title": "Marriage to Maria Anna Streim",
+      "summary": "Johann Strauss I married Maria Anna Streim in 1825. Their marriage faced difficulties due to Strauss's extensive touring, which strained their relationship over time.",
+      "year": 1825,
+      "location": "Vienna",
+      "emoji": "\ud83d\udc8d",
+      "fun_version": "Johann Strauss I hitched up with Maria Anna Streim in 1825. Their marriage was like a waltz\u2014beautiful at first but quickly turned into a \u2018step on your toes\u2019 ordeal as Johann danced his way around the world with extensive touring, leaving Maria spinning alone at home and their relationship taking a serious hit!"
+    },
+    {
+      "section": "Life and work",
+      "title": "First Public Performance",
+      "summary": "During the carnival of 1826, Strauss introduced his band to the public of Vienna, which helped establish his reputation as a prominent composer of dance music.",
+      "year": 1826,
+      "location": "Vienna",
+      "emoji": "\ud83c\udf89",
+      "fun_version": "During the carnival of 1826, Strauss decided it was time for his band to crash the Vienna party! This performance helped establish him as the dancing king of composers, winning the hearts of the public with his catchy dance tunes!"
+    },
+    {
+      "section": "Works",
+      "title": "Kettenbr\u00fccke-Walzer",
+      "summary": "The Kettenbr\u00fccke-Walzer, Op. 4, is a charming waltz that reflects the elegance of the Suspension Bridge in Vienna. The composition may conjure scenes of couples gracefully dancing in a picturesque setting, highlighting the beauty of the location.",
+      "year": 1828,
+      "location": "Vienna",
+      "emoji": "\ud83c\udf09",
+      "fun_version": "The Kettenbr\u00fccke-Walzer, Op. 4, is a charming waltz that reflects the elegance of the Suspension Bridge in Vienna! Picture this: couples swirling and twirling like confused swans in a picturesque setting, highlighting the beauty of the location. It\u2019s like a romantic comedy waiting to happen!"
+    },
+    {
+      "section": "Works",
+      "title": "Wiener Carneval",
+      "summary": "The Wiener Carneval, Op. 3, is a lively and festive waltz that captures the spirit of celebration and joy associated with the Viennese Carnival. It is a vibrant and merry composition that is likely to evoke images of dancing and revelry during the carnival season.",
+      "year": 1828,
+      "location": "Vienna",
+      "emoji": "\ud83c\udf89",
+      "fun_version": "The Wiener Carneval, Op. 3, is like a dance-off between the joyous spirit of the Viennese Carnival and an over-caffeinated waltz! Picture a fancy ball where everyone\u2019s twirling, celebrating the distinct joy and revelry of the carnival season. It\u2019s a vibrant spectacle that\u2019s bound to make you think there are more dance moves than people on the floor!"
+    },
+    {
+      "section": "Works",
+      "title": "Tivoli-Rutsch Walzer",
+      "summary": "The Tivoli-Rutsch Walzer, Op. 39, is an enchanting composition that captures the joyous essence of entertainment at the Tivoli Gardens. Its lively rhythm and cheerful melodies invite listeners to experience the fun and excitement of the amusement park.",
+      "year": 1830,
+      "location": "Vienna",
+      "emoji": "\ud83c\udfa2",
+      "fun_version": "The Tivoli-Rutsch Walzer, Op. 39, is like a thrilling rollercoaster ride for your ears\u2014hold on to your hats! This enchanting composition captures the joyous essence of entertainment at the Tivoli Gardens. With its lively rhythm and cheerful melodies, it\u2019s practically begging you to join the fun-filled chaos of the amusement park!"
+    },
+    {
+      "section": "Works",
+      "title": "Paris-Walzer",
+      "summary": "The Paris-Walzer, Op. 101, is a delightful waltz that evokes the charm and romance of Paris. The music reflects the allure of the city, making it a popular choice for dances and celebrations.",
+      "year": 1838,
+      "location": "Paris",
+      "emoji": "\ud83c\uddeb\ud83c\uddf7",
+      "fun_version": "The Paris-Walzer, Op. 101, is a delightful waltz that dances into your heart like a tourist at a Paris caf\u00e9 who\u2019s just discovered the bottom of the croissant basket. The music reflects the allure of the city, making it a popular choice for dances and celebrations, and it's so romantic that even the Eiffel Tower might blush if it had feelings!"
+    },
+    {
+      "section": "Works",
+      "title": "Homage to Queen Victoria",
+      "summary": "Huldigung der K\u00f6nigin Victoria von Grossbritannien, Op. 103, is a grand waltz that pays tribute to Queen Victoria, reflecting the respect and admiration people had for her reign. The composition likely embodies regal grandeur and elegance.",
+      "year": 1840,
+      "location": "Vienna",
+      "emoji": "\ud83d\udc51",
+      "fun_version": "Ah, the Huldigung der K\u00f6nigin Victoria von Grossbritannien, Op. 103\u2014known as the official dance party for the Queen! This grand waltz is like throwing a royal rave, complete with fancy tiaras! It pays tribute to Queen Victoria, reflecting the respect and admiration people had for her reign, to the extent that even her corgis were probably knights in disguise! This composition embodies enough regal grandeur and elegance to make even her crown blush!"
+    },
+    {
+      "section": "Works",
+      "title": "Loreley-Rhein-Kl\u00e4nge",
+      "summary": "Loreley-Rhein-Kl\u00e4nge, Op. 154, is a captivating piece that evokes the mythical beauty of the Loreley rock on the Rhine River. The music's flowing melodies can conjure the enchanting scenery surrounding this legendary location.",
+      "year": 1843,
+      "location": "Rhein River",
+      "emoji": "\ud83c\udf0a",
+      "fun_version": "Loreley-Rhein-Kl\u00e4nge, Op. 154, is a captivating piece that evokes the mythical beauty of the Loreley rock on the Rhine River. The music's flowing melodies can conjure the enchanting scenery surrounding this legendary location, highlighting its legendary status."
+    },
+    {
+      "section": "Life and work",
+      "title": "Royal Appointment",
+      "summary": "In 1846, Strauss was honored with the title of K.K. Hofballmusikdirektor by Emperor Ferdinand I, recognizing his contributions to music and his esteemed position in Viennese culture.",
+      "year": 1846,
+      "location": "Vienna",
+      "emoji": "\ud83d\udc51",
+      "fun_version": "In 1846, Strauss was so good at music that Emperor Ferdinand I honored him with the title of K.K. Hofballmusikdirektor, which is basically a fancy way of saying 'Dude Who Makes the Party Happen.' Who wouldn\u2019t want a guy like Strauss at their royal shindigs, recognizing his contributions to music and his esteemed position in Viennese culture?"
+    },
+    {
+      "section": "Life and work",
+      "title": "Death",
+      "summary": "Johann Strauss I passed away in Vienna at the age of 45, succumbing to scarlet fever. His death marked the end of a significant chapter in the history of the Viennese waltz.",
+      "year": 1849,
+      "location": "Vienna",
+      "emoji": "\u26b0\ufe0f",
+      "fun_version": "Johann Strauss I passed away in Vienna at the age of 45 from scarlet fever, marking the end of a significant chapter in the history of the Viennese waltz."
+    }
+  ],
+  "works": [
+    {
+      "title": "Donau Lieder Walzer, Op.127",
+      "imslp_url": "https://imslp.org/wiki/Donau_Lieder_Walzer,_Op.127_(Strauss_Sr.,_Johann)",
+      "year": 1827
+    },
+    {
+      "title": "T\u00e4uberln-Walzer, Op.1",
+      "imslp_url": "https://imslp.org/wiki/T\u00e4uberln-Walzer,_Op.1_(Strauss_Sr.,_Johann)",
+      "year": 1827
+    },
+    {
+      "title": "Wiener Karnevals-Walzer, Op.3",
+      "imslp_url": "https://imslp.org/wiki/Wiener_Karnevals-Walzer,_Op.3_(Strauss_Sr.,_Johann)",
+      "year": 1827
+    },
+    {
+      "title": "Champagner-Walzer, Op.14",
+      "imslp_url": "https://imslp.org/wiki/Champagner-Walzer,_Op.14_(Strauss_Sr.,_Johann)",
+      "year": 1828
+    },
+    {
+      "title": "Chineser-Galoppe, Op.20",
+      "imslp_url": "https://imslp.org/wiki/Chineser-Galoppe,_Op.20_(Strauss_Sr.,_Johann)",
+      "year": 1829
+    },
+    {
+      "title": "Der unzusammenh\u00e4ngende Zusammenhang, Op.25",
+      "imslp_url": "https://imslp.org/wiki/Der_unzusammenh\u00e4ngende_Zusammenhang,_Op.25_(Strauss_Sr.,_Johann)",
+      "year": 1829
+    },
+    {
+      "title": "Erinnerungs-L\u00e4ndler, Op.15",
+      "imslp_url": "https://imslp.org/wiki/Erinnerungs-L\u00e4ndler,_Op.15_(Strauss_Sr.,_Johann)",
+      "year": 1829
+    },
+    {
+      "title": "Es ist nur ein Wien! Walzer, Op.22",
+      "imslp_url": "https://imslp.org/wiki/Es_ist_nur_ein_Wien!_Walzer,_Op.22_(Strauss_Sr.,_Johann)",
+      "year": 1829
+    },
+    {
+      "title": "Fort nach einander! Walzer, Op.16",
+      "imslp_url": "https://imslp.org/wiki/Fort_nach_einander!_Walzer,_Op.16_(Strauss_Sr.,_Johann)",
+      "year": 1829
+    },
+    {
+      "title": "Hietzinger-Reunion-Walzer, Op.24",
+      "imslp_url": "https://imslp.org/wiki/Hietzinger-Reunion-Walzer,_Op.24_(Strauss_Sr.,_Johann)",
+      "year": 1829
+    },
+    {
+      "title": "Josephst\u00e4dter-T\u00e4nze, Op.23",
+      "imslp_url": "https://imslp.org/wiki/Josephst\u00e4dter-T\u00e4nze,_Op.23_(Strauss_Sr.,_Johann)",
+      "year": 1829
+    },
+    {
+      "title": "Lust-Lager-Walzer, Op.18",
+      "imslp_url": "https://imslp.org/wiki/Lust-Lager-Walzer,_Op.18_(Strauss_Sr.,_Johann)",
+      "year": 1829
+    },
+    {
+      "title": "Trompeten-Walzer, Op.13",
+      "imslp_url": "https://imslp.org/wiki/Trompeten-Walzer,_Op.13_(Strauss_Sr.,_Johann)",
+      "year": 1829
+    },
+    {
+      "title": "Benefice-Walzer, Op.33",
+      "imslp_url": "https://imslp.org/wiki/Benefice-Walzer,_Op.33_(Strauss_Sr.,_Johann)",
+      "year": 1830
+    },
+    {
+      "title": "Charmant-Walzer, Op.31",
+      "imslp_url": "https://imslp.org/wiki/Charmant-Walzer,_Op.31_(Strauss_Sr.,_Johann)",
+      "year": 1830
+    },
+    {
+      "title": "Gute Meinung f\u00fcr die Tanzlust, Op.34",
+      "imslp_url": "https://imslp.org/wiki/Gute_Meinung_f\u00fcr_die_Tanzlust,_Op.34_(Strauss_Sr.,_Johann)",
+      "year": 1830
+    },
+    {
+      "title": "Schwarz'sche Ball-T\u00e4nze, Op.32",
+      "imslp_url": "https://imslp.org/wiki/Schwarz'sche_Ball-T\u00e4nze,_Op.32_(Strauss_Sr.,_Johann)",
+      "year": 1830
+    },
+    {
+      "title": "Sperls Fest-Walzer, Op.30",
+      "imslp_url": "https://imslp.org/wiki/Sperls_Fest-Walzer,_Op.30_(Strauss_Sr.,_Johann)",
+      "year": 1830
+    },
+    {
+      "title": "Contredanses, Op.44",
+      "imslp_url": "https://imslp.org/wiki/Contredanses,_Op.44_(Strauss_Sr.,_Johann)",
+      "year": 1831
+    },
+    {
+      "title": "Das Leben ein Tanz, Op.49",
+      "imslp_url": "https://imslp.org/wiki/Das_Leben_ein_Tanz,_Op.49_(Strauss_Sr.,_Johann)",
+      "year": 1831
+    },
+    {
+      "title": "Der Raub der Sabinerinnen, Op.43",
+      "imslp_url": "https://imslp.org/wiki/Der_Raub_der_Sabinerinnen,_Op.43_(Strauss_Sr.,_Johann)",
+      "year": 1831
+    },
+    {
+      "title": "Einzugs-Galopp, Op.35",
+      "imslp_url": "https://imslp.org/wiki/Einzugs-Galopp,_Op.35_(Strauss_Sr.,_Johann)",
+      "year": 1831
+    },
+    {
+      "title": "Musikalisches Ragout, Op.46",
+      "imslp_url": "https://imslp.org/wiki/Musikalisches_Ragout,_Op.46_(Strauss_Sr.,_Johann)",
+      "year": 1831
+    },
+    {
+      "title": "Souvenir de Baden, Op.38",
+      "imslp_url": "https://imslp.org/wiki/Souvenir_de_Baden,_Op.38_(Strauss_Sr.,_Johann)",
+      "year": 1831
+    },
+    {
+      "title": "Sperl-Galopp, Op.42",
+      "imslp_url": "https://imslp.org/wiki/Sperl-Galopp,_Op.42_(Strauss_Sr.,_Johann)",
+      "year": 1831
+    },
+    {
+      "title": "Tivoli-Freudenfest-T\u00e4nze, Op.45",
+      "imslp_url": "https://imslp.org/wiki/Tivoli-Freudenfest-T\u00e4nze,_Op.45_(Strauss_Sr.,_Johann)",
+      "year": 1831
+    },
+    {
+      "title": "Vive la Danse!, Op.47",
+      "imslp_url": "https://imslp.org/wiki/Vive_la_Danse!,_Op.47_(Strauss_Sr.,_Johann)",
+      "year": 1831
+    },
+    {
+      "title": "Alexandra-Walzer, Op.56",
+      "imslp_url": "https://imslp.org/wiki/Alexandra-Walzer,_Op.56_(Strauss_Sr.,_Johann)",
+      "year": 1832
+    },
+    {
+      "title": "Bajaderen-Walzer, Op.53",
+      "imslp_url": "https://imslp.org/wiki/Bajaderen-Walzer,_Op.53_(Strauss_Sr.,_Johann)",
+      "year": 1832
+    },
+    {
+      "title": "Contrat\u00e4nze, Op.54",
+      "imslp_url": "https://imslp.org/wiki/Contrat\u00e4nze,_Op.54_(Strauss_Sr.,_Johann)",
+      "year": 1832
+    },
+    {
+      "title": "Cotillons, Op.50",
+      "imslp_url": "https://imslp.org/wiki/Cotillons,_Op.50_(Strauss_Sr.,_Johann)",
+      "year": 1832
+    },
+    {
+      "title": "Heiter auch in ernster Zeit, Op.48",
+      "imslp_url": "https://imslp.org/wiki/Heiter_auch_in_ernster_Zeit,_Op.48_(Strauss_Sr.,_Johann)",
+      "year": 1832
+    },
+    {
+      "title": "Hof-Ball-T\u00e4nze, Op.51",
+      "imslp_url": "https://imslp.org/wiki/Hof-Ball-T\u00e4nze,_Op.51_(Strauss_Sr.,_Johann)",
+      "year": 1832
+    },
+    {
+      "title": "Mein sch\u00f6nster Tag in Baden, Op.58",
+      "imslp_url": "https://imslp.org/wiki/Mein_sch\u00f6nster_Tag_in_Baden,_Op.58_(Strauss_Sr.,_Johann)",
+      "year": 1832
+    },
+    {
+      "title": "Zampa-Walzer, Op.57",
+      "imslp_url": "https://imslp.org/wiki/Zampa-Walzer,_Op.57_(Strauss_Sr.,_Johann)",
+      "year": 1832
+    },
+    {
+      "title": "Carnevals-Spende, Op.60",
+      "imslp_url": "https://imslp.org/wiki/Carnevals-Spende,_Op.60_(Strauss_Sr.,_Johann)",
+      "year": 1833
+    },
+    {
+      "title": "Die vier Temperamente, Op.59",
+      "imslp_url": "https://imslp.org/wiki/Die_vier_Temperamente,_Op.59_(Strauss_Sr.,_Johann)",
+      "year": 1833
+    },
+    {
+      "title": "Fra Diavolo, Op.41",
+      "imslp_url": "https://imslp.org/wiki/Fra_Diavolo,_Op.41_(Strauss_Sr.,_Johann)",
+      "year": 1833
+    },
+    {
+      "title": "Tausendsapperment Walzer, Op.61",
+      "imslp_url": "https://imslp.org/wiki/Tausendsapperment_Walzer,_Op.61_(Strauss_Sr.,_Johann)",
+      "year": 1833
+    },
+    {
+      "title": "Cotillons, Op.72",
+      "imslp_url": "https://imslp.org/wiki/Cotillons,_Op.72_(Strauss_Sr.,_Johann)",
+      "year": 1834
+    },
+    {
+      "title": "Elisabethen-Walzer, Op.71",
+      "imslp_url": "https://imslp.org/wiki/Elisabethen-Walzer,_Op.71_(Strauss_Sr.,_Johann)",
+      "year": 1834
+    },
+    {
+      "title": "Gabrielen-Walzer, Op.68",
+      "imslp_url": "https://imslp.org/wiki/Gabrielen-Walzer,_Op.68_(Strauss_Sr.,_Johann)",
+      "year": 1834
+    },
+    {
+      "title": "Iris-Walzer, Op.75",
+      "imslp_url": "https://imslp.org/wiki/Iris-Walzer,_Op.75_(Strauss_Sr.,_Johann)",
+      "year": 1834
+    },
+    {
+      "title": "Original-Parade-Marsch, Op.73",
+      "imslp_url": "https://imslp.org/wiki/Original-Parade-Marsch,_Op.73_(Strauss_Sr.,_Johann)",
+      "year": 1834
+    },
+    {
+      "title": "Pfennig-Walzer, Op.70",
+      "imslp_url": "https://imslp.org/wiki/Pfennig-Walzer,_Op.70_(Strauss_Sr.,_Johann)",
+      "year": 1834
+    },
+    {
+      "title": "Rosa-Walzer, Op.76",
+      "imslp_url": "https://imslp.org/wiki/Rosa-Walzer,_Op.76_(Strauss_Sr.,_Johann)",
+      "year": 1834
+    },
+    {
+      "title": "Venetianer-Galopp, Op.74",
+      "imslp_url": "https://imslp.org/wiki/Venetianer-Galopp,_Op.74_(Strauss_Sr.,_Johann)",
+      "year": 1834
+    },
+    {
+      "title": "Walzer-Guirlande, Op.67",
+      "imslp_url": "https://imslp.org/wiki/Walzer-Guirlande,_Op.67_(Strauss_Sr.,_Johann)",
+      "year": 1834
+    },
+    {
+      "title": "Grazien-T\u00e4nze, Op.81",
+      "imslp_url": "https://imslp.org/wiki/Grazien-T\u00e4nze,_Op.81_(Strauss_Sr.,_Johann)",
+      "year": 1835
+    },
+    {
+      "title": "Huldigungs-Walzer, Op.80",
+      "imslp_url": "https://imslp.org/wiki/Huldigungs-Walzer,_Op.80_(Strauss_Sr.,_Johann)",
+      "year": 1835
+    },
+    {
+      "title": "Merkurs-Fl\u00fcgel, Op.83",
+      "imslp_url": "https://imslp.org/wiki/Merkurs-Fl\u00fcgel,_Op.83_(Strauss_Sr.,_Johann)",
+      "year": 1835
+    },
+    {
+      "title": "Philomelen-Walzer, Op.82",
+      "imslp_url": "https://imslp.org/wiki/Philomelen-Walzer,_Op.82_(Strauss_Sr.,_Johann)",
+      "year": 1835
+    },
+    {
+      "title": "Ballnacht-Galopp, Op.86",
+      "imslp_url": "https://imslp.org/wiki/Ballnacht-Galopp,_Op.86_(Strauss_Sr.,_Johann)",
+      "year": 1836
+    },
+    {
+      "title": "Die Nachtwandler, Op.88",
+      "imslp_url": "https://imslp.org/wiki/Die_Nachtwandler,_Op.88_(Strauss_Sr.,_Johann)",
+      "year": 1836
+    },
+    {
+      "title": "Eisenbahn-Lust-Walzer, Op.89",
+      "imslp_url": "https://imslp.org/wiki/Eisenbahn-Lust-Walzer,_Op.89_(Strauss_Sr.,_Johann)",
+      "year": 1836
+    },
+    {
+      "title": "Erinnerung an Deutschland, Op.87",
+      "imslp_url": "https://imslp.org/wiki/Erinnerung_an_Deutschland,_Op.87_(Strauss_Sr.,_Johann)",
+      "year": 1836
+    },
+    {
+      "title": "Heimath-Kl\u00e4nge, Op.84",
+      "imslp_url": "https://imslp.org/wiki/Heimath-Kl\u00e4nge,_Op.84_(Strauss_Sr.,_Johann)",
+      "year": 1836
+    },
+    {
+      "title": "Jugendfeuer-Galopp, Op.90",
+      "imslp_url": "https://imslp.org/wiki/Jugendfeuer-Galopp,_Op.90_(Strauss_Sr.,_Johann)",
+      "year": 1836
+    },
+    {
+      "title": "Reise-Galopp, Op.85",
+      "imslp_url": "https://imslp.org/wiki/Reise-Galopp,_Op.85_(Strauss_Sr.,_Johann)",
+      "year": 1836
+    },
+    {
+      "title": "Ball-Racketen Walzer, Op.96",
+      "imslp_url": "https://imslp.org/wiki/Ball-Racketen_Walzer,_Op.96_(Strauss_Sr.,_Johann)",
+      "year": 1837
+    },
+    {
+      "title": "Br\u00fcssler Spitzen Walzer, Op.95",
+      "imslp_url": "https://imslp.org/wiki/Br\u00fcssler_Spitzen_Walzer,_Op.95_(Strauss_Sr.,_Johann)",
+      "year": 1837
+    },
+    {
+      "title": "Cachucha-Galopp, Op.97",
+      "imslp_url": "https://imslp.org/wiki/Cachucha-Galopp,_Op.97_(Strauss_Sr.,_Johann)",
+      "year": 1837
+    },
+    {
+      "title": "Cotillons, Op.92",
+      "imslp_url": "https://imslp.org/wiki/Cotillons,_Op.92_(Strauss_Sr.,_Johann)",
+      "year": 1837
+    },
+    {
+      "title": "Hugenotten-Galopp, Op.93",
+      "imslp_url": "https://imslp.org/wiki/Hugenotten-Galopp,_Op.93_(Strauss_Sr.,_Johann)",
+      "year": 1837
+    },
+    {
+      "title": "Kr\u00f6nungs-Walzer, Op.91",
+      "imslp_url": "https://imslp.org/wiki/Kr\u00f6nungs-Walzer,_Op.91_(Strauss_Sr.,_Johann)",
+      "year": 1837
+    },
+    {
+      "title": "K\u00fcnstler-Ball-T\u00e4nze, Op.94",
+      "imslp_url": "https://imslp.org/wiki/K\u00fcnstler-Ball-T\u00e4nze,_Op.94_(Strauss_Sr.,_Johann)",
+      "year": 1837
+    },
+    {
+      "title": "Pilger am Rhein, Op.98",
+      "imslp_url": "https://imslp.org/wiki/Pilger_am_Rhein,_Op.98_(Strauss_Sr.,_Johann)",
+      "year": 1837
+    },
+    {
+      "title": "Bankett-T\u00e4nze, Op.99",
+      "imslp_url": "https://imslp.org/wiki/Bankett-T\u00e4nze,_Op.99_(Strauss_Sr.,_Johann)",
+      "year": 1838
+    },
+    {
+      "title": "Der Carneval in Paris, Op.100",
+      "imslp_url": "https://imslp.org/wiki/Der_Carneval_in_Paris,_Op.100_(Strauss_Sr.,_Johann)",
+      "year": 1838
+    },
+    {
+      "title": "Huldigung der K\u00f6nigin Victoria von Grossbrittanien, Op.103",
+      "imslp_url": "https://imslp.org/wiki/Huldigung_der_K\u00f6nigin_Victoria_von_Grossbrittanien,_Op.103_(Strauss_Sr.,_Johann)",
+      "year": 1838
+    },
+    {
+      "title": "Original-Parademarsch, Op.102",
+      "imslp_url": "https://imslp.org/wiki/Original-Parademarsch,_Op.102_(Strauss_Sr.,_Johann)",
+      "year": 1838
+    },
+    {
+      "title": "Paris, Op.101",
+      "imslp_url": "https://imslp.org/wiki/Paris,_Op.101_(Strauss_Sr.,_Johann)",
+      "year": 1838
+    },
+    {
+      "title": "Boulogner-Galopp, Op.104",
+      "imslp_url": "https://imslp.org/wiki/Boulogner-Galopp,_Op.104_(Strauss_Sr.,_Johann)",
+      "year": 1839
+    },
+    {
+      "title": "Die Berggeister, Op.113",
+      "imslp_url": "https://imslp.org/wiki/Die_Berggeister,_Op.113_(Strauss_Sr.,_Johann)",
+      "year": 1839
+    },
+    {
+      "title": "Exotische Pflanzen Walzer, Op.109",
+      "imslp_url": "https://imslp.org/wiki/Exotische_Pflanzen_Walzer,_Op.109_(Strauss_Sr.,_Johann)",
+      "year": 1839
+    },
+    {
+      "title": "Freuden-Gr\u00fcsse, Op.105",
+      "imslp_url": "https://imslp.org/wiki/Freuden-Gr\u00fcsse,_Op.105_(Strauss_Sr.,_Johann)",
+      "year": 1839
+    },
+    {
+      "title": "Gitana-Galopp, Op.108",
+      "imslp_url": "https://imslp.org/wiki/Gitana-Galopp,_Op.108_(Strauss_Sr.,_Johann)",
+      "year": 1839
+    },
+    {
+      "title": "Indianer-Galopp, Op.111",
+      "imslp_url": "https://imslp.org/wiki/Indianer-Galopp,_Op.111_(Strauss_Sr.,_Johann)",
+      "year": 1839
+    },
+    {
+      "title": "Londoner-Saison-Walzer, Op.112",
+      "imslp_url": "https://imslp.org/wiki/Londoner-Saison-Walzer,_Op.112_(Strauss_Sr.,_Johann)",
+      "year": 1839
+    },
+    {
+      "title": "Musikalischer Telegraph, Op.106",
+      "imslp_url": "https://imslp.org/wiki/Musikalischer_Telegraph,_Op.106_(Strauss_Sr.,_Johann)",
+      "year": 1839
+    },
+    {
+      "title": "Taglioni-Walzer, Op.110",
+      "imslp_url": "https://imslp.org/wiki/Taglioni-Walzer,_Op.110_(Strauss_Sr.,_Johann)",
+      "year": 1839
+    },
+    {
+      "title": "Versailler Galopp, Op.107",
+      "imslp_url": "https://imslp.org/wiki/Versailler_Galopp,_Op.107_(Strauss_Sr.,_Johann)",
+      "year": 1839
+    },
+    {
+      "title": "C\u00e4cilien-Walzer, Op.120",
+      "imslp_url": "https://imslp.org/wiki/C\u00e4cilien-Walzer,_Op.120_(Strauss_Sr.,_Johann)",
+      "year": 1840
+    },
+    {
+      "title": "Furioso-Galopp, Op.114",
+      "imslp_url": "https://imslp.org/wiki/Furioso-Galopp,_Op.114_(Strauss_Sr.,_Johann)",
+      "year": 1840
+    },
+    {
+      "title": "Gibellinen-Galopp, Op.117",
+      "imslp_url": "https://imslp.org/wiki/Gibellinen-Galopp,_Op.117_(Strauss_Sr.,_Johann)",
+      "year": 1840
+    },
+    {
+      "title": "Myrthen, Op.118",
+      "imslp_url": "https://imslp.org/wiki/Myrthen,_Op.118_(Strauss_Sr.,_Johann)",
+      "year": 1840
+    },
+    {
+      "title": "Rosenbl\u00e4tter, Op.115",
+      "imslp_url": "https://imslp.org/wiki/Rosenbl\u00e4tter,_Op.115_(Strauss_Sr.,_Johann)",
+      "year": 1840
+    },
+    {
+      "title": "Tanz-Recepte, Op.119",
+      "imslp_url": "https://imslp.org/wiki/Tanz-Recepte,_Op.119_(Strauss_Sr.,_Johann)",
+      "year": 1840
+    },
+    {
+      "title": "Walzer-Guirlande, Op.121",
+      "imslp_url": "https://imslp.org/wiki/Walzer-Guirlande,_Op.121_(Strauss_Sr.,_Johann)",
+      "year": 1840
+    },
+    {
+      "title": "Amors-Pfeile, Op.123",
+      "imslp_url": "https://imslp.org/wiki/Amors-Pfeile,_Op.123_(Strauss_Sr.,_Johann)",
+      "year": 1841
+    },
+    {
+      "title": "Elektrische Funken, Op.125",
+      "imslp_url": "https://imslp.org/wiki/Elektrische_Funken,_Op.125_(Strauss_Sr.,_Johann)",
+      "year": 1841
+    },
+    {
+      "title": "Palm-Zweige, Op.122",
+      "imslp_url": "https://imslp.org/wiki/Palm-Zweige,_Op.122_(Strauss_Sr.,_Johann)",
+      "year": 1841
+    },
+    {
+      "title": "Wiener-Carnevals-Quadrille, Op.124",
+      "imslp_url": "https://imslp.org/wiki/Wiener-Carnevals-Quadrille,_Op.124_(Strauss_Sr.,_Johann)",
+      "year": 1841
+    },
+    {
+      "title": "Annen-Polka, Op.137",
+      "imslp_url": "https://imslp.org/wiki/Annen-Polka,_Op.137_(Strauss_Sr.,_Johann)",
+      "year": 1842
+    },
+    {
+      "title": "Die Fantasten, Op.139",
+      "imslp_url": "https://imslp.org/wiki/Die_Fantasten,_Op.139_(Strauss_Sr.,_Johann)",
+      "year": 1842
+    },
+    {
+      "title": "Sperl-Polka, Op.133",
+      "imslp_url": "https://imslp.org/wiki/Sperl-Polka,_Op.133_(Strauss_Sr.,_Johann)",
+      "year": 1842
+    },
+    {
+      "title": "K\u00fcnstlerball-T\u00e4nze, Op.150",
+      "imslp_url": "https://imslp.org/wiki/K\u00fcnstlerball-T\u00e4nze,_Op.150_(Strauss_Sr.,_Johann)",
+      "year": 1843
+    },
+    {
+      "title": "Loreley-Rheinkl\u00e4nge Walzer, Op.154",
+      "imslp_url": "https://imslp.org/wiki/Loreley-Rheinkl\u00e4nge_Walzer,_Op.154_(Strauss_Sr.,_Johann)",
+      "year": 1843
+    },
+    {
+      "title": "Saison-Quadrille, Op.148",
+      "imslp_url": "https://imslp.org/wiki/Saison-Quadrille,_Op.148_(Strauss_Sr.,_Johann)",
+      "year": 1843
+    },
+    {
+      "title": "Masken-Lieder, Op.170",
+      "imslp_url": "https://imslp.org/wiki/Masken-Lieder,_Op.170_(Strauss_Sr.,_Johann)",
+      "year": 1844
+    },
+    {
+      "title": "Die Adepten, Op.216",
+      "imslp_url": "https://imslp.org/wiki/Die_Adepten,_Op.216_(Strauss_Sr.,_Johann)",
+      "year": 1847
+    },
+    {
+      "title": "Die Schwalben, Op.208",
+      "imslp_url": "https://imslp.org/wiki/Die_Schwalben,_Op.208_(Strauss_Sr.,_Johann)",
+      "year": 1847
+    },
+    {
+      "title": "Eisele- und Beisele-Spr\u00fcnge, Op.202",
+      "imslp_url": "https://imslp.org/wiki/Eisele-_und_Beisele-Spr\u00fcnge,_Op.202_(Strauss_Sr.,_Johann)",
+      "year": 1847
+    },
+    {
+      "title": "Kathinka-Polka, Op.210",
+      "imslp_url": "https://imslp.org/wiki/Kathinka-Polka,_Op.210_(Strauss_Sr.,_Johann)",
+      "year": 1847
+    },
+    {
+      "title": "Radetzky-Marsch, Op.228",
+      "imslp_url": "https://imslp.org/wiki/Radetzky-Marsch,_Op.228_(Strauss_Sr.,_Johann)",
+      "year": 1848
+    },
+    {
+      "title": "Sorgenbrecher, Op.230",
+      "imslp_url": "https://imslp.org/wiki/Sorgenbrecher,_Op.230_(Strauss_Sr.,_Johann)",
+      "year": 1848
+    },
+    {
+      "title": "Wiener Kreuzer-Polka, Op.220",
+      "imslp_url": "https://imslp.org/wiki/Wiener_Kreuzer-Polka,_Op.220_(Strauss_Sr.,_Johann)",
+      "year": 1848
+    }
+  ]
+}
