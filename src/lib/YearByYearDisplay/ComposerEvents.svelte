@@ -44,14 +44,6 @@
 <div class="composer-events" id={sectionId}>
   {#if composerData.events.length > 0 || composerData.works.length > 0}
     <h4>
-      <!-- <a
-        href={composerData.wikipedia_url}
-        class="icon"
-        target="_blank"
-        title="Go to Wikipedia"
-      >
-        <i class="fab fa-wikipedia-w"></i>
-      </a> -->
       {composerData.full_name} <span class="nth-year">— {nthYear} year </span>
     </h4>
   {/if}
@@ -59,9 +51,16 @@
     <ul>
       {#each composerData.events as event}
         <li class="event-icon">
-          {event.emoji}
-          <b>{event.title} ({event.location})</b>
-          {makeItFunny ? event.fun_version : event.summary} (<a
+          {#if event.emoji}
+            {event.emoji}
+          {/if}
+          <b
+            >{event.title}
+            {#if event.location}
+              ({event.location})
+            {/if}</b
+          >
+          {makeItFunny ? event.fun_version || "" : event.summary || ""} (<a
             href="{composerData.wikipedia_url}#{event.section}"
             target="_blank"
           >
