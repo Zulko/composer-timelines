@@ -54,6 +54,7 @@ jobs:
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          base: main
           title: ${{ github.event.inputs.commit_message }}
           body: "This PR was created automatically by GitHub Actions."
           reviewers: "zulko"
