@@ -55,6 +55,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           base: main # Change this if your default branch is not 'main'
-          head: ${{ github.event.inputs.branch_name }}
+          branch: ${{ github.event.inputs.branch_name }}
           title: ${{ github.event.inputs.commit_message }}
           body: "This PR was created automatically by GitHub Actions."
+          reviewers: "zulko"
