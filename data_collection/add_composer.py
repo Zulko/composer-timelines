@@ -40,12 +40,12 @@ def add_composer(composer_name, target_folder):
 
     logging.info("Adding fun to the events...")
     events = utils.add_fun_to_events(events)
-    data["events"] = events
+    data["events"] = sorted(events, key=lambda e: (e["year"], e["title"]))
 
     logging.info("Getting works from IMSLP...")
     works = utils.get_works_data_from_imslp(metadata)
     works = [w for w in works if w["year"] and (birth <= w["year"] <= death)]
-    data["works"] = works
+    data["works"] = sorted(works, key=lambda w: (w["year"], w["title"]))
 
     logging.info(f"Collected {len(events)} events {len(works)} and works.")
 
