@@ -2,4 +2,5 @@ requests_cache
 bs4
 fastprogress
 gpt_function_decorator
+lxml
 docopt
