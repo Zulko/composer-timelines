@@ -40,6 +40,10 @@ def add_composer(composer_name, target_folder):
 
     logging.info("Adding fun to the events...")
     events = utils.add_fun_to_events(events)
+    if min([e["year"] for e in events]) != birth:
+        events.append({"year": birth, "title": "Death"})
+    if max([e["year"] for e in events]) != death:
+        events.append({"year": death, "title": "Death"})
     data["events"] = sorted(events, key=lambda e: (e["year"], e["title"]))
 
     logging.info("Getting works from IMSLP...")

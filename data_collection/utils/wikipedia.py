@@ -38,7 +38,6 @@ def get_basic_metadata_from_wikipedia(composer_data):
     content = soup.select("#bodyContent")[0]
     first_paragraphs = [p.text.strip() for p in content.find_all("p")[:3]]
     metadata = composer_metadata(composer_name, info=" ".join(first_paragraphs))
-    print(metadata)
     return {
         "full_name": composer_name,
         "wikipedia_url": wikipedia_url,
@@ -59,14 +58,18 @@ def _extract_sections_from_wikipedia_page(
     # Parse the HTML content with BeautifulSoup
     soup = BeautifulSoup(html_content, "html.parser")
 
-    # Find all h2 tags, which represent section titles
-    sections = soup.find_all("h2")
+    # Adding the intro section, before the first h2 tag
+    paragraphs = []
+    for element in soup.find_all(["p", "h2"]):
+        if element.name == "h2":
+            break
+        if element.name == "p":
+            paragraphs.append(element.get_text())
 
-    # Initialize a list to store the results
-    section_data = []
+    section_data = [{"title": None, "content": " ".join(paragraphs)}]
 
     # Iterate over each section
-    for section in sections:
+    for section in soup.find_all("h2"):
         title = section.get_text(strip=True)  # Extract the title text
         if section_blacklist is not None:
             if title in section_blacklist:
