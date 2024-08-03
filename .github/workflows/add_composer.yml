@@ -56,7 +56,8 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           base: "main"
           branch: add-composer-${{ github.event.inputs.branch_name }}
-          title: ${{ github.event.inputs.commit_message }}
+          commit-message: Add composer ${{ github.event.inputs.composer }}
+          title: Add composer ${{ github.event.inputs.composer }}
           body: "This PR was created automatically by GitHub Actions."
           reviewers: "zulko"
           delete-branch: true
