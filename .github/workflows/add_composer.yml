@@ -31,7 +31,7 @@ jobs:
       - name: Run script.py
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: echo "bla"
+        run: touch "test.txt"
         # run: |
         #  python data_collection/add_composer.py --composer "${{ github.event.inputs.composer }}" --target=public/data
 
