@@ -11,8 +11,14 @@ The project relies extensively on ChatGPT/GPT4 for data collection - see [this w
 Any classical composer with public-domain work from before 1950 is of interest to this project.
 
 To add a composer, all you need to do is add a `COMPOSER NAME.json` in `data/composer_data`, and add an entry for the composer in `composer_list_with_metadata.json`.
+This can be done by hand through your own research, or automated with ChatGPT via this script:
 
-MRs are encouraged. You can also request new composers by opening an Issue in this Github repo, or [emailing me](mailto:valentin.zulkower+@gmail.com?subject=Composer%20timelines%3A%20new%20composers%20request").
+```bash
+# python3 -m pip install data_collection/requirements.txt
+python3 data_collection/add_composer.py --composer="Anatoly Lyadov" --target=public/data/
+```
+
+PRs are encouraged (one composer per request please). You can also request new composers by opening an Issue in this Github repo, or [emailing me](mailto:valentin.zulkower+@gmail.com?subject=Composer%20timelines%3A%20new%20composers%20request").
 
 ## Running the app locally
 
