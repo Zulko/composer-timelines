@@ -1,6 +1,6 @@
 # Composer timelines
 
-This web app (live [here on Github pages]([https://zulko.github.io/composer-timelines/](https://zulko.github.io/composer-timelines/?selectedComposers=Giacomo+Puccini%2CGiuseppe+Verdi%2CGaetano+Donizetti%2CGioachino+Rossini%2CVincenzo+Bellini))) displays timelines of events and works for selected composers. Ever wondered what Verdi was up to when Puccini composed his first opera? This app is for you!
+This web app (live [here on Github pages](https://zulko.github.io/composer-timelines/?selectedComposers=Giacomo+Puccini%2CGiuseppe+Verdi%2CGaetano+Donizetti%2CGioachino+Rossini%2CVincenzo+Bellini)) displays timelines of events and works for selected composers. Ever wondered what Verdi was up to when Puccini composed his first opera? This app is for you!
 
 The project relies extensively on the ChatGPT API for building an event database from Wikipedia, which makes it extremely easy to add a new composers (see [this write-up](https://github.com/Zulko/composer-timelines/blob/main/docs/write-up.md))
 
