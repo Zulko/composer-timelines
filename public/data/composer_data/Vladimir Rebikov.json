@@ -1,0 +1,303 @@
+{
+  "full_name": "Vladimir Rebikov",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Vladimir_Rebikov",
+  "first_names": "Vladimir Ivanovich",
+  "last_name": "Rebikov",
+  "birth_year": 1866,
+  "death_year": 1920,
+  "events": [
+    {
+      "section": null,
+      "title": "Birth of Vladimir Rebikov",
+      "summary": "Vladimir Rebikov was born in the late 19th century, marking the beginning of his life journey. Born in a family that encouraged his musical talents, he would go on to become a significant figure in Russian music.",
+      "year": 1866,
+      "location": "Russia",
+      "emoji": "\ud83c\udf89",
+      "fun_version": "Vladimir Rebikov entered the scene in the late 19th century\u2014when horse-drawn carriages were considered high-tech! From a family that not only recognized but encouraged his musical talents, he strummed his way to fame, solidifying his status as a significant figure in Russian music!"
+    },
+    {
+      "section": "Works",
+      "title": "V grozu (In the Storm)",
+      "summary": "This opera, based on a story by Vladimir Korolenko, premiered in Odessa. It showcases Rebikov's early contributions to the operatic genre, marking his rise as a notable composer in the late 19th century.",
+      "year": 1894,
+      "location": "Odessa",
+      "emoji": "\ud83c\udf29\ufe0f",
+      "fun_version": "This opera, based on a story by Vladimir Korolenko, premiered in Odessa, showcasing Rebikov's early contributions to the operatic genre, marking his rise as a notable composer in the late 19th century."
+    },
+    {
+      "section": "Legacy",
+      "title": "M\u00e9lomimiques and Rythmod\u00e9clamations",
+      "summary": "In his piano pieces, such as M\u00e9lomimiques Op. 10, Rebikov explored novel forms combining music and mime, introducing types of musical pantomime and rhythm-declamation.",
+      "year": 1898,
+      "location": null,
+      "emoji": "\ud83c\udfb9",
+      "fun_version": "In his piano pieces, like M\u00e9lomimiques Op. 10, Rebikov decided to combine music with the art of looking really serious while pretending to play the piano. It\u2019s like a musical mime-off where the best rhythms are the ones you can\u2019t hear!"
+    },
+    {
+      "section": "Legacy",
+      "title": "Les demons s'amusent",
+      "summary": "He continued the Russian penchant for the whole tone scale in his piece Les demons s'amusent, included in the melomimic suite Les R\u00eaves, emphasizing his unique style in children's music.",
+      "year": 1899,
+      "location": null,
+      "emoji": "\ud83c\udf88",
+      "fun_version": "He really embraced his inner Russian there, diving into the whole tone scale like it was a kiddie pool at a summer camp! In his whimsical piece 'Les demons s'amusent', part of his magical melomimic suite 'Les R\u00eaves', he demonstrated his unique style in children's music with a sophisticated touch. Who knew kids' songs could be so sophisticated?"
+    },
+    {
+      "section": "Legacy",
+      "title": "Krylov's Fables",
+      "summary": "Rebikov also wrote a stage work titled Krylov's Fables around the year 1900. This piece highlights his abilities in composing for the stage and adapting literary works into musical formats.",
+      "year": 1900,
+      "location": null,
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Rebikov also wrote a stage work titled Krylov's Fables around the year 1900, showcasing his genius in adapting literary works into musicals. Imagine him sitting in a smoky room, composing furiously. 'Why make a boring drama when you can make animals speak?'."
+    },
+    {
+      "section": "Works",
+      "title": "Bezdna (Abyss)",
+      "summary": "Premiered in 1907, this opera draws inspiration from the works of Leonid Andreev. It reflects deeper themes and showcases Rebikov's maturation as a composer.",
+      "year": 1907,
+      "location": "",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "Debuting in 1907, this opera takes a page from Leonid Andreev's playbook. It reflects deeper themes and proves Rebikov graduated with honors in the School of Composing!"
+    },
+    {
+      "section": "Works",
+      "title": "Zhenshchina s kinzhalom (The Woman with a Dagger)",
+      "summary": "Based on Arthur Schnitzler's narrative, this opera premiered in 1910. It highlights Rebikov's ability to translate complex emotions into music.",
+      "year": 1910,
+      "location": "",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "In 1910, based on Arthur Schnitzler's narrative, someone decided to throw a musical party. Little did everyone know that Rebikov would not just be DJing but also spinning a web of profound emotions into his compositions!"
+    },
+    {
+      "section": "Works",
+      "title": "Dvoryanskoye Gnezdo (A Nest of Nobles)",
+      "summary": "This opera, based on Ivan Turgenev\u2019s work, premiered in 1916. It marks a significant point in Rebikov's career, showcasing his adaptation of classical literature into operatic form.",
+      "year": 1916,
+      "location": "",
+      "emoji": "\ud83c\udfad",
+      "fun_version": "In 1916, an opera based on Ivan Turgenev\u2019s work premiered, marking a significant point in Rebikov's career as he boldly decided to adapt classical literature into operatic form."
+    },
+    {
+      "section": null,
+      "title": "Death of Vladimir Rebikov",
+      "summary": "Vladimir Rebikov passed away in the early 20th century, leaving behind a rich legacy of compositions and performances. His contributions to late romantic music continue to be appreciated by musicians and scholars alike.",
+      "year": 1920,
+      "location": "Russia",
+      "emoji": "\u26b0\ufe0f",
+      "fun_version": "Vladimir Rebikov passed away in the early 20th century, leaving behind a rich legacy of compositions and performances. His contributions to late romantic music continue to be appreciated by musicians and scholars alike."
+    }
+  ],
+  "works": [
+    {
+      "title": "R\u00eaveries d\u2019automne, Op.8",
+      "imslp_url": "https://imslp.org/wiki/R\u00eaveries_d\u2019automne,_Op.8_(Rebikov,_Vladimir)",
+      "year": 1895
+    },
+    {
+      "title": "4 Morceaux, Op.6",
+      "imslp_url": "https://imslp.org/wiki/4_Morceaux,_Op.6_(Rebikov,_Vladimir)",
+      "year": 1896
+    },
+    {
+      "title": "6 Morceaux, Op.2",
+      "imslp_url": "https://imslp.org/wiki/6_Morceaux,_Op.2_(Rebikov,_Vladimir)",
+      "year": 1896
+    },
+    {
+      "title": "M\u00e9lomimiques, Op.19",
+      "imslp_url": "https://imslp.org/wiki/M\u00e9lomimiques,_Op.19_(Rebikov,_Vladimir)",
+      "year": 1896
+    },
+    {
+      "title": "Capricious Mood",
+      "imslp_url": "https://imslp.org/wiki/Capricious_Mood_(Rebikov,_Vladimir)",
+      "year": 1897
+    },
+    {
+      "title": "Tondichtungen, Op.13",
+      "imslp_url": "https://imslp.org/wiki/Tondichtungen,_Op.13_(Rebikov,_Vladimir)",
+      "year": 1897
+    },
+    {
+      "title": "Autour du Monde, Op.9",
+      "imslp_url": "https://imslp.org/wiki/Autour_du_Monde,_Op.9_(Rebikov,_Vladimir)",
+      "year": 1898
+    },
+    {
+      "title": "M\u00e9lomimiques, Op.11",
+      "imslp_url": "https://imslp.org/wiki/M\u00e9lomimiques,_Op.11_(Rebikov,_Vladimir)",
+      "year": 1898
+    },
+    {
+      "title": "Stimmungs-Skizzen, Op.10",
+      "imslp_url": "https://imslp.org/wiki/Stimmungs-Skizzen,_Op.10_(Rebikov,_Vladimir)",
+      "year": 1898
+    },
+    {
+      "title": "7 Morceaux, Op.5",
+      "imslp_url": "https://imslp.org/wiki/7_Morceaux,_Op.5_(Rebikov,_Vladimir)",
+      "year": 1899
+    },
+    {
+      "title": "Princess Mary",
+      "imslp_url": "https://imslp.org/wiki/Princess_Mary_(Rebikov,_Vladimir)",
+      "year": 1899
+    },
+    {
+      "title": "Chansons du c\u0153ur, Op.24",
+      "imslp_url": "https://imslp.org/wiki/Chansons_du_c\u0153ur,_Op.24_(Rebikov,_Vladimir)",
+      "year": 1900
+    },
+    {
+      "title": "Gesangs-Scenen, Op.16",
+      "imslp_url": "https://imslp.org/wiki/Gesangs-Scenen,_Op.16_(Rebikov,_Vladimir)",
+      "year": 1900
+    },
+    {
+      "title": "Gesangs-Scenen, Op.18",
+      "imslp_url": "https://imslp.org/wiki/Gesangs-Scenen,_Op.18_(Rebikov,_Vladimir)",
+      "year": 1900
+    },
+    {
+      "title": "Les r\u00eaves, Op.15",
+      "imslp_url": "https://imslp.org/wiki/Les_r\u00eaves,_Op.15_(Rebikov,_Vladimir)",
+      "year": 1900
+    },
+    {
+      "title": "Prince Charming and Princess Beautiful",
+      "imslp_url": "https://imslp.org/wiki/Prince_Charming_and_Princess_Beautiful_(Rebikov,_Vladimir)",
+      "year": 1900
+    },
+    {
+      "title": "The Christmas Tree (suite), Op.21a",
+      "imslp_url": "https://imslp.org/wiki/The_Christmas_Tree_(suite),_Op.21a_(Rebikov,_Vladimir)",
+      "year": 1900
+    },
+    {
+      "title": "The Christmas Tree, Op.21",
+      "imslp_url": "https://imslp.org/wiki/The_Christmas_Tree,_Op.21_(Rebikov,_Vladimir)",
+      "year": 1900
+    },
+    {
+      "title": "Valse m\u00e9lancolique",
+      "imslp_url": "https://imslp.org/wiki/Valse_m\u00e9lancolique_(Rebikov,_Vladimir)",
+      "year": 1900
+    },
+    {
+      "title": "Children's Rest",
+      "imslp_url": "https://imslp.org/wiki/Children's_Rest_(Rebikov,_Vladimir)",
+      "year": 1901
+    },
+    {
+      "title": "Gesangs-Scenen, Op.1",
+      "imslp_url": "https://imslp.org/wiki/Gesangs-Scenen,_Op.1_(Rebikov,_Vladimir)",
+      "year": 1901
+    },
+    {
+      "title": "Gesangs-Scenen, Op.20",
+      "imslp_url": "https://imslp.org/wiki/Gesangs-Scenen,_Op.20_(Rebikov,_Vladimir)",
+      "year": 1902
+    },
+    {
+      "title": "Aspirer et atteindre, Op.25",
+      "imslp_url": "https://imslp.org/wiki/Aspirer_et_atteindre,_Op.25_(Rebikov,_Vladimir)",
+      "year": 1903
+    },
+    {
+      "title": "Aus dem Tagebuche, Op.33",
+      "imslp_url": "https://imslp.org/wiki/Aus_dem_Tagebuche,_Op.33_(Rebikov,_Vladimir)",
+      "year": 1904
+    },
+    {
+      "title": "Thea, Op.34",
+      "imslp_url": "https://imslp.org/wiki/Thea,_Op.34_(Rebikov,_Vladimir)",
+      "year": 1904
+    },
+    {
+      "title": "Visions du Pass\u00e9",
+      "imslp_url": "https://imslp.org/wiki/Visions_du_Pass\u00e9_(Rebikov,_Vladimir)",
+      "year": 1904
+    },
+    {
+      "title": "Cauchemar, Op.26",
+      "imslp_url": "https://imslp.org/wiki/Cauchemar,_Op.26_(Rebikov,_Vladimir)",
+      "year": 1905
+    },
+    {
+      "title": "Album de pi\u00e8ces faciles pour la jeunesse",
+      "imslp_url": "https://imslp.org/wiki/Album_de_pi\u00e8ces_faciles_pour_la_jeunesse_(Rebikov,_Vladimir)",
+      "year": 1906
+    },
+    {
+      "title": "\u00c0 travers les pays slaves",
+      "imslp_url": "https://imslp.org/wiki/\u00c0_travers_les_pays_slaves_(Rebikov,_Vladimir)",
+      "year": 1906
+    },
+    {
+      "title": "Snow White, Op.39",
+      "imslp_url": "https://imslp.org/wiki/Snow_White,_Op.39_(Rebikov,_Vladimir)",
+      "year": 1907
+    },
+    {
+      "title": "The Abyss, Op.40",
+      "imslp_url": "https://imslp.org/wiki/The_Abyss,_Op.40_(Rebikov,_Vladimir)",
+      "year": 1907
+    },
+    {
+      "title": "Une f\u00eate, Op.38",
+      "imslp_url": "https://imslp.org/wiki/Une_f\u00eate,_Op.38_(Rebikov,_Vladimir)",
+      "year": 1907
+    },
+    {
+      "title": "Fleurs d'Automne",
+      "imslp_url": "https://imslp.org/wiki/Fleurs_d'Automne_(Rebikov,_Vladimir)",
+      "year": 1910
+    },
+    {
+      "title": "The Woman with a Dagger, Op.41",
+      "imslp_url": "https://imslp.org/wiki/The_Woman_with_a_Dagger,_Op.41_(Rebikov,_Vladimir)",
+      "year": 1910
+    },
+    {
+      "title": "Alpha and Omega, Op.42",
+      "imslp_url": "https://imslp.org/wiki/Alpha_and_Omega,_Op.42_(Rebikov,_Vladimir)",
+      "year": 1911
+    },
+    {
+      "title": "3 Ballades pour piano",
+      "imslp_url": "https://imslp.org/wiki/3_Ballades_pour_piano_(Rebikov,_Vladimir)",
+      "year": 1913
+    },
+    {
+      "title": "Chansons blanches, Op.48",
+      "imslp_url": "https://imslp.org/wiki/Chansons_blanches,_Op.48_(Rebikov,_Vladimir)",
+      "year": 1913
+    },
+    {
+      "title": "Jeux des sons",
+      "imslp_url": "https://imslp.org/wiki/Jeux_des_sons_(Rebikov,_Vladimir)",
+      "year": 1913
+    },
+    {
+      "title": "Les danses, Op.51",
+      "imslp_url": "https://imslp.org/wiki/Les_danses,_Op.51_(Rebikov,_Vladimir)",
+      "year": 1914
+    },
+    {
+      "title": "Arakhne, Op.49",
+      "imslp_url": "https://imslp.org/wiki/Arakhne,_Op.49_(Rebikov,_Vladimir)",
+      "year": 1915
+    },
+    {
+      "title": "Rhytmodeclamations, Op.52",
+      "imslp_url": "https://imslp.org/wiki/Rhytmodeclamations,_Op.52_(Rebikov,_Vladimir)",
+      "year": 1915
+    },
+    {
+      "title": "Dvoryanskoye Gnezdo, Op.55",
+      "imslp_url": "https://imslp.org/wiki/Dvoryanskoye_Gnezdo,_Op.55_(Rebikov,_Vladimir)",
+      "year": 1916
+    }
+  ]
+}
