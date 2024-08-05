@@ -25,7 +25,7 @@ python3 data_collection/add_composer.py --composer="Anatoly Lyadov" --target=pub
 
 ### Via the github actions button (repo admin only)
 
-Go to `Actions > Workflows > Add a composer > Run workflow` and enter the (full) name of the composer to add. The pipeline will look the composer up on Wikipedia and IMSLP and generate a Pull Request to add the composer's data to the project. 
+Go to `Actions > Workflows > Add a composer` ([here](https://github.com/Zulko/composer-timelines/actions/workflows/add_composer.yml)) click `Run workflow` and enter the (full) name of the composer to add. The pipeline will look the composer up on Wikipedia and IMSLP and generate a Pull Request to add the composer's data to the project. 
 
 Prerequisites:
 - Set `OPENAI_AI_KEY` as your Github repository secret.
