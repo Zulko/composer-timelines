@@ -1,6 +1,6 @@
 requests_cache
 bs4
 fastprogress
-gpt_function_decorator
+gpt_function_decorator==0.2.0
 lxml
 docopt
