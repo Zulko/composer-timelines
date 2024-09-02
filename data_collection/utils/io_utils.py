@@ -1,25 +1,28 @@
 from pathlib import Path
-import multiprocessing
 import json
 import time
 from fastprogress import progress_bar
-import requests_cache
 import requests
+import aiohttp
+import asyncio
+from aiohttp_client_cache import CachedSession, SQLiteBackend
 
 cache_path = Path(__file__).parent / "web-cache"
-requests_cache_session = requests_cache.CachedSession(cache_path)
+cache = SQLiteBackend(cache_name=cache_path)
+requests_cache_session = CachedSession(cache=cache)
 
 
-def cached_web_request(url, params=None, response_type="html", sleep_after=0):
+async def cached_web_request(url, params=None, response_type="html", sleep_after=0):
     try:
-        response = requests_cache_session.get(url, params=params)
-        response.raise_for_status()
-        time.sleep(sleep_after)
-        if response_type == "json":
-            return response.json()
-        elif response_type == "html":
-            return response.text
-    except requests.exceptions.RequestException as e:
+        async with requests_cache_session as session:
+            async with session.get(url, params=params) as response:
+                response.raise_for_status()
+                await asyncio.sleep(sleep_after)
+                if response_type == "json":
+                    return await response.json()
+                elif response_type == "html":
+                    return await response.text()
+    except aiohttp.ClientError as e:
         print(f"Failed to download {url}: {e}")
 
 
@@ -31,15 +34,8 @@ def load_from_json(filepath):
     return json.load(open(filepath, "r"))
 
 
-def _run_function_on_file(args):
-    function, source, target = args
-    data = load_from_json(source)
-    result = function(data)
-    save_to_json(result, target)
-
-
-def process_folder(
-    function, source_folder, target_folder, replace_existing=False, num_processes=1
+async def process_folder(
+    function, source_folder, target_folder, replace_existing=False, concurrency=10
 ):
     source_folder = Path(source_folder)
     source_files = list(source_folder.glob("*"))
@@ -51,15 +47,18 @@ def process_folder(
         already_processed = {f.stem for f in target_folder.glob("*")}
         source_files = [f for f in source_files if f.stem not in already_processed]
 
-    if (len(source_files) > 1) and (num_processes > 1):
-        with multiprocessing.Pool(processes=num_processes) as pool:
-            args = [
-                (function, file, target_folder / file.name) for file in source_files
-            ]
-            pooled = pool.imap(_run_function_on_file, args)
-            for _i in progress_bar(pooled, total=len(source_files)):
-                pass
+    async def process_file(file):
+        data = load_from_json(file)
+        result = await function(data)  # Assuming function is now async
+        save_to_json(result, target_folder / file.name)
 
-    else:
-        for file in progress_bar(source_files):
-            _run_function_on_file((function, file, target_folder / file.name))
+    semaphore = asyncio.Semaphore(concurrency)
+
+    async def bounded_process_file(file):
+        async with semaphore:
+            await process_file(file)
+
+    tasks = [bounded_process_file(file) for file in source_files]
+    
+    for task in progress_bar(asyncio.as_completed(tasks), total=len(tasks)):
+        await task

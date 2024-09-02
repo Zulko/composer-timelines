@@ -3,11 +3,11 @@ from .io_utils import cached_web_request
 from bs4 import BeautifulSoup
 
 
-def _get_wikipedia_url_from_search(term):
+async def _get_wikipedia_url_from_search(term):
     search_url = "https://en.wikipedia.org/w/api.php"
     params = {"action": "query", "list": "search", "srsearch": term, "format": "json"}
 
-    data = cached_web_request(search_url, params=params, response_type="json")
+    data = await cached_web_request(search_url, params=params, response_type="json")
 
     if data["query"]["search"]:
         title = data["query"]["search"][0]["title"]
@@ -17,31 +17,29 @@ def _get_wikipedia_url_from_search(term):
         print(f"No page found for {term}")
         return None
 
+class Composer(BaseModel)
+    first_names: str
+    last_name: str
+    birth_year: int
+    death_year: int
 
-@gpt_function(retries=2)
-def composer_metadata(composer, info=None) -> dict:
-    """Return a dict with the following metadata for the given composer:
-    {
-        first_names: str,
-        last_name: str,
-        birth_year: int,
-        death_year: int
-    }
-    """
+@gpt_function
+def composer_metadata(composer) -> Composer:
+    """Return data on {composer}"""
 
 
-def get_basic_metadata_from_wikipedia(composer_data):
-    wikipedia_url = _get_wikipedia_url_from_search(composer_data["name"])
-    wikipedia_html = cached_web_request(wikipedia_url)
+async def get_basic_metadata_from_wikipedia(composer_data):
+    wikipedia_url = await _get_wikipedia_url_from_search(composer_data["name"])
+    wikipedia_html = await cached_web_request(wikipedia_url)
     soup = BeautifulSoup(wikipedia_html, "html.parser")
     composer_name = soup.select_one("h1").get_text()
     content = soup.select("#bodyContent")[0]
     first_paragraphs = [p.text.strip() for p in content.find_all("p")[:3]]
-    metadata = composer_metadata(composer_name, info=" ".join(first_paragraphs))
+    metadata = await composer_metadata(composer_name, info=" ".join(first_paragraphs))
     return {
         "full_name": composer_name,
         "wikipedia_url": wikipedia_url,
-        **metadata,
+        **metadata.dict(),
     }
 
 
@@ -114,25 +112,26 @@ def collect_wikipedia_page_and_separate_sections(composer_data):
     )
     return {"wikipedia_url": wikipedia_url, "sections": sections, "composer": composer}
 
+class LifeEvent(BaseModel):
+    title: str
+    summary: str = Field(
+        description="A few sentences summarizing the event, as informative as possible "
+        "but only with information from the biography. Doesn't state the year.")
+    year: int
+    location: str
+    emoji: str
 
-@gpt_function(retries=2)
-def _list_life_events(composer_biography: str, exclude_events: list) -> list[dict]:
-    """Return a list the composer's life events from the given text.
-    Exclude any event described in the exclude_events list.
-    Add the best emoji to describe the event.
-
-    The output should have this schema:
-    [{title:str, summary: str, year: int, location: str, emoji: str}...]
-
-    The summary should be a few sentences, and as informative as possible
-    but only with information from the text.
-    The summary should not state the year.
-
-    Return an empty list if there are no events.
+@gpt_function
+def _list_life_events(composer_biography: str, exclude_events: list[str]) -> list[LifeEvent]:
+    """List the composer's life events from the composer biography, excluding any event
+    described in exclude_events. Return an empty list if there are no events.
     """
 
 
 def list_life_events_in_sections(data):
+    """List the composer's life events from the composer biography, excluding any event
+    described in exclude_events. Return an empty list if there are no events.
+    """
     composer = data["composer"]
     events = []
     for section in data["sections"]:
@@ -146,58 +145,57 @@ def list_life_events_in_sections(data):
     return events
 
 
-@gpt_function(retries=2)
-def _most_relevant_emoji(event: str, context: dict) -> dict:
+@gpt_function(reasoning=True)
+async def _most_relevant_emoji(event: str, context: dict) -> str:
     """Return the most relevant emoji for the given event
-    Output schema: {emoji: str}
     """
 
 
-@gpt_function(retries=2, think_through=True)
-def _add_fun_to_text(event_summary: str) -> str:
-    """For the given event_summary, follow these steps:
+@gpt_function(reasoning=True)
+async def _add_fun_to_text(event_summary: str) -> str:
+    """Starting from this summary "{event_summary}", follow these steps:
 
-    Step 1: Rewrite the event_summary with humor. Be funny!
+    Step 1: Rewrite the summary with humor. Be funny!
     Step 2: Copy the result of Step 1 without any joke about tragic events.
     Step 3: Copy the result of Step 2 without the weakest jokes if the text is over 60 words
     Step 4: Copy the result of Step 3 with any information from the original summary that got lost.
+    Return the result of Step 4
     """
 
+async def add_fun_to_event(event):
+    context = {**event}
+    summary = context.pop("summary")
+    emoji = _most_relevant_emoji(event_summary=summary, context=context)
+    fun_version = _add_fun_to_text(event_summary=summary)
+    return {**event, "emoji": await emoji, "fun_version": await fun_version}
 
-def add_fun_to_events(events):
-    events_with_fun = []
-    for event in events:
-        context = {**event}
-        summary = context.pop("summary")
-        emoji = _most_relevant_emoji(event_summary=event["summary"], context=context)
-        fun_version = _add_fun_to_text(event_summary=summary)
-        events_with_fun.append({**event, **emoji, "fun_version": fun_version})
-    return events_with_fun
+async def add_fun_to_events(events):
+    return await asyncio.gather(*[add_fun_to_event(event) for event in events])
 
+class WorldEvent(BaseModel):
+    title: str
+    summary: str
+    year: int
+    city: str
+    country: str
+    
 
 @gpt_function
-def _select_major_world_events(text) -> list:
+async def _select_major_world_events(text) -> list[WorldEvent]:
     """Return a list of the top ~10 major events described in the text.
 
     Prefer major technical advances, or major events which
     would have made the front page of European newspapers.
     Prefer events which could have had an impact on citizens
     and in particular music composers.
-
-    Schema for each event:
-    {"title": str, "summary": str, "year": int, "city": str, "country": str}
-
-    The year should always be a single integer, and only an integer.
-    Never use quotation marks inside the summary.
     """
 
 
-def get_world_events(data):
-    year = data["year"]
+async def get_world_events(year) -> list[WorldEvent]:
     wikipedia_url = f"https://en.wikipedia.org/wiki/{year}"
-    wikipedia_html = cached_web_request(wikipedia_url)
+    wikipedia_html = await cached_web_request(wikipedia_url)
     sections = _extract_sections_from_wikipedia_page(
         wikipedia_html, section_whitelist=["Events"]
     )
     events_txt = sections[0]["content"]
-    return _select_major_world_events(text=events_txt)
+    return await _select_major_world_events(text=events_txt)

@@ -1,6 +1,5 @@
 <script>
   import { chart } from "svelte-apexcharts";
-  import { sineIn } from "svelte/easing";
   export let composerData;
   export let xMin;
   export let xMax;
@@ -67,10 +66,36 @@
         },
       },
       tooltip: {
-        custom: function () {
-          return `<div></div>`;
+        custom: function ({ series, seriesIndex, dataPointIndex, w }) {
+          const timestamp = w.globals.seriesX[seriesIndex][dataPointIndex];
+          const date = new Date(timestamp);
+          const year = date.getFullYear();
+          const events = composerData.events.filter((e) => e.year === year);
+          const works = composerData.works.filter((w) => w.year === year);
+
+          let content = `<div class="custom-tooltip">
+            <strong>${year}</strong><br>`;
+
+          if (events.length > 0) {
+            content += `<strong>Events:</strong><br>
+            ${events.map((e) => `- ${e.title}`).join("<br>")}`;
+          }
+
+          if (works.length > 0) {
+            content += `${events.length > 0 ? "<br><br>" : ""}
+            <strong>Works:</strong><br>`;
+
+            const displayedWorks = works.slice(0, 3);
+            content += displayedWorks.map((w) => `- ${w.title}`).join("<br>");
+
+            if (works.length > 3) {
+              content += `<br>and ${works.length - 3} other${works.length - 3 > 1 ? "s" : ""}`;
+            }
+          }
+
+          content += "</div>";
+          return content;
         },
-        x: { show: false, format: "click !" }, // This disables all tooltips
       },
       series: [
         {
@@ -82,6 +107,9 @@
         type: "datetime",
         min: new Date(xMin, 0, 1).getTime(),
         max: new Date(xMax, 0, 1).getTime(),
+        tooltip: {
+          enabled: false,
+        },
       },
       yaxis: {
         show: false,
@@ -96,7 +124,6 @@
       },
     };
   }
-  console.log({ composerData, xMin, xMax });
 
   // Function to count items by year
   function countByYear(data) {
@@ -108,3 +135,13 @@
 </script>
 
 <div use:chart={chartOptions} />
+
+<style>
+  :global(.custom-tooltip) {
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.9);
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 12px;
+  }
+</style>
