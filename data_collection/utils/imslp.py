@@ -71,10 +71,10 @@ async def get_works_data_from_imslp(composer_data):
     if imslp_url is None:
         works_data = []
     else:
-        imslp_html = cached_web_request(imslp_url)
+        imslp_html = await cached_web_request(imslp_url)
         composer = re.findall("Category:(.*)</h1>", imslp_html)[0].strip()
         works_data = _get_work_data_from_imslp_html(imslp_html, composer)
         for work in progress_bar(works_data):
-            work_html = cached_web_request(work["imslp_url"])
+            work_html = await cached_web_request(work["imslp_url"])
             work["year"] = _get_publication_year(work_html)
     return works_data

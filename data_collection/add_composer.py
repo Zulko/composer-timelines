@@ -23,7 +23,6 @@ async def _collect_imslp_works(metadata, birth, death):
 
 
 async def _collect_life_events(metadata, birth, death):
-    return
     logging.info("Summarizing events in wikipedia page...")
     wikipedia_sections = await utils.collect_wikipedia_page_and_separate_sections(
         metadata
@@ -59,7 +58,7 @@ async def add_composer(composer_name, target_folder):
 
     # Collect events and works, in parallel
     events = _collect_life_events(metadata, birth, death)
-    works = _collect_imslp_works(metadata)
+    works = _collect_imslp_works(metadata, birth, death)
     data["events"], data["works"] = await asyncio.gather(events, works)
 
     logging.info(

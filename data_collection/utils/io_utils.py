@@ -1,17 +1,13 @@
 from pathlib import Path
 import json
-import time
 import asyncio
-
-from fastprogress import progress_bar
-import requests
 import aiohttp
 
+from fastprogress import progress_bar
 from aiohttp_client_cache import CachedSession, SQLiteBackend
 
 cache_path = Path(__file__).parent / "web-cache"
 cache = SQLiteBackend(cache_name=cache_path)
-
 
 
 async def cached_web_request(url, params=None, response_type="html", sleep_after=0):
@@ -62,6 +58,6 @@ async def process_folder(
             await process_file(file)
 
     tasks = [bounded_process_file(file) for file in source_files]
-    
+
     for task in progress_bar(asyncio.as_completed(tasks), total=len(tasks)):
         await task
