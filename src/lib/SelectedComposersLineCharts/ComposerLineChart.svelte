@@ -70,7 +70,7 @@
         custom: function ({ series, seriesIndex, dataPointIndex, w }) {
           const timestamp = w.globals.seriesX[seriesIndex][dataPointIndex];
           const date = new Date(timestamp);
-          const year = date.getFullYear();
+          const year = date.getFullYear() + 1;
           const events = composerData.events.filter((e) => e.year === year);
           const works = composerData.works.filter((w) => w.year === year);
 
