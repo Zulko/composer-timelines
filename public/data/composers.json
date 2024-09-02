@@ -695,6 +695,14 @@
     "death_year": 1706
   },
   {
+    "full_name": "Niccol\u00f2 Paganini",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Niccol\u00f2_Paganini",
+    "first_names": "Niccol\u00f2",
+    "last_name": "Paganini",
+    "birth_year": 1782,
+    "death_year": 1840
+  },
+  {
     "full_name": "Krzysztof Penderecki",
     "first_names": "Krzysztof Eugeniusz",
     "last_name": "Penderecki",
@@ -770,6 +778,14 @@
     "last_name": "Ravel",
     "birth_year": 1875,
     "death_year": 1937
+  },
+  {
+    "full_name": "Vladimir Rebikov",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vladimir_Rebikov",
+    "first_names": "Vladimir Ivanovich",
+    "last_name": "Rebikov",
+    "birth_year": 1866,
+    "death_year": 1920
   },
   {
     "full_name": "Ottorino Respighi",
