@@ -1,9 +1,10 @@
+import asyncio
+
 from gpt_function_decorator import gpt_function
 from pydantic import BaseModel, Field
 from bs4 import BeautifulSoup
 
 from .io_utils import cached_web_request
-
 
 
 async def _get_wikipedia_url_from_search(term):
@@ -20,11 +21,13 @@ async def _get_wikipedia_url_from_search(term):
         print(f"No page found for {term}")
         return None
 
+
 class Composer(BaseModel):
     first_names: str
     last_name: str
     birth_year: int
     death_year: int
+
 
 @gpt_function
 async def composer_metadata(composer: str, info: str) -> Composer:
@@ -93,10 +96,10 @@ def _extract_sections_from_wikipedia_page(
     return section_data
 
 
-def collect_wikipedia_page_and_separate_sections(composer_data):
+async def collect_wikipedia_page_and_separate_sections(composer_data):
     composer = composer_data["full_name"]
     wikipedia_url = composer_data["wikipedia_url"]
-    html_content = cached_web_request(wikipedia_url)
+    html_content = await cached_web_request(wikipedia_url)
     section_title_blacklist = [
         "External links",
         "Further reading",
@@ -115,23 +118,28 @@ def collect_wikipedia_page_and_separate_sections(composer_data):
     )
     return {"wikipedia_url": wikipedia_url, "sections": sections, "composer": composer}
 
+
 class LifeEvent(BaseModel):
     title: str
     summary: str = Field(
         description="A few sentences summarizing the event, as informative as possible "
-        "but only with information from the biography. Doesn't state the year.")
+        "but only with information from the biography. Doesn't state the year."
+    )
     year: int
     location: str
     emoji: str
 
+
 @gpt_function
-def _list_life_events(composer_biography: str, exclude_events: list[str]) -> list[LifeEvent]:
+async def _list_life_events(
+    composer_biography: str, exclude_events: list[str]
+) -> list[LifeEvent]:
     """List the composer's life events from the composer biography, excluding any event
     described in exclude_events. Return an empty list if there are no events.
     """
 
 
-def list_life_events_in_sections(data):
+async def list_life_events_in_sections(data):
     """List the composer's life events from the composer biography, excluding any event
     described in exclude_events. Return an empty list if there are no events.
     """
@@ -141,17 +149,16 @@ def list_life_events_in_sections(data):
         title = section["title"]
         text = f"{composer} - {title} - {section['content']}"
         past_events = [f"{e['year']} {e['title']}" for e in events]
-        section_events = _list_life_events(
+        section_events = await _list_life_events(
             composer_biography=text, exclude_events=past_events
         )
-        events += [{"section": title, **e} for e in section_events]
+        events += [{"section": title, **e.dict()} for e in section_events]
     return events
 
 
 @gpt_function(reasoning=True)
 async def _most_relevant_emoji(event: str, context: dict) -> str:
-    """Return the most relevant emoji for the given event
-    """
+    """Return the most relevant emoji for the given event"""
 
 
 @gpt_function(reasoning=True)
@@ -165,15 +172,18 @@ async def _add_fun_to_text(event_summary: str) -> str:
     Return the result of Step 4
     """
 
+
 async def add_fun_to_event(event):
     context = {**event}
     summary = context.pop("summary")
-    emoji = _most_relevant_emoji(event_summary=summary, context=context)
+    emoji = _most_relevant_emoji(event=summary, context=context)
     fun_version = _add_fun_to_text(event_summary=summary)
     return {**event, "emoji": await emoji, "fun_version": await fun_version}
 
+
 async def add_fun_to_events(events):
     return await asyncio.gather(*[add_fun_to_event(event) for event in events])
+
 
 class WorldEvent(BaseModel):
     title: str
@@ -181,7 +191,7 @@ class WorldEvent(BaseModel):
     year: int
     city: str
     country: str
-    
+
 
 @gpt_function
 async def _select_major_world_events(text) -> list[WorldEvent]:

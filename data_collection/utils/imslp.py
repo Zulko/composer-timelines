@@ -63,9 +63,9 @@ def _get_publication_year(work_html):
     return detect_year(year)
 
 
-def get_works_data_from_imslp(composer_data):
+async def get_works_data_from_imslp(composer_data):
     wikipedia_url = composer_data["wikipedia_url"]
-    wikipedia_html = cached_web_request(wikipedia_url)
+    wikipedia_html = await cached_web_request(wikipedia_url)
 
     imslp_url = _detect_imslp_url(wikipedia_html)
     if imslp_url is None:

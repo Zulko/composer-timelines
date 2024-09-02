@@ -15,18 +15,19 @@ import asyncio
 logging.basicConfig(level=logging.INFO)
 
 
-
-async def _collect_imslp_works(metadata):
+async def _collect_imslp_works(metadata, birth, death):
     logging.info("Getting works from IMSLP...")
-    works = utils.get_works_data_from_imslp(metadata)
+    works = await utils.get_works_data_from_imslp(metadata)
     works = [w for w in works if w["year"] and (birth <= w["year"] <= death)]
-    data["works"] = sorted(works, key=lambda w: (w["year"], w["title"]))
+    return sorted(works, key=lambda w: (w["year"], w["title"]))
 
-    
 
 async def _collect_life_events(metadata, birth, death):
+    return
     logging.info("Summarizing events in wikipedia page...")
-    wikipedia_sections = await utils.collect_wikipedia_page_and_separate_sections(metadata)
+    wikipedia_sections = await utils.collect_wikipedia_page_and_separate_sections(
+        metadata
+    )
     events = await utils.list_life_events_in_sections(wikipedia_sections)
     events = [e for e in events if e["year"] and (birth <= e["year"] <= death)]
 
@@ -38,8 +39,8 @@ async def _collect_life_events(metadata, birth, death):
         events.append({"year": death, "title": "Death"})
     return sorted(events, key=lambda e: (e["year"], e["title"]))
 
-async def add_composer(composer_name, target_folder):
 
+async def add_composer(composer_name, target_folder):
     target_folder = Path(target_folder)
     composer_list = target_folder / "composers.json"
     composers = utils.load_from_json(composer_list)
@@ -59,8 +60,7 @@ async def add_composer(composer_name, target_folder):
     # Collect events and works, in parallel
     events = _collect_life_events(metadata, birth, death)
     works = _collect_imslp_works(metadata)
-    data["events"] = await events
-    data["works"] = await works
+    data["events"], data["works"] = await asyncio.gather(events, works)
 
     logging.info(
         f"Collected {len(data['events'])} events {len(data['works'])} and works."
