@@ -63,7 +63,7 @@ async def add_composer(composer_name, target_folder):
     data["works"] = await works
 
     logging.info(
-        f"Collected {len(data['events'])} events {len(data["works"])} and works."
+        f"Collected {len(data['events'])} events {len(data['works'])} and works."
     )
 
     # Save data to disk

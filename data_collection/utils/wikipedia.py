@@ -1,6 +1,9 @@
 from gpt_function_decorator import gpt_function
-from .io_utils import cached_web_request
+from pydantic import BaseModel, Field
 from bs4 import BeautifulSoup
+
+from .io_utils import cached_web_request
+
 
 
 async def _get_wikipedia_url_from_search(term):
@@ -17,15 +20,15 @@ async def _get_wikipedia_url_from_search(term):
         print(f"No page found for {term}")
         return None
 
-class Composer(BaseModel)
+class Composer(BaseModel):
     first_names: str
     last_name: str
     birth_year: int
     death_year: int
 
 @gpt_function
-def composer_metadata(composer) -> Composer:
-    """Return data on {composer}"""
+async def composer_metadata(composer: str, info: str) -> Composer:
+    """Return data on {composer}, using the provided info."""
 
 
 async def get_basic_metadata_from_wikipedia(composer_data):
@@ -191,7 +194,10 @@ async def _select_major_world_events(text) -> list[WorldEvent]:
     """
 
 
-async def get_world_events(year) -> list[WorldEvent]:
+async def get_world_events(year_data) -> list[WorldEvent]:
+    # The year is provided as a dict as it will be read from JSON via our
+    # standardized `process_folder` function
+    year = year_data["year"]
     wikipedia_url = f"https://en.wikipedia.org/wiki/{year}"
     wikipedia_html = await cached_web_request(wikipedia_url)
     sections = _extract_sections_from_wikipedia_page(

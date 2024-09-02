@@ -14,7 +14,7 @@ To add a composer, all you need to do is add a `COMPOSER NAME.json` in `data/com
 This can be done by hand through your own research, or automated with ChatGPT via this script:
 
 ```bash
-# python3 -m pip install data_collection/requirements.txt
+# python3 -m pip install -r data_collection/requirements.txt
 python3 data_collection/add_composer.py --composer="Anatoly Lyadov" --target=public/data/
 ```
 

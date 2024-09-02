@@ -17,9 +17,10 @@
       ...Object.keys(worksByYear),
     ]);
 
-    // Find the minimum and maximum year
-    let minYear = Math.min(...allYearsSet);
-    let maxYear = Math.max(...allYearsSet);
+    // Convert years to numbers and find the minimum and maximum
+    let allYearsArray = Array.from(allYearsSet).map(Number);
+    let minYear = Math.min(...allYearsArray);
+    let maxYear = Math.max(...allYearsArray);
 
     // Generate a full range of years from min to max
     let allYears = [];

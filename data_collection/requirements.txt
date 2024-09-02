@@ -1,4 +1,5 @@
 requests_cache
+aiohttp-client-cache
 bs4
 fastprogress
 gpt_function_decorator

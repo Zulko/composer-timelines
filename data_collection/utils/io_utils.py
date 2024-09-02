@@ -1,18 +1,21 @@
 from pathlib import Path
 import json
 import time
+import asyncio
+
 from fastprogress import progress_bar
 import requests
 import aiohttp
-import asyncio
+
 from aiohttp_client_cache import CachedSession, SQLiteBackend
 
 cache_path = Path(__file__).parent / "web-cache"
 cache = SQLiteBackend(cache_name=cache_path)
-requests_cache_session = CachedSession(cache=cache)
+
 
 
 async def cached_web_request(url, params=None, response_type="html", sleep_after=0):
+    requests_cache_session = CachedSession(cache=cache)
     try:
         async with requests_cache_session as session:
             async with session.get(url, params=params) as response:
