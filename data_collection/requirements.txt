@@ -1,4 +1,4 @@
-requests_cache
+aiosqlite
 aiohttp-client-cache
 bs4
 fastprogress
