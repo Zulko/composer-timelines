@@ -2,6 +2,6 @@ aiosqlite
 aiohttp-client-cache
 bs4
 fastprogress
-gpt_function_decorator==0.2.0
+gpt_function_decorator==0.5
 lxml
 docopt
