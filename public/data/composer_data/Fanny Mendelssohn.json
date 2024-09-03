@@ -1,0 +1,244 @@
+{
+  "full_name": "Fanny Mendelssohn",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Fanny_Mendelssohn",
+  "first_names": "Fanny",
+  "last_name": "Mendelssohn",
+  "birth_year": 1805,
+  "death_year": 1847,
+  "events": [
+    {
+      "section": null,
+      "title": "Birth",
+      "summary": "Fanny Mendelssohn was born in Berlin, Germany. She was a significant figure in the early Romantic era as a composer and pianist.",
+      "year": 1805,
+      "location": "Berlin, Germany",
+      "emoji": "\ud83c\udf82",
+      "fun_version": "Fanny Mendelssohn popped into the world in Berlin, Germany, where the only thing more common than pretzels was talent. She rocked the early Romantic era, not just by hammering on the piano, but by composing tunes that made everyone say, \"Wow, I didn\u2019t know a girl could do that!\" If you ever felt like dancing like no one\u2019s watching, Fanny probably inspired that too\u2014just the kind of person who made music not just a hobby, but a full-blown party!"
+    },
+    {
+      "section": null,
+      "title": "Publication of Opus 1",
+      "summary": "Despite challenges from her family regarding her musical ambitions, Fanny Mendelssohn published a collection of songs as her Opus 1, showcasing her talent as a composer.",
+      "year": 1846,
+      "location": "",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Against all odds and a family that probably thought the only chords she should be hitting were the ones on a piano, Fanny Mendelssohn decided to publish a bunch of her songs as her Opus 1. It was like saying, 'Take that!' to the naysayers while simultaneously proving that her musical genius wasn\u2019t just noise in the family jam sessions. Who knew musical ambition could be such a family affair \u2013 or a family bear trap!"
+    },
+    {
+      "section": null,
+      "title": "Death",
+      "summary": "Fanny Mendelssohn passed away at the age of 41 after suffering from a stroke, closing a chapter of a talented musical legacy.",
+      "year": 1847,
+      "location": "",
+      "emoji": "\u26b0\ufe0f",
+      "fun_version": "Fanny Mendelssohn, after a brief but intense conversation with a stroke \u2014 and let\u2019s be honest, we all know the kind of discussions strokes are known for (spoiler: they\u2019re not great for your health) \u2014 left this world at the tender age of 41, thus closing the library book on a truly talented musical legacy that could have made Mozart jealous. It\u2019s a bit like the music industry lost a star just as she was about to put out her greatest hits album: what a shame!"
+    }
+  ],
+  "works": [
+    {
+      "title": "Klavierst\u00fcck",
+      "imslp_url": "https://imslp.org/wiki/Klavierst\u00fcck_(Hensel,_Fanny)",
+      "year": 1820
+    },
+    {
+      "title": "Ob deiner Wunderzeichen staunen",
+      "imslp_url": "https://imslp.org/wiki/Ob_deiner_Wunderzeichen_staunen_(Hensel,_Fanny)",
+      "year": 1821
+    },
+    {
+      "title": "Piano Quartet, H.55",
+      "imslp_url": "https://imslp.org/wiki/Piano_Quartet,_H.55_(Hensel,_Fanny)",
+      "year": 1822
+    },
+    {
+      "title": "Sehnsucht nach Italien",
+      "imslp_url": "https://imslp.org/wiki/Sehnsucht_nach_Italien_(Hensel,_Fanny)",
+      "year": 1822
+    },
+    {
+      "title": "Sonatensatz, H.44",
+      "imslp_url": "https://imslp.org/wiki/Sonatensatz,_H.44_(Hensel,_Fanny)",
+      "year": 1822
+    },
+    {
+      "title": "Adagio, H.72",
+      "imslp_url": "https://imslp.org/wiki/Adagio,_H.72_(Hensel,_Fanny)",
+      "year": 1823
+    },
+    {
+      "title": "Die liebe Farbe",
+      "imslp_url": "https://imslp.org/wiki/Die_liebe_Farbe_(Hensel,_Fanny)",
+      "year": 1823
+    },
+    {
+      "title": "3 Songs",
+      "imslp_url": "https://imslp.org/wiki/3_Songs_(Hensel,_Fanny)",
+      "year": 1824
+    },
+    {
+      "title": "Frage",
+      "imslp_url": "https://imslp.org/wiki/Frage_(Hensel,_Fanny)",
+      "year": 1824
+    },
+    {
+      "title": "Sonata o Capriccio, H.113",
+      "imslp_url": "https://imslp.org/wiki/Sonata_o_Capriccio,_H.113_(Hensel,_Fanny)",
+      "year": 1824
+    },
+    {
+      "title": "Feldlied, H.169",
+      "imslp_url": "https://imslp.org/wiki/Feldlied,_H.169_(Hensel,_Fanny)",
+      "year": 1826
+    },
+    {
+      "title": "Klavierbuch, H.214",
+      "imslp_url": "https://imslp.org/wiki/Klavierbuch,_H.214_(Hensel,_Fanny)",
+      "year": 1827
+    },
+    {
+      "title": "Prelude in E minor, H.214",
+      "imslp_url": "https://imslp.org/wiki/Prelude_in_E_minor,_H.214_(Hensel,_Fanny)",
+      "year": 1827
+    },
+    {
+      "title": "Capriccio, H.247",
+      "imslp_url": "https://imslp.org/wiki/Capriccio,_H.247_(Hensel,_Fanny)",
+      "year": 1829
+    },
+    {
+      "title": "Klavierst\u00fcck, H.229",
+      "imslp_url": "https://imslp.org/wiki/Klavierst\u00fcck,_H.229_(Hensel,_Fanny)",
+      "year": 1829
+    },
+    {
+      "title": "Klavierst\u00fcck, H.239",
+      "imslp_url": "https://imslp.org/wiki/Klavierst\u00fcck,_H.239_(Hensel,_Fanny)",
+      "year": 1829
+    },
+    {
+      "title": "Prelude in F major, H.242",
+      "imslp_url": "https://imslp.org/wiki/Prelude_in_F_major,_H.242_(Hensel,_Fanny)",
+      "year": 1829
+    },
+    {
+      "title": "Prelude in G major, H.243",
+      "imslp_url": "https://imslp.org/wiki/Prelude_in_G_major,_H.243_(Hensel,_Fanny)",
+      "year": 1829
+    },
+    {
+      "title": "Prelude in G major, H.244",
+      "imslp_url": "https://imslp.org/wiki/Prelude_in_G_major,_H.244_(Hensel,_Fanny)",
+      "year": 1829
+    },
+    {
+      "title": "Sonata o Fantasia, H.238",
+      "imslp_url": "https://imslp.org/wiki/Sonata_o_Fantasia,_H.238_(Hensel,_Fanny)",
+      "year": 1829
+    },
+    {
+      "title": "3 Lieder",
+      "imslp_url": "https://imslp.org/wiki/3_Lieder_(Hensel,_Fanny)",
+      "year": 1830
+    },
+    {
+      "title": "Fantasia in A-flat major, H.253",
+      "imslp_url": "https://imslp.org/wiki/Fantasia_in_A-flat_major,_H.253_(Hensel,_Fanny)",
+      "year": 1830
+    },
+    {
+      "title": "Prelude in A minor, H.251",
+      "imslp_url": "https://imslp.org/wiki/Prelude_in_A_minor,_H.251_(Hensel,_Fanny)",
+      "year": 1830
+    },
+    {
+      "title": "Overture in C major",
+      "imslp_url": "https://imslp.org/wiki/Overture_in_C_major_(Hensel,_Fanny)",
+      "year": 1832
+    },
+    {
+      "title": "String Quartet in E-flat major",
+      "imslp_url": "https://imslp.org/wiki/String_Quartet_in_E-flat_major_(Hensel,_Fanny)",
+      "year": 1834
+    },
+    {
+      "title": "There be none of beauty's daughters",
+      "imslp_url": "https://imslp.org/wiki/There_be_none_of_beauty's_daughters_(Hensel,_Fanny)",
+      "year": 1836
+    },
+    {
+      "title": "Ich wandelte unter den B\u00e4umen",
+      "imslp_url": "https://imslp.org/wiki/Ich_wandelte_unter_den_B\u00e4umen_(Hensel,_Fanny)",
+      "year": 1838
+    },
+    {
+      "title": "Notturno, H.337",
+      "imslp_url": "https://imslp.org/wiki/Notturno,_H.337_(Hensel,_Fanny)",
+      "year": 1838
+    },
+    {
+      "title": "6 Lieder, Op.7",
+      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.7_(Hensel,_Fanny)",
+      "year": 1839
+    },
+    {
+      "title": "Gondelfahrt, H.345",
+      "imslp_url": "https://imslp.org/wiki/Gondelfahrt,_H.345_(Hensel,_Fanny)",
+      "year": 1839
+    },
+    {
+      "title": "Klavierst\u00fcck, H.346",
+      "imslp_url": "https://imslp.org/wiki/Klavierst\u00fcck,_H.346_(Hensel,_Fanny)",
+      "year": 1840
+    },
+    {
+      "title": "Das Jahr, H.385",
+      "imslp_url": "https://imslp.org/wiki/Das_Jahr,_H.385_(Hensel,_Fanny)",
+      "year": 1841
+    },
+    {
+      "title": "Piano Sonata in G minor",
+      "imslp_url": "https://imslp.org/wiki/Piano_Sonata_in_G_minor_(Hensel,_Fanny)",
+      "year": 1843
+    },
+    {
+      "title": "4 Lieder for Piano, Op.2",
+      "imslp_url": "https://imslp.org/wiki/4_Lieder_for_Piano,_Op.2_(Hensel,_Fanny)",
+      "year": 1846
+    },
+    {
+      "title": "6 Lieder, Op.1",
+      "imslp_url": "https://imslp.org/wiki/6_Lieder,_Op.1_(Hensel,_Fanny)",
+      "year": 1846
+    },
+    {
+      "title": "Klavierst\u00fcck, H.459",
+      "imslp_url": "https://imslp.org/wiki/Klavierst\u00fcck,_H.459_(Hensel,_Fanny)",
+      "year": 1846
+    },
+    {
+      "title": "Nacht ist wie ein stilles Meer",
+      "imslp_url": "https://imslp.org/wiki/Nacht_ist_wie_ein_stilles_Meer_(Hensel,_Fanny)",
+      "year": 1846
+    },
+    {
+      "title": "3 M\u00e9lodies, Op.4",
+      "imslp_url": "https://imslp.org/wiki/3_M\u00e9lodies,_Op.4_(Hensel,_Fanny)",
+      "year": 1847
+    },
+    {
+      "title": "3 M\u00e9lodies, Op.5",
+      "imslp_url": "https://imslp.org/wiki/3_M\u00e9lodies,_Op.5_(Hensel,_Fanny)",
+      "year": 1847
+    },
+    {
+      "title": "4 Lieder for Piano, Op.6",
+      "imslp_url": "https://imslp.org/wiki/4_Lieder_for_Piano,_Op.6_(Hensel,_Fanny)",
+      "year": 1847
+    },
+    {
+      "title": "Gartenlieder, Op.3",
+      "imslp_url": "https://imslp.org/wiki/Gartenlieder,_Op.3_(Hensel,_Fanny)",
+      "year": 1847
+    }
+  ]
+}
