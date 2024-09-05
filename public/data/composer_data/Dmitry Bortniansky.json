@@ -1,0 +1,83 @@
+{
+  "full_name": "Dmitry Bortniansky",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dmitry_Bortniansky",
+  "first_names": "Dmitry",
+  "last_name": "Bortniansky",
+  "birth_year": 1751,
+  "death_year": 1825,
+  "events": [
+    {
+      "section": null,
+      "title": "Birth",
+      "summary": "Dmitry Bortniansky was born and came from Ukrainian Cossack origins, indicating his rich cultural background which influenced his musical career.",
+      "year": 1751,
+      "location": "Ukraine",
+      "emoji": "\ud83c\udfb6",
+      "fun_version": "Dmitry Bortniansky was born with a Ukrainian Cossack hat and musical notes dancing in his head, a combo so rich it could probably pay for its own orchestra! His Ukrainian Cossack roots must have made him the life of the party \u2013 imagine him at gatherings, serenading fellow Cossacks while horse-riding and composing symphonies like it\u2019s casually normal!"
+    },
+    {
+      "section": "Works",
+      "title": "Quintet for Instruments",
+      "summary": "Bortniansky also composed a Quintet for Piano, Harp, Violin, Viola da gamba, and Cello, indicating his engagement with chamber music.",
+      "year": 1787,
+      "location": "Not specified",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "Bortniansky composed a Quintet for Piano, Harp, Violin, Viola da gamba, and Cello, which is a fancy way of saying he threw a party for five instruments and only invited the coolest guests! It\u2019s like an exclusive chamber music concert where the instruments bring their own snacks and try to outshine each other in talent. Maybe he just wanted to see if a harp could hang out with a cello without causing too much drama!"
+    },
+    {
+      "section": "Works",
+      "title": "Concerto-Symphony Composition",
+      "summary": "He composed a Concerto-Symphony for various instruments, showcasing his versatility and creativity in orchestral music, which highlighted his contributions to the Russian classical music scene.",
+      "year": 1790,
+      "location": "Not specified",
+      "emoji": "\ud83c\udfbc",
+      "fun_version": "He whipped up a Concerto-Symphony for a whole orchestra of instruments, showing off his musical talents like a peacock at a talent show. It was so versatile and creative that even the violins started doing jazz hands! This masterpiece really made a splash in the Russian classical music scene\u2014so much so that the instruments are now seeking management!"
+    },
+    {
+      "section": "Biography",
+      "title": "Death and Burial",
+      "summary": "Bortniansky died in St. Petersburg and was interred at the Smolensky Cemetery, with his remains later transferred to the Alexander Nevsky Monastery in the 20th century.",
+      "year": 1825,
+      "location": "St. Petersburg",
+      "emoji": "\u26b0\ufe0f",
+      "fun_version": "Bortniansky, the famed composer, took his final bow in St. Petersburg, where he was laid to rest in Smolensky Cemetery. But hold onto your hats! In a plot twist that would make any movie producer proud, his remains were literally upgraded to the Alexander Nevsky Monastery in the 20th century\u2014because even in the afterlife, you\u2019ve got to have a good view! Who needs a final resting place when you can have a prime location instead?"
+    }
+  ],
+  "works": [
+    {
+      "title": "Harpsichord Concerto in D major",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Concerto_in_D_major_(Bortniansky,_Dmytro)",
+      "year": 1775
+    },
+    {
+      "title": "Harpsichord Sonata in C major",
+      "imslp_url": "https://imslp.org/wiki/Harpsichord_Sonata_in_C_major_(Bortniansky,_Dmytro)",
+      "year": 1784
+    },
+    {
+      "title": "Larghetto",
+      "imslp_url": "https://imslp.org/wiki/Larghetto_(Bortniansky,_Dmytro)",
+      "year": 1790
+    },
+    {
+      "title": "Sinfonia Concertante in B-flat major",
+      "imslp_url": "https://imslp.org/wiki/Sinfonia_Concertante_in_B-flat_major_(Bortniansky,_Dmytro)",
+      "year": 1790
+    },
+    {
+      "title": "Ehre sei Gott in der H\u00f6he",
+      "imslp_url": "https://imslp.org/wiki/Ehre_sei_Gott_in_der_H\u00f6he_(Bortniansky,_Dmytro)",
+      "year": 1800
+    },
+    {
+      "title": "Vesper Hymn",
+      "imslp_url": "https://imslp.org/wiki/Vesper_Hymn_(Bortniansky,_Dmytro)",
+      "year": 1818
+    },
+    {
+      "title": "Kol slaven",
+      "imslp_url": "https://imslp.org/wiki/Kol_slaven_(Bortniansky,_Dmytro)",
+      "year": 1822
+    }
+  ]
+}
